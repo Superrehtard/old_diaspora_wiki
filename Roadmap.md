@@ -8,9 +8,9 @@ GEMS:  if you are adding to diaspora, and want to maximize the speed of getting 
 
 # Diaspora Roadmap and Wishlist
 
-Our roadmap is the mission critical features that given enough time, we will develop them ourselves.  You are welcome to try and tackle one of these problems, and it would be awesome if you consulted Raphael and let him know how you may be planning on tackling the problem.
-
 You can see what we are currently working on here, on Diaspora’s Tracker. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
+
+Our roadmap is the mission critical features that given enough time, we will develop them ourselves.  You are welcome to try and tackle one of these problems, and it would be awesome if you checked Tracker and the network tree to make sure no work is being duplicated.
 
 ## Near Future
 - data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
