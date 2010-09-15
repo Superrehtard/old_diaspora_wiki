@@ -1,6 +1,6 @@
 # Diaspora Roadmap and Wishlist
 
-You can see what we are currently working on here, on Diaspora’s Tracker. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
+You can see what we are currently working on [[here, on Diaspora’s Tracker|http://www.pivotaltracker.com/projects/61641]]. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
 
 Our roadmap is the mission critical features that given enough time, we will develop them ourselves.  You are welcome to try and tackle one of these problems, and it would be awesome if you checked Tracker and the network tree to make sure no work is being duplicated.
 
