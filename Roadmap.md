@@ -12,7 +12,7 @@ Our roadmap is the mission critical features that given enough time, we will dev
 
 You can see what we are currently working on here, on Diaspora’s Tracker. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
 
-# Near Future
+## Near Future
 
 data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
 
@@ -44,7 +44,7 @@ some sort of an administrator interface that would do the entire update automati
 
 
 
-# Wishlist
+## Wishlist
 These are things which would be nice to have, and are not currently in our plan, but we would love to have them.
 
 An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS on a status message before sending it out to your friends. (see gmail undo)
