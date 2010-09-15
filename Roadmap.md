@@ -64,11 +64,9 @@ double checking our salmon implementation.... is it up to spec?
 test test tests: we have an fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
 -- selenium tests that hit every page would be super nice, the framework for this is started and can be found in test/selenium
 
-support for Devise(master) for MongoMapper 
-	-- We’re currently using BadMinus’ fork
+support for Devise(master) for MongoMapper (We’re currently using BadMinus’ fork)
 
-support for CarrierWave(master) for MongoMapper
-	-- We’re currently using Raphael’s fork
+support for CarrierWave(master) for MongoMapper (We’re currently using Raphael’s fork)
 
 
 Running Diaspora from home:
