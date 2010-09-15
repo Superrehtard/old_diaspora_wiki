@@ -1,11 +1,3 @@
-# Commit Guidlines
-You are welcome to contribute, add and extend Diaspora however you see fit.  We will do our best to incorporate everything that meets our guidelines.
-
-All commits must be tested, and after each commit, all tests should be green before a pull request is sent.  Please write your tests in Rspec or Test-Unit, (depending on the functionality) so we can minimize diaspora’s requirements.
-
-GEMS:  if you are adding to diaspora, and want to maximize the speed of getting pulled back in, please use the libraries we are already using in the application  ie: Nokogiri for XML parsing, MongoMapper for database querying, EM:HttpRequest for http requests etc etc.  We currently have a few duplicate libraries which we used for the sake of “making it green”, but this duplication is high on our “wanted refactors” list.
-
-
 # Diaspora Roadmap and Wishlist
 
 You can see what we are currently working on here, on Diaspora’s Tracker. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
