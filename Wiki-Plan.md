@@ -7,5 +7,7 @@ We should layout some goals for the wiki. What scope should it have etc.
 
 **To Do**
 
+** Installation instructions ** -- yes, I know they are elsewhere, too.
+
 *Please add pages you would like added, including a brief outline of the scope of that page.*
 
