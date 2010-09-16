@@ -19,7 +19,7 @@ Production is what we were using and updating, maybe bi weekly for a few advisor
 
 ***Tips to actually get this to run?***<br>
 
-* [Webfinger patch](http://github.com/diaspora/diaspora/issues/issue/83/#issue/83/comment/411202) (unofficial, may need updating).
+* [Webfinger patch](http://github.com/diaspora/diaspora/issues/issue/83/#issue/83/comment/411202) (unofficial, may no longer be relevant with the latest commit).
 stop thin, apply patch, reset mongodb (cd mongodb-linux-i686-1.6.2/bin;./mongo diaspora-development <db.dropDatabase()> , restart thin <br>
 * Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  Commandline switch is -p 80.<br>
 * Your server must also have 8080 available for websockets.
@@ -42,3 +42,14 @@ To watch the dev log.  *If there is any way to get more verbose, detailed debug 
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
 Quick answer: If you remove "registerable" from app/models/user.rb it will remove the "Sign up" link on the login page.
+
+***How do I pull and run the latest source and/or clean the database?***<br>
+Pull the latest from github:
+    git pull
+Install any updates to the bundle:
+    bundle install
+Recompile:
+    rake
+Clean the database:
+    mongo diaspora-development
+    > db.dropDatabase()
