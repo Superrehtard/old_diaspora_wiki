@@ -24,7 +24,7 @@ Production is what we were using and updating, maybe bi weekly for a few advisor
 
 [Webfinger patch](http://github.com/diaspora/diaspora/issues/issue/83/#issue/83/comment/411202) (unofficial, may need updating)
 
-[Registration patch for error 'undefined method `receive_url' for nil:NilClass'](http://github.com/diaspora/diaspora/issuesearch?state=open&q=url#issue/14/comment/411064)
+[Registration patch for error 'undefined method `receive_url' for nil:NilClass'](http://github.com/diaspora/diaspora/issuesearch?state=open&q=url#issue/14/comment/411064) (unofficial)
 
 Your server must be on port 80, or you must forward 80 to 3000, or friend requests will cause lockups on other servers.  Commandline switch is -p 80.
 
