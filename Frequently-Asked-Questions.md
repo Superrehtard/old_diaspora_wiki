@@ -30,4 +30,8 @@ Your server must be on port 80, or you must forward 80 to 3000.  Otherwise frien
 
 Your server must also have 8080 available for websockets.
 
+***Installing on other distros?***
+
+[Unofficial guide for Arch Linux installation](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)
+
 
