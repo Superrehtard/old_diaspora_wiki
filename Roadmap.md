@@ -10,7 +10,7 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Internationalization using I18n: We need to move our text out to locale files so that we can get Diaspora translated.  It would be a shame if you couldn’t use Diaspora in Greek.
 - In order to scale app-servers horizontally, we need to break the websocket server into a different process and store its session info in the database.
 - Server to server authentication:  Right now Diaspora is push-only.  We need servers to be able to authenticate to each other in order to pull data in, and to delegate that authentication to the browser to avoid replicating large files like photos.
-- Refining aspects (adding people to multiple groups, having people only in the public group, ect) 
+- Refining aspects (adding people to multiple groups, having people only in the public group, etc) 
 
 ## Medium Priority
 - More Standards compliance: we believe in working code before standards, but being standards compliant is very important to us.  We need to bust our own chops on this one, and If you see any low hanging fruit, by all means let us know, and we will get to it when when it makes sense with a feature.
