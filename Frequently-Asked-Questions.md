@@ -14,4 +14,4 @@ Yes. The following are the official Diaspora demo instances:
 
 To create a new account, go to:
 
-[[http://yourdiasporainstance.com/get_to_the_choppa]] (replacing *yourdiasporainstance.com* with the the host name of your seed).
+[[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your seed).
