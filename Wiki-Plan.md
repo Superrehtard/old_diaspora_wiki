@@ -16,5 +16,7 @@ We should layout some goals for the wiki. What scope should it have etc.
 * Backup & Disaster Recovery -- tips/tricks/how-tos
 * Security optimisation (testing/fuzzing tools to audit Diaspora security such as Ronin: http://bit.ly/96Bex1)
 
+* Scalability - how-tos etc., getting ready for large scale solutions / systems i.e. 1000s of nodes (http://highscalability.com/)
+
 *Please add pages you would like added, including a brief outline of the scope of that page.*
 
