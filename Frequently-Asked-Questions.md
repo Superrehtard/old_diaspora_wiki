@@ -29,3 +29,8 @@ Production is what we were using and updating, maybe bi weekly for a few advisor
 
 ***What is a *seed*?***<br>
 A seed is a HTTP server (a webserver) where Diaspora is running. There are several seed which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seed and communicate with them. 
+
+***Debug information?***<br>
+You can use the command<br>
+    tail -f log/development.log
+To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
