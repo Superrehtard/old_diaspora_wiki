@@ -3,21 +3,20 @@
 ## Install Passenger Module for Apache
 From http://www.modrails.org/install.php
 
-                gem install passenger
-                passenger-install-apache2-module
-                passenger-install-nginx-module
-
+gem install passenger
+passenger-install-apache2-module
+passenger-install-nginx-module
 
 The installer will walk you through any dependencies you need ahead of time and once you've installed those it will do all the heavy lifting outside of your apache config and vhosts, so let's do those:
 
 # Load module in Apache Config
 *My default apache config file is /etc/apache2/apache2.conf and I just appended the module settings to the end of the file:*
 
-                LoadModule passenger_module /somewhere/passenger-x.x.x/ext/apache2/mod_passenger.so
+LoadModule passenger_module /somewhere/passenger-x.x.x/ext/apache2/mod_passenger.so
 
-                PassengerRuby /usr/bin/ruby
-                PassengerRoot /somewhere/passenger/x.x.x
-                PassengerMaxPoolSize 10
+PassengerRuby /usr/bin/ruby
+PassengerRoot /somewhere/passenger/x.x.x
+PassengerMaxPoolSize 10
 
 # Create vhost
 Once you've installed and loaded Passenger, you just need to setup a vhost like any other website.
