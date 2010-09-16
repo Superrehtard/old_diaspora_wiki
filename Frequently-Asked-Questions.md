@@ -41,4 +41,4 @@ You can use the command<br>
 To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
-Quick answer: If you remove "registrable" from app/models/user.rb it will remove the "Sign up" link on the login page.
+Quick answer: If you remove "registerable" from app/models/user.rb it will remove the "Sign up" link on the login page.
