@@ -22,17 +22,17 @@ The installer will walk you through any dependencies you need ahead of time and 
 # Create vhost
 Once you've installed and loaded Passenger, you just need to setup a vhost like any other website.
 
-&lt;VirtualHost&gt;
+<VirtualHost *:80>
         ServerAdmin     clay@bychosen.com
         ServerName      diaspor.us
         ServerAlias     www.diaspor.us
         DocumentRoot    "/var/www/diaspora/public"
-          &lt;Directory "/var/www/diaspora/public"&gt;
+          <Directory "/var/www/diaspora/public">
             Allow from all
             AllowOverride all
             Options -MultiViews
-          &lt;/Directory&gt;
-&lt;/VirtualHost&gt;
+          </Directory>
+</VirtualHost>
 
 # Stop thin, restart apache
 Then stop the thin server (have to cd to your diaspora directory and execute) and restart Apache:
