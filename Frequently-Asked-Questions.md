@@ -20,9 +20,10 @@ To create a new account, go to:
 
 Production is what we were using and updating, maybe bi weekly for a few advisors and friends and such, at this point its not that much different, other than it runs in production mode as default rather than in dev mode.
 
-***Tips to actually get this to run***
+***Tips to actually get this to run?***
 
 [Webfinger patch](http://github.com/diaspora/diaspora/issues/issue/83/#issue/83/comment/411202) (unofficial, may need updating)
+
 [Registration patch for error 'undefined method `receive_url' for nil:NilClass'](http://github.com/diaspora/diaspora/issuesearch?state=open&q=url#issue/14/comment/411064)
 
 Your server must be on port 80, or you must forward 80 to 3000, or friend requests will cause lockups on other servers.  Commandline switch is -p 80.
