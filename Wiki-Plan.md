@@ -12,6 +12,7 @@ We should layout some goals for the wiki. What scope should it have etc.
 * Installation instructions -- yes, I know they are elsewhere, too.
 * Unit tests -- tests/ui is referenced but missing
 * API -- documentation / wishlist for an API (see http://scr.bi/d4XGx5)
+* Data migration  -- migrating data from other silos (such as Facebook) / ideas that will also relate to http://blog.dataportability.org/
 * Backup & Disaster Recovery -- tips/tricks/how-tos
 * Security optimisation (testing/fuzzing tools to audit Diaspora security such as Ronin: http://bit.ly/96Bex1)
 
