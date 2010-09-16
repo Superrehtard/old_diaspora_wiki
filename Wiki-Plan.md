@@ -9,5 +9,6 @@ We should layout some goals for the wiki. What scope should it have etc.
 
 * Installation instructions -- yes, I know they are elsewhere, too.
 * Unit tests -- tests/ui is referenced but missing
+
 *Please add pages you would like added, including a brief outline of the scope of that page.*
 
