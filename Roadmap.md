@@ -29,15 +29,15 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Full activity streams parser and sterilizer, based off the spec, which gives you ruby objects for valid streams (the easy solution would probably make methods in our models to_activity and from_activity)
 - Private pubsubhubbub implementation, check out both the “from” and “oauth” authentication methods. (note maxwell: i may have some code to dump onto the Internet, i need to write some more tests)
 - Double checking our salmon implementation.... is it up to spec?
-- Test test tests: we have an fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
-- Selenium tests that hit every page would be super nice, the framework for this is started and can be found in test/selenium
+- Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
+- Selenium tests that hit every page would be super nice. The framework for this is started and can be found in test/selenium
 - Support for Devise(master) for MongoMapper (We’re currently using BadMinus’ fork)
 - Support for CarrierWave(master) for MongoMapper (We’re currently using Raphael’s fork)
 - Option to have a performant data on disk encryption
 - Make our MessageQueue abstracted from the rest of the application, so any queue can be plugged in and used.
 
 - A DHT (distributed hash table) to serve as a directory of Diaspora Users/seeds installed over the internet to help with discovery.
-enhance our websocket controller: perhaps break it out so other rails projects have a framework for using it?
+- enhance our websocket controller: perhaps break it out so other rails projects ? have a framework for using it?
 - Chat client integration using web sockets?
 - Other crazy Websocket experiments: We are just using it to push data to the client, but can we use it to connect people or two seeds for real time games?
 
