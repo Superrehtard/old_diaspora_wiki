@@ -4,7 +4,7 @@ If you have other questions, please try #diaspora on irc.freenode.net.
 
 ***Are there any public demo servers of Diaspora online that I can try?***
 
-Yes. The following are the official Diaspora demo instances:
+Yes. The following are the official Diaspora demo instances, which will be wiped of all content a regular and unpredictable interval:
 
 [[http://tom.joindiaspora.com]]<br>
 [[http://washington.joindiaspora.com]]<br>
