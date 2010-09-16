@@ -35,3 +35,5 @@ Your server must also have 8080 available for websockets.
 [Unofficial guide for Arch Linux installation](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)
 
 
+***What is a *seed*?***
+A seed is a HTTP server (a webserver) where Diaspora is running. There are several seed which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seed and communicate with them. 
