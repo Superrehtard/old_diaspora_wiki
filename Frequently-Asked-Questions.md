@@ -4,9 +4,9 @@ If you have other questions, please try #diaspora on irc.freenode.net.
 
 ***Are there any public demo servers of Diaspora online that I can try?***<br>
 Yes. The following are the official Diaspora demo instances, which will be wiped of all content at regular and unpredictable intervals:
-* [[http://tom.joindiaspora.com]]
-* [[http://washington.joindiaspora.com]]
-* [[http://adams.joindiaspora.com]]
+* [[http://tom.joindiaspora.com]]<br>
+* [[http://washington.joindiaspora.com]]<br>
+* [[http://adams.joindiaspora.com]]<br>
 
 ***How do I get past the login page when I don't have an account yet?***<br>
 To create a new account, go to:
