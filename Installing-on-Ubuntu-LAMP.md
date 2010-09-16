@@ -3,9 +3,11 @@
 ## Install Passenger Module for Apache
 From http://www.modrails.org/install.php
 
-  gem install passenger
-  passenger-install-apache2-module
-  passenger-install-nginx-module
+<pre>
+gem install passenger
+passenger-install-apache2-module
+passenger-install-nginx-module
+</pre>
 
 The installer will walk you through any dependencies you need ahead of time and once you've installed those it will do all the heavy lifting outside of your apache config and vhosts, so let's do those:
 
