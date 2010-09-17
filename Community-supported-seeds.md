@@ -14,10 +14,10 @@ If the image is shown, the seed is online at the moment.
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
-    * Maintained by: private individual
+    * Maintained by: [[http://alisonw.info alisonw]], a pseudo-private individual
         * [[http://github.com/alisonw]]
-    * Operating system:
-    * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning
+    * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (4-core XEON rack server) maintained by [[http://markyate.net]]
+    * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'development' options available.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
