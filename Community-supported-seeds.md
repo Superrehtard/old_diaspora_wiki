@@ -27,6 +27,14 @@ If the image is shown, the seed is online at the moment.
     * Operating system:
     * Comments: Development, should be up 90% of the time, database may be reset if needed
 
+* [[http://diaspora.digitalinsanity.de]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
+    * Opened: 16/09/2010
+    * Updated: Daily
+    * Maintained by a private person
+        * [[http://github.com/arrakaij]]
+    * Operating system: Linux
+    * Comments: Preview & Development, database reset if needed
+
 -------------
 
 ** THIS IS A TEMPLATE! **
