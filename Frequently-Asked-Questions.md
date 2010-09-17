@@ -61,6 +61,8 @@ Clean the database:
 
 ***i'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***
 Close the port, make it do connection refused, not timeout.
+(disclaimer: hope this doesnt screw up anyone)
+<james_> On Ubuntu: sudo ufw enable, sudo ufw reject 443 (, sudo reboot?)
 
 ***But i have apache running already and i want no passengers!***<br>
 (disclaimer: apache noob advice)
