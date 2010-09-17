@@ -1,5 +1,10 @@
 *This wiki picks up where the Diaspora wiki leaves off, so it's assumed you already have a working seed and can view it at yourdomain.com:3000 and would like to managed by apache instead of thin.*
 
+## Install Apache development package
+<pre>
+sudo apt-get install apache2-dev
+</pre>
+
 ## Install Passenger Module for Apache
 From http://www.modrails.org/install.php
 
