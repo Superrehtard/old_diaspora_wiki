@@ -7,8 +7,8 @@ If the image is shown, the seed is online at the moment.
     * Updated: Every 2 hours, but service restarted roughly daily
     * Maintained by: private individual
         * [[http://github.com/freedenizen]]
-    * Operating system:
-    * Comments: Development, should be up 90% of the time, database may be reset if needed
+    * Operating system: Gentoo
+    * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
 * [[http://diaspora.digitalinsanity.de]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
