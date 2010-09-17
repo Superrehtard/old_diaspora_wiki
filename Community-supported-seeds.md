@@ -2,7 +2,7 @@ Here's a list of seeds ran by the Diaspora community members.
 Please add yours to the correct location in alphabetical order.
 If the image is shown, the seed is online at the moment.
 
-* [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=40px|]]
+* [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=30px|]]
     * Opened: 17.09.2010
     * Updated:~ weekly
     * Maintained by a private person
@@ -11,7 +11,7 @@ If the image is shown, the seed is online at the moment.
     * Operating system: Mac OS X
     * Comments: Only online on the day, only for test purposes
 
-* [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=40px|]]
+* [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
     * Maintained by: private individual
@@ -19,7 +19,7 @@ If the image is shown, the seed is online at the moment.
     * Operating system:
     * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning
 
-* [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=40px|]]
+* [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Every 2 hours, but service restarted roughly daily
     * Maintained by: private individual
@@ -31,7 +31,7 @@ If the image is shown, the seed is online at the moment.
 
 ** THIS IS A TEMPLATE! **
 
-* [[http://diasporatemplate.com]] [[http://diasporatemplate.com/images/user/default.jpg|height=40px|]]
+* [[http://diasporatemplate.com]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
     * Opened: 
     * Updated: Daily/weekly/monthly/never
     * Maintained by a private person
