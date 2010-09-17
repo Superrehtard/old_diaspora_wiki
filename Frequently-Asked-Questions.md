@@ -66,5 +66,3 @@ Close the port, make it do connection refused, not timeout.
 (disclaimer: apache noob advice)
 apache config:
 http://codepaste.net/yzkngy
-(duplicate:)
-http://pastie.org/1165791
