@@ -1,4 +1,4 @@
-This page documents questions that are frequently being asked in relation to the installation and use of Diaspora.
+This page documents questions that are being frequently asked in relation to the installation and use of Diaspora.
 
 If you have other questions, please try #diaspora on irc.freenode.net.
 
@@ -25,9 +25,9 @@ Production is what we were using and updating, maybe bi-weekly for a few advisor
 * Installing with apache? See the [Installing on Ubuntu LAMP guide](http://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu-LAMP) or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41)
 
 ***Command line options for launching Diaspora's thin http server?***<br>
-There are a couple helpful command line options for setting the address and port for thin:
+There are a couple of helpful command line options for setting the address and port for thin:
     bundle exec thin -a <address> -p <port> start
-**Note:** If you are running Diaspora on port 80, the command above needs to be execuded as root, that is with su or sudo in front of it. eg. On Ubuntu, Arch et al. "sudo bundle exec thin -p 80 start"
+**Note:** If you are running Diaspora on port 80, the command above needs to be executed as root, that is with su or sudo in front of it. eg. On Ubuntu, Arch et al. "sudo bundle exec thin -p 80 start"
 
 **-D** will turn on debug mode.  Run **thin -h** to see a complete list.
 
@@ -37,7 +37,7 @@ There are a couple helpful command line options for setting the address and port
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
 
 ***What is a *seed*?***<br>
-A seed is a HTTP server (a webserver) where Diaspora is running. There are several seed which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seed and communicate with them. 
+A seed is an HTTP server (a webserver) where Diaspora is running. There are several seeds which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seeds and communicate with them. 
 
 ***Debug information?***<br>
 You can use the command<br>
@@ -45,7 +45,7 @@ You can use the command<br>
 To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
-Quick answer: If you remove "registerable" from app/models/user.rb it will remove the "Sign up" link on the login page.
+Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
 
 ***How do I pull and run the latest source and/or clean the database?***<br>
 Pull the latest from github:
