@@ -26,6 +26,8 @@ Production is what we were using and updating, maybe bi-weekly for a few advisor
 ***Command line options for launching Diaspora's thin http server?***<br>
 There are a couple helpful command line options for setting the address and port for thin:
     bundle exec thin -a <address> -p <port> start
+**Note:** If you are running Diaspora on port 80, the command above needs to be execuded as root, that is with su or sudo in front of it. eg. On Ubuntu, Arch et al. "sudo bundle exec thin -p 80 start"
+
 **-D** will turn on debug mode.  Run **thin -h** to see a complete list.
 
 ***Installing on other distros?***<br>
