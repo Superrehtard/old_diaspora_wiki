@@ -30,8 +30,8 @@ There are a couple helpful command line options for setting the address and port
 **-D** will turn on debug mode.  Run **thin -h** to see a complete list.
 
 ***Installing on other distros?***<br>
-[Unofficial guide for Arch Linux installation](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)
-[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
+* [Unofficial guide for Arch Linux installation](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)
+* [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
 
 ***What is a *seed*?***<br>
 A seed is a HTTP server (a webserver) where Diaspora is running. There are several seed which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seed and communicate with them. 
