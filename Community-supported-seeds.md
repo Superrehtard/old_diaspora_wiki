@@ -7,7 +7,7 @@ If the image is shown, the seed is online at the moment.
     * Updated:~ weekly
     * Maintained by a private person
         * IRC/Freenode: datagutt
-        * datagutt@lekanger.no
+        * [[http://github.com/datagutt]]
     * Comments: Only online on the day, only for test purposes
 
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=40px|]]
