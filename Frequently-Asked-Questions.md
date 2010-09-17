@@ -34,6 +34,7 @@ There are a couple of helpful command line options for setting the address and p
 ***Installing on other distros?***<br>
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
+Also, there is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) (but it needs some tweaking)<br>
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
 
 ***What is a *seed*?***<br>
