@@ -10,7 +10,7 @@ If the image is shown, the seed is online at the moment.
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
-* [[http://diaspora.digitalinsanity.de]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
     * Maintained by a private person
