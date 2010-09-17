@@ -30,7 +30,8 @@ There are a couple helpful command line options for setting the address and port
 **-D** will turn on debug mode.  Run **thin -h** to see a complete list.
 
 ***Installing on other distros?***<br>
-[Unofficial guide for Arch Linux installation](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
+[Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
+[Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
 
 ***What is a *seed*?***<br>
