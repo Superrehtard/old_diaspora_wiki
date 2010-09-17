@@ -58,3 +58,6 @@ Recompile:
 Clean the database:
     mongo diaspora-development
     > db.dropDatabase()
+
+***i'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***
+Close the port, make it do connection refused, not timeout.
