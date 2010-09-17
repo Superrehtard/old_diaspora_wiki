@@ -21,7 +21,7 @@ Production is what we were using and updating, maybe bi-weekly for a few advisor
 ***What ports does Diaspora need available for communication?***<br>
 
 * Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  See commandline switches below.
-* Your server must also have 8080 available for websockets.
+* Your server must also have 8080 available for websockets.  [Websockets](http://en.wikipedia.org/wiki/WebSockets) are how the browser talks in 'real time' to the server.
 * Installing with apache? See the [Installing on Ubuntu LAMP guide](http://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu-LAMP) or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41)
 
 ***Command line options for launching Diaspora's thin http server?***<br>
