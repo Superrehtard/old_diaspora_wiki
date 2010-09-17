@@ -1,0 +1,1 @@
+Installing Diaspora from scratch
