@@ -44,7 +44,7 @@ If the image is shown, the seed is online at the moment.
     * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (4-core XEON rack server) maintained by [[http://markyate.net]]
     * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'development' options available.
 
-* [[http://openspora]] (twitter: [[http://twitter.com/openspora]]) [[http://openspora/images/user/default.jpg|height=30px|]]
+* [[http://openspora.com]] (twitter: [[http://twitter.com/openspora]]) [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 15/09/2010
     * Updated: As changes in the official repository become stable
     * Maintainer
