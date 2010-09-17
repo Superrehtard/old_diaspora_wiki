@@ -7,7 +7,7 @@ If the image is shown, the seed is online at the moment.
     * Updated:~ weekly
     * Maintained by a private person
         * IRC/Freenode: datagutt
-        * datagutt@lekanger.no
+        * [[http://github.com/datagutt]]
     * Operating system: Mac OS X
     * Comments: Only online on the day, only for test purposes
 
