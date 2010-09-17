@@ -8,7 +8,7 @@ If the image is shown, the seed is online at the moment.
     * Maintained by a private person
         * IRC/Freenode: datagutt
         * datagutt@lekanger.no
-    * Operating system:
+    * Operating system: Mac OS X
     * Comments: Only online on the day, only for test purposes
 
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=40px|]]
