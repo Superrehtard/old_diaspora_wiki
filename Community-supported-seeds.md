@@ -1,13 +1,5 @@
 Here's a list of seeds ran by the Diaspora community members. Please add yours to the alphabetically correct location. The image shows if the seed is online.
 
-* [[http://www.exampleseed.com]] [[http://exampleseed.com/images/user/default.jpg|height=40px|]]
-    * Opened: 17.09.2010
-    * Updated: ~daily
-    * Maintained by a private person
-        * IRC/Freenode: maintainer
-        * main@tainer.com
-    * Feel free to try but remember that the database is dropped every now and then for devel purposes..
-
 * [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=40px|]]
     * Opened: 17.09.2010
     * Updated:~ weekly
