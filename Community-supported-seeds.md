@@ -1,4 +1,6 @@
-Here's a list of seeds ran by the Diaspora community members. Please add yours to the alphabetically correct location. The image shows if the seed is online.
+Here's a list of seeds ran by the Diaspora community members.
+Please add yours to the correct location in alphabetical order.
+If the image is shown, the seed is online at the moment.
 
 * [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=40px|]]
     * Opened: 17.09.2010
