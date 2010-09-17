@@ -17,12 +17,10 @@ To create a new account, go to:
 *** Whats the diference between production and master branches?***<br>
 Production is what we were using and updating, maybe bi weekly for a few advisors and friends and such, at this point its not that much different, other than it runs in production mode as default rather than in dev mode.
 
-***Tips to actually get this to run?***<br>
-
-* (no longer necessary)[Webfinger patch](http://github.com/diaspora/diaspora/issues/issue/83/#issue/83/comment/411202) (unofficial, may no longer be relevant with the latest commit).
-stop thin, apply patch, reset mongodb (cd mongodb-linux-i686-1.6.2/bin;./mongo diaspora-development <db.dropDatabase()> , restart thin <br>
-* Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  Commandline switch is -p 80.<br>
+***What ports does Diaspora need available for communication?***<br>
+* Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  See commandline switches below.
 * Your server must also have 8080 available for websockets.
+* Installing with apache? See the [Installing on Ubuntu LAMP guide](http://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu-LAMP) or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41)
 
 ***Command line options for launching Diaspora's thin http server?***<br>
 There are a couple helpful command line options for setting the address and port for thin:
