@@ -9,6 +9,7 @@ Yes. The following are the official Diaspora demo instances, which will be wiped
 * [[http://washington.joindiaspora.com]]
 * [[http://adams.joindiaspora.com]]
 
+You can check the version of these seeds when you click "DEBUG INFO" at the very bottom of each page. There the commit id and commit date is noted.
 
 ***How do I get past the login page when I don't have an account yet?***<br>
 To create a new account, go to:
