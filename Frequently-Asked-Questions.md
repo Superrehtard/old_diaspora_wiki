@@ -14,8 +14,8 @@ Yes. The following are the official Diaspora demo instances, which will be wiped
 To create a new account, go to:
 [[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your seed).
 
-*** Whats the diference between production and master branches?***<br>
-Production is what we were using and updating, maybe bi weekly for a few advisors and friends and such, at this point its not that much different, other than it runs in production mode as default rather than in dev mode.
+*** What's the difference between production and master branches?***<br>
+Production is what we were using and updating, maybe bi-weekly for a few advisors and friends and such. At this point its not that much different, other than it runs in production mode as default rather than in dev mode.
 
 ***What ports does Diaspora need available for communication?***<br>
 
