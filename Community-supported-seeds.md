@@ -10,7 +10,7 @@ If the image is shown, the seed is online at the moment.
         * datagutt@lekanger.no
     * Comments: Only online on the day, only for test purposes
 
-* [[http://openlinkup.com]] or [[http://84.45.170.221]] [[http://84.45.170.221/images/user/default.jpg|height=40px|]]
+* [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=40px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
     * Maintained by: private individual
