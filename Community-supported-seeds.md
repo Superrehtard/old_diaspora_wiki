@@ -1,4 +1,4 @@
-Here's a list of seeds ran by the Diaspora community members. Please add yours to the alphabetically correct location.
+Here's a list of seeds ran by the Diaspora community members. Please add yours to the alphabetically-by-domain correct location.
 
 * [[http://www.exampleseed.com]]
     * Opened: 17.09.2010
