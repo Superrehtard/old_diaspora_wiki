@@ -29,7 +29,8 @@ If the image is shown, the seed is online at the moment.
 
 -------------
 
-*THIS IS A TEMPLATE!*
+** THIS IS A TEMPLATE! **
+
 * [[http://diasporatemplate.com]] [[http://diasporatemplate.com/images/user/default.jpg|height=40px|]]
     * Opened: 
     * Updated: Daily/weekly/monthly/never
