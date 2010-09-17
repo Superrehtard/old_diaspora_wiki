@@ -53,15 +53,15 @@ That's it!
 # Possible errors
 
 You may get errors when calling your newly created vhost in the browser, like
-<pre>http://github.com/BadMinus/devise.git (at master) is not checked out. Please run `bundle install` (Bundler::GitError)</pre>
+<pre>http://github.com/BadMinus/devise.git (at master) is not checked out. Please run `bundle install` (Bundler::GitError)</pre> .
 
-a simple 
+A simple 
 <pre>
 sudo bundle install devise.git
 </pre>
-should do the trick
+should do the trick.
 
-also be sure, that your installation is accessible for the apache user. 
+Also be sure, that your installation is accessible for the apache user. 
 just do a
 <pre>
 sudo chown -R www-data:www-data /you/diaspora/installation
