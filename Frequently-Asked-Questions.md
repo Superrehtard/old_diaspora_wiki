@@ -18,6 +18,7 @@ To create a new account, go to:
 Production is what we were using and updating, maybe bi weekly for a few advisors and friends and such, at this point its not that much different, other than it runs in production mode as default rather than in dev mode.
 
 ***What ports does Diaspora need available for communication?***<br>
+
 * Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  See commandline switches below.
 * Your server must also have 8080 available for websockets.
 * Installing with apache? See the [Installing on Ubuntu LAMP guide](http://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu-LAMP) or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41)
