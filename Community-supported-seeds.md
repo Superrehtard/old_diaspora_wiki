@@ -4,12 +4,12 @@ If the image is shown, the seed is online at the moment.
 
 * [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=30px|]]
     * Opened: 17.09.2010
-    * Updated:~ weekly
+    * Updated: ~daily
     * Maintained by a private person
         * IRC/Freenode: datagutt
         * [[http://github.com/datagutt]]
     * Operating system: Mac OS X
-    * Comments: Only online on the day, only for test purposes
+    * Comments: Only online on the day, for development and test purposes.
 
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
