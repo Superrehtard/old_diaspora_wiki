@@ -27,13 +27,22 @@ If the image is shown, the seed is online at the moment.
     * Operating system:
     * Comments: Development, should be up 90% of the time, database may be reset if needed
 
-* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.digitalinsanity.de]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
     * Maintained by a private person
         * [[http://github.com/arrakaij]]
     * Operating system: Linux
     * Comments: Preview & Development, database reset if needed
+
+* [[http://diaspora.rueckgr.at]] [[http://diaspora.rueckgr.at/images/user/default.jpg|height=30px|]]
+    * Opened: 2010-07-16
+    * Updated: irregularly
+    * Maintained by a private person
+        * IRC/Freenode: paulchen
+        * paulchen@rueckgr.at
+    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
+    * Comments: just for testing, database will be reset whenever required
 
 -------------
 
