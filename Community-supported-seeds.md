@@ -13,6 +13,16 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
+* [[http://diaseeds.com/]] [[http://diaseeds.com:3000/images/user/default.jpg|height=30px|]]
+    * Opened: 17/09/2010
+    * Updated: With all of the latest updates
+    * Maintainer
+        * IRC/Freenode: diaseeds
+        * contact@diaseeds.com
+        * [[http://twitter.com/diaseeds]]
+    * Operating system: Linux (CentOS)
+    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
@@ -47,6 +57,26 @@ If an image is shown, the seed is *probably* online at the moment.
         * [[http://twitter.com/sgruhier]]
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, database will be reset only if need be
+
+* [[http://diasporahosts.com/]] [[http://diasporahosts.com:3000/images/user/default.jpg|height=30px|]]
+    * Opened: 17/09/2010
+    * Updated: Everyday with stable code
+    * Maintainer
+        * IRC/Freenode: mediashell
+        * info@diasporahosts.com
+        * [[http://twitter.com/mediashell]]
+    * Operating system: CentOS
+    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+
+* [[http://diasporapages.com/]] [[http://diasporapages.com:3000/images/user/default.jpg|height=30px|]]
+    * Opened: 17/09/2010
+    * Updated: With all of the latest updates
+    * Maintainer
+        * IRC/Freenode: diasporapages
+        * contact@diasporapages.com
+        * [[http://twitter.com/diasporapages]]
+    * Operating system: Linux (CentOS)
+    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
 * [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
@@ -96,3 +126,5 @@ If an image is shown, the seed is *probably* online at the moment.
         * [[http://twitter.com/diasporahosting]]
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+
+
