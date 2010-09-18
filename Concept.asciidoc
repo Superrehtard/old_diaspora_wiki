@@ -1,4 +1,6 @@
+
 = Goals
+
 * distributed social-network
 * prevention of data abuse
 * extendable by plugins
@@ -12,6 +14,7 @@ API for Plugins
 === register
 Create a new account on a specific server
 Required data:
+
 * login name
 * shown name
 * password
