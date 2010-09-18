@@ -1,0 +1,76 @@
+=Goals=
+* distributed social-network
+* prevention of data abuse
+* extendable by plugins
+
+=Core functionality=
+Change from Server to another
+API for Plugins
+
+=Core-functionality=
+==Login==
+===register===
+Create a new account on a specific server
+Required data:
+* login name
+* shown name
+* password
+* email address
+
+The **login name** is the name a user uses to login. The **shown name** is the name that is shown to others. This should easily be changeable. Also an "email address" is required, to send the user a lost password or to inform him in case of server repair or whatever.
+
+===delete account===
+
+==Friend management==
+===add friend===
+A friend can be added by providing a unique identifier. This could be a temporary value, like his **login name**@current-server or a generated nonce@current-server.
+
+===accept a friend request===
+Accept a user from another or the same server as friend.
+
+What happens then? The friends ID is added to the server's database? 
+The traffic is encrypted? So we need the public key of the friend.
+
+===remove friend===
+What happens?
+
+===create group===
+Create a new group to manage friends. The groups has a changeable name. The groups or not shown to the friends. One friend can be in several groups.
+
+===remove group===
+Existing group is deleted. All friends - which are not part of another group - are ungrouped now.
+
+===add person to group, organize friends===
+
+===Search for friends===
+A request has be sent into the network of connected servers... but how?
+
+==Intercommunication ==
+===post something===
+A user can post a message to all objects that are "postable" and that it got the rights for. The own wall, the wall a friend, post to a post (=comment), to photos, videos, etc.
+A post itself can consist of objects (like text, link, photo, video, etc)
+
+===delete a post===
+A user can delete all posts it may delete (has the rights for). These can be the posts of all users on his own wall. A user always can delete his own post
+
+===send message to one or more friends===
+send message to group
+
+===reference a person===
+reference a person on an objects (photo, post, etc)
+
+=Used terms=
+==Object==
+An object that can be managed by the user: text, photos, ...
+
+==Postable==
+A user can comment everything that is **postable**. These should be the most of the objects, but also walls (and other things we don't imagine at the moment)
+
+=Rights=
+The rights of everything have to be controllable by the user. This can be done on the basis of groups, but additionally should be possible for specific friends.
+
+It should not be possible to control what "friends of friends" are allowed to see/do. If you have 100 friends and all your friends also have 100 friends it is up to 1000 friends you possibly don't know (and you also don't know how many of them are on the black lists of your friends).
+
+=Plugins=
+==Gallery==
+A **gallery** is a collection of object of same type. This type can be specific. e.g. photos, but also could be videos, links, ...
