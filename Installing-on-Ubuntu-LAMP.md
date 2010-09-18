@@ -55,15 +55,30 @@ That's it!
 You may get errors when calling your newly created vhost in the browser, like
 <pre>http://github.com/BadMinus/devise.git (at master) is not checked out. Please run `bundle install` (Bundler::GitError)</pre> .
 
-A simple 
+There are two alternatives at this point. Simplest is to create devise.git in the local directory (ie copy per installation of diaspora):
+
+In the disapora directory:
 <pre>
 sudo bundle install devise.git
 </pre>
 should do the trick.
 
-Also be sure, that your installation is accessible for the apache user. 
+To make a system-wide install (ie single copy used by all installs), do (while root in the diaspora directory):
+<pre>
+sudo bundle install --system
+mkdir -p devise.git/ruby
+ln -s /usr/lib/ruby/gems/* devise.git/ruby/
+</pre>
+On subsequent installations the first line won't be required.
+
+In both cases, the devise.git tree *must* be accessible for the apache user. 
 just do a
 <pre>
 sudo chown -R www-data:www-data /you/diaspora/installation
 </pre>
+and, if you used the system option, a 
+<pre>
+sudo chown -R www-data:www-data /usr/lib/ruby/gems/1.8/
+</pre>
+
 to change the rights
