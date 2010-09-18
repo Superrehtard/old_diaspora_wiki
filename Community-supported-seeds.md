@@ -74,13 +74,3 @@ If the image is shown, the seed is online at the moment.
     * Operating system: Linux (Debian)
     * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
-### Template
-* [[http://diasporatemplate.com]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
-    * Opened: 
-    * Updated: Daily/weekly/monthly/never
-    * Maintained by a private person
-        * IRC/Freenode: maintainer
-        * main@tainer.com
-    * Operating system:
-    * Comments:
-
