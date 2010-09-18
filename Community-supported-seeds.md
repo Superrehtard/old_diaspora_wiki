@@ -93,7 +93,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Updated: Almost every day, unless there is a particular reason not to update (like unstable code)
     * Maintainer
         * IRC/Freenode: jonkri
-        * [[mailto:info@diasporahosting.eu]]
+        * [[info@diasporahosting.eu]]
         * [[http://twitter.com/diasporahosting]]
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it. Carefully run.
