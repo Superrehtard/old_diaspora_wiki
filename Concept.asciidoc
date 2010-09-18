@@ -1,13 +1,8 @@
-
 = Goals
 
 * distributed social-network
 * prevention of data abuse
 * extendable by plugins
-
-= Core functionality
-Change from Server to another
-API for Plugins
 
 = Core-functionality
 == Login
