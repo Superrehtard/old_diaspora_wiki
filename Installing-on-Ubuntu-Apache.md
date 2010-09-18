@@ -1,4 +1,4 @@
-*This wiki picks up where the Diaspora wiki leaves off, so it's assumed you already have a working seed and can view it at yourdomain.com:3000 and would like to managed by apache instead of thin.*
+*This wiki picks up where the Diaspora wiki leaves off, so it's assumed you already have a working seed and can view it at yourdomain.com:3000 and would like to managed by Apache instead of Thin.*
 
 ## Install Apache development package
 <pre>
