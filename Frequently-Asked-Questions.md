@@ -49,7 +49,7 @@ There are a couple of helpful command line options for setting the address and p
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 Also, there is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) (but it needs some tweaking)<br>
-[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
+[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
 [ubuntu install script](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
