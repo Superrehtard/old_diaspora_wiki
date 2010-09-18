@@ -12,9 +12,7 @@ From http://www.modrails.org/install.php
 <pre>
 gem install passenger
 passenger-install-apache2-module
-passenger-install-nginx-module
 </pre>
-*(My install is working without adding the nginx module; might only need one or the other)*
 
 The installer will walk you through any dependencies you need ahead of time and once you've installed those it will do all the heavy lifting outside of your apache config and vhosts, so let's do those:
 
