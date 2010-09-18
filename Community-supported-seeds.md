@@ -59,7 +59,7 @@ If the image is shown, the seed is online at the moment.
     * Updated: Any time
     * Maintainer : private person
         * IRC/Freenode: chouchoune
-        * http://github.com/chouchoune
+        * [[http://github.com/chouchoune]]
         * delcasse@gmail.com
         * [[http://twitter.com/arnauddelcasse]]
     * Operating system: Linux (Debian)
