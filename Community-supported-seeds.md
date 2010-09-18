@@ -48,6 +48,15 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, database will be reset only if need be
 
+* [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
+    * Opened: 2010-07-17
+    * Updated: irregularly
+    * Maintained by a private person
+        * IRC/Freenode: bengl
+        * [[http://twitter.com/bengl]]
+    * Operating system: Ubuntu 9.4
+    * Comments: Development mode for now.  Database will be reset whenever required.
+
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
