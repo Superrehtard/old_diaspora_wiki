@@ -2,6 +2,8 @@ This page documents questions that are being frequently asked in relation to the
 
 If you have other questions, please try #diaspora on irc.freenode.net.
 
+# User FAQ
+
 ***Are there any public demo servers of Diaspora online that I can try?***<br>
 Yes. The following are the official Diaspora demo instances, which will be wiped of all content at regular and unpredictable intervals:
 
@@ -15,8 +17,14 @@ You can check the version of these seeds when you click "DEBUG INFO" at the very
 To create a new account, go to:
 [[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your seed).
 
-*** What's the difference between production and master branches?***<br>
-Production is what we were using and updating, maybe bi-weekly for a few advisors and friends and such. At this point its not that much different, other than it runs in production mode as default rather than in dev mode.
+***What is a *seed*?***<br>
+A seed is an HTTP server (a webserver) where Diaspora is running. There are several seeds which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seeds and communicate with them.
+
+*** What is an *aspect*? ***
+
+An aspect is a section with updates from preset list of friends. An aspect helps to divide your friend into different groups and show them different aspects of your life.
+
+# Administrator FAQ
 
 ***What ports does Diaspora need available for communication?***<br>
 
@@ -38,16 +46,29 @@ There are a couple of helpful command line options for setting the address and p
 Also, there is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) (but it needs some tweaking)<br>
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)
 
-***What is a *seed*?***<br>
-A seed is an HTTP server (a webserver) where Diaspora is running. There are several seeds which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seeds and communicate with them. 
+***Once I get my seed running, how do I disable outside logins?***<br>
+Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
+
+***I'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***<br>
+Close the port, make it do connection refused, not timeout.<br>
+(disclaimer: hope this doesnt screw up anyone)<br>
+<james_> On Ubuntu: sudo ufw enable, sudo ufw reject 443 (, sudo reboot?)
+
+***But I have Apache running already and I want no passengers!***<br>
+(Disclaimer: Apache noob advice)<br>
+Apache config:<br>
+http://codepaste.net/yzkngy
+
+
+# Developer FAQ
+
+*** What's the difference between production and master branches?***<br>
+Production is what we were using and updating, maybe bi-weekly for a few advisors and friends and such. At this point its not that much different, other than it runs in production mode as default rather than in dev mode.
 
 ***How do I get debug information?***<br>
 You can use the command<br>
     tail -f log/development.log
 To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
-
-***Once I get my seed running, how do I disable outside logins?***<br>
-Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
 
 ***How do I pull and run the latest source and/or clean the database?***<br>
 Pull the latest from github:
@@ -60,12 +81,3 @@ Clean the database:
     mongo diaspora-development
     > db.dropDatabase()
 
-***I'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***<br>
-Close the port, make it do connection refused, not timeout.<br>
-(disclaimer: hope this doesnt screw up anyone)<br>
-<james_> On Ubuntu: sudo ufw enable, sudo ufw reject 443 (, sudo reboot?)
-
-***But I have Apache running already and I want no passengers!***<br>
-(Disclaimer: Apache noob advice)<br>
-Apache config:<br>
-http://codepaste.net/yzkngy
