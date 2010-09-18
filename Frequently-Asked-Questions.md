@@ -26,6 +26,10 @@ A seed is an HTTP server (a webserver) where Diaspora is running. There are seve
 
 An aspect is a section with updates from preset list of friends. An aspect helps to divide your friend into different groups and show them different aspects of your life.
 
+*** How to rename an aspect? ***
+
+To rename an aspect go to manage page and click on aspect's title. You should be able to type there.
+
 # Administrator FAQ
 
 ***What ports does Diaspora need available for communication?***<br>
