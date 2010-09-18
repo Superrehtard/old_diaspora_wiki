@@ -1,8 +1,9 @@
 **There are many security vulnerabilities in the current release of Diaspora, simply visiting these seeds may harm your computer. Also consider ANY information you post to these seeds as completely public, including your email address and password.**
+This also means please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
 Here's a list of seeds ran by the Diaspora community members.
 Please add yours to the correct location in alphabetical order.
-If the image is shown, the seed is online at the moment.
+If an image is shown, the seed is online at the moment.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
@@ -52,7 +53,7 @@ If the image is shown, the seed is online at the moment.
     * Updated: Ad hoc, daily or better is target
     * Maintained by: [[http://alisonw.info]] / [[http://twitter.com/alisonw]], a pseudo-private individual
         * [[http://github.com/alisonw]]
-    * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (4-core XEON rack server) maintained by [[http://markyate.net]]
+    * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (dual XEON, 4-cores total) maintained by [[http://markyate.net]]
     * Note: Using Apache2 for http server, not thin
     * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'testing' options available.
 
