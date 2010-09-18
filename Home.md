@@ -10,4 +10,4 @@ Welcome to the Diaspora wiki!
 
 [[Installing on Ubuntu LAMP]] - Using Apache as opposed to Thin webserver
 
-[[Installing on CentOS]] - Compiling Ruby and Rubygems and getting mongodb and git from non-standard repositories.
+[[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting mongodb and git from non-standard repositories.
