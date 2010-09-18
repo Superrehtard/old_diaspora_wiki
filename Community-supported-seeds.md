@@ -3,7 +3,7 @@ This also means please do not try to hack these machines; they have been freely 
 
 Here's a list of seeds ran by the Diaspora community members.
 Please add yours to the correct location in alphabetical order.
-If an image is shown, the seed is online at the moment.
+If an image is shown, the seed is *probably* online at the moment.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
