@@ -54,6 +54,16 @@ If the image is shown, the seed is online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
 
+* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
+    * Opened: 16/09/2010
+    * Updated: Any time
+    * Maintainer
+        * IRC/Freenode: chouchoune
+        * delcasse@gmail.com
+        * [[http://twitter.com/arnauddelcasse]]
+    * Operating system: Linux (Debian)
+    * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
+
 ### Template
 * [[http://diasporatemplate.com]] [[http://diasporatemplate.com/images/user/default.jpg|height=30px|]]
     * Opened: 
