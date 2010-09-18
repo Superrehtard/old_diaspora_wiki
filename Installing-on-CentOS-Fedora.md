@@ -1,4 +1,4 @@
-*This page assumes that you're reasonably capable of installing packages in CentOS using Yum and that you've compiled software for linux before.*
+*This page assumes that you're reasonably capable of installing packages in CentOS/Fedora using Yum and that you've compiled software for linux before.*
 
 ## Installing Prerequisites
 
@@ -71,6 +71,8 @@ Once you've added the mongodb repository to yum, you need to download the mongo-
 
     yum install mongo-stable-server
     /etc/init.d/mongod start
+
+*Note: For 32 Fedora, the repositories are not yet available. You will need to build MongoDB from source.
 
 ## Install Git
 
