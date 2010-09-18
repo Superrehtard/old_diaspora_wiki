@@ -57,8 +57,9 @@ If the image is shown, the seed is online at the moment.
 * [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Any time
-    * Maintainer
+    * Maintainer : private person
         * IRC/Freenode: chouchoune
+        * http://github.com/chouchoune
         * delcasse@gmail.com
         * [[http://twitter.com/arnauddelcasse]]
     * Operating system: Linux (Debian)
