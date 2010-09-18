@@ -52,7 +52,7 @@ Next you'll need to install Rubygems.  1.3.7 as of Sept 16, 2010.
 
     cd /usr/local/src
     wget http://production.cf.rubygems.org/rubygems/rubygems-1.3.7.tgz
-    tar -xvf rubygems-1.3.7.tar.gz
+    tar -xvf rubygems-1.3.7.tgz
     cd rubygems-1.3.7
     ruby setup.rb
 
