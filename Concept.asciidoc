@@ -8,7 +8,7 @@ Change from Server to another
 API for Plugins
 
 = Core-functionality
-== Login=
+== Login
 === register
 Create a new account on a specific server
 Required data:
