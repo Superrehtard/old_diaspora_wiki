@@ -86,4 +86,4 @@ If an image is shown, the seed is *probably* online at the moment.
         * info@diasporahosting.eu
         * [[http://twitter.com/diasporahosting]]
     * Operating system: Debian
-    * Comments: Free Diaspora seeds for anyone who wants it. Carefully run.
+    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
