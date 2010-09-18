@@ -2,7 +2,7 @@
 This also means please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
 Here's a list of seeds ran by the Diaspora community members.
-Please add yours to the correct location in alphabetical order.
+Please add yours to the correct location **in alphabetical order**.
 If an image is shown, the seed is *probably* online at the moment.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
@@ -60,7 +60,7 @@ If an image is shown, the seed is *probably* online at the moment.
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
-    * Maintained by: [[http://alisonw.info]] / [[http://twitter.com/alisonw]], a pseudo-private individual
+    * Maintained by: [[alisonw.info|http://alisonw.info]] / [[@alison|http://twitter.com/alisonw]], a pseudo-private individual
         * [[http://github.com/alisonw]]
     * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (dual XEON, 4-cores total) maintained by [[http://markyate.net]]
     * Note: Using Apache2 for http server, not thin
