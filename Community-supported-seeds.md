@@ -78,16 +78,6 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Linux (Debian)
     * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
-* [[http://diasporahosting.eu/]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
-    * Opened: 15/09/2010
-    * Updated: As changes in the official repository become stable
-    * Maintainer
-        * IRC/Freenode: chuck
-        * charles.melbye@gmail.com
-        * [[http://twitter.com/cmelbye]]
-    * Operating system: ArchLinux
-    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
-
 * [[http://diasporahosting.eu/]] [[http://diasporahosting.eu/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Almost every day, unless there is a particular reason not to update (like unstable code)
