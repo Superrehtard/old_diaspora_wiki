@@ -1,4 +1,4 @@
-**There are many security vulnerabilities in the current release of Diaspora, simply visiting these sites may harm your computer. Also consider ANY information you post to these sites as completely public, including your email address and password.**
+**There are many security vulnerabilities in the current release of Diaspora, simply visiting these seeds may harm your computer. Also consider ANY information you post to these seeds as completely public, including your email address and password.**
 
 Here's a list of seeds ran by the Diaspora community members.
 Please add yours to the correct location in alphabetical order.
