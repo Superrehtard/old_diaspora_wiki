@@ -1,6 +1,6 @@
 This page documents questions that are being frequently asked in relation to the installation and use of Diaspora.
 
-If you have other questions, please try #diaspora on irc.freenode.net. Or go to google group http://groups.google.com/group/diaspora-discuss
+If you have other questions, please try #diaspora on irc.freenode.net. Or go to "google group":http://groups.google.com/group/diaspora-discuss
 
 # User FAQ
 
@@ -10,8 +10,7 @@ Yes. The following are the official Diaspora demo instances, which will be wiped
 * [[http://tom.joindiaspora.com]]
 * [[http://washington.joindiaspora.com]]
 * [[http://adams.joindiaspora.com]]
-
-See also [[Community supported seeds]]
+* see also [[Community supported seeds]]
 
 You can check the version of these seeds when you click "DEBUG INFO" at the very bottom of each page. There the commit id and commit date is noted.
 
