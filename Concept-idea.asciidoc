@@ -8,6 +8,7 @@
 == Login
 === register
 Create a new account on a specific server
+
 Required data:
 
 * login name
