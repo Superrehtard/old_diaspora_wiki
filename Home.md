@@ -13,6 +13,7 @@ Welcome to the Diaspora wiki!
 [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting mongodb and git from non-standard repositories.
 
 **Other Resources**
+
 (Don't forget that the issues are on a link at the top of the page.)
 
 [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
