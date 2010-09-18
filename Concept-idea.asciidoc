@@ -43,6 +43,7 @@ Existing group is deleted. All friends - which are not part of another group - a
 
 === Search for friends
 A request has be sent into the network of connected servers... but how?
+Idea: Users can upload their pgp key and their diaspora email-like address to a pgp key server to be findable if they want. This can be simplified by a frontend.
 
 == Intercommunication
 === post something
