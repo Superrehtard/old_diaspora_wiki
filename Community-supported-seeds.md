@@ -53,7 +53,8 @@ If the image is shown, the seed is online at the moment.
     * Maintained by: [[http://alisonw.info]] / [[http://twitter.com/alisonw]], a pseudo-private individual
         * [[http://github.com/alisonw]]
     * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (4-core XEON rack server) maintained by [[http://markyate.net]]
-    * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'development' options available.
+    * Note: Using Apache2 for http server, not thin
+    * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'testing' options available.
 
 * [[http://openspora.com]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 15/09/2010
