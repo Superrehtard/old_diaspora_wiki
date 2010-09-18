@@ -36,6 +36,15 @@ If the image is shown, the seed is online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: just for testing, database will be reset whenever required
 
+* [[http://diaspora.xilinus.com]] [[http://diaspora.xilinus.com/images/user/default.jpg|height=30px|]]
+    * Opened: 2010-07-17
+    * Updated: daily
+    * Maintained by a private person
+        * [[http://github.com/sgruhier]]
+        * [[http://twitter.com/sgruhier]]
+    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
+    * Comments: Up all the time, database will be reset only if need be
+
 * [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
     * Opened: Development testing since 2010-09-16
     * Updated: Ad hoc, daily or better is target
