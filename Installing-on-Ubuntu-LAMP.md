@@ -4,6 +4,7 @@
 <pre>
 sudo apt-get install apache2-dev
 </pre>
+*It can co-exist with your existing Apache ok*
 
 ## Install Passenger Module for Apache
 From http://www.modrails.org/install.php
@@ -13,6 +14,7 @@ gem install passenger
 passenger-install-apache2-module
 passenger-install-nginx-module
 </pre>
+*(My install is working without adding the nginx module; might only need one or the other)*
 
 The installer will walk you through any dependencies you need ahead of time and once you've installed those it will do all the heavy lifting outside of your apache config and vhosts, so let's do those:
 
