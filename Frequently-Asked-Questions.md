@@ -1,6 +1,6 @@
 This page documents questions that are being frequently asked in relation to the installation and use of Diaspora.
 
-If you have other questions, please try #diaspora on irc.freenode.net. Or go to "google group":http://groups.google.com/group/diaspora-discuss
+If you have other questions, please try #diaspora on irc.freenode.net. Or go to [[google group|http://groups.google.com/group/diaspora-discuss]]
 
 # User FAQ
 
