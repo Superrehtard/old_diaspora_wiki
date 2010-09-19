@@ -78,6 +78,16 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
+* [[http://diasporapt.com]] [[http://diasporapt.com/images/user/default.jpg|height=30px|]]
+    * Opened: 2010-09-18
+    * Updated: daily
+    * Maintained by a private person
+        * IRC/Freenode: YaBa
+        * polido@gmail.com
+        * [[http://twitter.com/yaba]]
+    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
+    * Comments: Up all the time, had initial problems after changing domain
+
 * [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
     * Updated: irregularly
