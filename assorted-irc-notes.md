@@ -1,3 +1,4 @@
+```irc¬
 <Nushio> i'm interested in doing an android app for this :)
 
 grippi> run bundle exec rake db:purge to clear the database
@@ -18,3 +19,4 @@ also: use diaspora-development ; db.copyDatabase("diaspora-development","diaspor
 <chuck> if you really want to share the database, just hardcode the name
 <chuck> then make a git commit so git can merge it the next time you "git pull origin master"
 (note: speed problem quite sloved, see caching in config/environments/development)
+```
