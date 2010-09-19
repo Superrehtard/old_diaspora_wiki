@@ -17,11 +17,11 @@ If an image is shown, the seed is *probably* online at the moment.
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
     * Maintainer 
-        * IRC/Freenode: diaseeds
-        * contact@diaseeds.com
-        * [[http://twitter.com/diaseeds]]
+        * IRC/Freenode: Mediashell
+        * andrew@mediashell.com
+        * [[http://twitter.com/mediashell]]
     * Operating system: Linux (CentOS)
-    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+    * Comments: Largest Free Diaspora seeds server; Dive in!
 
 * [[http://diaspora-app.heroku.com]] [[http://diaspora-app.heroku.com/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
@@ -80,19 +80,19 @@ If an image is shown, the seed is *probably* online at the moment.
     * Opened: 17/09/2010
     * Updated: Everyday with stable code
     * Maintainer
-        * IRC/Freenode: mediashell
-        * info@diasporahosts.com
+        * IRC/Freenode: Mediashell
+        * andrew@mediashell.com
         * [[http://twitter.com/mediashell]]
     * Operating system: CentOS
-    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+    * Comments: High quality, secure, diaspora seed hosting; Dive in!
 
 * [[http://diasporapages.com]] [[http://diasporapages.com/images/user/default.jpg|height=30px|]]
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
     * Maintainer
-        * IRC/Freenode: diasporapages
-        * contact@diasporapages.com
-        * [[http://twitter.com/diasporapages]]
+        * IRC/Freenode: Mediashell
+        * andrew@mediashell.com
+        * [[http://twitter.com/mediashell]]
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
