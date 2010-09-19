@@ -21,3 +21,5 @@ Welcome to the Diaspora wiki!
 [Discuss Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical issues
 
 [Dev Group](http://groups.google.com/group/diaspora-dev) - Google group for discussion of technical issues
+
+[Unofficial Forum](http://forum.conni.ca/) - Brand new unofficial forum
