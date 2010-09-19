@@ -49,9 +49,9 @@ Our roadmap is the mission critical features that given enough time, we will dev
  - - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
 
 - Running Diaspora from home:
- - - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
- - - Option to have a performant data on disk encryption
- - - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services
- - - Can we run Diaspora from a Nexus One?
+-- Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
+-- Option to have a performant data on disk encryption
+-- Windows/Linux/Mac installers/ and intergration with Dynamic DNS services
+-- Can we run Diaspora from a Nexus One?
 
 - In general call us out with more elegant solutions
