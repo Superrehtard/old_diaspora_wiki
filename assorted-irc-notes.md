@@ -1,5 +1,5 @@
-```irc¬
-<Nushio> i'm interested in doing an android app for this :)
+
+Nushio> i'm interested in doing an android app for this :)
 
 grippi> run bundle exec rake db:purge to clear the database
 
