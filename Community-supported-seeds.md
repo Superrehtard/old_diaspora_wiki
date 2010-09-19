@@ -33,6 +33,14 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Preview & Development, database reset if needed
 
+* [[http://diaspora.areya.de]]  [[http://diaspora.areya.de/images/user/default.jpg|height=30px|]]
+    * Opened: 18/09/2010
+    * Updated: Daily
+    * Maintained by: Areya Webservices
+        * [[http//:www.areya.de]] 
+    * Operating system: Ubuntu
+    * Comments: Reset of Database only if needed
+
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
