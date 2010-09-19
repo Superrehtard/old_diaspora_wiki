@@ -37,7 +37,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Opened: 18/09/2010
     * Updated: Daily
     * Maintained by: Areya Webservices
-        * [[http//:www.areya.de]] 
+        * [[http://www.areya.de]] 
     * Operating system: Ubuntu
     * Comments: Reset of Database only if needed
 
