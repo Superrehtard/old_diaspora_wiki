@@ -1,4 +1,4 @@
-##There are many security vulnerabilities in the current release of Diaspora, simply visiting these seeds may harm your computer. Also consider ANY information you post to these seeds as completely public, including your email address and password.
+&##There are many security vulnerabilities in the current release of Diaspora, simply visiting these seeds may harm your computer. Also consider ANY information you post to these seeds as completely public, including your email address and password.
 **Also, please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.**
 
 Here's a list of seeds run by the Diaspora community members.
@@ -31,7 +31,7 @@ If an image is shown, the seed is *probably* online at the moment.
         * johnnyprez@gmail.com
         * [[http://github.com/guilleiguaran]]
     * Operating system: Linux
-    * Comments: Preview & Development, database reset if needed
+    * Comments: Preview  Development, database reset if needed
 
 * [[http://diaspora.areya.de]]  [[http://diaspora.areya.de/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
@@ -155,4 +155,12 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
-
+* [[http://efix.is-a-geek.net]] [[http://efix.is-a-geek.net/images/user/default.jpg|height=30px|]]
+    * Opened: 16/09/2010
+    * Updated: Any time
+    * Maintainer : private person
+        * [[http://github.com/efix]]
+        * efix.fx@gmail.com
+        * [[http://identi.ca/efix]]
+    * Operating system: Debian GNU/Linux Sid
+    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
