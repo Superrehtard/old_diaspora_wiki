@@ -29,9 +29,10 @@ Avoid storing the app under /var/www, seems that rewriting rules becomes
 unhappy in some cases then (?)
 
         cd <parent of diaspora dir>
-        mkdir /usr/local/webapps
-        mv diaspora /usr/local/webapps
+        sudo mkdir /usr/local/webapps
+        sudo mv diaspora /usr/local/webapps
         mkdir /usr/local/webapps/diaspora/tmp  # All rack apps should have a tmp dir.
+        chown -R apache /usr/local/webapps/diaspora
 
 Setup the symlink used by RailBaseURI which also is the url you access diaspora at:
 
