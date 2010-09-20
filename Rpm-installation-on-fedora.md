@@ -75,4 +75,6 @@ Rebuild rubygems in the same way:
 
 From this point, you should proceed from  "Bundler" in README.md
 
+After completing README.md, it's possible to use apache instead of the thin server. See  [[Using apache]]
+
 
