@@ -6,6 +6,8 @@ module. See [[http://www.modrails.com/documentation/Users%20guide.html]]
 There is no Fedora passenger rpm ATM, see
 [[https://bugzilla.redhat.com/show_bug.cgi?id=470696]]
 
+See also [[Installing on Ubuntu Apache]]
+
 ## Install passenger module
 
 To setup apache to run diaspora:
@@ -39,6 +41,12 @@ Setup the symlink used by RacklBaseURI which also is the url you access diaspora
         cd  /var/www/diaspora
         ln -s public diaspora
 
+Install the bundle
+
+        sudo bundle install --system
+        mkdir -p devise.git/ruby
+        ln -s /usr/lib/ruby/gems/* devise.git/ruby/
+
 ## Configure apache server instance
 
 Create a virtual http server for the diaspora app by appending something like this to
@@ -56,30 +64,6 @@ Create a virtual http server for the diaspora app by appending something like th
         </Directory>
     </virtualhost>
 
-## Configure apache server
-
-You need to run 'bundle install' as apache. So:
-  
-        sudo passwd apache
-        sudo usermod -s /bin/bash -U apache
-      
-Bundle needs to be able to run 'sudo' from the apache user. Edit /etc/sudoers
-(e. g. using visudo) and add following line:
-
-    apache   ALL=(ALL)    NOPASSWD:   ALL
-
-(httpd should be stopped here for security ;)  )Then install bundle for apache account:
-
-         sudo chown apache /var/www
-         sudo chown -R apache /usr/local/webapps/diaspora
-         sudo su - apache
-         cd /usr/local/webapps/diaspora
-         bundle install
-         exit
-         sudo chown root  /var/www
-         sudo usermod  -L  -s /sbin/nologin apache
-
-Clean up:  remove the apache line from /etc/sudoers.
 
 ## Run and access server
 
