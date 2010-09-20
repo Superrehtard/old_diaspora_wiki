@@ -37,12 +37,12 @@ If an image is shown, the seed is *probably* online at the moment.
 * [[http://diaspora.9-to-5designs.com]] [[http://diaspora.9-to-5designs.com/images/user/default.jpg|height=30px|]]
     * Opened: 20/09/2010
     * Updated: Daily
-    * Maintained by bigbash
+    * Maintained by private person
         * IRC/Freenode: bigbash
         * mcguiresm@gmail.com
         * [[http://github.com/bigbash]]
     * Operating system: Ubuntu
-    * Comments: Preview  Development, database reset if needed
+    * Comments: Database reset only if needed.  Development and Testing only.
 
 * [[http://diaspora.areya.de]]  [[http://diaspora.areya.de/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
