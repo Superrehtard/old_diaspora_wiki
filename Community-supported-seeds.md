@@ -41,6 +41,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Updated: Daily
     * Maintained by private person
         * IRC/Freenode: bigbash
+        * [[http://twitter.com/mcguiresm]]
         * mcguiresm@gmail.com
         * [[http://github.com/bigbash]]
     * Operating system: Ubuntu
