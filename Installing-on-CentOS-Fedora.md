@@ -1,5 +1,7 @@
 *This page assumes that you're reasonably capable of installing packages in CentOS/Fedora using Yum and that you've compiled software for linux before.*
 
+This page basically covers how to use the upstream sources to build required software. An alternative way base on rebuilding RPM:s is available her [[RPM installation on Fedora]]
+
 ## Installing Prerequisites
 
 You'll need to grab make, gcc-c++ to compile Ruby and some gems.  You'll also need to get zlib-devel and openssl-devel for adding support for these libraries into Ruby.  Lastly, now is a good time to get ImageMagick as well.
