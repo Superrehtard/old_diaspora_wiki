@@ -65,31 +65,6 @@ You can check if gem has been installed correctly by running gem -v and gem list
 
 ## Install MongoDB
 
-You can find the instructions for installing mongodb over at the MongoDB website.
+For Fedora, the official repositories now contains the mongodb-server package. Thus, for Fedora mongodb is installed by:
 
-[[http://www.mongodb.org/display/DOCS/CentOS+and+Fedora+Packages]]
-
-Once you've added the mongodb repository to yum, you need to download the mongo-stable-server package and start the server.
-
-    yum install mongo-stable-server
-    /etc/init.d/mongod start
-
-*Note: For 32 Fedora, the repositories are not yet available. You will need to build MongoDB from source.
-
-## Install Git
-
-Git isn't available in the default CentOS repositories.  You have to add the Extra Packages For Enterprise Linux repositories to get it.  Information on how to install the repo can be found over at the Fedora Project website.
-
-[[https://fedoraproject.org/wiki/EPEL]]
-
-Once you've installed the repository files, you just need to use yum to grab it.
-
-    yum install git
-
-## Continue with Standard Diaspora Install
-
-Now that you have proper versions of ruby and gem, mongodb and git installed, you can follow the standard Diaspora installation instructions.
-
-## Using apache instead of the thin server
-
-Is at  [[Using apache]]
+    sudo yum install mongodb-server
