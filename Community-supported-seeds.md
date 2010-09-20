@@ -116,14 +116,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Ubuntu 9.4
     * Comments: Development mode for now.  Database will be reset whenever required.
 
-* [[http://openlinkup.com]]  [[http://openlinkup.com/images/user/default.jpg|height=30px|]]
-    * Opened: Development testing since 2010-09-16
-    * Updated: Ad hoc, daily or better is target
-    * Maintained by: [[alisonw.info|http://alisonw.info]] / [[@alison|http://twitter.com/alisonw]], a pseudo-private individual
-        * [[http://github.com/alisonw]]
-    * Operating system: Ubuntu 10.04lts on Dell PowerEdge2650 (dual XEON, 4-cores total) maintained by [[http://markyate.net]]
-    * Note: Using Apache2 for http server, not thin
-    * Comments: Development & test at present so liable to be AWOL, reset of database, etc. at any time without warning. Once some level of stability is in place then there will be 'stable' and 'testing' options available.
+* [[http://openlinkup.com]]  - temporarily offline for a reconfiguration. 
 
 * [[http://openspora.com]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 15/09/2010
