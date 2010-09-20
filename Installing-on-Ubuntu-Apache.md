@@ -1,5 +1,7 @@
 *This wiki picks up where the Diaspora wiki leaves off, so it's assumed you already have a working seed and can view it at yourdomain.com:3000 and would like to managed by Apache instead of Thin.*
 
+Does anyone have federation and/or websockets working with apache?  Correct me if I am wrong, but we use eventmachine for both of these things, and should only work if you use thin or rainbows! as your appserver, not mod_rails and passenger?  - maxwell
+
 ## Install Apache development package
 <pre>
 sudo apt-get install apache2-dev
