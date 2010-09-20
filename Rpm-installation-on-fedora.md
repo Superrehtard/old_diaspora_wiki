@@ -1,6 +1,6 @@
 # Rpm installation on Fedora
 
-This documents describes how to install diaspora on Fedora 13. It supplements the
+This document describes how to install diaspora on Fedora 13. It supplements the
 ordinary README.md in the application base directory.
 
 ## General
@@ -17,14 +17,14 @@ In order to run Diaspora, you will need to install the following dependencies:
 
     sudo yum install mongodb-server openssl ImageMagick git libxslt-devel libxml2-devel
 
-##  Ruby 1.8.7 installation.
+##  Ruby 1.8.7 installation
 
 In order to update ruby to 1.8.7, you need to know the packages currently using
 ruby on your box:
 
     sudo yum remove ruby
 
-(don't worry, nothing will be removed unless you approve it). You will presented a
+(don't worry, nothing will be removed unless you approve it). You will be presented a
 list of packages that yum will remove if ruby is removed. If this acceptable, answer
 'yes' and proceed. Otherwise, you have two options:
 
@@ -36,7 +36,7 @@ list of packages that yum will remove if ruby is removed. If this acceptable, an
 Keep a note of the packages removed, it's possible to restore the
 system by reinstalling them.
 
-## Rebuilding rawhide ruby and rybygem.
+## Rebuilding rawhide ruby and rubygem
 
 From now, let's assume that ruby is removed. The ruby-1.8.7 package in rawhide is
 not really what we want to install, it will pull in all the rawhide dependencies
@@ -56,7 +56,7 @@ Now, download and rebuild ruby:
 
 rpmbuild will create ruby, ruby-libs, ruby-devel, ruby-rdoc and ruby-irb packages. Look
 for the last lines of output, which will show the exact location. For me, installation
-boils own to:
+boils down to:
 
        cd ~
        yum localinstall --nogpgcheck   \
@@ -73,7 +73,7 @@ Rebuild rubygems in the same way:
 
 ## Getting,running and testing diaspora
 
-From this point, you should proceed from  "Bundler" in README.md
+From this point, you should proceed from  "Bundler" in README.md.
 
 After completing README.md, it's possible to use apache instead of the thin server. See  [[Using apache]]
 
