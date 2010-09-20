@@ -59,26 +59,26 @@ Create a virtual http server for the diaspora app by appending something like th
 ## Configure apache server
 
 You need to run 'bundle install' as apache. So:
-
-        sudo usermod -s /bin/bash apache
+  
         sudo passwd apache
-
+        sudo usermod -s /bin/bash -U apache
+      
 Bundle needs to be able to run 'sudo' from the apache user. Edit /etc/sudoers
 (e. g. using visudo) and add following line:
 
-    apache   ALL=(ALL)      ALL
+    apache   ALL=(ALL)    NOPASSWD:   ALL
 
-Then install bundle for apache account:
+(httpd should be stopped here for security ;)  )Then install bundle for apache account:
 
-         sudo chmod 777 /var/www
-         suddo chown -R apache /usr/local/webapps/diaspora
+         sudo chown apache /var/www
+         sudo chown -R apache /usr/local/webapps/diaspora
          sudo su -l apache
          cd /usr/local/webapps/diaspora
          bundle install
          exit
-         sudo chmod 755 /var/www
+         sudo chown root  /var/www
 
-Clean up:  'sudo usermod -s /sbin/nogin apache' and remove the apache line from /etc/sudoers.
+Clean up:  'sudo usermod -s /sbin/nogin apache -L'  and remove the apache line from /etc/sudoers.
 
 ## Run and access server
 
