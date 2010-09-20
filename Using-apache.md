@@ -21,7 +21,7 @@ passenger-install-apache2-module. For me, this was:
      PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15
      PassengerRuby /usr/bin/ruby
 
-## Make diaspora accessible from apache as a rails rack app.
+## Make diaspora accessible from apache as a rails rack app
 
 Copy the complete diaspora application to  e. g.,  /usr/local/webapps to
 avoid troubles when apache can't access files in your ordinary home dir.
@@ -34,7 +34,7 @@ unhappy in some cases then (?)
         mkdir /usr/local/webapps/diaspora/tmp  # All rack apps should have a tmp dir.
         chown -R apache /usr/local/webapps/diaspora
 
-Setup the symlink used by RailBaseURI which also is the url you access diaspora at:
+Setup the symlink used by RacklBaseURI which also is the url you access diaspora at:
 
         cd  /var/www/diaspora
         ln -s public diaspora
