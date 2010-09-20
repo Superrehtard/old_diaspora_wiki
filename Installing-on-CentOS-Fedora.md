@@ -89,3 +89,7 @@ Once you've installed the repository files, you just need to use yum to grab it.
 ## Continue with Standard Diaspora Install
 
 Now that you have proper versions of ruby and gem, mongodb and git installed, you can follow the standard Diaspora installation instructions.
+
+## Using apache instead of the thin server
+
+Is at  [[Using apache]]
