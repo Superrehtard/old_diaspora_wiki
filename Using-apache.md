@@ -86,3 +86,8 @@ Restart server using 'server httpd restart'.
 
 Access the server on http://host.domain.tld:8080/diaspora
 
+## Update this document
+
+Fix whatever problems you discovered using this page by editing it!
+
+
