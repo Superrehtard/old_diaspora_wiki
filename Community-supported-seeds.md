@@ -1,9 +1,10 @@
-There are many security vulnerabilities in the current release of Diaspora, simply visiting these seeds may harm your computer. Also consider ANY information you post to these seeds as completely public, including your email address and password.
+Here's a list of seeds run by the Diaspora community members. 
 
-**Also, please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.**
+There are many security vulnerabilities in the current release of Diaspora, so simply visiting these seeds may harm your computer. **Consider ANY information you post to these seeds as completely public, including your email address and password.**
 
-Here's a list of seeds run by the Diaspora community members.
-Please add yours to the correct location **in alphabetical order**.
+**Please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.**
+
+Add yours to the correct location **in alphabetical order**.
 If an image is shown, the seed is *probably* online at the moment.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
