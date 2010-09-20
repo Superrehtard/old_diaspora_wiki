@@ -34,6 +34,16 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Preview  Development, database reset if needed
 
+* [[http://diaspora.9-to-5designs.com]] [[http://diaspora.9-to-5designs.com/images/user/default.jpg|height=30px|]]
+    * Opened: 20/09/2010
+    * Updated: Daily
+    * Maintained by bigbash
+        * IRC/Freenode: bigbash
+        * mcguiresm@gmail.com
+        * [[http://github.com/bigbash]]
+    * Operating system: Ubuntu
+    * Comments: Preview  Development, database reset if needed
+
 * [[http://diaspora.areya.de]]  [[http://diaspora.areya.de/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
     * Updated: Daily
@@ -41,17 +51,6 @@ If an image is shown, the seed is *probably* online at the moment.
         * [[http://www.areya.de]] 
     * Operating system: Ubuntu
     * Comments: Reset of Database only if needed
-
-* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Any time
-    * Maintainer : private person
-        * IRC/Freenode: chouchoune
-        * [[http://github.com/chouchoune]]
-        * delcasse@gmail.com
-        * [[http://twitter.com/arnauddelcasse]]
-    * Operating system: Linux (Debian)
-    * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
@@ -118,16 +117,6 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, had initial problems after changing domain
 
-* [[http://efix.is-a-geek.net]] [[http://efix.is-a-geek.net/images/user/default.jpg|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Any time
-    * Maintainer : private person
-        * [[http://github.com/efix]]
-        * efix.fx@gmail.com
-        * [[http://identi.ca/efix]]
-    * Operating system: Debian GNU/Linux Sid
-    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
-
 * [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
     * Updated: irregularly
@@ -149,6 +138,17 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
 
+* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
+    * Opened: 16/09/2010
+    * Updated: Any time
+    * Maintainer : private person
+        * IRC/Freenode: chouchoune
+        * [[http://github.com/chouchoune]]
+        * delcasse@gmail.com
+        * [[http://twitter.com/arnauddelcasse]]
+    * Operating system: Linux (Debian)
+    * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
+
 * [[http://pontari.us/]] (previously diasporahosting.eu) [[http://pontari.us/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Almost every day, unless there is a particular reason not to update (like unstable code)
@@ -159,3 +159,12 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it
 
+* [[http://efix.is-a-geek.net]] [[http://efix.is-a-geek.net/images/user/default.jpg|height=30px|]]
+    * Opened: 16/09/2010
+    * Updated: Any time
+    * Maintainer : private person
+        * [[http://github.com/efix]]
+        * efix.fx@gmail.com
+        * [[http://identi.ca/efix]]
+    * Operating system: Debian GNU/Linux Sid
+    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
