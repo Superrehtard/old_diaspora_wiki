@@ -60,6 +60,7 @@ Create a virtual http server for the diaspora app by appending something like th
 You need to run 'bundle install' as apache. So:
 
         sudo usermod -s /bin/bash apache
+        sudo passwd apache
 
 Bundle needs to be able to run 'sudo' from the apache user. Edit /etc/sudoers
 (e. g. using visudo) and add following line:
