@@ -6,6 +6,7 @@ ordinary README.md in the application base directory.
 ## General
 
 I have opted for using rpm packages where it's feasible.  The overall situation is
+
 - Ruby 1.8.7.  As of now, available 
   in rawhide (see below)
 - Rubygems.  In repo, but needs to be rebuilt to 
