@@ -68,11 +68,10 @@ http://codepaste.net/yzkngy
 
 ** How to back up the database?***<br>
 1)install mongo on another computer
-2)go there, type.
-mongo
-use diaspora-development
-db.copyDatabase("diaspora-development", "diaspora-development", "your 1st computers ip address")
-<br>
+2)go there, type.<br>
+mongo<br>
+use diaspora-development<br>
+db.copyDatabase("diaspora-development", "diaspora-development", "your 1st computers ip address")<br>
 that's it! Replace -development with -production if you're running the production environment
 
 *** I installed diaspora on mu machine, went to http://localhost amd signed up. Now my friends can't add me***<br>
