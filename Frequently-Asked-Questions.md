@@ -1,6 +1,6 @@
 This page documents questions that are being frequently asked in relation to the installation and use of Diaspora.
 
-If you have other questions, please try #diaspora on irc.freenode.net. Or go to [[google group|http://groups.google.com/group/diaspora-discuss]]
+If you have other questions, please try #diaspora on irc.freenode.net or our [[Google Group|http://groups.google.com/group/diaspora-discuss]].
 
 # User FAQ
 
@@ -10,9 +10,10 @@ Yes. The following are the official Diaspora demo instances, which will be wiped
 * [[http://tom.joindiaspora.com]]
 * [[http://washington.joindiaspora.com]]
 * [[http://adams.joindiaspora.com]]
-* see also [[Community supported seeds]]
 
-You can check the version of these seeds when you click "DEBUG INFO" at the very bottom of each page. There the commit id and commit date is noted.
+For a list of unofficial, community-driven servers, see [[Community supported seeds]].
+
+You can check the version of these seeds by clicking "DEBUG INFO" at the very bottom of each page. There, the commit id and commit date is noted.
 
 ***How do I get past the login page when I don't have an account yet?***<br>
 To create a new account, go to:
@@ -46,18 +47,18 @@ There are a couple of helpful command line options for setting the address and p
 **-D** will turn on debug mode.  Run **thin -h** to see a complete list.
 
 ***How do I install on other distros?***<br>
+[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
+[Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)<br>
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 Also, there is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) (but it needs some tweaking)<br>
-[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
-[Unofficial ubuntu install script](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
 Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
 
 ***I'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***<br>
 Close the port, make it do connection refused, not timeout.<br>
-(disclaimer: hope this doesnt screw up anyone)<br>
+(Disclaimer: hopefully this doesn't screw up anyone)<br>
 <james_> On Ubuntu: sudo ufw enable, sudo ufw reject 443 (, sudo reboot?)
 
 ***But I have Apache running already and I want no passengers!***<br>
