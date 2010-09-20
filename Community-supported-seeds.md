@@ -124,7 +124,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Updated: irregularly
     * Maintained by a private person
         * IRC/Freenode: bengl
-        * [[http://twitter.com/bengl]]
+        * [[http://twitter.com/notfbdotca]]
     * Operating system: Ubuntu 9.4
     * Comments: Development mode for now.  Database will be reset whenever required.
 
