@@ -6,9 +6,9 @@ ordinary README.md in the application base directory.
 ## General
 
 I have opted for using rpm packages where it's feasible.  The overall situation is
-- Ruby 1.8.7 - As of now, available in rawhide (see below)
-- Rubygems - In repo, but needs to be rebuilt to use ruby-1.8.7
-- Everything else: available
+  - Ruby 1.8.7 - As of now, available in rawhide (see below)
+  - Rubygems - In repo, but needs to be rebuilt to use ruby-1.8.7
+  - Everything else: available
 
 ## Preparing your system
 
@@ -65,7 +65,7 @@ boils own to:
                         rpmbuild/rpms/noarch/ruby-irb-1.8.7.302-1.fc13.noarch.rpm \
                         rpmbuild/rpms/noarch/ruby-rdoc-1.8.7.302-1.fc13.noarch.rpm
 
-Rebuild rubygems in the same way:
+Rebuild rubygem in the same way:
 
        rpmbuild --rebuild rubygems-*src.rpm
        yum install --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
