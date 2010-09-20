@@ -1,6 +1,6 @@
 *This page assumes that you're reasonably capable of installing packages in CentOS/Fedora using Yum and that you've compiled software for linux before.*
 
-This page basically covers how to use the upstream sources to build required software. An alternative way base on rebuilding RPM:s is available her [[RPM installation on Fedora]]
+This page basically covers how to use the upstream sources to build required software. An alternative way based on rebuilding RPM:s is available at [[RPM installation on Fedora]]
 
 ## Installing Prerequisites
 
