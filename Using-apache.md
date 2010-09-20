@@ -72,13 +72,14 @@ Bundle needs to be able to run 'sudo' from the apache user. Edit /etc/sudoers
 
          sudo chown apache /var/www
          sudo chown -R apache /usr/local/webapps/diaspora
-         sudo su -l apache
+         sudo su - apache
          cd /usr/local/webapps/diaspora
          bundle install
          exit
          sudo chown root  /var/www
+         sudo usermod  -L  -s /sbin/nogin apache
 
-Clean up:  'sudo usermod -s /sbin/nogin apache -L'  and remove the apache line from /etc/sudoers.
+Clean up:  remove the apache line from /etc/sudoers.
 
 ## Run and access server
 
