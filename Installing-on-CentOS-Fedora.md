@@ -74,7 +74,7 @@ and started with
     sudo service mongod start
 
 Otherwise, you can find the instructions for installing mongodb over at the MongoDB website.
-http://www.mongodb.org/display/DOCS/CentOS+and+Fedora+Packages
+[[http://www.mongodb.org/display/DOCS/CentOS+and+Fedora+Packages]]
 
 Once you've added the mongodb repository to yum, you need to download the mongo-stable-server package and start the server.
 	  	
