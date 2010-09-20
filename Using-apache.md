@@ -77,7 +77,7 @@ Bundle needs to be able to run 'sudo' from the apache user. Edit /etc/sudoers
          bundle install
          exit
          sudo chown root  /var/www
-         sudo usermod  -L  -s /sbin/nogin apache
+         sudo usermod  -L  -s /sbin/nologin apache
 
 Clean up:  remove the apache line from /etc/sudoers.
 
