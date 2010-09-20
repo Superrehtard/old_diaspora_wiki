@@ -1,4 +1,4 @@
-# Using apache instead of thin server
+# Using apache instead of thin server on Fedora
 
 Running ruby apps through apache is done using the passenger apache
 module. See [[http://www.modrails.com/documentation/Users%20guide.html]]
