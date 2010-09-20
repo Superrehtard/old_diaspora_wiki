@@ -37,7 +37,7 @@ To rename an aspect go to manage page and click on aspect's title. You should be
 * Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  See commandline switches below.
 * Your server must also have 8080 available for websockets.  [Websockets](http://en.wikipedia.org/wiki/WebSockets) are how the browser talks in 'real time' to the server.
 
-*(Installing with Apache? See [[Installing on Ubuntu LAMP]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.)*
+*(Installing with Apache? See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.)*
 
 ***What are the command line options for launching Diaspora's thin HTTP server?***<br>
 There are a couple of helpful command line options for setting the address and port for thin:
