@@ -1,4 +1,4 @@
-# Fedora Diaspora installation notes
+# RPM installation on Fedora
 
 This documents describes how to install diaspora on Fedora 13. It supplements the
 ordinary README.md in the application base directory.
@@ -7,12 +7,9 @@ ordinary README.md in the application base directory.
 
 I have opted for using rpm packages where it's feasible.  The overall situation is
 
-- Ruby 1.8.7.  As of now, available 
-  in rawhide (see below)
-- Rubygems.  In repo, but needs to be rebuilt to 
-  use ruby-1.8.7
-- Everything else: 
-  available
+- Ruby 1.8.7.  As of now, available in rawhide (see below).
+- Rubygems.  In repo, but needs to be rebuilt to use ruby-1.8.7.
+- Everything else:  available.
 
 ## Preparing your system
 
@@ -72,7 +69,7 @@ boils own to:
 Rebuild rubygem in the same way:
 
        rpmbuild --rebuild rubygems-*src.rpm
-       yum install --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
+       yum localinstall --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
 
 ## Getting,running and testing diaspora
 
