@@ -66,6 +66,19 @@ Close the port, make it do connection refused, not timeout.<br>
 Apache config:<br>
 http://codepaste.net/yzkngy
 
+** How to back up the database?***<br>
+1)install mongo on another computer
+2)go there, type.
+mongo
+use diaspora-development
+db.copyDatabase("diaspora-development", "diaspora-development", "your 1st computers ip address")
+<br>
+that's it! Replace -development with -production if you're running the production environment
+
+*** I installed diaspora on mu machine, went to http://localhost amd signed up. Now my friends can't add me***<br>
+You've confused the poor computer. Go to your public address and try again. Also please understand, if you dont know such basics,.
+you probably don't understand what youre risking by running such an early code on your own machine.
+
 
 # Developer FAQ
 
