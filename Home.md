@@ -25,3 +25,5 @@ Welcome to the Diaspora wiki!
 [Dev Group](http://groups.google.com/group/diaspora-dev) - Google group for discussion of technical issues
 
 [Unofficial Forum](http://forum.conni.ca/) - Brand new unofficial forum
+
+[Diaspora IRC Logs](http://logs.9-to-5designs.com) - Log files of #Diaspora and #Diaspora-dev
