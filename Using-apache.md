@@ -13,8 +13,6 @@ To setup apache to run diaspora:
       sudo gem install passenger
       sudo  yum install apr-devel httpd-devel rubygem-rake
       sudo passenger-install-apache2-module
-      cd <base of diaspora>
-      sudo bundle install
 
 Create a new file /etc/httpd/conf.d/passenger.conf with content as given from
 passenger-install-apache2-module. For me, this was:
