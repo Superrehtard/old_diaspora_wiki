@@ -19,9 +19,9 @@ To setup apache to run diaspora:
 Create a new file /etc/httpd/conf.d/passenger.conf with content as given from
 passenger-install-apache2-module. For me, this was:
 
-   LoadModule passenger_module /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15/ext/apache2/mod_passenger.so
-   PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15
-   PassengerRuby /usr/bin/ruby
+     LoadModule passenger_module /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15/ext/apache2/mod_passenger.so
+     PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15
+     PassengerRuby /usr/bin/ruby
 
 ## Make diaspora accessible from apache as a rails rack app.
 
@@ -84,4 +84,5 @@ Clean up:  'sudo usermod -s /sbin/nogin apache' and remove the apache line from 
 
 Restart server using 'server httpd restart'.
 
+Access the server on http://host.domain.tld:8080/diaspora
 
