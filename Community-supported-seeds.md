@@ -2,9 +2,10 @@ Here's a list of seeds run by the Diaspora community members.
 
 There are many security vulnerabilities in the current release of Diaspora, so simply visiting these seeds may harm your computer. **Consider ANY information you post to these seeds as completely public, including your email address and password.**
 
-**Please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.**
+Please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
-Add yours to the correct location **in alphabetical order**.
+If you wish to add your seed to the list, please edit this page adding details along the same pattern. Seeds are listed in alphabetical order by seed name.
+
 If an image is shown, the seed is *probably* online at the moment.
 
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
