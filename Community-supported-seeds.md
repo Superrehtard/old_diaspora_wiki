@@ -146,15 +146,15 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Linux (Debian)
     * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
-* [[http://diasporahosting.eu/]] [[http://diasporahosting.eu/images/user/default.jpg|height=30px|]]
+* [[http://pontari.us/]] (previously diasporahosting.eu) [[http://pontari.us/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Almost every day, unless there is a particular reason not to update (like unstable code)
     * Maintainer
         * IRC/Freenode: jonkri
-        * info@diasporahosting.eu
-        * [[http://twitter.com/diasporahosting]]
+        * jon.kristensen@nejla.se
+        * [[http://twitter.com/pontarius]]
     * Operating system: Debian
-    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+    * Comments: Free Diaspora seeds for anyone who wants it
 
 * [[http://efix.is-a-geek.net]] [[http://efix.is-a-geek.net/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
