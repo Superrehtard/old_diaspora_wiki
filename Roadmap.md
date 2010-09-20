@@ -27,11 +27,26 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Some sort of an administrator interface that would do the entire update automatically, something like the way Wordpress can be updated with the click of a button.
 
 ## Wishlist
-- These are things which would be nice to have, and are not currently in our plan, but we would love to have them.
+
+These are things which would be nice to have, and are not currently in our plan, but we would love to have them.
+
+### Communication
+
 - An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS on a status message before sending it out to your friends. (see gmail undo)
 - Asynchronous  webfinger client in ruby, deprecating Redfinger or modifying it to use EM:HttpRequest instead of RestClient
 - Full activity streams parser and sterilizer, based off the spec, which gives you ruby objects for valid streams (the easy solution would probably make methods in our models to_activity and from_activity)
 - Private pubsubhubbub implementation, check out both the “from” and “oauth” authentication methods. (note maxwell: i may have some code to dump onto the Internet, i need to write some more tests)
+
+- A DHT (distributed hash table) to serve as a directory of Diaspora Users/seeds installed over the internet to help with discovery.
+- enhance our websocket controller: perhaps break it out so other rails projects ? have a framework for using it?
+- Chat client integration using web sockets?
+- Other crazy Websocket experiments: We are just using it to push data to the client, but can we use it to connect people or two seeds for real time games?
+
+- Support for textile/markdown/etc in comments and messages (#issue119)
+
+
+### Development
+
 - Double checking our salmon implementation.... is it up to spec?
 - Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
 - Selenium tests that hit every page would be super nice. The framework for this is started and can be found in test/selenium
@@ -40,17 +55,10 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Option to have a performant data on disk encryption
 - Make our MessageQueue abstracted from the rest of the application, so any queue can be plugged in and used.
 
-- A DHT (distributed hash table) to serve as a directory of Diaspora Users/seeds installed over the internet to help with discovery.
-- enhance our websocket controller: perhaps break it out so other rails projects ? have a framework for using it?
-- Chat client integration using web sockets?
-- Other crazy Websocket experiments: We are just using it to push data to the client, but can we use it to connect people or two seeds for real time games?
-
-- Javascript compatible view templates (handlebars.js looks promising)
-
-- Taxonomy of social types: creating interfaces for all of the activity stream types, so people could make and send their own types on the file in between diaspora seeds. could be tied to the parser/generator?
-
 - An object oriented ruby wrapper for libgcrypt
  - - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
+
+### Deployment
 
 - Running Diaspora from home:
 - - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
@@ -59,3 +67,9 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - - Can we run Diaspora from a Nexus One?
 
 - In general call us out with more elegant solutions
+
+
+### Other
+- Javascript compatible view templates (handlebars.js looks promising)
+
+- Taxonomy of social types: creating interfaces for all of the activity stream types, so people could make and send their own types on the file in between diaspora seeds. could be tied to the parser/generator?
