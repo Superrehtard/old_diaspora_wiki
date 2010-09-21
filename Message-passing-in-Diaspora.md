@@ -22,4 +22,4 @@ person.encrypt returns a JSON hash consisting of an RSA encrypted AES key and an
 ## Discovery
 Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that server, creates a Person object from the information retrieved, and stores it in the database.  Nothing tricky here.
 
-Obviously, this could be much cleaner/simpler/better
+Obviously, this could be much cleaner/simpler/better.  Suggestions welcome.  Salmon is not quite suited to encrypted traffic, because signatures on destination-dependent ciphertext can't be retained for relayed messages, and encrypting a whole salmon seems awkward. 
