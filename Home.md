@@ -30,4 +30,4 @@ Welcome to the Diaspora wiki!
 
 [[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
 
-[questions & answers](http://diaspora.shapado.com/)
+[questions & answers](http://diaspora.shapado.com/) The SO clone for diaspora
