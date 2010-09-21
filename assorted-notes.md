@@ -19,3 +19,6 @@ also: use diaspora-development ; db.copyDatabase("diaspora-development","diaspor
 <chuck> then make a git commit so git can merge it the next time you "git pull origin master"<br>
 (note: speed problem quite sloved, see caching in config/environments/development)<br>
 
+
+switching between development and production (script/server -e production)(enables caching) without switching databases (my database is empty!): 
+http://pastebin.com/N76JFMed
