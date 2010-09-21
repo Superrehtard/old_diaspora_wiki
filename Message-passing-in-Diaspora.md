@@ -24,7 +24,7 @@ Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that serve
 
 * `<Link rel="http://joindiaspora.com/seed_location" type = 'text/html' href="http://tom.joindiaspora.com/"/>`
 * `<Link rel="http://joindiaspora.com/guid" type = 'text/html' href="4c97e47634b7da329d000003"/>`
-* `<Link rel="diaspora-public-key" type = 'RSA' href="LS0...=="/>
+* `<Link rel="diaspora-public-key" type = 'RSA' href="LS0...=="/>`
 
 ## Salmon
 Obviously, this could be much cleaner/simpler/better.  Suggestions welcome.  Salmon is not quite suited to encrypted traffic, because signatures on destination-dependent ciphertext can't be retained for relayed messages, and encrypting a whole salmon seems awkward. 
