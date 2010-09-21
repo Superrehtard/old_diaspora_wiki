@@ -59,7 +59,7 @@ for the last lines of output, which will show the exact location. For me, instal
 boils down to:
 
        cd ~
-       yum localinstall --nogpgcheck   \
+       sudo yum localinstall --nogpgcheck   \
                         rpmbuild/rpms/i686/ruby-1.8.7.302-1.fc13.i686.rpm         \
                         rpmbuild/rpms/i686/ruby-libs-1.8.7.302-1.fc13.i686.rpm    \
                         rpmbuild/rpms/i686/ruby-devel-1.8.7.302-1.fc13.i686.rpm   \
@@ -69,12 +69,12 @@ boils down to:
 Rebuild rubygems in the same way:
 
        rpmbuild --rebuild rubygems-*src.rpm
-       yum localinstall --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
+       sudo yum localinstall --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
 
 ## Getting,running and testing diaspora
 
 From this point, you should proceed from  "Bundler" in README.md.
 
-After completing README.md, it's possible to use apache instead of the thin server. See  [[Using apache]]
+If anyone is interested in making it possible to use apache instead of the thin server, a starting point is at   [[Using apache]]
 
 
