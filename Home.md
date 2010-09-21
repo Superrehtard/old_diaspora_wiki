@@ -27,3 +27,5 @@ Welcome to the Diaspora wiki!
 [Unofficial Forum](http://forum.conni.ca/) - Brand new unofficial forum
 
 [Diaspora IRC Logs](http://logs.9-to-5designs.com) - Log files of #Diaspora and #Diaspora-dev
+
+[[assorted notes]]
