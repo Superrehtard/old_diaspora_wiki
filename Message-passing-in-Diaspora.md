@@ -23,3 +23,17 @@ person.encrypt returns a JSON hash consisting of an RSA encrypted AES key and an
 Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that server, creates a Person object from the information retrieved, and stores it in the database.  Nothing tricky here.
 
 Obviously, this could be much cleaner/simpler/better.  Suggestions welcome.  Salmon is not quite suited to encrypted traffic, because signatures on destination-dependent ciphertext can't be retained for relayed messages, and encrypting a whole salmon seems awkward. 
+
+One possibility is to use a modified salmon in which the author info is encrypted PK for the recipient, with the aes private key inside, and the data is aes-encrypted.  The magic-signature would have to either be on the aes ciphertext and that ciphertext would have to be reused, or it would have to be on the non-exposed plain text. Tag names below are for explanation only.
+    <salmon>
+        <encrypted author info>
+            email
+            aes-private-key
+        </encrypted author info>
+        <data>
+            aes encrypted data
+        </data>
+        <salmon signature>
+             Either on the aes encrypted data or the plaintext data
+        </salmon signature>
+    </salmon>
