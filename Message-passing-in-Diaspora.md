@@ -20,8 +20,13 @@ push_to_person encrypts the plain-text that is passed to it and POSTs it to the 
 person.encrypt returns a JSON hash consisting of an RSA encrypted AES key and an AES-encrypted blob.
 
 ## Discovery
-Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that server, creates a Person object from the information retrieved, and stores it in the database.  Nothing tricky here.
+Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that server, creates a Person object from the information retrieved, and stores it in the database.  The information from webfinger is a collection of <link> tags. Diaspora uses the webfinger description to find the user's seed URL, the globally unique identifier (guid), and the public encryption key.
 
+* `<Link rel="http://joindiaspora.com/seed_location" type = 'text/html' href="http://tom.joindiaspora.com/"/>`
+* `<Link rel="http://joindiaspora.com/guid" type = 'text/html' href="4c97e47634b7da329d000003"/>`
+* `<Link rel="diaspora-public-key" type = 'RSA' href="LS0...=="/>
+
+## Salmon
 Obviously, this could be much cleaner/simpler/better.  Suggestions welcome.  Salmon is not quite suited to encrypted traffic, because signatures on destination-dependent ciphertext can't be retained for relayed messages, and encrypting a whole salmon seems awkward. 
 
 One possibility is to use a modified salmon in which the author info is encrypted PK for the recipient, with the aes private key inside, and the data is aes-encrypted.  The magic-signature would have to either be on the aes ciphertext and that ciphertext would have to be reused, or it would have to be on the non-exposed plain text. Tag names below are for explanation only.
