@@ -95,5 +95,5 @@ Now that you have proper versions of ruby and gem, mongodb and git installed, yo
 	  	
 ## Using apache instead of the thin server
 
-See:  [[Using apache]]
+If anyone is interested in making it possible to use apache instead of the thin webserver, a starting point is at   [[Using apache]]
  
