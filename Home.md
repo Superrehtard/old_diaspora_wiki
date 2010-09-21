@@ -6,6 +6,8 @@ Welcome to the Diaspora wiki!
 
 [[Community-supported seeds]]
 
+[[Message passing in Diaspora]]
+
 **HOWTO**
 
 [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
