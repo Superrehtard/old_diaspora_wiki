@@ -28,4 +28,4 @@ Welcome to the Diaspora wiki!
 
 [Diaspora IRC Logs](http://logs.9-to-5designs.com) - Log files of #Diaspora and #Diaspora-dev
 
-[[assorted notes]]
+[[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
