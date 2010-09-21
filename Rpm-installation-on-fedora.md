@@ -73,7 +73,7 @@ Rebuild rubygems in the same way:
 
 ## Getting,running and testing diaspora
 
-From this point, you should proceed from  "Bundler" in [README.md]([/diaspora/diaspora/blob/master/README.md)
+From this point, you should proceed from  "Bundler" in [README.md]([http://github.com/diaspora/diaspora/blob/master/README.md)
 
 If anyone is interested in making it possible to use apache instead of the thin server, a starting point is at   [[Using apache]]
 
