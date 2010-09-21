@@ -1,7 +1,7 @@
 # Rpm installation on Fedora
 
 This document describes how to install diaspora on Fedora 13. It supplements the
-ordinary README.md in the application base directory.
+ordinary README.md  availabnle at [[http://github.com/diaspora/diaspora/blob/master/README.md]]
 
 ## General
 
@@ -73,7 +73,7 @@ Rebuild rubygems in the same way:
 
 ## Getting,running and testing diaspora
 
-From this point, you should proceed from  "Bundler" in README.md.
+From this point, you should proceed from  "Bundler" in [README.md]([/diaspora/diaspora/blob/master/README.md)
 
 If anyone is interested in making it possible to use apache instead of the thin server, a starting point is at   [[Using apache]]
 
