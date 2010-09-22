@@ -16,7 +16,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
-* [[http://diaseeds.com]] [[http://diaseeds.com/images/user/default.jpg|height=30px|]]
+* [[http://diaseeds.com]] [[http://diaseeds.com:3000/images/user/default.jpg|height=30px|]]
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
     * Maintainer 
@@ -101,7 +101,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, database will be reset only if need be
 
-* [[http://diasporahosts.com]] [[http://diasporahosts.com/images/user/default.jpg|height=30px|]]
+* [[http://diasporahosts.com]] [[http://diasporahosts.com:3000/images/user/default.jpg|height=30px|]]
     * Opened: 17/09/2010
     * Updated: Everyday with stable code
     * Maintainer
