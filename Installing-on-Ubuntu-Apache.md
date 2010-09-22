@@ -4,6 +4,8 @@ See also: [[Using apache]]
 
 Does anyone have federation and/or websockets working with apache?  Correct me if I am wrong, but we use eventmachine for both of these things, and should only work if you use thin or rainbows! as your appserver, not mod_rails and passenger?  - maxwell
 
+I have a "working" install using apache2 + mod_passenger.  If you could give me a way to test this out, I would be happy to provide a more detailed analysis.  I notice a few things aren't working, (eg propagating messages in particular) but I can't be sure which parts are failing due to websockets vs. bugs. - apfejes
+
 ## Install Apache development package
 <pre>
 sudo apt-get install apache2-dev
