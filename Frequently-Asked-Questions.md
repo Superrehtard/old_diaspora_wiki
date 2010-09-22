@@ -36,6 +36,14 @@ Moving content between aspects isn't supported yet. But you can post content to 
 
 *** How to add people to multiple aspects? ***
 
+*** Where is my private messages? ***
+
+*** Where is my groups? ***
+
+*** Where is my audio? ***
+
+*** Where is my video? ***
+
 # Administrator FAQ
 
 ***What ports does Diaspora need available for communication?***<br>
