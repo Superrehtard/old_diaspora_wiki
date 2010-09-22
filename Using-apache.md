@@ -54,10 +54,12 @@ Install the bundle
 Create a virtual http server for the diaspora app by appending something like this to
 /etc/httpd/conf/httpd.conf (using your own servername for host.domain.tld):
 
-    <virtualhost *:8080>
+    Listen 3000
+    <virtualhost *:3000>
         ServerName     host.domain.tld
         DocumentRoot   /usr/local/webapps/diaspora
         RailsEnv       development
+        RackEnv      development
         RackBaseURI    /diaspora    # The link created above
         <Directory /usr/local/webapps/diaspora/public>
             AllowOverride None
@@ -71,7 +73,7 @@ Create a virtual http server for the diaspora app by appending something like th
 
 Restart server using 'server httpd restart'.
 
-Access the server on http://host.domain.tld:8080/diaspora
+Access the server on http://host.domain.tld:3000/diaspora
 
 ## Update this document
 
