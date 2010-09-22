@@ -170,3 +170,10 @@ If an image is shown, the seed is *probably* online at the moment.
         * [[http://twitter.com/pontarius]]
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it
+
+* [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
+   * Opened: 21/09/2010
+   * Updated: Multiple times per day
+   * Maintainer
+       * DIASPORA: plex@alt.md
+   * Operating system: Ubuntu
