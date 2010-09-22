@@ -150,8 +150,6 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Ubuntu 9.4
     * Comments: Development mode for now.  Database will be reset whenever required.
 
-* [[http://openlinkup.com]]  - temporarily offline for a reconfiguration. 
-
 * [[http://openspora.com]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 15/09/2010
     * Updated: As changes in the official repository become stable
