@@ -45,11 +45,6 @@ unhappy in some cases then (?)
         mkdir /usr/local/webapps/diaspora/tmp  # All rack apps should have a tmp dir.
         chown -R apache /usr/local/webapps/diaspora
 
-Setup the symlink used by RacklBaseURI which also is the url you access diaspora at:
-
-        cd  /usr/local/webapps/diaspora
-        ln -s public diaspora
-
 Install the bundle
 
         sudo bundle install --system
@@ -67,8 +62,7 @@ Create a virtual http server for the diaspora app by appending something like th
         DocumentRoot   /usr/local/webapps/diaspora
         RailsEnv       development
         RackEnv        development
-        RackBaseURI    /diaspora    # The link created above
-        <Directory /usr/local/webapps/diaspora/public>
+         <Directory /usr/local/webapps/diaspora/public>
             AllowOverride None
             Order         allow,deny
             Allow         from all
@@ -80,7 +74,7 @@ Create a virtual http server for the diaspora app by appending something like th
 
 Restart server using 'server httpd restart'.
 
-Access the server on http://host.domain.tld:3000/diaspora
+Access the server on http://host.domain.tld:3000
 
 ## Update this document
 
