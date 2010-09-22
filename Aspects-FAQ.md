@@ -1,4 +1,4 @@
-Frequently Asked Questions about aspects
+Frequently Asked Questions about aspects and privacy settings in Diaspora.
 
 *** What is an *aspect*? ***
 
@@ -15,3 +15,7 @@ Moving content between aspects isn't supported yet. But you can post content to 
 *** How to add people to multiple aspects? ***
 
 See [[issue #281|http://github.com/diaspora/diaspora/issues/issue/281/]]
+
+*** What is equivalent to *friends of friends filter* in Facebook? ***
+
+[[/path/to/image.png]]
