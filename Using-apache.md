@@ -2,7 +2,14 @@
 
 **No, this does not work.** It's just left as a starting point if anyone might make it work
 
-Running ruby apps through apache is done using the passenger apache
+##Basic Http Proxy
+You can get the same basic behavior that nginx proxy uses from the proxy_balancer Apache mod.
+With this you can put in a rewrite rule for /diaspora and send it to port 3000.  You would still need
+port 8080 open for the EM server, but there is no reason a basic proxy mechanic shouldn't work.
+I haven't tried it, but it's the path least fraught with peril.
+
+##Passenger
+A common way to run Rails apps on Apache is the Passenger apache
 module. See [[http://www.modrails.com/documentation/Users%20guide.html]]
 
 There is no Fedora passenger rpm ATM, see
