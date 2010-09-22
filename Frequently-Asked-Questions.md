@@ -22,19 +22,7 @@ To create a new account, go to:
 ***What is a *seed*?***<br>
 A seed is an HTTP server (a webserver) where Diaspora is running. There are several seeds which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seeds and communicate with them.
 
-*** What is an *aspect*? ***
-
-An aspect is a section with updates from preset list of friends. An aspect helps to divide your friends into different groups and show them different aspects of your life. When you post messages
-
-*** How to rename an aspect? ***
-
-To rename an aspect go to manage page and click on aspect's title. You should be able to type there.
-
-*** How to move content between aspects/post content to multiple aspects? ***
-
-Moving content between aspects isn't supported yet. But you can post content to all aspects (using all aspects tab).
-
-*** How to add people to multiple aspects? ***
+[[Aspects FAQ]]
 
 *** Where is my private messages? ***
 
