@@ -17,6 +17,10 @@ In order to run Diaspora, you will need to install the following dependencies:
 
     sudo yum install mongodb-server openssl ImageMagick git libxslt-devel libxml2-devel
 
+Ensure that mongod is started at system boot:
+
+    sudo chkconfig mongod on
+
 ##  Ruby 1.8.7 installation
 
 In order to update ruby to 1.8.7, you need to know the packages currently using
