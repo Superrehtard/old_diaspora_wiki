@@ -1,8 +1,7 @@
 Welcome to the Diaspora wiki!
 
 [[Frequently Asked Questions]]
-
-[[Aspects]]
+* [[Aspects FAQ]]
 
 [[Roadmap]]
 
