@@ -14,4 +14,4 @@ Moving content between aspects isn't supported yet. But you can post content to 
 
 *** How to add people to multiple aspects? ***
 
-See http://github.com/diaspora/diaspora/issues/issue/281/
+See [[issue #281|http://github.com/diaspora/diaspora/issues/issue/281/]]
