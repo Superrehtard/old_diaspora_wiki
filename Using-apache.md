@@ -59,7 +59,7 @@ Create a virtual http server for the diaspora app by appending something like th
         ServerName     host.domain.tld
         DocumentRoot   /usr/local/webapps/diaspora
         RailsEnv       development
-        RackEnv      development
+        RackEnv        development
         RackBaseURI    /diaspora    # The link created above
         <Directory /usr/local/webapps/diaspora/public>
             AllowOverride None
