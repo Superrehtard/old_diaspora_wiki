@@ -18,4 +18,4 @@ See [[issue #281|http://github.com/diaspora/diaspora/issues/issue/281/]]
 
 *** What is equivalent to *friends of friends filter* in Facebook? ***
 
-[[/path/to/image.png]]
+[[http://i51.tinypic.com/2epnj7l.png]]
