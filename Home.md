@@ -2,6 +2,8 @@ Welcome to the Diaspora wiki!
 
 [[Frequently Asked Questions]]
 
+[[Aspects]]
+
 [[Roadmap]]
 
 [[Community-supported seeds]]
