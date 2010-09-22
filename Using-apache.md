@@ -47,7 +47,7 @@ unhappy in some cases then (?)
 
 Setup the symlink used by RacklBaseURI which also is the url you access diaspora at:
 
-        cd  /var/www/diaspora
+        cd  /usr/local/webapps/diaspora
         ln -s public diaspora
 
 Install the bundle
