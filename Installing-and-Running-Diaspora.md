@@ -263,7 +263,11 @@ for instructions.
 
 Once mongo is running and bundler has finished, run `bundle exec thin start`
 from the root Diaspora directory.  This will start the app server in
-development mode[.](http://bit.ly/9mwtUw)
+development mode[.](http://bit.ly/9mwtUw)  It will run on port 3000 by default
+and you need to either run it on port 80 (probably unwise), or use your
+webserver of choice (we use nginx) to proxy port 80 at your domain name
+of choice to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf
+and config/thin.yml in the repo for an example thin config and nginx server stanza.
 
 ### Run the websocket server
 
