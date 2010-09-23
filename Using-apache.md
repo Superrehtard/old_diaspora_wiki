@@ -1,5 +1,7 @@
 # Using apache instead of thin server on Fedora
 
+This seems like it overlaps with installing on ubuntu/apache, so let's get rid of one.  -- Raphael Sofaer
+
 ##General
 
 This page covers the steps which makes diaspora server running on port 3000. Besides this, most users 
