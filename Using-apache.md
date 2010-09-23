@@ -1,12 +1,15 @@
 # Using apache instead of thin server on Fedora
 
-**No, this does not work.** It's just left as a starting point if anyone might make it work
+##General
 
-##Basic Http Proxy
-You can get the same basic behavior that nginx proxy uses from the proxy_balancer Apache mod.
+This page covers the steps which makes diaspora server running on port 3000. Besides this, most users 
+have a need to making this server available to the outside world on port 80. This is not covered at this point.
+Personally, I just forwarded port 80 on my router to port 3000 on my box.
+ 
+*You can get the same basic behavior that nginx proxy uses from the proxy_balancer Apache mod.
 With this you can put in a rewrite rule for /diaspora and send it to port 3000.  You would still need
 port 8080 open for the EM server, but there is no reason a basic proxy mechanic shouldn't work.
-I haven't tried it, but it's the path least fraught with peril.
+I haven't tried it, but it's the path least fraught with peril.*
 
 ##Passenger
 A common way to run Rails apps on Apache is the Passenger apache
@@ -75,6 +78,10 @@ Create a virtual http server for the diaspora app by appending something like th
 Restart server using 'server httpd restart'.
 
 Access the server on http://host.domain.tld:3000
+
+## Bugs
+
+- At this point, adding friends from this server to other servers fails with a "Connection timeout" message.
 
 ## Update this document
 
