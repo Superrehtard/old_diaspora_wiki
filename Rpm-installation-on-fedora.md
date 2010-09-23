@@ -81,6 +81,6 @@ Rebuild rubygems in the same way:
 
 From this point, you should proceed from  "Bundler" in [README.md](http://github.com/diaspora/diaspora/blob/master/README.md)
 
-If anyone is interested in making it possible to use apache instead of the thin server, a starting point is at   [[Using apache]]
+Some notes on using apache instead of the thin webserver are in   [[Using apache]]
 
 
