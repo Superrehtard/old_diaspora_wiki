@@ -6,6 +6,8 @@ Does anyone have federation and/or websockets working with apache?  Correct me i
 
 I have a "working" install using apache2 + mod_passenger.  If you could give me a way to test this out, I would be happy to provide a more detailed analysis.  I notice a few things aren't working, (eg propagating messages in particular) but I can't be sure which parts are failing due to websockets vs. bugs. - apfejes
 
+If you can friend tom@tom.joindiaspora.com, it's working.  Otherwise, I think we can consider passenger/mod_rails unavailable for now.  You can still use Apache for a webserver. -- Raphael Sofaer
+
 ## Install Apache development package
 <pre>
 sudo apt-get install apache2-dev
