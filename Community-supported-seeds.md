@@ -8,6 +8,8 @@ If you wish to add your seed to the list, please edit this page adding details a
 
 If an image is shown, the seed is *probably* online at the moment.
 
+[notice by SargoDarya] If you're hosting a seed please consider adding yourself to the seedup list at [[http://seedup.sargodarya.de]]. It automatically checks if seeds are online and sorts them based on there uptimes. It's free, people will notice your seed and you can track how your seed performs in the management console.
+
 * [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Every 2 hours, but service restarted roughly daily
