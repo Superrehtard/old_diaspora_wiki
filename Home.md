@@ -11,6 +11,8 @@ Welcome to the Diaspora wiki!
 
 **HOWTO**
 
+[[Installing and Running Diaspora]]
+
 [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
 
 [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting mongodb and git from non-standard repositories.
