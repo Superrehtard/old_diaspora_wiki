@@ -14,5 +14,10 @@ The page puts Apache and Thin at the same level which is crazy.  Apache is an ng
 Passenger could be a This replacement, but making it work will be hard.
 Replacing nginx with apache2 would be very straightforward, as long as you stick with Thin.
 People should try this:  
-http://articles.slicehost.com/2008/5/6/ubuntu-hardy-apache-rails-and-thin
+[[http://articles.slicehost.com/2008/5/6/ubuntu-hardy-apache-rails-and-thin]]
+
+=end
+=leamas
+
+OK, thanks for spreading some light on this. As it stands, with a note it doesn' really work, I guess the page could be left until I or someone else sorts this out. Obviously, I'm not the only one which have been trying trhis path, so lets keep this to show where it goes FTM.
 =end
