@@ -193,6 +193,14 @@ On **Ubuntu** 10.04, run the following:
 This PPA is maintained by an Ubuntu Developer. For Ubuntu 10.10, this version
 of rubygems is in the repositories.
 
+If you are running **Ubuntu Server**, you might get an error that looks like:
+
+		sudo: add-apt-repository: command not found
+
+If this happens, you must first install python-software-properties, which contains the add-apt-repository command:
+
+		sudo apt-get install python-software-properties
+
 On **Fedora**, run the following:
 
 		sudo yum install rubygems
