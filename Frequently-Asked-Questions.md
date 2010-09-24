@@ -84,6 +84,7 @@ You've confused the poor computer. Go to your public address and try again. Also
 
 ***bundle install >>> command not found ?***
 sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+though the best solution is ./ubuntu-setup.bash
 
 # Developer FAQ
 
