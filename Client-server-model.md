@@ -20,4 +20,4 @@ To avoid that the user has to handle the private key, it would be possible to st
 
 ## Cons
 * more complex
-* the maybe is required to deal with a private key
+* the user maybe is required to deal with a private key if he changes his frontend
