@@ -8,3 +8,11 @@ Basically, three issues:
 - Where should the discussion be on this topic? Here? Mailing list? Open an issue? Or 
  
 --alec leamas
+
+=MSofaer
+The page puts Apache and Thin at the same level which is crazy.  Apache is an nginx replacement, not a Thin replacement.
+Passenger could be a This replacement, but making it work will be hard.
+Replacing nginx with apache2 would be very straightforward, as long as you stick with Thin.
+People should try this:  
+http://articles.slicehost.com/2008/5/6/ubuntu-hardy-apache-rails-and-thin
+=end
