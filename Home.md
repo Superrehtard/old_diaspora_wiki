@@ -8,6 +8,7 @@
 
 #Conceptual stuff
 * [[Encryption]]
+* [[Client-server-model]]
 
 # HOWTO
 * [[Installing and Running Diaspora]]
