@@ -1,4 +1,4 @@
-# Welcome to the Diaspora wiki!
+# The Official Diaspora Wiki
 
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
