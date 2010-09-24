@@ -181,3 +181,11 @@ If an image is shown, the seed is *probably* online at the moment.
         * [[http://twitter.com/pontarius]]
     * Operating system: Debian
     * Comments: Free Diaspora seeds for anyone who wants it
+
+* [[http://regged.de]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
+    * Opened: 24/09/2010
+    * Updated: irregularly
+    * Maintainer
+        * private individual
+    * Operating system: Linux
+    * Comments: just for testing, database will be reset whenever required
