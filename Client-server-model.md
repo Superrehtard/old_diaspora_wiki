@@ -21,3 +21,5 @@ To avoid that the user has to handle the private key, it would be possible to st
 ## Cons
 * more complex
 * the user maybe is required to deal with a private key if he changes his frontend
+* the client side could still be compromised/hacked.
+* this solution only improves security for those who develop their own client app. Otherwise, it just move the trust from the seed provider to the client app developer.
