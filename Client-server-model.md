@@ -16,7 +16,7 @@ To avoid that the user has to handle the private key, it would be possible to st
 * the client can be chosen by the user and can be a
   * web frontend
   * app on smartphone
-  * dedicated application in local computer as well as a plugin for thunderbird, firefox or whatever
+  * dedicated application on local computer (as well as a plugin for thunderbird, firefox or whatever)
 
 ## Cons
 * more complex
