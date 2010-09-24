@@ -1,6 +1,6 @@
 # The Official Diaspora Wiki
 
-* [[Frequently Asked Questions (FAQ)]]
+* [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
 * [[Roadmap]]
 * [[Community-supported seeds]]
