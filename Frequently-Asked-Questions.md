@@ -53,7 +53,7 @@ There are a couple of helpful command line options for setting the address and p
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
 [Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)<br>
 There is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) for Arch Linux<br>
-and some guides to install it manually:
+and some guides to install it manually:<br>
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 
