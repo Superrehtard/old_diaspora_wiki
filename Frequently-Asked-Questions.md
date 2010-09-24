@@ -96,8 +96,6 @@ Pull the latest from github:
     git pull
 Install any updates to the bundle:
     bundle install
-Recompile:
-    rake
 Clean the database:
     mongo diaspora-development
     > db.dropDatabase()
