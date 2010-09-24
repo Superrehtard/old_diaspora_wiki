@@ -103,6 +103,16 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: just for testing, database will be reset whenever required
 
+* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/images/user/default.jpg|height=30px|]]
+    * Opened: 2010-09-21
+    * Updated: irregularly
+    * Maintained by a private person
+        * IRC/Freenode: phaidros
+        * phaidros@subsignal.org
+    * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
+    * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
+
+
 * [[http://diaspora.xilinus.com]] [[http://diaspora.xilinus.com/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
     * Updated: daily
