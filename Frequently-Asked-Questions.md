@@ -82,6 +82,8 @@ Replace -development with -production if you're running the production environme
 *** I installed Diaspora on my machine, went to http://localhost and signed up. Now my friends can't add me***<br>
 You've confused the poor computer. Go to your public address and try again. Also please understand, if you dont know such basics, you probably don't understand what you're risking by running such an early code on your own machine.
 
+***bundle install >>> command not found ?***
+sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
 # Developer FAQ
 
