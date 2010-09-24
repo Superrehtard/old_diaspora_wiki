@@ -1,4 +1,6 @@
-This summarized the results of the discussion on the mailing list.
+This page is meant to sum up the discussion so far.
+
+It should also be considered to use a sole server.
 
 # Concept
 The aim of this concept is to achieve a higher level of security. The system is divided into two parts, a server and a client. The task of the server is storage and message forwarding. The client is responsible for providing the user interface.
