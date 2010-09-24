@@ -1,3 +1,6 @@
+This page is meant to sum up the discussion so far
+
+# Public-private key
 To enable an efficient encryption of posts (also files) for groups (aspects) the following is applied:
 
 1. a random key (RK) is generated
@@ -7,3 +10,6 @@ To enable an efficient encryption of posts (also files) for groups (aspects) the
 
 If a friend is added to the group, RK is encrypted once more.
 If a friend is removed from a group, we don't generate a new RK to re-encrypt everything.
+
+# SSL
+Encrypt the connection between servers...
