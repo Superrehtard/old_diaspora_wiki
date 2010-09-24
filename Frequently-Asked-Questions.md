@@ -52,9 +52,11 @@ There are a couple of helpful command line options for setting the address and p
 ***How do I install on other distros?***<br>
 [Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
 [Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)<br>
+There is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) for Arch Linux<br>
+and some guides to install it manually:
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
-Also, there is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) (but it needs some tweaking)<br>
+
 
 ***Once I get my seed running, how do I disable outside logins?***<br>
 Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
