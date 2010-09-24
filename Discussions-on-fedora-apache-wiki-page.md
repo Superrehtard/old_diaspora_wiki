@@ -17,6 +17,7 @@ People should try this:
 [[http://articles.slicehost.com/2008/5/6/ubuntu-hardy-apache-rails-and-thin]]
 
 =end
+
 =leamas
 
 OK, thanks for spreading some light on this. As it stands, with a note it doesn' really work, I guess the page could be left until I or someone else sorts this out. Obviously, I'm not the only one which have been trying trhis path, so lets keep this to show where it goes FTM.
