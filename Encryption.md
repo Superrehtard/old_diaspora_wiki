@@ -6,4 +6,4 @@ To enable an efficient encryption of posts (also files) for groups (aspects) the
 1. the encrypted key is sent to each recipient
 
 If a friend is added to the group, RK is encrypted once more.
-The only problem occurs if a friend is removed from a group. This would require to generate a new RK and to re-encrypt everything.
+If a friend is removed from a group, we don't generate a new RK to re-encrypt everything.
