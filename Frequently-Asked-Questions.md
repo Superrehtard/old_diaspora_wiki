@@ -11,16 +11,19 @@ Yes. The following are the official Diaspora demo instances, which will be wiped
 * [[http://washington.joindiaspora.com]]
 * [[http://adams.joindiaspora.com]]
 
-For a list of unofficial, community-driven servers, see [[Community supported seeds]].
+For a list of unofficial, community-driven servers, see [[Community supported pods]].
 
-You can check the version of these seeds by clicking "DEBUG INFO" at the very bottom of each page. There, the commit id and commit date is noted.
+You can check the version of these pods by clicking "DEBUG INFO" at the very bottom of each page. There, the commit id and commit date is noted.
 
 ***How do I get past the login page when I don't have an account yet?***<br>
 To create a new account, go to:
-[[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your seed).
+[[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a *seed*?***<br>
-A seed is an HTTP server (a webserver) where Diaspora is running. There are several seeds which you can access using a webbrowser. Communication is not restricted to one seed. You can add friends from other seeds and communicate with them.
+A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep eachother up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
+
+***What is a *pod*?***<br>
+A pod is an HTTP server (a webserver) where Diaspora is running. There are several pods which you can access using a webbrowser. Communication is not restricted to one pod. You can add friends from other pods and communicate with them. In a-technical words: it's a website where you can make or upload your own seed.
 
 [[Aspects FAQ]]
 
@@ -58,7 +61,7 @@ and some guides to install it manually:<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 
 
-***Once I get my seed running, how do I disable outside logins?***<br>
+***Once I get my pod running, how do I disable outside logins?***<br>
 Quick answer: If you remove "registerable" from app/models/user.rb, it will remove the "Sign up" link on the login page.
 
 ***I'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***<br>
