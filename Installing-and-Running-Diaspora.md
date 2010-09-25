@@ -257,17 +257,21 @@ for Diaspora.
 
 ### Configure Diaspora
 
-Diaspora needs to know where on the internet it is.  Copy config/app_config_example.yml
+For a local development instance, you can skip this step initially.
+
+Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config_example.yml
 to config/app_config.yml, put your url into the url field, and make any other
 needed configuration changes.
 
 ### Run the server
 
-`./script/server` will start both thin and the websocket server.  If you want
-to run a different app server, you will have to run them separately.  See below
-for instructions.
+For a local development instance, just run `./script/server`. This will start both thin and the websocket server. The application is then available at http://localhost:3000.
+
+If you want to run an app server other than thin, you must run it and the websocket server separately.  
 
 ### Run the app server
+
+For a local development instance, skip this step - just run `./script/server` to get both the app server and websocket server on the right ports.
 
 Once mongo is running and bundler has finished, run `bundle exec thin start`
 from the root Diaspora directory.  This will start the app server in
@@ -278,6 +282,8 @@ of choice to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx
 and config/thin.yml in the repo for an example thin config and nginx server stanza.
 
 ### Run the websocket server
+
+For a local development instance, skip this step - just run `./script/server` to get both the app server and websocket server on the right ports.
 
 run `bundle exec ruby ./script/websocket_server` to start the websocket server
 on port 8080. Change the port in config/app_config.yml.
@@ -290,4 +296,4 @@ More details in db/seeds/dev.rb and db/seeds/tom.rb.
 ### Testing
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
-testing framework.  In order to run the tests, run `bundle exec rspec spec`.
+testing framework.  To run the tests: `bundle exec rspec spec`.
