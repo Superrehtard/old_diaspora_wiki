@@ -83,6 +83,7 @@ Note - Signatures could be used to authenticate Owners on a Post basis.
 Communication can be unencrypted(secure Posts are encrypted anyway). Owner authentication required.
 
 Note - Once again, signatures could be used to authenticate Owners of Posts.
+
 Note - Audience authentication may be required to reduce the load of serving requests from non Audience Seeds.
 
 ## Other Issues
