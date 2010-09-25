@@ -162,6 +162,14 @@ If an image is shown, the seed is *probably* online at the moment.
     * Operating system: Debian GNU/Linux Sid
     * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
 
+* [[http://my-seed.com]]
+    * Opened: 2010-08-20
+    * Updated: irregularly
+    * Maintained by a private person
+        * IRC/Freenode: duke_
+    * Operating system: Gentoo
+    * Comments: Free, public Diaspora seed. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
+
 * [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
     * Updated: irregularly
@@ -169,7 +177,7 @@ If an image is shown, the seed is *probably* online at the moment.
         * IRC/Freenode: bengl
         * [[http://twitter.com/notfbdotca]]
     * Operating system: Ubuntu 9.4
-    * Comments: Development mode for now.  Database will be reset whenever required.
+    * Comments: Development mode for now.  Database will be reset whenever required
 
 * [[http://openspora.com]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 15/09/2010
