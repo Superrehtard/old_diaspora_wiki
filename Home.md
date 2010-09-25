@@ -9,6 +9,7 @@
 #Conceptual stuff
 * [[Encryption]]
 * [[Client-server-model]]
+* [[Security Architecture Proposal]]
 
 # HOWTO
 * [[Installing and Running Diaspora]]
