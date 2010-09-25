@@ -37,7 +37,8 @@ An alternative to the web client for advanced users. It is an example of a Local
 A server that handles data federation. Data is pushed to it from clients (such as the web client) via the Client API. It stores/retrieves data in/from the Pod's database. Seeds communicate with other seeds via the Seed API to notify of and exchange data.
 
 ## Security Model
-Security is defined at 4 different levels. None, Low, Medium and High. Use
+Security is defined at 4 different levels. None, Low, Medium and High.
+
 * Each User supports a maximum security level, defined by the combination of Pod, Seed, and Client they use. 
 * Each Aspect has a maximum security level, defined by the lowest maximum security level of the Users it contains. 
 * Each Post has a maximum security level, defined by the lowest maximum security level of the Aspects in its Audience. 
