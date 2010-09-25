@@ -2,6 +2,7 @@
 
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
+   * [[Terminology]]
 * [[Roadmap]]
 * [[Community-supported pods]]
 * [[Message passing in Diaspora]]
