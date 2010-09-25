@@ -1,3 +1,4 @@
+# Diaspora Security Architecture Proposal
 # Preamble
 This proposal is intended to summarise the various mailing list discussions around security into one plausible communication architecture. While it is based upon the discussion of many, it is written by one. This one has no connection to the Diaspora 4, nor does he purport to being a security expert. Please keep this in mind while reading and considering.
 
