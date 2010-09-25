@@ -45,7 +45,7 @@ Security is defined at 4 different levels. None, Low, Medium and High.
 * Each Post also has an actual security level, between None and its maximum security level, as selected by its Owner.
 
 ### None
-Posts with the None security level are not encrypted and available to anyone. They can be posted from any Client, stored by Seeds without encryption, and likewise communicated between Seeds without encryption. Any seed can request the Post from its Owner's Seed.
+Posts with the None security level are not encrypted and available to anyone. They can be posted from any Client, stored by Seeds without encryption, and likewise communicated between Seeds without encryption. Any Seed can request the Post from its Owner's Seed.
 
 ### Low
 The Low security level encrypts Posts with a symmetric key at the Seed level.
@@ -59,7 +59,7 @@ Note that this level can potentially be simplified into client(in this case Audi
 ### Medium
 The Medium security level encrypts Posts with a symmetric key at the Client level (Including Remote Clients).
 
-Each User has a key pair for use in this level. The private key of this pair is kept encrypted on any Clients. A Post can be made from any client that has been given the encrypted private key. The User should only become aware of this key pair if they use any client other than the default web client.
+Each User has a key pair for use in this level. The private key of this pair is kept encrypted on any Clients. A Post can be made from any Client that has been given the encrypted private key. The User should only become aware of this key pair if they use any Client other than the default web client.
 
 The phrase to unlock the private key is the same as the User's password(obviously the password should be matched in its hashed form). This (un-hashed) phrase is never stored on the Client or Seed. The private key is unlocked when the User logs in, and locked when the Client is closed or when the User logs out (as applicable).
 
