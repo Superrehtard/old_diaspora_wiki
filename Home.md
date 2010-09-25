@@ -3,7 +3,7 @@
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
 * [[Roadmap]]
-* [[Community-supported seeds]]
+* [[Community-supported pods]]
 * [[Message passing in Diaspora]]
 
 #Conceptual stuff
