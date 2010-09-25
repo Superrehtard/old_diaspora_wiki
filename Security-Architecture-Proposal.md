@@ -104,7 +104,7 @@ When a User is removed from the Audience of a Post (or set of Posts) the corresp
 ## Comments
 Comment threads don't make sense unless everyone reading them can see the original Post, and all Comments. The above handling of Comments seems to be the only logical way to ensure this.
 
-However, this has the ramification that any any change in Audience of a Post would also change the Audience of any Comments by other Users. This would suggest that Audience changes should not be allowed, but a easy method for enforcing this is not evident.
+However, this has the ramification that any change in Audience of a Post would also change the Audience of any Comments by other Users. This would suggest that Audience changes should not be allowed, but a easy method for enforcing this is not evident.
 
 ## Audience Management
 Post/key sources other than the Owner Seed are a possibility to help increase uptime. However, management of Audiences for Posts may be a difficult issue in such a situation. A capability based Audience model may be more suitable for managing who is served what Data.
