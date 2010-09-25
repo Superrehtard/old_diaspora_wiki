@@ -1,4 +1,4 @@
-Nushio> i'm interested in doing an android app for this :)
+Nushio> i'm interested in doing an android app for this :)<br>
 matthew-roberts> and I'm interested in doing an iPhone app :)
 
 grippi> run bundle exec rake db:purge to clear the database
