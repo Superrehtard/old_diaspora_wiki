@@ -296,4 +296,4 @@ More details in db/seeds/dev.rb and db/seeds/tom.rb.
 ### Testing
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
-testing framework.  To run the tests: `bundle exec rspec spec`.
+testing framework.  To run the tests: `rake spec`.
