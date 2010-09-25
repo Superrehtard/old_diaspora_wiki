@@ -1,14 +1,14 @@
-Here's a list of seeds run by the Diaspora community members. 
+Here's a list of pods (seed hosters) run by the Diaspora community members. 
 
-###There are many security vulnerabilities in the current release of Diaspora, so simply visiting these seeds may harm your computer. Consider ANY information you post to these seeds as completely public, including your email address and password.
+###There are many security vulnerabilities in the current release of Diaspora, so simply visiting these pods may harm your computer. Consider ANY information you post to the seeds on these pods as completely public, including your email address and password.
 
 Please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
-If you wish to add your seed to the list, please edit this page adding details along the same pattern. Seeds are listed in alphabetical order by seed name.
+If you wish to add your pod to the list, please edit this page adding details along the same pattern. Pods are listed in alphabetical order by pod name.
 
-If an image is shown, the seed is *probably* online at the moment.
+If an image is shown, the pod is *probably* online at the moment.
 
-[notice by SargoDarya] If you're hosting a seed please consider adding yourself to the seedup list at [[http://seedup.sargodarya.de]]. It automatically checks if seeds are online and sorts them based on there uptimes. It's free, people will notice your seed and you can track how your seed performs in the management console.
+[notice by SargoDarya] If you're hosting a pod please consider adding yourself to the seedup list at [[http://seedup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
 
 
@@ -160,7 +160,7 @@ If an image is shown, the seed is *probably* online at the moment.
         * efix.fx@gmail.com
         * [[http://identi.ca/efix]]
     * Operating system: Debian GNU/Linux Sid
-    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
+    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
 * [[http://my-seed.com]]
     * Opened: 2010-08-20
@@ -168,7 +168,7 @@ If an image is shown, the seed is *probably* online at the moment.
     * Maintained by a private person
         * IRC/Freenode: duke_
     * Operating system: Gentoo
-    * Comments: Free, public Diaspora seed. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
+    * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
 
 * [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-17
@@ -187,7 +187,7 @@ If an image is shown, the seed is *probably* online at the moment.
         * charles.melbye@gmail.com
         * [[http://twitter.com/cmelbye]]
     * Operating system: ArchLinux
-    * Comments: Free, public Diaspora seed. Carefully run to be as stable as possible.
+    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
 
 * [[http://pontari.us/]] (previously diasporahosting.eu) [[http://pontari.us/images/user/default.jpg|height=30px|]]
