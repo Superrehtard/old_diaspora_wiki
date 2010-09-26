@@ -55,7 +55,7 @@ These are things which would be nice to have, and are not currently in our plan,
 - Make our MessageQueue abstracted from the rest of the application, so any queue can be plugged in and used.
 
 - An object oriented ruby wrapper for libgcrypt
- - - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
+  - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
 
 ### Deployment
 
