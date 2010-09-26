@@ -15,15 +15,16 @@ The Diaspora* team initially set out to build a pgp-based distributed social net
 Options.
 -----------------
 Options are:
-* A* - not bringing back PGP, and sticking with the current unencrypted storage, and inter-pod communication over SSL.
 
-* B - using PGP for inter-pod communication only. Two options to implement this:
-* B1* - the private key is stored unencrypted on the server
-* B2* - communication only takes place while the recipient is logged in
+- A* - not bringing back PGP, and sticking with the current unencrypted storage, and inter-pod communication over SSL.
 
-* C - using PGP to encrypt stored data 
-* C1** - server-side: while the user is logged in, the private key is in memory
-* C2*** - client-side: data is already encrypted when it reached the server/pod.
+- B - using PGP for inter-pod communication only. Two options to implement this:
+- B1* - the private key is stored unencrypted on the server
+- B2* - communication only takes place while the recipient is logged in
+
+- C - using PGP to encrypt stored data 
+- C1** - server-side: while the user is logged in, the private key is in memory
+- C2*** - client-side: data is already encrypted when it reached the server/pod.
 
 The number of stars here refer to how secure we think each of these options would be (roughly):
 1 star: gives security against attacks from outside all pods
