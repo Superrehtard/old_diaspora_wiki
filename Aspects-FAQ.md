@@ -2,7 +2,7 @@ Frequently Asked Questions about aspects and privacy settings in Diaspora.
 
 *** What is an *aspect*? ***
 
-An aspect is a section with updates from preset list of friends. An aspect helps to divide your friends into different groups and show them different aspects of your life. When you post messages
+An aspect is one of the faces you show to the world.  It might be who you are at work, or who you are to your family, or who you are to your college friends.  Posts to an aspect are sent only to those people, and posts from those people appear in that aspect.
 
 *** How to rename an aspect? ***
 
