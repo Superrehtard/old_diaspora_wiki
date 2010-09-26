@@ -15,4 +15,4 @@ If a friend is removed from a group, we don't generate a new RK to re-encrypt ev
 Encrypt the connection between servers...
 
 # end-to-end encryption and "PGP-ready"
-one draft proposal of the various options for encryption, and an advocacy of end-to-end-encryption and making Diaspora* "PGP-ready" can be found here http://github.com/diaspora/diaspora/wiki/PrettyGoodDiaspora
+one draft proposal of the various options for encryption, and an advocacy of end-to-end-encryption and making Diaspora* "PGP-ready" can be found here [[Prettygooddiaspora]]
