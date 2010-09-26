@@ -51,6 +51,7 @@ mixing e2ee pods and 'dodgy' pods.
 For these reasons, we propose for Diaspora to *support* PGP (be PGP-ready), but not use it by default. Imagine a web of Diaspora nodes, some of which want to use PGP, and some of which don't. For this to work, all we need to fix is the inter-pod communication protocol. The implementation of each pod is up to the pod, and the users that choose to have their seed on it.
 
 There are then 4 situations at the moment that a message is sent between two pods:
+
 - dodgyPod to dodgyPod: the current situation. Sent over an SSL channel, with a MagicSig envelope for identifying the sender.
 - dodgyPod to PGPod: since the data comes from a dodgyPod anyway, there is no need to be too fussy about it. The dodgyPod will send the current way, without using any PGP, and the PGPod accepts it, just like it would accept data that comes aggregated from outside Diaspora.
 - PGPod to dodgyPod: this is the case we need to talk about. see below.
