@@ -17,7 +17,7 @@ I found a workaround with a gem named [specific_install](http://github.com/rdp/s
         gem install specific_install
         gem specific_install -l http://github.com/eventmachine/eventmachine.git
 
-You may similar problems with a few of the other gems.
+You may similar problems with a few of the other gems such as em-http-request.
 
 ###Gemfile
 
@@ -34,6 +34,26 @@ And inserted:
 		gem 'json_pure'
 
 Under the uncategorized section.
+
+There also appears to be a problem with linecache 0.43 under Ruby 1.9.2
+
+Change:
+
+		gem 'ruby-debug'
+
+To:
+
+		gem 'ruby-debug19'
+
+I also had some trouble with em-http-request, as the extensions prevented install. Luckily there is a Windows binary gem, so install that and change the Gemfile accordingly:
+
+I changed the following under #Eventmachine
+
+		gem 'em-http-request',:git => 'git://github.com/igrigorik/em-http-request.git', :require => 'em-http'
+
+To:
+
+		gem 'em-http-request', :require => 'em-http'
 
 ###Include Path
 
