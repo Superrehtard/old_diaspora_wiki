@@ -4,12 +4,12 @@ Pretty Good Diaspora
 
 Context.
 ------------
-This document is the product of an informal workshop organized 24-26 September 2010 in Navalcarnero, Spain, by a couple of friends who call themselves Unhosted. We've only just started, but aim to make the world a better place by promoting 'unhosted' solutions, like Diaspora*, FreedomBox, GNU Social P2P, etcetera. Please follow us on http://www.twitter.com/unhosted in case we have interesting things to say in the future!
+This document is the product of an informal workshop organized 24-26 September 2010 in Navalcarnero, Spain, by a couple of friends who call themselves Unhosted. We've only just started, but aim to make the world a better place by promoting 'unhosted' solutions, like Diaspora*, FreedomBox, GNU Social P2P, etcetera. Please follow us on [Twitter](http://www.twitter.com/unhosted) in case we have interesting things to say in the future!
 
 
 Background.
 -----------------
-The Diaspora* team initially set out to build a pgp-based distributed social network. Later, due to implementation problems, they switched to not encrypting the content, but instead using SSL for communication between pods. This however has the drawback that it make Diaspora*'s security depend entirely on the security of the pod that runs your seed. This situation was discussed (at length) on the diaspora-dev and diaspora-discuss mailing lists. The conclusion was that the Diaspora* team would like to switch back to using PGP. On the other hand, they don't believe (like many others on the list) that end-to-end encryption (e2ee) would be feasible with the current state of predominant installed (browser) technology. This workshop tries to investigates ways for Diaspora* to use PGP. Halfway the workshop now, our conclusions are below, and I must say they're different from what we thought when we started yesterday.
+The Diaspora\* team initially set out to build a pgp-based distributed social network. Later, due to implementation problems, they switched to not encrypting the content, but instead using SSL for communication between pods. This however has the drawback that it make Diaspora\*'s security depend entirely on the security of the pod that runs your seed. This situation was discussed (at length) on the diaspora-dev and diaspora-discuss mailing lists. The conclusion was that the Diaspora\* team would like to switch back to using PGP. On the other hand, they don't believe (like many others on the list) that end-to-end encryption (e2ee) would be feasible with the current state of predominant installed (browser) technology. This workshop tries to investigates ways for Diaspora* to use PGP. Halfway the workshop now, our conclusions are below, and I must say they're different from what we thought when we started yesterday.
 
 
 Options.
@@ -54,7 +54,7 @@ There are then 4 situations at the moment that a message is sent between two pod
 - dodgyPod to dodgyPod: the current situation. Sent over an SSL channel, with a MagicSig envelope for identifying the sender.
 - dodgyPod to PGPod: since the data comes from a dodgyPod anyway, there is no need to be too fussy about it. The dodgyPod will send the current way, without using any PGP, and the PGPod accepts it, just like it would accept data that comes aggregated from outside Diaspora.
 - PGPod to dodgyPod: this is the case we need to talk about. see below.
-- PGPod to PGPod: the ideal case. fully encrypted throughout the client->pod->pod->client path. The client encrypts the data for all recipients of the aspect that the data belongs to, and posts it encrypted through the sender's pod, it stays encrypted while stored, and through the receiver's pod, until it reaches the client of each receiver, where it is finally decrypted. A PGPod never gets to see a user's private key, and never decrypts data that passes through it (except maybe for discovery and/or user search, if enabled).
+- PGPod to PGPod: the ideal case. fully encrypted throughout the client→pod→pod→client path. The client encrypts the data for all recipients of the aspect that the data belongs to, and posts it encrypted through the sender's pod, it stays encrypted while stored, and through the receiver's pod, until it reaches the client of each receiver, where it is finally decrypted. A PGPod never gets to see a user's private key, and never decrypts data that passes through it (except maybe for discovery and/or user search, if enabled).
 
 making dodgyPods PGP-ready.
 -----------------
