@@ -60,15 +60,14 @@ These are things which would be nice to have, and are not currently in our plan,
 ### Deployment
 
 - Running Diaspora from home:
-- - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
-- - Option to have a performant data on disk encryption
-- - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services
-- - Can we run Diaspora from a Nexus One?
+  - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
+  - Option to have a performant data on disk encryption
+  - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services
+  - Can we run Diaspora from a Nexus One?
 
 - In general call us out with more elegant solutions
 
 
 ### Other
 - Javascript compatible view templates (handlebars.js looks promising)
-
 - Taxonomy of social types: creating interfaces for all of the activity stream types, so people could make and send their own types on the file in between diaspora seeds. could be tied to the parser/generator?
