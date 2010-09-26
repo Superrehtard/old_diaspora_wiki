@@ -16,7 +16,7 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Refining aspects (adding people to multiple groups, having people only in the public group, etc) 
 
 ## Medium Priority
-- More Standards compliance: we believe in working code before standards, but being standards compliant is very important to us.  We need to bust our own chops on this one, and If you see any low hanging fruit, by all means let us know, and we will get to it when when it makes sense with a feature.
+- More Standards compliance: for instance, we have a salmon implementation, but it's not tested against the spec yet.  It should be made compliant with the salmon spec.
 - Private messaging
 - Events
 - Photo tagging
