@@ -21,6 +21,9 @@ Options are:
 - C1** - server-side: while the user is logged in, the private key is in memory
 - C2*** - client-side: data is already encrypted when it reached the server/pod.
 
+- D - hybrid of end-to-end and pod-based encryption
+- D1*/*** - browser-based clients are able to communicate with encrypted messages using public/private keys stored on the pod. Local clients are able encrypt messages with private keys stored on the local computer. Local clients are also able to post messages using the pod-stored keys. Messages using local-client encryption are flagged as secure so browser-based clients are not subjected to encrypted hash messages, but will instead receive a placeholder telling them to log with a local client. Users would be able to log in with either browser or local clients. (Note: local client refers to a non-browser based client, or browser-based client that runs locally and stores keys without transmitting them)
+
 The number of stars here refer to how secure we think each of these options would be (roughly):
 1 star: gives security against attacks from outside all pods
 2 stars: also gives security against attacks with read access to any pod's disk (but not its memory)
