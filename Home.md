@@ -17,6 +17,7 @@
 * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
 * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting mongodb and git from non-standard repositories.
 * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
+* [[Installing on Windows]] - some workarounds for installing on Windows
 
 # Other Resources
 (Don't forget that the issues are on a link at the top of the page.)
