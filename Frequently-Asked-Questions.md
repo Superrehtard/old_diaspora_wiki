@@ -41,7 +41,7 @@ A pod is an HTTP server (a webserver) where Diaspora is running. There are sever
 
 * Your server must be on port 80, or you must forward 80 to 3000.  Otherwise friend requests may cause lockups on other servers.  See commandline switches below.
 * Your server must also have 8080 available for websockets.  [Websockets](http://en.wikipedia.org/wiki/WebSockets) are how the browser talks in 'real time' to the server.
-* Due to a bug, your server must block, not just filter, port 443.
+* Due to a bug, your server must block, not just filter out (->timeout), port 443.
 
 *(Installing with Apache? See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.)*
 
