@@ -4,7 +4,7 @@ If you have other questions, please try #diaspora on irc.freenode.net or our [[G
 
 # User FAQ
 
-***Are there any public demo servers of Diaspora online that I can try?***<br>
+***Are there any public demo servers of Diaspora online that I can try?***  
 Yes. The following are the official Diaspora demo instances, which will be wiped of all content at regular and unpredictable intervals:
 
 * [[http://tom.joindiaspora.com]]
@@ -27,9 +27,9 @@ A pod is an HTTP server (a webserver) where Diaspora is running. There are sever
 
 [[Aspects FAQ]]
 
-*** Where is my private messages? ***
+*** Where are my private messages? ***
 
-*** Where is my groups? ***
+*** Where are my groups? ***
 
 *** Where is my audio? ***
 
