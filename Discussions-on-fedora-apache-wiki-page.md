@@ -32,4 +32,5 @@ However it's *not* possible the other way around: to let leamas@pontari.us befri
 The behaviour is the same if diaspora is deployed with the Thin webserver.
 
 Anyway, according to MSofaer's basic criteria, I guess this is some basic functionality. Or?
-=
+
+=end
