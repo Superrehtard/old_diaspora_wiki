@@ -39,25 +39,18 @@ passenger-install-apache2-module. For me, this was:
      PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-2.2.15
      PassengerRuby /usr/bin/ruby
 
-## Make diaspora accessible from apache as a rails rack app
+## Create the diaspora user and setup the web app.
 
-Copy the complete diaspora application to  e. g.,  /usr/local/webapps to
-avoid troubles when apache can't access files in your ordinary home dir.
-Avoid storing the app under /var/www, seems that rewriting rules becomes
-unhappy in some cases then (?)
-
-        cd <parent of diaspora dir>
-        sudo mkdir /usr/local/webapps
-        sudo mv diaspora /usr/local/webapps
-        mkdir /usr/local/webapps/diaspora/tmp  # All rack apps should have a tmp dir.
-        chown -R apache /usr/local/webapps/diaspora
-
-Install the bundle
-
-        sudo bundle install --system
-        mkdir -p devise.git/ruby
-        ln -s /usr/lib/ruby/gems/* devise.git/ruby/
-
+     useradd -md /var/diaspora diaspora
+     su - diaspora
+     chmod 755 .
+     git clone http://github.com/diaspora/diaspora.git master
+     cd master
+     bundle install --deployment
+     mkdir tmp
+     cp config/app_config.yml.example app_config.yml
+     ! Edit app_config.yml, fix at least hostname
+    
 ## Configure apache server instance
 
 Create a virtual http server for the diaspora app by appending something like this to
@@ -66,10 +59,10 @@ Create a virtual http server for the diaspora app by appending something like th
     Listen 3000
     <virtualhost *:3000>
         ServerName     host.domain.tld
-        DocumentRoot   /usr/local/webapps/diaspora
+        DocumentRoot   /var/diaspora/master
         RailsEnv       development
         RackEnv        development
-         <Directory /usr/local/webapps/diaspora/public>
+         <Directory /var/diaspora/master/public>
             AllowOverride None
             Order         allow,deny
             Allow         from all
