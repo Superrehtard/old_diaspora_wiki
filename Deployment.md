@@ -65,10 +65,10 @@ it possible to forward https traffic to another host.
 - Using a sub-uri like host.example.org/diaspora. This does not require any DNS registrattion, and provides a simple mechanism to
 map what should be forwarded to diaspora for the web server. 
 
-Basically, this boils down to
+## Conclusions
 
 - That the home user typically wants to use a sub-uri like https://host.example.org/diaspora
 - That the corporate user typically wants to use the named virtual host like diaspora.example.com
-- That the virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost setup
-
-Overall, diaspora needs to be agnostic to whatever URL:s are used to access the pod.
+- That the virtul host installation doesn't need to forward at all, leaving the routing issues to the vhost setup
+- That a dynamic approach for the ports used in pod/pod communication would make things a lot easier.
+- That diaspora should be agnostic as to what URL:s are used to access the pod. Different pods
