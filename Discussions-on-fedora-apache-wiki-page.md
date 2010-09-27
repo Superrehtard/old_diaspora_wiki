@@ -22,3 +22,12 @@ People should try this:
 
 OK, thanks for spreading some light on this. As it stands, with a note it doesn' really work, I guess the page could be left until I or someone else sorts this out. Obviously, I'm not the only one which have been trying trhis path, so lets keep this to show where it goes FTM.
 =end
+
+=leamas
+
+According to [[Installing on Ubuntu Apache]], we could consider this work if we can befriend  tom@tom.joindiaspora.com . This does not work for me. However, befriending leamas@pontari.us works, I can see the request on the remote side..
+
+However it's *not* possible th  other way around: to let leamas@pontari.us befriend leamas@mumin.dnsalias.net (the latter the apache passenger instance). This results in a timeout immediately after the webfinger request (which seems to complete OK). Part of problem is that  this might be affected by my local machine not blocking port 443, which just times out on connect. According to [[Frequently Asked Questions]], this is not acceptable. But I have not found a way to actually block the port despite some tries.
+
+Anyway, according to MSofaer's basic criteria, I guess this is some basic functionality. Or?
+=
