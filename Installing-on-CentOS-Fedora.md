@@ -118,7 +118,7 @@ The first attempt to fix might be to let the router block port 443. If it works 
     -A INPUT -p tcp -m tcp --dport 443 -j REJECT --reject-with tcp-reset
 
 Start system-config-firewall. Check that https is unchecked in the list of Trusted Services. Then click "Custom Rules" in 
-leftmost window. Click Add, Select Protocol Type 'ipv4' and  Firewall Table to 'Filter'. Select the file /etc/sysconfig/iptables-https. 
+leftmost window. Click Add, select Protocol Type 'ipv4' and  Firewall Table to 'Filter'. Select the file /etc/sysconfig/iptables-https. 
 Click OK, and Apply. Done!
 
 At this point you should try with telnet again. If you don't get a "Connection refused" I really don know what to do.
