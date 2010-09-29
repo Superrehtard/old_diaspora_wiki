@@ -27,7 +27,7 @@ OK, thanks for spreading some light on this. As it stands, with a note it doesn'
 
 According to [[Installing on Ubuntu Apache]], we could consider this work if we can befriend  tom@tom.joindiaspora.com . This does not work for me. However, befriending leamas@pontari.us works, I can see the request on the remote side..
 
-However it's *not* possible the other way around: to let leamas@pontari.us befriend leamas@mumin.dnsalias.net (the latter the apache passenger instance). This results in a timeout immediately after the webfinger request (which seems to complete OK). Part of problem is that  this might be affected by my local machine not blocking port 443, which just times out on connect. According to [[Frequently Asked Questions]], this is not acceptable. But I have not found a way to actually block the port despite some tries (probably a router issue).
+However it's *not* possible the other way around: to let leamas@pontari.us befriend leamas@mumin.dnsalias.net (the latter the apache passenger instance). This results in a timeout immediately after the webfinger request (which seems to complete OK). Part of problem is that  this might be affected by my local machine not blocking port 443, which just times out on connect. According to [[Frequently Asked Questions]], this is not acceptable. But I have not found a way to actually block the port despite some tries (probably a router issue). See [Issue 360](http://github.com/diaspora/diaspora/issues#issue/360)
 
 The behaviour is the same if diaspora is deployed with the Thin webserver.
 
