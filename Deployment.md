@@ -5,11 +5,12 @@
 A diaspora server, a pod, communicates with a client and  other pods out there. The requirements are
 outlined in [[Security Architecture Proposal]]. Three interfaces exists:
 
-- With the client. For the default setup, the client is a browser. The client/pod communcation needs to be
+- With the client. For the default setup, the client is a browser. Today this is done on port 80 for the
+"regular" traffic and port 8080 for websocket use. However, the client/pod communcation needs to be
 encrypted which is done using http/SSL i. e. https. This also includes the websocket traffic(?)
 - Offering webfinger services on port 80. This is a public service containing no sensitive data.
 - With other pods. The data in this interface lis encrypted as needed, and can be transferred as-is i. e.,
-using plain http. 
+using plain http. Today. it runs  on port 80.
 
 ## What's a "web server"?
 
