@@ -2,7 +2,7 @@
 
 ## Diaspora communication
 A diaspora server, a pod, communicates with a client and  other pods out there. The requirements are
-outlined in [[Diaspora Security Architecture Proposal]]. Three interfaces exists:
+outlined in [[Security Architecture Proposal]]. Three interfaces exists:
 
 - With the client. For the default setup, the client is a browser. The client/pod communcation needs to be
 encrypted which is done using http/SSL i. e. https. This also includes the websocket traffic.
