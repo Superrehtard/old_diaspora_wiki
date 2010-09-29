@@ -77,6 +77,10 @@ Rebuild rubygems in the same way:
        rpmbuild --rebuild rubygems-*src.rpm
        sudo yum localinstall --nogpgcheck rpmbuild/rpms/noarch/rubygems-1.3.7-1.fc13.noarch.rpm
 
+## Walk around bug 360
+
+You should look into [[Handling bug 360]]
+
 ## Getting,running and testing diaspora
 
 From this point, you should proceed from  "Bundler" in [README.md](http://github.com/diaspora/diaspora/blob/master/README.md)
