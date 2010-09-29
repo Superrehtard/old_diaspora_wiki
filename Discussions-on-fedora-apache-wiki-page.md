@@ -33,4 +33,6 @@ The behaviour is the same if diaspora is deployed with the Thin webserver.
 
 Anyway, according to MSofaer's basic criteria, I guess this is some basic functionality. Or?
 
+UPDATE: I have (seemingly) succeed to invite tom@tom.joindiaspora.com from my passenger instance.
+
 =end
