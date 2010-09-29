@@ -9,6 +9,20 @@ encrypted which is done using http/SSL i. e. https. This also includes the webso
 - With other pods. The data in this interface lis encrypted as needed, and can be transferred as-is i. e.,
 using plain http. 
 
+## What's a "web server"?
+
+The word "web server" has become ambigious   in this context. The basic setup is a fronting web server 
+(nginx in reference installation), and an application web server (thin in reference install).
+
+The front  webserver is typically something the user already has running. The application server is OTOH a 
+specific server for diaspora, with specific requirements for running rails etc.
+
+It's clear that it should be possible, and not hard, to use almost any web server as a fronting one. The basic
+requirement is to handle a few static files for webfinger, and to forward traffic to7from diaspora.
+
+As for the application server, the reference install uses thin. It's unclear whether other alternatives such as
+apache passenger might also work. There is some discussion on [[Discussions on fedora apache wiki page]]
+
 ## Usecases
 
 There are thre usecases/scenarios:
