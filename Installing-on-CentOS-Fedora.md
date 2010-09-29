@@ -121,7 +121,7 @@ Start system-config-firewall. Check that https is unchecked in the list of Trust
 leftmost window. Click Add, select Protocol Type 'ipv4' and  Firewall Table to 'Filter'. Select the file /etc/sysconfig/iptables-https. 
 Click OK, and Apply. Done!
 
-At this point you should try with telnet again. If you don't get a "Connection refused" I really don know what to do.
+At this point you should try with telnet again. If you don't get a "Connection refused" I really don't know what to do.
 
 
 
