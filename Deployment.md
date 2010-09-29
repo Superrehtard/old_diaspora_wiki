@@ -9,6 +9,8 @@ encrypted which is done using http/SSL i. e. https. This also includes the webso
 - With other pods. The data in this interface lis encrypted as needed, and can be transferred as-is i. e.,
 using plain http. 
 
+[[ftp://mumin.dnsalias.net/pub/diaspora.png]]
+
 ## What's a "web server"?
 
 The word "web server" has become ambigious   in this context. The basic setup is a fronting web server 
