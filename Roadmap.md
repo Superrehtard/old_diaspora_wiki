@@ -5,8 +5,11 @@ You can see what we are currently working on [[here, on Diaspora’s Tracker|htt
 Our roadmap is the mission critical features that given enough time, we will develop them ourselves.  You are welcome to try and tackle one of these problems, and it would be awesome if you checked Tracker and the network tree to make sure no work is being duplicated.
 
 ## Already integrated
-- Upload Images
-- Realtime Posts
+- Share status messages and photos privately and in near real time with your friends through “aspects”.
+- Friend people across the Internet no matter where Diaspora seed is located.
+- Manage friends using “aspects”
+- Upload of photos and albums
+- All traffic is signed and encrypted (except photos, for now).
 
 ## Near Future
 - Data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
