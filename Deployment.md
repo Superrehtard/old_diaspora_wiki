@@ -1,6 +1,7 @@
 *This is a work in progress. No links lead to this page, and that's for a reason!*
 
 ## Diaspora communication
+
 A diaspora server, a pod, communicates with a client and  other pods out there. The requirements are
 outlined in [[Security Architecture Proposal]]. Three interfaces exists:
 
@@ -24,13 +25,13 @@ requirement is to handle a few static files, and to forward traffic to/from dias
 As for the application server, the reference install uses thin. It's unclear whether other alternatives such as
 apache passenger might also work. There is some discussion on [[Discussions on fedora apache wiki page]]
 
-## Usecases
+## Use cases
 
-There are thre usecases/scenarios:
+Three use cases/scenarios:
 
 #### The dedicated server.
 
-This is a simple machine containing one the diaspora server and it's dependencies. Examples might include a 
+This is a simple machine containing only the diaspora server and it's dependencies. Examples might include a 
 bootable USB stick or a hosted virtual server. The key requirement is to enable the diaspora service with as
 litlle overhead as possible.
 
@@ -52,10 +53,10 @@ webfinger reply.
 
 #### The corporate user
 
-This user has a multitude of servers. She controls a DNS domain, and has SSL certificate on at least one host which she
-might or might not want to associate with diaspora. 
+This user has a multitude of servers. She controls a DNS domain and a IP address block.  She also  have a signed SSL certificate on 
+at least one host which she might or might not want to associate with diaspora. 
 
-In general,  this user  a similar need as the home user  to forward traffic to the server running diaspora. Here, this might mean 
+In general,  this user  a similar need as the home user  to forward traffic to the app server running diaspora. Here, this might mean 
 to forward to another machine without packing up the SSL envelope.
 
 # Discussion
@@ -65,7 +66,7 @@ The main problem is to forward the traffic to diaspora while keeping things simp
 One part of this is diaspora's use of port 80. For almost all servers, this is already used for other purposes. This means that we
 must setup the user's existing server to forward traffic to/from, diaspora. I doubt this will be a straightforward procedure, there are
 to many webservers, operating systems, web applications and routers out there. To make it easy diaspora should
-be as non-intrusive as possible, leaving existing functionality and configuration unaffected a where possible.
+be as non-intrusive as possible, leaving existing functionality and configuration unaffected where possible.
 
 The simplest would be if diaspora could use an arbitrary port for the pod/pod communication. This could be accomplished by remote
 peers finding out the URL:s actually required by issuing a (possibly webfinger) request on port 80. With this in operatfion, all http
@@ -84,8 +85,8 @@ map what should be forwarded to diaspora for the web server. This is the way myt
 
 ## Conclusions
 
+ -The virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost  container.
 - The home user typically wants to use a sub-uri like https://host.example.org/diaspora
 - The corporate user typically wants to use the named virtual host like diaspora.example.com
-- The virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost  container.
 - A dynamic approach for the ports used in pod/pod communication would make things a lot easier.
-- Diaspora should be agnostic as to what URL:s are used to access the pod.
+- Diaspora should be agnostic as to what https URL:s are used to access the pod from the browser
