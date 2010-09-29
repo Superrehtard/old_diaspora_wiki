@@ -98,6 +98,8 @@ access to.
 First check the current situation.Note use of the external address, the address used by the outside world. In most cases, this is your 
 router's external hostname
 
+    telnet host.example.com 443
+
 .One possible reply is this, coming within a few seconds:
 
     telnet host.example.com 443
@@ -110,13 +112,14 @@ If so, everything is OK. Otherwise, a typical situation is
     Trying 85.230.51.222...
     telnet: connect to address 85.230.51.222: Connection timed out
 
-The first attempt to fix it might be to let the router block port 443. If ot works (no timeout) it's fine. Otherwise, connect port
+The first attempt to fix might be to let the router block port 443. If it works (no timeout) it's fine. Otherwise, connect port
 443 on your router with port 443 on your host. Then create a file /etc/sysconfig/iptables-https like this:
 
     -A INPUT -p tcp -m tcp --dport 443 -j REJECT --reject-with tcp-reset
 
-Start system-config-firewall. Click "Custom Rules" in leftmost window. Click Add, Select Protocol Type 'ipv4' and 
-Firewall Table to 'Filter'. Select the file /etc/sysconfig/iptables-https. Click OK, and Apply. Done!
+Start system-config-firewall. Check that https is unchecked in the list of Trusted Services. Then click "Custom Rules" in 
+leftmost window. Click Add, Select Protocol Type 'ipv4' and  Firewall Table to 'Filter'. Select the file /etc/sysconfig/iptables-https. 
+Click OK, and Apply. Done!
 
 At this point you should try with telnet again. If you don't get a "Connection refused" I really don know what to do.
 
