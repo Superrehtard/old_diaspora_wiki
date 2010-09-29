@@ -29,7 +29,7 @@ apache passenger might also work. There is some discussion on [[Discussions on f
 
 There are thre usecases/scenarios:
 
-## The virtual server.
+### The virtual server.
 
 This is a simple machine containing one the diaspora server and it's dependencies. Examples might include a 
 bootable USB stick or a hosted virtual server. The key requirement is to enable the diaspora service with as
@@ -39,7 +39,7 @@ The problem how to route traffic to/from this virtual server is beyond the scope
 
 No front webserver should be needed here, diaspora should be able to bind directly to the ports it uses.
 
-## The home user.
+###The home user.
 
 The home user typically already runs a web server containing some static pages.  It might also contain some other 
 web applications both on port 80 and (less likely, but still possible) on port 443. This user has no server certificate.
@@ -50,7 +50,7 @@ Diaspora should be easy to install on the existing  server, and coexist with oth
 The basic approach here would be, as today, to deploy diaspora on an arbitrary, unused port e. g. 3000. The existing webserver
 will have to forward traffic from/to this server from the "official" URL. 
 
-## The corporate user
+### The corporate user
 
 This user has a multitude of servers. She controls a DNS domain, and has SSL certificate on at least one host which she
 might or might not want to associate with diaspora. 
