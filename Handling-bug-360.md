@@ -1,5 +1,3 @@
-You should look into [[Handling bug 360]]
-
 You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This is about getting a fast, direct negatuve answer
 when trying to access port 443 i. e., the https port. In this section, I presume your host is located behind a router which you have full
 access to.
