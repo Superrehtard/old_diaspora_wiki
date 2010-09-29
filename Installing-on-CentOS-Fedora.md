@@ -91,7 +91,7 @@ Once you've installed the repository files, you just need to use yum to grab it.
 
 ## Walk around bug 360
 
-You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This about getting a fast, direct negatuve answer
+You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This is about getting a fast, direct negatuve answer
 when trying to access port 443 i. e., the https port. In this section, I presume your host is located behind a router which you have full
 access to.
 
