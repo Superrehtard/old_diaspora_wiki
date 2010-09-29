@@ -86,8 +86,8 @@ map what should be forwarded to diaspora for the web server. This is the way myt
 
 ## Conclusions
 
--The virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost  container.
--The home user typically wants to use a sub-uri like https://host.example.org/diaspora
+- The virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost  container.
+- The home user typically wants to use a sub-uri like https://host.example.org/diaspora
 - The corporate user typically wants to use the named virtual host like diaspora.example.com
 - A dynamic approach for the ports used in pod/pod communication would make things a lot easier.
 - Diaspora should be agnostic as to what https URL:s are used to access the pod from the browser
