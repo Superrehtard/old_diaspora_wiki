@@ -23,5 +23,3 @@ also: use diaspora-development ; db.copyDatabase("diaspora-development","diaspor
 
 switching between development and production (script/server -e production)(enables caching) without switching databases (my database is empty!): 
 http://pastebin.com/N76JFMed
-
-(...)
