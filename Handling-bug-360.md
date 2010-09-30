@@ -1,4 +1,4 @@
-You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This is about getting a fast, direct negatuve answer
+You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This is about getting a fast, direct negative answer
 when trying to access port 443 i. e., the https port. In this section, I presume your host is located behind a router which you have full
 access to.
 
@@ -19,8 +19,8 @@ If so, everything is OK. Otherwise, a typical situation is
     Trying 85.230.51.222...
     telnet: connect to address 85.230.51.222: Connection timed out
 
-The first attempt to fix might be to let the router block port 443. If it works (no timeout) it's fine. Otherwise, connect port
-443 on your router with port 443 on your host. Then create a file /etc/sysconfig/iptables-https like this:
+The first attempt to fi:x might be to let the router block port 443. If it works (no timeout) it's fine. Otherwise, forward port
+443 on your router to port 443 on your host. Then create a file /etc/sysconfig/iptables-https like this:
 
     -A INPUT -p tcp -m tcp --dport 443 -j REJECT --reject-with tcp-reset
 
