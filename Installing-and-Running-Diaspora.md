@@ -259,7 +259,7 @@ for Diaspora.
 
 For a local development instance, you can skip this step initially.
 
-Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config_example.yml
+Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config.yml.example
 to config/app_config.yml, put your url into the url field, and make any other
 needed configuration changes.
 
