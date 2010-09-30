@@ -15,8 +15,8 @@ If a friend is removed from a group, we don't generate a new RK to re-encrypt ev
 Encrypt the connection between servers...
 
 Leamas: According to the Security-Architecture-Proposal should SSL not be needed between servers. 
-OTOH, it *is* needed  in the pod/browser interface. Or am I missing something?
---
+ OTOH, it *is* needed  in the pod/browser interface. Or am I missing something?
+  --
 
 
 # see also:
