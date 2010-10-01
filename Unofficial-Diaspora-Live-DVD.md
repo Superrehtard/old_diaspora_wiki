@@ -11,6 +11,7 @@ IF YOU ARE TO INSTALL THE LIVE CD/DVD, CHANGE THE USERNAME AND PASSWOR
 * direct download(slower): [[http://csinsider.homeip.net/config/mchrisco/diaspora/diaspora_PreAlpha_V0.03.iso]]
 
 Documentation and Previous versions here: [[http://csinsider.homeip.net/index.php/CS_Diaspora]]
+<br>
 [[http://github.com/michaelachrisco/Unofficial-Diaspora-Live-DVD]]
 
 <br>
