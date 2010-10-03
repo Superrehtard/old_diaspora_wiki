@@ -1,5 +1,6 @@
 Nushio> i'm interested in doing an android app for this :)<br>
 matthew-roberts> and I'm interested in doing an iPhone app :)
+anonymous> you see, we had these HUGE IBM 3270 TERMINALS the green ones ... huge mainframe a disconnected client model and then what 20 years later comes INTERNET and it turns out to be THE SAME OLD PIG - WITH LIPSTICK !
 
 grippi> run bundle exec rake db:purge to clear the database
 
@@ -23,3 +24,5 @@ also: use diaspora-development ; db.copyDatabase("diaspora-development","diaspor
 
 switching between development and production (script/server -e production)(enables caching) without switching databases (my database is empty!): 
 http://pastebin.com/N76JFMed
+
+
