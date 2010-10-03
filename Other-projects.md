@@ -2,7 +2,7 @@
 
 [[Eben moglen - Freedom in The Cloud|http://www.youtube.com/watch?v=QOEMv0S8AcA]]
 
-[[the GNU social and freedombox guys|irc://irc.freenode.net/social]]
+[[http://wiki.debian.org/FreedomBox]]
 
 [[ProjectComparison|http://gitorious.org/social/pages/ProjectComparison]]
 
