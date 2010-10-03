@@ -30,3 +30,4 @@
 * [[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
 * [questions & answers](http://diaspora.shapado.com/) The SO clone for diaspora
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
+* [[Other projects]] - links elsewhere
