@@ -162,6 +162,14 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Debian GNU/Linux Sid
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
+* [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
+    * Opened: 25/09/2010
+    * Updated: every 12 hours
+    * Maintainer : private person
+        * IRC/freenode: wk_
+    * Operating system: ArchLinux
+    * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
+
 * [[http://my-seed.com]]
     * Opened: 2010-08-20
     * Updated: irregularly
