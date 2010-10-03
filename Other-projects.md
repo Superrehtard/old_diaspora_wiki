@@ -6,3 +6,8 @@
 
 [[ProjectComparison|http://gitorious.org/social/pages/ProjectComparison]]
 
+[[GNU social|http://www.gnu.org/software/social/]]
+
+[[OStatus|http://ostatus.org/]]
+
+[[http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/]]
