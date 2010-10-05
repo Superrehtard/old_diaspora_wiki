@@ -1,7 +1,8 @@
 *This is a work in progress. No links lead to this page, and that's for a reason!*
 
 Diaspora needs a deployment strategy.Some background:
- - Security and overall communications, as in  [[Security Architecture Proposal]]
+
+- Security and overall communications, as in  [[Security Architecture Proposal]]
 - The need for home user deployment, in [[Roadmap]]
 
 ## Diaspora communication
