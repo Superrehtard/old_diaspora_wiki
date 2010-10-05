@@ -85,7 +85,7 @@ The client/pod https communication could really take place on any port or url. F
 - Using a separate domain like diaspora.example.org. This makes it easy do define a virtual server in the existing web server configuration. But
 it needs a DNS registration, which might be troublesome e. g., for a user with just a dynamic DNS address. OTOH. this is the only way which makes
 it possible to forward https traffic to another host without packing up SSL.
-- Using a sub-uri like host.example.org/diaspora. This does not require any DNS registrattion, and provides a simple mechanism to
+- Using a sub-uri like host.example.org/diaspora. This does not require any DNS registration, and provides a simple mechanism to
 map what should be forwarded to diaspora for the web server. This is the way mythtv, one of the battle-hardened web applications for home use, works.
 
 ## Conclusions
