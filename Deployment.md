@@ -83,7 +83,7 @@ host.example.org/diaspora and host.example.org:11443 are all possible,with diffe
 
 - Using a separate port like https://host.example.org:11433/ is, as for http, the simplest to handle on the server side. But some users lives behind firewalls blocking outbound https requests to other ports than 443. Upcoming websocket implementations might also limit the range of allowed ports.
 - Using a separate domain like diaspora.example.org. This makes it easy do define a virtual server in the existing web server configuration. But
-it needs a DNS registration, which might be troublesome ie. g. for a user with just a dynamic DNS address. OTOH. this is the only way which makes
+it needs a DNS registration, which might be troublesome e. g., for a user with just a dynamic DNS address. OTOH. this is the only way which makes
 it possible to forward https traffic to another host without packing up SSL.
 - Using a sub-uri like host.example.org/diaspora. This does not require any DNS registrattion, and provides a simple mechanism to
 map what should be forwarded to diaspora for the web server. This is the way mythtv, one of the battle-hardened web applications for home use, works.
@@ -93,5 +93,5 @@ map what should be forwarded to diaspora for the web server. This is the way myt
 - The virtual host installation doesn't need to forward at all, leaving the routing issues to the vhost  container.
 - The home user typically wants to use a sub-uri like https://host.example.org/diaspora
 - The corporate user typically wants to use the named virtual host like diaspora.example.com
-- A dynamic approach for the URI:s used in pod/pod communication would make things a lot easier.
+- A dynamic approach for the URI:s used in pod/pod communication would make deployment a lot easier.
 - Diaspora should be agnostic as to what https URL:s are used to access the pod from the browser
