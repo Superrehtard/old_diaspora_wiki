@@ -78,8 +78,8 @@ peers finding out the URL:s actually required by issuing a (possibly webfinger) 
 traffic could be run on a specific url like //host.domain.tld;:3000 .  Net result is that the pod-pod  http traffic could be handled by one or
 two static files in the existing port 80 http server, and a virtual server mapping in the router/fw. 
 
-The client/pod https communication could really take place on any port or url. For a host  host.example.org url:s like https://diaspora.example.org/,
-https://host.example.org/diaspora/ and https://host.example.org:11443/ are all possible,with different pro/cons:
+The client/pod https communication could really take place on any port or url. For a host  host.example.org url:s like *https://diaspora.example.org/*,
+*https://host.example.org/diaspora/* and *https://host.example.org:11443/* are all possible,with different pro/cons:
 
 - Using a separate port like https://host.example.org:11433/ is, as for http, the simplest to handle on the server side. But some users lives behind firewalls blocking outbound https requests to other ports than 443. Upcoming websocket implementations might also limit the range of allowed ports.
 - Using a separate domain like diaspora.example.org. This makes it easy do define a virtual server in the existing web server configuration. But
