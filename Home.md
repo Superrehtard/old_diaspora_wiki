@@ -25,7 +25,6 @@
 * [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
 * [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
 * [Development Discussion Group](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
-* [Diaspora IRC Logs](http://logs.9-to-5designs.com) - Log files of #Diaspora and #Diaspora-dev
 * [[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
 * [questions & answers](http://diaspora.shapado.com/) The SO clone for diaspora
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
