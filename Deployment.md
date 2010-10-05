@@ -1,9 +1,12 @@
 *This is a work in progress. No links lead to this page, and that's for a reason!*
 
+Diaspora needs a deployment strategy.Some background:
+ - Security and overall communications, as in  [[Security Architecture Proposal]]
+- The need for home user deployment, in [[Roadmap]]
+
 ## Diaspora communication
 
-A diaspora server, a pod, communicates with a client and  other pods out there. The requirements are
-outlined in [[Security Architecture Proposal]]. Three interfaces exists:
+A diaspora server, a pod, communicates with a client and  other pods out there. Three interfaces exists:
 
 - With the client. For the default setup, the client is a browser. Today this is done on port 80 for the
 "regular" traffic and port 8080 for websocket use. However, the client/pod communcation needs to be
@@ -43,18 +46,18 @@ No front webserver should be needed here, diaspora should be able to bind direct
 ####The home user.
 
 The home user typically already runs a web server containing some static pages.  It might also contain some other 
-web applications both on port 80 and possibly on port 443. This user has no server certificate.
-She might have an own DNS-domain or just a dynamic host like example.dyndnsprovider.com
+web applications both on port 80 and possibly on port 443. The server certificate, if any, is self-signed.
+She might have an own DNS-domain or just a dynamic host address like example.dyndnsprovider.com
 
 Diaspora should be easy to install on the existing  server, and coexist with other user services on both port 80 and port 443.
 
 The basic approach here would be, as today, to deploy diaspora on an arbitrary, unused port e. g. 3000. The existing webserver
-will have to forward traffic from/to this server from the "official" URL. Itmight also need to  handle one or two static files, one being the
-webfinger reply.
+will have to forward traffic from/to this server from the "official" URL. It might also need to  handle one or two static files, one being the
+webfinger reply,  to implement diaspora's interface on port 80.
 
 #### The corporate user
 
-This user has a multitude of servers. She controls a DNS domain and a IP address block.  She also  have a signed SSL certificate on 
+This user has a multitude of servers. She controls a DNS domain and an IP address block.  She also  have a signed SSL certificate on 
 at least one host which she might or might not want to associate with diaspora. 
 
 In general,  this user  a similar need as the home user  to forward traffic to the app server running diaspora. Here, this might mean 
@@ -67,17 +70,17 @@ The main problem is to forward the traffic to diaspora while keeping things simp
 One part of this is diaspora's use of port 80. For almost all servers, this is already used for other purposes. This means that we
 must setup the user's existing server to forward traffic to/from, diaspora. I doubt this will be a straightforward procedure, there are
 to many webservers, operating systems, web applications and routers out there. To make it easy diaspora should
-be as non-intrusive as possible, leaving existing functionality and configuration unaffected where possible.
+be non-intrusive, leaving existing functionality and configuration unaffected where possible.
 
 The simplest would be if diaspora could use an arbitrary port for the pod/pod communication. This could be accomplished by remote
 peers finding out the URL:s actually required by issuing a (possibly webfinger) request on port 80. With this in operatfion, all http
 traffic could be run on a specific url like //host.domain.tld;:3000 .  Net result is that the pod-pod  http traffic could be handled by one or
-two static files in the http server, and a virtual server mapping in the router/fw. 
+two static files in the existing port 80 http server, and a virtual server mapping in the router/fw. 
 
 The client/pod https communication could really take place on any port or url. For a host  host.example.org url:s like diaspora.example.org,
 host.example.org/diaspora and host.example.org:11443 are all possible,with different pro/cons:
 
-- Using a separate port is, as for http, the simplest to handle on the server side. But some users lives behind firewalls blocking https requests to other ports than 443. Upcoming webfinger implementations might limit the range of allowed ports.
+- Using a separate port like https://host.example.org:11433/ is, as for http, the simplest to handle on the server side. But some users lives behind firewalls blocking outbound https requests to other ports than 443. Upcoming websocket implementations might also limit the range of allowed ports.
 - Using a separate domain like diaspora.example.org. This makes it easy do define a virtual server in the existing web server configuration. But
 it needs a DNS registration, which might be troublesome ie. g. for a user with just a dynamic DNS address. OTOH. this is the only way which makes
 it possible to forward https traffic to another host without packing up SSL.
