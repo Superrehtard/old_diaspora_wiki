@@ -58,14 +58,6 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Ubuntu
     * Comments: Database reset only if needed.  Development and Testing only.
 
-* [[http://diaspora.areya.de]]  [[http://diaspora.areya.de/images/user/default.jpg|height=30px|]]
-    * Opened: 18/09/2010
-    * Updated: Daily
-    * Maintained by: Areya Webservices
-        * [[http://www.areya.de]] 
-    * Operating system: Ubuntu
-    * Comments: Reset of Database only if needed
-
 * [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Any time
@@ -197,6 +189,13 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
+* [[http://pasarus.com]]  [[http://pasarus.com/images/user/default.jpg|height=30px|]]
+    * Opened: 18/09/2010
+    * Updated: Daily
+    * Maintained by: Areya Webservices
+        * [[http://www.areya.de]] 
+    * Operating system: Ubuntu
+    * Comments: Reset of Database only if needed
 
 * [[http://pontari.us/]] (previously diasporahosting.eu) [[http://pontari.us/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
