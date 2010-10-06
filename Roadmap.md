@@ -10,6 +10,7 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Manage friends using “aspects”
 - Upload of photos and albums
 - All traffic is signed and encrypted (except photos, for now).
+- Change password
 
 ## Near Future
 - Data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
