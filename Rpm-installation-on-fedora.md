@@ -17,7 +17,7 @@ I have opted for using rpm packages where it's feasible.  The overall situation 
 
 In order to run Diaspora, you will need to install the following dependencies:
 
-    sudo yum install mongodb-server openssl ImageMagick git libxslt-devel libxml2-devel rubygem
+    sudo yum install mongodb-server openssl ImageMagick git libxslt-devel libxml2-devel 
 
 Ensure that mongod is started at system boot:
 
