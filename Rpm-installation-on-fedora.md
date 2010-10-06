@@ -36,8 +36,8 @@ list of packages that yum will remove if ruby is removed. If this acceptable, an
 
 - Wait until ruby-1.8.7 is available in Fedora-13. See
   [[https://bugzilla.redhat.com/show_bug.cgi?id=602435]]
-- Use the instructions in README.md to install Ruby 1.8.7 in /usr/local, using it in
-  parallell with rpm package 1.8.6.
+- Use the instructions in [README.md]([http://github.com/diaspora/diaspora/blob/master/README.md) 
+   to install Ruby 1.8.7 in /usr/local, using it in parallell with rpm package 1.8.6.
 
 Keep a note of the packages removed, it's possible to restore the
 system by reinstalling them.
