@@ -1,13 +1,13 @@
 # Using apache instead of thin server on Fedora
-**No, this does NOT  work**. It's left as a starting point for those brave who might make it work.
-
+**No, this is  NOT  reliable**. Basically, it's in the "Works for Me" (tm) state. But for those
+prepared to handle all sorts of difficulties, it's a starting point. FTM, I'm not aware of any bugs.
 
 This content is currently being discussed on [[ Discussions on Fedora Apache wiki page]]
 
 ##General
 
 This page covers the steps which makes diaspora server running on port 3000. Besides this, most users 
-have a need to making this server available to the outside world on port 80. This is not covered at this point.
+have a need to make this server available to the outside world on port 80. This is not covered at this point.
 Personally, I just forwarded port 80 on my router to port 3000 on my box.
  
 *You can get the same basic behavior that nginx proxy uses from the proxy_balancer Apache mod.
@@ -41,15 +41,17 @@ passenger-install-apache2-module. For me, this was:
 
 ## Create the diaspora user and setup the web app.
 
-     useradd -md /var/diaspora diaspora
+     useradd -md /var/lib/diaspora diaspora
      su - diaspora
+     mkdir -p /usr/share/diaspora
      chmod 755 .
      git clone http://github.com/diaspora/diaspora.git master
      cd master
      bundle install --deployment
      mkdir tmp
      cp config/app_config.yml.example app_config.yml
-     ! Edit app_config.yml, fix at least hostname
+     rake db:seed:dev
+     ! Edit app_config.yml, fix at least pod_url
     
 ## Configure apache server instance
 
@@ -59,10 +61,10 @@ Create a virtual http server for the diaspora app by appending something like th
     Listen 3000
     <virtualhost *:3000>
         ServerName     host.domain.tld
-        DocumentRoot   /var/diaspora/master
+        DocumentRoot   /usr/share/diaspora/master
         RailsEnv       development
         RackEnv        development
-         <Directory /var/diaspora/master/public>
+         <Directory /usr/share/diaspora/master/public>
             AllowOverride None
             Order         allow,deny
             Allow         from all
@@ -72,13 +74,13 @@ Create a virtual http server for the diaspora app by appending something like th
 
 ## Run and access server
 
-Restart server using 'server httpd restart'.
+Restart http and  websocket server :
+
+    service httpd restart
+    cd /usr/share/diaspora/master
+    bundle exec ruby ./script/websocket_server.rb&
 
 Access the server on http://host.domain.tld:3000
-
-## Bugs
-
-- At this point, adding friends from this server to other servers fails with a "Connection timeout" message.
 
 ## Update this document
 
