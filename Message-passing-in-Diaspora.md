@@ -2,13 +2,13 @@ Current as of Oct 6, 11:00 PM
 
 ## Message Passing
 Given an object like a StatusMessage or a friend request, Diaspora first serializes that object to xml with post.to_diaspora_xml
-  def push_to_people(post, people)
-    salmon = salmon(post)                             <---- this is just Salmon::SalmonSlap.create(self, post.to_diaspora_xml)
-    people.each{|person|
-      xml = salmon.xml_for person
-      push_to_person( person, xml)
-    }
-  end
+    def push_to_people(post, people)
+      salmon = salmon(post)                             <---- this is just Salmon::SalmonSlap.create(self, post.to_diaspora_xml)
+      people.each{|person|
+        xml = salmon.xml_for person
+        push_to_person( person, xml)
+      }
+    end
 
 Salmon::SalmonSlap.create aes encrypts the body(that xml) and signs the aes ciphertext
     def self.create(user, activity)
