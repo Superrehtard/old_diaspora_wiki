@@ -4,7 +4,7 @@ Diaspora is written in Ruby on Rails, a web framework for Ruby.  If you’ve nev
 
 There are a few tools we’re using that aren’t in every rails project: 
 
-Our views are written in HAML, a templating language.  The HAML docs are [here](http://haml-lang.com/docs.html), but you shouldn’t need to read them before-hand, as HAML is quite intuitive.
+Our views are written in HAML, a templating language.  The HAML docs are [here](http://haml-lang.com/docs.html).
 
 Our CSS is written in [SASS](http://sass-lang.com/docs.html), which generates CSS.  The syntax is inspired by HAML, and quite similar.  If you want to edit the stylesheets, look in public/stylesheets/sass/.
 
@@ -12,7 +12,7 @@ Both HAML and SASS are whitespace sensitive.
 
 ##Testing:
 
-*Please test your patches.*  If you find a bug, exposing it with a test is awesome.  We write our unit tests in Rspec, and integration tests in Cucumber.  We need more integration tests!  Specs are in spec/, and Cucumber features are in features/.
+*Please test your patches.*  If you find a bug, exposing it with a test is awesome.  We write our unit tests in [Rspec](http://blog.davidchelimsky.net/2007/05/14/an-introduction-to-rspec-part-i/), and integration tests in [Cucumber](http://rubylearning.com/blog/2010/10/05/outside-in-development/).  We need more integration tests!  Specs are in spec/, and Cucumber features are in features/.
 
 ##The Models:
 
