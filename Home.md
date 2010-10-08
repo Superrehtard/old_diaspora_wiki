@@ -1,5 +1,6 @@
 # The Official Diaspora Wiki
 
+* [[An Introduction to the Diaspora Source]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
