@@ -12,6 +12,7 @@
 * [[Encryption]]
 * [[Client-server-model]]
 * [[Security Architecture Proposal]]
+* [[Interface-ideas]]
 
 # HOWTO
 * [[Installing and Running Diaspora]]
