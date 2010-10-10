@@ -1,4 +1,4 @@
-You should walk around [bug 360](http://github.com/diaspora/diaspora/issues/issue/360). This is about getting a fast, direct negative answer
+You should walk around [bug 360](http://bugs.joindiaspora.com/issues/322)., later dubbed bug 322. This is about getting a fast, direct negative answer
 when trying to access port 443 i. e., the https port. In this section, I presume your host is located behind a router which you have full
 access to.
 
