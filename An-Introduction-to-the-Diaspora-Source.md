@@ -23,6 +23,7 @@ User – Users, of course, come first.   A User object represents the private in
 Person – A Person is a User viewed from the outside.  When a user friends another user, they friend that user’s Person object.  Person objects are replicated across servers, and they are where a User’s public key lives.  A Person has many Posts.  A Person has a Profile.
 
 Profile – This contains information about the person. Currently, a profile looks the same to anyone looking at it.
+
 Request – This is a friend request object that gets sent to another person.
 
 Aspect – This is contains a list of people, and posts which are for that aspect.  Aspects are private to Users, and we might embed the Aspect documents in the User document.
