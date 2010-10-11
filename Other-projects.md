@@ -11,3 +11,5 @@
 [[OStatus|http://ostatus.org/]]
 
 [[http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/]]
+
+[[Netention|http://netention.org]]
