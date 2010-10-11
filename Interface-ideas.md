@@ -1,3 +1,4 @@
+#manage page
 i realized that it might be hard to manage different aspects when you have more than about 5 of them and you want to drag people from one aspect to an other.
 
 A smaller size of the thumbs would be a first step. But still if there are 100 people in one aspect it will be hard to manage.
