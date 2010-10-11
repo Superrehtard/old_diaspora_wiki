@@ -22,7 +22,8 @@
 * [[Installing on Windows]] - some workarounds for installing on Windows
 
 # Other Resources
-(Don't forget that the issues are on a link at the top of the page.)
+
+Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
 
 * [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
 * [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
