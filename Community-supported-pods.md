@@ -47,17 +47,6 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Preview  Development, database reset if needed
 
-* [[http://diaspora.9-to-5designs.com]] [[http://diaspora.9-to-5designs.com/images/user/default.jpg|height=30px|]]
-    * Opened: 20/09/2010
-    * Updated: Daily
-    * Maintained by private person
-        * IRC/Freenode: bigbash
-        * [[http://twitter.com/mcguiresm]]
-        * mcguiresm@gmail.com
-        * [[http://github.com/bigbash]]
-    * Operating system: Ubuntu
-    * Comments: Database reset only if needed.  Development and Testing only.
-
 * [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Any time
