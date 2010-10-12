@@ -12,3 +12,5 @@ What do you think?
 [[http://www.ekofisk.de/sandbox/manage.jpg]]
 
 Nygu: Seems like a good idea. However, I think the thumbs of other people should be randomly picked as the people who have most activity aren't neccesarily your best friends/collegues. I have also read another idea which involved hiding the thumbs in an aspect untill after you hovered over it for a while. Although that allows for more aspects, it doesnt seem easy to work with. But imho, the most important people aren't those with the biggest mouth and ego. How about alphabetical last names? And lets be honest, the name of the aspect is already above the screen anyway so it should be easy to work out for anyone. Totally agree with this concept though. :)
+
+Tobias28: Good call! I totally agree with you. Picking the thumbs by activity is not the right criteria. Randomly (nice for coming across people who i haven't been in contact with for a while) or alphabetically (makes it searchable easier) seem to be better. Thanks for feedback!
