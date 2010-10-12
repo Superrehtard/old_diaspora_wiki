@@ -1,6 +1,6 @@
 # Diaspora Security Architecture Proposal
 # Preamble
-This proposal is intended to summarise the various mailing list discussions around security into one plausible communication architecture. While it is based upon the discussion of many, it is written by one. This one has no connection to the Diaspora 4, nor does he purport to being a security expert. Please keep this in mind while reading and considering.
+This proposal was written by bigbash, and edited by sofaer, as an initial laying out of  Diaspora's security requirements.
 
 The architecture defines who should have what data, in what form. Most implementation details, such as exact encryption and authentication methods, are left open.
 
@@ -22,6 +22,7 @@ Thus this architecture was designed around the philosophy of 'Secure as much as 
 * Data - anything shared by Users via Diaspora
 * Post - A group of Data inserted into Diaspora collectively
 * Comment - A type of Post attached to an existing Post
+* Encrypt - In the proposal below, encryption of a post should be taken to mean the encryption of that post with a symmetric key, and the encryption of that symmetric key for the post's recipients. 
 
 # The Architecture
 ## A Simple Diagram
@@ -38,7 +39,7 @@ An alternative to the web client for advanced users. It is an example of a Local
 A server that handles data federation. Data is pushed to it from clients (such as the web client) via the Client API. It stores/retrieves data in/from the Pod's database. Seeds communicate with other seeds via the Seed API to notify of and exchange data.
 
 ## Security Model
-Security is defined at 4 different levels. None, Low, Medium and High.
+Security is defined at 3 different levels. None, Low, and High.
 
 * Each User supports a maximum security level, defined by the combination of Pod, Seed, and Client they use. 
 * Each Aspect has a maximum security level, defined by the lowest maximum security level of the Users it contains. 
@@ -49,25 +50,19 @@ Security is defined at 4 different levels. None, Low, Medium and High.
 Posts with the None security level are not encrypted and available to anyone. They can be posted from any Client, stored by Seeds without encryption, and likewise communicated between Seeds without encryption. Any Seed can request the Post from its Owner's Seed.
 
 ### Low
-The Low security level encrypts Posts with a symmetric key at the Seed level.
+A Low security Post is encrypted for consumption by that Post's audience at the Seed level.
 
-Each Seed has a key pair for use in encrypting/decrypting symmetric keys for use in Low security. The private key of this pair is kept unencrypted in the Seed and should never come to the User's attention.
-
-The Seed provides Audience Seeds with the Post, encrypted with the symmetric key, and the key, encrypted with their public key, on request. Posts and their keys can be stored in Owner/Audience Seeds/Pods unencrypted or encrypted as required by computation/storage limitations.
+The Seed provides Audience Seeds with the encrypted Post on request. Posts and their keys can be stored in Owner/Audience Seeds/Pods unencrypted or encrypted as required by computation/storage limitations.
 
 Note that this level can potentially be simplified into client(in this case Audience Seeds) authenticating SSL.
 
-### Medium
-The Medium security level encrypts Posts with a symmetric key at the Client level (Including Remote Clients).
-
-Each User has a key pair for use in this level. The private key of this pair is kept encrypted on any Clients. A Post can be made from any Client that has been given the encrypted private key. The User should only become aware of this key pair if they use any Client other than the default web client.
-
-The phrase to unlock the private key is the same as the User's password(obviously the password should be matched in its hashed form). This (un-hashed) phrase is never stored on the Client or Seed. The private key is unlocked when the User logs in, and locked when the Client is closed or when the User logs out (as applicable).
-
-The Client encrypts the symmetric key for all Audience Users and the Owner when a Post is created. These encrypted keys and the encrypted Post are sent to the Seed for storage and delivery to Audience members on request. Posts are decrypted by Clients when viewed by Users.
-
 ### High
-The High security level encrypts Posts with a symmetric key at the Local Client level. It is essentially a subset of Medium security where the private key used for it is never out of the control of the User.
+A High security Post is encrypted for consumption by that Post's audience on a client local to the User.
+
+Each User has a key pair for use in this level. The private key of this pair is kept secure by the User, on his Secure Client. A Post can be made from any Client that has been given the private key. 
+
+The Client the Post for all Audience Users and the Owner upon posting. The encrypted Post are sent to the Seed for storage and delivery to Audience members on request.  Posts are decrypted by Secure Clients when viewed by Users.
+
 
 ## Communication Semantics
 ### User to Remote Client
