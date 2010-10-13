@@ -1,6 +1,6 @@
 # Diaspora Security Architecture Proposal
 # Preamble
-This proposal was written by bigbash, and edited by sofaer, as an initial laying out of  Diaspora's security requirements.
+This proposal was written by braedon, and edited by sofaer, as an initial laying out of Diaspora's security requirements.
 
 The architecture defines who should have what data, in what form. Most implementation details, such as exact encryption and authentication methods, are left open.
 
@@ -22,7 +22,7 @@ Thus this architecture was designed around the philosophy of 'Secure as much as 
 * Data - anything shared by Users via Diaspora
 * Post - A group of Data inserted into Diaspora collectively
 * Comment - A type of Post attached to an existing Post
-* Encrypt - In the proposal below, encryption of a post should be taken to mean the encryption of that post with a symmetric key, and the encryption of that symmetric key for the post's recipients. 
+* Encrypt(ed) - In the proposal below, encryption of a post should be taken to mean the encryption of that post with a symmetric key, and the encryption of that symmetric key for the post's recipients. 
 
 # The Architecture
 ## A Simple Diagram
@@ -52,16 +52,16 @@ Posts with the None security level are not encrypted and available to anyone. Th
 ### Low
 A Low security Post is encrypted for consumption by that Post's audience at the Seed level.
 
-The Seed provides Audience Seeds with the encrypted Post on request. Posts and their keys can be stored in Owner/Audience Seeds/Pods unencrypted or encrypted as required by computation/storage limitations.
+The Seed provides Audience Seeds with the Encrypted Post on request. Posts and their keys can be stored in Owner/Audience Seeds/Pods unencrypted or encrypted as required by computation/storage limitations.
 
 Note that this level can potentially be simplified into client(in this case Audience Seeds) authenticating SSL.
 
 ### High
-A High security Post is encrypted for consumption by that Post's audience on a client local to the User.
+A High security Post is Encrypted for consumption by that Post's audience on a client local to the User.
 
 Each User has a key pair for use in this level. The private key of this pair is kept secure by the User, on his Secure Client. A Post can be made from any Client that has been given the private key. 
 
-The Client the Post for all Audience Users and the Owner upon posting. The encrypted Post are sent to the Seed for storage and delivery to Audience members on request.  Posts are decrypted by Secure Clients when viewed by Users.
+The Client Encrypts the Post for all Audience Users and the Owner upon posting. The Encrypted Post is sent to the Seed for storage and delivery to Audience members on request.  Posts are decrypted by Secure Clients when viewed by Users.
 
 
 ## Communication Semantics
