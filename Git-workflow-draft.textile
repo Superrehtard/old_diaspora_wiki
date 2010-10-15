@@ -1,4 +1,4 @@
-If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to Thinkup for their awesome developer guide.
+If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to ThinkUp for their awesome developer guide.
 
 h1. Quickfire Do's and Don't's
 
@@ -9,12 +9,6 @@ p. If you're familiar with git and GitHub, here's the short version of what you 
 * *Do not merge* the upstream master with your development branch; *rebase* your branch on top of the upstream master.
 
 * *A single development branch should represent changes related to a single issue.* If you decide to work on another issue, create another branch.
-
-h2. Workflow Diagram
-
-p. A visual representation of what a Diaspora contributor's GitHub/git workflow should look like. (Click to enlarge.)
-
-!http://farm5.static.flickr.com/4012/4702060815_a1a7357768.jpg!:http://www.flickr.com/photos/ginatrapani/4702060815/sizes/l/
 
 h3. Step-by-step (the short version)
 
