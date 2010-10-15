@@ -1,0 +1,248 @@
+If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to Thinkup for their awesome developer guide.
+
+h1. Quickfire Do's and Don't's
+
+p. If you're familiar with git and GitHub, here's the short version of what you need to know. Once you fork and download the Diaspora:
+
+*  *Don't develop on the master branch.* Always create a development branch specific to "the issue":http://bugs.joindiaspora.com you're working on. Name it by issue # and description. For example, if you're working on Issue #359, an aspect naming fix, your development branch should be called 359-aspect-names. If you decide to work on another issue mid-stream, create a new branch for that issue--don't work on both in one branch.
+
+* *Do not merge* the upstream master with your development branch; *rebase* your branch on top of the upstream master.
+
+* *A single development branch should represent changes related to a single issue.* If you decide to work on another issue, create another branch.
+
+h2. Workflow Diagram
+
+p. A visual representation of what a Diaspora contributor's GitHub/git workflow should look like. (Click to enlarge.)
+
+!http://farm5.static.flickr.com/4012/4702060815_a1a7357768.jpg!:http://www.flickr.com/photos/ginatrapani/4702060815/sizes/l/
+
+h3. Step-by-step (the short version)
+
+# Fork on GitHub (click Fork button)
+# Clone to computer ($ git clone git@github.com:you/diaspora.git )
+# Set up remote upstream ($ git remote add upstream git://github.com/diaspora/diaspora.git)
+# Branch for new issue ($ git checkout -b 100-new-feature)
+# Develop on issue branch. _[Time passes, the main Diaspora repository accumulates new commits]_
+# Fetch upstream ($ git fetch upstream)
+# Update local master ($ git checkout master; git pull upstream master)
+# Rebase issue branch ($ git checkout 100-new-feature; git rebase master)
+# Repeat steps 5-9 till dev is complete
+# Push branch to GitHub ($ git push origin 100-new-feature)
+# Issue pull request (Click Pull Request button) 
+
+p. If you're new to git and GitHub, here's the longer version of these instructions.
+
+h1. Fork the Repository to Contribute Code
+
+p. Here's how to fork the Diaspora to begin working on it.
+
+p. Create an account on GitHub and establish connectivity between your GitHub account and your hosting server.
+
+# Create a free account on GitHub. 
+# Fork the project from "diaspora/diaspora":http://github.com/diaspora/diaspora 
+# Make sure you've got an SSH public key created on your server and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your github account. Here's a "good guide":http://github.com/guides/providing-your-ssh-key.
+# To test the GitHub authentication run:
+
+<pre>
+<code>
+$ ssh git@github.com
+</code>
+</pre> 
+
+p. Clone your GitHub fork to your development machine and set up diaspora.
+
+# Run a clone command against your github fork. It will look something like this except that it will use your GitHub account name:  
+
+<pre>
+<code>
+$ git clone git@github.com:you/diaspora.git 
+</code>
+</pre>
+
+p. That will download all your forked GitHub files to a git repository on your development server. If you have problems, check the permissions on the newly created diaspora directory on your server.
+
+p. Refer to the guide to running Diaspora linklinklinklinklink to get it working on your machine.
+
+h2. Create an Issue-Specific Development Branch
+
+p. Before you start working on a new feature or bugfix, create a new branch dedicated to that one change named by issue number and description. If you're working on Issue #359, a aspect naming bugfix, create a new branch with the issue number and description, like this:
+
+<pre>
+<code>
+$ git checkout -b 359-aspect-names
+</code>
+</pre>
+
+p. Edit and test the files on your development server. When you've got something the way you want and established that it works, commit the changes to your branch on your development server's git repo. 
+
+<pre>
+<code>
+$ git add <filename>
+$ git commit -m 'Issue #359: Some kind of descriptive message' 
+</code>
+</pre>
+
+p. You'll need to use git add for each file that you created or modified. There are ways to add multiple files, but I highly recommend a more deliberate approach unless you know what you're doing.
+
+p. Then, you can push your new branch to GitHub, like this (replace 359-aspect-names with your branch name):
+
+<pre>
+<code>
+$ git push origin 359-aspect-names
+</code>
+</pre>
+
+p. You should be able to log into your GitHub account, switch to the branch, and see that your changes have been committed. Then click the Pull button to request that your commits get merged into the Diapsora development trunk.  
+
+p. *IMPORTANT*: Before you issue a pull request, make sure it gets accepted by running through the [[Developer Guide: Pull Request Checklist]] first.
+
+h2. Keep Your Repository Up to Date
+
+p. In order to get the latest updates from the development trunk do a one-time setup to establish the main GitHub repo as a remote by entering: 
+
+<pre>
+<code>
+$ git remote add upstream git://github.com/diaspora/diaspora.git
+</code>
+</pre>
+
+p. Verify you've now got "origin" and "upstream" remotes by entering: 
+
+<pre>
+<code>
+$ git remote
+</code>
+</pre>
+
+p. You'll see upstream listed there.
+
+h2(#gitrebase). Rebase Your Development Branch on the Latest Upstream
+
+p. To keep your development branch up to date, rebase your changes on top of the current state of the upstream master. See the *<a href="#gitrebase1">What's git-rebase?</a>* section below to learn more about rebasing.
+
+p. If you've set up an upstream branch as detailed above, and a development branch called 100-retweet-bugfix, you'd update upstream, update your local master, and rebase your branch from it like so:
+
+<pre> 
+<code>
+$ git fetch upstream
+$ git checkout master
+$ git rebase upstream/master
+$ git checkout 359-aspect-names
+[make sure all is committed as necessary in branch]
+$ git rebase master
+</code>
+</pre>
+
+p. You may need to resolve conflicts that occur when a file on the development trunk and one of your files have both been changed. Edit each file to resolve the differences, then commit the fixes to your development server repo and test. Each file will need to be "added" before running a "commit." 
+
+p. Conflicts are clearly marked in the code files. Make sure to take time in determining what version of the conflict you want to keep and what you want to discard. 
+
+<pre>
+<code>
+$ git add <filename>
+$ git commit 
+</code>
+</pre>
+
+p. To push the updates to your GitHub repo, replace 100-retweet-bugfix with your branch name and run:
+
+<pre>
+<code>
+$ git push origin 359-aspect-names
+</code>
+</pre>
+
+h2. Squash Many Commits Related to a Single Issue into a Few Commits (Probably one)
+
+p. Once you have rebased your work on top of the latest state of the upstream master, you may have many commits related to the issue you were working on. Once everything is done, squash them into a single commit with a descriptive message, like "Issue #359: Unique Aspect Names."  If your pull request is very complicated, feel free to subit a pull request with several commits in it.
+
+p. To squash four commits into one, do the following:
+
+<pre>
+<code>
+$ git rebase -i HEAD~4
+</code>
+</pre>
+
+p. In the text editor that comes up, replace the words "pick" with "squash" next to the commits you want to squash into the commit before it. Save and close the editor, and git will combine the "squash"'ed commits with the one before it. Git will then give you the opportunity to change your commit message to something like, "Issue #359: Unique Aspect Names."
+
+p. %{color:red}Important: If you've already pushed commits to GitHub, and then squash them locally, you will not be able to push that same branch to GitHub again.% Create a new branch--like 359-aspect-names-squashed or 359-aspect-names-rc1 (for release candidate 1)--and squash your commits there. Once everything is squashed and ready, push the new squashed branch to GitHub and send your pull request to Raphael.
+
+p. Helpful hint: You can always edit your last commit message by using:
+
+<pre>
+<code>
+$ git commit --amend
+</code>
+</pre>
+
+h2. Some gotchas
+
+p. %{color:red}Be careful not to commit any of your configuration files, logs, or throwaway test files to your GitHub repo.% These files can contain information you wouldn't want publicly viewable and they will make it impossible to merge your contributions into the main development trunk of Diaspora. 
+
+p. Most of these special files are listed in the <code>.gitignore</code> file and won't be included in any commit, but you should carefully review the files you have modified and added before staging them and committing them to your repo. The git status command will display detailed information about any new files, modifications and staged.
+
+<pre>
+<code>
+$ git status 
+</code>
+</pre>
+
+p. %{color:red}One thing you may not want to do is to issue a git commit with the -a option. This automatically stages and commits every modified file that's not expressly defined in .gitignore, including your crawler logs.%
+
+<pre>
+<code>
+$ git commit -a 
+</code>
+</pre>
+
+h1(#gitrebase1). What's git-rebase?
+
+p. Using <code>git-rebase</code> helps create clean commit trees and makes keeping your code up-to-date with the current state of the upstream master easy. Here's how it works.
+
+p. Let's say you're working on Issue #212 a new plugin in your own branch and you start with something like this:
+
+<pre>
+<code>
+          1---2---3 #212-my-new-plugin
+         /
+    A---B #master
+</code>
+</pre>
+
+p. You keep coding for a few days and then pull the latest upstream stuff and you end up like this:
+
+<pre>
+<code>
+          1---2---3 #212-my-new-plugin
+         /
+    A---B--C--D--E--F #master
+</code>
+</pre>
+
+p. So all these new things (C,D,..F) have happened since you started. Normally you would just keep going (let's say you're not finished with the plugin yet) and then deal with a merge later on, which becomes a commit, which get moved upstream and ends up grafted on the tree forever.
+
+p. A cleaner way to do this is to use rebase to essentially rewrite your commits as if you had started at point F instead of point B. So just do:
+
+<pre>
+<code>
+git rebase master 212-my-new-plugin
+</code>
+</pre>
+
+p. git will rewrite your commits like this:
+
+<pre>
+<code>
+                      1---2---3 #212-my-new-plugin
+                     /
+    A---B--C--D--E--F #master
+</code>
+</pre>
+
+p. It's as if you had just started your branch. One immediate advantage you get is that you can test your branch now to see if C, D, E, or F had any impact on your code (you don't need to wait until you're finished with your plugin and merge to find this out). And, since you can keep doing this over and over again as you develop your plugin, at the end your merge will just be a fast-forward (in other words no merge at all).
+
+p. So when you're ready to send the new plugin upstream, you do one last rebase, test, and then merge (which is really no merge at all) and send out your pull request. Then in most cases, Gina has a simple fast forward on her end (or at worst a very small rebase or merge) and over time that adds up to a simpler tree.
+
+p. More info on the git man page here: 
+"Git rebase: man page":http://www.kernel.org/pub/software/scm/git/docs/git-rebase.html
