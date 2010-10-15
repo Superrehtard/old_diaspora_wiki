@@ -88,8 +88,6 @@ $ git push origin 359-aspect-names
 
 p. You should be able to log into your GitHub account, switch to the branch, and see that your changes have been committed. Then click the Pull button to request that your commits get merged into the Diapsora development trunk.  
 
-p. *IMPORTANT*: Before you issue a pull request, make sure it gets accepted by running through the [[Developer Guide: Pull Request Checklist]] first.
-
 h2. Keep Your Repository Up to Date
 
 p. In order to get the latest updates from the development trunk do a one-time setup to establish the main GitHub repo as a remote by entering: 
