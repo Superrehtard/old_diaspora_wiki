@@ -20,7 +20,7 @@ h3. Step-by-step (the short version)
 # Fetch upstream ($ git fetch upstream)
 # Update local master ($ git checkout master; git pull upstream master)
 # Rebase issue branch ($ git checkout 100-new-feature; git rebase master)
-# Repeat steps 5-9 till dev is complete
+# Repeat steps 5-8 till dev is complete
 # Push branch to GitHub ($ git push origin 100-new-feature)
 # Issue pull request (Click Pull Request button) 
 
