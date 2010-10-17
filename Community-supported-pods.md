@@ -1,6 +1,6 @@
 Here's a list of pods (seed hosters) run by the Diaspora community members. 
 
-###There are many security vulnerabilities in the current release of Diaspora, so simply visiting these pods may harm your computer. Consider ANY information you post to the seeds on these pods as completely public, including your email address and password.
+###There are still security vulnerabilities in the current release of Diaspora, so please consider ALL information (including username and email) you post to the seeds on these pods as completely public.
 
 Please do not try to hack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
