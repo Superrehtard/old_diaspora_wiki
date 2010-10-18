@@ -32,8 +32,10 @@ p. Here's how to fork the Diaspora to begin working on it.
 
 p. Create an account on GitHub and establish connectivity between your GitHub account and your hosting server.
 
-# Create a free account on GitHub. 
-# Fork the project from "diaspora/diaspora":http://github.com/diaspora/diaspora 
+# Create a free account on GitHub, and log in.
+# Go to "the main Diaspora page on GitHub"::http://github.com/diaspora/diaspora.
+# Click the "fork" button near the top of the screen.
+[[http://img.skitch.com/20101018-j5xmmrs6ccn9ku2gic12y13cf9.png]] 
 # Make sure you've got an SSH public key created on your server and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your github account. Here's a "good guide":http://github.com/guides/providing-your-ssh-key.
 # To test the GitHub authentication run:
 
