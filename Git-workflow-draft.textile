@@ -10,7 +10,7 @@ p. If you're familiar with git and GitHub, here's the short version of what you 
 
 * *A single development branch should represent changes related to a single issue.* If you decide to work on another issue, create another branch.
 
-h3. Step-by-step (the short version)
+h1. Step-by-step (the short version)
 
 # Fork on GitHub (click Fork button)
 # Clone to computer ($ git clone git@github.com:you/diaspora.git )
@@ -24,19 +24,22 @@ h3. Step-by-step (the short version)
 # Push branch to GitHub ($ git push origin 100-new-feature)
 # Issue pull request (Click Pull Request button) 
 
-p. If you're new to git and GitHub, here's the longer version of these instructions.
+h1. Step-by-step (the long version)
 
-h1. Fork the Repository to Contribute Code
+If you're new to git and GitHub, here's the longer version of these instructions.
 
-p. Here's how to fork the Diaspora to begin working on it.
-
-p. Create an account on GitHub and establish connectivity between your GitHub account and your hosting server.
+p. Create an account on GitHub and fork the Diaspora repository.
 
 # Create a free account on GitHub, and log in.
 # Go to "the main Diaspora page on GitHub"::http://github.com/diaspora/diaspora.
-# Click the "fork" button near the top of the screen.
-[[http://img.skitch.com/20101018-j5xmmrs6ccn9ku2gic12y13cf9.png]] 
-# Make sure you've got an SSH public key created on your server and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your github account. Here's a "good guide":http://github.com/guides/providing-your-ssh-key.
+# Click the "Fork" button near the top of the screen. This will get you your own copy that you can make changes to.
+[[http://img.skitch.com/20101018-j5xmmrs6ccn9ku2gic12y13cf9.png]]
+
+p. Establish connectivity between your GitHub account and your development machine.
+
+# Generate an SSH key on your development machine. Here's a "good guide":http://github.com/guides/key-setup-redirect that gives you specific directions for whatever OS you're accessing the page with.
+# Make sure you've got an SSH public key on your machine and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your GitHub account.
+[[http://img.skitch.com/20101018-nayqmm1ne8qdyafpjb7tib4fi4.png]]
 # To test the GitHub authentication run:
 
 <pre>
@@ -45,7 +48,7 @@ $ ssh git@github.com
 </code>
 </pre> 
 
-p. Clone your GitHub fork to your development machine and set up diaspora.
+p. Clone your GitHub fork to your development machine and set up Diaspora.
 
 # Run a clone command against your github fork. It will look something like this except that it will use your GitHub account name:  
 
