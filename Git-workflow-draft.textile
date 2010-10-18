@@ -15,7 +15,7 @@ h1. Step-by-step (the short version)
 # Fork on GitHub (click Fork button)
 # Clone to computer ($ git clone git@github.com:you/diaspora.git )
 # Set up remote upstream ($ git remote add upstream git://github.com/diaspora/diaspora.git)
-# Branch for new issue ($ git checkout -b 100-new-feature)
+# Create a branch for new issue ($ git checkout -b 100-new-feature)
 # Develop on issue branch. _[Time passes, the main Diaspora repository accumulates new commits]_
 # Fetch upstream ($ git fetch upstream)
 # Update local master ($ git checkout master; git pull upstream master)
