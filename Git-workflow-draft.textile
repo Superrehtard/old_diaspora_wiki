@@ -46,7 +46,17 @@ h2. Establish connectivity between your GitHub account and your development mach
 <code>
 $ ssh git@github.com
 </code>
-</pre> 
+</pre>
+
+If all is well, you should see something like this:
+
+<pre>
+<code>
+PTY allocation request failed on channel 0
+ERROR: Hi username! You've successfully authenticated, but GitHub does not provide shell access
+Connection to github.com closed.
+</code>
+</pre>
 
 h2. Clone your GitHub fork to your development machine
 
