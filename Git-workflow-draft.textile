@@ -28,14 +28,14 @@ h1. Step-by-step (the long version)
 
 If you're new to git and GitHub, here's the longer version of these instructions.
 
-p. Create an account on GitHub and fork the Diaspora repository.
+h2. Create an account on GitHub and fork the Diaspora repository.
 
 # Create a free account on GitHub, and log in.
 # Go to "the main Diaspora page on GitHub"::http://github.com/diaspora/diaspora.
 # Click the "Fork" button near the top of the screen. This will get you your own copy that you can make changes to.
 [[http://img.skitch.com/20101018-j5xmmrs6ccn9ku2gic12y13cf9.png]]
 
-p. Establish connectivity between your GitHub account and your development machine.
+h2. Establish connectivity between your GitHub account and your development machine.
 
 # Generate an SSH key on your development machine. Here's a "good guide":http://github.com/guides/key-setup-redirect that gives you specific directions for whatever OS you're accessing the page with.
 # Make sure you've got an SSH public key on your machine and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your GitHub account.
@@ -48,9 +48,9 @@ $ ssh git@github.com
 </code>
 </pre> 
 
-p. Clone your GitHub fork to your development machine and set up Diaspora.
+h2. Clone your GitHub fork to your development machine
 
-# Run a clone command against your github fork. It will look something like this except that it will use your GitHub account name:  
+# Run a clone command against your GitHub fork. It will look something like this except that it will use your GitHub account name instead of "you":
 
 <pre>
 <code>
@@ -58,13 +58,27 @@ $ git clone git@github.com:you/diaspora.git
 </code>
 </pre>
 
-p. That will download all your forked GitHub files to a git repository on your development server. If you have problems, check the permissions on the newly created diaspora directory on your server.
+p. That downloads your copy of Diaspora to a git repository on your development machine. Change directory into the new diaspora directory.
 
-p. Refer to the guide to running Diaspora linklinklinklinklink to get it working on your machine.
+p. Now you need to install everything you need to run it - which is quite a lot of stuff. We have a guide to "installing and running Diaspora":http://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora which should help. Pop into #diaspora on IRC (freenode) if you have problems.
+
+You'll know you're done when you can run specs (in two stages - the cucumber features, which are selenium acceptance tests, and the rspec tests, which are unit tests) by doing this:
+
+<pre>
+<code>
+$ rake spec
+</code>
+</pre>
+
+p. *We try to make sure these always succeed.* Our "continuous integration server":http://ci.joindiaspora.com will tell you if there any current failures. If you have any test failures that you don't see on CI, come ask in the #diaspora-dev IRC channel.
+
+h2. Figure out what to work on
+
+Maybe you have a feature addition in mind, but if not, check out our "issue tracker":http://bugs.joindiaspora.com, or come ask in IRC what needs doing.
 
 h2. Create an Issue-Specific Development Branch
 
-p. Before you start working on a new feature or bugfix, create a new branch dedicated to that one change named by issue number and description. If you're working on Issue #359, a aspect naming bugfix, create a new branch with the issue number and description, like this:
+p. Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
 
 <pre>
 <code>
@@ -72,7 +86,11 @@ $ git checkout -b 359-aspect-names
 </code>
 </pre>
 
-p. Edit and test the files on your development server. When you've got something the way you want and established that it works, commit the changes to your branch on your development server's git repo. 
+h2. Write awesome code
+
+p. You must write unit tests for all bugfixes, no matter how small. We can help you! 
+
+p. Edit and test the files on your development machine. When you've got something the way you want and established that it works, commit the changes to your branch on your development server's git repo.
 
 <pre>
 <code>
