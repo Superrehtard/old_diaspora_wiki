@@ -10,8 +10,8 @@ To rename an aspect go to manage page and click on aspect's title. You should be
 
 *** How to move content between aspects/post content to multiple aspects? ***
 
-Moving content between aspects isn't supported yet. But you can post content to all aspects (using all aspects tab).
+Moving content between aspects isn't supported yet. But you can post content to all aspects (using all aspects tab).  You also can reshare posted content using the reshare feature.
 
 *** How to add people to multiple aspects? ***
 
-See [[issue #281|http://github.com/diaspora/diaspora/issues/issue/281/]]
+Working on it.
