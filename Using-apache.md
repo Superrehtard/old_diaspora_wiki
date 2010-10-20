@@ -17,22 +17,22 @@ I haven't tried it, but it's the path least fraught with peril.*
 
 The strategy described above can be set up using something like the below. Mod Proxy and Mod Proxy-Http need to be enabled. myserver.local is an alias set in /etc/hosts.
 
-``` ApacheConf
-<VirtualHost *:80>
-ServerName myserver.local
-ProxyRequests On
-ProxyVia On
+    ``` ApacheConf
+    <VirtualHost *:80>
+    ServerName myserver.local
+    ProxyRequests On
+    ProxyVia On
 
-<Proxy *>
-  AddDefaultCharset off
-  Order deny,allow
-  Allow from 127.0.0.1 
-</Proxy>
+    <Proxy *>
+      AddDefaultCharset off
+      Order deny,allow
+      Allow from 127.0.0.1 
+    </Proxy>
 
-ProxyPass / http://127.0.0.1:3000/
-ProxyPassReverse / http://127.0.0.1:3000/
-</VirtualHost>
-```
+    ProxyPass / http://127.0.0.1:3000/
+    ProxyPassReverse / http://127.0.0.1:3000/
+    </VirtualHost>
+    ```
 
 ##Passenger
 A common way to run Rails apps on Apache is the Passenger apache
