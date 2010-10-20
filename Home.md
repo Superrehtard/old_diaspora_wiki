@@ -1,6 +1,7 @@
 # The Official Diaspora Wiki
 
 * [[An Introduction to the Diaspora Source]]
+* [[Contributing to Diaspora: Using git |Git Workflow]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
