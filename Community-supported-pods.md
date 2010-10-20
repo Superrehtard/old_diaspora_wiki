@@ -75,6 +75,15 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Mac OS X
     * Comments: Only online on the day (UT+1), for development and test purposes.
 
+* [[http://diaspora.numbski.com]] [[http://diaspora.numbski.com/images/user/default.jpg|height=30px|]]
+    * Opened: 20.10.2010
+    * Updated: ~daily
+    * Maintained by a private person
+        * IRC/Freenode: numbski
+        * [[http://github.com/numbski]]
+    * Operating system: Ubuntu
+    * Comments: Testing as a development platform.  Close friends will be on.
+
 * [[http://diaspora.rueckgr.at]] [[http://diaspora.rueckgr.at/images/user/default.jpg|height=30px|]]
     * Opened: 2010-07-16
     * Updated: irregularly
