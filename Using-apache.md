@@ -21,7 +21,7 @@ The strategy described above can be set up using something like the below. Mod P
        puts 'bar'
     end
   ```
-''' ApacheConf
+```ApacheConf
     <VirtualHost *:80>
     ServerName myserver.local
     ProxyRequests On
@@ -36,7 +36,7 @@ The strategy described above can be set up using something like the below. Mod P
     ProxyPass / http://127.0.0.1:3000/
     ProxyPassReverse / http://127.0.0.1:3000/
     </VirtualHost>
-'''
+    ```
 
 ##Passenger
 A common way to run Rails apps on Apache is the Passenger apache
