@@ -16,12 +16,7 @@ port 8080 open for the EM server, but there is no reason a basic proxy mechanic 
 I haven't tried it, but it's the path least fraught with peril.*
 
 The strategy described above can be set up using something like the below. Mod Proxy and Mod Proxy-Http need to be enabled. myserver.local is an alias set in /etc/hosts.
-```ruby
-    def foo
-       puts 'bar'
-    end
-  ```
-```ApacheConf
+
     <VirtualHost *:80>
     ServerName myserver.local
     ProxyRequests On
@@ -36,7 +31,6 @@ The strategy described above can be set up using something like the below. Mod P
     ProxyPass / http://127.0.0.1:3000/
     ProxyPassReverse / http://127.0.0.1:3000/
     </VirtualHost>
-    ```
 
 ##Passenger
 A common way to run Rails apps on Apache is the Passenger apache
