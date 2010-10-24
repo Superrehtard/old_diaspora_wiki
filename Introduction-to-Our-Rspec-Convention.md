@@ -1,4 +1,4 @@
-Voxdolo was kind enough to refactor our specs to use a better convention.
+Voxdolo was kind enough to refactor our specs to use a [better convention](http://github.com/diaspora/diaspora/commit/81d753e7737d31524adc8984482af87d6dcb9613).
 For an example look in /spec/models/album_spec.rb
 
 Here is a summary:
