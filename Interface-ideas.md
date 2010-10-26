@@ -16,4 +16,4 @@ What do you think?
 **Tobias28:** Good call! I totally agree with you. Picking the thumbs by activity is not the right criteria. Randomly (nice for coming across people who i haven't been in contact with for a while) or alphabetically (makes it searchable easier) seem to be better. Thanks for feedback!
 
 **Another such idea**
-[[http://diasporatest.com/index.php/File:Screen_shot_2010-10-25_at_8.14.49_PM.png]]
+[[http://diasporatest.com/images/5/5a/Screen_shot_2010-10-25_at_8.14.49_PM.png]]
