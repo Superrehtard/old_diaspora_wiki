@@ -17,8 +17,8 @@ What do you think?
 
 **Fresno State interface (in development)**
 Visual tag project. Ability to link to pages (like peoples profiles) to tags on a picture. 
-
-
 [[http://diasporatest.com/index.php/Fresno_State_Team]]
+
+
 [[http://diasporatest.com/images/5/5a/Screen_shot_2010-10-25_at_8.14.49_PM.png]]
 (one more mockup coming soon)
