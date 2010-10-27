@@ -222,3 +222,11 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/georgebashi]]
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
     * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
+
+* [[http://diaspora.sherbertia.com:3000]]
+    * Opened: 24/10/2010
+    * Maintainer: Sabin Densmore
+        * sabin@sherbertia.com
+        * [[http://twitter.com/MonkeyViking]]
+    * Operating system: Centos5
+    * Comments: Sherbert Labs test of Diaspora. Following main branch. Updated every couple of days. 
