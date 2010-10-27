@@ -223,7 +223,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
     * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
 
-* [[http://diaspora.sherbertia.com:3000]]
+* [[http://diaspora.sherbertia.com:3000]] [[http://weleft.com/images/user/default.jpg|height=30px|]]
     * Opened: 24/10/2010
     * Maintainer: Sabin Densmore
         * sabin@sherbertia.com
