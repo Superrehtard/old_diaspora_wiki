@@ -49,7 +49,7 @@ Please note that this page is only for those strings which isn't in the master (
 * [div.description] This info will be available to whomever you connect with on Diaspora.
 * [a] Skip getting started
 
-**/aspects/<aspect-id>**
+**/aspects/<id>**
 
 * [a] stream
 * [textarea>label] Post a message to <aspect name>
