@@ -25,3 +25,22 @@ Please note that this page is only for those strings which isn't in the master (
 * [input]User[password]
 * [input]User[password confirmation]
 * [button]Upload
+
+**/users/password/new**
+* [h3]Forgot your password? 
+* [input]Email
+* [button]Send me reset password instructions
+* [a]Sign up
+* [a]Sign in
+
+**/getting_started**
+* [h3] Your profile
+* [h4] Your name
+* [h4] Your gender
+* [h4] Your birthday
+* [h4] Your photo
+* [h1]Welcome to Diaspora!
+* [a] Edit your profile
+* [a] Define your aspects
+* [a] Connect your services
+* [div.description] This info will be available to whomever you connect with on Diaspora.
