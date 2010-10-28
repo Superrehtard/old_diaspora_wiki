@@ -63,7 +63,3 @@ Please note that this page is only for those strings which isn't in the master (
     * [a] view profile
     * [a] edit profile
     * [a] account settings
-
-**/people/4cbca67dfcaded19c1000007/edit**
-
-*
