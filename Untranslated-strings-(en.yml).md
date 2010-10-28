@@ -1,6 +1,7 @@
 Please note that this page is only for those strings which isnt in the master (en.yml) , untranslated strings in a particular language is documented separately.
 
 **/users/sign_in**
+
 * [h3]Login
 * [input]Username
 * [input]Password
@@ -9,7 +10,11 @@ Please note that this page is only for those strings which isnt in the master (e
 * [a]Forgot your password?
 * [a]Have a problem? Find an answer here
 
+
 **https://www.dpod.se/users/sign_up**
+
+* Test?
+
 * [h3]Sign up for Diaspora
 * [input]Username
 * [input]Email
