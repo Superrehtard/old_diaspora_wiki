@@ -42,7 +42,28 @@ Please note that this page is only for those strings which isn't in the master (
 * [h4] Your birthday
 * [h4] Your photo
 * [h1] Welcome to Diaspora!
+* [h1>div.description] Do the stuff below to further complete some things.       
 * [a] Edit your profile
 * [a] Define your aspects
 * [a] Connect your services
 * [div.description] This info will be available to whomever you connect with on Diaspora.
+* [a] Skip getting started
+
+**/aspects/<aspect-id>**
+
+* [a] stream
+* [textarea>label] Post a message to <aspect name>
+* [a] X minutes **ago**
+* [a] Reshare
+* [textarea>label] Comment
+* [h4] Invites
+* [a] Invite a friend
+* [div#left_pane] (X **left**)
+* (In dropdown menu)
+    * [a] view profile
+    * [a] edit profile
+    * [a] account settings
+
+**/people/4cbca67dfcaded19c1000007/edit**
+
+*
