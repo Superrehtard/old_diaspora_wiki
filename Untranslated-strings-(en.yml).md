@@ -27,6 +27,7 @@ Please note that this page is only for those strings which isn't in the master (
 * [button]Upload
 
 **/users/password/new**
+
 * [h3]Forgot your password? 
 * [input]Email
 * [button]Send me reset password instructions
@@ -34,6 +35,7 @@ Please note that this page is only for those strings which isn't in the master (
 * [a]Sign in
 
 **/getting_started**
+
 * [h3] Your profile
 * [h4] Your name
 * [h4] Your gender
