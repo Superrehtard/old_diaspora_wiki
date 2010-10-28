@@ -11,9 +11,7 @@ Please note that this page is only for those strings which isnt in the master (e
 * [a]Have a problem? Find an answer here
 
 
-**https://www.dpod.se/users/sign_up**
-
-* Test?
+**/users/sign_up**
 
 * [h3]Sign up for Diaspora
 * [input]Username
