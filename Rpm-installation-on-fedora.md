@@ -50,14 +50,17 @@ and make the system unstable. Instead, lets download the and rebuild the
 packages for Fedora 13.
 
 Before doing this, setup a personal build environment so you can build the packages as
-ordinary user as described in [[http://sipx-wiki.calivia.com/index.php/Building_RPMs]] (or
-several other places).
+ordinary user. If you hav'n't done this before, first install rpmbuild:
+      sudo yum install rpmdevtools
+
+an then setup a personal build tree:
+     rpmdev-setuptree
 
 Now, download and rebuild ruby:
 
         sudo yum install yum-utils fedora-release-rawhide
         yumdownloader --enablerepo=rawhide --source ruby rubygems
-        sudo yum install $( rpm -qRp ruby-*src.rpm | grep -v rpmlib)
+        sudo yum install $( rpm -qRp ruby-*src.rpm | grep -v rpmlib) gcc-g++
         rpmbuild --rebuild ruby-*src.rpm
 
 rpmbuild will create ruby, ruby-libs, ruby-devel, ruby-rdoc and ruby-irb packages. Look
