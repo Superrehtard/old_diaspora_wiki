@@ -290,7 +290,7 @@ on port 8080. Change the port in config/app_config.yml.
 
 ### Logging in with a sample user
 
-Run `rake db:seed:dev` (for a development instance) or `rake db:seed:tom` (for an instance managed by capistrano). Then you can log in with user `tom` and password `evankorth`.
+Run `rake db:seed:dev` (for a development instance). Then you can log in with user `tom` and password `evankorth`.
 More details in db/seeds/dev.rb and db/seeds/tom.rb.
 
 ### Testing
