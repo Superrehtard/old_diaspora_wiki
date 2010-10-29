@@ -17,6 +17,7 @@ h1. Step-by-step (the short version)
 # Set up remote upstream ($ git remote add upstream git://github.com/diaspora/diaspora.git)
 # Create a branch for new issue ($ git checkout -b 100-new-feature)
 # Develop on issue branch. _[Time passes, the main Diaspora repository accumulates new commits]_
+# Commit changes to issue branch. ($ git add . ; git commit -m 'commit message')
 # Fetch upstream ($ git fetch upstream)
 # Update local master ($ git checkout master; git pull upstream master)
 # Rebase issue branch ($ git checkout 100-new-feature; git rebase master)
