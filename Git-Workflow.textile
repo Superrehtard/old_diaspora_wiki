@@ -20,8 +20,8 @@ h1. Step-by-step (the short version)
 # Commit changes to issue branch. ($ git add . ; git commit -m 'commit message')
 # Fetch upstream ($ git fetch upstream)
 # Update local master ($ git checkout master; git pull upstream master)
-# Rebase issue branch ($ git checkout 100-new-feature; git rebase master)
 # Repeat steps 5-8 till dev is complete
+# Rebase issue branch ($ git checkout 100-new-feature; git rebase master)
 # Push branch to GitHub ($ git push origin 100-new-feature)
 # Issue pull request (Click Pull Request button) 
 
