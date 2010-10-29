@@ -20,6 +20,8 @@ Our Models can be found in the app/models folder:
 
 User – Users, of course, come first.   A User object represents the private information and capabilities of a user on that server.  The user object is able to friend people, post updates, and update his profile.  A User has a Person.
 
+Contact -- Is a "proxy" object for every person a User is friends with.
+
 Person – A Person is a User viewed from the outside.  When a user friends another user, they friend that user’s Person object.  Person objects are replicated across servers, and they are where a User’s public key lives.  A Person has many Posts.  A Person has a Profile.
 
 Profile – This contains information about the person. Currently, a profile looks the same to anyone looking at it.
