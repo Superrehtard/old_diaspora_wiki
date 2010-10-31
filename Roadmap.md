@@ -35,12 +35,13 @@ These are things which would be nice to have, and are not currently in our plan,
 
 ### Communication
 
-CAPTCHA based Spam prevention:
-    We need a way to prevent a malicious server from spamming another server with requests.  A server could respond to a request from an unknown location with a captcha, possibly as described below:
-1)The requester sends the friend request.
-2)The untrusting receiving server returns some sort of notice of a challenge, possibly the url of a captcha image, or whatever would be needed to use a third party like recaptcha.  [it would be great to have this generalized so that any kind of CAPTCHA (and eventually any kind of challenge can be used). Eventually, it would be excellent to adjust continues dynamically either based on the number of requests or if the two pod operators trust each other to prevent sign up spam maybe this would be an excellent use for *MonkeySphere*]
-3) The requesting server conveys the challenge to the requesting user.
-4) The receiving server verifies the response and processes the request.
+- CAPTCHA based Spam prevention:
+
+  We need a way to prevent a malicious server from spamming another server with requests.  A server could respond to a request from an unknown location with a captcha, possibly as described below:
+  1. The requester sends the friend request.
+  2. The untrusting receiving server returns some sort of notice of a challenge, possibly the url of a captcha image, or whatever would be needed to use a third party like recaptcha.  [it would be great to have this generalized so that any kind of CAPTCHA (and eventually any kind of challenge can be used). Eventually, it would be excellent to adjust continues dynamically either based on the number of requests or if the two pod operators trust each other to prevent sign up spam maybe this would be an excellent use for *MonkeySphere*]
+  3. The requesting server conveys the challenge to the requesting user.
+  4. The receiving server verifies the response and processes the request.
 
 - An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS on a status message before sending it out to your friends. (see gmail undo)
 - Asynchronous  webfinger client in ruby, deprecating Redfinger or modifying it to use EM:HttpRequest instead of RestClient
