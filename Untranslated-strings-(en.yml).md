@@ -25,7 +25,6 @@ Please note that this page is only for those strings which isn't in the master (
 * [h4] Your birthday
 * [h4] Your photo
 * [h1] Welcome to Diaspora!
-* [h1>div.description] Do the stuff below to further complete some things.       
 * [a] Edit your profile
 * [a] Define your aspects
 * [a] Connect your services
