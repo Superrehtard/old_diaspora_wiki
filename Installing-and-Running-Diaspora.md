@@ -216,6 +216,9 @@ After RubyGems is updated, simply run `sudo gem install bundler` to get
 Bundler. If you're using Ubuntu repository .debs, bundler is found at
 /var/lib/gems/1.8/bin/bundle
 
+To get bundle work in Ubuntu, you might make a symbolic link: 
+
+		sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
 ## Getting Diaspora
 
