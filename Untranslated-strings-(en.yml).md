@@ -34,10 +34,3 @@ Please note that this page is only for those strings which isn't in the master (
 **/aspects/< id >**
 
 * [a] stream
-* [textarea>label] Post a message to <aspect name>
-* [a] X minutes **ago**
-* [a] Reshare
-* [textarea>label] Comment
-* [h4] Invites
-* [a] Invite a friend
-* [div#left_pane] (X **left**)
