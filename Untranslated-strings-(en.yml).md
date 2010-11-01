@@ -3,34 +3,17 @@ Please note that this page is only for those strings which isn't in the master (
 
 **/users/sign_in**
 
-* [h3] Login
-* [input] Username
-* [input] Password
-* [button] Sign in
-* [a] Sign up
-* [a] Forgot your password?
 * [a] Have a problem? Find an answer here
 
 
 **/users/sign_up**
 
-* [h3] Sign up for Diaspora
-* [input] Username
-* [input] Email
-* [input] Password
-* [input] Password confirmation
-* [button] Sign up
-* [h3] Upload an existing Diaspora account
 * [input] Select File (some wierd artifacts in this on too)
 * [input] User[password]
 * [input] User[password confirmation]
-* [button] Upload
 
 **/users/password/new**
 
-* [h3] Forgot your password? 
-* [input] Email
-* [button] Send me reset password instructions
 * [a] Sign up
 * [a] Sign in
 
@@ -59,7 +42,3 @@ Please note that this page is only for those strings which isn't in the master (
 * [h4] Invites
 * [a] Invite a friend
 * [div#left_pane] (X **left**)
-* (In dropdown menu)
-    * [a] view profile
-    * [a] edit profile
-    * [a] account settings
