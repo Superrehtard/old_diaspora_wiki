@@ -74,6 +74,7 @@ Please note that this page is only for those strings which isn't in the master (
 **/albums**
 
 * [input.value] Create
+* [div.time] by (in _album.html.haml)
 
 **/albums/< id >/edit**
 
