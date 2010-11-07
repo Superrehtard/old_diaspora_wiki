@@ -47,6 +47,16 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Preview  Development, database reset if needed
 
+* [[http://diaspora.barmet.tk]] [[http://diaspora.barmet.tk/images/user/default.png|height=30px|]]
+    * Opened: 07/11/2010
+    * Updated: Any time
+    * Maintainer : private person
+        * [[http://github.com/efix]]
+        * efix.fx@gmail.com
+        * [[http://identi.ca/efix]]
+    * Operating system: Linux (CentOS)
+    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
+
 * [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Any time
@@ -141,16 +151,6 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/yaba]]
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, had initial problems after changing domain
-
-* [[http://efix.is-a-geek.net]] [[http://efix.is-a-geek.net/images/user/default.jpg|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Any time
-    * Maintainer : private person
-        * [[http://github.com/efix]]
-        * efix.fx@gmail.com
-        * [[http://identi.ca/efix]]
-    * Operating system: Debian GNU/Linux Sid
-    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
 * [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
     * Opened: 25/09/2010
