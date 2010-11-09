@@ -230,3 +230,11 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/MonkeyViking]]
     * Operating system: Centos5
     * Comments: Sherbert Labs test of Diaspora. Following main branch. Updated every couple of days. 
+
+* [[http://diaspora.binaryfreedom.info]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
+    * Opened: 09/11/2010
+    * Maintainer: Chris Fernandez
+        * cfernandez@binaryfreedom.info
+        * [[http://identi.ca/chfernandez]]
+    * Operating system: Ubuntu 10.04 LTS
+    * Comments:  Based in Cambridge MA, US, Following main branch. Updated every couple of days. also hosting a jabber server and mail server
