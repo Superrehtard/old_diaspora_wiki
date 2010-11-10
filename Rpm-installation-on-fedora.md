@@ -7,11 +7,13 @@ There is a thread about this doc in [[http://forum.conni.ca/index.php/topic,6.0.
 
 ## General
 
-I have opted for using rpm packages where it's feasible.  The overall situation is
+I have opted for using rpm packages where it's feasible.  The overall situation for Fedora 13 is:
 
 - Ruby 1.8.7 - As of now, available in rawhide (see below).
 - Rubygems - In repo, but needs to be rebuilt to use ruby-1.8.7.
 - Everything else: available.
+
+For Fedora 14, everything is available in  standard repositories.
 
 ## Preparing your system
 
@@ -23,10 +25,13 @@ Ensure that mongod is started at system boot:
 
     sudo chkconfig mongod on
 
-##  Ruby 1.8.7 installation
+##  Ruby 1.8.7 installation 
 
-In order to update ruby to 1.8.7, you need to know the packages currently using
-ruby on your box:
+For Fedora 14, just install the ruby packages and proceed to "Walk around bug 360":
+    sudo yum install  ruby-libs ruby-devel ruby-irb ruby-rdoc rubygems rake
+
+In order to update Fedora 13  ruby to 1.8.7, you need to know the packages currently
+using ruby on your box:
 
     sudo yum remove ruby
 
@@ -50,7 +55,7 @@ and make the system unstable. Instead, lets download the and rebuild the
 packages for Fedora 13.
 
 Before doing this, setup a personal build environment so you can build the packages as
-ordinary user. If you hav'n't done this before, first install rpmbuild:
+ordinary user. If you hav'nt done this before, first install rpmbuild:
       sudo yum install rpmdevtools
 
 an then setup a personal build tree:
