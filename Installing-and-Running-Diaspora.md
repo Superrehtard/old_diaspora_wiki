@@ -238,6 +238,10 @@ Diaspora's gem depencencies.  Run `bundle install` from Diaspora's root
 directory.  Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
 
+NOTE: If you do any other rails development on your machine, you will probably
+want to run `bundle install --path vendor` to install the gems in your local diaspora
+directory to avoid conflicts with your existing environment.
+
 ### Start Mongo
 
 If you installed the Ubuntu package, MongoDB should already be running (if not,
