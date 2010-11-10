@@ -25,6 +25,7 @@
 # Other Resources
 
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
+
 * [99translations.com](http://99translations.com/public_projects/show/181) - Help to translate diaspora
 * [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
 * [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
