@@ -1,6 +1,6 @@
 # Rpm installation on Fedora
 
-This document describes how to install diaspora on Fedora 13. It supplements the
+This document describes how to install diaspora on Fedora 13 and 14. It supplements the
 ordinary README.md  at [[http://github.com/diaspora/diaspora/blob/master/README.md]]
 
 There is a thread about this doc in [[http://forum.conni.ca/index.php/topic,6.0.html]]
