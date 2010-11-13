@@ -300,6 +300,8 @@ on port 8080. Change the port in config/app_config.yml.
 Run `rake db:seed:dev` (for a development instance). Then you can log in with user `tom` and password `evankorth`.
 More details in db/seeds/dev.rb and db/seeds/tom.rb.
 
+If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
+
 ### Testing
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
