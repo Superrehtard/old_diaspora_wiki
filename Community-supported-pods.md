@@ -144,13 +144,13 @@ If an image is shown, the pod is *probably* online at the moment.
 
 * [[http://diasporapt.com]] [[http://diasporapt.com/images/user/default.jpg|height=30px|]]
     * Opened: 2010-09-18
-    * Updated: daily
+    * Updated: daily (Not anymore)
     * Maintained by a private person
         * IRC/Freenode: YaBa
         * polido@gmail.com
         * [[http://twitter.com/yaba]]
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
-    * Comments: Up all the time, had initial problems after changing domain
+    * Comments: Tired of using precious resources on this project! Mongo sucks! The current code is worthless, buggy and incomplete! They took the money from KickStarter and "we" do the coding and debuging? not anymore... bye bye.
 
 * [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
     * Opened: 25/09/2010
