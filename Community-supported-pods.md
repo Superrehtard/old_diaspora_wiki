@@ -15,6 +15,7 @@ If an image is shown, the pod is *probably* online at the moment.
    * Opened: 01/11/2010
    * Updated: Once a day
    * Maintained by: [[http://diaspeire.in]]
+   * Also has a Live list of other seeds with Uptime stats [[http://seeds.diasp.org]]
    * Operating system: Ubuntu
 
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
