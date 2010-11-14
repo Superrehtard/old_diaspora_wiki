@@ -200,16 +200,6 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Ubuntu
     * Comments: Reset of Database only if needed
 
-* [[http://pontari.us/]] (previously diasporahosting.eu) [[http://pontari.us/images/user/default.jpg|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Almost every day, unless there is a particular reason not to update (like unstable code)
-    * Maintainer
-        * IRC/Freenode: jonkri
-        * jon.kristensen@nejla.se
-        * [[http://twitter.com/pontarius]]
-    * Operating system: Debian
-    * Comments: Free Diaspora seeds for anyone who wants it
-
 * [[http://regged.de]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 24/09/2010
     * Updated: irregularly
