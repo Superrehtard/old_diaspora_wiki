@@ -150,7 +150,7 @@ If an image is shown, the pod is *probably* online at the moment.
         * polido@gmail.com
         * [[http://twitter.com/yaba]]
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
-    * Comments: Tired of using precious resources on this project! Mongo sucks! The current code is worthless, buggy and incomplete! They took the money from KickStarter and "we" do the coding and debuging? not anymore... bye bye.
+    * Comments: Tired of using precious resources on this project. Mongo sucks. I'll wait until Diaspora reach a stable level. (Sorry all)
 
 * [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
     * Opened: 25/09/2010
