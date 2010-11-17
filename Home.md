@@ -2,6 +2,7 @@
 
 * [[An Introduction to the Diaspora Source]]
 * [[Contributing to Diaspora: Using git |Git Workflow]]
+* [[Contributing translations to Diaspora|How-to-contribute-translations]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
