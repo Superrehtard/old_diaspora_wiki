@@ -8,7 +8,19 @@ First look if you find a existing translation.
 
 If you have to create a new one look [[here|https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale/]] or in config/locales/rails-i18n/ which code is used there for your language.
 
-If your language isn't available there choose the right code according to [[ISO 639-1|http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes]] (or [[ISO 639-2|http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes]] if your language has no ISO 639-1 code) in lowercase letters and if you want to create a country-specific one that is not the most spoken type of it append - and your country code according to [[ISO 3166-1|http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes]]  in uppercase letters.
+If your language isn't available there choose the right code according to [[ISO 639-1|http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes]] (or [[ISO 639-2|http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes]] if your language has no ISO 639-1 code) in lowercase letters. If you want to create a country-specific one, that is not the most spoken type of it, append - and your country code according to [[ISO 3166-1|http://en.wikipedia.org/wiki/ISO_3166-1#Current_codes]]  in uppercase letters.
+
+Examples:
+
+* de for German
+* de-AT for German specific to Austria
+
+If you want to create formal or informal versions of your translation append -informal or -formal to the version that is less common for social networks.
+
+Examples:
+
+* fr for the French formal one and
+* fr-informal for the informal one
 
 ## Pull request
 
