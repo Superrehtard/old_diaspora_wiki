@@ -8,20 +8,25 @@ This is a casual description of how I (Raphael Sofaer) work when pulling in a pu
 
 4. Fetch the remote repo so I can review it locally.
 
-  1. Assuming the pull request is from user pullrequester8000, I would go to my repo and 
-    'git remote add pr8000 git://github.com/pullrequester8000/diaspora.git'
+    1. Assuming the pull request is from user pullrequester8000, I would go to my repo and 
+```bash
+  'git remote add pr8000 git://github.com/pullrequester8000/diaspora.git'
+```
   
-  2. Now fetch the remote repo so it is copied locally:
-    'git fetch pr8000'
-
+    2. Now fetch the remote repo so it is copied locally:
+```bash
+  'git fetch pr8000'
+```
 5. If the change is large, checkout a merge branch to test on:
+```bash
   'git checkout -b pr8000-merge'
-
+```
 6. Merge the remote branch into the current one (assume remote branch is named 823-cause-victory):
+```bash
   'git merge pr8000/823-cause-victory'
-
+```
 7. If there were conflicts, I often fix small conflicts with clear fixes, but other conflicts, I leave a comment on github and ask the requester to rebase onto master.
 
-8. Run 'rake' to make sure there are no test failures.
+8. Run ```'rake'``` to make sure there are no test failures.
 
 9. Push back to master
