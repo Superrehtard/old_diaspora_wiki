@@ -34,4 +34,5 @@ Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/proje
 * [[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
 * [questions & answers](http://diaspora.shapado.com/) - The SO clone for diaspora
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
+* [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
 * [[Other projects]] - links elsewhere
