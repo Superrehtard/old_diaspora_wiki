@@ -36,7 +36,7 @@ If you want to create a new translation copy the en files, choose the correct la
 
 ## 99translations.com
 
-First got to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
+First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
 
 Then go to [[diaspora's project site|http://99translations.com/public_projects/show/181]] and join the team.
 
