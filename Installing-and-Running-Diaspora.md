@@ -264,6 +264,9 @@ for Diaspora.
 
 ### Configure Diaspora
 
+Diaspora needs to cache some web resources. To fix this:
+    bundle exec jammit
+
 For a local development instance, you can skip this step initially.
 
 Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config.yml.example
@@ -272,13 +275,13 @@ needed configuration changes.
 
 ### Run the server
 
-For a local development instance, just run `./script/server`. This will start both thin and the websocket server. The application is then available at http://localhost:3000.
+For a local development instance, just run `./script/server`. This will start both thin, magent  and the websocket server. The application is then available at http://localhost:3000. You can change port by editing config/server.sh
 
-If you want to run an app server other than thin, you must run it and the websocket server separately.  
+If you want to run an app server other than thin, you must run this appserver, the websocket server  and magent server separately.  
 
 ### Run the app server
 
-For a local development instance, skip this step - just run `./script/server` to get both the app server and websocket server on the right ports.
+For a local development instance, skip this step - just run `./script/server` to get both the app server, magent  and websocket server on the right ports.
 
 Once mongo is running and bundler has finished, run `bundle exec thin start`
 from the root Diaspora directory.  This will start the app server in
@@ -288,12 +291,13 @@ webserver of choice (we use nginx) to proxy port 80 at your domain name
 of choice to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf
 and config/thin.yml in the repo for an example thin config and nginx server stanza.
 
-### Run the websocket server
+### Run the websocket and magent  server
 
-For a local development instance, skip this step - just run `./script/server` to get both the app server and websocket server on the right ports.
+For a local development instance, skip this step - just run `./script/server` to get both the app server,  websocket server and magent server on the right ports.
 
 run `bundle exec ruby ./script/websocket_server` to start the websocket server
 on port 8080. Change the port in config/app_config.yml.
+run 'bundle exec magent start --log-path=log/' to start magent. magent has some options, try -h.
 
 ### Logging in with a sample user
 
