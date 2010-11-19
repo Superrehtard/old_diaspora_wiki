@@ -270,7 +270,7 @@ Diaspora needs to cache some web resources. To fix this:
 For a local development instance, you can skip this step initially.
 
 Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config.yml.example
-to config/app_config.yml, put your url into the url field, and make any other
+to config/app_config.yml, put your external  url into the pod_url field, and make any other
 needed configuration changes.
 
 ### Run the server
