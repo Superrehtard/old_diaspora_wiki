@@ -297,7 +297,7 @@ For a local development instance, skip this step - just run `./script/server` to
 
 run `bundle exec ruby ./script/websocket_server` to start the websocket server
 on port 8080. Change the port in config/app_config.yml.
-run 'bundle exec magent start --log-path=log/' to start magent. magent has some options, try -h.
+run` bundle exec magent start --log-path=log/` to start magent. magent has some options, try -h.
 
 ### Logging in with a sample user
 
