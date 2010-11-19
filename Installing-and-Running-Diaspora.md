@@ -295,9 +295,9 @@ and config/thin.yml in the repo for an example thin config and nginx server stan
 
 For a local development instance, skip this step - just run `./script/server` to get both the app server,  websocket server and magent server on the right ports.
 
-run `bundle exec ruby ./script/websocket_server` to start the websocket server
-on port 8080. Change the port in config/app_config.yml.
-run` bundle exec magent start --log-path=log/` to start magent. magent has some options, try -h.
+Run `bundle exec ruby ./script/websocket_server` to start the websocket server on port 8080. Change the port in config/app_config.yml.
+
+Run` bundle exec magent start --log-path=log/` to start magent. magent has some options, try -h.
 
 ### Logging in with a sample user
 
