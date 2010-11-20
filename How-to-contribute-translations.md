@@ -62,4 +62,4 @@ When you click on "Edit" you will see the following:
 
 ### Note
 
-Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead them to diaspora@mrzyx.de and I'll see how I can add them.
+Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them.
