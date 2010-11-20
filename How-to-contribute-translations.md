@@ -59,3 +59,7 @@ When you click on "Edit" you will see the following:
 * You can see the original text from the master file (the English translation file).
 * You can enter the translation in the textbox
 * And then click "Save and continue" to get to the next translation (Or skip this one with "Next").
+
+### Note
+
+Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead them to diaspora@mrzyx.de and I'll see how I can add them.
