@@ -264,9 +264,6 @@ for Diaspora.
 
 ### Configure Diaspora
 
-Diaspora needs to cache some web resources. To fix this:
-    bundle exec jammit
-
 For a local development instance, you can skip this step initially.
 
 Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config.yml.example
@@ -310,3 +307,20 @@ If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
 testing framework.  To run the tests: `rake spec`.
+
+### Read-only installation
+ 
+The directories tmp, public/upload and log must be writable by the user running Diaspora even in a read-only installation.
+
+Some of Diaspora's  web content in the public/ folder  is generated in runtime. In order to create a read-only installation, this content must be generated at install time instead.
+
+Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
+    rake db:seed:dev
+    bundle exec thin -d --pid log/thin.pid start
+    wget http://localhost:3000; rm index.html
+    bundle exec thin --pid log/thin.pid stop
+
+Run jammit and precache public/assets/*gz files:
+    bundle exec jammit
+
+After these commands  also the public/ folder  can be read-only (although public/uploads need to be writable, see above).
