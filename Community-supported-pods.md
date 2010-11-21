@@ -158,6 +158,14 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Tired of using precious resources on this project. Mongo sucks. I'll wait until Diaspora reach a stable level. (Sorry all)
 
+* [[http://pod.geraspora.de]] [[http://pod.geraspora.de/images/gerasporaStar.png|height=30px|]]
+    * Opened: 2010-11-01
+    * Updated: daily
+    * Maintainer : Noncommercial group of 3 persons
+        * XMPP (Multi-User): geraspora-public@conference.dsx.cc
+    * Operating system: Ubuntu
+    * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
+
 * [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
     * Opened: 25/09/2010
     * Updated: every 12 hours
