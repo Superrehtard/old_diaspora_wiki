@@ -54,6 +54,9 @@ not really what we want to install, it will pull in all the rawhide dependencies
 and make the system unstable. Instead, lets download the and rebuild the
 packages for Fedora 13.
 
+if you don't want to rebuild your packages, pre-built rpm:s built according to these instructions
+are available at [[https://github.com/leamas/diaspora/downloads]]
+
 Before doing this, setup a personal build environment so you can build the packages as
 ordinary user. If you hav'nt done this before, first install rpmbuild:
       sudo yum install rpmdevtools
