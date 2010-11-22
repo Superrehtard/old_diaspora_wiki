@@ -174,7 +174,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
 
-* [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/images/user/default.jpg|height=30px|]]
+* [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/images/user/polk.jpg|height=30px|]]
   * Opened: 05/11/2010
   * Updated: weekly
   * Maintainer: private person
