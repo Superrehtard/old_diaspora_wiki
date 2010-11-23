@@ -8,8 +8,6 @@ If you wish to add your pod to the list, please edit this page adding details al
 
 If an image is shown, the pod is *probably* online at the moment.
 
-[notice by SargoDarya] If you're hosting a pod please consider adding yourself to the seedup list at [[http://seedup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
-
 
 * [[http://diasp.org/]] [[http://diasp.org/images/user/polk.jpg|height=30px|]]
    * Opened: 01/11/2010
