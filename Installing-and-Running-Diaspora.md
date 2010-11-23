@@ -1,6 +1,6 @@
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods."    This document describes how to set up a new pod in the network.  To join Diaspora, you do not need to set up you own pod--you can join an existing pod running the Diaspora software.  The pod you join could be one run by a friend,  your university, or the official pod, run by the project’s founders, at http://joindiaspora.com.  All of the Diaspora pods communicate and make up the Diaspora Network.
+Diaspora is run on a network of connected servers, or "pods."    This document describes how to set up a new pod in the network.  To join Diaspora, you do not need to set up your own pod--you can join an existing pod running the Diaspora software.  The pod you join could be one run by a friend,  your university, or the official pod, run by the project’s founders, at http://joindiaspora.com.  All of the Diaspora pods communicate and make up the Diaspora Network.
 
 ## Notice
 
