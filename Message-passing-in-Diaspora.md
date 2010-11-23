@@ -1,5 +1,6 @@
 Current as of Oct 6, 11:00 PM
 
+```ruby
 ## Message Passing
 Given an object like a StatusMessage or a friend request, Diaspora first serializes that object to xml with post.to_diaspora_xml
     def push_to_people(post, people)
@@ -20,6 +21,7 @@ Salmon::SalmonSlap.create aes encrypts the body(that xml) and signs the aes ciph
       salmon.magic_sig = MagicSigEnvelope.create(user , user.person.aes_encrypt(activity, aes_key_hash))
       salmon
     end
+```
 
 before push_to_person is called the salmon object encrypts the headers with person's public key and 
 returns the xml of the form:
@@ -45,6 +47,8 @@ the resulting xml is then POSTed it to the receive hook of the person that is pa
 ## Discovery
 Given a diaspora_handle, Diaspora [webfingers](http://webfinger.org/) that server, creates a Person object from the information retrieved, and stores it in the database.  The information from webfinger is a collection of <link> tags. Diaspora uses the webfinger description to find the user's seed URL, the globally unique identifier (guid), and the public encryption key.
 
-* `<Link rel="http://joindiaspora.com/seed_location" type = 'text/html' href="http://tom.joindiaspora.com/"/>`
-* `<Link rel="http://joindiaspora.com/guid" type = 'text/html' href="4c97e47634b7da329d000003"/>`
-* `<Link rel="diaspora-public-key" type = 'RSA' href="LS0...=="/>`
+```xml
+  <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://tom.joindiaspora.com/"/>
+  <Link rel="http://joindiaspora.com/guid" type="text/html" href="4c97e47634b7da329d000003"/>
+  <Link rel="diaspora-public-key" type="RSA" href="LS0...=="/>
+```
