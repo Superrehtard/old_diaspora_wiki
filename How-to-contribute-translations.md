@@ -42,7 +42,9 @@ Then go to [[diaspora's project site|http://99translations.com/public_projects/s
 
 After that choose a file you want to work on [[here|http://99translations.com/projects/181]].
 
-Choose your language or click "Create Translation" to create a new one. In the "Locale" field enter your language code (don't use 99translations.com's select boxes. To choose the correct language code see above).
+
+
+Choose your language or click "Create Translation" to create a new one. In the "Locale" field enter your language code (**don't use 99translations.com's select boxes. To choose the correct language code see above. Also ignore the flags they are build by country codes but we use language codes**).
 
 You then will be presented the following view:
 
