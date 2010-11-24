@@ -5,7 +5,7 @@ This proposal was written by braedon, and edited by sofaer, as an initial laying
 The architecture defines who should have what data, in what form. Most implementation details, such as exact encryption and authentication methods, are left open.
 
 # Design Philosophy
-It is clear from the discussions that some advanced users want end to end encryption, as they do not want to trust their seeds, nor the seeds of their friends. It is also clear, however, that baring some revolutionary design as yet unthought-of (within the Diaspora community at least) such a system would be prohibitively complex and cumbersome for the average user. In fact, the more secure a system, the less user friendly, and the more expensive (network and cpu load, data storage), it becomes.
+It is clear from the discussions that some advanced users want end to end encryption, as they do not want to trust their seeds, nor the seeds of their friends. It is also clear, however, that barring some revolutionary design as yet unthought-of (within the Diaspora community at least) such a system would be prohibitively complex and cumbersome for the average user. In fact, the more secure a system, the less user friendly, and the more expensive (network and CPU load, data storage), it becomes.
 
 Thus this architecture was designed around the philosophy of 'Secure as much as you must, but no more.' It recognises that users require different security for different sets of data, and that different users will have different security capabilities.
 
