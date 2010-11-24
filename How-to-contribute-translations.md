@@ -44,6 +44,8 @@ If you want to create a new translation copy the en files, choose the correct la
 
 ## 99translations.com
 
+**Note:** Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them.
+
 First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
 
 Then go to [[diaspora's project site|http://99translations.com/public_projects/show/181]] and join the team.
@@ -69,7 +71,3 @@ When you click on "Edit" you will see the following:
 * You can see the original text from the master file (the English translation file).
 * You can enter the translation in the textbox
 * And then click "Save and continue" to get to the next translation (Or skip this one with "Next").
-
-### Note
-
-Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. 
