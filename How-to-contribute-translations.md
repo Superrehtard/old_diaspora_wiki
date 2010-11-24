@@ -1,10 +1,16 @@
 # How to contribute translations
 
 There are two ways you can contribute a translation: with a pull request or at [[99translations.com|http://99translations.com]].
+But lets start with some....
 
-For notes on languages grammatically different from English (e.g. highly inflected languages) see down below.
+## General Notes
 
-## How to choose the correct language code
+### Languages with high infection and grammar drastically different from English
+
+There is no strict policy in the project on how to deal with this issue, the choice therefore has to be made according to translators' intuition and common sense. When multiple cases are present (e.g. Slavic languages) you definitely have to resort to using the actual application to avoid silly mistakes. Inflection of verbs should probably be circumvented by using a different person (frequently the second person), such that sentences in the form "You have(male-form)/have(female-form) done something". 
+Keep in mind that other social networks have been extensively translated, these could be helpful to look at and get a sense for how the translation works.
+
+### How to choose the correct language code
 
 First look if you find a existing translation.
 
@@ -66,9 +72,4 @@ When you click on "Edit" you will see the following:
 
 ### Note
 
-Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them.
-
-### Languages with high infection and grammar drastically different from English
-
-There is no strict policy in the project on how to deal with this issue, the choice therefore has to be made according to translators' intuition and common sense. When multiple cases are present (e.g. Slavic languages) you definitely have to resort to using the actual application to avoid silly mistakes. Inflection of verbs should probably be circumvented by using a different person (frequently the second person), such that sentences in the form "You have(male-form)/have(female-form) done something". 
-Keep in mind that other social networks have been extensively translated, these could be helpful to look at and get a sense for how the translation works. 
+Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. 
