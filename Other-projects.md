@@ -2,6 +2,8 @@
 
 [[Eben moglen - Freedom in The Cloud|http://www.youtube.com/watch?v=QOEMv0S8AcA]]
 
+[[EngineY - A Rails-based Social Networking and Content Management Framework http://www.enginey.com]]
+
 [[http://wiki.debian.org/FreedomBox]]
 
 [[ProjectComparison|http://gitorious.org/social/pages/ProjectComparison]]
