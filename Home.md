@@ -24,7 +24,7 @@
 * [[Installing on Windows]] - some workarounds for installing on Windows
 * [[Installing from Source]] - Installing from the scratch
 
-*[[Report a Bug]]
+* [[Report a Bug]]
 
 # Other Resources
 
