@@ -23,6 +23,9 @@
 * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
 * [[Installing on Windows]] - some workarounds for installing on Windows
 * [[Installing from Source]] - Installing from the scratch
+
+*[[Report a Bug]]
+
 # Other Resources
 
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
