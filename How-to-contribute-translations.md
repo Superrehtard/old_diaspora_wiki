@@ -10,7 +10,7 @@ But lets start with some....
 There is no strict policy in the project on how to deal with this issue, the choice therefore has to be made according to translators' intuition and common sense. When multiple cases are present (e.g. Slavic languages) you definitely have to resort to using the actual application to avoid silly mistakes. Inflection of verbs should probably be circumvented by using a different person (frequently the second person), such that sentences in the form "You have(male-form)/have(female-form) done something". 
 Keep in mind that other social networks have been extensively translated, these could be helpful to look at and get a sense for how the translation works.
 
-### How to choose the correct language code
+### Choose the correct language code
 
 First look if you find a existing translation.
 
