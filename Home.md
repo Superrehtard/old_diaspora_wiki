@@ -39,3 +39,7 @@ Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/proje
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
 * [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
 * [[Other projects]] - links elsewhere
+
+# Instances open for public testing
+
+* [[http://diaspora.experimentalgrounds.de]]
