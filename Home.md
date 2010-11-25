@@ -42,4 +42,4 @@ Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/proje
 
 # Instances open for public testing
 
-* [[http://diaspora.experimentalgrounds.de]]
+* [[Public Testing Servers]]
