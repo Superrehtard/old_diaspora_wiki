@@ -187,7 +187,7 @@ To install Git on **Mac OS X**, run the following:
 
 ### Rubygems
 
-On **Ubuntu** 10.04, run the following:
+On **Ubuntu 10.04**, run the following:
 
 		sudo add-apt-repository ppa:maco.m/ruby
 		sudo apt-get update
@@ -195,6 +195,8 @@ On **Ubuntu** 10.04, run the following:
 
 This PPA is maintained by an Ubuntu Developer. For Ubuntu 10.10, this version
 of rubygems is in the repositories.
+
+You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
 
 If you are running **Ubuntu Server**, you might get an error that looks like:
 
