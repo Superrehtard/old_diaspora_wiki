@@ -42,6 +42,8 @@ First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 
 If you want to create a new translation copy the en files, choose the correct language code (see above) and change every occurence of en with your code. Don't forget the root element in the files!
 
+If you want to fix an untranslatable string or something feel free, but only add the new key to en.yml/devise.en.yml.
+
 ## 99translations.com
 
 **Note:** Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them.
