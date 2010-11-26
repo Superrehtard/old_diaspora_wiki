@@ -7,3 +7,8 @@ in the youtube stuff
 ### public/javascripts/aspect-edit.js
 
 some confirms
+
+
+### public/javascripts/stream.js
+
+some alerts
