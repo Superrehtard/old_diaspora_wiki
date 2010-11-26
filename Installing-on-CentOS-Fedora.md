@@ -22,10 +22,10 @@ Download the latest version of Ruby 1.8.7 from http://ruby-lang.org.  This is p3
     wget ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.7-p302.tar.bz2
     tar -xvf ruby-1.8.7-p302.tar.bz2
 
-The following steps will do the following, install Ruby, add zlib support, add openssl support, reinstall Ruby.
+The following steps will do the following, install Ruby, add zlib support, add openssl support, reinstall Ruby.  (@SmittyHalibut 2010-11-25: The first "make" gave me an error saying that Tk was compiled to use pthreads, but Ruby was not.  It suggested adding "--enable-pthread" to the "./configure" line.  I've updated the build commands below accordingly.)
 
     cd ruby-1.8.7-p302
-    ./configure
+    ./configure --enable-pthread
     make
     make install
 
