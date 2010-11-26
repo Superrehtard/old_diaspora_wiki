@@ -259,3 +259,11 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/diasp_de]]
     * Operating system: Linux
     * Comments: Public and free Diaspora pod
+
+* [[http://piratendiaspora.de]]
+    * Opened: 25/11/2010
+    * Updated: daily
+    * Maintained by a private person
+        * [[http://twitter.com/PitaPoison]]
+    * Operating system: Ubuntu 10.04 LTS
+    * Comments: Public and free. Made for the german pirate party
