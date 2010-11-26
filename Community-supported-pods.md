@@ -251,3 +251,11 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://identi.ca/chfernandez]]
     * Operating system: Ubuntu 10.04 LTS
     * Comments:  Based in Cambridge MA, US, Following main branch. Updated every couple of days. also hosting a jabber server and mail server
+
+* [[http://diasp.de]]
+    * Opened: 26/11/2010
+    * Updated: weekly
+    * Maintained by a private person
+        * [[http://twitter.com/diasp_de]]
+    * Operating system: Linux
+    * Comments: Public and free Diaspora pod
