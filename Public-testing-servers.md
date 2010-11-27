@@ -6,7 +6,7 @@
 
 **Twitter API enabled** yes
 
-**Facebook API enabled** no
+**Facebook API enabled** yes
 
 **Google Analytics enabled** yes
 
