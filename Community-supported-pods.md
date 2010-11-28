@@ -267,3 +267,12 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/PitaPoison]]
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free. Made for the german pirate party. HTTPS ONLY
+
+
+* [[https://diaspora.hostmaster.org/]]
+    * Opened: 27/11/2010
+    * Updated: as needed
+    * Maintained by a private person
+        * [[http://twitter.com/R34lB0rg]]
+    * Operating system: Ubuntu Maverick
+    * Comments: Public and Free
