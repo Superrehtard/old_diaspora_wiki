@@ -60,7 +60,7 @@ Choose your language or click "Create Translation" to create a new one. In the "
 
 You then will be presented the following view:
 
-[[http://mrzyx.de/transtut/transtut1.png|width=550px]]
+[[https://mrzyx.de/transtut/transtut1.png|width=550px]]
 
 * At the "New" tab you can translate untranslated strings
 * At the "Modified" tab you can retranslate strings that got updated in the master translation (the English one).
@@ -68,7 +68,7 @@ You then will be presented the following view:
 
 When you click on "Edit" you will see the following:
 
-[[http://mrzyx.de/transtut/transtut2.png|width=550px]]
+[[https://mrzyx.de/transtut/transtut2.png|width=550px]]
 
 * You can see the original text from the master file (the English translation file).
 * You can enter the translation in the textbox
