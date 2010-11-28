@@ -33,5 +33,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 * Click on Create application
 * Fill the Captcha
 * It will now give you your app id and your app_secret which you have to set in your config/oauth_keys.yml
+* Go to http://www.facebook.com/developers/editapp.php?app_id=< your app id >
+* Go to Website and fill the domain of your pod (without http://) in Website-Domain, then click Save changes
 * Restart Diaspora on your server
 * You're done. It's now possible to post to Facebook from your pod :)
