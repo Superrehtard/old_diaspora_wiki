@@ -6,7 +6,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 
 ## Twitter
 
-* Go to http://dev.twitter.com and sign in
+* Go to [[http://dev.twitter.com]] and sign in
 * Click on Register an app     
 [[http://mrzyx.de/diaspora/services_twitter_1.png|width=500px]]
 * Register your app   
@@ -23,3 +23,15 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 [[http://mrzyx.de/diaspora/services_twitter_3.png|width=500px]]
 * Restart Diaspora on your sever (you can skip that when you want to also add facebook support) 
 * You're done. It's now possible to post to Twitter from your pod :)
+
+## Facebook
+
+* Goto [[http://developers.facebook.com/setup/]]
+* Choose a name, for example "Diaspora at example.org"
+* Set the site address to your pod URL including a trailing /, for example http://example.org/
+* Choose a language
+* Click on Create application
+* Fill the Captcha
+* It will now give you your app id and your app_secret which you have to set in your config/oauth_keys.yml
+* Restart Diaspora on your server
+* You're done. It's now possible to post to Facebook from your pod :)
