@@ -23,7 +23,7 @@
 * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
 * [[Installing on Windows]] - some workarounds for installing on Windows
 * [[Installing from Source]] - Installing from the scratch
-
+* [[Setup services|Howto-setup-services]]
 * [[Report a Bug]]
 
 # Other Resources
