@@ -156,6 +156,11 @@ To install MongoDB on **Mac OS X**, run the following:
 If you're running either **Ubuntu**, **Fedora** or **Mac OS X** you already
 have OpenSSL installed!
 
+**Ubuntu:**
+For the use of encryption in the Event Machine it is necessary to install the package libssl-dev
+
+		sudo apt-get install libssl-dev
+
 ### ImageMagick
 
 To install ImageMagick on **Ubuntu**, run the following:
