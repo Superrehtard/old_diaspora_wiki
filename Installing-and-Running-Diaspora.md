@@ -2,6 +2,18 @@
 
 Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod--you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
+## The Official Way
+
+We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
+
+    git clone git://github.com/MikeSofaer/sod.git
+    cd sod
+    ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
+
+This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
+
+To restart the webservers after making a change, ssh in and `type svc -t /service/thin*`
+
 ## Notice
 
 We currently run Diaspora with the [thin](http://code.macournoyer.com/thin/) as
