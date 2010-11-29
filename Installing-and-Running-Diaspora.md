@@ -287,6 +287,8 @@ Diaspora will not run unless Mongo is running.  Mongo will not run by default,
 and will need to be started every time you wish to use or run the test suite
 for Diaspora.
 
+STAY SECURE:  Be sure to either configure your firewall/iptables to block Mongo's port, (27017 by default), or to run Mongo with --bind_ip 127.0.0.1, to restrict incoming connections to localhost.
+
 ### Configure Diaspora
 
 For a local development instance, you can skip this step initially.
