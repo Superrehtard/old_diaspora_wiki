@@ -12,7 +12,7 @@ We deploy and run Diaspora with a deployment tool called sod, which currently on
 
 This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
 
-To restart the webservers after making a change, ssh in and `type svc -t /service/thin*`
+To restart the webservers after making a change, ssh in and type `svc -t /service/thin*`
 
 ## Notice
 
