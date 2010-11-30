@@ -254,11 +254,11 @@ If an image is shown, the pod is *probably* online at the moment.
 
 * [[http://diasp.de]]
     * Opened: 26/11/2010
-    * Updated: weekly
+    * Updated: major changes
     * Maintained by a private person
         * [[http://twitter.com/diasp_de]]
     * Operating system: Linux
-    * Comments: Public and free Diaspora pod
+    * Comments: Public and free Diaspora pod for Germany
 
 * [[https://piratendiaspora.de]]
     * Opened: 25/11/2010
@@ -268,7 +268,6 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free. Made for the german pirate party. HTTPS ONLY
 
-
 * [[https://diaspora.hostmaster.org/]]
     * Opened: 27/11/2010
     * Updated: as needed
@@ -276,3 +275,11 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/R34lB0rg]]
     * Operating system: Ubuntu Maverick
     * Comments: Public and Free
+
+* [[http://diasp.eu]]
+    * Opened: 30/11/2010
+    * Updated: major changes
+    * Maintained by a private person
+        * [[http://twitter.com/diasp_eu]]
+    * Operating system: Linux
+    * Comments: Public and free Diaspora pod for Europe
