@@ -36,7 +36,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (CentOS)
     * Comments: Largest Free Diaspora seeds server; Dive in!
 
-* [[http://diasp.de]]
+* [[http://diasp.de]] [[http://diasp.de/apple-touch-icon.png|height=30px|]]
     * Opened: 26/11/2010
     * Updated: major changes
     * Maintained by a private person
@@ -44,7 +44,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Germany
 
-* [[http://diasp.eu]]
+* [[http://diasp.eu]] [[http://diasp.eu/apple-touch-icon.png|height=30px|]]
     * Opened: 30/11/2010
     * Updated: major changes
     * Maintained by a private person
