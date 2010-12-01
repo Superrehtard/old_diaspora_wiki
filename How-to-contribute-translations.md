@@ -72,4 +72,5 @@ When you click on "Edit" you will see the following:
 
 * You can see the original text from the master file (the English translation file).
 * You can enter the translation in the textbox
+* **Note:** have a look at the key (under "Edit Translation"). It can help you with the context, especially for gender specific translations.
 * And then click "Save and continue" to get to the next translation (Or skip this one with "Next").
