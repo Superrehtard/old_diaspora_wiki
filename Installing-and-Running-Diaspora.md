@@ -45,6 +45,7 @@ In order to run Diaspora, you will need to download the following dependencies
 - [ImageMagick](http://www.imagemagick.org/) - An Image processing library used
   to resize uploaded photos.
 - [Git](http://git-scm.com/) - The fast version control system.
+- Redis - Persistent key-value database with network interface
 
 After you have Ruby installed on your system, you will need to get RubyGems,
 then install Bundler:
@@ -204,6 +205,10 @@ To install Git on **Mac OS X**, run the following:
 
 		brew install git
 
+### Redis
+
+Ubuntu:
+		sudo apt-get install redis-server
 
 ### Rubygems
 
