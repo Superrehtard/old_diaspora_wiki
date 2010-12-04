@@ -6,6 +6,7 @@ Diaspora is run on a network of connected servers, or "pods." This document desc
 
 We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
 
+    (install ruby 1.8.7, git, bundler)
     git clone git://github.com/MikeSofaer/sod.git
     cd sod
     bundle install
