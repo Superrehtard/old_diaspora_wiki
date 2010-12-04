@@ -16,6 +16,8 @@ This should take about 40 minutes, and when it's done Diaspora should be running
 
 To restart the webservers after making a change, ssh in and type `svc -t /service/thin*`
 
+   Question? What port is the server running on? 
+
 ## Notice
 
 We currently run Diaspora with the [thin](http://code.macournoyer.com/thin/) as
