@@ -8,6 +8,7 @@ We deploy and run Diaspora with a deployment tool called sod, which currently on
 
     git clone git://github.com/MikeSofaer/sod.git
     cd sod
+    bundle install
     ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
 
 This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
