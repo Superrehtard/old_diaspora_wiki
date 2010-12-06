@@ -10,6 +10,8 @@
 
 [[GNU social|http://www.gnu.org/software/social/]]
 
+[[buddycloud channels|http://open.buddycloud.com]]
+
 [[OStatus|http://ostatus.org/]]
 
 [[http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/]]
