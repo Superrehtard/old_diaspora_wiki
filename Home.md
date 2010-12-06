@@ -25,6 +25,7 @@
 * [[Installing from Source]] - Installing from the scratch
 * [[Setup services|Howto-setup-services]]
 * [[Report a Bug]]
+* [[Work on a Bug]]
 
 # Other Resources
 
