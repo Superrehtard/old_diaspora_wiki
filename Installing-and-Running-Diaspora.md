@@ -333,6 +333,12 @@ Run `bundle exec ruby ./script/websocket_server.rb` to start the websocket serve
 
 Run` bundle exec magent start --log-path=log/` to start magent. magent has some options, try -h.
 
+### The Resque worker
+
+Run `bundle exec rake resque:work` to start the resque worker.
+
+You can monitor it with `resque-web`.
+
 ### Logging in with a sample user
 
 Run `rake db:seed:dev` (for a development instance). Then you can log in with user `tom` and password `evankorth`.
