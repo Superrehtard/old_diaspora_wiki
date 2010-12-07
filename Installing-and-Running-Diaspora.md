@@ -212,6 +212,9 @@ To install Git on **Mac OS X**, run the following:
 Ubuntu:
 		sudo apt-get install redis-server
 
+Fedora:
+		su -c 'yum install redis'
+
 ### Rubygems
 
 On **Ubuntu 10.04**, run the following:
