@@ -274,7 +274,7 @@ directory.  Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
 
 NOTE: If you get "Could not get Gemfile" try typing the following first:
-cd diaspora
+`cd diaspora`
 
 NOTE: If you do any other rails development on your machine, you will probably
 want to run `bundle install --path vendor` instead to install the gems in your local diaspora
