@@ -72,7 +72,7 @@ xml parsing dependencies):
 
 To install build tools on **Fedora**, run the following:
 
-		sudo yum install libxslt libxslt-devel libxml2 libxml2-devel
+		su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel'
 
 To install build tools on **Mac OS X**, you need to download and install
 [Xcode](http://developer.apple.com/technologies/tools/xcode.html).
@@ -149,7 +149,7 @@ repository from MongoDB
 
 Then use yum to install the packages:
 
-		sudo yum install mongo-stable mongo-stable-server
+		su -c 'yum install mongo-stable mongo-stable-server'
 
 If you're running a 32-bit system, run `wget
 http://fastdl.mongodb.org/linux/mongodb-linux-i686-1.6.2.tgz`. If you're
@@ -159,8 +159,8 @@ http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-1.6.2.tgz`.
 		# extract
 		tar xzf mongodb-linux-i686-1.4.0.tgz
 		# create the required data directory
-		sudo mkdir -p /data/db
-		sudo chmod -Rv 777 /data/
+		su -c 'mkdir -p /data/db'
+		su -c 'chmod -Rv 777 /data/'
 
 To install MongoDB on **Mac OS X**, run the following:
 
@@ -186,7 +186,7 @@ To install ImageMagick on **Ubuntu**, run the following:
 
 To install ImageMagick on **Fedora**, run the following:
 
-		sudo yum install ImageMagick
+		su -c 'yum install ImageMagick'
 
 To install ImageMagick on **Mac OS X**, run the following:
 
@@ -200,7 +200,7 @@ To install Git on **Ubuntu**, run the following:
 
 To install Git on **Fedora**, run the following:
 
-		sudo yum install git
+		su -c 'yum install git'
 
 
 To install Git on **Mac OS X**, run the following:
@@ -238,7 +238,7 @@ If this happens, you must first install python-software-properties, which contai
 
 On **Fedora**, run the following:
 
-		sudo yum install rubygems
+		su -c 'yum install rubygems'
 
 On **Mac OS X**, RubyGems comes preinstalled; however, you might need to update
 it for use with the latest Bundler. To update RubyGems, run `sudo gem update
@@ -284,8 +284,8 @@ run `service mongodb start`). If you installed the binary manually, run `sudo
 mongod` from where mongo is installed to start mongo.
 
 If you installed the Fedora package, MongoDB will need to be started via
-`service mongodb start`. If you installed the binary manually, run `sudo
-mongod` from where Mongo is installed to start Mongo.
+`service mongodb start`. If you installed the binary manually, run `su -c
+'mongod'` from where Mongo is installed to start Mongo.
 
 If you installed the OsX package through "brew", MongoDB will need to be
 started via `sudo launchctl load
