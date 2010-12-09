@@ -312,7 +312,7 @@ needed configuration changes.
 
 ### Run the server
 
-For a local development instance, just run `./script/server`. This will start both thin, magent  and the websocket server. The application is then available at http://localhost:3000. You can change port by editing config/server.sh
+For a local development instance, just run `./script/server`. This will start both thin, redis, rake resque:work  and the websocket servers. The application is then available at http://localhost:3000. You can change port by editing config/server.sh
 
 If you want to run an app server other than thin, you must run this appserver, the websocket server  and magent server separately.  
 
@@ -328,13 +328,14 @@ webserver of choice (we use nginx) to proxy port 80 at your domain name
 of choice to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf
 and config/thin.yml in the repo for an example thin config and nginx server stanza.
 
-### Run the websocket and magent  server
+### Run the websocket and  redis servers
 
-For a local development instance, skip this step - just run `./script/server` to get both the app server,  websocket server and magent server on the right ports.
+For a local development instance, skip this step - just run `./script/server` to get all servers running  on the right ports.
 
-Run `bundle exec ruby ./script/websocket_server.rb` to start the websocket server on port 8080. Change the port in config/app_config.yml.
+Run` bundle exec script/websocket_server.rb' to start this server on port 8080. Change port in config/app_config.yml.
 
-Run` bundle exec magent start --log-path=log/` to start magent. magent has some options, try -h.
+Run `redis-server`to start this server on the default port 6379. It uses a config file, normally /etc/redis.conf or 
+/etc/redis/redis.conf defining ports and other stuff.
 
 ### The Resque worker
 
@@ -345,7 +346,9 @@ You can monitor it with `resque-web`.
 ### Logging in with a sample user
 
 Run `rake db:seed:dev` (for a development instance). Then you can log in with user `tom` and password `evankorth`.
-More details in db/seeds/dev.rb and db/seeds/tom.rb.
+More details in db/seeds/dev.rb and db/seeds/tom.rb. 
+
+There is also db:seed:first_user which let you define the name/pw of a first user.
 
 If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
 
