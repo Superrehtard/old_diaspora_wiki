@@ -1,6 +1,6 @@
 This is a first attempt at an init script for diaspora. Additions/corrections welcomed.
 
-The pkg directory contains a corresponding script for Fedora handling the websocket server only. For Ubuntu, there is an upstart config file, also websocket only.
+The pkg directory contains corresponding scripts  for Fedora and Ubuntu which handles all services (thin, redis, websocket and rake resque:work ATM)
 
 ```bash
 #!/bin/bash
