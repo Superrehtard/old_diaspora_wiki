@@ -37,10 +37,11 @@ using ruby on your box:
 
 (don't worry, nothing will be removed unless you approve it). You will be presented a
 list of packages that yum will remove if ruby is removed. If this acceptable, answer
-'yes' and proceed. Otherwise, you have two options:
+'yes' and proceed. Otherwise, you have some options:
 
-- Wait until ruby-1.8.7 is available in Fedora-13. See
+- Wait until ruby-1.8.7  possibly becomes available in Fedora-13. See
   [[https://bugzilla.redhat.com/show_bug.cgi?id=602435]]
+- Upgrade to Fedora 14 (which has ruby 1.8.7 as default version).
 - Use the instructions in  [README.md](http://github.com/diaspora/diaspora/blob/master/README.md)
    to install Ruby 1.8.7 in /usr/local, using it in parallell with rpm package 1.8.6.
 
