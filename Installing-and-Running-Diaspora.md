@@ -184,6 +184,10 @@ To install ImageMagick on **Ubuntu**, run the following:
 
 		sudo apt-get install imagemagick libmagick9-dev
 
+or on Ubuntu 10.10,
+
+		sudo apt-get install imagemagick libmagickwand-dev
+
 To install ImageMagick on **Fedora**, run the following:
 
 		su -c 'yum install ImageMagick'
