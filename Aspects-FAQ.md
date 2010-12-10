@@ -14,4 +14,4 @@ Moving content between aspects isn't supported yet. But you can post content to 
 
 *** How to add people to multiple aspects? ***
 
-Working on it.
+Click on Aspects on your Home page to get to the Manage aspects page. Above each aspect is a "Add a new contact" button. You can add the same person to as many aspects as you like.
