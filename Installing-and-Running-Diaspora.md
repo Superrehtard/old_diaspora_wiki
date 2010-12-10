@@ -336,7 +336,7 @@ and config/thin.yml in the repo for an example thin config and nginx server stan
 
 For a local development instance, skip this step - just run `./script/server` to get all servers running  on the right ports.
 
-Run` bundle exec script/websocket_server.rb' to start this server on port 8080. Change port in config/app_config.yml.
+Run` bundle exec ruby script/websocket_server.rb' to start this server on port 8080. Change port in config/app_config.yml.
 
 Run `redis-server`to start this server on the default port 6379. It uses a config file, normally /etc/redis.conf or 
 /etc/redis/redis.conf defining ports and other stuff.
