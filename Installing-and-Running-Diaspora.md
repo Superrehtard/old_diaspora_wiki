@@ -14,7 +14,7 @@ We deploy and run Diaspora with a deployment tool called sod, which currently on
 
 This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
 
-On a minimal install system you'll need to install bzip2 for this to work (yum install bzip2)
+On a minimal install system you'll need to install bzip2 and vixie-cron for this to work (yum install bzip2 vixie-cron)
 
 For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and your root password.
 
