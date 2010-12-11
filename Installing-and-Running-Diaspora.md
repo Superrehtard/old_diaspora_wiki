@@ -367,7 +367,7 @@ If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
 ### Testing
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
-testing framework.  To run the tests: `rake spec`.
+testing framework. Before running the tests for the first time, you will need to generate the users.yaml file in spec/fixtures/ by running: `rake fixtures:users`. To run the tests: `rake spec`.
 
 ### Read-only installation
  
