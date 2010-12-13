@@ -283,10 +283,11 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
     * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
 
-* [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
+* [[http://diasp.be]] 
     * Opened: 10/12/2010
     * Updated: daily
     * Maintained by : Hervé Delvaux ([[http://www.webadev.com]])
         * [[http://twitter.com/diaspbe]]
+        * diaspora : bachus@diasp.be
     * Operating system: Linux (Ubuntu)
     * Comments: Public and free Diaspora pod for Belgium
