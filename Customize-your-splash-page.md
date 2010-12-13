@@ -1,0 +1,1 @@
+all you have to do is define a view as  "app/views/home/_show.html.haml" to define your own splash page for your diaspora install
