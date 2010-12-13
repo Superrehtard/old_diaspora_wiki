@@ -24,6 +24,7 @@
 * [[Installing on Windows]] - some workarounds for installing on Windows
 * [[Installing from Source]] - Installing from the scratch
 * [[Setup services|Howto-setup-services]]
+*[[Customize your splash page]]
 * [[Report a Bug]]
 * [[Work on a Bug]]
 
