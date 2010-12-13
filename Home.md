@@ -29,6 +29,8 @@
 
 # Other Resources
 
+[[Trademark Guidelines]]
+
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
 
 * [99translations.com](http://99translations.com/public_projects/show/181) - Help to translate diaspora
