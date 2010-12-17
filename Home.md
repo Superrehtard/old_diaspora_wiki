@@ -6,6 +6,7 @@
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
+*[[Changelog]]
 * [[Roadmap]]
 * [[Community-supported pods]]
 * [[Message passing in Diaspora]]
