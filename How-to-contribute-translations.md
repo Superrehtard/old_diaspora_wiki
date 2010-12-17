@@ -46,7 +46,7 @@ If you want to fix an untranslatable string or something feel free, but only add
 
 ## 99translations.com
 
-**Note:** Please do not try to upload translations to 99translations.com. There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them.
+**Note:** Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. If you do so please try to provide as complete translations as possible.
 
 First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
 
