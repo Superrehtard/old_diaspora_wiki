@@ -1,4 +1,4 @@
-#Week of 12/13/10
+**Week of 12/13/10**
  
 * Add a new line in a post by hitting Enter/Return
 
