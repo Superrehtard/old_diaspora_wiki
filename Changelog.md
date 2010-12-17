@@ -2,7 +2,7 @@
  
 * Add a new line in a post by hitting Enter/Return
 
-* Added ability to cancel email notifications
+* Added ability to turn off email notifications
 
 * Edit aspects a person is in from their profile page
 
