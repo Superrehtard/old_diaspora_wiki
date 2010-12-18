@@ -7,3 +7,5 @@
 * Edit aspects a person is in from their profile page
 
 * Ability to remember username and password on login page
+
+* Infinite scroll
