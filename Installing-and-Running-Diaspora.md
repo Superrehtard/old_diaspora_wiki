@@ -384,4 +384,10 @@ Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.cs
 Run jammit and precache public/assets/*gz files:
     bundle exec jammit
 
+
+### Production mode
+
+Diaspora, beeing a rails application, by default runs in development mode. To gain performance, you might want to run in production mode instead. To do this:
+- Edit config/server.sh
+- Review config/environments/production.rb. The config.serve_static_assets ins known to cause troubles depending on what front-end server (nginx, apache, none) is used.
 After these commands  also the *public/* folder  can be read-only (although *public/uploads* need to be writable, see above).
