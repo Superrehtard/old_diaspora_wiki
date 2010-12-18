@@ -10,14 +10,6 @@ If an image is shown, the pod is *probably* online at the moment.
 
 [notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
-* [[http://midiaspora.es]] [[http://midiaspora.es/apple-touch-icon.png|height=30px|]]
-    * Opened: 18/12/2010
-    * Updated: major changes
-    * Maintained by: private individual 
-        * DIASPORA midiaspora@midiaspora.es
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod for Spain
-
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010
    * Updated: Multiple times per day
@@ -211,6 +203,14 @@ If an image is shown, the pod is *probably* online at the moment.
         * IRC/freenode: wk_
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
+
+* [[http://midiaspora.es]] [[http://midiaspora.es/apple-touch-icon.png|height=30px|]]
+    * Opened: 18/12/2010
+    * Updated: major changes
+    * Maintained by: private individual 
+        * DIASPORA midiaspora@midiaspora.es
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod for Spain
 
 * [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/images/user/lincoln.jpg|height=30px|]]
   * Opened: 05/11/2010
