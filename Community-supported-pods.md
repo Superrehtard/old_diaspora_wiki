@@ -291,3 +291,12 @@ If an image is shown, the pod is *probably* online at the moment.
         * diaspora : bachus@diasp.be
     * Operating system: Linux (Ubuntu)
     * Comments: Public and free Diaspora pod for Belgium
+
+* [[https://poddery.com]]
+    * Opened: 2010-12-11
+    * Updated: Daily
+    * Maintainer: Joe Bivins
+        * jbivins@gmail.com
+        * [[http://twitter.com/poddery]]
+    * Operating system: Debian Linux (Lenny)
+    * Comments: Following master branch.
