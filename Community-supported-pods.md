@@ -35,6 +35,15 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (CentOS)
     * Comments: Largest Free Diaspora seeds server; Dive in!
 
+* [[http://diasp.be]] 
+    * Opened: 10/12/2010
+    * Updated: daily
+    * Maintained by : Hervé Delvaux ([[http://www.webadev.com]])
+        * [[http://twitter.com/diaspbe]]
+        * diaspora : bachus@diasp.be
+    * Operating system: Linux (Ubuntu)
+    * Comments: Public and free Diaspora pod for Belgium
+
 * [[http://diasp.de]] [[https://diasp.de/apple-touch-icon.png|height=30px|]]
     * Opened: 26/11/2010
     * Updated: major changes
@@ -272,6 +281,15 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
+* [[https://poddery.com]]
+    * Opened: 2010-12-11
+    * Updated: Daily
+    * Maintainer: Joe Bivins
+        * jbivins@gmail.com
+        * [[http://twitter.com/poddery]]
+    * Operating system: Debian Linux (Lenny)
+    * Comments: Following master branch.
+
 * [[http://regged.de]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
     * Opened: 24/09/2010
     * Updated: irregularly
@@ -289,21 +307,3 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/georgebashi]]
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
     * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
-
-* [[http://diasp.be]] 
-    * Opened: 10/12/2010
-    * Updated: daily
-    * Maintained by : Hervé Delvaux ([[http://www.webadev.com]])
-        * [[http://twitter.com/diaspbe]]
-        * diaspora : bachus@diasp.be
-    * Operating system: Linux (Ubuntu)
-    * Comments: Public and free Diaspora pod for Belgium
-
-* [[https://poddery.com]]
-    * Opened: 2010-12-11
-    * Updated: Daily
-    * Maintainer: Joe Bivins
-        * jbivins@gmail.com
-        * [[http://twitter.com/poddery]]
-    * Operating system: Debian Linux (Lenny)
-    * Comments: Following master branch.
