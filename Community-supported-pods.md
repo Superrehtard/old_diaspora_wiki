@@ -60,12 +60,13 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Europe
 
-* [[http://diasp.org/]] [[http://diasp.org/images/user/polk.jpg|height=30px|]]
+* [[http://diasp.org/]] [[https://diasp.org/apple-touch-icon.png|height=30px|]]
    * Opened: 01/11/2010
-   * Updated: Once a day
-   * Maintained by: [[http://diaspeire.in]]
-   * Also has a Live list of other seeds with Uptime stats [[http://seeds.diasp.org]]
-   * Operating system: Ubuntu
+   * Updated: Once a day @ noon
+   * Maintained by: [[http://www.diasp.org]]
+   * Operating system: Fedora 14
+   * Also has a Live list of other pods with Uptime stats [[http://pods.diasp.org]]
+
 
 * [[http://diaspora-app.heroku.com]] [[http://diaspora-app.heroku.com/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
