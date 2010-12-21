@@ -1,6 +1,6 @@
 **Week of 12/20/10**
 
-*Notifications for share requests and comments*
+* Notifications for share requests and comments
 
 **Week of 12/13/10**
  
