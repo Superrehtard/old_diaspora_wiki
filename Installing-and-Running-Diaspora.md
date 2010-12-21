@@ -353,7 +353,7 @@ Run `redis-server`to start this server on the default port 6379. It uses a confi
 
 To start the resque worker run the following command:
 
-`QUEUE=receive,mail,receive_local,socket_webfinger,http_service,http,receive_salmon rake resque:work`
+`QUEUE=receive,mail,receive_local,socket_webfinger,http_service,http,receive_salmon bundle exec rake resque:work`
 
 You can monitor it with `resque-web` and then visit http://server-ip:5678
 
