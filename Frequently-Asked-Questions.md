@@ -20,7 +20,7 @@ To create a new account, go to:
 [[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a *seed*?***  
-A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep eachother up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
+A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep each other up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
 
 ***What is a *pod*?***  
 A pod is an HTTP server (a webserver) where Diaspora is running. There are several pods which you can access using a webbrowser. Communication is not restricted to one pod. You can add friends from other pods and communicate with them. In a-technical words: it's a website where you can make or upload your own seed.
