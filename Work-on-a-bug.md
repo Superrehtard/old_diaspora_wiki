@@ -20,6 +20,6 @@
  
    1. If someone has duplicated the issue, mark the issue status 'Confirmed'
     * Ideally, there should be a spec written for this bug, if you've done this, mark the issue 'Isolated'
-    * If a pull request has been made for the issue, mark the issue status 'Awaiting Acceptance'
+    * If a pull request has been made for the issue, senior members will set the status 'Awaiting Acceptance'
     * As you make progress, particularly if the fix is more than a day, please set the '% Done' to something meaningful
  * Don't forget about the all important [git](https://github.com/diaspora/diaspora/wiki/Git-Workflow)
