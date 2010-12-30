@@ -2,28 +2,6 @@
 
 Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod--you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
-## How We Do It
-
-We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  DO NOT use a machine that other apps are running on, Sod assumes that it is deploying onto a clean machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
-
-    (install ruby 1.8.7, git, bundler)
-    git clone git://github.com/MikeSofaer/sod.git
-    cd sod
-    bundle install
-    ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
-
-This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
-
-Warning: The version of splunk installed this way only supports 64-bit processors. To work around this, download the 32-bit RPM from the splunk website:
-
-  rpm -Uvh splunk-4.1.6-89596.i386.rpm;  cd /usr/local/bin/;  rm splunk;  ln -s /opt/splunk/bin/splunk .
-
-On a minimal install system you'll need to install bzip2 and vixie-cron for this to work (yum install bzip2 vixie-cron)
-
-For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and your root password.
-
-To restart the appservers after making a change, ssh in and type `svc -t /service/thin*`
-
 ## Notice
 
 We currently run Diaspora with the [thin](http://code.macournoyer.com/thin/) as
@@ -396,4 +374,25 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 * Review config/environments/production.rb. The serve_static_assets setting is known to cause troubles depending on what front-end server (nginx, apache, none) is used.
 
 
+## How We Do It
+
+We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  DO NOT use a machine that other apps are running on, Sod assumes that it is deploying onto a clean machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
+
+    (install ruby 1.8.7, git, bundler)
+    git clone git://github.com/MikeSofaer/sod.git
+    cd sod
+    bundle install
+    ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
+
+This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
+
+Warning: The version of splunk installed this way only supports 64-bit processors. To work around this, download the 32-bit RPM from the splunk website:
+
+  rpm -Uvh splunk-4.1.6-89596.i386.rpm;  cd /usr/local/bin/;  rm splunk;  ln -s /opt/splunk/bin/splunk .
+
+On a minimal install system you'll need to install bzip2 and vixie-cron for this to work (yum install bzip2 vixie-cron)
+
+For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and your root password.
+
+To restart the appservers after making a change, ssh in and type `svc -t /service/thin*`
 
