@@ -308,3 +308,12 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://twitter.com/georgebashi]]
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
     * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
+
+* [[http://li-la.de:3000]] [[http://li-la.de/favicon.ico]]
+    * Opened: 31/12/2010
+    * updated every couple of days
+    * located in germany
+    * Maintainer: Frank Boehm <frank@thor.baldar.de>
+    * Operating system: Slackware 12.2
+    * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
+
