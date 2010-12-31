@@ -17,7 +17,7 @@ You can check the version of these pods by clicking "DEBUG INFO" at the very bot
 
 ***How do I get past the login page when I don't have an account yet?***  
 To create a new account, go to:
-[[http://yourdiasporainstance.com/signup]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
+[[http://yourdiasporainstance.com/users/sign_up]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a *seed*?***  
 A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep each other up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
