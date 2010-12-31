@@ -4,7 +4,7 @@ Diaspora is run on a network of connected servers, or "pods." This document desc
 
 ## Notice
 
-We currently run Diaspora with the [thin](http://code.macournoyer.com/thin/) as
+We currently run Diaspora with the "[thin](http://code.macournoyer.com/thin/)" software package as
 our webserver, behind [nginx](http://wiki.nginx.org/Main). Diaspora uses an
 asynchronous [EventMachine](http://rubyeventmachine.com/) queue inside the appserver
 to send messages between seeds.  If you use mod_rails, mongrel, or another 
@@ -353,7 +353,7 @@ testing framework. Before running the tests for the first time, you will need to
  
 The directories *tmp*, *public/upload* and *log* must be writable by the user running Diaspora even in a read-only installation.
 
-Some of Diaspora's  web content in the public/ folder  is generated in runtime. In order to create a read-only installation, this content must be generated at install time instead.
+Some of Diaspora's web content in the public/ folder  is generated in runtime. In order to create a read-only installation, this content must be generated at install time instead.
 
 Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
     rake db:seed:dev
@@ -378,7 +378,7 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 
 We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  DO NOT use a machine that other apps are running on, Sod assumes that it is deploying onto a clean machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
 
-    (install ruby 1.8.7, git, bundler)
+    # install ruby 1.8.7, git, bundler
     git clone git://github.com/MikeSofaer/sod.git
     cd sod
     bundle install
