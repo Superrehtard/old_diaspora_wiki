@@ -10,7 +10,7 @@ If an image is shown, the pod is *probably* online at the moment.
 
 [notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
-* [[diaspora-vallibre.linux59.info]] [[/path/to/image.png]]
+* [[http://diaspora-vallibre.linux59.info]] [[/path/to/image.png]]
    * Opened: 25/12//2010
    * Updated: Multiple times per day
    * Maintainer
