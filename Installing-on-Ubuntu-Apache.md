@@ -12,6 +12,10 @@ Thanks - that's a good test. I'll start looking at it next week. -apfejes
 
 There's a discussion on apache and passenger on [[Discussions on fedora apache wiki page]]. Can we use this also for discussion on passenger use on Apache? -- leamas
 
+Both this page and the one linked above are vastly out of date.  Unfortunately, I've been too busy to contribute much since September.  At this point, I've managed to friend people, but other things are now failing.  For instance, upon sign up, I'm unable to save changes to the gender field.  So, I think it's pretty clear that Diaspora can be served by apache, but does not function correctly.  -- apfejes
+
+
+
 ## Install Apache development package
 <pre>
 sudo apt-get install apache2-dev
