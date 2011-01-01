@@ -1,5 +1,5 @@
 fichier server.sh
-
+<pre>
 
 #
 # Included by script/server
@@ -20,7 +20,6 @@ DEFAULT_THIN_ARGS="-p $THIN_PORT -e $RAILS_ENV"
 #INIT_PUBLIC='no'
 
 
-
 ou dans app_config.yml :
 
 config_login: *******
@@ -31,6 +30,7 @@ config_login: *******
   gmail_password: ************
   email_recipient: *********@gmail.com
 
+</pre>
 
 
 
