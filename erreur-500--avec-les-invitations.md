@@ -21,8 +21,9 @@ DEFAULT_THIN_ARGS="-p $THIN_PORT -e $RAILS_ENV"
 
 
 ou dans app_config.yml :
+development:
 
-config_login: *******
+  config_login: *******
   config_password: flexibles
   domain:*************
   gmail_domain: gmail.com
