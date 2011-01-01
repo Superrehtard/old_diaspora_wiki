@@ -12,13 +12,7 @@ If an image is shown, the pod is *probably* online at the moment.
 
 
 
-* [[http://dhz.me/]] [[http://dhz.me/images/user/default.png|height=30px|]]
-   * Opened: 1/1/2011
-   * Updated: Four times per day
-   * Maintainer
-       * Hao (David) Zhang: contact@dhz.me
-   * Operating system: CentOS
-   * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
+
 
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010
@@ -34,6 +28,14 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://github.com/freedenizen]]
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
+
+* [[http://dhz.me/]] [[http://dhz.me/images/user/default.png|height=30px|]]
+   * Opened: 1/1/2011
+   * Updated: Four times per day
+   * Maintainer
+       * Hao (David) Zhang: contact@dhz.me
+   * Operating system: CentOS
+   * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
 
 * [[http://diaseeds.com]] [[http://diaseeds.com:3000/images/user/default.jpg|height=30px|]]
     * Opened: 17/09/2010
