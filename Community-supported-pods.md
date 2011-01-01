@@ -29,7 +29,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
-* [[http://dhz.me/]] [[http://dhz.me/images/user/default.png|height=30px|]]
+* [[http://dhz.me/]] [[http://dhz.me:3000/images/user/default.png|height=30px|]]
    * Opened: 1/1/2011
    * Updated: Four times per day
    * Maintainer
