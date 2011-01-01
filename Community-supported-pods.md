@@ -12,6 +12,13 @@ If an image is shown, the pod is *probably* online at the moment.
 
 
 
+* [[http://dhz.me/]] [[http://dhz.me/images/user/default.png|height=30px|]]
+   * Opened: 1/1/2011
+   * Updated: Four times per day
+   * Maintainer
+       * Hao (David) Zhang: contact@dhz.me
+   * Operating system: CentOS
+   * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
 
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010
