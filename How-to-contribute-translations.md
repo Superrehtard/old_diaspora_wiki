@@ -23,12 +23,12 @@ Examples:
 * de for German
 * de-AT for German specific to Austria
 
-If you want to create formal or informal versions of your translation append -informal or -formal to the version that is less common for social networks.
+If you want to create formal or informal versions of your translation append _informal or _formal to the version that is less common for social networks.
 
 Examples:
 
 * fr for the French formal one and
-* fr-informal for the informal one
+* fr_informal for the informal one
 
 ## Pull request
 
