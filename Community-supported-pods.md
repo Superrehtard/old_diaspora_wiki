@@ -10,12 +10,6 @@ If an image is shown, the pod is *probably* online at the moment.
 
 [notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
-* [[http://diaspora-vallibre.linux59.info]] [[/path/to/image.png]]
-   * Opened: 25/12//2010
-   * Updated: Multiple times per day
-   * Maintainer
-       * DIASPORA: titixme@diaspora-vallibre.linux59.info 
-   * Operating system: Ubuntu
 
 
 
@@ -316,7 +310,16 @@ If an image is shown, the pod is *probably* online at the moment.
         * jamil@georgebashi.com
         * [[http://twitter.com/georgebashi]]
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
-    * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork.
+    * omments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork
+
+
+* [[http://diaspora-vallibre.linux59.info]] 
+   * Opened: 25/12//2010
+   * Updated: Multiple times per day
+   * Maintainer
+       * DIASPORA: titixme@diaspora-vallibre.linux59.info 
+   * Operating system: Ubuntu+apache 2
+   * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
 
 * [[http://li-la.de:3000]] [[http://li-la.de/favicon.ico]]
     * Opened: 31/12/2010
