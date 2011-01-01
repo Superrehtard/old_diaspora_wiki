@@ -317,7 +317,7 @@ If an image is shown, the pod is *probably* online at the moment.
    * Opened: 25/12//2010
    * Updated: Multiple times per day
    * Maintainer
-       * DIASPORA: titixme@diaspora-vallibre.linux59.info 
+       * DIASPORA: Thierry Brasseur <mygalaxia@free.fr>
    * Operating system: Ubuntu+apache 2
    * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
 
