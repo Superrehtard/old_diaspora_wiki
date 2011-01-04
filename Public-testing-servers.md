@@ -1,22 +1,4 @@
-**URL** [[http://diaspora.experimentalgrounds.de]]
+See these links for public servers.
 
-**Free to sign in** yes [[http://diaspora.experimentalgrounds.de/users/sign_up]]
-
-**Services**
-
-**Twitter API enabled** yes
-
-**Facebook API enabled** yes
-
-**Google Analytics enabled** yes
-
-**Websocket SSL enabled** yes
-
-**eMail Functionality** yes
-
-**Server running on** centos, cherokee Webserver, connected to thin server
-
-**Update cycle** daily once (sometimes more often if not running)
-
-
-**Contact for Questions** diaspora@experimentalgrounds.de
+[[http://podup.sargodarya.de/]]
+[[http://pods.diasp.org/]]
