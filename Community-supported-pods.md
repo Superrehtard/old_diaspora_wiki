@@ -10,10 +10,6 @@ If an image is shown, the pod is *probably* online at the moment.
 
 [notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
-
-
-
-
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010
    * Updated: Multiple times per day
@@ -79,7 +75,6 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Fedora 14
    * Also has a Live list of other pods with Uptime stats [[http://pods.diasp.org]]
 
-
 * [[http://diaspora-app.heroku.com]] [[http://diaspora-app.heroku.com/images/user/default.jpg|height=30px|]]
     * Opened: 18/09/2010
     * Updated: Daily
@@ -89,6 +84,14 @@ If an image is shown, the pod is *probably* online at the moment.
         * [[http://github.com/guilleiguaran]]
     * Operating system: Linux
     * Comments: Preview  Development, database reset if needed
+
+* [[http://diaspora-vallibre.linux59.info]] 
+   * Opened: 25/12/2010
+   * Updated: 
+   * Maintainer: Thierry Brasseur <mygalaxia@free.fr>
+   * [[https://github.com/zeubuntu]]
+   * Operating system: Ubuntu+apache 2
+   * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
 
 * [[http://diaspora.barmet.tk]] [[http://diaspora.barmet.tk/images/user/default.png|height=30px|]]
     * Opened: 07/11/2010
@@ -226,6 +229,14 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
 
+* [[http://li-la.de:3000]] [[http://li-la.de/favicon.ico]]
+    * Opened: 31/12/2010
+    * updated every couple of days
+    * located in germany
+    * Maintainer: Frank Boehm <frank@thor.baldar.de>
+    * Operating system: Slackware 12.2
+    * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
+
 * [[http://midiaspora.es]] [[http://midiaspora.es/apple-touch-icon.png|height=30px|]]
     * Opened: 18/12/2010
     * Updated: major changes
@@ -319,22 +330,4 @@ If an image is shown, the pod is *probably* online at the moment.
         * jamil@georgebashi.com
         * [[http://twitter.com/georgebashi]]
     * Operating system: Linux (Ubuntu) (nginx + clustered thin)
-    * omments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork
-
-
-* [[http://diaspora-vallibre.linux59.info]] 
-   * Opened: 25/12//2010
-   * Updated: 
-   * Maintainer: Thierry Brasseur <mygalaxia@free.fr>
-   * [[https://github.com/zeubuntu]]
-   * Operating system: Ubuntu+apache 2
-   * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
-
-* [[http://li-la.de:3000]] [[http://li-la.de/favicon.ico]]
-    * Opened: 31/12/2010
-    * updated every couple of days
-    * located in germany
-    * Maintainer: Frank Boehm <frank@thor.baldar.de>
-    * Operating system: Slackware 12.2
-    * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
-
+    * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork
