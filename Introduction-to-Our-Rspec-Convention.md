@@ -7,7 +7,7 @@ Most time we do not want to redefine a variable for every test so we can set the
 
      let(:album)     {commands} 
 
-This should be used for the majority of the tests. It sets up a method that lazily evaluates when its called, and once it is evaluated the output can be used for the remaineder of that test. For example:
+This should be used for the majority of the tests. It sets up a method that lazily evaluates when its called, and once it is evaluated the output can be used for the remainder of that test. For example:
 
      let (:user) {Factory.create :user}
      let (:msg) {user.post(:message)}
