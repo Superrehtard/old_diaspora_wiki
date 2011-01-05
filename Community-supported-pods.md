@@ -322,6 +322,17 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux
     * Comments: just for testing, database will be reset whenever required
 
+* [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
+   * Opened: 20/12/2010
+   * Updated: Weekly
+   * Maintained by: [[https://the.diasperse.com/]]
+        * Diaspora handle admin@the.diasperse.com
+        * IRC freenode.net flah00
+        * joppershopper@gmail.com
+   * Operating system: Ubuntu 10.10
+   * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
+   * Configuration: Nginx proxying multiple thins
+
 * [[http://weleft.com]] [[http://weleft.com/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Tracking "production" branch, including weLeft-specific patches (mostly graphical).
