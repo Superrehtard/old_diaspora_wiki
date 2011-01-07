@@ -122,6 +122,17 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (Debian)
     * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
+
+* [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/images/user/default.jpg|height=30px|]]
+    * Opened: 30/12/2010
+    * Updated: Every 2-3 days
+    * Maintainer : Søren Caspersen
+        * IRC/Freenode: sbc
+        * soeren.b.c@gmail.com
+        * [[http://twitter.com/soerenbc]]
+    * Operating system: Linux (Ubuntu 10.10)
+    * Comments: Come one, come all.
+
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
