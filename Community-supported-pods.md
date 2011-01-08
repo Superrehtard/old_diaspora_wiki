@@ -75,16 +75,6 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Fedora 14
    * Also has a Live list of other pods with Uptime stats [[http://pods.diasp.org]]
 
-* [[http://diaspora-app.heroku.com]] [[http://diaspora-app.heroku.com/images/user/default.jpg|height=30px|]]
-    * Opened: 18/09/2010
-    * Updated: Daily
-    * Maintained by a private person
-        * IRC/Freenode: tr0nad0r_
-        * johnnyprez@gmail.com
-        * [[http://github.com/guilleiguaran]]
-    * Operating system: Linux
-    * Comments: Preview  Development, database reset if needed
-
 * [[http://diaspora-vallibre.linux59.info]] 
    * Opened: 25/12/2010
    * Updated: 
