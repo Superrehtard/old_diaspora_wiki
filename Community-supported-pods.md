@@ -113,7 +113,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
 
 
-* [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
     * Updated: Every 2-3 days
     * Maintainer : Søren Caspersen
