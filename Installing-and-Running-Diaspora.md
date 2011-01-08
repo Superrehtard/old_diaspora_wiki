@@ -101,7 +101,7 @@ Then run:
 		sudo apt-get update
 		sudo apt-get install mongodb-stable
 
-**Caution:** By default, MongoDB accessible from anywhere.
+**Caution:** By default, MongoDB is accessible from anywhere.
 
 You can also run the binary directly by doing the following:
 
