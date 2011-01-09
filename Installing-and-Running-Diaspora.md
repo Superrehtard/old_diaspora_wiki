@@ -2,6 +2,21 @@
 
 Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod--you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
+## The easiest way - an appliance
+There are basically two ways to set up your own Diaspora pod: install Diaspora on an OS or use a pre-build 'appliance' which already contains a fully installed Diaspora. The installation on an existing OS is described further in this document, below a short intro on using an appliance.
+
+### Finding and choosing an appliance
+
+You can find a Diaspora Pod appliance in [SUSE Gallery](http://susegallery.com/a/qkdvwb/diaspora-pod). You have the choice of downloading it either as Virtual Machine image, installable harddrive image or CD/USB live image. Moreover SUSE Studio also allows anyone with an account do do a live testdrive of the Diaspora Pod from your webbrowser but for security reasons the Pod won't be able to connect to other Pods and join the network so it is rather limited.
+
+### Running the Appliance
+
+Once you have started the Diaspora Pod appliance in a VM or from a live USB stick you can go to the [Running Diaspora](## Running Diaspora) chapter and follow the instructions there. Notice that a basic server will be started automatically by the appliance!
+
+### Modification of the Appliance
+
+If you like you can create a 'clone' of the Appliance on [SUSE Studio](http://susestudio.com) by choosing 'clone' on the top right (you need to be logged in) at the [SUSE Gallery Diaspora Pod page](http://susegallery.com/a/qkdvwb/diaspora-pod). You can then customize the pod to your liking entirely from the webinterface.
+
 ## Notice
 
 We currently run Diaspora with the "[thin](http://code.macournoyer.com/thin/)" software package as
