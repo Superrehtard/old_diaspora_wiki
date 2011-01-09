@@ -253,21 +253,6 @@ If you have never used github before, their
 [help desk](http://help.github.com/) has a pretty awesome guide on getting
 setup.
 
-## a Diaspora Pod as an appliance
-There are basically two ways to set up your own Diaspora pod: install Diaspora on an OS or use a pre-build 'appliance' which already contains a fully installed Diaspora. The appliance way is described here. Please note that this is under development, as much as the rest of diaspora. One issue: there are potential security issues. Help on fixing them is welcome!
-
-### Finding and choosing an appliance
-
-You can find a Diaspora Pod appliance in [SUSE Gallery](http://susegallery.com/a/qkdvwb/diaspora-pod). You have the choice of downloading it either as Virtual Machine image, installable harddrive image or CD/USB live image. Moreover SUSE Studio also allows anyone with an account do do a live testdrive of the Diaspora Pod from your webbrowser but for security reasons the Pod won't be able to connect to other Pods and join the network so it is rather limited.
-
-### Running the Appliance
-
-Once you have started the Diaspora Pod appliance in a VM or from a live USB stick you can go to the [Running Diaspora](## Running Diaspora) chapter and follow the instructions there. Notice that a basic server will be started automatically by the appliance!
-
-### Modification of the Appliance
-
-If you like you can create a 'clone' of the Appliance on [SUSE Studio](http://susestudio.com) by choosing 'clone' on the top right (you need to be logged in) at the [SUSE Gallery Diaspora Pod page](http://susegallery.com/a/qkdvwb/diaspora-pod). You can then customize the pod to your liking entirely from the webinterface.
-
 ## Running Diaspora
 
 ### Install required gems
@@ -410,3 +395,17 @@ For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and yo
 
 To restart the appservers after making a change, ssh in and type `svc -t /service/thin*`
 
+## A Diaspora Pod as an appliance
+Instead of installing Diaspora on an OS you can use a pre-build 'appliance' which already contains a fully installed Diaspora. The appliance way is described here. Please note that this is under development, as much as the rest of diaspora. One issue: there are potential security issues. Help on fixing them is welcome!
+
+### Finding and choosing an appliance
+
+You can find a Diaspora Pod appliance in [SUSE Gallery](http://susegallery.com/a/qkdvwb/diaspora-pod). You have the choice of downloading it either as Virtual Machine image, installable harddrive image or CD/USB live image. Moreover SUSE Studio also allows anyone with an account do do a live testdrive of the Diaspora Pod from your webbrowser but for security reasons the Pod won't be able to connect to other Pods and join the network so it is rather limited.
+
+### Running the Appliance
+
+Once you have started the Diaspora Pod appliance in a VM or from a live USB stick you can go to the [Running Diaspora](## Running Diaspora) chapter and follow the instructions there. Notice that a basic server will be started automatically by the appliance!
+
+### Modification of the Appliance
+
+If you like you can create a 'clone' of the Appliance on [SUSE Studio](http://susestudio.com) by choosing 'clone' on the top right (you need to be logged in) at the [SUSE Gallery Diaspora Pod page](http://susegallery.com/a/qkdvwb/diaspora-pod). You can then customize the pod to your liking entirely from the webinterface.
