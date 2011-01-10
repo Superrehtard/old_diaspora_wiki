@@ -75,6 +75,11 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Fedora 14
    * Also has a Live list of other pods with Uptime stats [[http://pods.diasp.org]]
 
+* [[http://diasp.org/]] [[https://diasp.org/apple-touch-icon.png|height=30px|]]
+   * Opened: 01/01/2011
+   * Updated: Twice a day
+   * Maintained by: [[http://www.diasp.es]] [[http://twitter.com/soukron]]
+
 * [[http://diaspora-vallibre.linux59.info]] 
    * Opened: 25/12/2010
    * Updated: 
