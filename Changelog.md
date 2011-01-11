@@ -1,3 +1,9 @@
+
+
+**Week of 1/10/2011**
+
+* Added ability to post to multiple aspects from the header
+
 **Week of 12/20/10**
 
 * Notifications for share requests and comments
