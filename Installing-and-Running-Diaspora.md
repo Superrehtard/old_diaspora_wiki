@@ -15,7 +15,7 @@ If you don't like thin, you can always try
 webservers later, but that is what works for now.
 
 These instructions are for machines running [Ubuntu](http://www.ubuntu.com/),
-[Fedora](http://www.fedoraproject.org) or Mac OS X. We are developing Diaspora
+[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). We are developing Diaspora
 for the latest and greatest browsers, so please update your Firefox, Chrome or
 Safari to the latest and greatest.
 
