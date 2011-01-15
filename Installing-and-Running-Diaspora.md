@@ -14,10 +14,13 @@ If you don't like thin, you can always try
 [Rainbows!](http://rainbows.rubyforge.org/) We will try to fully support more
 webservers later, but that is what works for now.
 
-These instructions are for machines running [Ubuntu](http://www.ubuntu.com/),
+These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
 [Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). We are developing Diaspora
 for the latest and greatest browsers, so please update your Firefox, Chrome or
 Safari to the latest and greatest.
+
+In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10
+
 
 ## Preparing your system
 
@@ -51,7 +54,7 @@ installed.**
 
 ### Build Tools
 
-To install build tools on **Ubuntu**, run the following (includes the gcc and
+To install build tools on **Ubuntu** and **Debian**, run the following (includes the gcc and
 xml parsing dependencies):
 
 		sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2
@@ -72,6 +75,15 @@ To install Ruby 1.8.7 on **Ubuntu**, run the following command:
 Please note that you need to have Universe enabled in your
 /etc/apt/sources.list file to install ruby using apt-get.
 
+To install Ruby 1.9.2p136 on **Debian** from source, run the following commands:
+
+ 		cd /tmp
+		wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
+		tar xpf ruby-1.9.2-p136.tar.bz2
+		cd ruby-1.9.2-p136
+		make
+		make install
+
 At this time Fedora does not have Ruby 1.8.7. As a workaround it is possible to
 use [rvm](http://rvm.beginrescueend.com/) with a locally compiled Ruby
 installation.  A semi automated method for doing this is available.  It is
@@ -88,7 +100,7 @@ If you're on **Mac OS X**, you already have Ruby on your system.  Yay!
 
 ### MongoDB
 
-To install MongoDB on **Ubuntu**, add the official MongoDB repository
+To install MongoDB on **Ubuntu** or **Debian**, follow instruction on how to add the official MongoDB repository
 [here](http://www.mongodb.org/display/DOCS/Ubuntu+and+Debian+packages).
 
 For Lucid, add the following line to your /etc/apt/sources.list (for other
@@ -156,17 +168,17 @@ To install MongoDB on **Mac OS X**, run the following:
 
 ### OpenSSL
 
-If you're running either **Ubuntu**, **Fedora** or **Mac OS X** you already
+If you're running either **Ubuntu**, **Debian**, **Fedora** or **Mac OS X** you already
 have OpenSSL installed!
 
-**Ubuntu:**
+**Ubuntu:** and **Debian**
 For the use of encryption in the Event Machine it is necessary to install the package libssl-dev
 
 		sudo apt-get install libssl-dev
 
 ### ImageMagick
 
-To install ImageMagick on **Ubuntu**, run the following:
+To install ImageMagick on **Ubuntu** or **Debian**, run the following:
 
 		sudo apt-get install imagemagick libmagick9-dev
 
@@ -188,6 +200,11 @@ To install Git on **Ubuntu**, run the following:
 
 		sudo apt-get install git-core
 
+To install Git 1.7.1 on **Debian**, add Debian Backports repository and install git-core from that repo:
+Instructions: http://backports.debian.org/Instructions/
+
+		sudo apt-get install git-core
+
 To install Git on **Fedora**, run the following:
 
 		su -c 'yum install git'
@@ -204,6 +221,16 @@ Ubuntu:
 
 Fedora:
 		su -c 'yum install redis'
+
+Debian:
+		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_amd64.deb
+
+or for 32bit:
+
+		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_i386.deb
+
+		sudo dpkg -i redis-server_2.0.1-2_amd64.deb
+
 
 ### Rubygems
 
@@ -244,6 +271,8 @@ Bundler. If you're using Ubuntu repository .debs, bundler is found at
 To get bundle work in Ubuntu, you might make a symbolic link: 
 
 		sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+
+This is not needed on Debian is installed ruby from source.
 
 ## Getting Diaspora
 
