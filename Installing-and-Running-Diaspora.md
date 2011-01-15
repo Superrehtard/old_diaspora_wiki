@@ -75,7 +75,7 @@ To install Ruby 1.8.7 on **Ubuntu**, run the following command:
 Please note that you need to have Universe enabled in your
 /etc/apt/sources.list file to install ruby using apt-get.
 
-To install Ruby 1.9.2p136 on **Debian** from source, run the following commands:
+To install Ruby 1.9.2 on **Debian** from source, run the following commands:
 
  		cd /tmp
 		wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
@@ -200,8 +200,7 @@ To install Git on **Ubuntu**, run the following:
 
 		sudo apt-get install git-core
 
-To install Git 1.7.1 on **Debian**, add Debian Backports repository and install git-core from that repo:
-Instructions: http://backports.debian.org/Instructions/
+To install Git 1.7 on **Debian**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
 
 		sudo apt-get install git-core
 
@@ -223,11 +222,16 @@ Fedora:
 		su -c 'yum install redis'
 
 Debian:
+
+If you're running a 64-bit system, run:
+
 		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_amd64.deb
 
-or for 32bit:
+If you're running a 32-bit system, run:
 
 		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_i386.deb
+
+Then install the corresponding package
 
 		sudo dpkg -i redis-server_2.0.1-2_amd64.deb
 
