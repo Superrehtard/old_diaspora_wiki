@@ -11,7 +11,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 [[https://mrzyx.de/diaspora/services_twitter_1.png|width=500px]]
 * Register your app   
 [[https://mrzyx.de/diaspora/services_twitter_2.png|width=500px]]
-    * Give it a name
+    * Give it a name.  For example "Diaspora at example.org"
     * Give it a description
     * Set the application website to your pod URL or a page that describes what Diaspora is and waht your pod has to do with it
     * Leave the application type at Browser
