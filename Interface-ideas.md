@@ -15,6 +15,8 @@ What do you think?
 
 **Tobias28:** Good call! I totally agree with you. Picking the thumbs by activity is not the right criteria. Randomly (nice for coming across people who i haven't been in contact with for a while) or alphabetically (makes it searchable easier) seem to be better. Thanks for feedback!
 
+**Timeroot:** As far as I know, websites such as Facebook log interactions between users, in order to find out whom you are most connected too. Obviously logging everything like this can have privacy implications, and would be a lot of extra work. (Although the first problem could be dealt with by adding some setting to turn logging on/off). Just a [difficult] idea.
+
 **Fresno State interface (in development)**
 Visual tag project. Ability to link to pages (like peoples profiles) to tags on a picture. 
 [[http://diasporatest.com/index.php/Fresno_State_Team]]
