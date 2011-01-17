@@ -63,23 +63,13 @@ You can check if gem has been installed correctly by running gem -v and gem list
     [root@machine ~]$ gem -v
     1.3.7
 
-## Install MongoDB
+## Install MYSQL
 
-For Fedora, the official repositories now contains the mongodb-server package. Thus, for Fedora mongodb is installed by:
+yum install mysql
+yum install mysql-server
+yum install mysql-devel
 
-    sudo yum install mongodb-server
-
-and started with
-
-    sudo service mongod start
-
-Otherwise, you can find the instructions for installing mongodb over at the MongoDB website.
-[[http://www.mongodb.org/display/DOCS/CentOS+and+Fedora+Packages]]
-
-Once you've added the mongodb repository to yum, you need to download the mongo-stable-server package and start the server.
-	  	
-    yum install mongo-stable-server	  	
-    /etc/init.d/mongod start	  	
+service mysql start
 	  	
 ## Install Git
   	
