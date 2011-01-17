@@ -7,7 +7,11 @@ Use your package manager (yum/apt) to install mysql
 Rails expects a config/database.yml file with information about your mysql database.  copy config/database.yml.example to config/database.yml, and edit it to have the user/password/database names that you want.
 
 ### Create and migrate your db
-Run 'rake db:create' and 'rake db:migrate' to create your database and set up the tables.
+Run 
+    rake db:create
+and 
+    rake db:migrate 
+to create your database and set up the tables.
 
 ## Migrate from mongo
 Make sure 'mongoexport' is accessible from the command line.  If it isn't, you'll need to create a symlink from either your path, or the directory you run the migration from, to the
@@ -15,5 +19,5 @@ Run 'rake migrations:migrate_to_mysql'
 
 ## If there were duplicate key errors
 There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to checkout the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
-'bundle exec rails c production'
-'require 'script/sanitize_database''
+    bundle exec rails c production
+    require 'script/sanitize_database'
