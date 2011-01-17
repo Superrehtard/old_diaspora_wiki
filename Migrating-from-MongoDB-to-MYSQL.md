@@ -19,5 +19,6 @@ Run 'bundle exec rake migrations:migrate_to_mysql'
 
 ## If there were duplicate key errors
 There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to checkout the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
+    git checkout f17ba7b4eb3dc5a8a1de
     bundle exec rails c production
     require 'script/sanitize_database'
