@@ -66,7 +66,9 @@ You can check if gem has been installed correctly by running gem -v and gem list
 ## Install MYSQL
 
 yum install mysql
+
 yum install mysql-server
+
 yum install mysql-devel
 
 service mysql start
