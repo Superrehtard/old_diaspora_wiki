@@ -1,14 +1,14 @@
-On Jan 17, we pulled our ActiveRecord/MYSQL branch into master in place of MongoDB/MongoMapper.  Migrating old data from MongoDB to mysql will take a few steps, but isn't hard.
+On Jan 17, we pulled our ActiveRecord/MySQL branch into master in place of MongoMapper/MongoDB.  Migrating old data from MongoDB to MySQL will take a few steps, but isn't hard.
 
 ## Set up MYSQL
-Use your package manager (yum/apt) to install mysql. 
+Use your package manager (yum/apt) to install MySQL. 
 
 On **Fedora**, you also need the msyql-devel package.
 
 On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
-### Tell Rails where MYSQL is
-Rails expects a config/database.yml file with information about your mysql database.  Copy config/database.yml.example to config/database.yml, and edit it to have the user/password/database names that you want.
+### Tell Rails where MySQL is
+Rails expects a config/database.yml file with information about your MySQL database.  Copy config/database.yml.example to config/database.yml, and edit it to have the user/password/database names that you want.
 
 ### Create and migrate your db
 Run 
@@ -17,7 +17,7 @@ and
     bundle exec rake db:migrate 
 to create your database and set up the tables. *If you are migrating a production database, put RAILS_ENV=production before each command.*
 
-## Migrate from mongo
+## Migrate from Mongo
 Make sure 'mongoexport' is in your path. It's generally located in the same place as the mongod executable.
 
 Run 
@@ -36,4 +36,4 @@ Note: the **production** in the middle step is only necessary if you're migratin
 
 Once that finishes, quit rails console and re-check-out the master branch:
     git checkout master
-And run the **Migrate from mongo** step again.
+And run the **Migrate from Mongo** step again.
