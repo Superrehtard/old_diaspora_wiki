@@ -1,21 +1,21 @@
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod on the network. 
+Diaspora is run on a network of connected servers, or "pods." This document contains technical for installing the necessary software to run a pod yourself, either for development, or as a new pod on the Diaspora network.
 
-To use Diaspora, you do not need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
+If you just want to **use** Diaspora, you don't need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
 If you still want to run your own pod...we salute you. Read on.
 
 ## Things To Know
 
-1. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
+0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
-2. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel...), or another web server (apache, unicorn...), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
+1. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
+[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0, the **Ubuntu** version is 10.04 or 10.10, and the **OS X** version is 10.6 (Snow Leopard). Diaspora does not currently install on Windows, though we are working on it.
 
-3. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
-[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10. Diaspora does not currently install on Windows, though we are working on it.
+2. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
 
-4. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
+3. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel...), or another web server (apache, unicorn...), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
 
 ## Preparing your system
 
