@@ -1,14 +1,16 @@
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
+Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod on the network. 
 
-If you still want to run your own pod, read on.
+To use Diaspora, you do not need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
-## Notice
+If you still want to run your own pod...we salute you. Read on.
+
+## Things To Know
 
 1. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
-2. We currently run Diaspora with [thin](http://code.macournoyer.com/thin/) as our application server, behind [nginx](http://wiki.nginx.org/Main) as our web server. You can use mod_rails, mongrel, or another application server, and apache or another web server, but we may not have the expertise to help you set it up.
+2. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel...), or another web server (apache, unicorn...), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
 
 3. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
 [Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10. Diaspora does not currently install on Windows, though we are working on it.
@@ -17,18 +19,17 @@ If you still want to run your own pod, read on.
 
 ## Preparing your system
 
-In order to run Diaspora, you will need to download the following dependencies
-(specific instructions follow):
+In order to run Diaspora, you will need to install the following dependencies (specific instructions follow):
 
 - Build Tools - Packages needed to compile the components that follow.
-- [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're using **1.8.7**.  It comes preinstalled on Mac OS X.)
+- [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're developing mostly on **1.8.7**, but we also support **1.9.2**.  Ruby 1.8.7 comes preinstalled on Mac OS X.)
 - [MySQL](http://www.mysql.com) - Backend storage engine.
 - [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
-- [ImageMagick](http://www.imagemagick.org/) - An Image processing library we use to resize uploaded photos.
-- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code.
-- Redis - Persistent key-value database that we use for background job processing.
+- [ImageMagick](http://www.imagemagick.org/) - An image processing library we use to resize uploaded photos.
+- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from github.
+- [Redis](http://redis.io/) - A persistent key-value store that we use via [resque](https://github.com/defunkt/resque) for background job processing.
 
-After you have Ruby installed on your system, there are a few Ruby-specific packages you'll need to install:
+After you have Ruby installed on your system, you also need:
 
 - [RubyGems](http://rubygems.org/) - A package manager for Ruby code that we use to download libraries ("gems") that Diaspora uses.
 - [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
