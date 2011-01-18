@@ -17,6 +17,10 @@ and
     bundle exec rake db:migrate 
 to create your database and set up the tables. *If you are migrating a production database, put RAILS_ENV=production before each command.*
 
+**If you want to create the database though the mysql console**, make sure you set the default charset and collation appropriately:
+    CREATE DATABASE diaspora_production DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_bin;
+Creating it through rake db:create should set the charset and collation appropriately.
+
 ## Migrate from Mongo
 Make sure 'mongoexport' is in your path. It's generally located in the same place as the mongod executable.
 
