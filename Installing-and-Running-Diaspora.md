@@ -1,4 +1,4 @@
-## These instructions are currently (1/17/2011) being updated for the new MySQL code. Once the update is complete, this notice will be removed. 
+# These instructions are out of date. They are currently (1/17/2010) being updated for the new MySQL code. Once the update is complete, this notice will be removed.
 
 ## Introduction
 
