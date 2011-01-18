@@ -223,70 +223,50 @@ NOTE: If you do any other rails development on your machine, you will probably
 want to run `bundle install --path vendor` instead to install the gems in your local diaspora
 directory to avoid conflicts with your existing environment.
 
-### Start Mongo
+### Start MySQL
 
-If you installed the Ubuntu package, MongoDB should already be running (if not,
-run `service mongodb start`). If you installed the binary manually, run `sudo
-mongod` from where mongo is installed to start mongo.
+On **Ubuntu**, **Debian**, or **Fedora**, start MySQL by running `sudo service mysql start`. 
 
-If you installed the Fedora package, MongoDB will need to be started via
-`service mongodb start`. If you installed the binary manually, run `su -c
-'mongod'` from where Mongo is installed to start Mongo.
-
-If you installed the OsX package through "brew", MongoDB will need to be
-started via `sudo launchctl load
-/Library/LaunchDaemons/org.mongodb.mongod.plist`. (before you have to go to
-/Library/LaunchDaemons and add a symlink to
-/usr/local/Cellar/mongodb/1.6.2-x86_64/org.mongodb.mongod.plist)
-
-Diaspora will not run unless Mongo is running.  Mongo will not run by default,
-and will need to be started every time you wish to use or run the test suite
-for Diaspora.
-
-STAY SECURE:  Be sure to either configure your firewall/iptables to block Mongo's port, (27017 by default), or to run Mongo with --bind_ip 127.0.0.1, to restrict incoming connections to localhost.
+On **OS X**, start MySQL by running ... ???
 
 ### Configure Diaspora
 
 For a local development instance, you can skip this step initially.
 
-Otherwise: Diaspora needs to know where on the internet it is.  Copy config/app_config.yml.example
+Otherwise: Diaspora needs to know what host it's running on.  Copy config/app_config.yml.example
 to config/app_config.yml, put your external  url into the pod_url field, and make any other
 needed configuration changes.
 
 ### Run the server
 
-For a local development instance, just run `./script/server`. This will start both thin, redis, rake resque:work  and the websocket servers. The application is then available at http://localhost:3000. You can change port by editing config/server.sh
+For a local development instance, just run `./script/server`. This will start thin, redis, a resque worker and the websocket server. The application is then available at http://localhost:3000. You can change port by editing config/server.sh.
 
-If you want to run an app server other than thin, you must run this appserver, the websocket server  and magent server separately.  
+If you want to run an app server other than thin, you must run the appserver, redis, a resque worker, and the websocket server separately. Check out script/server for details.  
 
 ### Run the app server
 
-For a local development instance, skip this step - just run `./script/server` to get both the app server, magent  and websocket server on the right ports.
+For a local development instance, skip this step - just run `./script/server` to get everything running on the right ports.
 
-Once mongo is running and bundler has finished, run `bundle exec thin start`
-from the root Diaspora directory.  This will start the app server in
-development mode[.](http://bit.ly/9mwtUw)  It will run on port 3000 by default
-and you need to either run it on port 80 (probably unwise), or use your
-webserver of choice (we use nginx) to proxy port 80 at your domain name
-of choice to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf
-and config/thin.yml in the repo for an example thin config and nginx server stanza.
+Once MySQL is running and bundler has finished, run `bundle exec thin start` from the root Diaspora directory.  This will start the app server in
+development mode.  It will run on port 3000 by default. If you want it to be available on port 80, either run it on port 80 directly (probably unwise), or use your webserver of choice (we use nginx) to proxy port 80 at your domain name to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf and config/thin.yml in the repo for an example thin config and nginx server stanza.
 
-### Run the websocket and  redis servers
+### Run the websocket server and redis
 
-For a local development instance, skip this step - just run `./script/server` to get all servers running  on the right ports.
+For a local development instance, skip this step - just run `./script/server` to get everything running  on the right ports.
 
-Run` bundle exec ruby script/websocket_server.rb' to start this server on port 8080. Change port in config/app_config.yml.
+Run` bundle exec ruby script/websocket_server.rb' to start websockets on port 8080. Change port in config/app_config.yml.
 
-Run `redis-server`to start this server on the default port 6379. It uses a config file, normally /etc/redis.conf or 
-/etc/redis/redis.conf defining ports and other stuff.
+Run `redis-server` to start redis on the default port 6379. It uses a config file, normally /etc/redis.conf or /etc/redis/redis.conf defining ports and other stuff.
 
-### The Resque worker
+### Run the resque worker
+
+For a local development instance, skip this step - just run `./script/server` to get everything running  on the right ports.
 
 To start the resque worker run the following command:
 
-`QUEUE=receive,mail,receive_local,socket_webfinger,http_service,http,receive_salmon bundle exec rake resque:work`
+`QUEUE=* bundle exec rake resque:work`
 
-You can monitor it with `resque-web` and then visit http://server-ip:5678
+You can monitor by starting `resque-web` and then visit http://server-ip:5678
 
 ### Logging in with a sample user
 
@@ -299,14 +279,13 @@ If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
 
 ### Testing
 
-Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven
-testing framework. Before running the tests for the first time, you will need to generate the users.yaml file in spec/fixtures/ by running: `rake fixtures:users`. To run the tests: `rake spec`.
+Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven testing framework. To run all tests: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
 
 ### Read-only installation
  
 The directories *tmp*, *public/upload* and *log* must be writable by the user running Diaspora even in a read-only installation.
 
-Some of Diaspora's web content in the public/ folder  is generated in runtime. In order to create a read-only installation, this content must be generated at install time instead.
+Some of Diaspora's web content in the public/ folder  is generated at runtime. In order to create a read-only installation, this content must be generated at install time instead.
 
 Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
     rake db:seed:dev
@@ -325,7 +304,6 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 
 * Edit config/server.sh
 * Review config/environments/production.rb. The serve_static_assets setting is known to cause troubles depending on what front-end server (nginx, apache, none) is used.
-
 
 ## How We Do It
 
@@ -348,18 +326,3 @@ On a minimal install system you'll need to install bzip2 and vixie-cron for this
 For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and your root password.
 
 To restart the appservers after making a change, ssh in and type `svc -t /service/thin*`
-
-## A Diaspora Pod as an appliance
-Instead of installing Diaspora on an OS you can use a pre-build 'appliance' which already contains a fully installed Diaspora. The appliance way is described here. Please note that this is under development, as much as the rest of diaspora. One issue: there are potential security issues. Help on fixing them is welcome!
-
-### Finding and choosing an appliance
-
-You can find a Diaspora Pod appliance in [SUSE Gallery](http://susegallery.com/a/qkdvwb/diaspora-pod). You have the choice of downloading it either as Virtual Machine image, installable harddrive image or CD/USB live image. Moreover SUSE Studio also allows anyone with an account do do a live testdrive of the Diaspora Pod from your webbrowser but for security reasons the Pod won't be able to connect to other Pods and join the network so it is rather limited.
-
-### Running the Appliance
-
-Once you have started the Diaspora Pod appliance in a VM or from a live USB stick you can go to the [Running Diaspora](## Running Diaspora) chapter and follow the instructions there. Notice that a basic server will be started automatically by the appliance!
-
-### Modification of the Appliance
-
-If you like you can create a 'clone' of the Appliance on [SUSE Studio](http://susestudio.com) by choosing 'clone' on the top right (you need to be logged in) at the [SUSE Gallery Diaspora Pod page](http://susegallery.com/a/qkdvwb/diaspora-pod). You can then customize the pod to your liking entirely from the webinterface.
