@@ -2,27 +2,22 @@
 
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod--you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
+Diaspora is run on a network of connected servers, or "pods." This document describes the technical instructions on how to set up a new pod in the network. To join Diaspora, you do not need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
 ## Notice
 
-We currently run Diaspora with the "[thin](http://code.macournoyer.com/thin/)" software package as
-our webserver, behind [nginx](http://wiki.nginx.org/Main). Diaspora uses an
-asynchronous [EventMachine](http://rubyeventmachine.com/) queue inside the appserver
-to send messages between seeds.  If you use mod_rails, mongrel, or another 
-non-eventmachine based application server, federation may not work.
+0. If you run into problems, please visit us in irc, on freenode, in #diaspora.
 
-If you don't like thin, you can always try
-[Rainbows!](http://rainbows.rubyforge.org/) We will try to fully support more
-webservers later, but that is what works for now.
+1. We currently run Diaspora with [thin](http://code.macournoyer.com/thin/) as
+our application server, behind [nginx](http://wiki.nginx.org/Main) as our web server. You can use mod_rails, mongrel, or another 
+application server, and apache or another web server, but we may not have the expertise to help you set it up.
 
-These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
-[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). We are developing Diaspora
-for the latest and greatest browsers, so please update your Firefox, Chrome or
-Safari to the latest and greatest.
+2. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
+[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10. Diaspora does not currently install on Windows, though
+we are working on it.
 
-In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10
-
+3. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or
+Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
 
 ## Preparing your system
 
