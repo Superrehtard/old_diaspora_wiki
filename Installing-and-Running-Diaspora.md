@@ -35,8 +35,7 @@ After you have Ruby installed on your system, you also need:
 - [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
 
 **We suggest using a package management system to download dependencies, where possible.
-Trust us, it's going to make your life a lot easier.  If you're using Mac OS X,
-you can use [homebrew](http://mxcl.github.com/homebrew/) or [Macports](http://www.macports.org/); if you're using
+Trust us, it's going to make your life a lot easier.  If you're using Mac OS X, install [homebrew](http://mxcl.github.com/homebrew/); if you're using
 Ubuntu, just use [Synaptic](http://www.nongnu.org/synaptic/) (it comes
 pre-installed); if you're using Fedora simply use
 [yum](http://yum.baseurl.org/). The instructions below assume you have these
