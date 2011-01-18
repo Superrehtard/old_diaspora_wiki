@@ -3,9 +3,9 @@ On Jan 17, we pulled our ActiveRecord/MYSQL branch into master in place of Mongo
 ## Set up MYSQL
 Use your package manager (yum/apt) to install mysql. 
 
-On *Fedora*, you also need the msyql-devel package.
+On **Fedora**, you also need the msyql-devel package.
 
-On *Ubuntu*, you also need the libmysqlclient-dev and libmysql-ruby packages.
+On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
 ### Tell Rails where MYSQL is
 Rails expects a config/database.yml file with information about your mysql database.  Copy config/database.yml.example to config/database.yml, and edit it to have the user/password/database names that you want.
