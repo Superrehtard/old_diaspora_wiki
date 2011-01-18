@@ -29,6 +29,9 @@ Run
 
 As before, you will need RAILS_ENV=production at the beginning of the line if you are migrating a production database.
 
+Error on **Ubuntu** with AppArmor:
+    Mysql2::Error: File '/tmp/data_conversion/csv/users.csv' not found (Errcode: 13): 
+Workaround: https://bugs.launchpad.net/ubuntu/+source/mysql-dfsg-5.0/+bug/244406/comments/4
 
 ## If there were duplicate key errors
 There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to check out the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
