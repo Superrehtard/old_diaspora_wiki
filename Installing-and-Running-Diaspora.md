@@ -6,18 +6,14 @@ Diaspora is run on a network of connected servers, or "pods." This document desc
 
 ## Notice
 
-0. If you run into problems, please visit us in irc, on freenode, in #diaspora.
+1. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
-1. We currently run Diaspora with [thin](http://code.macournoyer.com/thin/) as
-our application server, behind [nginx](http://wiki.nginx.org/Main) as our web server. You can use mod_rails, mongrel, or another 
-application server, and apache or another web server, but we may not have the expertise to help you set it up.
+2. We currently run Diaspora with [thin](http://code.macournoyer.com/thin/) as our application server, behind [nginx](http://wiki.nginx.org/Main) as our web server. You can use mod_rails, mongrel, or another application server, and apache or another web server, but we may not have the expertise to help you set it up.
 
-2. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
-[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10. Diaspora does not currently install on Windows, though
-we are working on it.
+3. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
+[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 and **Ubuntu** 10.04 or 10.10. Diaspora does not currently install on Windows, though we are working on it.
 
-3. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or
-Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
+4. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
 
 ## Preparing your system
 
@@ -25,23 +21,19 @@ In order to run Diaspora, you will need to download the following dependencies
 (specific instructions follow):
 
 - Build Tools - Packages needed to compile the components that follow.
-- [Ruby](http://www.ruby-lang.org) - The Ruby programming language.
-  (We're using **1.8.7**.  It comes preinstalled on Mac OS X.)
-- [MongoDB](http://www.mongodb.org) - A snappy noSQL database.
-- [OpenSSL](http://www.openssl.org/) - An encryption library.
-  (It comes preinstalled on Mac OS X and Ubuntu.)
-- [ImageMagick](http://www.imagemagick.org/) - An Image processing library used
-  to resize uploaded photos.
-- [Git](http://git-scm.com/) - The fast version control system.
-- Redis - Persistent key-value database with network interface
+- [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're using **1.8.7**.  It comes preinstalled on Mac OS X.)
+- [MySQL](http://www.mysql.com) - Backend storage engine.
+- [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
+- [ImageMagick](http://www.imagemagick.org/) - An Image processing library we use to resize uploaded photos.
+- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code.
+- Redis - Persistent key-value database that we use for background job processing.
 
-After you have Ruby installed on your system, you will need to get RubyGems,
-then install Bundler:
+After you have Ruby installed on your system, there are a few Ruby-specific packages you'll need to install:
 
-- [RubyGems](http://rubygems.org/) - Source for Ruby gems.
-- [Bundler](http://gembundler.com/) - Gem management tool for Ruby projects.
+- [RubyGems](http://rubygems.org/) - A package manager for Ruby code that we use to download libraries ("gems") that Diaspora uses.
+- [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
 
-**We suggest using a package management system to download these dependencies.
+**We suggest using a package management system to download dependencies, where possible.
 Trust us, it's going to make your life a lot easier.  If you're using Mac OS X,
 you can use [homebrew](http://mxcl.github.com/homebrew/) or [Macports](http://www.macports.org/); if you're using
 Ubuntu, just use [Synaptic](http://www.nongnu.org/synaptic/) (it comes
@@ -61,7 +53,7 @@ To install build tools on **Fedora**, run the following:
 		su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel'
 
 To install build tools on **Mac OS X**, you need to download and install
-[Xcode](http://developer.apple.com/technologies/tools/xcode.html).
+[Xcode](http://developer.apple.com/technologies/tools/xcode.html). It's a large download; it also comes on your OS X DVD.
 
 ### Ruby
 
@@ -83,85 +75,17 @@ To install Ruby 1.9.2 on **Debian** from source, run the following commands:
 
 At this time Fedora does not have Ruby 1.8.7. As a workaround it is possible to
 use [rvm](http://rvm.beginrescueend.com/) with a locally compiled Ruby
-installation.  A semi automated method for doing this is available.  It is
-highly recommended that you review the script before running it so you
-understand what will occur.  The script can be executed by running the
-following command:
-
-		./script/bootstrap-fedora-diaspora.sh
-
-After reviewing and executing the above script you will need to follow the
-"MongoDB" section and then you should skip all the way down to "Start Mongo".
+installation.
 
 If you're on **Mac OS X**, you already have Ruby on your system.  Yay!
 
-### MongoDB
+### MySQL
 
-To install MongoDB on **Ubuntu** or **Debian**, follow instruction on how to add the official MongoDB repository
-[here](http://www.mongodb.org/display/DOCS/Ubuntu+and+Debian+packages).
+If you're on **Ubuntu**, **Debian**, or **Fedora**, use your package manager to install MySQL. If you're on **OS X**, it's already installed.
 
-For Lucid, add the following line to your /etc/apt/sources.list (for other
-distros, see http://www.mongodb.org/display/DOCS/Ubuntu+and+Debian+packages):
+On **Fedora**, you also need the msyql-devel package.
 
-		deb http://downloads.mongodb.org/distros/ubuntu 10.4 10gen
-
-Then run:
-		sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
-		sudo apt-get update
-		sudo apt-get install mongodb-stable
-
-**Caution:** By default, MongoDB is accessible from anywhere.
-
-You can also run the binary directly by doing the following:
-
-If you're running a 32-bit system, run:
-
-		wget http://fastdl.mongodb.org/linux/mongodb-linux-i686-1.6.2.tgz
-
-If you're running a 64-bit system, run:
-
-		wget http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-1.6.2.tgz
-
-Then run:
-
-		# extract
-		tar xzf mongodb-linux-i686-1.4.0.tgz
-		# create the required data directory
-		sudo mkdir -p /data/db
-		sudo chmod -Rv 777 /data/
-
-
-To install MongoDB on a x86_64 **Fedora** system, add the official MongoDB
-repository from MongoDB
-(http://www.mongodb.org/display/DOCS/CentOS+and+Fedora+Packages) into
-/etc/yum.repos.d/10gen.repo:
-
-		[10gen]
-		name=10gen Repository
-		baseurl=http://downloads.mongodb.org/distros/fedora/13/os/x86_64/
-		gpgcheck=0
-		enabled=1
-
-Then use yum to install the packages:
-
-		su -c 'yum install mongo-stable mongo-stable-server'
-
-If you're running a 32-bit system, run `wget
-http://fastdl.mongodb.org/linux/mongodb-linux-i686-1.6.2.tgz`. If you're
-running a 64-bit system, run `wget
-http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-1.6.2.tgz`.
-
-		# extract
-		tar xzf mongodb-linux-i686-1.4.0.tgz
-		# create the required data directory
-		su -c 'mkdir -p /data/db'
-		su -c 'chmod -Rv 777 /data/'
-
-To install MongoDB on **Mac OS X**, run the following:
-
-		brew install mongo
-		sudo mkdir -p /data/db
-		sudo chmod -Rv 777 /data/
+On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
 ### OpenSSL
 
@@ -233,7 +157,7 @@ Then install the corresponding package
 		sudo dpkg -i redis-server_2.0.1-2_amd64.deb
 
 
-### Rubygems
+### RubyGems
 
 On **Ubuntu 10.04**, run the following:
 
