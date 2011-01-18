@@ -1,6 +1,6 @@
 On Jan 17, we pulled our ActiveRecord/MySQL branch into master in place of MongoMapper/MongoDB.  Migrating old data from MongoDB to MySQL will take a few steps, but isn't hard.
 
-## Set up MYSQL
+## Set up MySQL
 Use your package manager (yum/apt) to install MySQL. 
 
 On **Fedora**, you also need the msyql-devel package.
