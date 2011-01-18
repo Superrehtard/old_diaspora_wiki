@@ -40,7 +40,7 @@ Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/proje
 * [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
 * [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
 * [Development Discussion Group](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
-* [[assorted notes]] - koo5s assorted notes(possibly dangerous&wrong)
+* [[assorted notes]] - koo5s assorted notes (possibly dangerous & wrong)
 * [questions & answers](http://diaspora.shapado.com/) - The SO clone for diaspora
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
 * [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
