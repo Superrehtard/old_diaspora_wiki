@@ -27,11 +27,13 @@ As before, you will need RAILS_ENV=production at the beginning of the line if yo
 
 
 ## If there were duplicate key errors
-There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to checkout the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
+There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to check out the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
     git checkout f17ba7b4eb3dc5a8a1de
     bundle exec rails c production
     require 'script/sanitize_database'
 
-Then, check out master:
+Note: the **production** in the middle step is only necessary if you're migrating a production database. You can omit it if you're migrating a development database.
+
+Once that finishes, quit rails console and re-check-out the master branch:
     git checkout master
 And run the **Migrate from mongo** step again.
