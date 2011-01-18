@@ -32,4 +32,7 @@ There is probably data from a few months ago, when our database level key constr
     bundle exec rails c production
     require 'script/sanitize_database'
 
-Then, run the **Migrate from mongo** step again.
+Then, check out master and run the **Migrate from mongo** step again.
+    git checkout master
+    bundle exec rake migrations:migrate_to_mysql
+
