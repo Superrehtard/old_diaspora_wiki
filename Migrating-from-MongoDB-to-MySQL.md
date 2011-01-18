@@ -41,6 +41,12 @@ There is probably data from a few months ago, when our database level key constr
 
 Note: the **production** in the middle step is only necessary if you're migrating a production database. You can omit it if you're migrating a development database.
 
+_If you do not have a console (the readline fails) you need to compile it from your Ruby source_  
+    cd /opt/src/ruby-1.**/ext/readline
+    ruby extconf.rb
+    make
+    make install
+
 Once that finishes, quit rails console and re-check-out the master branch:
     git checkout master
 And run the **Migrate from Mongo** step again.
