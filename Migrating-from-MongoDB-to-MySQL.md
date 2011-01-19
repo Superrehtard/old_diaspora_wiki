@@ -3,7 +3,7 @@ On Jan 17, we pulled our ActiveRecord/MySQL branch into master in place of Mongo
 ## Set up MySQL
 Use your package manager (yum/apt) to install MySQL. 
 
-On **Fedora**, you also need the mysql-devel package.
+On **Fedora** and **CentOS**, you also need the mysql-devel package.
 
 On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
