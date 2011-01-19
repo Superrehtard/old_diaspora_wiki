@@ -11,14 +11,14 @@ On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 Rails expects a `config/database.yml` file with information about your MySQL database.  Copy `config/database.yml.example` to `config/database.yml`, and edit it to have the user/password/database names that you want.
 
 ### Create and migrate your db
-First, make sure you have specified the right character set and collation (sorting) order in your database.yml. In every block, there should be the following two lines:
+First, make sure you have specified the right character set and collation (sorting) order in your `config/database.yml`. In every block, there should be the following two lines:
     charset: utf8
     collation: utf8_bin
 Add them if they are missing. Then, on the command line, run
     bundle exec rake db:create
 and then
     bundle exec rake db:migrate 
-This creates your database, and sets up the tables. If you are migrating a production database, put RAILS_ENV=production before each `bundle exec`.
+This creates your database, and sets up the tables. If you are migrating a production database, put `RAILS_ENV=production` before each `bundle exec`.
 
 ## Migrate from Mongo
 Make sure 'mongoexport' is in your path. It's generally located in the same place as the mongod executable.
