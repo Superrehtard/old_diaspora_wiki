@@ -1,6 +1,6 @@
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods." This document contains technical for installing the necessary software to run a pod yourself, either for development, or as a new pod on the Diaspora network.
+Diaspora is run on a network of connected servers, or "pods." This document contains technical information for installing the necessary software to run a pod yourself, either for development, or as a new pod on the Diaspora network.
 
 If you just want to **use** Diaspora, you don't need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
