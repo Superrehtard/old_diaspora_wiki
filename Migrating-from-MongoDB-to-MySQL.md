@@ -15,11 +15,11 @@ Open the mysql console:
     mysql -u user -ppassword
 Replace user with your MySQL user and password with that user's MySQL password. There is a space between `-u` and the username, but no space between `-p` and the password. Then run:
     CREATE DATABASE diaspora_production DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_bin;
-Replace `diaspora_production` with the name of your database, if it's different. Once that's done, exit out of the MySQL console and run:
+Replace `diaspora_production` with `diaspora_development` if this is a development instance. Once that's done, exit out of the MySQL console and run:
     bundle exec rake db:migrate 
-This sets up the tables. *If you are migrating a production database, put RAILS_ENV=production before the bundle exec.*
+This sets up the tables. If you are migrating a production database, put RAILS_ENV=production before the bundle exec.
 
-Note: creating the database through `rake db:create` does not set the right default collation or character set, which will cause lots of problems later. So do create it by hand, in the MySQL console. Thanks.
+**Note:** creating the database through `rake db:create` does not set the right default collation or character set, which will cause lots of problems later. So **do** create it by hand, in the MySQL console. Thanks.
 
 ## Migrate from Mongo
 Make sure 'mongoexport' is in your path. It's generally located in the same place as the mongod executable.
