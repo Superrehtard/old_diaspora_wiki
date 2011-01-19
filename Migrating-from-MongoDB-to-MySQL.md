@@ -41,13 +41,15 @@ There is probably data from a few months ago in your database, when our database
 
 Note: the **production** in the middle step is only necessary if you're migrating a production database. You can omit it if you're migrating a development database.
 
-_If you do not have a console (the readline fails) you need to compile it from your Ruby source_  
+**If you do not have a console** (the readline fails), then you need to compile it from your Ruby source.  
     cd /opt/src/ruby-1.**/ext/readline
     ruby extconf.rb
     make
     make install
-Then open up the console again and do the require.
+After you compile it, open up the console again and do the require.
 
-Once that finishes, quit rails console and re-check-out the master branch:
+Once the require line finishes, quit rails console and re-check-out the master branch:
     git checkout master
 Finally, run the **Migrate from Mongo** step again.
+
+**If you still have duplicate key errors**, it probably means you created your database without the right collation setting. Try remaking them as in the **Create and migrate your db** step.
