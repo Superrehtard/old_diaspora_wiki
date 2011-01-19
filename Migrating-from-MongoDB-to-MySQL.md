@@ -29,12 +29,12 @@ Run
 
 As before, you will need RAILS_ENV=production at the beginning of the line if you are migrating a production database.
 
-Error on **Ubuntu** with AppArmor:
+If you're on **Ubuntu** with AppArmor, you may get this error:
     Mysql2::Error: File '/tmp/data_conversion/csv/users.csv' not found (Errcode: 13): 
-Workaround: https://bugs.launchpad.net/ubuntu/+source/mysql-dfsg-5.0/+bug/244406/comments/4
+You can follow this workaround: https://bugs.launchpad.net/ubuntu/+source/mysql-dfsg-5.0/+bug/244406/comments/4
 
-## If there were duplicate key errors
-There is probably data from a few months ago, when our database level key constraints weren't as specific, in your db.  You'll have to check out the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
+## If you get duplicate key errors
+There is probably data from a few months ago in your database, when our database level key constraints weren't as specific.  You'll have to check out the last mongo ref (f17ba7b4eb3dc5a8a1de) and go into rails console.
     git checkout f17ba7b4eb3dc5a8a1de
     bundle exec rails c production
     require 'script/sanitize_database'
@@ -46,7 +46,8 @@ _If you do not have a console (the readline fails) you need to compile it from y
     ruby extconf.rb
     make
     make install
+Then open up the console again and do the require.
 
 Once that finishes, quit rails console and re-check-out the master branch:
     git checkout master
-And run the **Migrate from Mongo** step again.
+Finally, run the **Migrate from Mongo** step again.
