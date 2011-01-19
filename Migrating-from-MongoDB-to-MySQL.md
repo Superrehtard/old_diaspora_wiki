@@ -52,4 +52,4 @@ Once the require line finishes, quit rails console and re-check-out the master b
     git checkout master
 Finally, run the **Migrate from Mongo** step again.
 
-**If you still have duplicate key errors**, it probably means you created your database without the right collation setting. Try remaking them as in the **Create and migrate your db** step.
+If you still have duplicate key errors after running the sanitize script, it probably means you created your database without the right collation setting. Try remaking them as in the **Create and migrate your db** step.
