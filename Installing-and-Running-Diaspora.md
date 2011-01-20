@@ -10,7 +10,7 @@ If you still want to run your own pod...we salute you. Read on.
 
 0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
-1. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/), 
+1. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/),
 [Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0, the **Ubuntu** version is 10.04 or 10.10, and the **OS X** version is 10.6 (Snow Leopard). Diaspora does not currently install on Windows, though we are working on it.
 
 2. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
@@ -46,11 +46,11 @@ installed.**
 To install build tools on **Ubuntu** and **Debian**, run the following (includes the gcc and
 xml parsing dependencies):
 
-		sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2
+        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2
 
 To install build tools on **Fedora**, run the following:
 
-		su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel'
+        su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel'
 
 To install build tools on **Mac OS X**, you need to download and install
 [Xcode](http://developer.apple.com/technologies/tools/xcode.html). It's a large download; it also comes on your OS X DVD.
@@ -59,20 +59,20 @@ To install build tools on **Mac OS X**, you need to download and install
 
 To install Ruby 1.8.7 on **Ubuntu**, run the following command:
 
-		sudo apt-get install ruby-full
+        sudo apt-get install ruby-full
 
 Please note that you need to have Universe enabled in your
 /etc/apt/sources.list file to install ruby using apt-get.
 
 To install Ruby 1.9.2 on **Debian** from source, run the following commands:
 
- 		cd /tmp
-		wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
-		tar xpf ruby-1.9.2-p136.tar.bz2
-		cd ruby-1.9.2-p136
-		./configure
-		make
-		make install
+        cd /tmp
+        wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
+        tar xpf ruby-1.9.2-p136.tar.bz2
+        cd ruby-1.9.2-p136
+        ./configure
+        make
+        make install
 
 Alternativly if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
 
@@ -86,7 +86,9 @@ If you're on **Mac OS X**, you already have Ruby on your system.  Yay!
 
 If you're on **Ubuntu**, **Debian**, or **Fedora**, use your package manager to install MySQL. If you're on **OS X**, it's already installed.
 
-On **Fedora**, you also need the msyql-devel package.
+On **Fedora**, you also need the mysql-devel package:
+
+        su -c 'yum install mysql-server mysql-devel'
 
 On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
@@ -98,75 +100,75 @@ have OpenSSL installed!
 **Ubuntu:** and **Debian**
 For the use of encryption in the Event Machine it is necessary to install the package libssl-dev
 
-		sudo apt-get install libssl-dev
+        sudo apt-get install libssl-dev
 
 ### ImageMagick
 
 To install ImageMagick on **Ubuntu** or **Debian**, run the following:
 
-		sudo apt-get install imagemagick libmagick9-dev
+        sudo apt-get install imagemagick libmagick9-dev
 
 or on Ubuntu 10.10,
 
-		sudo apt-get install imagemagick libmagickwand-dev
+        sudo apt-get install imagemagick libmagickwand-dev
 
 To install ImageMagick on **Fedora**, run the following:
 
-		su -c 'yum install ImageMagick'
+        su -c 'yum install ImageMagick'
 
 To install ImageMagick on **Mac OS X**, run the following:
 
-		brew install imagemagick
+        brew install imagemagick
 
 ### Git
 
 To install Git on **Ubuntu**, run the following:
 
-		sudo apt-get install git-core
+        sudo apt-get install git-core
 
 To install Git 1.7 on **Debian**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
 
-		sudo apt-get install git-core
+        sudo apt-get install git-core
 
 To install Git on **Fedora**, run the following:
 
-		su -c 'yum install git'
+        su -c 'yum install git'
 
 
 To install Git on **Mac OS X**, run the following:
 
-		brew install git
+        brew install git
 
 ### Redis
 
 Ubuntu:
-		sudo apt-get install redis-server
+        sudo apt-get install redis-server
 
-Fedora:
-		su -c 'yum install redis'
+**Fedora**:
+        su -c 'yum install redis'
 
-Debian:
+**Debian**:
 
 If you're running a 64-bit system, run:
 
-		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_amd64.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_amd64.deb
 
 If you're running a 32-bit system, run:
 
-		wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_i386.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_i386.deb
 
 Then install the corresponding package
 
-		sudo dpkg -i redis-server_2.0.1-2_amd64.deb
+        sudo dpkg -i redis-server_2.0.1-2_amd64.deb
 
 
 ### RubyGems
 
 On **Ubuntu 10.04**, run the following:
 
-		sudo add-apt-repository ppa:maco.m/ruby
-		sudo apt-get update
-		sudo apt-get install rubygems
+        sudo add-apt-repository ppa:maco.m/ruby
+        sudo apt-get update
+        sudo apt-get install rubygems
 
 This PPA is maintained by an Ubuntu Developer. For Ubuntu 10.10, this version
 of rubygems is in the repositories.
@@ -175,15 +177,15 @@ You may need to install libxsl first: http://nokogiri.org/tutorials/installing_n
 
 If you are running **Ubuntu Server**, you might get an error that looks like:
 
-		sudo: add-apt-repository: command not found
+        sudo: add-apt-repository: command not found
 
 If this happens, you must first install python-software-properties, which contains the add-apt-repository command:
 
-		sudo apt-get install python-software-properties
+        sudo apt-get install python-software-properties
 
 On **Fedora**, run the following:
 
-		su -c 'yum install rubygems'
+        su -c 'yum install rubygems'
 
 On **Mac OS X**, RubyGems comes preinstalled; however, you might need to update
 it for use with the latest Bundler. To update RubyGems, run `sudo gem update
@@ -196,15 +198,19 @@ After RubyGems is updated, simply run `sudo gem install bundler` to get
 Bundler. If you're using Ubuntu repository .debs, bundler is found at
 /var/lib/gems/1.8/bin/bundle
 
-To get bundle work in Ubuntu, you might make a symbolic link: 
+To get bundle work in Ubuntu, you might make a symbolic link:
 
-		sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+        sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
 This is not needed on Debian is installed ruby from source.
 
+On **Fedora**, run the following:
+
+        su -c  'gem install bundler'
+
 ## Getting Diaspora
 
-		git clone http://github.com/diaspora/diaspora.git
+        git clone http://github.com/diaspora/diaspora.git
 
 If you have never used github before, their
 [help desk](http://help.github.com/) has a pretty awesome guide on getting
@@ -220,7 +226,7 @@ directory.  Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
 
 NOTE: If you get "Could not get Gemfile" try typing the following first:
-`cd diaspora`
+`cd diaspora
 
 NOTE: If you do any other rails development on your machine, you will probably
 want to run `bundle install --path vendor` instead to install the gems in your local diaspora
@@ -228,7 +234,11 @@ directory to avoid conflicts with your existing environment.
 
 ### Start MySQL
 
-On **Ubuntu**, **Debian**, or **Fedora**, start MySQL by running `sudo service mysql start`. 
+On **Ubuntu** or **Debian**, start MySQL by running `sudo service mysql start`.
+
+On **Fedora**, start MySQL by running:
+
+        su -c 'service mysqld start'
 
 On **OS X**, start MySQL by running ... ???
 
@@ -244,7 +254,7 @@ needed configuration changes.
 
 For a local development instance, just run `./script/server`. This will start thin, redis, a resque worker and the websocket server. The application is then available at http://localhost:3000. You can change port by editing config/server.sh.
 
-If you want to run an app server other than thin, you must run the appserver, redis, a resque worker, and the websocket server separately. Check out script/server for details.  
+If you want to run an app server other than thin, you must run the appserver, redis, a resque worker, and the websocket server separately. Check out script/server for details.
 
 ### Run the app server
 
@@ -267,37 +277,39 @@ For a local development instance, skip this step - just run `./script/server` to
 
 To start the resque worker run the following command:
 
-`QUEUE=* bundle exec rake resque:work`
+        QUEUE=* bundle exec rake resque:work
 
 You can monitor by starting `resque-web` and then visit http://server-ip:5678
 
 ### Logging in with a sample user
 
 Run `rake db:seed:dev` (for a development instance). Then you can log in with user `tom` and password `evankorth`.
-More details in db/seeds/dev.rb and db/seeds/tom.rb. 
+More details in db/seeds/dev.rb and db/seeds/tom.rb.
 
 There is also db:seed:first_user which let you define the name/pw of a first user.
 
-If you have an error on Mac, try `bundle exec rake db:seed:dev --trace`
+If you have an error on Mac, try `bundle exec rake db:seed:dev --trace
 
 ### Testing
 
 Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven testing framework. To run all tests: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
 
 ### Read-only installation
- 
+
 The directories *tmp*, *public/upload* and *log* must be writable by the user running Diaspora even in a read-only installation.
 
 Some of Diaspora's web content in the public/ folder  is generated at runtime. In order to create a read-only installation, this content must be generated at install time instead.
 
 Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
-    rake db:seed:dev
-    bundle exec thin -d --pid log/thin.pid start
-    wget http://localhost:3000; rm index.html
-    bundle exec thin --pid log/thin.pid stop
+
+        rake db:seed:dev
+        bundle exec thin -d --pid log/thin.pid start
+        wget http://localhost:3000; rm index.html
+        bundle exec thin --pid log/thin.pid stop
 
 Run jammit and precache public/assets/*gz files:
-    bundle exec jammit
+
+        bundle exec jammit
 
 After these commands  also the *public/* folder  can be read-only (although *public/uploads* need to be writable, see above).
 
@@ -312,17 +324,17 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 
 We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  Sod is unfinished and probably has hardcoded configuration for our servers.  It is **not ready for use**.  DO NOT use a machine that other apps are running on, Sod assumes that it is deploying onto a clean machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
 
-    # install ruby 1.8.7, git, bundler
-    git clone git://github.com/MikeSofaer/sod.git
-    cd sod
-    bundle install
-    ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
+        # install ruby 1.8.7, git, bundler
+        git clone git://github.com/MikeSofaer/sod.git
+        cd sod
+        bundle install
+        ./sod <remote_machine_ip_address> diaspora diaspora <remote_machine_root_password>
 
 This should take about 40 minutes, and when it's done Diaspora should be running.  You will need to edit config files, etc.
 
 Warning: The version of splunk installed this way only supports 64-bit processors. To work around this, download the 32-bit RPM from the splunk website:
 
-  rpm -Uvh splunk-4.1.6-89596.i386.rpm;  cd /usr/local/bin/;  rm splunk;  ln -s /opt/splunk/bin/splunk .
+        rpm -Uvh splunk-4.1.6-89596.i386.rpm;  cd /usr/local/bin/;  rm splunk;  ln -s /opt/splunk/bin/splunk .
 
 On a minimal install system you'll need to install bzip2 and vixie-cron for this to work (yum install bzip2 vixie-cron)
 
