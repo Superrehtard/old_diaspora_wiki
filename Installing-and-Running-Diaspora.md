@@ -74,6 +74,8 @@ To install Ruby 1.9.2 on **Debian** from source, run the following commands:
 		make
 		make install
 
+Alternativly if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
+
 At this time Fedora does not have Ruby 1.8.7. As a workaround it is possible to
 use [rvm](http://rvm.beginrescueend.com/) with a locally compiled Ruby
 installation.
