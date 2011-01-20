@@ -70,6 +70,7 @@ To install Ruby 1.9.2 on **Debian** from source, run the following commands:
 		wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
 		tar xpf ruby-1.9.2-p136.tar.bz2
 		cd ruby-1.9.2-p136
+		./configure
 		make
 		make install
 
