@@ -14,13 +14,18 @@ Rails expects a `config/database.yml` file with information about your MySQL dat
 First, make sure you have specified the right character set and collation (sorting) order in your `config/database.yml`. In every block, there should be the following two lines:
     charset: utf8
     collation: utf8_bin
+
 Add them if they are missing. Then, on the command line, run
     bundle exec rake db:create
-and then
+
+This will create the database, normally you need 'root' to do this or a user with the right privilege. If you created a user and the database with the right collation, you can skip this step!
+
     bundle exec rake db:migrate 
-This creates your database, and sets up the tables. If you are migrating a production database, put `RAILS_ENV=production` before each `bundle exec`.
+
+This step creates the tables in your database! If only want to create the production database, put `RAILS_ENV=production` before each `bundle exec`. The default is to create databases in test, development and production.
 
 ## Migrate from Mongo
+
 Make sure 'mongoexport' is in your path. It's generally located in the same place as the mongod executable.
 
 Run 
