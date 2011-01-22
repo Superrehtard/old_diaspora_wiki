@@ -15,14 +15,19 @@ First, make sure you have specified the right character set and collation (sorti
     charset: utf8
     collation: utf8_bin
 
-Add them if they are missing. Then, on the command line, run
+Add them if they are missing.
+
+If you want that diaspora creates the database, call
+
     bundle exec rake db:create
 
-This will create the database, normally you need 'root' to do this or a user with the right privilege. If you created a user and the database with the right collation, you can skip this step!
+This will create the database, normally you need 'root' privileges to do this. If you created a user and the database with the right collation manually, you can skip this step!
+
+Create the tables *in* your database with:
 
     bundle exec rake db:migrate 
 
-This step creates the tables in your database! If only want to create the production database, put `RAILS_ENV=production` before each `bundle exec`. The default is to create databases in test, development and production.
+If only want to create the production database, put `RAILS_ENV=production` before each `bundle exec`. The default is to create databases in test, development and production.
 
 ## Migrate from Mongo
 
