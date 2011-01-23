@@ -240,7 +240,7 @@ On **Fedora**, start MySQL by running:
 
         su -c 'service mysqld start'
 
-On **OS X**, start MySQL by running ... ???
+On **OS X**, install the [MySQL Preference Pane](http://creativeeyes.at/tools/mysqlpp.php) to control the MySQL daemon easily. Alternatively, you can run `sudo mysqladmin start` from Terminal.
 
 ### Configure Diaspora
 
