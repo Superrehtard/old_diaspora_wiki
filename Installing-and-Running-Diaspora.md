@@ -256,6 +256,7 @@ For a local development instance, just run `./script/server`. This will start th
 
 If you want to run an app server other than thin, you must run the appserver, redis, a resque worker, and the websocket server separately. Check out script/server for details.
 
+Note: When `./script/server` starts redis, it reads the `config/redis.conf` file. Make sure that you have write permissons to the log file, which is specified on the line starting with the word `logfile`.
 ### Run the app server
 
 For a local development instance, skip this step - just run `./script/server` to get everything running on the right ports.
