@@ -1,4 +1,7 @@
+**Week of 1/24/2011**
 
+* Added new login page
+* Added a mobile interface
 
 **Week of 1/10/2011**
 
