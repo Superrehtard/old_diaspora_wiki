@@ -338,13 +338,3 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Ubuntu 10.10
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
-
-* [[http://weleft.com]] [[http://weleft.com/images/user/default.jpg|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Tracking "production" branch, including weLeft-specific patches (mostly graphical).
-    * Maintainer: George Bashi
-        * [[http://github.com/georgebashi]]
-        * jamil@georgebashi.com
-        * [[http://twitter.com/georgebashi]]
-    * Operating system: Linux (Ubuntu) (nginx + clustered thin)
-    * Comments: Production. Server based in London, UK, so fast for fellow brits. Also hosting a continuous integration tool at [[http://ci.weleft.com/]], building Diaspora main and weLeft's fork
