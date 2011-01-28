@@ -10,7 +10,7 @@
 * [[Roadmap]]
 * [[Community-supported pods]]
 * [[Message passing in Diaspora]]
-* [[New Proposed CLA  12/13/10]]
+* [[New CLA  12/13/10]]
 
 #Conceptual stuff
 * [[Encryption]]
