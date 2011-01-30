@@ -38,6 +38,7 @@ First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 
 * config/locales/devise/devise.< code >.yml
 * config/locales/diaspora/< code >.yml
+* config/locales/javascript/javascript.< code >.yml
 * Leave config/locales/rails-i18n/ untouched, if you want to change something there send a pull request [[here|https://github.com/svenfuchs/rails-i18n]].
 
 If you want to create a new translation copy the en files, choose the correct language code (see above) and change every occurence of en with your code. Don't forget the root element in the files!
