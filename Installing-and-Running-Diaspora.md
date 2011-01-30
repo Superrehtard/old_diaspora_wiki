@@ -244,11 +244,19 @@ On **OS X**, install the [MySQL Preference Pane](http://creativeeyes.at/tools/my
 
 ### Configure Diaspora
 
-For a local development instance, you can skip this step initially.
-
-Otherwise: Diaspora needs to know what host it's running on.  Copy config/app_config.yml.example
+Diaspora needs to know what host it's running on.  Copy config/app_config.yml.example
 to config/app_config.yml, put your external  url into the pod_url field, and make any other
 needed configuration changes.
+
+### Set up the database ###
+
+You need to configure the database settings. Copy config/database.yml.example to config/database.yml
+and edit it properly.
+
+After that run `bundle exec rake db:create` to create the needed database or create the database manually. 
+If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
+
+Now you need to create the necessary tables. To do so run `bundle exec rake db:migrate`
 
 ### Run the server
 
