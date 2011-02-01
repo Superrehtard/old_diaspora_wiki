@@ -1,3 +1,7 @@
+**Week of 1/31/2011**
+
+* added autocomplete in search bar
+
 **Week of 1/17/2011**
 
 * Added new login page
