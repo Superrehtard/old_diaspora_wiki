@@ -1,4 +1,4 @@
-If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to ThinkUp for their awesome developer guide, which inspired ours.
+If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to "ThinkUp":https://github.com/ginatrapani/ThinkUp for their awesome developer guide, which inspired ours.
 
 h1. Quickfire Do's and Don't's
 
