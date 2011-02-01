@@ -338,3 +338,13 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Ubuntu 10.10
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
+
+* [[http://diasp.cg1.fr/]] [[http://diasp.cg1.fr/images/user/default.png|height=30px|]]
+    * Opened: 02/02/2011
+    * Updated: Any time
+    * Maintainer : Benoit Anastay
+        * [[http://github.com/benoit934]]
+        * benoit@cg1.fr
+        * Diaspora : benoit@diasp.cg1.fr
+    * Operating system: Linux (CentOS)
+    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
