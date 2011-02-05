@@ -349,7 +349,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (CentOS)
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
-* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px|]]
+* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/images/tipsy.gif|height=30px|]]
    * Opened: 1/2/2011
    * Updated: Often, once, twice a day
    * How to Contact the Admin
