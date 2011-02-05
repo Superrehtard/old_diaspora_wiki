@@ -348,3 +348,12 @@ If an image is shown, the pod is *probably* online at the moment.
         * Diaspora : benoit@diasp.cg1.fr
     * Operating system: Linux (CentOS)
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
+
+* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px|]]
+   * Opened: 1/2/2011
+   * Updated: Often, once, twice a day
+   * How to Contact the Admin
+        * Diaspora handle nicolas@hasst-euch-alle.de
+   * Operating system: Ubuntu 10.10
+   * Comments: public registration open, trying to make more fun within diaspora, Complete Working installation, Almost everything is encrypted, try to run as stable as possible
+   * Configuration: Nginx proxying thin 
