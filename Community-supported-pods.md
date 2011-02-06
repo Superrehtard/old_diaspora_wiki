@@ -33,6 +33,16 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: CentOS
    * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
 
+* [[https://diafor.me]] [[https://diafor.me/images/user/default.png|height=30px|]]
+    * Opened: 02/05/2011
+    * Updated: Almost daily
+    * Maintainer 
+        * IRC/Freenode: carmelosantana
+        * Diaspora: carm@diafor.me
+        * [[http://twitter.com/carmelosantana]]
+    * Operating system: Linux (Ubuntu)
+    * Comments: Public pod in the cloud! 
+
 * [[http://diaseeds.com]] [[http://diaseeds.com:3000/images/user/default.jpg|height=30px|]]
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
