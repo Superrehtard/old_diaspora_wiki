@@ -4,4 +4,3 @@ See these links for public servers.
 
 [[http://pods.diasp.org/]]
 
-[[http://rediaspora.com/]]
