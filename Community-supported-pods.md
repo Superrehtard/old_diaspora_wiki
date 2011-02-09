@@ -317,7 +317,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Opened: 2010-11-01
     * Updated: daily
     * Maintainer : Noncommercial group of 3 persons
-        * XMPP (Multi-User): geraspora-public@conference.dsx.cc
+        * IRC: [[#diaspora-de@freenode|http://webchat.freenode.net/?channels=diaspora-de]]
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
