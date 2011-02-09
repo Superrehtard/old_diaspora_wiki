@@ -15,16 +15,16 @@ Accept and install any dependencies that you're prompted to install for the abov
 
 ## Install Ruby
 
-Download the latest version of Ruby 1.8.7 from http://ruby-lang.org.  This is p302 as of Sept 16, 2010.
+Download the latest version of Ruby 1.8.7 from http://ruby-lang.org.  This is p330 as of Feb 9, 2011.
 
     mkdir /usr/local/src
     cd /usr/local/src
-    wget ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.7-p302.tar.bz2
-    tar -xvf ruby-1.8.7-p302.tar.bz2
+    wget ftp://ftp.ruby-lang.org/pub/ruby/1.8/ruby-1.8.7-p330.tar.bz2
+    tar -xvf ruby-1.8.7-p330.tar.bz2
 
 The following steps will do the following, install Ruby, add zlib support, add openssl support, reinstall Ruby.  (@SmittyHalibut 2010-11-25: The first "make" gave me an error saying that Tk was compiled to use pthreads, but Ruby was not.  It suggested adding "--enable-pthread" to the "./configure" line.  I've updated the build commands below accordingly.)
 
-    cd ruby-1.8.7-p302
+    cd ruby-1.8.7-p330
     ./configure --enable-pthread
     make
     make install
@@ -44,24 +44,24 @@ The following steps will do the following, install Ruby, add zlib support, add o
 You should now have Ruby installed with zlib and openssl support.  Run ruby -v to make sure it's running and working.
 
     [root@machine ~]$ ruby -v
-    ruby 1.8.7 (2010-08-16 patchlevel 302) [i686-linux]
+    ruby 1.8.7 (2010-08-16 patchlevel 330) [i686-linux]
 
 *Note: Your version string may say 'x86_64' if you're on a 64-bit OS.*
 
 ## Install Rubygems
 
-Next you'll need to install Rubygems.  1.3.7 as of Sept 16, 2010.
+Next you'll need to install Rubygems.  1.5.0 as of Feb 09, 2011.
 
     cd /usr/local/src
-    wget http://production.cf.rubygems.org/rubygems/rubygems-1.3.7.tgz
-    tar -xvf rubygems-1.3.7.tgz
-    cd rubygems-1.3.7
+    wget hthttp://production.cf.rubygems.org/rubygems/rubygems-1.5.0.tgz
+    tar -xvf rubygems-1.5.0.tgz
+    cd rubygems-1.5.0
     ruby setup.rb
 
 You can check if gem has been installed correctly by running gem -v and gem list.
 
     [root@machine ~]$ gem -v
-    1.3.7
+    1.5.0
 
 ## Install MYSQL
 
