@@ -318,6 +318,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Updated: daily
     * Maintainer : Noncommercial group of 3 persons
         * IRC: [[#diaspora-de@freenode|http://webchat.freenode.net/?channels=diaspora-de]]
+        * Twitter: [[@geraspora|http://twitter.com/geraspora]]
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
