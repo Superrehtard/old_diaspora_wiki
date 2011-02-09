@@ -366,4 +366,4 @@ If an image is shown, the pod is *probably* online at the moment.
         * Diaspora handle nicolas@hasst-euch-alle.de
    * Operating system: Ubuntu 10.10
    * Comments: public registration open, trying to make more fun within diaspora, Complete Working installation, Almost everything is encrypted, try to run as stable as possible
-   * Configuration: Nginx proxying thin 
+   * Configuration: Nginx proxying multiple thin via sockets
