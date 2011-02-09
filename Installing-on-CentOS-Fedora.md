@@ -53,7 +53,7 @@ You should now have Ruby installed with zlib and openssl support.  Run ruby -v t
 Next you'll need to install Rubygems.  1.5.0 as of Feb 09, 2011.
 
     cd /usr/local/src
-    wget hthttp://production.cf.rubygems.org/rubygems/rubygems-1.5.0.tgz
+    wget http://production.cf.rubygems.org/rubygems/rubygems-1.5.0.tgz
     tar -xvf rubygems-1.5.0.tgz
     cd rubygems-1.5.0
     ruby setup.rb
