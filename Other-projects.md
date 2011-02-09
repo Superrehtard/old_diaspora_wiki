@@ -17,3 +17,5 @@
 [[http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/]]
 
 [[Netention|http://github.com/automenta/netentionweb]]
+
+[[Friendika|http://friendika.com]] using the [[Distributed Friends and Relations Network Protocol|http://info.dfrn.org/?page_id=2]]
