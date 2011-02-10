@@ -371,8 +371,10 @@ If an image is shown, the pod is *probably* online at the moment.
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/images/tipsy.gif|height=10px|]]
    * Opened: 1/2/2011
    * Updated: Often, once, twice a day
+   * Admins: Nicolas & Gabriel, two students from Germany and Austria
    * How to Contact the Admin
         * Diaspora handle nicolas@hasst-euch-alle.de
+        * Email: kontakt@nicolas-berens.de
    * Operating system: Ubuntu 10.10
    * Comments: public registration open, trying to make more fun within diaspora, Complete Working installation, Almost everything is encrypted, try to run as stable as possible
    * Configuration: Nginx proxying multiple thin via sockets
