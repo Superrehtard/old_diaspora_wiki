@@ -1,3 +1,7 @@
+**Week of 2/7/2011**
+
+* added the ability to mention a contact in a post by using @ *
+
 **Week of 1/31/2011**
 
 * added autocomplete in search bar
