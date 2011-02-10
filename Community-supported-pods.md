@@ -253,6 +253,14 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Slackware 12.2
     * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
 
+* [[http://mangaspora.com]] [[]]
+    * Opened: 25/12/2010
+    * updated every couple of days
+    * located in New York City
+    * Maintainer: Kevin Mangan <kevinmangan13@gmail.com> Michael Gaffney <mgaffney@fordham.edu>
+    * Operating system: Ubuntu
+    * Comments: Diaspora seed maintained by two college students in Manhattan.
+
 * [[http://midiaspora.es]] [[http://midiaspora.es/apple-touch-icon.png|height=30px|]]
     * Opened: 18/12/2010
     * Updated: major changes
