@@ -8,7 +8,7 @@ If you still want to run your own pod… we salute you. Read on.
 
 ## Things To Know
 
-0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in irc, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
+0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in IRC, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
 1. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/),
 [Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0, the **Ubuntu** version is 10.04 or 10.10, and the **OS X** version is 10.6 (Snow Leopard). Diaspora does not currently install on Windows, though we are working on it.
