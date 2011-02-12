@@ -350,3 +350,6 @@ On a minimal install system you'll need to install bzip2 and vixie-cron for this
 For localhost you can skip the SSL cert and just use 127.0.0.1 for the IP and your root password.
 
 To restart the appservers after making a change, ssh in and type `svc -t /service/thin*`
+
+**Notes:** MySQL will not run if you just run sod. You have to run `service mysqld start` and `service mysqld stop`, then it will boot. The first time you start the mysqld with the "service"-tool, it is creating some databases for the mySQL-service. At the moment, we are unable to create those tables within sod, but we'll fix that as soon as possible.
+Additionally, the root-user has no password after setup. You should set up one.
