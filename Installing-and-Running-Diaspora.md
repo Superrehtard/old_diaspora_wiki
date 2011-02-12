@@ -15,7 +15,7 @@ If you still want to run your own pod… we salute you. Read on.
 
 2. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
 
-3. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel...), or another web server (apache, unicorn...), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
+3. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel…), or another web server (apache, unicorn…), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
 
 ## Preparing your system
 
@@ -35,7 +35,7 @@ After you have Ruby installed on your system, you also need:
 - [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
 
 **We suggest using a package management system to download dependencies, where possible.
-Trust us, it's going to make your life a lot easier.  If you're using Mac OS X, install [homebrew](http://mxcl.github.com/homebrew/); if you're using
+Trust us, it's going to make your life a lot easier.  If you're using Mac OS X, install [Homebrew](http://mxcl.github.com/homebrew/); if you're using
 Ubuntu, just use [Synaptic](http://www.nongnu.org/synaptic/) (it comes
 pre-installed); if you're using Fedora simply use
 [yum](http://yum.baseurl.org/). The instructions below assume you have these
