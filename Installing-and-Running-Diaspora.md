@@ -4,7 +4,7 @@ Diaspora is run on a network of connected servers, or "pods." This document cont
 
 If you just want to **use** Diaspora, you don't need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
 
-If you still want to run your own pod...we salute you. Read on.
+If you still want to run your own pod… we salute you. Read on.
 
 ## Things To Know
 
@@ -26,7 +26,7 @@ In order to run Diaspora, you will need to install the following dependencies (s
 - [MySQL](http://www.mysql.com) - Backend storage engine.
 - [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
 - [ImageMagick](http://www.imagemagick.org/) - An image processing library we use to resize uploaded photos.
-- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from github.
+- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from GitHub.
 - [Redis](http://redis.io/) - A persistent key-value store that we use via [resque](https://github.com/defunkt/resque) for background job processing.
 
 After you have Ruby installed on your system, you also need:
@@ -212,7 +212,7 @@ On **Fedora**, run the following:
 
         git clone http://github.com/diaspora/diaspora.git
 
-If you have never used github before, their
+If you have never used GitHub before, their
 [help desk](http://help.github.com/) has a pretty awesome guide on getting
 setup.
 
