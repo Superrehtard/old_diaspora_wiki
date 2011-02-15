@@ -90,7 +90,9 @@ On **Fedora**, you also need the mysql-devel package:
 
         su -c 'yum install mysql-server mysql-devel'
 
-On **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
+On **Debian** or **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
+
+        sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
 
 ### OpenSSL
 
