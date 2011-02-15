@@ -178,21 +178,9 @@ $ git push origin 359-aspect-names
 </code>
 </pre>
 
-h2. Squash Many Commits Related to a Single Issue into a Few Commits (Probably one)
+h2. Send Diaspora a pull request on github
 
-p. Once you have rebased your work on top of the latest state of the upstream master, you may have many commits related to the issue you were working on. Once everything is done, squash them into a single commit with a descriptive message, like "Issue #359: Unique Aspect Names."  If your pull request is very complicated, feel free to subit a pull request with several commits in it.
-
-p. To squash four commits into one, do the following:
-
-<pre>
-<code>
-$ git rebase -i HEAD~4
-</code>
-</pre>
-
-p. In the text editor that comes up, replace the words "pick" with "squash" next to the commits you want to squash into the commit before it. Save and close the editor, and git will combine the "squash"'ed commits with the one before it. Git will then give you the opportunity to change your commit message to something like, "Issue #359: Unique Aspect Names."
-
-p. %{color:red}Important: If you've already pushed commits to GitHub, and then squash them locally, you will not be able to push that same branch to GitHub again.% Create a new branch--like 359-aspect-names-squashed or 359-aspect-names-rc1 (for release candidate 1)--and squash your commits there. Once everything is squashed and ready, push the new squashed branch to GitHub and send your pull request to Raphael.
+p. Github will notify us and we'll review your patch and either pull it in or comment on it
 
 p. Helpful hint: You can always edit your last commit message by using:
 
