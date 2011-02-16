@@ -218,7 +218,7 @@ On **Fedora**, run the following:
 
 If you have never used GitHub before, their
 [help desk](http://help.github.com/) has a pretty awesome guide on getting
-setup.
+set up.
 
 ## Running Diaspora
 
