@@ -2,7 +2,7 @@
 
 1. Create an [issue profile](http://bugs.joindiaspora.com/account/register)
 * Make sure you've been added to the 'Assignee' list on the tracker
-    * Somone on IRC should be available to help you out (see [webchat](http://diasporatest.com/index.php/Beginning_IRC_with_Diaspora))
+    * Someone on IRC should be available to help you out (see [webchat](http://diasporatest.com/index.php/Beginning_IRC_with_Diaspora))
 * Claim an issue
     1. If you [created](https://github.com/diaspora/diaspora/wiki/Report-a-bug) a bug for yourself to work on, assign it to yourself
         * You can see a list of your activity by following the link [My Page](http://bugs.joindiaspora.com/my/page)
