@@ -17,7 +17,7 @@ You can check the version of these pods by clicking "DEBUG INFO" at the very bot
 
 ***How do I get past the login page when I don't have an account yet?***  
 To create a new account, go to:
-[[http://yourdiasporainstance.com/users/sign_up]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
+[[http://yourdiasporainstance.com/login]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a *seed*?***  
 A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep each other up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
@@ -75,12 +75,10 @@ Apache config:
 http://codepaste.net/yzkngy
 
 *** How to backup the database?***  
-1) Install Mongo on another computer.  
-2) Go there, and type:  
-    mongo
-    use diaspora-development
-    db.copyDatabase("diaspora-development", "diaspora-development", "first computers IP address")
-Replace -development with -production if you're running the production environment.
+From the command line type:  
+    mysqldump -u <mysql username> -p diaspora_development > backup.sql
+Enter your mysql password when prompted for it.
+Replace \_development with \_production if you're running the production environment.
 
 *** I installed Diaspora on my machine, went to http://localhost and signed up. Now my friends can't add me***  
 You've confused the poor computer. Go to your public address and try again. Also please understand, if you dont know such basics, you probably don't understand what you're risking by running such an early code on your own machine.
@@ -105,6 +103,6 @@ Pull the latest from github:
 Install any updates to the bundle:
     bundle install
 Clean the database:
-    mongo diaspora-development
-    > db.dropDatabase()
+    mysql -u <mysql username> -p
+    > drop database diaspora_development;
 
