@@ -40,7 +40,7 @@ It is really quite simple to set this up. Create a file called diaspora (it can 
 ``</VirtualHost>``
 
 
-After that, all you need to do is:
+After that, you should run the following commands to enable the site you just created and to reload the apache configuration:
 
 
 
