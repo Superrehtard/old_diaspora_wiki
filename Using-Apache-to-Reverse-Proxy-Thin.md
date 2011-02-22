@@ -6,47 +6,31 @@ For those who just want to use an apache vhost to reverse proxy traffic to thin 
 
 You'll want to enable mod_proxy and mod_proxy_http on your apache server so that it can reverse proxy thin. On a Debian system, the command a2enmod should do it:
 
-``a2enmod proxy proxy_http``
+    a2enmod proxy proxy_http
 
 ## Virtualhost
 
 It is really quite simple to set this up. Create a file called diaspora (it can be anything you want, really, but we'll call it diaspora for the purposes of this tutorial) in the sites-available directory of the folder for your apache2 configuration. On Debian and Ubuntu, this is /etc/apache2. For the example, I used diaspora.example.com for the domain name of the diaspora node and 99.99.99.99 for the ip address of the server. Put in whatever values you see fit. If you have the thin you want to reverse proxy running somewhere other than localhost:3000, just replace the relevant domain (and port) where I put localhost:3000
 
-
-``<VirtualHost *:80>``
-
-``NameVirtualHost 99.99.99.99``
-
-``ServerName diaspora.example.com``
-
-``ServerSignature Off``
-
-``ProxyRequests Off``
-
-``<Proxy *>``
-
-``  Order Allow,Deny``
-
-``  Allow from all``
-
-``</Proxy>``
-
-``ProxyPass / http://localhost:3000/``
-
-``ProxyPassReverse / http://localhost:3000/``
-
-``ProxyVia On``
-
-``</VirtualHost>``
+    <VirtualHost *:80>
+        NameVirtualHost 99.99.99.99
+        ServerName diaspora.example.com
+        ServerSignature Off
+        ProxyRequests Off
+        <Proxy *>
+            Order Allow,Deny
+            Allow from all
+        </Proxy>
+        ProxyPass / http://localhost:3000/
+        ProxyPassReverse / http://localhost:3000/
+        ProxyVia On
+</VirtualHost>
 
 
 After that, you should run the following commands to enable the site you just created and to reload the apache configuration:
 
-
-
-``a2ensite diaspora``
-
-``apache2ctl graceful``
+    a2ensite diaspora``
+    apache2ctl graceful
 
 
 
