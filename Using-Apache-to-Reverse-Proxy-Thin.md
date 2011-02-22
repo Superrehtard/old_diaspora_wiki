@@ -24,7 +24,7 @@ It is really quite simple to set this up. Create a file called diaspora (it can 
         ProxyPass / http://localhost:3000/
         ProxyPassReverse / http://localhost:3000/
         ProxyVia On
-</VirtualHost>
+    </VirtualHost>
 
 
 After that, you should run the following commands to enable the site you just created and to reload the apache configuration:
