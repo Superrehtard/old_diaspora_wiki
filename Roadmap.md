@@ -1,4 +1,4 @@
-# Diaspora Roadmap and Wishlist
+# Diaspora future thoughts
 
 You can see what we are currently working on [[here, on Diaspora’s Tracker|http://www.pivotaltracker.com/projects/61641]]. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
 
@@ -41,7 +41,7 @@ These are things which would be nice to have, and are not currently in our plan,
 - Other crazy Websocket experiments: We are just using it to push data to the client, but can we use it to connect people or two seeds for real time games?
 - Double checking our salmon implementation.... is it up to spec?
 - Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
-- Selenium tests that hit every page would be super nice. The framework for this is started and can be found in test/selenium
+- Selenium tests that hit every page would be super nice. The framework for this is started and can be found in cucumber/
 - An object oriented ruby wrapper for libgcrypt
   - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
 - Javascript compatible view templates (handlebars.js looks promising)
