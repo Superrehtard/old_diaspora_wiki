@@ -1,13 +1,13 @@
 **Week of 2/21/2011**
 
-* added the ability to view posts by activity or post time *
-* added admin interface *
-* Header remembers which aspects are selected between sessions * 
-* Various bug fixes *
+* added the ability to view posts by activity or post time
+* added admin interface
+* Header remembers which aspects are selected between sessions
+* Various bug fixes
 
 **Week of 2/7/2011**
 
-* added the ability to mention a contact in a post by using @ *
+* added the ability to mention a contact in a post by using @ 
 
 **Week of 1/31/2011**
 
