@@ -38,7 +38,7 @@ After you have Ruby installed on your system, you also need:
 Trust us, it's going to make your life a lot easier.  If you're using Mac OS X, install [Homebrew](http://mxcl.github.com/homebrew/); if you're using
 Ubuntu, just use [Synaptic](http://www.nongnu.org/synaptic/) (it comes
 pre-installed); if you're using Fedora simply use
-[yum](http://yum.baseurl.org/). The instructions below assume you have these
+[yum](http://yum.baseurl.org/). The instructions below assume you have one of these
 installed.**
 
 ### Build Tools
@@ -80,7 +80,7 @@ At this time Fedora does not have Ruby 1.8.7. As a workaround it is possible to
 use [rvm](http://rvm.beginrescueend.com/) with a locally compiled Ruby
 installation.
 
-If you're on **Mac OS X**, you already have Ruby on your system.  Yay!
+If you're on **Mac OS X**, you already have Ruby 1.8.7 on your system.  Yay!
 
 ### MySQL
 
@@ -214,6 +214,8 @@ On **Fedora**, run the following:
 
 ## Getting Diaspora
 
+Our code is hosted at GitHub (which also hosts the wiki page you're reading). To get a copy of the Diaspora source, use the following command:
+
         git clone http://github.com/diaspora/diaspora.git
 
 If you have never used GitHub before, their
@@ -229,14 +231,16 @@ Diaspora's gem depencencies.  Run `bundle install` from Diaspora's root
 directory.  Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
 
-NOTE: If you don't get a green success line at the end double check if you've installed all dependencies. If you can't figure it out feel free to ask for help at the mailing list or the IRC Channel.
+NOTE: If you don't get a **green success line** at the end, double check if you've installed all dependencies. If you can't figure it out feel free to ask for help at the mailing list or the IRC Channel.
+
+NOTE: If you are on Ruby 1.9.2 and get an error such as "invalid byte sequence in US-ASCII (ArgumentError)" then you need to set your system locale to UTF-8. [This GitHub bug report](https://github.com/siefca/i18n-inflector/issues/3) on the gem that causes the problem has steps for doing so on Ubuntu.
 
 NOTE: If you get "Could not get Gemfile" try typing the following first:
 `cd diaspora`
 
 NOTE: If you do any other rails development on your machine, you will probably
-want to run `bundle install --path vendor` instead to install the gems in your local diaspora
-directory to avoid conflicts with your existing environment.
+want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
+directory to avoid conflicts with your existing environment, or use an rvm gemset.
 
 ### Start MySQL
 
