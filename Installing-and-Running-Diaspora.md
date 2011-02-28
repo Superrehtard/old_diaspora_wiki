@@ -25,6 +25,7 @@ In order to run Diaspora, you will need to install the following dependencies (s
 - [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're developing mostly on **1.8.7**, but we also support **1.9.2**.  Ruby 1.8.7 comes preinstalled on Mac OS X.)
 - [MySQL](http://www.mysql.com) - Backend storage engine.
 - [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
+- [libcurl](http://curl.haxx.se/) - A library to make HTTP requests (and much more).
 - [ImageMagick](http://www.imagemagick.org/) - An image processing library we use to resize uploaded photos.
 - [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from GitHub.
 - [Redis](http://redis.io/) - A persistent key-value store that we use via [resque](https://github.com/defunkt/resque) for background job processing.
@@ -103,6 +104,15 @@ have OpenSSL installed!
 For the use of encryption in the Event Machine it is necessary to install the package libssl-dev
 
         sudo apt-get install libssl-dev
+
+
+### libcurl
+
+You need to install the dev headers.
+
+To install them on **Ubuntu** or **Debian**, run the following:
+
+        sudo apt-get install libcurl4-openssl-dev
 
 ### ImageMagick
 
