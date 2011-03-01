@@ -1,17 +1,17 @@
 **Week of 2/21/2011**
 
-* added the ability to view posts by activity or post time
-* added admin interface
+* Added the ability to view posts by activity or post time
+* Added admin interface
 * Header remembers which aspects are selected between sessions
 * Various bug fixes
 
 **Week of 2/7/2011**
 
-* added the ability to mention a contact in a post by using @ 
+* Added the ability to mention a contact in a post by using @ 
 
 **Week of 1/31/2011**
 
-* added autocomplete in search bar
+* Added autocomplete in search bar
 
 **Week of 1/17/2011**
 
