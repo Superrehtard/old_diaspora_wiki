@@ -103,7 +103,7 @@ have OpenSSL installed!
 **Ubuntu:** and **Debian**
 For the use of encryption in the Event Machine it is necessary to install the package libssl-dev
 
-        sudo apt-get install libssl-dev
+        sudo apt-get install libssl-dev libopenssl-ruby
 
 
 ### libcurl
