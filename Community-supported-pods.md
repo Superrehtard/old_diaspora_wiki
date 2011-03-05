@@ -10,6 +10,15 @@ If an image is shown, the pod is *probably* online at the moment.
 
 [notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
 
+* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/images/logo_large.png|height=10px|]]
+   * Opened: 3/3/2011
+   * Updated: Very often (no exactly details cause of security reason)
+   * Admins: Lukas Matt
+     * Contact: support@zauberstuhl.de && lukas@pod.zauberstuhl.de
+   * Operating system: Debian
+   * Comments: public registration open, twitter and facebook app enabled, SSL coming soon
+   * Configuration: Apache2 proxying thin
+
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010
    * Updated: Multiple times per day
