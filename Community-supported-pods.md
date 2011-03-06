@@ -314,7 +314,7 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
-* [[http://ottospora.nl]] [[http://ottospora.nl/apple-touch-icon.png|height=30px|]]
+* [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
     * Opened: 4/03/2011
     * Updated: daily
     * Maintained by : Wouter Timmermans
