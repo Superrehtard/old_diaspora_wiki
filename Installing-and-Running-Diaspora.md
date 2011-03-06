@@ -85,7 +85,7 @@ If you're on **Mac OS X**, you already have Ruby 1.8.7 on your system.  Yay!
 
 ### MySQL
 
-If you're on **Ubuntu**, **Debian**, or **Fedora**, use your package manager to install MySQL. If you're on **OS X**, it's already installed.
+If you're on **Mac OS X**, **Ubuntu**, **Debian**, or **Fedora**, use your package manager to install MySQL.
 
 On **Fedora**, you also need the mysql-devel package:
 
@@ -94,6 +94,10 @@ On **Fedora**, you also need the mysql-devel package:
 On **Debian** or **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
         sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
+
+To install mySQL on **Mac OS X**, run the following:
+
+        brew install mysql
 
 ### OpenSSL
 
