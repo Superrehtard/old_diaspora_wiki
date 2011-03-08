@@ -154,7 +154,7 @@ p. If you've set up an upstream branch as detailed above, and a development bran
 $ git fetch upstream
 $ git checkout master
 $ git rebase upstream/master
-$ git checkout 359-aspect-names
+$ git checkout 100-retweet-bugfix
 [make sure all is committed as necessary in branch]
 $ git rebase master
 </code>
@@ -175,7 +175,7 @@ p. To push the updates to your GitHub repo, replace 100-retweet-bugfix with your
 
 <pre>
 <code>
-$ git push origin 359-aspect-names
+$ git push origin 100-retweet-bugfix
 </code>
 </pre>
 
