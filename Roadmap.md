@@ -17,6 +17,7 @@ Our roadmap is the mission critical features that given enough time, we will dev
 - Mentions should be in comments and captions as well.
 - Software Update Framework
 - Some sort of an administrator interface that would do the entire update automatically, something like the way Wordpress can be updated with the click of a button.
+- GPG public/private key + Key signing = Global keys with social keysigning :D
 
 ## Wishlist
 
