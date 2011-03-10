@@ -11,7 +11,7 @@ Thus this architecture was designed around the philosophy of 'Secure as much as 
 
 # Definitions
 * Pod - Hosts a number of Seeds
-* Seed - Hosts the Diaspora account of one user
+* Seed - The Diaspora account of one user
 * Client - an interface into a Seed used by users to post and view Data
 * Local Client - a Client under exclusive control of the User
 * Remote Client - a Client accessed remotely and not under exclusive control of the User
@@ -36,7 +36,7 @@ The web client is a HTTP interface built into pods to allow users to easily conn
 An alternative to the web client for advanced users. It is an example of a Local Client. Communicates to the user's seed via the Client API. Allows for more secure communication.
 
 ### Seed
-A server that handles data federation. Data is pushed to it from clients (such as the web client) via the Client API. It stores/retrieves data in/from the Pod's database. Seeds communicate with other seeds via the Seed API to notify of and exchange data.
+A user's Diaspora account. Data is pushed to it from clients (such as the web client) via the Client API. It stores/retrieves data in/from the Pod's database. Seeds communicate with other seeds via the Seed API to notify of and exchange data.
 
 ## Security Model
 Security is defined at 3 different levels. None, Low, and High.
