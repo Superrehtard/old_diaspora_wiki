@@ -1,3 +1,9 @@
+**March**
+
+* Private messaging *
+* Hashtags *
+* Larger photos in stream *
+
 **Week of 2/21/2011**
 
 * Added the ability to view posts by activity or post time
