@@ -1,8 +1,8 @@
 **March**
 
-* Private messaging *
-* Hashtags *
-* Larger photos in stream *
+* Private messaging
+* Hashtags
+* Larger photos in stream
 
 **Week of 2/21/2011**
 
