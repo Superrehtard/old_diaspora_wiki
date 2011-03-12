@@ -167,11 +167,11 @@ To install Git on **Mac OS X**, run the following:
 
 If you're running a 64-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_amd64.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.1-1_amd64.deb
 
 If you're running a 32-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.0.1-2_i386.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.1-1_i386.deb
 
 Then install the corresponding package
 
