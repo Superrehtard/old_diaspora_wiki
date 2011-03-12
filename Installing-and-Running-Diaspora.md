@@ -230,7 +230,7 @@ On **Fedora**, run the following:
 
 Our code is hosted at GitHub (which also hosts the wiki page you're reading). To get a copy of the Diaspora source, use the following command:
 
-        git clone http://github.com/diaspora/diaspora.git
+        git clone git://github.com/diaspora/diaspora.git
 
 If you have never used GitHub before, their
 [help desk](http://help.github.com/) has a pretty awesome guide on getting
