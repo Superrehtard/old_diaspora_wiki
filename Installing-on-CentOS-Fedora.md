@@ -63,7 +63,7 @@ You can check if gem has been installed correctly by running gem -v and gem list
     [root@machine ~]$ gem -v
     1.5.0
 
-## Install MYSQL
+## Install MySQL
 
 yum install mysql
 
@@ -87,7 +87,7 @@ You should look into [[Handling bug 360]]
 
 ## Continue with Standard Diaspora Install
 
-Now that you have proper versions of ruby and gem, mongodb and git installed, you can follow the standard Diaspora installation instructions.
+Now that you have proper versions of ruby and gem, MySQL and git installed, you can follow the standard Diaspora installation instructions.
 	  	
 ## Using apache instead of the thin server
 
