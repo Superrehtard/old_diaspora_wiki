@@ -90,6 +90,12 @@ If an image is shown, the pod is *probably* online at the moment.
    * Updated: Once a week
    * Maintained by: [[http://www.diasp.es]] [[http://twitter.com/soukron]]
 
+* [[http://diasp.se/]]
+   * Opened: 13/03/2011
+   * Updated: Once a week
+   * Maintained by: olof.andersson@gmail.com
+   * Comments: Swedish pod. Run by private person on Ubuntu 10.10.
+
 * [[http://diaspora-vallibre.linux59.info]] 
    * Opened: 25/12/2010
    * Updated: 
