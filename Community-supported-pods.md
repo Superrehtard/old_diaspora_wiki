@@ -276,14 +276,6 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Ubuntu
     * Comments: Diaspora seed maintained by two college students in Manhattan.
 
-* [[http://midiaspora.es]] [[http://midiaspora.es/apple-touch-icon.png|height=30px|]]
-    * Opened: 18/12/2010
-    * Updated: major changes
-    * Maintained by: private individual 
-        * DIASPORA midiaspora@midiaspora.es
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod for Spain
-
 * [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/images/user/lincoln.jpg|height=30px|]]
   * Opened: 05/11/2010
   * Updated: weekly
@@ -401,3 +393,10 @@ If an image is shown, the pod is *probably* online at the moment.
    * Operating system: Ubuntu 10.04
    * Comments: public registration open, twitter enables, complete encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
+
+* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px|]]
+    * Opened: 18/12/2010
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod for EUROPE.
