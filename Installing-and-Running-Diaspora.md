@@ -280,7 +280,7 @@ and edit it properly.
 After that run `bundle exec rake db:create` to create the needed database or create the database manually. 
 If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
 
-Now you need to create the necessary tables. To do so run `bundle exec rake db:migrate`
+Now you need to create the necessary tables. To do so run `bundle exec rake db:migrate`. _Note_ - when upgrading an installation with `git pull` and `bundle install` always rerun `bundle exec rake db:migrate` to apply any new schema changes.
 
 ### Run the server
 
