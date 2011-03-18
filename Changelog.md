@@ -3,6 +3,7 @@
 * Private messaging
 * Hashtags
 * Larger photos in stream
+* GIFs can now be uploaded
 
 **Week of 2/21/2011**
 
