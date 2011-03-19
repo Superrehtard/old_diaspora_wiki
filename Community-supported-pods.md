@@ -388,10 +388,10 @@ If an image is shown, the pod is *probably* online at the moment.
    * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
    * Admins: Nicolas & Gabriel, two students from Germany and Austria
    * How to Contact the Admin
-        * Diaspora handle nicolas@hasst-euch-alle.de
+        * Diaspora handle: nicolas@hasst-euch-alle.de
         * Email: kontakt@nicolas-berens.de
    * Operating system: Ubuntu 10.04
-   * Comments: public registration open, twitter enables, complete encryption, privacy aware statistics
+   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
 * [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px|]]
