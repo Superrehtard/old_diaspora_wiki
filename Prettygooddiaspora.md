@@ -58,3 +58,28 @@ There are then 4 situations at the moment that a message is sent between two pod
 making dodgyPods PGP-ready.
 -----------------
 This is the step that needs work. As we understand from the code, every pod already has a (private, public) key pair for each seed, that it uses for verification. We need to extend Diaspora's protocol, to make it capable of receiving PGP-encrypted messages, and decrypting them using the same keys. This way, a PGPod can relay an encrypted message from a client to a dodgyPod without ever opening it, and without ever being in contact with any private keys. The rest of this workshop will concentrate on adding support for receiving PGP encrypted salmons to the methods in lib/diaspora/user/receiving.rb. Even though at present this functionality will not be used, it is important to add it to the protocol now, so that Diaspora is "PGP ready". Then we can use Diaspora on a 'high security' pod, but still interoperate with our (less geeky) friends who may be on a 'standard security' pod.
+
+PGP with e2ee and optionally doing it on the user's home pod
+-----------------
+I think the best is if each user could choose between C1 and C2 options. But the trust model should
+be extended in the following way:
+
+For users who trust thier pod enough, it should be possible to:
+
+- 1 - store the passphrase-protected private PGP key on the pod
+  this is useful when sometimes using the (trusted) computer of a (trusted) friend
+- 2 - store a copy of the key with a Pod-generated passphrase on the pod (or unencrypted, the security is the same) for passprase recovery
+  this would require putting extreme trust into the home pod, but trusting the home pod is the only
+  option for users concerned about loosing their password/passprase
+- generate the PGP key pair on the Pod
+- maybe a user should have also the option to have 2 PGP keys, one home-generated and only used at home, and one on the server. This way he could view the data of concerned users when at home and still view not-so-concerned-user's data when on travel and forced to use an untrusted client or the pod.
+
+For users concerned about security, it should be possible to:
+
+- not trust users who trust thier pod, either in the first or the second of above ways, or both, and they should be able to set up whitelists of pods to trust.
+- only trust users who never trust their pod
+- only trust users who use a home-generated key and only when they use it at home
+
+To summarize, in case my ideas are too confusing: The benefit of that model is that every user can choose to either insist in e2ee for his data, or to trust one or several pods either fully (including the private key) or partially.
+
+I hope this is the right place to add my ideas to the brainstorming. And I apologise if some of my ideas already have been discussed. I am new to diaspora internals (found it today) and I did not find any public mailing list for such discussion.
