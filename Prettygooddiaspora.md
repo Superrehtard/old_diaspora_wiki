@@ -83,3 +83,8 @@ For users concerned about security, it should be possible to:
 To summarize, in case my ideas are too confusing: The benefit of that model is that every user can choose to either insist in e2ee for his data, or to trust one or several pods either fully (including the private key) or partially.
 
 I hope this is the right place to add my ideas to the brainstorming. And I apologise if some of my ideas already have been discussed. I am new to diaspora internals (found it today) and I did not find any public mailing list for such discussion.
+
+
+One more idea about local client
+-----------------
+Instead of using non-browser based client, a browser extension like FirePGP could be used to encrypt/decrypt the content within the browser.
