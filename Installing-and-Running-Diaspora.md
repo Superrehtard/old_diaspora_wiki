@@ -289,7 +289,7 @@ and edit it properly.
 After that run `bundle exec rake db:create` to create the needed database or create the database manually. 
 If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
 
-Now you need to create the necessary tables. To do so run `bundle exec rake db:migrate`. _Note_ - when upgrading an installation with `git pull` and `bundle install` always rerun `bundle exec rake db:migrate` to apply any new schema changes.
+Now you need to create the necessary tables. To do so run `bundle exec rake db:migrate`.
 
 ### Run the server
 
@@ -361,6 +361,17 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 
 * Edit config/server.sh
 * Review config/environments/production.rb. The serve_static_assets setting is known to cause troubles depending on what front-end server (nginx, apache, none) is used.
+
+## Update diaspora
+
+Change into the diaspora root folder and run
+
+        git pull origin
+        bundle install
+
+In order to apply any new schema always run
+
+        bundle exec rake db:migrate
 
 ## How We Do It
 
