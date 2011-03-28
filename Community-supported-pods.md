@@ -337,13 +337,13 @@ If an image is shown, the pod is *probably* online at the moment.
     * Comments: Public and free. Made for the german pirate party. HTTPS ONLY
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/images/gerasporaStar.png|height=30px|]]
-    * Opened: 01/11/2010
+    * Opened: 2010-11-01
     * Updated: daily
     * Maintainer : Noncommercial group of 3 persons
         * IRC: [[#diaspora-de@freenode|http://webchat.freenode.net/?channels=diaspora-de]]
         * Twitter: [[@geraspora|http://twitter.com/geraspora]]
-    * Operating system: CentOS
-    * Comments: Free, public Diaspora-Pod for german users. Stable running.
+    * Operating system: Ubuntu
+    * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
 * [[https://poddery.com]]
     * Opened: 2010-12-11
