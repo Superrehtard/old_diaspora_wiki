@@ -12,6 +12,10 @@
 * [[Message passing in Diaspora]]
 * [[New CLA  12/13/10]]
 
+#Extending Diaspora
+* [[Adding support for a new locale/language]]
+* [[Adding your favorite service to Diaspora]]
+
 #Conceptual stuff
 * [[Encryption]]
 * [[Client-server-model]]
