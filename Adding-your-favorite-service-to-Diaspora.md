@@ -6,7 +6,7 @@
 and one line in the initializer:
 [[http://github.com/diaspora/diaspora/blob/master/config/initializers/omniauth.rb]]
 
-2) Test drive your stuff. Ex.: [[http://github.com/diaspora/diaspora/blob/spec/models/services/facebook_spec.rb]] 
+2) Test drive your stuff. Ex.: [[https://github.com/diaspora/diaspora/blob/master/spec/models/services/facebook_spec.rb]] 
 Write another service model, telling the app the api call that needs to happen to post a message (and how to do a friend finder). Ex.: [[http://github.com/diaspora/diaspora/blob/master/app/models/services/facebook.rb]]
 
 3) Find the media service icon here: "Social Media Icons are by Paul Robert Lloyd" [[http://paulrobertlloyd.com/2009/06/social_media_icons]]
