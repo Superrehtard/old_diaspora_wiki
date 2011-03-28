@@ -1,6 +1,6 @@
 0) Read the git workflow guide: [[https://github.com/diaspora/diaspora/wiki/Git-Workflow]]
 
-1) Add Friendster(*your favorite service*) support to omniauth: [[http://github.com/intridea/omniauth]] . 
+1) Add Friendster(*your favorite service*) support to omniauth: [[http://github.com/intridea/omniauth]], if its not there already . 
 
 1.5) Add the example for the keys: [[http://github.com/diaspora/diaspora/blob/master/config/oauth_keys.yml.example]]
 and one line in the initializer:
