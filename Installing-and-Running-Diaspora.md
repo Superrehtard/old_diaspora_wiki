@@ -11,7 +11,7 @@ If you still want to run your own pod… we salute you. Read on.
 0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in IRC, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
 1. These instructions are for machines running [Ubuntu](http://www.ubuntu.com/), [Debian](http://www.debian.org/),
-[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0, the **Ubuntu** version is 10.04 or 10.10, and the **OS X** version is 10.6 (Snow Leopard). Diaspora does not currently install on Windows, though we are working on it.
+[Fedora](http://www.fedoraproject.org) or [Mac OS X](http://www.apple.com/macosx/). In this document the **Debian** version used is Lenny 5.0 or Squeeze 6.0, the **Ubuntu** version is 10.04 or 10.10, and the **OS X** version is 10.6 (Snow Leopard). Diaspora does not currently install on Windows, though we are working on it.
 
 2. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
 
@@ -58,14 +58,14 @@ To install build tools on **Mac OS X**, you need to download and install
 
 ### Ruby
 
-To install Ruby 1.8.7 on **Ubuntu**, run the following command:
+To install Ruby 1.8.7 on **Ubuntu** and **Debian 6.0**, run the following command:
 
         sudo apt-get install ruby-full
 
 Please note that you need to have Universe enabled in your
 /etc/apt/sources.list file to install ruby using apt-get.
 
-To install Ruby 1.9.2 on **Debian** from source, run the following commands:
+To install Ruby 1.9.2 on **Debian 5.0** from source, run the following commands:
 
         cd /tmp
         wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
@@ -87,13 +87,13 @@ If you're on **Mac OS X**, you already have Ruby 1.8.7 on your system.  Yay!
 
 If you're on **Mac OS X**, **Ubuntu**, **Debian**, or **Fedora**, use your package manager to install MySQL.
 
-On **Fedora**, you also need the mysql-devel package:
-
-        su -c 'yum install mysql-server mysql-devel'
-
 On **Debian** or **Ubuntu**, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
         sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
+
+On **Fedora**, you also need the mysql-devel package:
+
+        su -c 'yum install mysql-server mysql-devel'
 
 To install mySQL on **Mac OS X**, run the following:
 
@@ -124,7 +124,7 @@ To install ImageMagick on **Ubuntu** or **Debian**, run the following:
 
         sudo apt-get install imagemagick libmagick9-dev
 
-or on Ubuntu 10.10,
+or on **Ubuntu 10.10**,
 
         sudo apt-get install imagemagick libmagickwand-dev
 
@@ -138,11 +138,11 @@ To install ImageMagick on **Mac OS X**, run the following:
 
 ### Git
 
-To install Git on **Ubuntu**, run the following:
+To install Git on **Ubuntu** and **Debian 6.0**, run the following:
 
         sudo apt-get install git-core
 
-To install Git 1.7 on **Debian**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
+To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
 
         sudo apt-get install git-core
 
@@ -167,15 +167,15 @@ To install Git on **Mac OS X**, run the following:
 
 If you're running a 64-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.1-1_amd64.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.2-1_amd64.deb
 
 If you're running a 32-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.1-1_i386.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.2-1_i386.deb
 
 Then install the corresponding package
 
-        sudo dpkg -i redis-server_2.0.1-2_amd64.deb
+        sudo dpkg -i redis-server_2.2.2-1_amd64.deb
 
 **Mac OS X**:
         brew install redis
@@ -188,8 +188,11 @@ On **Ubuntu 10.04**, run the following:
         sudo apt-get update
         sudo apt-get install rubygems
 
-This PPA is maintained by an Ubuntu Developer. For Ubuntu 10.10, this version
-of rubygems is in the repositories.
+This PPA is maintained by an Ubuntu Developer.
+
+On **Ubuntu 10.10** and **Debian 6.0**, run the following:
+
+        sudo apt-get install rubygems
 
 You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
 
@@ -216,11 +219,11 @@ After RubyGems is updated, simply run `sudo gem install bundler` to get
 Bundler. If you're using Ubuntu repository .debs, bundler is found at
 /var/lib/gems/1.8/bin/bundle
 
-To get bundle work in Ubuntu, you might make a symbolic link:
+To get bundle work in **Ubuntu** or **Debian 6.0**, you might make a symbolic link:
 
         sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
-This is not needed on Debian is installed ruby from source.
+This is not needed on **Debian 5.0** is installed ruby from source.
 
 On **Fedora**, run the following:
 
@@ -256,9 +259,15 @@ NOTE: If you do any other rails development on your machine, you will probably
 want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
 directory to avoid conflicts with your existing environment, or use an rvm gemset.
 
+NOTE: If on **Ubuntu** or **Debian** you get an error while installing ffi try to run
+
+        sudo apt-get install libffi-ruby
+
 ### Start MySQL
 
-On **Ubuntu** or **Debian**, start MySQL by running `sudo service mysql start`.
+On **Ubuntu** or **Debian**, start MySQL by running:
+
+        sudo service mysql start
 
 On **Fedora**, start MySQL by running:
 
@@ -300,7 +309,7 @@ development mode.  It will run on port 3000 by default. If you want it to be ava
 
 For a local development instance, skip this step - just run `./script/server` to get everything running  on the right ports.
 
-Run` bundle exec ruby script/websocket_server.rb' to start websockets on port 8080. Change port in config/app_config.yml.
+Run `bundle exec ruby script/websocket_server.rb` to start websockets on port 8080. Change port in config/app_config.yml.
 
 Run `redis-server` to start redis on the default port 6379. It uses a config file, normally /etc/redis.conf or /etc/redis/redis.conf defining ports and other stuff.
 
