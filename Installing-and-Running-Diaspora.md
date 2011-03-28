@@ -376,6 +376,10 @@ In order to apply any new schema always run
 
         bundle exec rake db:migrate
 
+Or if you you run in production mode
+
+        RAILS_ENV=production bundle exec rake db:migrate
+
 ## How We Do It
 
 We deploy and run Diaspora with a deployment tool called sod, which currently only supports CentOS.  We use Rackspace Cloud, but you can point sod at any CentOS machine.  Sod is unfinished and probably has hardcoded configuration for our servers.  It is **not ready for use**.  DO NOT use a machine that other apps are running on, Sod assumes that it is deploying onto a clean machine.  So first you get yourself an ip and root password to a CentOS machine.  Then get yourself an SSL cert and put it in ~/diaspora_cert on your local machine.  Then you run sod on your local machine to provision the remote server:
