@@ -362,11 +362,14 @@ Diaspora, beeing a rails application, by default runs in development mode. To ga
 * Edit config/server.sh
 * Review config/environments/production.rb. The serve_static_assets setting is known to cause troubles depending on what front-end server (nginx, apache, none) is used.
 
-## Update diaspora
+## Updating Diaspora
 
 Change into the diaspora root folder and run
 
-        git pull origin
+        git pull origin master
+
+If the update changes the Gemfile or Gemfile.lock files, run
+
         bundle install
 
 In order to apply any new schema always run
