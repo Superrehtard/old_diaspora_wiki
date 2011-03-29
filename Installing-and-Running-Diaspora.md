@@ -89,7 +89,7 @@ needed configuration changes.
 Diaspora is a Rails-app and as such it has different modes it's running in.
 The default is the "development mode" in which some performance features such as
 source code caching are disabled. The other one is production mode and best for
-actually running a pod. So if you want a test installition to develop for Diaspora
+actually running a pod. So if you want a test installation to develop for Diaspora,
 keep the defaults, if you plan to host a pod choose production mode.
 
 If you want to run production mode:
@@ -163,6 +163,8 @@ Now start Diaspora again.
 If you once used Jammit, now after each update, after the first request to the page run it again:
 
         bundle exec jammit
+
+## Appendix
 
 ### Testing
 
