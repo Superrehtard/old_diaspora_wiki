@@ -127,7 +127,7 @@ Here are instructions to [[Run Diasporas Components]]
 ### Logging in
 
 If you have disabled the registration on your pod there is `bundle exec rake db:seed:first_user`
-(RAILS_ENV=production bundle exec rake db:seed:first_user for production mode)
+(`RAILS_ENV=production bundle exec rake db:seed:first_user` for production mode)
 which let you define the name/pw of a first user.
 
 ### Jammit
