@@ -12,6 +12,7 @@
 * [[Customize your splash page]]
 * [[Setup services|Howto-setup-services]]
 * [[Trademark Guidelines]]
+* [[How we do it]]
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
@@ -34,6 +35,7 @@
   * [[Client-server-model]]
   * [[Security Architecture Proposal]]
   * [[Interface-ideas]]
+* [[Roadmap]] (Not strictly followed and probably outdated)
 
 # Other Resources
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
