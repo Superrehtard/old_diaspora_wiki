@@ -6,6 +6,7 @@
    * [[Aspects FAQ]]
    * [[Terminology]]
 * [[Changelog]]
+* [[Roadmap]] (Not strictly followed and probably outdated)
 
 # Pod Maintainer Resources
 * [[Installing and Running Diaspora]]
@@ -35,7 +36,6 @@
   * [[Client-server-model]]
   * [[Security Architecture Proposal]]
   * [[Interface-ideas]]
-* [[Roadmap]] (Not strictly followed and probably outdated)
 
 # Other Resources
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
