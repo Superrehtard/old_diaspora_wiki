@@ -2,22 +2,17 @@
 
 You can see what we are currently working on [[here, on Diaspora’s Tracker|http://www.pivotaltracker.com/projects/61641]]. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
 
-Our roadmap is the mission critical features that given enough time, we will develop them ourselves.  You are welcome to try and tackle one of these problems, and it would be awesome if you checked Tracker and the network tree to make sure no work is being duplicated.
-
 ## Future
 - Data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
-- Services integration:  Services should be attached to aspects, rather than the 'public' flag.
-- Internationalization using I18n: Now that we have locale files, we need to set up our controllers to use the browser's language header.  It would be a shame if you couldn’t use Diaspora in Greek.
+- Services integration:  Services should be attached to aspects.
 - Server to server authentication:  Right now Diaspora is push-only.  We need servers to be able to authenticate to each other in order to pull data in, and to delegate that authentication to the browser to avoid replicating large files like photos.  This should probably involve token-authenticable in devise.
 - Refining aspects (adding people to multiple groups, having people only in the public group, etc) 
 - More Standards compliance: for instance, we have a salmon implementation, but it's not tested against the spec yet.  It should be made compliant with the salmon spec.
-- Private messaging; backend mostly complete in a branch, no ui implemented
 - Events
 - Photo tagging
 - Mentions should be in comments and captions as well.
 - Software Update Framework
 - Some sort of an administrator interface that would do the entire update automatically, something like the way Wordpress can be updated with the click of a button.
-- GPG public/private key + Key signing = Global keys with social keysigning :D
 
 ## Wishlist
 
@@ -33,6 +28,7 @@ These are things which would be nice to have, and are not currently in our plan,
   3. The requesting server conveys the challenge to the requesting user.
   4. The receiving server verifies the response and processes the request.
 
+- GPG public/private key + Key signing = Global keys with social keysigning :D
 - An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS on a status message before sending it out to your friends. (see gmail undo)
 - activity streams parser and sterilizer, based off the spec, which gives you ruby objects for valid streams (the easy solution would probably make methods in our models to_activity and from_activity)
 - Private pubsubhubbub implementation, check out both the “from” and “oauth” authentication methods. (note maxwell: i may have some code to dump onto the Internet, i need to write some more tests)
