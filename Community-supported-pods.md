@@ -1,6 +1,6 @@
 Here's a list of pods (seed hosters) run by the Diaspora community members. Remember, when you join one, you always log in there, but can follow friends on *all* of them. Now *that's* freedom!
 
-###This is Alpha software, we do out best but cannot guarantee that there are security holes that expose your data. 
+###This is Alpha software, we do out best but cannot guarantee that there are no security holes that expose your data. 
 
 Please do not try to crack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
 
