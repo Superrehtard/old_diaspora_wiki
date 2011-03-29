@@ -19,7 +19,6 @@
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
   * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
   * [[Installing on Windows]] - some workarounds for installing on Windows
-  * [[Installing from Source]] - Installing from the scratch
 
 # Contributor and Developer Resources
 * [[Report a Bug]]

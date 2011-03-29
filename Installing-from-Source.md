@@ -1,1 +1,0 @@
-This page assumes that you're reasonably capable of installing the relevant sources of diaspora in any sort of GNU/LINUX  as well as that you've compiled software for linux before.
