@@ -5,7 +5,7 @@ If you fear ./script/server ;)
 ### A note about production mode
 
 If you want to use production mode prepend every command here with `RAILS_ENV=production `,
-config/server.sh is not respected by this way!
+config/server.sh is not respected with this way!
 
 ### Run the app server
 
