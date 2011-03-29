@@ -1,42 +1,41 @@
 # The Official Diaspora Wiki
 
-* [[An Introduction to the Diaspora Source]]
-* [[Contributing to Diaspora: Using git |Git Workflow]]
-* [[Contributing translations to Diaspora|How-to-contribute-translations]]
+# User Resources
+* [[Community-supported pods]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
 * [[Changelog]]
-* [[Roadmap]]
-* [[Community-supported pods]]
-* [[Message passing in Diaspora]]
-* [[New CLA  12/13/10]]
 
-#Extending Diaspora
-* [[Adding your favorite service to Diaspora]]
-
-#Conceptual stuff
-* [[Encryption]]
-* [[Client-server-model]]
-* [[Security Architecture Proposal]]
-* [[Interface-ideas]]
-
-# HOWTO
+# Pod Maintainer Resources
 * [[Installing and Running Diaspora]]
-* [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
-* [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
-* [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
-* [[Installing on Windows]] - some workarounds for installing on Windows
-* [[Installing from Source]] - Installing from the scratch
-* [[Setup services|Howto-setup-services]]
 * [[Customize your splash page]]
+* [[Setup services|Howto-setup-services]]
+* [[Trademark Guidelines]]
+* Various Guides & Resources (probably outdated)
+  * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
+  * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
+  * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
+  * [[Installing on Windows]] - some workarounds for installing on Windows
+  * [[Installing from Source]] - Installing from the scratch
+
+# Contributor and Developer Resources
 * [[Report a Bug]]
 * [[Work on a Bug]]
+* [[Contributing translations to Diaspora|How-to-contribute-translations]]
+* [[New CLA  12/13/10]]
+* [[Contributing to Diaspora: Using git |Git Workflow]]
+* [[Adding your favorite service to Diaspora]]
+* Understanding Diaspora
+  * [[An Introduction to the Diaspora Source]]
+  * [[Message passing in Diaspora]]
+* Conceptual stuff (mostly inoffical)
+  * [[Encryption]]
+  * [[Client-server-model]]
+  * [[Security Architecture Proposal]]
+  * [[Interface-ideas]]
 
 # Other Resources
-
-[[Trademark Guidelines]]
-
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
 
 * [99translations.com](http://99translations.com/public_projects/show/181) - Help to translate diaspora
@@ -48,7 +47,3 @@ Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/proje
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
 * [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
 * [[Other projects]] - links elsewhere
-
-# Instances open for public testing
-
-* [[Public Testing Servers]]
