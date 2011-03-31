@@ -104,7 +104,7 @@ You need to configure the database settings. Copy config/database.yml.example to
 and edit it properly.
 
 After that run `bundle exec rake db:create` for development mode or 
-`RAILs_ENV=production bundle exec rake db:create` for production mode
+`RAILS_ENV=production bundle exec rake db:create` for production mode
 to create the needed database or create the database manually. 
 If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
 
