@@ -23,7 +23,7 @@ sudo apt-get install apache2-dev
 *It can co-exist with your existing Apache ok*
 
 ## Install Passenger Module for Apache
-From http://www.modrails.org/install.php
+From http://www.modrails.org/install.html
 
 <pre>
 gem install passenger
