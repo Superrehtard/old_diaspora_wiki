@@ -53,6 +53,15 @@ If an image is shown, the pod is *probably* online at the moment.
     * Operating system: Linux (CentOS)
     * Comments: Largest Free Diaspora seeds server; Dive in!
 
+* [[http://diaspa.co.uk]] 
+    * Opened: 01/04/2011
+    * Updated: daily
+    * Maintained by : Neil Perry ([[http://www.nperry.eu]])
+        * [[http://twitter.com/NPerry]]
+        * diaspora : nperry@diaspa.co.uk
+    * Operating system: Linux (Ubuntu)
+    * Comments: Public and free Diaspora pod for everyone
+
 * [[http://diasp.be]] 
     * Opened: 10/12/2010
     * Updated: daily
