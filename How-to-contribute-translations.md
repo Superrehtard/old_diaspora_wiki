@@ -51,6 +51,7 @@ If you want to fix an untranslatable strings or something feel free, but only ad
 ### Languages handled outside of 99translations
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
+* [[gl|http://trasno.net/]]
 
 ### Translating with 99translations
 
