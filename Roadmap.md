@@ -48,7 +48,7 @@ These are things which would be nice to have, and are not currently in our plan,
 - Running Diaspora from home:
   - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
   - Option to have a performant data on disk encryption
-  - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services
+  - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services (e.g. PageKite)
   - Can we run Diaspora from a Nexus One?
 
 - In general call us out with more elegant solutions
