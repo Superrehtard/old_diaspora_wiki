@@ -2,7 +2,7 @@ This is a list of pods (Diaspora servers) run by Diaspora community members. Rem
 when you join one, you always log in to that site. But you can follow friends on *any* pod, including
 the main pod at joindiaspora.com.
 
-This list is rather static. While it can be used as a reference, we recommend that when you
+**This list is rather static.** While it can be used as a reference, we recommend that when you
 are choosing which pod to sign up for, you also consider:
 
 * [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.
@@ -14,9 +14,9 @@ Pod maintainers:
 
 * To add your pod to the list, please edit this page, adding details along the same 
 pattern as the existing data. Pods are listed in alphabetical order by pod name.
-* Please consider adding yourself to the PodUp list at [[http://podup.sargodarya.de]]. 
-It automatically checks whether pods are online and sorts them based on uptime. It's free, 
-people will notice your pod, and you can track how your pod performs in the management console.
+* Please consider adding yourself to [the PodUp list](http://podup.sargodarya.de) as well. 
+It's free, people will notice your pod, and you can track how your pod performs in the 
+management console.
 
 ## Diaspora pods
 
