@@ -6,5 +6,3 @@
 clarification and/or more information to the **existing** bug.
 
 3. If not, create a new bug via the "new issue" tab once you've logged in.
-
-Best practices for bug reporting: see [this](http://www.webmproject.org/code/bug-reporting/) and [this](http://geekswithblogs.net/srkprasad/archive/2004/10/06/12224.aspx)

@@ -1,14 +1,24 @@
-Here's a list of pods (seed hosters) run by the Diaspora community members. Remember, when you join one, you always log in there, but can follow friends on *all* of them. Now *that's* freedom!
+Here's a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
+when you join one, you always log in there, but you can follow friends on *any* pod, including
+the main pod at joindiaspora.com. Now *that's* freedom!
 
-###This is Alpha software, we do out best but cannot guarantee that there are no security holes that expose your data. 
+**This is alpha software! We do our best, but we cannot guarantee that there are no 
+security holes exposing your data. As with all web services, think carefully about
+how much information you want to give them.**
 
-Please do not try to crack these machines; they have been freely offered by people so that the project can move forward. Abusing their trust will make them go away.
-
-If you wish to add your pod to the list, please edit this page adding details along the same pattern. Pods are listed in alphabetical order by pod name.
+Please do not try to crack these machines; they have been freely offered by people so 
+that the project can move forward. Abusing their trust will make them go away.
 
 If an image is shown, the pod is *probably* online at the moment.
 
-[notice by SargoDarya] If you're hosting a pod please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. It automatically checks if pods are online and sorts them based on there uptimes. It's free, people will notice your pod and you can track how your pod performs in the management console.
+Pod maintainers:
+
+- To add your pod to the list, please edit this page, adding details along the same 
+pattern as the existing data. Pods are listed in alphabetical order by pod name.
+
+- Please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. 
+It automatically checks whether pods are online and sorts them based on uptime. It's free, 
+people will notice your pod, and you can track how your pod performs in the management console.
 
 * [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
    * Opened: 21/09/2010

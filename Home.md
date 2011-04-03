@@ -10,7 +10,7 @@ anywhere on the site.
 ## End User Resources
 * [[So, you want an invite?|Invitations]]
 * [[Report a Bug]]
-* [[Community-supported pods]]
+* [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
