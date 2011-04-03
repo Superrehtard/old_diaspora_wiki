@@ -1,12 +1,40 @@
 # The Official Diaspora Wiki
 
-# User Resources
+# Welcome!
+Looking for information about Diaspora? This is the official community-maintained repository
+of information and documentation for end users, developers, pod maintainers, and contributors. 
+It's a wiki, so when you come across something outdated or wrong, we encourage you to fix it!
+
+# End User Resources
+* [[So, you want an invite?|Invitations]]
+* [[Report a Bug]]
 * [[Community-supported pods]]
 * [[Frequently Asked Questions]]
    * [[Aspects FAQ]]
    * [[Terminology]]
-* [[Changelog]]
-* [[Roadmap]] (Not strictly followed and probably outdated)
+* [[What's new?|Changelog]]
+* [[Product Roadmap|Roadmap]] (Not strictly followed and probably outdated)
+
+# Developer Resources
+* [[Installing and Running Diaspora]]
+* [[Contributor license agreement|New-CLA--12-13-10]]
+* [[Report a Bug]]
+* [[Work on a Bug]]
+* [[How we use git|Git Workflow]]
+* [[Adding your favorite service to Diaspora]]
+
+# Contributor Resources
+* [[Report a Bug]]
+* [[Contributor license agreement|New-CLA--12-13-10]]
+* [[How to contribute UI translations|How-to-contribute-translations]]
+* Understanding Diaspora
+  * [[An Introduction to the Diaspora Source]]
+  * [[Message passing in Diaspora]]
+* Conceptual stuff (mostly unoffical)
+  * [[Encryption]]
+  * [[Client-server-model]]
+  * [[Security Architecture Proposal]]
+  * [[Interface-ideas]]
 
 # Pod Maintainer Resources
 * [[Installing and Running Diaspora]]
@@ -19,22 +47,6 @@
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
   * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
   * [[Installing on Windows]] - some workarounds for installing on Windows
-
-# Contributor and Developer Resources
-* [[Report a Bug]]
-* [[Work on a Bug]]
-* [[Contributing translations to Diaspora|How-to-contribute-translations]]
-* [[New CLA  12/13/10]]
-* [[Contributing to Diaspora: Using git |Git Workflow]]
-* [[Adding your favorite service to Diaspora]]
-* Understanding Diaspora
-  * [[An Introduction to the Diaspora Source]]
-  * [[Message passing in Diaspora]]
-* Conceptual stuff (mostly inoffical)
-  * [[Encryption]]
-  * [[Client-server-model]]
-  * [[Security Architecture Proposal]]
-  * [[Interface-ideas]]
 
 # Other Resources
 Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
