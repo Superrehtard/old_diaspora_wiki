@@ -107,6 +107,77 @@ Open C:\Profile Files\Redis\redis.conf in a text editor and:
 
 ### Bundler
 
-Install bundler and a windows specific dependency gem.
+Install the bundler gem.
 
-    gem install bundler win32-open3
+    gem install bundler
+
+### Getting Diaspora
+
+Create a directory for Diaspora.
+
+    mkdir "C:\Program Files\Diaspora"
+
+Some programs do not like spaces in the current working directory.
+
+    cd "C:\Progra~1\Diaspora"
+
+### Get the source code.
+
+    git init
+    git remote add origin https://github.com/diaspora/diaspora.git
+    git pull origin master
+   
+Two windows specific gems need to be included.  Open the Gemfile file.
+
+* Change `'SystemTimer', '1.2.1'` to `'ghazel-SystemTimer', '1.2.1.1'`
+* Add `gem 'win32-open3', '0.3.2'`
+
+Open the Gemfile.lock file.
+
+* Change `SystemTimer (1.2.1)` to `ghazel-SystemTimer (1.2.1.1)`
+* Change `SystemTimer (= 1.2.1.1)` to `ghazel-SystemTimer (= 1.2.1.1)`
+
+### Installing Diaspora
+
+The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  While in the C:\Progra~1\Diaspora directory from the Command Prompt, type:
+
+    C:\Progra~1\RubyDevKit\devkitvars.bat
+    bundle install --path vendor
+
+You will see an error message while compiling the Typhoeus gem.  In the example below Typhoeus 0.2.4 dependens on curl 7.19.4.
+
+    checking for curl/curl.h in C:/PROGRA~1/Diaspora/vendor/ruby/1.8/gems/typhoeus-0.2.4/cross/curl-7.19.4.win32/include... no
+    need libcurl
+    *** extconf.rb failed ***
+
+### Libcurl
+
+Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find the version the Typhoeus is looking for in the format of curl-&lt;version number&gt;-devel-mingw32.zip.  For Typhoeus 0.2.4, download curl-7.19.4-devel-mingw32.zip.  Save the file to your Desktop.
+
+* Right click on the file and choose Extract All.
+* In the Extraction Wizard window, click Next twice.
+* Click Finish.
+
+From the Command Prompt and in the Diaspora installation directory run:
+
+    C:\Progra~1\RubyDevKit\devkitvars.bat
+    set TYPHOEUS_VER=0.2.4
+    set CURL_VER=7.19.4
+
+    mkdir C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include
+    cd %HOMEDRIVE%
+
+    cp -R "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\include\curl" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include
+    cp -R "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32
+
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
+
+Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl version environment variables used above.
+
+### Installing Diaspora (Continued)
+
+From the command line type:
+
+    C:\Progra~1\RubyDevKit\devkitvars.bat
+    bundle install
