@@ -94,12 +94,14 @@ You can use the command
 To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
 
 ***How do I get the latest source?***
+
 Pull the latest from github:
     git pull
 Install any updates to the bundle:
     bundle install
     
 ***How do I reset the database to a totally clean state?***
+
     rake db:drop
     rake db:create
     rake db:migrate
