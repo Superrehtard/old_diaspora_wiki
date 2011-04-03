@@ -244,16 +244,6 @@ management console.
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
-* [[http://diasporapt.com]] [[http://diasporapt.com/apple-touch-icon.png|height=30px|]]
-    * Opened: 2010-09-18
-    * Updated: daily (Not anymore)
-    * Maintained by a private person
-        * IRC/Freenode: YaBa
-        * polido@gmail.com
-        * [[http://twitter.com/yaba]]
-    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
-    * Comments: Tired of using precious resources on this project. Mongo sucks. I'll wait until Diaspora reach a stable level. (Sorry all)
-
 * [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
    * Opened: 3/3/2011
    * Updated: Very often (no exactly details cause of security reason)
