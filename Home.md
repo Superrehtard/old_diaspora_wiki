@@ -3,6 +3,7 @@
 ## Welcome!
 Looking for information about Diaspora? This is the official community-maintained repository
 of information and documentation for end users, developers, pod maintainers, and contributors. 
+
 It's a wiki, so when you come across something outdated or wrong, we encourage you to fix it.
 As long as you're logged in to your Github account, feel free to click that "Edit Page" button
 anywhere on the site.

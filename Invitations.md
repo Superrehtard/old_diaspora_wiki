@@ -2,9 +2,10 @@
 
 ## Getting an invite
 
-The Diaspora installation run by the project's founders is located at [joindiaspora.com](http://joindiaspora.com).
+The Diaspora installation run by the project's founders is located at 
+<a href="http://joindiaspora.com" target="_blank">joindiaspora.com</a>.
 We are currently in private alpha, meaning that you must be invited by someone in order to 
-register and start using the site. We have a [mailing list](http://joindiaspora.com) you can 
+register and start using the site. We have a <a href="http://joindiaspora.com" target="_blank">mailing list</a> you can 
 join if you'd like to be invited. 
 
 However, because Diaspora is a distributed system, you can participate even if you haven't
