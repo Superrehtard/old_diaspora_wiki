@@ -6,10 +6,7 @@ the main pod at joindiaspora.com. Now *that's* freedom!
 security holes exposing your data. As with all web services, think carefully about
 how much information you want to give them.**
 
-Please do not try to crack these machines; they have been freely offered by people so 
-that the project can move forward. Abusing their trust will make them go away.
-
-If an image is shown, the pod is *probably* online at the moment.
+If there is a non-broken image next to the pod name, the pod is probably online at the moment.
 
 Pod maintainers:
 
@@ -20,14 +17,14 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 It automatically checks whether pods are online and sorts them based on uptime. It's free, 
 people will notice your pod, and you can track how your pod performs in the management console.
 
-* [[http://alt.md/]] [[http://pontari.us/images/user/default.jpg|height=30px|]]
+* [[http://alt.md/]] [[http://alt.md/apple-touch-icon.png|height=30px|]]
    * Opened: 21/09/2010
    * Updated: Multiple times per day
    * Maintainer
        * DIASPORA: plex@alt.md
    * Operating system: Ubuntu
 
-* [[http://denizencity.com]]  [[http://denizencity.com/images/user/default.jpg|height=30px|]]
+* [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Every 2 hours, but service restarted roughly daily
     * Maintained by: private individual
@@ -35,7 +32,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
-* [[http://dhz.me/]] [[http://dhz.me:3000/images/user/default.png|height=30px|]]
+* [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px|]]
    * Opened: 1/1/2011
    * Updated: Four times per day
    * Maintainer
@@ -43,7 +40,7 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Operating system: CentOS
    * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
 
-* [[https://diafor.me]] [[https://diafor.me/images/user/default.png|height=30px|]]
+* [[https://diafor.me]] [[https://diafor.me/apple-touch-icon.png|height=30px|]]
     * Opened: 02/05/2011
     * Updated: Almost daily
     * Maintainer 
@@ -53,7 +50,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (Ubuntu)
     * Comments: Public pod in the cloud! 
 
-* [[http://diaseeds.com]] [[http://diaseeds.com:3000/images/user/default.jpg|height=30px|]]
+* [[http://diaseeds.com]] [[http://diaseeds.com:3000/apple-touch-icon.png|height=30px|]]
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
     * Maintainer 
@@ -63,7 +60,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (CentOS)
     * Comments: Largest Free Diaspora seeds server; Dive in!
 
-* [[http://diaspa.co.uk]] 
+* [[http://diaspa.co.uk]] [[http://diaspa.co.uk/apple-touch-icon.png|height=30px|]]
     * Opened: 01/04/2011
     * Updated: daily
     * Maintained by : Neil Perry ([[http://www.nperry.eu]])
@@ -72,7 +69,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (Ubuntu)
     * Comments: Public and free Diaspora pod for everyone
 
-* [[http://diasp.be]] 
+* [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
     * Opened: 10/12/2010
     * Updated: daily
     * Maintained by : Hervé Delvaux ([[http://www.webadev.com]])
@@ -109,13 +106,13 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Updated: Once a week
    * Maintained by: [[http://www.diasp.es]] [[http://twitter.com/soukron]]
 
-* [[http://diasp.se/]]
+* [[http://diasp.se/]] [[http://diasp.se/apple-touch-icon.png|height=30px|]]
    * Opened: 13/03/2011
    * Updated: Once a week
    * Maintained by: olof.andersson@gmail.com
    * Comments: Swedish pod. Run by private person on Ubuntu 10.10.
 
-* [[http://diaspora-vallibre.linux59.info]] 
+* [[http://diaspora-vallibre.linux59.info]] [[http://diaspora-vallibre.linux59.info/apple-touch-icon.png|height=30px|]]
    * Opened: 25/12/2010
    * Updated: 
    * Maintainer: Thierry Brasseur <mygalaxia@free.fr>
@@ -123,7 +120,7 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Operating system: Ubuntu+apache 2
    * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
 
-* [[http://diaspora.barmet.tk]] [[http://diaspora.barmet.tk/images/user/default.png|height=30px|]]
+* [[http://diaspora.barmet.tk]] [[http://diaspora.barmet.tk/apple-touch-icon.png|height=30px|]]
     * Opened: 07/11/2010
     * Updated: Any time
     * Maintainer : private person
@@ -133,7 +130,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (CentOS)
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
-* [[http://diaspora.binaryfreedom.info]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.binaryfreedom.info]] [[http://diaspora.binaryfreedom.info/apple-touch-icon.png|height=30px|]]
     * Opened: 09/11/2010
     * Maintainer: Chris Fernandez
         * cfernandez@binaryfreedom.info
@@ -141,7 +138,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu 10.04 LTS
     * Comments:  Based in Cambridge MA, US, Following main branch. Updated every couple of days. also hosting a jabber server and mail server
 
-* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/apple-touch-icon.png|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Any time
     * Maintainer : private person
@@ -163,7 +160,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (Ubuntu 10.10)
     * Comments: Come one, come all.
 
-* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
     * Maintained by a private person
@@ -171,7 +168,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux
     * Comments: For development and test purposes, images are uploaded to S3
 
-* [[https://diaspora.hostmaster.org/]]
+* [[https://diaspora.hostmaster.org/]] [[http://diaspora.hostmaster.org/apple-touch-icon.png|height=30px|]]
     * Opened: 27/11/2010
     * Updated: as needed
     * Maintained by a private person
@@ -179,7 +176,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu Maverick
     * Comments: Public and Free
 
-* [[http://diaspora.now.im]] [[http://diaspora.now.im/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.now.im]] [[http://diaspora.now.im/apple-touch-icon.png|height=30px|]]
     * Opened: 17.09.2010
     * Updated: ~daily
     * Maintained by a private person
@@ -188,7 +185,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Mac OS X
     * Comments: Only online on the day (UT+1), for development and test purposes.
 
-* [[http://diaspora.numbski.com]] [[http://diaspora.numbski.com/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.numbski.com]] [[http://diaspora.numbski.com/apple-touch-icon.png|height=30px|]]
     * Opened: 20.10.2010
     * Updated: ~daily
     * Maintained by a private person
@@ -197,7 +194,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu
     * Comments: Testing as a development platform.  Close friends will be on.
 
-* [[http://diaspora.rueckgr.at]] [[http://diaspora.rueckgr.at/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.rueckgr.at]] [[http://diaspora.rueckgr.at/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-07-16
     * Updated: irregularly
     * Maintained by a private person
@@ -206,15 +203,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: just for testing, database will be reset whenever required
 
-* [[http://diaspora.sherbertia.com:3000]] [[http://weleft.com/images/user/default.jpg|height=30px|]]
-    * Opened: 24/10/2010
-    * Maintainer: Sabin Densmore
-        * sabin@sherbertia.com
-        * [[http://twitter.com/MonkeyViking]]
-    * Operating system: Centos5
-    * Comments: Sherbert Labs test of Diaspora. Following main branch. Updated every couple of days. 
-
-* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/images/user/default.jpg|height=30px|]]
+* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-09-21
     * Updated: irregularly
     * Maintained by a private person
@@ -223,7 +212,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
     * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
 
-* [[http://diaspora.xilinus.com]] [[http://diaspora.xilinus.com/images/user/default.jpg|height=30px|]]
+* [[http://diaspora.xilinus.com]] [[http://diaspora.xilinus.com/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-07-17
     * Updated: daily
     * Maintained by a private person
@@ -232,7 +221,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, database will be reset only if need be
 
-* [[http://diasporahosts.com]] [[http://diasporahosts.com:3000/images/user/default.jpg|height=30px|]]
+* [[http://diasporahosts.com]] [[http://diasporahosts.com:3000/apple-touch-icon.png|height=30px|]]
     * Opened: 17/09/2010
     * Updated: Everyday with stable code
     * Maintainer
@@ -242,7 +231,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: CentOS
     * Comments: High quality, secure, diaspora seed hosting; Dive in!
 
-* [[http://diasporapages.com]] [[http://diasporapages.com/images/user/default.jpg|height=30px|]]
+* [[http://diasporapages.com]] [[http://diasporapages.com/apple-touch-icon.png|height=30px|]]
     * Opened: 17/09/2010
     * Updated: With all of the latest updates
     * Maintainer
@@ -252,7 +241,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
-* [[http://diasporapt.com]] [[http://diasporapt.com/images/user/default.jpg|height=30px|]]
+* [[http://diasporapt.com]] [[http://diasporapt.com/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-09-18
     * Updated: daily (Not anymore)
     * Maintained by a private person
@@ -262,7 +251,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Tired of using precious resources on this project. Mongo sucks. I'll wait until Diaspora reach a stable level. (Sorry all)
 
-* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/images/logo_large.png|height=10px|]]
+* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=10px|]]
    * Opened: 3/3/2011
    * Updated: Very often (no exactly details cause of security reason)
    * Admins: Lukas Matt
@@ -271,7 +260,7 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Comments: public registration open, twitter and facebook app enabled, SSL coming soon
    * Configuration: Apache2 proxying thin
 
-* [[http://goulag.su]] [[http://goulag.su/images/user/default.jpg|height=30px|]]
+* [[http://goulag.su]] [[http://goulag.su/apple-touch-icon.png|height=30px|]]
     * Opened: 25/09/2010
     * Updated: every 12 hours
     * Maintainer : private person
@@ -279,7 +268,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
 
-* [[http://li-la.de:3000]] [[http://li-la.de/favicon.ico]]
+* [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png]]
     * Opened: 31/12/2010
     * updated every couple of days
     * located in germany
@@ -287,7 +276,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Slackware 12.2
     * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
 
-* [[http://mangaspora.com]]
+* [[http://mangaspora.com]] [[http://mangaspora.com/apple-touch-icon.png]]
     * Opened: 25/12/2010
     * updated every couple of days
     * located in New York City
@@ -295,7 +284,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu
     * Comments: Diaspora seed maintained by two college students in Manhattan.
 
-* [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/images/user/lincoln.jpg|height=30px|]]
+* [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/apple-touch-icon.png|height=30px|]]
   * Opened: 05/11/2010
   * Updated: weekly
   * Maintainer: private person
