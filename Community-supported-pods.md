@@ -9,13 +9,10 @@ are choosing which pod to sign up for, you also consider:
 a better idea how stable a given pod is.
 * [Pod Uptime from diasp.org](http://pods.diasp.org) - similar service to PodUp.
 
-Don't forget: **this is alpha software!** We do our best, but we cannot guarantee that there are no 
-security holes exposing your data. As with all web services, think carefully about
-how much information you want to give them.
-
 If there is an unbroken image next to the pod name, the pod is probably online at the moment.
 
 Pod maintainers:
+
 * To add your pod to the list, please edit this page, adding details along the same 
 pattern as the existing data. Pods are listed in alphabetical order by pod name.
 * Please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. 
