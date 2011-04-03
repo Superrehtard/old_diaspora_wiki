@@ -11,9 +11,10 @@ Yes. For a list of unofficial, community-driven servers, see [[Community support
 You can check the version of some of these pods by clicking "DEBUG INFO" at the very bottom 
 of each page. There, the commit id and commit date is noted.
 
-***How do I get past the login page when I don't have an account yet?***  
+***How do I get past the sign in page to create a new account?***  
 
-To create a new account, go to http://yourdiasporainstance.com/users/sign_up (replacing *yourdiasporainstance.com* with the the host name of your pod).
+To create a new account, go to http://yourdiasporainstance.com/users/sign_up 
+(replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a pod?***  
 
