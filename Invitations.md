@@ -24,4 +24,5 @@ for details.
 
 ## Backchannels
 
-Some folks have had success posting an invitation request to Twitter with hashtag #diaspora.
+Some folks have had success posting an invitation request to Twitter with 
+<a href="http://twitter.com/#search?q=%23diaspora" target="_blank">hashtag #diaspora</a>.
