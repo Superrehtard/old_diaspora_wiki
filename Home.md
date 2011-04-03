@@ -12,9 +12,9 @@ anywhere on the site.
 * [[So, you want an invite?|Invitations]]
 * [[Report a Bug]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
-* [[Frequently Asked Questions]]
-   * [[Aspects FAQ]]
-   * [[Terminology]]
+* Frequently Asked Questions 
+   * [[General|Frequently Asked Questions]]
+   * [[About aspects|Aspects FAQ]]
 * [[What's new?|Changelog]]
 * [[Product Roadmap|Roadmap]] (Not strictly followed and probably outdated)
 
