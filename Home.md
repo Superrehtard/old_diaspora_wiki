@@ -16,19 +16,19 @@ anywhere on the site.
    * [[General|Frequently Asked Questions]]
    * [[About aspects|Aspects FAQ]]
 * [[What's new?|Changelog]]
-* [[Product Roadmap|Roadmap]] (Not strictly followed and probably outdated)
+* [[Product Roadmap|Roadmap]] (Actually more of a "stuff we'd like to do someday" - parts may be outdated)
 
 ## Developer Resources
 * [[Installing and Running Diaspora]]
-* [[Contributor license agreement|New-CLA--12-13-10]]
-* [[Report a Bug]]
-* [[Work on a Bug]]
+* [[Contributor License Agreement|New-CLA--12-13-10]]
+* [[Report a bug|Report a Bug]]
+* [[Work on a bug|Work on a Bug]]
 * [[How we use git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
 
 ## Contributor Resources
-* [[Report a Bug]]
-* [[Contributor license agreement|New-CLA--12-13-10]]
+* [[Report a bug|Report a Bug]]
+* [[Contributor License Agreement|New-CLA--12-13-10]]
 * [[How to contribute UI translations|How-to-contribute-translations]]
 * Understanding Diaspora
   * [[An Introduction to the Diaspora Source]]
@@ -41,10 +41,10 @@ anywhere on the site.
 
 ## Pod Maintainer Resources
 * [[Installing and Running Diaspora]]
-* [[Customize your splash page]]
-* [[Setup services|Howto-setup-services]]
-* [[Trademark Guidelines]]
-* [[How we do it]]
+* [[How to customize the splash page|Customize your splash page]]
+* [[How to set up Twitter/FB integration|Howto-setup-services]]
+* [[Diaspora Trademark Guidelines|Trademark Guidelines]]
+* [[joindiaspora.com Production Setup|How we do it]]
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
@@ -54,13 +54,13 @@ anywhere on the site.
 ## Other Resources
 These are all external links.
 
-* [Diaspora bug tracker](http://bugs.joindiaspora.com/projects/diaspora/issues) - we have an installation of Redmine to keep track of issues.
-* [99translations.com](http://99translations.com/public_projects/show/181) - Help to translate diaspora
-* [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
-* [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
-* [Development Discussion Group](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
+* [Diaspora bug tracker](http://bugs.joindiaspora.com/projects/diaspora/issues) - issue and bug tracking.
+* [99translations.com](http://99translations.com/public_projects/show/181) - the service we use to help translate Diaspora
+* [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
+* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
+* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
 * [[assorted notes]] - koo5s assorted notes (possibly dangerous & wrong)
-* [questions & answers](http://diaspora.shapado.com/) - The SO clone for diaspora
+* [Questions & answers](http://diaspora.shapado.com/) - The SO clone for diaspora
 * [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
 * [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
 * [[Other projects]] - links elsewhere
