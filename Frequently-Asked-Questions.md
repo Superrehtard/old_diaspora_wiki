@@ -15,14 +15,14 @@ of each page. There, the commit id and commit date is noted.
 
 To create a new account, go to http://yourdiasporainstance.com/users/sign_up (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
-***What is a *pod*?***  
+***What is a pod?***  
 
 A pod is a server where Diaspora is running. There are lots of different pods, and communication 
 is not restricted to one pod. You can add friends from other pods and communicate with them.
 
-"Pod" in this case is a metaphor referring to pods on plants which contain seeds.
+"Pod" is a metaphor referring to pods on plants which contain seeds.
 
-***What is a *seed*?***  
+***What is a seed?***  
 
 A seed is a profile or an account, and contains all the data of a specific user. 
 Your seed interacts with the seeds of your friends to keep each other up to date. 
@@ -32,7 +32,11 @@ Seeds are hosted on servers running the Diaspora software, which are called 'pod
 In the future you will be able to move your seed between pods. For now, you can export a file
 containing all your information.
 
-[[Aspects FAQ]]
+"Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
+
+***What is an aspect?***
+
+See our separate [[aspects FAQ|Aspects FAQ]].
 
 ## Administrator FAQ
 
