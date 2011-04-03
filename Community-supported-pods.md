@@ -251,7 +251,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Tired of using precious resources on this project. Mongo sucks. I'll wait until Diaspora reach a stable level. (Sorry all)
 
-* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=10px|]]
+* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
    * Opened: 3/3/2011
    * Updated: Very often (no exactly details cause of security reason)
    * Admins: Lukas Matt
@@ -268,7 +268,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: ArchLinux
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
 
-* [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png]]
+* [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
     * Opened: 31/12/2010
     * updated every couple of days
     * located in germany
@@ -276,7 +276,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Slackware 12.2
     * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
 
-* [[http://mangaspora.com]] [[http://mangaspora.com/apple-touch-icon.png]]
+* [[http://mangaspora.com]] [[http://mangaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 25/12/2010
     * updated every couple of days
     * located in New York City
