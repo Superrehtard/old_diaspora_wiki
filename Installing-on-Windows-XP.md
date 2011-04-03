@@ -121,7 +121,7 @@ Some programs do not like spaces in the current working directory.
 
     cd "C:\Progra~1\Diaspora"
 
-### Get the source code.
+Get the source code.
 
     git init
     git remote add origin https://github.com/diaspora/diaspora.git
@@ -181,3 +181,44 @@ From the command line type:
 
     C:\Progra~1\RubyDevKit\devkitvars.bat
     bundle install
+
+### Set up the database
+
+Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the test and development password sections of database.yml.
+
+### Running Diaspora
+
+This process needs to be improved, but for now open four Command Prompt windows.
+
+In the first Command Prompt window type:
+
+    net start mysql
+    cd C:\Progra~1\Redis
+    redis-server redis.conf
+
+If a Windows Firewall dialogs appears close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
+
+After Redis is started in the first window, type the following in the second Command Prompt window:
+
+    set RAILS_ENV=development
+    cd C:\Progra~1\Diaspora
+    bundle exec ruby ./script/websocket_server.rb
+
+When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
+
+In the third Command Prompt window, type:
+
+    set RAILS_ENV=development
+    set QUEUE=*
+    cd C:\Progra~1\Diaspora
+    bundle exec rake resque:work
+
+In the fourth and final Command Prompt window type:
+    
+    set RAILS_ENV=development
+    cd C:\Progra~1\Diaspora
+    bundle exec thin start -e development -a 127.0.0.1 -p 3000
+
+### Create an Account
+
+Browse to http://localhost:3000/users/sign_up
