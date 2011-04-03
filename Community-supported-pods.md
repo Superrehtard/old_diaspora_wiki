@@ -1,23 +1,24 @@
 This is a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
 when you join one, you always log in to that site. But you can follow friends on *any* pod, including
-the main pod at joindiaspora.com. Now *that's* freedom!
+the main pod at joindiaspora.com.
 
 This list is rather static. While it can be used as a reference, we recommend that when you
 are choosing which pod to sign up for, you also consider:
-  - [PodUp](http://podup.sargodarya.de) - this site sorts pods by uptime and will give you
-a better idea how stable a given pod is.
-  - [Pod Uptime from diasp.org](http://pods.diasp.org) - similar service to PodUp.
 
-Don't forget: **this is alpha software! We do our best, but we cannot guarantee that there are no 
-security holes exposing your data.** As with all web services, think carefully about
+* [PodUp](http://podup.sargodarya.de) - this site sorts pods by uptime and will give you
+a better idea how stable a given pod is.
+* [Pod Uptime from diasp.org](http://pods.diasp.org) - similar service to PodUp.
+
+Don't forget: **this is alpha software!** We do our best, but we cannot guarantee that there are no 
+security holes exposing your data. As with all web services, think carefully about
 how much information you want to give them.
 
 If there is an unbroken image next to the pod name, the pod is probably online at the moment.
 
 Pod maintainers:
-  - To add your pod to the list, please edit this page, adding details along the same 
+* To add your pod to the list, please edit this page, adding details along the same 
 pattern as the existing data. Pods are listed in alphabetical order by pod name.
-  - Please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. 
+* Please consider adding yourself to the podup list at [[http://podup.sargodarya.de]]. 
 It automatically checks whether pods are online and sorts them based on uptime. It's free, 
 people will notice your pod, and you can track how your pod performs in the management console.
 
