@@ -1,11 +1,13 @@
 # The Official Diaspora Wiki
 
-# Welcome!
+## Welcome!
 Looking for information about Diaspora? This is the official community-maintained repository
 of information and documentation for end users, developers, pod maintainers, and contributors. 
-It's a wiki, so when you come across something outdated or wrong, we encourage you to fix it!
+It's a wiki, so when you come across something outdated or wrong, we encourage you to fix it.
+As long as you're logged in to your Github account, feel free to click that "Edit Page" button
+anywhere on the site.
 
-# End User Resources
+## End User Resources
 * [[So, you want an invite?|Invitations]]
 * [[Report a Bug]]
 * [[Community-supported pods]]
@@ -15,7 +17,7 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
 * [[What's new?|Changelog]]
 * [[Product Roadmap|Roadmap]] (Not strictly followed and probably outdated)
 
-# Developer Resources
+## Developer Resources
 * [[Installing and Running Diaspora]]
 * [[Contributor license agreement|New-CLA--12-13-10]]
 * [[Report a Bug]]
@@ -23,7 +25,7 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
 * [[How we use git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
 
-# Contributor Resources
+## Contributor Resources
 * [[Report a Bug]]
 * [[Contributor license agreement|New-CLA--12-13-10]]
 * [[How to contribute UI translations|How-to-contribute-translations]]
@@ -36,7 +38,7 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
   * [[Security Architecture Proposal]]
   * [[Interface-ideas]]
 
-# Pod Maintainer Resources
+## Pod Maintainer Resources
 * [[Installing and Running Diaspora]]
 * [[Customize your splash page]]
 * [[Setup services|Howto-setup-services]]
@@ -48,9 +50,10 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
   * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
   * [[Installing on Windows]] - some workarounds for installing on Windows
 
-# Other Resources
-Don't forget that the issues are in [Redmine](http://bugs.joindiaspora.com/projects/diaspora/issues)
+## Other Resources
+These are all external links.
 
+* [Diaspora bug tracker](http://bugs.joindiaspora.com/projects/diaspora/issues) - we have an installation of Redmine to keep track of issues.
 * [99translations.com](http://99translations.com/public_projects/show/181) - Help to translate diaspora
 * [Pivotal Tracker](https://www.pivotaltracker.com/projects/61641) - project milestones
 * [Discussion Group](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
