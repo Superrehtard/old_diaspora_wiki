@@ -1,41 +1,40 @@
-This page documents questions that are being frequently asked in relation to the installation and use of Diaspora.
+This page documents questions that we see a lot. It probably doesn't cover everything. 
+If you have other questions, please try #diaspora on irc.freenode.net,
+or our [[Google Group|http://groups.google.com/group/diaspora-discuss]].
 
-If you have other questions, please try #diaspora on irc.freenode.net or our [[Google Group|http://groups.google.com/group/diaspora-discuss]].
-
-# User FAQ
+## User FAQ
 
 ***Are there any public demo servers of Diaspora online that I can try?***  
-Yes. The following are the official Diaspora demo instances, which will be wiped of all content at regular and unpredictable intervals:
 
-* [[http://tom.joindiaspora.com]]
-* [[http://washington.joindiaspora.com]]
-* [[http://adams.joindiaspora.com]]
+Yes. For a list of unofficial, community-driven servers, see [[Community supported pods]].
 
-For a list of unofficial, community-driven servers, see [[Community supported pods]].
-
-You can check the version of these pods by clicking "DEBUG INFO" at the very bottom of each page. There, the commit id and commit date is noted.
+You can check the version of some of these pods by clicking "DEBUG INFO" at the very bottom 
+of each page. There, the commit id and commit date is noted.
 
 ***How do I get past the login page when I don't have an account yet?***  
-To create a new account, go to:
-[[http://yourdiasporainstance.com/login]] (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
-***What is a *seed*?***  
-A seed is the equivalent to a profile or an account and contains all the data of a specific user. Your seed interacts with the seeds of your friends to keep each other up to date. You can see it as a package of personal data... which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the distant future you will be able to move your seed between pods.
+To create a new account, go to http://yourdiasporainstance.com/users/sign_up (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***What is a *pod*?***  
-A pod is an HTTP server (a webserver) where Diaspora is running. There are several pods which you can access using a webbrowser. Communication is not restricted to one pod. You can add friends from other pods and communicate with them. In a-technical words: it's a website where you can make or upload your own seed.
+
+A pod is a server where Diaspora is running. There are lots of different pods, and communication 
+is not restricted to one pod. You can add friends from other pods and communicate with them.
+
+"Pod" in this case is a metaphor referring to pods on plants which contain seeds.
+
+***What is a *seed*?***  
+
+A seed is a profile or an account, and contains all the data of a specific user. 
+Your seed interacts with the seeds of your friends to keep each other up to date. 
+You can see it as a package of personal data...which is all yours! 
+
+Seeds are hosted on servers running the Diaspora software, which are called 'pods'. 
+In the future you will be able to move your seed between pods. For now, you can export a file
+containing all your information.
 
 [[Aspects FAQ]]
 
-*** Where are my private messages? ***
-
-*** Where are my groups? ***
-
-*** Where is my audio? ***
-
-*** Where is my video? ***
-
-# Administrator FAQ
+## Administrator FAQ
 
 ***What ports does Diaspora need available for communication?***  
 
@@ -87,22 +86,20 @@ You've confused the poor computer. Go to your public address and try again. Also
 sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 though the best solution is ./ubuntu-setup.bash
 
-# Developer FAQ
-
-*** What's the difference between production and master branches?***  
-Production is what we were using and updating, maybe bi-weekly for a few advisors and friends and such. At this point its not that much different, other than it runs in production mode as default rather than in dev mode.
+## Developer FAQ
 
 ***How do I get debug information?***  
 You can use the command  
     tail -f log/development.log
 To watch the dev log.  *If there is any way to get more verbose, detailed debug information please post here!*
 
-***How do I pull and run the latest source and/or clean the database?***  
+***How do I get the latest source?***
 Pull the latest from github:
     git pull
 Install any updates to the bundle:
     bundle install
-Clean the database:
-    mysql -u <mysql username> -p
-    > drop database diaspora_development;
-
+    
+***How do I reset the database to a totally clean state?***
+    rake db:drop
+    rake db:create
+    rake db:migrate
