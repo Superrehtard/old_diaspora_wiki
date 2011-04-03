@@ -65,3 +65,48 @@ Restart MySQL.  From the command line run:
         net start mysql
 
 Note:  If you do run the Server Instance Configuration Wizard again you will need to add bind-address=127.0.0.1 to my.ini file.
+
+Open a Command Prompt window and type.
+
+    copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby187\bin
+
+### ImageMagicK
+
+Download the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagicK.org](http://www.imagemagick.org/script/binary-releases.php#windows).
+
+### Git
+
+Download the full installer from [Google Code](http://code.google.com/p/msysgit/downloads/list).
+
+When installing uncheck:
+
+    Additional icons
+    Windows Explorer integration
+    "Associate .git*" configuration files
+
+### Redis
+
+Download version 2.2 from [Github](https://github.com/downloads/dmajkic/redis/redis-2.2.2-wi
+n32-win64.zip). Save it to the Desktop.
+
+    Right click on the Redis zip file choose Extract All.
+    In the Extraction Wizard, click Next twice.
+    Uncheck Show extracted files.
+    Click Finish.
+
+Open up a Command Prompt and type the following:
+
+    cd %HOMEDRIVE%
+    mkdir "C:\Program Files\Redis"
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\redis-2.2.2-win32-win64\32bit\*" "C:\Program Files\Redis"
+
+Open C:\Profile Files\Redis\redis.conf in a text editor and:
+
+    Un-comment the bind 127.0.0.1 line.
+    Change the loglevel notice.
+
+### Bundler
+
+Install bundler and a windows specific dependency gem.
+
+    gem install bundler win32-open3
