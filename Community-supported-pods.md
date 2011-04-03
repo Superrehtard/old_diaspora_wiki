@@ -1,12 +1,18 @@
-Here's a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
-when you join one, you always log in there, but you can follow friends on *any* pod, including
+This is a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
+when you join one, you always log in to that site. But you can follow friends on *any* pod, including
 the main pod at joindiaspora.com. Now *that's* freedom!
 
-**This is alpha software! We do our best, but we cannot guarantee that there are no 
-security holes exposing your data. As with all web services, think carefully about
-how much information you want to give them.**
+This list is rather static. While it can be used as a reference, we recommend that when you
+are choosing which pod to sign up for, you also consider:
+- [[PodUp]](http://podup.sargodarya.de) - this site sorts pods by uptime and will give you
+a better idea how stable a given pod is.
+- [[Pod Uptime from diasp.org]](http://pods.diasp.org) - similar service to PodUp.
 
-If there is a non-broken image next to the pod name, the pod is probably online at the moment.
+Don't forget: **this is alpha software! We do our best, but we cannot guarantee that there are no 
+security holes exposing your data.** As with all web services, think carefully about
+how much information you want to give them.
+
+If there is an unbroken image next to the pod name, the pod is probably online at the moment.
 
 Pod maintainers:
 
@@ -17,14 +23,16 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 It automatically checks whether pods are online and sorts them based on uptime. It's free, 
 people will notice your pod, and you can track how your pod performs in the management console.
 
-* [[http://alt.md/]] [[http://alt.md/apple-touch-icon.png|height=30px|]]
+## Diaspora pods
+
+* [[http://alt.md/]] [[http://alt.md/apple-touch-icon.png|height=30px]]
    * Opened: 21/09/2010
    * Updated: Multiple times per day
    * Maintainer
        * DIASPORA: plex@alt.md
    * Operating system: Ubuntu
 
-* [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px|]]
+* [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px]]
     * Opened: 16/09/2010
     * Updated: Every 2 hours, but service restarted roughly daily
     * Maintained by: private individual
@@ -32,7 +40,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
-* [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px|]]
+* [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px]]
    * Opened: 1/1/2011
    * Updated: Four times per day
    * Maintainer
@@ -293,7 +301,7 @@ people will notice your pod, and you can track how your pod performs in the mana
   * Operating system: CentOS
   * Comments: A Diaspora pod for testing and development purposes.  Visit [[http://opensns.wordpress.com]] for more information about this pod.
 
-* [[http://my-seed.com]]
+* [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-08-20
     * Updated: irregularly
     * Maintained by a private person
@@ -301,7 +309,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Gentoo
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
 
-* [[http://notfb.ca]] [[http://notfb.ca/images/user/default.jpg|height=30px|]]
+* [[http://notfb.ca]] [[http://notfb.ca/apple-touch-icon.png|height=30px]]
     * Opened: 2010-07-17
     * Updated: irregularly
     * Maintained by a private person
@@ -310,7 +318,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu 9.4
     * Comments: Development mode for now.  Database will be reset whenever required
 
-* [[http://openspora.com]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
+* [[http://openspora.com]] [[http://openspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 15/09/2010
     * Updated: As changes in the official repository become stable
     * Maintainer
@@ -328,7 +336,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian Squeeze
     * Comments: Running in production mode with nginx as proxy/frontend
 
-* [[http://pasarus.com]]  [[http://pasarus.com/images/user/default.jpg|height=30px|]]
+* [[http://pasarus.com]]  [[http://pasarus.com/apple-touch-icon.png|height=30px]]
     * Opened: 18/09/2010
     * Updated: Daily
     * Maintained by: Areya Webservices
@@ -336,7 +344,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu
     * Comments: Reset of Database only if needed
 
-* [[https://piratendiaspora.de]]
+* [[https://piratendiaspora.de]] [[https://piratendiaspora.de/apple-touch-icon.png|height=30px]]
     * Opened: 25/11/2010
     * Updated: daily
     * Maintained by a private person
@@ -344,7 +352,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free. Made for the german pirate party. HTTPS ONLY
 
-* [[http://pod.geraspora.de]] [[http://pod.geraspora.de/images/gerasporaStar.png|height=30px|]]
+* [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
     * Opened: 2010-11-01
     * Updated: daily
     * Maintainer : Noncommercial group of 3 persons
@@ -353,7 +361,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
-* [[https://poddery.com]]
+* [[https://poddery.com]] [[https://poddery.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-12-11
     * Updated: Daily
     * Maintainer: Joe Bivins
@@ -362,7 +370,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Debian Linux (Lenny)
     * Comments: Following master branch.
 
-* [[http://regged.de]] [[http://openspora.com/images/user/default.jpg|height=30px|]]
+* [[http://regged.de]] [[http://regged.de/apple-touch-icon.png|height=30px]]
     * Opened: 24/09/2010
     * Updated: irregularly
     * Maintainer
@@ -381,7 +389,7 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
 
-* [[http://diasp.cg1.fr/]] [[http://diasp.cg1.fr/images/user/default.png|height=30px|]]
+* [[http://diasp.cg1.fr/]] [[http://diasp.cg1.fr/apple-touch-icon.png|height=30px]]
     * Opened: 02/02/2011
     * Updated: Any time
     * Maintainer : Benoit Anastay
@@ -391,7 +399,7 @@ people will notice your pod, and you can track how your pod performs in the mana
     * Operating system: Linux (CentOS)
     * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
-* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/images/tipsy.gif|height=10px|]]
+* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
    * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
    * Admins: Nicolas & Gabriel, two students from Germany and Austria
@@ -402,7 +410,7 @@ people will notice your pod, and you can track how your pod performs in the mana
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
-* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px|]]
+* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 18/12/2010
     * Updated: major changes
     * Maintained by: private individual 
