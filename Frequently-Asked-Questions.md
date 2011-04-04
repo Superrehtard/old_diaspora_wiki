@@ -1,19 +1,9 @@
 We've started adding questions that we see a lot to this page, but it doesn't cover everything.
-If you have other questions, the best way to get an answer quickly is to visit us on IRC. 
+If you have other questions, the best way to get an answer quickly is to visit us in IRC. 
 You might think, "IRC? For real? Is this 1994 again?" 
 
-Just think of it as the open-source equivalent of a Campfire room. :-)
-
-## IRC Channels
-Click the link to the join the channel in a new browser window. You can also download and use 
-an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X or 
-<a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
-
-* <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - general discussion and help for folks installing Diaspora
-* <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
-* <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - discussion in German.
-
-**On to the questions!**
+Yes. I mean, no! Just think of IRC as the open-source equivalent of a Campfire room. :-) **Links
+to IRC channels and mailing lists are at the bottom of this page.**
 
 ## User FAQ
 
@@ -22,12 +12,12 @@ an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</
 Yes. For a list of unofficial, community-driven servers, see [[Community supported pods]].
 
 You can check the version of some of these pods by clicking "DEBUG INFO" at the very bottom 
-of each page. There, the commit id and commit date is noted.
+of each page. That should show you the commit id and (more importantly) the commit date. Not
+all pods turn this feature on, however.
 
 ***What is a pod?***  
 
-A pod is a server where Diaspora is running. There are lots of different pods, and communication 
-is not restricted to one pod. You can add friends from other pods and communicate with them.
+A pod is a server where Diaspora is running. There are lots of different pods, some run . You can add friends from other pods and communicate with them.
 
 "Pod" is a metaphor referring to pods on plants which contain seeds.
 
@@ -66,7 +56,7 @@ a nice-to-have.
 
 Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.)
 
-***What are the command line options for launching Diaspora's thin HTTP server?***  
+***What are the command line options for launching thin (Diaspora's HTTP server)?***  
 
 There are a couple of helpful command line options for setting the address and port for thin:
     bundle exec thin -a <address> -p <port> start
@@ -142,3 +132,24 @@ Install any updates to the bundle:
     rake db:drop
     rake db:create
     rake db:migrate
+    
+## What if my question isn't answered here?
+
+# IRC Channels
+
+IRC is the best way to get an answer quickly. Click the link to the join the channel in a new 
+browser window. You can also download and use an IRC client such as 
+<a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X or 
+<a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
+
+* <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - general discussion and help for folks installing Diaspora
+* <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
+* <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - discussion in German.
+
+# Mailing lists
+
+We have two mailing lists, both Google groups. They tend to have a slightly different audience than
+the IRC channels, so if you can't get your question answered in IRC, you can try here.
+
+* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
+* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of installation, source code, and other technical topics
