@@ -15,7 +15,7 @@ If you still want to run your own pod...we salute you. Read on.
 ## Things To Know
 
 0. The install is a bit complex. We can help, though. **If you run into problems, please visit us 
-in IRC, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
+in IRC, on freenode, in <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora</a>.**
 
 1. We are developing Diaspora for the latest and greatest browsers, so please update your 
 Firefox, Chrome or Safari to the newest version. We do not currently support any version of 
@@ -33,16 +33,24 @@ on the mailing list.
 In order to run Diaspora, you will need to install the following dependencies (specific instructions
 follow):
 
-- Build Tools - Packages needed to compile the components that follow.
-- [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're developing mostly on **1.8.7**, but we also support **1.9.2**.  Ruby 1.8.7 comes preinstalled on Mac OS X.)
-- [RubyGems](http://rubygems.org/) - A package manager for Ruby code that we use to download libraries ("gems") that Diaspora uses.
-- [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
-- [MySQL](http://www.mysql.com) - Backend storage engine.
-- [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
-- [libcurl](http://curl.haxx.se/) - A library to make HTTP requests (and much more).
-- [ImageMagick](http://www.imagemagick.org/) - An image processing library we use to resize uploaded photos.
-- [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from GitHub.
-- [Redis](http://redis.io/) - A persistent key-value store that we use via [resque](https://github.com/defunkt/resque) for background job processing.
+- Build tools - Packages needed to compile the components that follow.
+- <a href="http://www.ruby-lang.org" target="_blank">Ruby</a> - The Ruby programming language. 
+(We're developing mostly on **1.8.7**, but we also support **1.9.2**.)
+- <a href="http://rubygems.org/" target="_blank">RubyGems</a> - A package manager for Ruby code 
+that we use to download libraries ("gems") that Diaspora uses.
+- <a href="http://gembundler.com/" target="_blank">Bundler</a> - A gem management tool for Ruby 
+projects.
+- <a href="http://www.mysql.com" target="_blank">MySQL</a> - Backend storage engine.
+- <a href="http://www.openssl.org/" target="_blank">OpenSSL</a> - An encryption library.
+- <a href="http://curl.haxx.se/" target="_blank">libcurl</a> - A library to make HTTP requests 
+(and much more).
+- <a href="http://www.imagemagick.org/" target="_blank">ImageMagick</a> - An image processing 
+library we use to resize uploaded photos.
+- <a href="http://git-scm.com/" target="_blank">Git</a> - A version control system, which you 
+will need to download the Diaspora source code from GitHub.
+- <a href="http://redis.io/" target="_blank">Redis</a> - A persistent key-value store that we 
+use via <a href="https://github.com/defunkt/resque" target="_blank">resque</a> for background 
+job processing.
 
 It looks like a big list, but really, it's not too bad. To get started, pick your operating system 
 from the list:
