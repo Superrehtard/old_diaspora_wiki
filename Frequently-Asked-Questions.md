@@ -2,7 +2,7 @@ We've started adding questions that we see a lot to this page, but it doesn't co
 If you have other questions, the best way to get an answer quickly is to visit us in IRC. 
 You might think, "IRC? For real? Is this 1994 again?" 
 
-Yes. I mean, no! Just think of IRC as the open-source equivalent of a Campfire room. :-) **Links
+Yes. I mean, **no**! Just think of IRC as the open-source equivalent of a Campfire room. **Links
 to IRC channels and mailing lists are at the bottom of this page.**
 
 ## User FAQ
@@ -33,7 +33,7 @@ containing all your information.
 
 See our separate [[aspects FAQ|Aspects FAQ]].
 
-## Podrunner FAQ
+## Installation FAQ
 
 ***What ports does Diaspora need open for communication?***  
 
@@ -114,13 +114,13 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 ***How do I get debug information?***  
 You can use the command  
     tail -f log/development.log
-To watch the dev log.
+to watch the log in development mode.
 
 ***How do I get the latest source?***
 
 Pull the latest from github:
     git pull
-Install any updates to the bundle:
+Install any updates to gems:
     bundle install
     
 ***How do I reset the database to a totally clean state?***
