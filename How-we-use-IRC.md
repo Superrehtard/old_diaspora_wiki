@@ -1,15 +1,16 @@
 If you have questions about anything Diaspora-related, the best way to get an answer 
-quickly is to visit us in IRC. 
+quickly is to visit us in IRC. An IRC "channel" is roughly equivalent to a chatroom, or a
+text-based group chat in Skype, or a Campfire room. 
 
-You might think, "IRC? For real? Is this 1994 again?" 
-
-Yes. I mean, **no**! Just think of IRC as the open-source equivalent of a Campfire room.
+It's fairly low-tech as group communication goes, but since we have contributors all over
+the world in different time zones and with different levels of internet access, it works well
+for us.
 
 ## Channels
 
-We have 3 official IRC channels, each one roughly equivalent to a chatroom. Click the link 
-to the join the channel in a new browser window. You can also download and use an IRC client 
-such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X or <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
+We have 3 official IRC channels. Click the link to the join the channel in a new browser 
+window. You can also download and use an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> 
+for OS X or <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
 
 * <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - general discussion and help for folks installing Diaspora
 * <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
