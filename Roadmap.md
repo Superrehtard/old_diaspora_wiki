@@ -1,22 +1,37 @@
 # Diaspora future thoughts
 
-You can see what we are currently working on [[here, on Diaspora’s Tracker|http://www.pivotaltracker.com/projects/61641]]. Tracker is where we keep our most immediate priorities, and is a good indication of what we are going to be working on in the next 2-3 weeks.
+You can see what the core team is currently working on in [[Diaspora’s Pivotal Tracker project|http://www.pivotaltracker.com/projects/61641]]. 
+Tracker is where we keep our most immediate priorities, and it's a good indication of what we 
+are going to be working on in the next 2 or 3 weeks.
 
 ## Future
-- Data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.
-- Services integration:  Services should be attached to aspects.
-- Server to server authentication:  Right now Diaspora is push-only.  We need servers to be able to authenticate to each other in order to pull data in, and to delegate that authentication to the browser to avoid replicating large files like photos.  This should probably involve token-authenticable in devise.
-- Refining aspects (adding people to multiple groups, having people only in the public group, etc) 
-- More Standards compliance: for instance, we have a salmon implementation, but it's not tested against the spec yet.  It should be made compliant with the salmon spec.
+These are things that are in our plan but haven't come up yet. If you're looking for a feature
+to implement, and any of these strike your fancy, come talk to us in IRC. We may have thoughts
+about how we want these implemented, and we can help you get started.
+
+- Data portability: allow people to Oauth to a new seed and move their entire account 
+to the new seed, and then notify all of their contacts of the change, so people can move 
+around seamlessly.
+- Twitter-style API for posting and searching public posts.
+- Services integration: attach services to particular aspects.
+- Server to server authentication:  Right now Diaspora is push-only.  We need servers to 
+authenticate with each other to pull data in, and to delegate that authentication 
+to the browser to avoid replicating large files like photos.  This should probably involve 
+token-authenticable in devise.
+- Refining aspects - having people only in the public group, a Twitter-style follow model, etc. 
+- More standards compliance: for instance, we have a salmon implementation, but it's not tested 
+against the spec yet.  It should be made compliant with the salmon spec.
 - Events
 - Photo tagging
-- Mentions should be in comments and captions as well.
-- Software Update Framework
-- Some sort of an administrator interface that would do the entire update automatically, something like the way Wordpress can be updated with the click of a button.
+- Mentions and tags should work in comments and captions.
+- Software Update Framework for folks running their own pod.
+- An administrator interface that would do the entire update automatically, like the way 
+Wordpress can be updated through its admin interface.
 
 ## Wishlist
-
-These are things which would be nice to have, and are not currently in our plan, but we would love to have them.
+These are things which would be nice to have, but are not currently in our plan. If you're looking
+for a feature to implement, and any of these strike your fancy, come talk to us in IRC and we'll 
+help you figure out how to get started. 
 
 ### Communication
 
@@ -51,4 +66,6 @@ These are things which would be nice to have, and are not currently in our plan,
   - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services (e.g. PageKite)
   - Can we run Diaspora from a Nexus One?
 
-- In general call us out with more elegant solutions
+## In general
+
+Call us out on existing code that's ugly or untested (or both).
