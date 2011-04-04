@@ -1,10 +1,11 @@
 # How to claim and work on bugs
 
 So you'd like to start contributing, but you don't know where to start? This is a fairly large project,
-which means it's useful to begin with a small fix so you can get used to the codebase. We have an issue/bug tracker  
-(we often use issue and bug interchangably) at <a href="http://bugs.joindiaspora.com" target="_blank">bugs.joindiaspora.com</a>. 
+which means it's useful to begin with a small fix so you can get used to the codebase. We have an issue tracker 
+at <a href="http://bugs.joindiaspora.com" target="_blank">bugs.joindiaspora.com</a>. Note that here
+and elsewhere we often use the terms "issue" and "bug" interchangably.
 
-This page covers how to be assigned a bug, and what to do once you fix it.
+This page covers how to be assigned a bug, and what to do as you work on it.
 
 1. Make an account on the <a href="http://bugs.joindiaspora.com/account/register" target="_blank">Diaspora bug tracker</a>.
 * Make sure you've been added to list of people who can modify bugs on the tracker. This is called the 'Assignee' list.
