@@ -2,7 +2,11 @@
 
 These instructions are for creating a local development instance on Windows XP Professional Service Pack 3.
 
-(This guide is currently a work in progress and is not complete.)
+### Known Problems with this page
+
+* Pictures uploaded into the Diaspora instance become corrupt.
+* Need to add the ability to send e-mail notifications from the instance.
+* SSL support is not tested.
 
 ### Ruby
 
@@ -70,9 +74,9 @@ Open a Command Prompt window and type.
 
     copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby187\bin
 
-### ImageMagicK
+### ImageMagick
 
-Download the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagicK.org](http://www.imagemagick.org/script/binary-releases.php#windows).
+Download the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagick.org](http://www.imagemagick.org/script/binary-releases.php#windows).
 
 ### Git
 
@@ -104,6 +108,12 @@ Open C:\Profile Files\Redis\redis.conf in a text editor and:
 
     Un-comment the bind 127.0.0.1 line.
     Change the loglevel notice.
+
+### Java JRE (Optional)
+
+Browse to the java [website](http://java.com) and click on the Downloads link.  Click on Agree and Start Free Download.  Save the file to your desktop and run it.
+
+* Uncheck Install the Yahoo! Toolbar.
 
 ### Bundler
 
@@ -158,7 +168,7 @@ Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find t
 * In the Extraction Wizard window, click Next twice.
 * Click Finish.
 
-From the Command Prompt and in the Diaspora installation directory run:
+From the Command Prompt run:
 
     C:\Progra~1\RubyDevKit\devkitvars.bat
     set TYPHOEUS_VER=0.2.4
@@ -177,7 +187,7 @@ Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl versi
 
 ### Installing Diaspora (Continued)
 
-From the command line type:
+From the command line while in the Diaspora installation directory type:
 
     C:\Progra~1\RubyDevKit\devkitvars.bat
     bundle install
