@@ -1,10 +1,13 @@
-# Diaspora future thoughts
+# Diaspora Roadmap
 
-You can see what the core team is currently working on in [[Diaspora’s Pivotal Tracker project|http://www.pivotaltracker.com/projects/61641]]. 
+## The Next Few Weeks
+
+You can see what the core team is currently working on in <a href="http://www.pivotaltracker.com/projects/61641" target="_blank">Diaspora’s Pivotal Tracker project</a>. 
 Tracker is where we keep our most immediate priorities, and it's a good indication of what we 
 are going to be working on in the next 2 or 3 weeks.
 
-## Future
+## And Beyond...
+
 These are things that are in our plan, but haven't yet come to the front of the priority queue. 
 If you're looking for a feature to implement, and any of these strike your fancy, come talk to 
 us in IRC first. We may have thoughts about how we want these implemented, and we can help you 
