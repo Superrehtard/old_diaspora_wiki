@@ -11,6 +11,7 @@ Projects in the same broad technology space as Diaspora.
 * <a href="http://friendika.com" target="_blank">Friendika</a> using the <a href="http://info.dfrn.org/?page_id=2" target="_blank">Distributed Friends and Relations Network</a> protocol
 * <a href="http://www.gnu.org/software/social/" target="_blank">GNU social</a>
   * <a href="http://daisycha.in/" target="_blank">daisycha.in</a>
+* <a href="http://opensource.appleseedproject.org/" target="_blank">Appleseed</a>
 * <a href="http://open.buddycloud.com" target="_blank">buddycloud channels</a>
   
 ## FreedomBox Foundation
