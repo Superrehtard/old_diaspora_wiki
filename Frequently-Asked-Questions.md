@@ -42,8 +42,7 @@ this page, in general.
 
 ***What ports does Diaspora need open for communication?***  
 
-* Your server must be on port 80, or you must forward 80 to 3000. Otherwise friend requests may 
-cause lockups on other servers. See the command-line switches below.
+* Your server must be on either port 80 for HTTP or 443 for HTTPS. You must forward that port to 3000. Otherwise friend requests may cause lockups on other servers. See the command-line switches below.
 
 * Your server should also have 8080 available for websockets. <a href="http://en.wikipedia.org/wiki/WebSockets" target="_blank">Websockets</a> 
 are how the browser talks in 'real time' to the server. They are not required for basic pod 
