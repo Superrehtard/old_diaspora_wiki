@@ -1,9 +1,10 @@
 # How to claim and work on bugs
 
-So you'd like to start contributing, but you don't know where to start? Often, on a new project,
-it's useful to begin with a small fix so you can get used to the codebase. We have an issue tracker 
-at <a href="http://bugs.joindiaspora.com" target="_blank">bugs.joindiaspora.com</a>. This page 
-covers how to be assigned a bug, and what to do once you fix it.
+So you'd like to start contributing, but you don't know where to start? This is a fairly large project,
+which means it's useful to begin with a small fix so you can get used to the codebase. We have an issue/bug tracker  
+(we often use issue and bug interchangably) at <a href="http://bugs.joindiaspora.com" target="_blank">bugs.joindiaspora.com</a>. 
+
+This page covers how to be assigned a bug, and what to do once you fix it.
 
 1. Make an account on the <a href="http://bugs.joindiaspora.com/account/register" target="_blank">Diaspora bug tracker</a>.
 * Make sure you've been added to list of people who can modify bugs on the tracker. This is called the 'Assignee' list.
@@ -17,8 +18,8 @@ covers how to be assigned a bug, and what to do once you fix it.
     * Finding a bug to work on
         * You can peruse the <a href="http://bugs.joindiaspora.com/projects/diaspora/issues" target="_blank">list of all issues</a>
         * On the right hand side of the Issues page, there are some handy queries that might help narrow down the list.
-              * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7" target="_blank">Quickfixes for new developers</a>
-              * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5" target="_blank">Confirmed bugs</a>
+          * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7" target="_blank">Quickfixes for new developers</a>
+          * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5" target="_blank">Confirmed bugs</a>
 * Updating the issue's progress
 
    * To change any fields mentioned: Scroll to the bottom of the issue page and click 'Update'. From there you can edit the issue.
