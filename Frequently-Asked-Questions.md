@@ -40,11 +40,10 @@ See our separate [[aspects FAQ|Aspects FAQ]].
 * Your server must be on port 80, or you must forward 80 to 3000. Otherwise friend requests may 
 cause lockups on other servers. See the command-line switches below.
 
-* Your server must also have 8080 available for websockets.  
-[Websockets](http://en.wikipedia.org/wiki/WebSockets) are how the browser talks in 'real time' 
-to the server. Note that they are not required for basic pod operation, nor for inter-pod 
-communication. Since many hosting providers don't allow you to open 8080, you may consider them 
-a nice-to-have.
+* Your server should also have 8080 available for websockets. [Websockets](http://en.wikipedia.org/wiki/WebSockets) 
+are how the browser talks in 'real time' to the server. They are not required for basic pod 
+operation, nor for inter-pod communication. Since many hosting providers don't allow you to 
+open 8080, you may consider them a nice-to-have.
 
 * Due to a bug, your server must block, not just filter out (->timeout), port 443.
 
