@@ -40,7 +40,7 @@ See our separate [[aspects FAQ|Aspects FAQ]].
 * Your server must be on port 80, or you must forward 80 to 3000. Otherwise friend requests may 
 cause lockups on other servers. See the command-line switches below.
 
-* Your server should also have 8080 available for websockets. [Websockets](http://en.wikipedia.org/wiki/WebSockets) 
+* Your server should also have 8080 available for websockets. <a href="http://en.wikipedia.org/wiki/WebSockets" target="_blank">Websockets</a> 
 are how the browser talks in 'real time' to the server. They are not required for basic pod 
 operation, nor for inter-pod communication. Since many hosting providers don't allow you to 
 open 8080, you may consider them a nice-to-have.
@@ -49,15 +49,16 @@ open 8080, you may consider them a nice-to-have.
 
 ***Can I use Apache to run Diaspora?***
 
-Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.)
+Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.
 
 ***What are the command line options for launching thin (Diaspora's HTTP server)?***  
 
 There are a couple of helpful command line options for setting the address and port for thin:
     bundle exec thin -a <address> -p <port> start
-**Note:** If you are running Diaspora on port 80, the command above needs to be executed as root, that is with su or sudo in front of it. eg. On Ubuntu, Arch et al. "sudo bundle exec thin -p 80 start"
+**Note:** If you are running Diaspora on port 80, the command above needs to be executed as root - i.e., with su or sudo in front of it. 
+For example, on Ubuntu, Arch et al. do <code>sudo bundle exec thin -p 80 start</code>
 
-**-D** will turn on debug mode.  Run **thin -h** to see a complete list.
+**-D** will turn on debug mode.  Run <code>thin -h</code> to see a complete list.
 
 ***How do I install on other distros?***
 
@@ -68,7 +69,7 @@ and some guides to install it manually:
 [Unofficial guide for Arch Linux installation 1 (Arch Linux Forums)](https://bbs.archlinux.org/viewtopic.php?pid=826763#p826763)<br>
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 
-***Once I get my pod running, how do I disable outside logins?***  
+***I've got my pod running. How do I disable outside logins?***  
 
 Change <code>registrations_closed</code> in config/app_config.yml from false to true, and then
 restart the server.
@@ -85,7 +86,7 @@ Close the port, make it do connection refused, not timeout.
 Apache config:  
 http://codepaste.net/yzkngy
 
-*** How to backup the database?***  
+*** How do I back up the database?***  
 
 From the command line type:  
     mysqldump -u <mysql username> -p diaspora_development > backup.sql
@@ -130,7 +131,7 @@ Install any updates to the bundle:
     
 ## What if my question isn't answered here?
 
-# IRC Channels
+### IRC Channels
 
 IRC is the best way to get an answer quickly. Click the link to the join the channel in a new 
 browser window. You can also download and use an IRC client such as 
@@ -141,7 +142,7 @@ browser window. You can also download and use an IRC client such as
 * <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
 * <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - discussion in German.
 
-# Mailing lists
+### Mailing lists
 
 We have two mailing lists, both Google groups. They tend to have a slightly different audience than
 the IRC channels, so if you can't get your question answered in IRC, you can try here.
