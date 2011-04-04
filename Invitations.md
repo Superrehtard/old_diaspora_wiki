@@ -28,3 +28,5 @@ Some folks have had success posting an invitation request to Twitter with
 <a href="http://twitter.com/#search?q=%23diaspora" target="_blank">hashtag #diaspora</a>.
 
 There is also an Identi.ca group called <a href="http://identi.ca/group/diasporainvites">!diasporainvites</a> to which you can post to request an invitation.
+
+There is also a <a href="http://www.reddit.com/r/technology/comments/g9pw5/the_diaspora_invite_diaspora/?sort=new">diaspora invite party on reddit.com</a>. You can post a comment with your email or pm someone who has invites.
