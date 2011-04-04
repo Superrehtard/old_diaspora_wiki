@@ -11,12 +11,13 @@ anywhere on the site.
 ## General Resources
 * [[So, you want an invite?|Invitations]]
 * [[Report a bug|Report a Bug]]
-* [[Community-supported Diaspora servers|Community-supported pods]]
 * Frequently Asked Questions 
    * [[General|Frequently Asked Questions]]
    * [[About aspects|Aspects FAQ]]
 * [[What's new?|Changelog]]
 * [[Product roadmap|Roadmap]]
+* [[Community-supported Diaspora servers|Community-supported pods]]
+* [[Related and similar projects|Other projects]]
 
 ## Developer Resources
 * [[Installing and Running Diaspora]]
@@ -60,4 +61,4 @@ These are all external links.
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
 * [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
 * [Questions & answers](http://diaspora.shapado.com/) - The StackOverflow clone for Diaspora
-* [[Other projects]] - links elsewhere
+
