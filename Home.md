@@ -16,7 +16,7 @@ anywhere on the site.
    * [[General|Frequently Asked Questions]]
    * [[About aspects|Aspects FAQ]]
 * [[What's new?|Changelog]]
-* [[Product Roadmap|Roadmap]]
+* [[Product roadmap|Roadmap]]
 
 ## Developer Resources
 * [[Installing and Running Diaspora]]

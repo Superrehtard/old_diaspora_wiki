@@ -103,7 +103,4 @@ Note: If you get an error in the next step try to run
 
 and try the step again.
 
-
-
-
-The following parts are common to all operating systems, so go back to [[Installing and Running Diaspora]].
+Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].

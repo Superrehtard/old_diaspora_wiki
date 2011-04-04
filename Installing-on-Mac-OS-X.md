@@ -4,19 +4,13 @@ These instructions are for Mac OS X 10.6 (Snow Leopard).
 
 ### Package Management
 
-We suggest using a package management system to download dependencies, where possible.
-Trust us, it's going to make your life a lot easier.
-Install [Homebrew](http://mxcl.github.com/homebrew/)
+Install <a href="http://mxcl.github.com/homebrew/" target="_blank">Homebrew</a> and then come
+back here.
 
 ### Build Tools
 
-To install build tools, you need to download and install
-[Xcode](http://developer.apple.com/technologies/tools/xcode.html).
+To install build tools, you need to download and install <a href="http://developer.apple.com/technologies/tools/xcode.html" target="_blank">Xcode</a>.
 It's a large download; it also comes on your OS X DVD.
-
-### Ruby
-
-You already have Ruby 1.8.7 on your system.  Yay!
 
 ### MySQL
 
@@ -24,20 +18,12 @@ To install MySQL, run the following:
 
         brew install mysql
 
-Install the [MySQL Preference Pane](http://creativeeyes.at/tools/mysqlpp.php) to control the MySQL daemon easily.
+Install the <a href="http://creativeeyes.at/tools/mysqlpp.php" target="_blank">MySQL Preference Pane</a> to control the MySQL daemon easily.
 Alternatively, you can run
 
         sudo mysqladmin start
 
-from Terminal.
-
-### OpenSSL
-
-You already have OpenSSL installed.
-
-### libcurl
-
-Everything should be okay already.
+from Terminal to start the MySQL server.
 
 ### ImageMagick
 
@@ -70,7 +56,4 @@ To install Bundler, run the following:
 
         sudo gem install bundler 
 
-
-
-
-The following parts are common to all operating systems, so go back to [[Installing and Running Diaspora]].
+Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].

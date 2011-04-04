@@ -24,14 +24,6 @@ To start MySQL run
 
         su -c 'service mysqld start'
 
-### OpenSSL
-
-You already have OpenSSL installed.
-
-### libcurl
-
-Everything should be okay already.
-
 ### ImageMagick
 
 To install ImageMagick, run the following:
@@ -62,7 +54,4 @@ To install Bundler, run the following:
 
         su -c  'gem install bundler'
 
-
-
-
-The following parts are common to all operating systems, so go back to [[Installing and Running Diaspora]].
+Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
