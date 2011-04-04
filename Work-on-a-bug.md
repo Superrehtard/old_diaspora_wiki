@@ -9,7 +9,7 @@ This page covers how to be assigned a bug, and what to do as you work on it.
 
 1. Make an account on the <a href="http://bugs.joindiaspora.com/account/register" target="_blank">Diaspora bug tracker</a>.
 * Make sure you've been added to list of people who can modify bugs on the tracker. This is called the 'Assignee' list.
-    * Someone on IRC should be able to help you out. See [webchat](http://diasporatest.com/index.php/Beginning_IRC_with_Diaspora) for how to get into IRC.
+    * Someone on IRC should be able to help you out. See [[how we use IRC|How-we-use-IRC]] for access information.
 * Claim an issue
     1. If you [[created a bug|Report-a-bug]] that you want to work on, assign it to yourself.
       * You can see a list of your activity by following <a href="http://bugs.joindiaspora.com/my/page" target="_blank">My Page</a> when you're logged in to the bug tracker.
