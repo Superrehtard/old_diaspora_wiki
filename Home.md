@@ -8,7 +8,7 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
 As long as you're logged in to your Github account, feel free to click that "Edit Page" button
 anywhere on the site.
 
-## End User Resources
+## General Resources
 * [[So, you want an invite?|Invitations]]
 * [[Report a bug|Report a Bug]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
