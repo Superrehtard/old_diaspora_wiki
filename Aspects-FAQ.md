@@ -1,5 +1,3 @@
-## All About Aspects
-
 ***What is an aspect?***
 
 **Aspects** are the way you group your contacts on Diaspora. An aspect is one of the faces you 
