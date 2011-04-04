@@ -35,6 +35,11 @@ See our separate [[aspects FAQ|Aspects FAQ]].
 
 ## Installation FAQ
 
+***Do you have a detailed install guide?***
+
+Yes. [[Check it out!|Installing and Running Diaspora]] It will probably be more up-to-date than
+this page, in general.
+
 ***What ports does Diaspora need open for communication?***  
 
 * Your server must be on port 80, or you must forward 80 to 3000. Otherwise friend requests may 
@@ -62,7 +67,6 @@ For example, on Ubuntu, Arch et al. do <code>sudo bundle exec thin -p 80 start</
 
 ***How do I install on other distros?***
 
-[Unofficial guide for Windows installation](http://tom.net.nz/2010/09/installing-diaspora-on-windows/)<br>
 [Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)<br>
 There is a [AUR package](http://aur.archlinux.org/packages.php?ID=40859) for Arch Linux<br>
 and some guides to install it manually:  
