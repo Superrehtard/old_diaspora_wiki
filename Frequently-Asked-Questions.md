@@ -1,6 +1,16 @@
-This page documents questions that we see a lot. It probably doesn't cover everything. 
-If you have other questions, please try #diaspora on irc.freenode.net,
-or our [[Google Group|http://groups.google.com/group/diaspora-discuss]].
+We've started adding questions that we see a lot to this page, but it doesn't cover everything.
+If you have other questions, the best way to get an answer quickly is to visit us on IRC. 
+Yeah, I know, IRC - is this 1994 again? Just think of it as the open-source equivalent of 
+a Campfire room. :-)
+
+## IRC Channels
+Click the link to the join the channel in a new browser window. You can also download and use 
+an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X or 
+<a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
+
+* <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - general discussion and help for folks installing Diaspora
+* <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
+* <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - discussion in German.
 
 ## User FAQ
 
