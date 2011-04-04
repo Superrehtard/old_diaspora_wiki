@@ -19,19 +19,20 @@ Projects in the same broad technology space as Diaspora.
 Diaspora was inspired by Eben Moglen's talk about the FreedomBox. Now he's established his
 own foundation to make it happen.
 
-* [[http://wiki.debian.org/FreedomBox]]
-* [[Eben moglen interview|http://www.h-online.com/open/features/Interview-Eben-Moglen-Freedom-vs-the-Cloud-Log-955421.html]]
-* [[Eben moglen - Freedom in The Cloud|http://www.youtube.com/watch?v=QOEMv0S8AcA]]
+* <a href="http://wiki.debian.org/FreedomBox" target="_blank">FreedomBox on the Debian wiki</a>
+* <a href="http://www.h-online.com/open/features/Interview-Eben-Moglen-Freedom-vs-the-Cloud-Log-955421.html" target="_blank">Eben Moglen interview</a>
+* <a href="http://www.youtube.com/watch?v=QOEMv0S8AcA" target="_blank">Eben Moglen - Freedom in The Cloud</a> - the talk that launched Diaspora
 
 ## Rails Projects
 
-* [[EngineY - A Rails-based Social Networking and Content Management Framework|http://www.enginey.com]]
+Other social networking projects in the Ruby and/or Rails space.
+
+* <a href="http://www.enginey.com" target="_blank">EngineY</a> - A Rails-based social networking and content management framework
+* <a href="http://rstat.us" target="_blank">rstat.us</a>
   
-## Other interesting articles
+## Other Resources
 
-[[ProjectComparison|http://gitorious.org/social/pages/ProjectComparison]]
+<a href="http://gitorious.org/social/pages/ProjectComparison" target="_blank">ProjectComparison</a> compares the features, 
+protocols, and maturity of different FSN software packages.
 
-[[http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/]]
-
-[[Netention|http://github.com/automenta/netentionweb]]
-
+<a href="http://blogs.forbes.com/velocity/2010/03/10/social-games-look-to-outgrow-facebook/" target="_blank">Social Games Look to Outgrow Facebook</a> (article at Forbes.com)
