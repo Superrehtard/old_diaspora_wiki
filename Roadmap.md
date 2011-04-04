@@ -5,9 +5,10 @@ Tracker is where we keep our most immediate priorities, and it's a good indicati
 are going to be working on in the next 2 or 3 weeks.
 
 ## Future
-These are things that are in our plan but haven't come up yet. If you're looking for a feature
-to implement, and any of these strike your fancy, come talk to us in IRC. We may have thoughts
-about how we want these implemented, and we can help you get started.
+These are things that are in our plan, but haven't yet come to the front of the priority queue. 
+If you're looking for a feature to implement, and any of these strike your fancy, come talk to 
+us in IRC first. We may have thoughts about how we want these implemented, and we can help you 
+get started.
 
 - Data portability: allow people to Oauth to a new seed and move their entire account 
 to the new seed, and then notify all of their contacts of the change, so people can move 
@@ -44,26 +45,38 @@ help you figure out how to get started.
   4. The receiving server verifies the response and processes the request.
 
 - GPG public/private key + Key signing = Global keys with social keysigning :D
-- An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS on a status message before sending it out to your friends. (see gmail undo)
-- activity streams parser and sterilizer, based off the spec, which gives you ruby objects for valid streams (the easy solution would probably make methods in our models to_activity and from_activity)
-- Private pubsubhubbub implementation, check out both the “from” and “oauth” authentication methods. (note maxwell: i may have some code to dump onto the Internet, i need to write some more tests)
-- A DHT (distributed hash table) to serve as a directory of Diaspora Users/seeds installed over the internet to help with discovery.
-- either make websocket controller less terrible or stop using it: perhaps break it out so other rails projects ? have a framework for using it?
+- An “undo” library for Jquery that gives a timeout on posting forms, so you can make an OOPS 
+on a status message before sending it out to your friends. (see gmail undo)
+- activity streams parser and sterilizer, based off the spec, which gives you ruby objects for 
+valid streams. The easy solution would probably make methods in our models to_activity and 
+from_activity.
+- Private pubsubhubbub implementation, check out both the “from” and “oauth” authentication methods.
+(Note from Maxwell: I may have some code to dump onto the Internet...I need to write some more tests.)
+- A DHT (distributed hash table) to serve as a directory of Diaspora Users/seeds installed over the 
+internet, to help with discovery.
+- Either make websocket controller less terrible or stop using it: perhaps break it out so other 
+rails projects have a framework for using it?
 - Chat client integration using web sockets?
-- Other crazy Websocket experiments: We are just using it to push data to the client, but can we use it to connect people or two seeds for real time games?
-- Double checking our salmon implementation.... is it up to spec?
-- Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
-- Selenium tests that hit every page would be super nice. The framework for this is started and can be found in cucumber/
+- Other crazy Websocket experiments: We are just using it to push data to the client, but can we use 
+it to connect people or two seeds for real time games?
+- Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, 
+Cucumber, whatever.  If you wrote tests, we would love you forever.
+- Selenium tests that hit every page would be super nice. The framework for this is started and can 
+be found in the features directory.
 - An object oriented ruby wrapper for libgcrypt
-  - We initially used gpg for encryption, but the tight binding it has to filesystem config folders made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby wrapper, it would be too time consuming.
-- Javascript compatible view templates (handlebars.js looks promising)
-- Taxonomy of social types: creating interfaces for all of the activity stream types, so people could make and send their own types on the file in between diaspora seeds. could be tied to the parser/generator?
+  - We initially used gpg for encryption, but the tight binding it has to filesystem config folders 
+  made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby 
+  wrapper, it would be too time consuming.
+- Javascript compatible view templates (handlebars/mustache looks promising)
+- Taxonomy of social types: creating interfaces for all of the activity stream types, so people 
+could make and send their own types on the file in between diaspora seeds. Could be tied to the 
+parser/generator?
 
 ### Deployment
 - Running Diaspora from home:
   - Guide for setting up a diaspora instance on your home computer, like [GNU Social’s](http://foocorp.net/projects/fooplug/)
   - Option to have a performant data on disk encryption
-  - Windows/Linux/Mac installers/ and intergration with Dynamic DNS services (e.g. PageKite)
+  - Windows/Linux/Mac installers and intergration with Dynamic DNS services (e.g. PageKite)
   - Can we run Diaspora from a Nexus One?
 
 ## In general
