@@ -1,25 +1,30 @@
-# How to claim, work on, and advance bugs
+# How to claim and work on bugs
 
-1. Create an [issue profile](http://bugs.joindiaspora.com/account/register)
-* Make sure you've been added to the 'Assignee' list on the tracker
-    * Someone on IRC should be available to help you out (see [webchat](http://diasporatest.com/index.php/Beginning_IRC_with_Diaspora))
+So you'd like to start contributing, but you don't know where to start? Often, on a new project,
+it's useful to begin with a small fix so you can get used to the codebase. We have an issue tracker 
+at <a href="http://bugs.joindiaspora.com" target="_blank">bugs.joindiaspora.com</a>. This page 
+covers how to be assigned a bug, and what to do once you fix it.
+
+1. Make an account on the <a href="http://bugs.joindiaspora.com/account/register" target="_blank">Diaspora bug tracker</a>.
+* Make sure you've been added to list of people who can modify bugs on the tracker. This is called the 'Assignee' list.
+    * Someone on IRC should be able to help you out. See [webchat](http://diasporatest.com/index.php/Beginning_IRC_with_Diaspora) for how to get into IRC.
 * Claim an issue
-    1. If you [created](https://github.com/diaspora/diaspora/wiki/Report-a-bug) a bug for yourself to work on, assign it to yourself
-        * You can see a list of your activity by following the link [My Page](http://bugs.joindiaspora.com/my/page)
-        * Click on an issue
-        * Scroll to the bottom of the page and click on the 'Update' link
-        * In the list of 'Assignee's, select your username
-    * Finding issues
-        * You can peruse the issues page ([Issues](http://bugs.joindiaspora.com/projects/diaspora/issues))
-        * On the right hand side of the Issues page, you'll notice quick links to numerous handy queries
-            * Quickfixes for new developers [http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7](http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7)
-            * Confirmed [http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5](http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5)
+    1. If you [[created a bug|Report-a-bug]] that you want to work on, assign it to yourself.
+      * You can see a list of your activity by following <a href="http://bugs.joindiaspora.com/my/page" target="_blank">My Page</a> when you're logged in to the bug tracker.
+      * Click on an issue
+      * Scroll to the bottom of the page and click 'Update'
+      * In the list of 'Assignee' people, select your username.
+    * Finding a bug to work on
+        * You can peruse the <a href="http://bugs.joindiaspora.com/projects/diaspora/issues" target="_blank">list of all issues</a>
+        * On the right hand side of the Issues page, there are some handy queries that might help narrow down the list.
+              * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7" target="_blank">Quickfixes for new developers</a>
+              * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5" target="_blank">Confirmed bugs</a>
 * Updating the issue's progress
 
-   * To change any fields mentioned: Scroll to the bottom of the issue page and click on the 'Update' link, from there you can edit the issue
+   * To change any fields mentioned: Scroll to the bottom of the issue page and click 'Update'. From there you can edit the issue.
  
    1. If someone has duplicated the issue, mark the issue status 'Confirmed'
-    * Ideally, there should be a spec written for this bug, if you've done this, mark the issue 'Isolated'
+    * Ideally, there should be a spec written for this bug. If you've done this, mark the issue 'Isolated'
     * If a pull request has been made for the issue, senior members will set the status 'Awaiting Acceptance'
     * As you make progress, particularly if the fix is more than a day, please set the '% Done' to something meaningful
  * Don't forget about the all important [git](https://github.com/diaspora/diaspora/wiki/Git-Workflow)
