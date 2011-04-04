@@ -58,7 +58,9 @@ Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache
 ***What are the command line options for launching thin (Diaspora's HTTP server)?***  
 
 There are a couple of helpful command line options for setting the address and port for thin:
+
     bundle exec thin -a <address> -p <port> start
+
 **Note:** If you are running Diaspora on port 80, the command above needs to be executed as root - i.e., with su or sudo in front of it. 
 For example, on Ubuntu, Arch et al. do <code>sudo bundle exec thin -p 80 start</code>
 
