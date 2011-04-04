@@ -1,7 +1,9 @@
-## Other Federated Social Networking Projects
+## Federated Social Networking Projects
 
-* rStatus
-* [[OStatus|http://ostatus.org/]]
+* <a href="http://ostatus.org" target="_blank">OStatus</a>
+  * <a href="http://rstat.us" target="_blank">rstat.us</a>
+  * <a href="http://status.net" target="_blank">Status.Net</a>
+  * <a href="http://identi.ca" target="_blank">Identi.ca</a>
 * [[Friendika|http://friendika.com]] using the [[Distributed Friends and Relations Network Protocol|http://info.dfrn.org/?page_id=2]]
 * [[GNU social|http://www.gnu.org/software/social/]]
 * [[buddycloud channels|http://open.buddycloud.com]]
