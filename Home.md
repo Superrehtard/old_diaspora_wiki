@@ -59,7 +59,5 @@ These are all external links.
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
 * [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
-* [Questions & answers](http://diaspora.shapado.com/) - The SO clone for diaspora
-* [Unofficial Live DVD](http://github.com/diaspora/diaspora/wiki/Unofficial-Diaspora-Live-DVD) - A community driven Live DVD distribution of Diaspora
-* [Diaspora mediawiki](http://diasporatest.com) - wiki for general information on Diaspora project. 
+* [Questions & answers](http://diaspora.shapado.com/) - The StackOverflow clone for Diaspora
 * [[Other projects]] - links elsewhere
