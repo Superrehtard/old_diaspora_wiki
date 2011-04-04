@@ -6,11 +6,12 @@ Projects in the same broad technology space as Diaspora.
 
 * <a href="http://ostatus.org" target="_blank">OStatus</a>
   * <a href="http://rstat.us" target="_blank">rstat.us</a>
-  * <a href="http://status.net" target="_blank">Status.Net</a>
+  * <a href="http://status.net" target="_blank">StatusNet</a>
   * <a href="http://identi.ca" target="_blank">Identi.ca</a>
-* [[Friendika|http://friendika.com]] using the [[Distributed Friends and Relations Network Protocol|http://info.dfrn.org/?page_id=2]]
-* [[GNU social|http://www.gnu.org/software/social/]]
-* [[buddycloud channels|http://open.buddycloud.com]]
+* <a href="http://friendika.com" target="_blank">Friendika</a> using the <a href="http://info.dfrn.org/?page_id=2" target="_blank">Distributed Friends and Relations Network</a> protocol
+* <a href="http://www.gnu.org/software/social/" target="_blank">GNU social</a>
+  * <a href="http://daisycha.in/" target="_blank">daisycha.in</a>
+* <a href="http://open.buddycloud.com" target="_blank">buddycloud channels</a>
   
 ## FreedomBox Foundation
 
