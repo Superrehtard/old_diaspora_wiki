@@ -26,3 +26,5 @@ for details.
 
 Some folks have had success posting an invitation request to Twitter with 
 <a href="http://twitter.com/#search?q=%23diaspora" target="_blank">hashtag #diaspora</a>.
+
+There is also an Identi.ca group called <a href="http://identi.ca/group/diasporainvites">!diasporainvites</a> to which you can post to request an invitation.
