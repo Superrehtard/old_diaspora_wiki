@@ -21,12 +21,10 @@ This page covers how to be assigned a bug, and what to do as you work on it.
         * On the right hand side of the Issues page, there are some handy queries that might help narrow down the list.
           * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=7" target="_blank">Quickfixes for new developers</a>
           * <a href="http://bugs.joindiaspora.com/projects/diaspora/issues?query_id=5" target="_blank">Confirmed bugs</a>
-* Updating the issue's progress
-
-   * To change any fields mentioned: Scroll to the bottom of the issue page and click 'Update'. From there you can edit the issue.
- 
-   1. If someone has duplicated the issue, mark the issue status 'Confirmed'
+* Before you start working on the bug, read about [[how we use git|Git-Workflow]].
+* Updating the bug's progress
+   1. To change any fields mentioned: Scroll to the bottom of the issue page and click 'Update'. From there you can edit the issue.
+    * If someone has duplicated the issue, mark the issue status 'Confirmed'
     * Ideally, there should be a spec written for this bug. If you've done this, mark the issue 'Isolated'
     * If a pull request has been made for the issue, senior members will set the status 'Awaiting Acceptance'
     * As you make progress, particularly if the fix is more than a day, please set the '% Done' to something meaningful
- * Don't forget about the all important [git](https://github.com/diaspora/diaspora/wiki/Git-Workflow)
