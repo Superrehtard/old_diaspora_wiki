@@ -1,4 +1,8 @@
-## Federated Social Networking Projects
+# Similar and Related Projects
+
+## Federated Social Networking
+
+Projects in the same broad technology space as Diaspora.
 
 * <a href="http://ostatus.org" target="_blank">OStatus</a>
   * <a href="http://rstat.us" target="_blank">rstat.us</a>
@@ -8,9 +12,10 @@
 * [[GNU social|http://www.gnu.org/software/social/]]
 * [[buddycloud channels|http://open.buddycloud.com]]
   
-## Related projects
+## FreedomBox Foundation
 
-**Freedom Box Foundation**
+Diaspora was inspired by Eben Moglen's talk about the FreedomBox. Now he's established his
+own foundation to make it happen.
 
 * [[http://wiki.debian.org/FreedomBox]]
 * [[Eben moglen interview|http://www.h-online.com/open/features/Interview-Eben-Moglen-Freedom-vs-the-Cloud-Log-955421.html]]
