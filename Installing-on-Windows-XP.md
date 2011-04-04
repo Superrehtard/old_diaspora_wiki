@@ -198,36 +198,33 @@ Follow the Set up the database section on the main Installing and Running Diaspo
 
 ### Running Diaspora
 
-This process needs to be improved, but for now open four Command Prompt windows.
-
-In the first Command Prompt window type:
+Create a batch file named server.bat in C:\Progra~1\Diaspora\script.  Put this into the batch file.
 
     net start mysql
-    cd C:\Progra~1\Redis
-    redis-server redis.conf
 
-If a Windows Firewall dialogs appears close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
-
-After Redis is started in the first window, type the following in the second Command Prompt window:
-
+    set DIASPORA_PATH=C:\Progra~1\Diaspora
     set RAILS_ENV=development
-    cd C:\Progra~1\Diaspora
-    bundle exec ruby ./script/websocket_server.rb
-
-When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
-
-In the third Command Prompt window, type:
-
-    set RAILS_ENV=development
+    set REDIS_PATH=C:\Progra~1\Redis
     set QUEUE=*
-    cd C:\Progra~1\Diaspora
-    bundle exec rake resque:work
 
-In the fourth and final Command Prompt window type:
+    cd %REDIS_PATH%
+    start redis-server redis.conf
+
+    cd %DIASPORA_PATH%
+    start bundle exec ruby .\script\websocket_server.rb
+    start bundle exec rake resque:work
+    bundle exec thin -e %RAILS_ENV% -a 127.0.0.1 -p 3000 start.bat
+
+Start the server and needed processes by typing.
+
+    c:\Progra~1\Diaspora\script\server.bat
+
+This will spawn three additional Command Prompt windows.
     
-    set RAILS_ENV=development
-    cd C:\Progra~1\Diaspora
-    bundle exec thin start -e development -a 127.0.0.1 -p 3000
+A Windows Firewall dialog will appear in the following situations:
+
+*  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
+*  When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
 
 ### Create an Account
 
