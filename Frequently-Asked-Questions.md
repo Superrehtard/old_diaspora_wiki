@@ -11,10 +11,6 @@ to IRC channels and mailing lists are at the bottom of this page.**
 
 Yes. For a list of unofficial, community-driven servers, see [[Community supported pods]].
 
-You can check the version of some of these pods by clicking "DEBUG INFO" at the very bottom 
-of each page. That should show you the commit id and (more importantly) the commit date. Not
-all pods turn this feature on, however.
-
 ***What is a pod?***  
 
 A pod is a server where Diaspora is running. There are lots of different pods, some run . You can add friends from other pods and communicate with them.
