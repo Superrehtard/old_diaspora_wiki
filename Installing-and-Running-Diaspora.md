@@ -1,25 +1,42 @@
 ## Introduction
 
-Diaspora is run on a network of connected servers, or "pods." This document contains technical information for installing the necessary software to run a pod yourself, either for development, or as a new pod on the Diaspora network.
+Diaspora is run on a network of connected servers, or "pods." This document contains technical 
+information for installing the necessary software to run a pod yourself, either for development, 
+or as a new pod on the Diaspora network.
 
-If you just want to **use** Diaspora, you don't need to set up your own pod -- you can join an [existing pod](https://github.com/diaspora/diaspora/wiki/Community-supported-pods) running the Diaspora software. The pod you join could be one run by a friend, your university, or the official pod, run by the project’s founders, at [joindiaspora.com](http://joindiaspora.com). All of the Diaspora pods communicate and make up the Diaspora Network.
+If you just want to **use** Diaspora, you don't need to set up your own pod -- you can join an 
+[[existing pod|Community-supported-pods]] running the Diaspora software. The pod you join could 
+be one run by a friend, your university, or the official pod, run by the project’s founders, at 
+<a href="http://joindiaspora.com" target="_blank">joindiaspora.com</a>. All of the Diaspora pods 
+communicate and make up the Diaspora Network.
 
-If you still want to run your own pod… we salute you. Read on.
+If you still want to run your own pod...we salute you. Read on.
 
 ## Things To Know
 
-0. The install is a bit complex. We can help, though. **If you run into problems, please visit us in IRC, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
+0. The install is a bit complex. We can help, though. **If you run into problems, please visit us 
+in IRC, on freenode, in [#diaspora](http://webchat.freenode.net/?channels=diaspora).**
 
-1. We are developing Diaspora for the latest and greatest browsers, so please update your Firefox, Chrome or Safari to the newest version. We do not currently support any version of Internet Explorer, though support is planned in the future.
+1. We are developing Diaspora for the latest and greatest browsers, so please update your 
+Firefox, Chrome or Safari to the newest version. We do not currently support any version of 
+Internet Explorer, though support is planned in the future.
 
-2. On joindiaspora.com, we run the application using [thin](http://code.macournoyer.com/thin/) as our application server and [nginx](http://wiki.nginx.org/Main) as our web server. You can use another application server (passenger, mongrel…), or another web server (apache, unicorn…), but the core team may not have the expertise to help you set it up. There are folks in the community who do run Diaspora this way though, so ask around in irc and on the mailing list.
+2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">thin</a> 
+as our application server and <a href="http://wiki.nginx.org/Main" target="_blank">nginx</a> as 
+our web server. You can use another application server (passenger, mongrel...), or another web 
+server (apache, unicorn...), but the core team may not have the expertise to help you set it up. 
+There are folks in the community who do run Diaspora this way though, so ask around in irc and 
+on the mailing list.
 
 ## Preparing your system
 
-In order to run Diaspora, you will need to install the following dependencies (specific instructions follow):
+In order to run Diaspora, you will need to install the following dependencies (specific instructions
+follow):
 
 - Build Tools - Packages needed to compile the components that follow.
 - [Ruby](http://www.ruby-lang.org) - The Ruby programming language. (We're developing mostly on **1.8.7**, but we also support **1.9.2**.  Ruby 1.8.7 comes preinstalled on Mac OS X.)
+- [RubyGems](http://rubygems.org/) - A package manager for Ruby code that we use to download libraries ("gems") that Diaspora uses.
+- [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
 - [MySQL](http://www.mysql.com) - Backend storage engine.
 - [OpenSSL](http://www.openssl.org/) - An encryption library. (It comes preinstalled on Mac OS X and Ubuntu.)
 - [libcurl](http://curl.haxx.se/) - A library to make HTTP requests (and much more).
@@ -27,29 +44,28 @@ In order to run Diaspora, you will need to install the following dependencies (s
 - [Git](http://git-scm.com/) - A version control system, which you will need to download the Diaspora source code from GitHub.
 - [Redis](http://redis.io/) - A persistent key-value store that we use via [resque](https://github.com/defunkt/resque) for background job processing.
 
-After you have Ruby installed on your system, you also need:
+It looks like a big list, but really, it's not too bad. To get started, pick your operating system 
+from the list:
 
-- [RubyGems](http://rubygems.org/) - A package manager for Ruby code that we use to download libraries ("gems") that Diaspora uses.
-- [Bundler](http://gembundler.com/) - A gem management tool for Ruby projects.
+- [[Installing Diaspora dependencies on Ubuntu|Installing on Ubuntu]]
+- [[Installing Diaspora dependencies on Debian|Installing on Debian]]
+- [[Installing Diaspora dependencies on Fedora|Installing on Fedora]]
+- [[Installing Diaspora dependencies on OS X|Installing on Mac OS X]]
 
-Ok, lets move on. Pick what you need from the following list:
+If you don't see your system on here, we don't currently support it. If you figure out how to get
+it working, though, let us know. We'd love to be able to let folks install on (for example) Windows.
 
-- [[Installing on Ubuntu]]
-- [[Installing on Debian]]
-- [[Installing on Fedora]]
-- [[Installing on Mac OS X]]
+After you're done following those instructions, come back here and move on to:
 
-After you're done with that, move on to
+## Getting Diaspora Source
 
-## Getting Diaspora
-
-Our code is hosted at GitHub (which also hosts the wiki page you're reading). To get a copy of the Diaspora source, use the following command:
+Our code is hosted at GitHub (which also hosts the wiki page you're reading). To get a copy of 
+the Diaspora source, use the following command:
 
         git clone git://github.com/diaspora/diaspora.git
 
-If you have never used GitHub before, their
-[help desk](http://help.github.com/) has a pretty awesome guide on getting
-set up.
+If you have never used GitHub before, their <a href="http://help.github.com/" target="_blank">help desk</a> 
+has a pretty awesome guide for getting set up.
 
 ## Installing Diaspora
 
