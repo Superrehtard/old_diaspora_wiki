@@ -15,7 +15,7 @@ anywhere on the site.
    * [[General|Frequently Asked Questions]]
    * [[About aspects|Aspects FAQ]]
 * [[What's new?|Changelog]]
-* [[Product roadmap|Roadmap]]
+* [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Related and similar projects|Other projects]]
 
