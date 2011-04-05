@@ -33,4 +33,4 @@ for details.
 
 4. There is a <a href="http://getsatisfaction.com/diaspora/topics/when_will_i_get_invited">thread on Getsatisfaction.com</a> (feedback system used by diaspora) for getting invites.
 
-5. You also post on <a href="http://diaspora.shapado.com/questions/how-can-i-get-an-invite">shapado instance of diaspora</a> to get an invite
+5. You also post on shapado instance of diaspora <a href="http://diaspora.shapado.com/questions/how-can-i-get-an-invite">here</a> or <a href="http://diaspora.shapado.com/questions/how-can-i-get-an-invitation-i-hate-facebook">here </a> to get an invite
