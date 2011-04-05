@@ -1,5 +1,7 @@
 This is a first attempt at an init script for diaspora. Additions/corrections welcomed.
 
+I wrote a new script in bash with a helper in python. I copied the helper to the /usr/bin directory and you can call it from any where.
+
 The pkg directory contains corresponding scripts  for Fedora and Ubuntu which handles all services (thin, redis, websocket and rake resque:work ATM)
 
 ```bash
@@ -59,4 +61,43 @@ case "$1" in
 esac
 
 exit $RETVAL
+```
+
+```python
+
+#!/usr/bin/python
+## /usr/bin/waitForOpen
+## takes two arguments a hostname followed by a port number
+import socket
+from sys import *
+from time import time, sleep
+
+def main():
+	sleep(1)
+	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	print "Waiting for server to restart"
+	initTime = time()
+	testTime = initTime
+	while True:
+		currentTime = time()
+		if currentTime - testTime >= 20:
+			print "Still waiting. Its been %3d seconds" % (currentTime-initTime)
+			testTime = time()
+		try:
+			connect = sock.connect((argv[1],int(argv[2])))
+			print "%s port %s is now open" % (argv[1], argv[2])
+			sock.close
+			print "It took %3d seconds for server to start" % (currentTime-initTime)
+			break
+		except:
+			pass
+
+if __name__ == "__main__":
+	if len(argv) < 3 or len(argv) > 3:
+		print "Usage:\t%s [host] [port]" % argv[0]
+		exit()
+	try:
+		main()
+	except KeyboardInterrupt:
+		print "Fine don't wait"
 ```
