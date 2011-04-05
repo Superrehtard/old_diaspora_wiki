@@ -55,6 +55,7 @@ case "$1" in
       ;;
    update)
       update
+      ;;
    *)
       echo $"Usage: diaspora {start|stop|restart|update}"
       RETVAL=3
