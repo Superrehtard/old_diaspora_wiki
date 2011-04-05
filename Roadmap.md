@@ -59,7 +59,7 @@ from_activity.
 internet, to help with discovery.
 - Either make websocket controller less terrible or stop using it: perhaps break it out so other 
 rails projects have a framework for using it?
-- Chat client integration using web sockets?
+- Chat client integration using web sockets? (using jabber might be easier)
 - Other crazy Websocket experiments: We are just using it to push data to the client, but can we use 
 it to connect people or two seeds for real time games?
 - Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, 
