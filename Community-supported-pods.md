@@ -251,7 +251,16 @@ management console.
      * Contact: support@zauberstuhl.de && lukas@pod.zauberstuhl.de
    * Operating system: Debian
    * Comments: public registration open, twitter and facebook app enabled, SSL coming soon
-   * Configuration: Apache2 proxying thin
+   * Configuration: Apache2 proxy -> thin
+
+* [[https://spargo.me/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
+   * Opened: 3/3/2011
+   * Updated: Every Day between 5 and 7 o'clock in the morning
+   * Admins: Lukas Matt
+     * Contact: support@spargo.me && lukas@pod.zauberstuhl.de
+   * Operating system: Debian
+   * Comments: public registration open, twitter and facebook app enabled, SSL
+   * Configuration: Apache2 proxy -> thin
 
 * [[http://goulag.su]] [[http://goulag.su/apple-touch-icon.png|height=30px|]]
     * Opened: 25/09/2010
