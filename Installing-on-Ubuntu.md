@@ -102,7 +102,7 @@ To get bundle work, you might make a symbolic link:
 
 Note: If you get an error in the next step try to run
 
-        sudo apt-get install libffi-ruby
+        sudo apt-get install libffi-dev libffi-ruby
 
 and try the step again.
 
