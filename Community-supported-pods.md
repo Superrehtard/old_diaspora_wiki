@@ -401,3 +401,11 @@ management console.
     * Maintained by: private individual 
     * Operating system: Linux 
     * Comments: Public and free Diaspora pod for EUROPE.
+
+* [[http://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
+   * Opened: 31/03/2011
+   * Updated: Once a day
+   * Maintainer
+       * DIASPORA: ragriz44@soc.ragriz.net
+   * Operating system: Debian 5
+   * Comments: Open registration, Twitter and Facebook support along with optional ssl.
