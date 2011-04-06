@@ -196,6 +196,38 @@ From the command line while in the Diaspora installation directory type:
 
 Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the test and development password sections of database.yml.
 
+### Windows Compatibility Modifications
+
+The resque workers rely on the Unix `ps` command to determine which programs are running.  We will need to modify the source code to use the Windows `tasklist` command instead.  Note: If the version of the resque gem changes you will need to reapply these modifications.
+
+Open vendor\\ruby\\1.8\\gems\\resque-1.10.0\\lib\\resque\\worker.rb
+
+Look for def `kill_child` in that file.  Locate the line that reads
+
+    if system("ps -o pid,state -p #{@child}")
+
+and replace it with
+
+    if system("tasklist /fi 'PID eq #{@child}'")
+
+Look for `def worker_pids`
+
+Replace this code block
+
+    def worker_pids
+      `ps -A -o pid,command | grep [r]esque`.split("\n").map do |line|
+        line.split(' ')[0]
+      end
+    end
+
+with this one
+
+    def worker_pids
+      `tasklist /fi "Services eq resque"`.split("\n").map do |line|
+        line.split(' ')[1]
+      end
+    end
+
 ### Running Diaspora
 
 Create a batch file named server.bat in C:\\Progra~1\\Diaspora\\script.  Put this into the batch file.
