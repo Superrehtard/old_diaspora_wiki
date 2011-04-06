@@ -5,5 +5,5 @@ The four co-founders of the project work on it full time in San Francisco.
 * Raphael Sofaer
 * Ilya Z
 
-You can see the [full list of contributors to the code base|https://github.com/diaspora/diaspora/contributors], ordered by number of commits. 
+You can see the [[full list of contributors to the code base|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. 
 
