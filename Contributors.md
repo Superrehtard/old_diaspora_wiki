@@ -18,7 +18,7 @@ We have dozens of non-developer contributors as well.  Amongst other activities,
 
 * [[Run community pods|Community-supported-pods]]
 * [[Report bugs|Report a Bug]]
-* Write documentation
+* Contribute to documentation (including this wiki - please edit pages if you see wrong or outdated info! And add pages you think we need!)
 * Put together end-user tutorials
 * [[Translate the interface|How to contribute translations]] into other languages
 * Evangelize Diaspora in various places online
