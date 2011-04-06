@@ -16,6 +16,8 @@ for OS X or <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
 * <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - discussion of the source code and help for new developer contributors
 * <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - discussion in German.
 
+Oh and don't ask if you can ask something, [just ask](http://justask.tk)
+
 ## Non-IRC Help
 
 We have two mailing lists, both Google groups. They tend to have a slightly different audience than
