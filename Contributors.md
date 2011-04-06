@@ -8,6 +8,7 @@ The four co-founders of the project work on it full time in San Francisco.
 Over 100 other people have contributed to the codebase. You can see the [[full list of developer contributors|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. 
 
 We have dozens of non-developer contributors as well.  Amongst other activities, they:
+
 * [[Run community pods|Community-supported-pods]]
 * [[Report bugs|Report a Bug]]
 * Write documentation
