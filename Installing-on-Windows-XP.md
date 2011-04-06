@@ -57,7 +57,7 @@ If you need to run the Server Instance Configuration Wizard at a later time, fro
 
         MySQLInstanceConfig
 
-Edit C:\Program Files\MySQL\MySQL Server 5.5\my.ini
+Edit C:\\Program Files\\MySQL\\MySQL Server 5.5\\my.ini
 
 In the mysqld section add
 
@@ -104,10 +104,10 @@ Open up a Command Prompt and type the following:
     mkdir "C:\Program Files\Redis"
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\redis-2.2.2-win32-win64\32bit\*" "C:\Program Files\Redis"
 
-Open C:\Profile Files\Redis\redis.conf in a text editor and:
+Open C:\\Profile Files\\Redis\\redis.conf in a text editor and:
 
-    Un-comment the bind 127.0.0.1 line.
-    Change the loglevel notice.
+* Change, or un-comment, `#bind 127.0.0.1` to `bind 127.0.0.1`.
+* Change `loglevel verbose` to `loglevel notice`.
 
 ### Java JRE (Optional)
 
@@ -149,7 +149,7 @@ Open the Gemfile.lock file.
 
 ### Installing Diaspora
 
-The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  While in the C:\Progra~1\Diaspora directory from the Command Prompt, type:
+The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  While in the C:\\Progra~1\\Diaspora directory from the Command Prompt, type:
 
     C:\Progra~1\RubyDevKit\devkitvars.bat
     bundle install --path vendor
@@ -198,7 +198,7 @@ Follow the Set up the database section on the main Installing and Running Diaspo
 
 ### Running Diaspora
 
-Create a batch file named server.bat in C:\Progra~1\Diaspora\script.  Put this into the batch file.
+Create a batch file named server.bat in C:\\Progra~1\\Diaspora\\script.  Put this into the batch file.
 
     net start mysql
 
