@@ -20,7 +20,7 @@ We have dozens of non-developer contributors as well.  Amongst other activities,
 * [[Report bugs|Report a Bug]]
 * Write documentation
 * Put together end-user tutorials
-* Translate the interface into other languages
+* [[Translate the interface|How to contribute translations]] into other languages
 * Evangelize Diaspora in various places online
 * Discuss feature ideas on <a href="http://getsatisfaction.com/diaspora" target="_blank">GetSatisfaction</a>
 
