@@ -17,6 +17,7 @@ anywhere on the site.
 * [[What's new?|Changelog]]
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
+* [[Who works on this thing?|Contributors]]
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
