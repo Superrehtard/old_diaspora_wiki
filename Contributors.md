@@ -5,7 +5,14 @@ The four co-founders of the project work on it full time in San Francisco.
 * [[Raphael Sofaer|https://github.com/rsofaer]]
 * [[Ilya Zhitomirskiy|https://github.com/zhitomirskiyi]]
 
-Over 100 other people have contributed to the codebase. You can see the [[full list of developer contributors|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. 
+Over 100 other people have contributed to the codebase. You can see the [[full list of developer contributors|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. Major contributors to the code base include:
+
+* [[Dan Hanson|https://github.com/ohaibbq]]
+* [[Jonne Hass|https://github.com/MrZYX]]
+* [[Sarah Mei|https://github.com/sarahmei]]
+* [[Robin Nilsson|https://github.com/hexagon]]
+* [[Michael Sofaer|https://github.com/mikesofaer]]
+* [[Paweł Wilk|https://github.com/siefca]]
 
 We have dozens of non-developer contributors as well.  Amongst other activities, they:
 
