@@ -1,9 +1,14 @@
+**April**
+
+* Bookmarklet for posting from any site
+
 **March**
 
 * Private messaging
 * Hashtags
 * Larger photos in stream
 * GIFs can now be uploaded
+* Comments can be deleted
 
 **Week of 2/21/2011**
 
