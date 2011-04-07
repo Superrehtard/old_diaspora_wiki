@@ -208,7 +208,7 @@ Look for def `kill_child` in that file.  Locate the line that reads
 
 and replace it with
 
-    if system("tasklist /fi 'PID eq #{@child}'")
+    if system('tasklist /fi "PID eq #{@child}"')
 
 Look for `def worker_pids`
 
