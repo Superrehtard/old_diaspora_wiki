@@ -14,13 +14,13 @@ To install Ruby 1.8.7 on **Debian 6.0**, run the following command:
 
         sudo apt-get install ruby-full
 
-To install Ruby 1.9.2 on **Debian 5.0** from source, run the following commands:
+To install Ruby 1.8.7 (There are known bugs if you use Ruby 1.9.x, see [Bug #998](http://bugs.joindiaspora.com/issues/998)) on **Debian 5.0** from source, run the following commands:
 
         cd /tmp
-        wget ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p136.tar.bz2
-        tar xpf ruby-1.9.2-p136.tar.bz2
-        cd ruby-1.9.2-p136
-        ./configure
+        wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
+        tar xzf ruby-1.8.7-p334.tar.gz
+        cd ruby-1.8.7-p334
+        ./configure --prefix=/usr
         make
         make install
 
