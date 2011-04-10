@@ -10,6 +10,7 @@ anywhere on the site.
 
 ## General Resources
 * [[So, you want an invite?|Invitations]]
+* [[We need help!|Become-a-Contributor]]
 * [[Report a bug|Report a Bug]]
 * Frequently Asked Questions 
    * [[General|Frequently Asked Questions]]

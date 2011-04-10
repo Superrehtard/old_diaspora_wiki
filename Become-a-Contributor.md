@@ -1,6 +1,6 @@
-# We Need You
+# Become a Contributor
 
-## Yes, you.
+## Diaspora needs you!
 Diaspora is an open source project, which means all our code and documentation is available 
 for free to anyone online. It also means that, while there is a core team working on the project
 full time, it only thrives because we have a wonderful set of volunteer collaborators who help out
