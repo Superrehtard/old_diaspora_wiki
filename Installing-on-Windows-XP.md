@@ -2,9 +2,8 @@
 
 These instructions are for creating a local development instance on Windows XP Professional Service Pack 3.
 
-### Known Problems with this page
+### Known Problems
 
-* Pictures uploaded into the Diaspora instance become corrupt.
 * Need to add the ability to send e-mail notifications from the instance.
 * SSL support is not tested.
 
@@ -198,6 +197,8 @@ Follow the Set up the database section on the main Installing and Running Diaspo
 
 ### Windows Compatibility Modifications
 
+#### Resque
+
 The resque workers rely on the Unix `ps` command to determine which programs are running.  We will need to modify the source code to use the Windows `tasklist` command instead.  Note: If the version of the resque gem changes you will need to reapply these modifications.
 
 Open vendor\\ruby\\1.8\\gems\\resque-1.10.0\\lib\\resque\\worker.rb
@@ -257,6 +258,23 @@ A Windows Firewall dialog will appear in the following situations:
 
 *  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
 *  When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
+
+#### Picture Uploading
+
+To upload images you will need to modify `app/controllers/photos_controller.rb`.  This problem and solution are logged as item 1013 in their bugtracker.  
+
+At the bottom of the file locate the line that begins with `def file_handler`.  Further below that line
+
+Change
+
+        file = Tempfile.new(file_name) # Ruby 1.8 compatibility
+        file.print request.raw_post
+
+to
+
+        file = Tempfile.new(file_name) # Ruby 1.8 compatibility
+        file.binmode
+        file.print request.raw_post
 
 ### Create an Account
 
