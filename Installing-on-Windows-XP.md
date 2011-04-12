@@ -83,19 +83,19 @@ Download the full installer from [Google Code](http://code.google.com/p/msysgit/
 
 When installing uncheck:
 
-    Additional icons
-    Windows Explorer integration
-    "Associate .git*" configuration files
+* Additional icons
+* Windows Explorer integration
+* "Associate .git*" configuration files
 
 ### Redis
 
 Download version 2.2 from [Github](https://github.com/downloads/dmajkic/redis/redis-2.2.2-wi
 n32-win64.zip). Save it to the Desktop.
 
-    Right click on the Redis zip file choose Extract All.
-    In the Extraction Wizard, click Next twice.
-    Uncheck Show extracted files.
-    Click Finish.
+* Right click on the Redis zip file choose Extract All.
+* In the Extraction Wizard, click Next twice.
+* Uncheck Show extracted files.
+* Click Finish.
 
 Open up a Command Prompt and type the following:
 
@@ -246,7 +246,7 @@ Create a batch file named server.bat in C:\\Progra~1\\Diaspora\\script.  Put thi
     cd %DIASPORA_PATH%
     start bundle exec ruby .\script\websocket_server.rb
     start bundle exec rake resque:work
-    bundle exec thin -e %RAILS_ENV% -a 127.0.0.1 -p 3000 start.bat
+    bundle exec thin -e %RAILS_ENV% -a 127.0.0.1 -p 3000 start
 
 Start the server and needed processes by typing.
 
@@ -258,23 +258,6 @@ A Windows Firewall dialog will appear in the following situations:
 
 *  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
 *  When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
-
-#### Picture Uploading
-
-To upload images you will need to modify `app/controllers/photos_controller.rb`.  This problem and solution are logged as item 1013 in their bugtracker.  
-
-At the bottom of the file locate the line that begins with `def file_handler`.  Further below that line
-
-Change
-
-        file = Tempfile.new(file_name) # Ruby 1.8 compatibility
-        file.print request.raw_post
-
-to
-
-        file = Tempfile.new(file_name) # Ruby 1.8 compatibility
-        file.binmode
-        file.print request.raw_post
 
 ### Create an Account
 
