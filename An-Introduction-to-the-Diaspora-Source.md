@@ -28,7 +28,7 @@ Profile – This contains information about the person. Currently, a profile loo
 
 Request – This is a friend request object that gets sent to another person.
 
-Aspect – This is contains a list of people, and posts which are for that aspect.  Aspects are private to Users, and we might embed the Aspect documents in the User document.
+Aspect – This contains a list of people, and posts which are for that aspect.  Aspects are private to Users, and we might embed the Aspect documents in the User document.
 
 Post – A Post belongs to a Person.  This is a parent class for different types of posts, it contains comment ids and a few other attributes common to all Posts.
 
@@ -55,6 +55,6 @@ Retraction – this is an object that gets sent out when a post creator deletes 
 
 1) The user receives the salmon, decrypts the headers.
 
-2) If the signature on the salmon data is from the person who claims to have sent to have sent the post the post is marshaled into an object and saved into the database
+2) If the signature on the salmon data is from the person who claims to have sent the post the post is marshaled into an object and saved into the database.
 
 3) That post id is stored in the visible posts for the receiving user as well as posts for the aspect the sender is in.
