@@ -4,7 +4,6 @@ These instructions are for creating a local development instance on Windows XP P
 
 ### Known Problems
 
-* Need to add the ability to send e-mail notifications from the instance.
 * SSL support is not tested.
 
 ### Ruby
@@ -194,6 +193,34 @@ From the command line while in the Diaspora installation directory type:
 ### Set up the database
 
 Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the test and development password sections of database.yml.
+
+### Sending E-mail (optional)
+
+To enable password resets and notifications you will need to install a program capabile of sending e-mail to a mail server.  Do not send your friends invites from your Windows installation as it is not configured to allow connections from the Internet.
+
+This will use your send e-mails from  your home e-mail account or other e-mail server that you prefer.  You will need its connection information before proceeding.
+
+Download [msmtp](http://msmtp.sourceforge.net/)
+
+* Click on Download.
+* Click on the SourceForge link under Releases.
+* Click on the Download button.  Save the file to your Desktop.
+* Right click on the saved file.
+* Choose Extract All.
+* Click Next twice.
+* Uncheck show extracted files.
+* Click Finish.
+
+In a Command Prompt type
+
+    mkdir "C:\\Progra~1\\Diaspora\\software"
+    copy "%HOMEDRIVE%\\%HOMEPATH%\\Desktop\\msmtp-1.4.23-w32\\msmtp-1.4.23-w32\\msmtp.exe" C:\\Progra~1\\Diaspora\\software
+
+Edit `config/app_config.yml`.  If `config/app_config.yml` does not exist, save a copy of `config/app_config.yml.example` to `app_config.yml`.
+
+* Change `mailer_on: false` to `mailer_on: true`
+* Change sendmail_location from `sendmail_location: '/usr/sbin/sendmail'` to sendmail_location: 'C:/Progra~1/Diaspora/software/msmtp'
+* Change the entries that begin with `smtp_` to match that of your e-mail server.
 
 ### Windows Compatibility Modifications
 
