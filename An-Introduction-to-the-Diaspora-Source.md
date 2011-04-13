@@ -55,6 +55,6 @@ Retraction – this is an object that gets sent out when a post creator deletes 
 
 1) The user receives the salmon, decrypts the headers.
 
-2) If the signature on the salmon data is from the person who claims to have sent the post the post is marshaled into an object and saved into the database.
+2) If the signature on the salmon data is from the person who claims to have sent the post is marshaled into an object and saved into the database.
 
 3) That post id is stored in the visible posts for the receiving user as well as posts for the aspect the sender is in.
