@@ -168,15 +168,14 @@ Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find t
 
 From the Command Prompt run:
 
-    C:\Progra~1\RubyDevKit\devkitvars.bat
     set TYPHOEUS_VER=0.2.4
     set CURL_VER=7.19.4
 
     mkdir C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include
     cd %HOMEDRIVE%
 
-    cp -R "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\include\curl" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include
-    cp -R "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\include\curl" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32
 
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
@@ -219,7 +218,7 @@ In a Command Prompt type
 Edit `config/app_config.yml`.  If `config/app_config.yml` does not exist, save a copy of `config/app_config.yml.example` to `app_config.yml`.
 
 * Change `mailer_on: false` to `mailer_on: true`
-* Change sendmail_location from `sendmail_location: '/usr/sbin/sendmail'` to sendmail_location: 'C:/Progra~1/Diaspora/software/msmtp'
+* Change sendmail_location from `sendmail_location: '/usr/sbin/sendmail'` to `sendmail_location: 'C:/Progra~1/Diaspora/software/msmtp'`
 * Change the entries that begin with `smtp_` to match that of your e-mail server.
 
 ### Windows Compatibility Modifications
@@ -283,7 +282,7 @@ This will spawn three additional Command Prompt windows.
     
 A Windows Firewall dialog will appear in the following situations:
 
-*  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
+*  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\\Progra~1\\Redis\\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
 *  When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
 
 ### Create an Account
