@@ -7,8 +7,7 @@ But lets start with some....
 
 ### Languages with high inflection and grammar different to English
 
-There is no strict policy in the project on how to deal with this issue, the choice therefore has to be made according to translators' intuition and common sense. When multiple cases are present (e.g. Slavic languages) you definitely have to resort to using the actual application to avoid silly mistakes. Inflection of verbs should probably be circumvented by using a different person (eg. frequently the second person), such that sentences in the form "You have(male-form-verb)/have(female-form-verb) done something" are avoided. 
-Keep in mind that other social networks have been extensively translated, these could be helpful to look at and get a sense for how the translation works.
+We integrated the awesome extensions @siefca made for the [i18n Gem](https://github.com/svenfuchs/i18n) and for Rails: [i18n-inflector](https://github.com/siefca/i18n-inflector) and [i18n-inflector-rails](https://github.com/siefca/i18n-inflector-rails). Based on what the user has written into the gender field and our [definitions](https://github.com/diaspora/diaspora/tree/master/config/locales/inflections) the gender is guessed. Look at the readme of i18n-inflector for more documentation and how to use them. You can use the "named patterns" easily via 99translations if you want to do so, however if you want to contribute a definition please make a [pull request](https://github.com/diaspora/diaspora/wiki/Git-Workflow).
 
 ### Choose the correct language code
 
@@ -41,10 +40,11 @@ First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 * config/locales/diaspora/< code >.yml
 * config/locales/javascript/javascript.< code >.yml
 * Leave config/locales/rails-i18n/ untouched, if you want to change something there send a pull request [[here|https://github.com/svenfuchs/rails-i18n]].
+* Only add something to config/locales/inflections/< code >.yml if you know what you're doing, look at the note about inflected languages above for more informations. If you're unsure just ignore that directory.
 
 If you want to create a new translation copy the en files, choose the correct language code (see above) and change every occurence of en with your code. Don't forget the root element in the files!
 
-If you want to fix an untranslatable strings or something feel free, but only add the new key to en.yml/devise.en.yml.
+If you want to fix an untranslatable strings or something feel free, but only add the new key to en.yml/devise.en.yml/javascript.en.yml.
 
 ## 99translations.com
 
