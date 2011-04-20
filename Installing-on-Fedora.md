@@ -6,7 +6,7 @@ These instructions are for the current version of Fedora.
 
 To install build tools, run the following:
 
-        su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel libffi libffi-devel'
+        su -c 'yum install libxslt libxslt-devel libxml2 libxml2-devel libffi libffi-devel libcurl libcurl-devel'
 
 ### Ruby
 
