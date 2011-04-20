@@ -29,7 +29,7 @@ Other social networking projects in the Ruby and/or Rails space.
 
 * <a href="http://www.enginey.com" target="_blank">EngineY</a> - A Rails-based social networking and content management framework
 * <a href="http://rstat.us" target="_blank">rstat.us</a>
-* <a href="https://github.com/sharedearth-net/sharedearth-net" target="_blank">sharedearth.net</a> - Indevelopment social network for sharing possessions and skills (loose long term ambition to operate as a service on Diaspora nodes)
+* <a href="https://github.com/sharedearth-net/sharedearth-net" target="_blank">sharedearth.net</a> - Social network (under development) for sharing possessions and skills (loose long term ambition to operate as a service on Diaspora nodes)
 
 ## Other Resources
 
