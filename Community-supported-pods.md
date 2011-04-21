@@ -171,6 +171,15 @@ management console.
     * Operating system: Linux
     * Comments: For development and test purposes, images are uploaded to S3
 
+* [[http://diaspora.gpeni.net]] [[http://diaspora.gpeni.net/apple-touch-icon.png|height=30px|]]
+    * Opened: 20/04/2010
+    * Updated: Periodically
+    * Maintainer: Justin P. Rohrer &ndash; GpENI Project
+        * rohrej@ittc.ku.edu
+        * [[http://wiki.ittc.ku.edu/gpeni]]
+    * Operating system: Linux (Scientific Linux 6.0)
+    * Comments: Open, intended for those interested in future Internet testbeds and research
+
 * [[https://diaspora.hostmaster.org/]] [[http://diaspora.hostmaster.org/apple-touch-icon.png|height=30px|]]
     * Opened: 27/11/2010
     * Updated: as needed
