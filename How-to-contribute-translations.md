@@ -46,6 +46,10 @@ If you want to create a new translation copy the en files, choose the correct la
 
 If you want to fix an untranslatable strings or something feel free, but only add the new key to en.yml/devise.en.yml/javascript.en.yml.
 
+### "Permanent Pull Requst"
+
+If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX, E-Mail: diaspora@mrzyx.de) and give me the URL to a Git Repository and I'll do regular pulls in my update workflow.
+
 ## 99translations.com
 
 ### Languages handled outside of 99translations
