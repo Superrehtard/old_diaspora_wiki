@@ -16,6 +16,8 @@ Encrypt the connection between servers...
 
 Leamas: According to the Security-Architecture-Proposal should SSL not be needed between servers. 
  OTOH, it *is* needed  in the pod/browser interface. Or am I missing something?
+
+This is the internet we're talking here.  Do you want Comcast or NTT or anyone and their dog with Wireshark to have complete visibility into the data you're claiming to keep private?  If the answer is yes, then sure, go ahead and don't bother encrypting your private data as it's on the move across cables and routers that your users have no control over or ability to see the operation of.  Oh, also, did you know that BGP (the magic that core routers use to plan routes) has been hijacked by China within the last year such that all the traffic they asked for -- world wide -- was quietly routed through them?  But I'm sure they promise to close their eyes and stop recording when it's Diaspora talking between pods, so don't worry about it.
   --
 
 
