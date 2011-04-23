@@ -8,8 +8,8 @@ We are currently in private alpha, meaning that you must be invited by someone i
 register and start using the site. We have a <a href="http://joindiaspora.com" target="_blank">mailing list</a> you can 
 join if you'd like to be invited. 
 
-However, because Diaspora is a distributed system, you can participate even if you haven't
-been invited yet! There are two ways to do it.
+**However, because Diaspora is a distributed system, you can participate even if you haven't
+been invited yet! There are two ways to do it.**
 
 1. You can make an account on an unofficial server that has open signups. You will still be able to 
 have friends on joindiaspora.com, as well as all the unofficial Diaspora servers. Note that these servers are not run by the project's founders, and the user experience may be quite
