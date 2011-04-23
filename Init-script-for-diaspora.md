@@ -31,7 +31,7 @@ update() {
 	stop
 	cd $DIASPORA_HOME
 	echo pulling from github
-    git pull origin master
+        git pull origin master
 	echo installing gems
 	bundle install
 	echo migrating db
