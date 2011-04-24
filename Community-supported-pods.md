@@ -366,11 +366,11 @@ management console.
 
 * [[https://poddery.com]] [[https://poddery.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-12-11
-    * Updated: Daily
+    * Updated: Biweekly
     * Maintainer: Joe Bivins
         * jbivins@gmail.com
         * [[http://twitter.com/poddery]]
-    * Operating system: Debian Linux (Lenny)
+    * Operating system: Debian Linux (Squeeze)
     * Comments: Following master branch.
 
 * [[http://regged.de]] [[http://regged.de/apple-touch-icon.png|height=30px]]
