@@ -35,6 +35,14 @@ management console.
     * Operating system: Gentoo
     * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
 
+* [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
+   * Opened: 15/2/2011
+   * Updated: Multiple times per day
+   * Maintained by: Lennart Prelle
+       * Contact: prellele@despora.de
+   * Operating system: Ubuntu LTS 10.04
+   * Comments: Over 99.9% uptime, facebook and twitter integration, public registration, mostly german users
+
 * [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px]]
    * Opened: 1/1/2011
    * Updated: Four times per day
