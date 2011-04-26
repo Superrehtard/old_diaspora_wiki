@@ -34,6 +34,8 @@ The strategy described above can be set up using something like the below. Mod P
     ProxyPassReverse / http://127.0.0.1:3000/
     </VirtualHost>
 
+For a more advanced config have a look at https://gist.github.com/719014
+
 ##Passenger
 A common way to run Rails apps on Apache is the Passenger apache
 module. See [[http://www.modrails.com/documentation/Users%20guide.html]]
