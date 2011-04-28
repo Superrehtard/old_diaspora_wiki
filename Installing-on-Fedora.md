@@ -12,7 +12,7 @@ To install build tools, run the following:
 
 To install Ruby 1.8.7, run the following command:
 
-        su -c "yum install ruby"
+        su -c "yum install ruby ruby-devel"
 
 ### MySQL
 
