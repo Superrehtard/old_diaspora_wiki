@@ -87,6 +87,8 @@ need to bundle install again.
 
 NOTE: If you don't get a **green success line** at the end, double check if you've installed all dependencies. If you can't figure it out feel free to ask for help at the mailing list or the IRC Channel.
 
+NOTE: If you encounter an error mentioning diaspora/config/initializers/secret_token.rb, try rake generate:secret_token
+
 NOTE: If you are on Ruby 1.9.2 and get an error such as "invalid byte sequence in US-ASCII (ArgumentError)" then you need to set your system locale to UTF-8. [This GitHub bug report](https://github.com/siefca/i18n-inflector/issues/3) on the gem that causes the problem has steps for doing so on Ubuntu.
 
 NOTE: If you get "Could not get Gemfile" try typing the following first:
