@@ -144,8 +144,8 @@ to create the needed database or create the database manually.
 If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
 
 Now you need to create the necessary tables. To do so run 
-`bundle exec rake db:setup` for development mode or
-`RAILS_ENV=production bundle exec rake db:setup` for production mode.
+`bundle exec rake db:migrate` for development mode or
+`RAILS_ENV=production bundle exec rake db:migrate` for production mode.
 
 ## Running Diaspora
 
