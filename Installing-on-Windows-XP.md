@@ -33,7 +33,7 @@ Close the command prompt window.
 
 ### MySQL
 
-Download the Windows (x86, 32-bit), MSI Installer v5.5.10 from [MySQL.com](http://www.mysql.com/downloads/mysql/).  Click on the "No thanks, just take me to the downloads!" link at the bottom of the next web page.
+Download the Windows (x86, 32-bit), MSI Installer v5.5.11 from [MySQL.com](http://www.mysql.com/downloads/mysql/).  Click on the "No thanks, just take me to the downloads!" link at the bottom of the next web page.
 
 Run the Installer.
 Choose the Typical Setup Install Type.
@@ -74,7 +74,7 @@ Open a Command Prompt window and type.
 
 ### ImageMagick
 
-Download the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagick.org](http://www.imagemagick.org/script/binary-releases.php#windows).
+Download and install the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagick.org](http://www.imagemagick.org/script/binary-releases.php#windows).
 
 ### Git
 
@@ -85,11 +85,11 @@ When installing uncheck:
 * Additional icons
 * Windows Explorer integration
 * "Associate .git*" configuration files
+* In the Git Setup window choose "Run Git from the Windows Command Prompt."
 
 ### Redis
 
-Download version 2.2 from [Github](https://github.com/downloads/dmajkic/redis/redis-2.2.2-wi
-n32-win64.zip). Save it to the Desktop.
+Download version 2.2 from [Github](https://github.com/dmajkic/redis). Click on the downloads button and choose redis-2.2.2-win32-win64.zip.  Save the file to your Desktop.
 
 * Right click on the Redis zip file choose Extract All.
 * In the Extraction Wizard, click Next twice.
@@ -110,8 +110,6 @@ Open C:\\Profile Files\\Redis\\redis.conf in a text editor and:
 ### Java JRE (Optional)
 
 Browse to the java [website](http://java.com) and click on the Downloads link.  Click on Agree and Start Free Download.  Save the file to your desktop and run it.
-
-* Uncheck Install the Yahoo! Toolbar.
 
 ### Bundler
 
@@ -179,7 +177,6 @@ From the Command Prompt run:
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\bin
 
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
-    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
 
 Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl version environment variables used above.
 
@@ -192,7 +189,7 @@ From the command line while in the Diaspora installation directory type:
 
 ### Set up the database
 
-Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the test and development password sections of database.yml.
+Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the common section of database.yml.
 
 ### Sending E-mail (optional)
 
