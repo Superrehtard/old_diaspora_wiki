@@ -108,7 +108,7 @@ To install Bundler, run the following:
 
         sudo gem install bundler 
 
-To get bundle work, you might make a symbolic link:
+To get bundle work (**bundle install** step later), you might need to make a symbolic link:
 
         sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
