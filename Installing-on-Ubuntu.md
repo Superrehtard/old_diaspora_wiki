@@ -106,4 +106,11 @@ Note: If you get an error in the next step try to run
 
 and try the step again.
 
+### Install everything from APT in one step
+
+This is for Ubuntu 10.10. There are other steps than just this one:
+
+        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby
+
+
 Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
