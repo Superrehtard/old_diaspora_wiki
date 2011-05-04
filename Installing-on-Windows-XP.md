@@ -158,6 +158,7 @@ You will see an error message while compiling the Typhoeus gem.  In the example 
 
 ### Libcurl
 
+XP:
 Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find the version the Typhoeus is looking for in the format of curl-&lt;version number&gt;-devel-mingw32.zip.  For Typhoeus 0.2.4, download curl-7.19.4-devel-mingw32.zip.  Save the file to your Desktop.
 
 * Right click on the file and choose Extract All.
@@ -179,6 +180,12 @@ From the Command Prompt run:
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
 
 Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl version environment variables used above.
+
+Vista/7:
+Vista/7 will overwrite the curl folder if you try the above steps, so instead please read https://github.com/dbalatero/typhoeus/issues/11 (make sure to delete libcurl.a from the lib directory in the curl folder and move bin/libcurl.dll there. if you get gcc make/build errors).
+
+Once you've installed the gem, copy the folder typhoeus-0.2.4 from your/ruby/path/lib/ruby/gems/1.8/gems into C:\Progra~1\Diaspora\vendor\ruby\1.8\gems
+
 
 ### Installing Diaspora (Continued)
 
