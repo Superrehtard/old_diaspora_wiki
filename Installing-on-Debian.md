@@ -99,7 +99,7 @@ This is not needed on **Debian 5.0** when ruby is installed from source.
 
 Note: If you get an error in the next step try to run
 
-        sudo apt-get install libffi-ruby
+        sudo apt-get install libffi-ruby libffi-dev
 
 and try the step again.
 
