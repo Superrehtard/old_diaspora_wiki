@@ -182,9 +182,10 @@ From the Command Prompt run:
 Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl version environment variables used above.
 
 Vista/7:
+
 Vista/7 will overwrite the curl folder if you try the above steps, so instead please read https://github.com/dbalatero/typhoeus/issues/11 (make sure to delete libcurl.a from the lib directory in the curl folder and move bin/libcurl.dll there. if you get gcc make/build errors).
 
-Once you've installed the gem, copy the folder typhoeus-0.2.4 from your/ruby/path/lib/ruby/gems/1.8/gems into C:\Progra~1\Diaspora\vendor\ruby\1.8\gems
+Once you've installed the gem, copy the folder typhoeus-0.2.4 from your/ruby/path/lib/ruby/gems/1.8/gems into C:/Progra~1/Diaspora/vendor/ruby/1.8/gems
 
 
 ### Installing Diaspora (Continued)
