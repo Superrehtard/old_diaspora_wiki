@@ -1,6 +1,11 @@
+**May**
+
+* Revamped the notification page
+
 **April**
 
 * Bookmarklet for posting from any site
+* Lots of backend improvements
 
 **March**
 
