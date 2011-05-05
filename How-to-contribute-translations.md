@@ -42,7 +42,7 @@ First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 * Leave config/locales/rails-i18n/ untouched, if you want to change something there send a pull request [[here|https://github.com/svenfuchs/rails-i18n]].
 * Only add something to config/locales/inflections/< code >.yml if you know what you're doing, look at the note about inflected languages above for more informations. If you're unsure just ignore that directory.
 
-If you want to create a new translation copy the en files, choose the correct language code (see above) and change every occurence of en with your code. Don't forget the root element in the files!
+If you want to create a new translation copy the en files, choose the correct language code (see above) and change every occurrence of en with your code. Don't forget the root element in the files!
 
 If you want to fix an untranslatable strings or something feel free, but only add the new key to en.yml/devise.en.yml/javascript.en.yml.
 
@@ -56,6 +56,7 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * [[gl|http://trasno.net/]]
+* [[ml (Malayalam)|http://wiki.smc.org.in/Diaspora_Localization]]
 
 ### Translating with 99translations
 
