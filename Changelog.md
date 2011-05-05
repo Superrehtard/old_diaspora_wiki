@@ -5,6 +5,7 @@
 **April**
 
 * Bookmarklet for posting from any site
+* Added ability to hide posts
 * Lots of backend improvements
 
 **March**
