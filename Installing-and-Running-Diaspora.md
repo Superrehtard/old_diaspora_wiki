@@ -121,7 +121,9 @@ If you want to run production mode:
 
 * Edit config/server.sh
 * Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. Changing the "serve_static_assets" setting to "true" in config/environments/production.rb will enable this option. Rails is not a webserver, and a better option for apache and nginx users would be to modify the respective webserver's configuration to serve the content itself.
+
 ####Apache 2
+
     <VirtualHost *:80>
       ServerName diaspora.mydomain.com
       DocumentRoot /diaspora_root/public
@@ -129,9 +131,11 @@ If you want to run production mode:
           Allow from all
           Options -MultiViews
       </Directory>
-  </VirtualHost>
+    </VirtualHost>
+
 #### nginx
-    `nginx directives should go here`
+
+    nginx directives should go here
 
 ### Set up the database
 
