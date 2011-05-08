@@ -72,6 +72,7 @@ Our code is hosted at GitHub (which also hosts the wiki page you're reading). To
 the Diaspora source, use the following command:
 
         git clone git://github.com/diaspora/diaspora.git
+        cd diaspora
 
 If you have never used GitHub before, their <a href="http://help.github.com/" target="_blank">help desk</a> 
 has a pretty awesome guide for getting set up.
@@ -89,8 +90,7 @@ NOTE: If you don't get a **green success line** at the end, double check if you'
 
 NOTE: If you are on Ruby 1.9.2 and get an error such as "invalid byte sequence in US-ASCII (ArgumentError)" then you need to set your system locale to UTF-8. [This GitHub bug report](https://github.com/siefca/i18n-inflector/issues/3) on the gem that causes the problem has steps for doing so on Ubuntu.
 
-NOTE: If you get "Could not get Gemfile" try typing the following first:
-`cd diaspora`
+NOTE: If you get "Could not get Gemfile" make sure you are in the diaspora directory (`cd diaspora`) you just cloned.
 
 NOTE: If you do any other rails development on your machine, you will probably
 want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
