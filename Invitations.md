@@ -24,7 +24,7 @@ for details.
 ## Backchannels
 
 1. Some folks have had success posting an invitation request to Twitter with 
-<a href="http://twitter.com/#search?q=%23diaspora" target="_blank">hashtag #diaspora</a>.
+<a href="http://twitter.com/#search?q=%23joindiaspora" target="_blank">hashtag #joindiaspora</a>. Or <a href="http://wiitel.com/21/get-your-diaspora-invite/">see this page</a>.
 
 2. There is also an Identi.ca group called <a href="http://identi.ca/group/diasporainvites">!diasporainvites</a> to which you can post to request an invitation.
 
