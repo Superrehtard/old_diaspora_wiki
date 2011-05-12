@@ -1,5 +1,6 @@
 **May**
 
+* Ability to like a post
 * Revamped the notification page
 
 **April**
