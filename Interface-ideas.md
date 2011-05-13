@@ -17,6 +17,8 @@ What do you think?
 
 **Timeroot:** As far as I know, websites such as Facebook log interactions between users, in order to find out whom you are most connected too. Obviously logging everything like this can have privacy implications, and would be a lot of extra work. (Although the first problem could be dealt with by adding some setting to turn logging on/off). Just a [difficult] idea.
 
+**Randomer:** Did you think about an ajax search that would filter all of your aspects at once?  Combined with alphabetical listing of people would probably be pretty intuitive.  It would also be nice for those cases when a contact is in multiple aspects and his/her name starts with Z.  Instead of having to scroll through each aspect, you just type 'z', then add and remove them from whatever aspects you want.
+
 **Fresno State interface (in development)**
 Visual tag project. Ability to link to pages (like peoples profiles) to tags on a picture. 
 [[http://diasporatest.com/index.php/Fresno_State_Team]]
