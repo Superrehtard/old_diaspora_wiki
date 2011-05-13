@@ -25,3 +25,4 @@ Visual tag project. Ability to link to pages (like peoples profiles) to tags on 
 [[http://diasporatest.com/images/f/f7/Screen_shot_2010-10-25_at_8.31.56_PM.png]]
 [[http://diasporatest.com/images/5/5a/Screen_shot_2010-10-25_at_8.14.49_PM.png]]
 
+[[http://www.fubiz.net/wp-content/uploads/2009/10/facebook-facelift-by-barton-smith-006.jpg]]
