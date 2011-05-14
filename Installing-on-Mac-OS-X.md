@@ -18,11 +18,18 @@ To install MySQL, run the following:
 
         brew install mysql
 
-Install the plist file to have it start automatically:
+Set it up to run as your user:
 
-        mkdir -p ~/Library/LaunchAgents
-        cp /usr/local/Cellar/mysql/5.5.10/com.mysql.mysqld.plist ~/Library/LaunchAgents/
-        launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist
+    unset TMPDIR
+    sudo mysql_install_db --verbose --user=`whoami` --basedir="$(brew --prefix mysql)" --datadir=/usr/local/var/mysql --tmpdir=/tmp
+
+Add it to launchctl so it will start automatically:
+
+    mkdir -p ~/Library/LaunchAgents
+    cp /usr/local/Cellar/mysql/5.5.10/com.mysql.mysqld.plist ~/Library/LaunchAgents/
+    launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist
+
+Now you have a user named root with no password.
 
 ### ImageMagick
 
