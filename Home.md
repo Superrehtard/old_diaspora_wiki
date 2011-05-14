@@ -28,7 +28,6 @@ anywhere on the site.
 * [[Work on a bug|Work on a Bug]]
 * [[How we use git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
-* [[Our PGP Key]]
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
