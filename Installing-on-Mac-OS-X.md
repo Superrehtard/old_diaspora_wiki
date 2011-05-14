@@ -29,7 +29,7 @@ Add it to launchctl so it will start automatically:
     cp /usr/local/Cellar/mysql/5.5.10/com.mysql.mysqld.plist ~/Library/LaunchAgents/
     launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist
 
-Now you have a user named root with no password.
+Now mysql is running, and you have a user named root with no password.
 
 ### ImageMagick
 
