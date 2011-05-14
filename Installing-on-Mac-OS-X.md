@@ -18,12 +18,11 @@ To install MySQL, run the following:
 
         brew install mysql
 
-Install the <a href="http://creativeeyes.at/tools/mysqlpp.php" target="_blank">MySQL Preference Pane</a> to control the MySQL daemon easily.
-Alternatively, you can run
+Install the plist file to have it start automatically:
 
-        sudo mysqladmin start
-
-from Terminal to start the MySQL server.
+        mkdir -p ~/Library/LaunchAgents
+        cp /usr/local/Cellar/mysql/5.5.10/com.mysql.mysqld.plist ~/Library/LaunchAgents/
+        launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist
 
 ### ImageMagick
 
