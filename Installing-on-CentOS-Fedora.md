@@ -62,6 +62,14 @@ You can check if gem has been installed correctly by running gem -v and gem list
 
     [root@machine ~]$ gem -v
     1.5.0
+## Install Redis
+
+    wget http://redis.googlecode.com/files/redis-2.2.7.tar.gz
+    tar xzf redis-2.2.7.tar.gz
+    cd redis-2.2.7
+    make
+    make install
+    cp /usr/local/src/redis-2.2.7/redis.conf /etc/
 
 ## Install MySQL
 
