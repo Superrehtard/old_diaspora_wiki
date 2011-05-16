@@ -1,6 +1,41 @@
 ### Versions
 
-These instructions are for Ubuntu 10.04 or 10.10.
+These instructions are for 11.04 & 10.10 [ for Ubuntu 10.04, read the Rubygems section in the appendix ].
+
+## Step 1
+
+### Install everything from APT (more info in the Appendix):
+
+This is for Ubuntu 10.10. There are other steps than just this one:
+
+        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems
+
+### Start MySQL (optional, depending on your platform):
+
+        sudo service mysql start
+
+## Step 2
+
+### Bundler
+
+To install Bundler, run the following:
+
+        sudo gem install bundler 
+
+To get bundle work (**bundle install** step later), you might need to make a symbolic link:
+
+        sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+
+
+## Done
+
+Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+
+
+
+
+## Appendix
+
 
 ### Build Tools
 
@@ -96,21 +131,4 @@ On **Ubuntu 10.10**, run the following:
 
 You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
 
-### Install everything(above) from APT in one step
 
-This is for Ubuntu 10.10. There are other steps than just this one:
-
-        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems
-
-### Bundler
-
-To install Bundler, run the following:
-
-        sudo gem install bundler 
-
-To get bundle work (**bundle install** step later), you might need to make a symbolic link:
-
-        sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
-
-
-Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
