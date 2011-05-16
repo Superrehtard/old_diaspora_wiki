@@ -22,7 +22,7 @@ anywhere on the site.
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
-* [[Installing and Running Diaspora]] <blink> &lt;--- click here! </blink>
+* [[Installing and Running Diaspora]] &lt;--- click here!
 * [[Contributor License Agreement|New-CLA--12-13-10]]
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
@@ -43,7 +43,7 @@ anywhere on the site.
   * [[Interface-ideas]]
 
 ## Pod Maintainer Resources
-* [[Installing and Running Diaspora]]
+* [[Installing and Running Diaspora]] <--- click here!
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB integration|Howto-setup-services]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
