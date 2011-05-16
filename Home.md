@@ -22,7 +22,7 @@ anywhere on the site.
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
-* [[Installing and Running Diaspora]]
+* [[Installing and Running Diaspora]] <blink> &lt;--- click here! </blink>
 * [[Contributor License Agreement|New-CLA--12-13-10]]
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
