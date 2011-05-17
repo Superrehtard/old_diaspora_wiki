@@ -16,7 +16,7 @@ h1. Step-by-step (the short version)
 # Clone to computer ($ git clone git@github.com:you/diaspora.git )
 # Don't forget to cd into your repo: ($ cd diaspora/ )
 # Set up remote upstream ($ git remote add upstream git://github.com/diaspora/diaspora.git)
-# Create a branch for new issue ($ git checkout -b 100-new-feature)
+# Create a branch for new issue ($ git checkout -b 100-new-feature, if you don't have a bug report no worries just skip the number) 
 # Develop on issue branch. _[Time passes, the main Diaspora repository accumulates new commits]_
 # Commit changes to issue branch. ($ git add . ; git commit -m 'commit message')
 # Fetch upstream ($ git fetch upstream)
@@ -90,7 +90,7 @@ Maybe you have a feature addition in mind, but if not, check out our "issue trac
 
 h2. Create an Issue-Specific Development Branch
 
-p. Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
+p. Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable, if there's no issue just skip it) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
 
 <pre>
 <code>
