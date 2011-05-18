@@ -435,3 +435,10 @@ management console.
        * DIASPORA: ragriz44@soc.ragriz.net
    * Operating system: Debian 5
    * Comments: Open registration, Twitter and Facebook support.  Only through https.
+
+* [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
+    * Opened: 09/05/2010
+    * Updated: irregularly
+    * Maintained by: private individual 
+    * Operating system: Debian Linux 
+    * Comments: public registration open, Twitter and Facebook support, HTTPS available
