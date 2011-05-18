@@ -138,7 +138,7 @@ If you want to run production mode:
 
 #### nginx
 
-    nginx directives should go here
+Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/common/templates/default/nginx.conf.erb">configuration</a>
 
 ### Set up the database
 
