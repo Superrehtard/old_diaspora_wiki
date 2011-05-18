@@ -2,6 +2,8 @@
 
 * Ability to like a post
 * Revamped the notification page
+* Share model [[http://groups.google.com/group/diaspora-dev/browse_thread/thread/cbc9497ac63a0051]]
+* "Show more" functionality and increased post length to 10,000 characters 
 
 **April**
 
