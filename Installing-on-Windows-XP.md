@@ -221,7 +221,7 @@ In a Command Prompt type
     mkdir "C:\\Progra~1\\Diaspora\\software"
     copy "%HOMEDRIVE%\\%HOMEPATH%\\Desktop\\msmtp-1.4.23-w32\\msmtp-1.4.23-w32\\msmtp.exe" C:\\Progra~1\\Diaspora\\software
 
-Edit `config/app_config.yml`.  If `config/app_config.yml` does not exist, save a copy of `config/app_config.yml.example` to `app_config.yml`.
+Edit `config/app.yml`.  If `config/app.yml` does not exist, save a copy of `config/app.yml.example` to `app.yml`.
 
 * Change `mailer_on: false` to `mailer_on: true`
 * Change sendmail_location from `sendmail_location: '/usr/sbin/sendmail'` to `sendmail_location: 'C:/Progra~1/Diaspora/software/msmtp'`
