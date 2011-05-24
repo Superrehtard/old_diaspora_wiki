@@ -1,6 +1,6 @@
 ### Versions
 
-These instructions are for Debian Lenny 5.0 or Squeeze 6.0.
+These instructions are for Debian Lenny 5.0 or Squeeze 6.0.  You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
 
 ### Build Tools
 
@@ -66,11 +66,11 @@ To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and instal
 
 If you're running a 64-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.2-1_amd64.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.5-1_amd64.deb
 
 If you're running a 32-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.2-1_i386.deb
+        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.5-1_i386.deb
 
 Then install the corresponding package
 
