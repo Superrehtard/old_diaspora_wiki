@@ -344,7 +344,7 @@ management console.
     * Updated: daily
     * Maintained by : Wouter Timmermans
         * diaspora : protowouter@ottospora.nl
-    * Operating system: Debian Squeeze
+    * Operating system: Ubuntu 11.04
     * Comments: Running in production mode with nginx as proxy/frontend
 
 * [[http://pasarus.com]]  [[http://pasarus.com/apple-touch-icon.png|height=30px]]
