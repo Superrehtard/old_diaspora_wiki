@@ -57,6 +57,8 @@ anywhere on the site.
 These are all external links.
 
 * [Diaspora bug tracker](http://bugs.joindiaspora.com/projects/diaspora/issues) - issue and bug tracking.
+* [Continuos Integration](http://ci.joindiaspora.com) - please don't press that "Build now" button.
+* [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
 * [99translations.com](http://99translations.com/public_projects/show/181) - the service we use to help translate Diaspora
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
