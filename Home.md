@@ -19,6 +19,7 @@ anywhere on the site.
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Meet the team|Contributors]]
+* Live discussion on our [[IRC channel #diaspora/FreeNode|http://webchat.freenode.net/?channels=#diaspora]]
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
@@ -28,6 +29,7 @@ anywhere on the site.
 * [[Work on a bug|Work on a Bug]]
 * [[How we use git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
+* Live discussions on our [[IRC channel #diaspora-dev/FreeNode|http://webchat.freenode.net/?channels=#diaspora-dev]]
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
