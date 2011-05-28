@@ -11,7 +11,7 @@ We integrated the awesome extensions @siefca made for the [i18n Gem](https://git
 
 ### Choose the correct language code
 
-First look if you find a existing translation.
+First look if you find an existing translation.
 
 If you have to create a new one look [[here|https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale/]] or in config/locales/rails-i18n/ which code is used there for your language.
 
