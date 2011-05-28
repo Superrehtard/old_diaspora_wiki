@@ -58,8 +58,6 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 * [[gl|http://trasno.net/]]
 * [[ml (Malayalam)|http://wiki.smc.org.in/Diaspora_Localization]]
 
-### Translating with 99translations
-
 ### Uploading locales to 99translations
 Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  The reasons are:
 
@@ -69,7 +67,7 @@ Please do not try to upload translations to 99translations.com after you've down
 
 You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. But if you do so please try to provide as complete translations as possible, I don't have the time to do every minor upload. If you want to provide constant updates, you can choose one of the methods above or upload them self, but get really sure to avoid the mentioned issues.
 
-### Starting
+### Translating with 99translations
 
 First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
 
