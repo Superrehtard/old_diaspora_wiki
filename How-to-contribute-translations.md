@@ -60,7 +60,16 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 
 ### Translating with 99translations
 
-**Note:** Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  There are some weird bugs with that. You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. If you do so please try to provide as complete translations as possible.
+### Uploading locales to 99translations
+Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  The reasons are:
+
+* If you made syntax errors that made the YAML file invalid, 99translations is terrible at informing you about that
+* If someone else made changes while you're editing the file, they would be overwritten by yours.
+* If you leave English strings in the file, 99transaltions would treat them as complete translations.
+
+You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. But if you do so please try to provide as complete translations as possible, I don't have the time to do every minor upload. If you want to provide constant updates, you can choose one of the methods above or upload them self, but get really sure to avoid the mentioned issues.
+
+### Starting
 
 First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
 
