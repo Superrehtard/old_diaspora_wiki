@@ -65,7 +65,7 @@ Please do not try to upload translations to 99translations.com after you've down
 * If someone else made changes while you're editing the file, they would be overwritten by yours.
 * If you leave English strings in the file, 99transaltions would treat them as complete translations.
 
-You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. But if you do so please try to provide as complete translations as possible, I don't have the time to do every minor upload. If you want to provide constant updates, you can choose one of the methods above or upload them self, but get really sure to avoid the mentioned issues.
+You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. But if you do so please try to provide as complete translations as possible, I don't have the time to do every minor upload. If you want to provide constant updates, you can choose one of the methods above or upload them by yourself, but get really sure to avoid the mentioned issues.
 
 ### Translating with 99translations
 
