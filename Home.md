@@ -27,7 +27,7 @@ anywhere on the site.
 * [[Contributor License Agreement|New-CLA--12-13-10]]
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
-* [[How we use git|Git Workflow]]
+* [[How to contribute with Git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
 * Live discussions on our [[IRC channel #diaspora-dev/FreeNode|http://webchat.freenode.net/?channels=#diaspora-dev]]
 
