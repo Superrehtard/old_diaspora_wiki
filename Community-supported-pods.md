@@ -188,6 +188,14 @@ management console.
     * Operating system: Linux (Scientific Linux 6.0)
     * Comments: Open, intended for those interested in future Internet testbeds and research
 
+* [[https://diasp.fi/]] [[https://diasp.eu/apple-touch-icon.png|height=30px|]]
+   * Opened: 30/05/2011
+   * Updated: Once a day
+   * Maintained by a private person
+       * [[http://twitter.com/diasp_fi]]
+   * Operating system: Linux
+   * Comments: Testing as a development platform.
+
 * [[https://diaspora.hostmaster.org/]] [[http://diaspora.hostmaster.org/apple-touch-icon.png|height=30px|]]
     * Opened: 27/11/2010
     * Updated: as needed
@@ -240,6 +248,8 @@ management console.
         * [[http://twitter.com/sgruhier]]
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: Up all the time, database will be reset only if need be
+
+
 
 * [[http://diasporahosts.com]] [[http://diasporahosts.com:3000/apple-touch-icon.png|height=30px|]]
     * Opened: 17/09/2010
