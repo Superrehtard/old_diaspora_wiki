@@ -305,6 +305,16 @@ management console.
     * Operating system: Slackware 12.2
     * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
 
+* [[https://londondiaspora.org/]] [[https://londondiaspora.org/apple-touch-icon.png|height=30px]]
+   * Opened: 17/05/2011
+   * Updated: irregularly, 1-3 weeks
+   * Maintainer: Levente Bagi
+       * [[http://twitter.com/LondonDiaspora]] 
+       * [[http://github.com/bagilevi]]
+       * DIASPORA: levente@londondiaspora.org
+   * Operating system: Ubuntu 10.04
+   * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
+
 * [[http://mangaspora.com]] [[http://mangaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 25/12/2010
     * updated every couple of days
