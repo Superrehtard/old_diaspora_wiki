@@ -19,6 +19,7 @@ anywhere on the site.
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Meet the team|Contributors]]
+* [[Community Meetups|Meetups]]
 * Live discussion on our [[IRC channel #diaspora/FreeNode|http://webchat.freenode.net/?channels=#diaspora]]
 * [[Related and similar projects|Other projects]]
 
