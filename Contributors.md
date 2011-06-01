@@ -7,7 +7,7 @@ The four co-founders of the project work on it full time in San Francisco.
 
 Over 100 other people have contributed to the codebase. You can see the [[full list of developer contributors|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. Major contributors to the code base include:
 
-* [[Dan Hanson|https://github.com/ohaibbq]]
+* [[Dan Hansen|https://github.com/ohaibbq]]
 * [[Jonne Hass|https://github.com/MrZYX]]
 * [[Sarah Mei|https://github.com/sarahmei]]
 * [[Robin Nilsson|https://github.com/hexagon]]
