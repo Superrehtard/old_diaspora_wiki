@@ -19,10 +19,27 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
     * Set default access type to "Read & Write"
     * There is a Captcha  ;)
     * Click "Register application"
-* You now can see your consume key and your consumer secret, copy them to the right places in config/oauth_keys.yml   
+* You now can see your consumer key and your consumer secret, copy them to the right places in config/oauth_keys.yml   
 [[https://mrzyx.de/diaspora/services_twitter_3.png|width=500px]]
-* Restart Diaspora on your sever (you can skip that when you want to also add facebook support) 
+* Restart Diaspora on your sever (you can skip that when you want to also add support for more services) 
 * You're done. It's now possible to post to Twitter from your pod :)
+
+## Tumblr
+
+* Goto [[http://www.tumblr.com]] and sign up. If you already have an account get sure you're signed in.
+* Goto [[http://www.tumblr.com/oauth/register]]
+[[https://mrzyx.de/diaspora/services_tumblr.png]]
+    * Give it a name
+    * Set the application website to your pod URL or a page that describes what Diaspora is and waht your pod has to do with it
+    * Give it a description
+    * Enter an email address
+    * **Important:** Set the "Default callback URL" to your pod_url (including http/https)+ /auth/tumblr/callback So if your pod is located at http://example.org enter http://example.org/auth/tumblr/callback
+    * You can upload an icon but that's optional
+    * Click register
+* You'll be redirected to [[http://www.tumblr.com/oauth/apps]] where you can see your consumer key. After a click on "Show secret key" you can see your consumer secret. Add both to the right places in config/oauth_keys.yml
+* Restart Diaspora on your sever (you can skip that when you want to also add support for more services) 
+* You're done. It's now possible to post to Tumblr from your pod :)
+
 
 ## Facebook
 
