@@ -28,7 +28,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 
 * Goto [[http://www.tumblr.com]] and sign up. If you already have an account get sure you're signed in.
 * Goto [[http://www.tumblr.com/oauth/register]]
-[[https://mrzyx.de/diaspora/services_tumblr.png]]
+[[https://mrzyx.de/diaspora/services_tumblr.png|width=500px]]
     * Give it a name
     * Set the application website to your pod URL or a page that describes what Diaspora is and waht your pod has to do with it
     * Give it a description
