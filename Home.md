@@ -48,7 +48,7 @@ anywhere on the site.
 ## Pod Maintainer Resources
 * [[Installing and Running Diaspora]] <--- click here!
 * [[How to customize the splash page|Customize your splash page]]
-* [[How to set up Twitter/FB integration|Howto-setup-services]]
+* [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
 * [[joindiaspora.com Production Setup|How we do it]]
 * Various Guides & Resources (probably outdated)
