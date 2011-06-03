@@ -1,3 +1,7 @@
+**June**
+* Added posting to Tumblr
+* You can now view more than 15 people when searching for a tag
+
 **May**
 
 * Ability to like a post
