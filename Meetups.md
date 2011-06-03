@@ -10,6 +10,13 @@ Diaspora community meetups planning page.
 - Suggested places - COEP, Symbiosis, Red Hat
 - [[More discussions|https://joindiaspora.com/status_messages/254997]] (sorry, at present permalinks does not show discussions or allow comments, so you have to have a joindiaspora.com account to visit that page). 
 
+### Rationale
+
+- we want to get more people into diaspora
+-- it would make diaspora more fun place
+-- it would make us depend less on facebook to connect with our friends
+-- and of course, diaspora is an important project that should succeed
+
 ### Ideas 
 
 - make diaspora posters (handmade) - every one to bring a2 sheet, colour pens/sketch pens/pencils etc
