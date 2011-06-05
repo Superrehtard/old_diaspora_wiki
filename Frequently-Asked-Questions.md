@@ -114,6 +114,10 @@ though the best solution is ./ubuntu-setup.bash
 To create a new account, go to http://yourdiasporainstance.com/users/sign_up 
 (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
+***I installed Diaspora on my machine, but when I load the site there are no images and the layout looks horrible!***
+
+If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
+
 ## Developer FAQ
 
 ***How do I get debug information?***  
