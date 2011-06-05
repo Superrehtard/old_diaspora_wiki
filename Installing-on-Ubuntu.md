@@ -21,7 +21,7 @@ This is for Ubuntu 10.10. There are other steps than just this one:
 
 To install Bundler, run the following:
 
-        sudo gem install bundler 
+        sudo gem install bundler --no-ri --no-rdoc 
 
 To get bundle work (**bundle install** step later), you might need to make a symbolic link:
 
