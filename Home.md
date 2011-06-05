@@ -44,6 +44,7 @@ anywhere on the site.
   * [[Client-server-model]]
   * [[Security Architecture Proposal]]
   * [[Interface-ideas]]
+* [[Other ways to contribute|Other Ways to Contribute]]
 
 ## Pod Maintainer Resources
 * [[Installing and Running Diaspora]] <--- click here!
