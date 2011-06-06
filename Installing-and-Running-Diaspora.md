@@ -200,7 +200,7 @@ In order to apply any new schema always run
 
 Or if you you run in production mode
 
-        RAILS_ENV=production bundle exec rake db:migrate
+        RAILS_ENV="production" bundle exec rake db:migrate
 
 Now start Diaspora again.
 
