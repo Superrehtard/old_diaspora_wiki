@@ -6,16 +6,17 @@ Diaspora community meetups planning page.
 
 ### Pune Diaspora Meetup 1 
 
-- Suggested date - June 3rd week
-- Suggested places - COEP, Symbiosis, Red Hat
+- Date - Saturday, June 18
+- Place - COEP Boat Club
+- Suggested time - 10 am
 - [[More discussions|https://joindiaspora.com/status_messages/254997]] (sorry, at present permalinks does not show discussions or allow comments, so you have to have a joindiaspora.com account to visit that page). 
 
 ### Rationale
 
-- we want to get more people into diaspora
+- We want to get more people into diaspora
 -- it would make diaspora more fun place
 -- it would make us depend less on facebook to connect with our friends
--- and of course, diaspora is an important project that should succeed
+- and of course, diaspora is an important project that should succeed
 
 ### Ideas 
 
@@ -25,5 +26,5 @@ Diaspora community meetups planning page.
 - promotion ideas/plans
 
 ### Attending
-[[j4v4m4n at joindiaspora.com|https://joindiaspora.com/public/j4v4m4n]]  
+[[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]]  
 [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]
