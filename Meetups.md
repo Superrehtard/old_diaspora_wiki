@@ -25,4 +25,5 @@ Diaspora community meetups planning page.
 - promotion ideas/plans
 
 ### Attending
-[[j4v4m4n at joindiaspora.com|https://joindiaspora.com/public/j4v4m4n]]
+[[j4v4m4n at joindiaspora.com|https://joindiaspora.com/public/j4v4m4n]]  
+[[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]
