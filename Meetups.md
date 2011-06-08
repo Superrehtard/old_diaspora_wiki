@@ -14,8 +14,8 @@ Diaspora community meetups planning page.
 ### Rationale
 
 - We want to get more people into diaspora
--- it would make diaspora more fun place
--- it would make us depend less on facebook to connect with our friends
+ - it would make diaspora more fun place
+ - it would make us depend less on facebook to connect with our friends
 - and of course, diaspora is an important project that should succeed
 
 ### Ideas 
