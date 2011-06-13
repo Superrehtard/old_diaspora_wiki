@@ -30,3 +30,4 @@ Diaspora community meetups planning page.
 [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]  
 [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]  
 [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]   
+[[Prathamesh Sonpatki]]
