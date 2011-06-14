@@ -78,6 +78,7 @@ To install ImageMagick, run the following:
 
         sudo apt-get install imagemagick libmagick9-dev
 
+Note that libmagick9-dev is provided through libmagickwand-dev.
 
 ### Redis
 
