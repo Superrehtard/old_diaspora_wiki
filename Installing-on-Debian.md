@@ -70,6 +70,8 @@ You already have OpenSSL installed but you need the libssl-dev and libopenssl-ru
 
         sudo apt-get install libssl-dev libopenssl-ruby
 
+For Debian 6.0 and later, libopenssl-ruby is provided through the virtual package libruby or libruby1.8.
+
 ### ImageMagick
 
 To install ImageMagick, run the following:
