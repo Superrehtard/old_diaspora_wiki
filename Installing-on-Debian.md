@@ -82,7 +82,11 @@ Note that libmagick9-dev is provided through libmagickwand-dev.
 
 ### Redis
 
-If you're running a 64-bit system, run:
+Debian 6.0 stable repositories have an older version of Redis.  If you are running Debian Testing, you can use the repository:
+
+        sudo apt-get install redis-server
+
+Otherwise, you can get the newer version directly.  If you're running a 64-bit system, run:
 
         wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.5-1_amd64.deb
 
@@ -92,7 +96,7 @@ If you're running a 32-bit system, run:
 
 Then install the corresponding package
 
-        sudo dpkg -i redis-server_2.2.2-1_amd64.deb
+        sudo dpkg -i redis-server_2.2.5-1_amd64.deb
 
 ### RubyGems
 
