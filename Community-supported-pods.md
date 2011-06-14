@@ -446,7 +446,7 @@ management console.
     * Updated: major changes
     * Maintained by: private individual 
     * Operating system: Linux 
-    * Comments: Public and free Diaspora pod for EUROPE.
+    * Comments: Public and free Diaspora pod.
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
