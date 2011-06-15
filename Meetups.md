@@ -28,8 +28,7 @@ Diaspora community meetups planning page.
 
 ### Attending
 [[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]]   
-[[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]  
-[[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]  
+[[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]   
 [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]   
 [[Prathamesh Sonpatki|https://joindiaspora.com/public/prathamesh]]   
 [[Abhijit A M|https://joindiaspora.com/public/abhijit13]]
