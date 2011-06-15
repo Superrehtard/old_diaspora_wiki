@@ -9,7 +9,8 @@ Diaspora community meetups planning page.
 - Date - Saturday, June 18
 - Place - COEP Boat Club - [[Map of COEP|http://www.openstreetmap.org/?lat=18.530284&lon=73.855784&zoom=18&layers=M]]
 - Suggested time - 10 am
-- [[More discussions|https://joindiaspora.com/status_messages/254997]] (sorry, at present permalinks does not show discussions or allow comments, so you have to have a joindiaspora.com account to visit that page). 
+- [[More discussions|https://joindiaspora.com/status_messages/254997]] (sorry, at present permalinks does not show discussions or allow comments, so you have to have a joindiaspora.com account to visit that page).
+- Tag - [[#diaspune|https://joindiaspora.com/tags/diaspune]]
 
 ### Rationale
 
