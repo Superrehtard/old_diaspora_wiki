@@ -36,6 +36,7 @@ Diaspora community meetups planning page.
  1. [[Prathamesh Sonpatki|https://joindiaspora.com/public/prathamesh]]   
  1. [[Abhijit A M|https://joindiaspora.com/public/abhijit13]]
  1. [[Meha Raje Upadhyay|https://joindiaspora.com/public/meha_ru]]
+ 1. [[Vipul A M|https://diasp.org/people/3127]]
 
 &lt;add your name here&gt;
 
