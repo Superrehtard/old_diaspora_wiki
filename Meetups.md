@@ -13,6 +13,7 @@ Diaspora community meetups planning page.
 - Suggested time - 10 am
 - [[More discussions|https://joindiaspora.com/status_messages/254997]] (sorry, at present permalinks does not show discussions or allow comments, so you have to have a joindiaspora.com account to visit that page).
 - Tag - [[#diaspune|https://joindiaspora.com/tags/diaspune]]
+- [[Poster Source|http://j4v4m4n.in/diaspune-poster.svg]] (designed by [[Labeeb Mattra|https://joindiaspora.com/people/35164]])
 
 ### Rationale
 
