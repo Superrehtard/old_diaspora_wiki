@@ -6,6 +6,8 @@ Diaspora community meetups planning page.
 
 ### Pune Diaspora Meetup 1 
 
+![diaspune 1 poster](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_0a0ccba222ea4e806225.jpg)
+
 - Date - Saturday, June 18
 - Place - COEP Boat Club - [[Map of COEP|http://www.openstreetmap.org/?lat=18.530284&lon=73.855784&zoom=18&layers=M]]
 - Suggested time - 10 am
