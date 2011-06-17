@@ -27,11 +27,16 @@ Diaspora community meetups planning page.
 - promotion ideas/plans
 
 ### Attending
-[[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]]   
-[[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]   
-[[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]   
-[[Prathamesh Sonpatki|https://joindiaspora.com/public/prathamesh]]   
-[[Abhijit A M|https://joindiaspora.com/public/abhijit13]]
+ 1. [[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]]   
+ 1. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]   
+ 1. [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]   
+ 1. [[Prathamesh Sonpatki|https://joindiaspora.com/public/prathamesh]]   
+ 1. [[Abhijit A M|https://joindiaspora.com/public/abhijit13]]
+ 1. [[Meha Raje Upadhyay|https://joindiaspora.com/public/meha_ru]]
 
+&lt;add your name here&gt;
 
-[[Meha Raje Upadhyay|https://joindiaspora.com/public/meha_ru]]
+or RSVP on 
+
+- [[facebook|http://www.facebook.com/event.php?eid=130267220385326]]
+- [[Google Calendar|https://www.google.com/calendar/render?eid=aW1oaHVtNTBydnU2M2ptN2pyYmY3ZHRtajAgdTFiamRsMDZvNTJoMXQ0cWIxdWNmNmx1amdAZw&pli=1&gsessionid=iKvmb2SF_LAHGkaXzAunZg&sf=true&output=xml]]
