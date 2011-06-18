@@ -45,3 +45,14 @@ or RSVP on
 
 - [[facebook|http://www.facebook.com/event.php?eid=130267220385326]]
 - [[Google Calendar|https://www.google.com/calendar/render?eid=aW1oaHVtNTBydnU2M2ptN2pyYmY3ZHRtajAgdTFiamRsMDZvNTJoMXQ0cWIxdWNmNmx1amdAZw&pli=1&gsessionid=iKvmb2SF_LAHGkaXzAunZg&sf=true&output=xml]]
+
+### Photos
+
+![diaspune photos](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_0f9a490f185bdbf0ca51.jpg)
+
+![poster made at diaspune](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_f5805c4805cb0c40da7a.jpg)
+
+More photos
+
+- [[Set 1 from Suchakra's camera|https://joindiaspora.com/photos/294377]]
+- [[Set 2 from Praveen's phone|https://joindiaspora.com/photos/294962]]
