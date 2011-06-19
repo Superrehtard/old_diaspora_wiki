@@ -441,13 +441,6 @@ management console.
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
-* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px]]
-    * Opened: 18/12/2010
-    * Updated: major changes
-    * Maintained by: private individual 
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod.
-
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
    * Updated: Once a day
@@ -462,3 +455,19 @@ management console.
     * Maintained by: private individual 
     * Operating system: Debian Linux 
     * Comments: public registration open, Twitter and Facebook support, HTTPS available
+
+
+* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px]]
+    * Opened: 18/12/2010
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod.
+
+
+* [[http://yaspora.es]] [[http://yaspora.es/apple-touch-icon.png|height=30px]]
+    * Opened: 19/06/2011
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod.
