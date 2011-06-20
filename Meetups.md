@@ -56,3 +56,4 @@ More photos
 
 - [[Set 1 from Suchakra's camera|https://joindiaspora.com/photos/294377]]
 - [[Set 2 from Praveen's phone|https://joindiaspora.com/photos/294962]]
+- [[Set 3 from Sana Khan's camera|https://joindiaspora.com/photos/295436]]
