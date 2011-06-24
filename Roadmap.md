@@ -30,7 +30,7 @@ against the spec yet.  It should be made compliant with the salmon spec.
 - Mentions and tags should work in comments and captions.
 - Software Update Framework for folks running their own pod.
 - An administrator interface that would do the entire update automatically, like the way 
-WordPress can be updated through its admin interface.
+Wordpress can be updated through its admin interface.
 
 ## Wishlist
 These are things which would be nice to have, but are not currently in our plan. If you're looking
