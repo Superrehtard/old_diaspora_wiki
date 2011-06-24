@@ -33,7 +33,7 @@ If needed, a "\*" or "\_" inside the text can be escaped with the "\" character:
 becomes "**Use Two \_ for Bold Text**".
 Of course, this can also be used to prevent formatting:
 
-    \_Italic \**Bold**
-becomes "\_Italic \**Bold**".
+    \_Italic_ \**Bold**
+becomes "\_Italic_ \**Bold**".
 
 (Translated from http://wiki.spored.de/w/Nachrichten_formatieren)
