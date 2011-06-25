@@ -21,6 +21,7 @@ anywhere on the site.
 * [[Meet the team|Contributors]]
 * [[Community Meetups|Meetups]]
 * Live discussion on our [[IRC channel #diaspora/FreeNode|http://webchat.freenode.net/?channels=#diaspora]]
+* Inofficial Jabber-chatroom: [[diaspora@conference.jabber.org|xmpp:diaspora@conference.jabber.org]]
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
