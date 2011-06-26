@@ -4,6 +4,7 @@
 * Facebook connection now working
 * Added posting to Tumblr
 * You can now view more than 15 people when searching for a tag
+* Replaced aspects manage page with contact list page
 
 **May**
 
