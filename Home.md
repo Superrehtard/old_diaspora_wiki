@@ -26,7 +26,7 @@ anywhere on the site.
 
 ## Developer Resources
 * [[Installing and Running Diaspora]] &lt;--- click here!
-* [[Contributor License Agreement|New-CLA--12-13-10]]
+* [[Contributor License Agreement|New-CLA--12-13-10]] - [[Sign Here!|https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ]]
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
 * [[How to contribute with Git|Git Workflow]]
@@ -35,7 +35,7 @@ anywhere on the site.
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
-* [[Contributor License Agreement|New-CLA--12-13-10]]
+* [[Contributor License Agreement|New-CLA--12-13-10]] - [[Sign Here!|https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ]]
 * [[How to contribute UI translations|How-to-contribute-translations]]
 * Understanding Diaspora
   * [[An Introduction to the Diaspora Source]]
