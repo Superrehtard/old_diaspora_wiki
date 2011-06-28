@@ -1,5 +1,6 @@
 **June**
 
+* Revamped (simplified) contacts management interface.
 * Revamped login page
 * Facebook connection now working
 * Added posting to Tumblr
