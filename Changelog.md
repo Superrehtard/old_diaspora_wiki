@@ -1,11 +1,10 @@
 **June**
 
-* Revamped (simplified) contacts management interface.
 * Revamped login page
 * Facebook connection now working
 * Added posting to Tumblr
 * You can now view more than 15 people when searching for a tag
-* Replaced aspects manage page with contact list page
+* Replaced aspects manage page with contact list page / Revamped (simplified) contacts management interface.
 
 **May**
 
