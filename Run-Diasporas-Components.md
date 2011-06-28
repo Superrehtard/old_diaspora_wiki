@@ -14,7 +14,7 @@ It will run on port 3000 by default. If you want it to be available on port 80, 
 
 ### Run the websocket server and redis
 
-Run `bundle exec ruby script/websocket_server.rb` to start websockets on port 8080. Change port in config/app_config.yml.
+Run `bundle exec ruby script/websocket_server.rb` to start websockets on port 8080. Change port in config/application.yml.
 
 Run `redis-server` to start redis on the default port 6379. It uses a config file, normally /etc/redis.conf or /etc/redis/redis.conf defining ports and other stuff.
 
