@@ -6,3 +6,7 @@ For attendees, pre-requisite knowledge on basic web development and database int
 - 9th July 2011 at SICSR
 - 2 pm - 5 pm
 
+### Attending
+
+  &lt;add your name here&gt;
+
