@@ -12,7 +12,7 @@ There is one obvious benefit if one believes in Free Software as an idea or they
 
 What is in there for us who are out to help you? We believe in Free Software and we want to make it better. We are always looking to expand our community.
 
-Comments and additions welcome, the aim is to give a brief idea of benefits to students contributing to Free Software, motivate them to attend [[Pune Diaspora Meetup 3 | Ruby on Rails workshop]] and get more contributors to diaspora (may be for other Free Software projects too if there is an interest). 
+Comments and additions welcome, the aim is to give a brief idea of benefits to students contributing to Free Software, motivate them to attend [[ Ruby on Rails workshop | Pune Diaspora Meetup 3]] and get more contributors to diaspora (may be for other Free Software projects too if there is an interest). 
 
 ### Attending
  1. [[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]]   
