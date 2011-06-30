@@ -14,6 +14,8 @@ What is in there for us who are out to help you? We believe in Free Software and
 
 Comments and additions welcome, the aim is to give a brief idea of benefits to students contributing to Free Software, motivate them to attend [[ Ruby on Rails workshop | Pune Diaspora Meetup 3]] and get more contributors to diaspora (may be for other Free Software projects too if there is an interest). 
 
+If you are already a contributor to any Free Software project, we would love to have you come and talk about your project and share your experience, you might get some new contributors too!
+
 - Date: 3rd July 2011
 - Location: VIT Bibwewadi (near Katraj), Computer Science Department, Room no 1301. 
 - Time: 10 am.
