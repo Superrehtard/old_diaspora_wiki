@@ -63,6 +63,10 @@ To start MySQL run
 
         sudo service mysql start
 
+### sqlite
+
+        apt-get install libsqlite3-dev
+
 ### OpenSSL
 
 You already have OpenSSL installed but you need the libssl-dev and libopenssl-ruby package too:
