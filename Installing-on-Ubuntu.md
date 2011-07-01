@@ -65,7 +65,7 @@ To start MySQL run
 
 ### sqlite
 
-        apt-get install libsqlite3-dev
+        sudo apt-get install libsqlite3-dev
 
 ### OpenSSL
 
