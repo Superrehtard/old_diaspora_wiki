@@ -7,6 +7,7 @@ For attendees, pre-requisite knowledge on basic web development and database int
 - 2 pm - 5 pm
 
 ### Attending
-
-  &lt;add your name here&gt;
+  1. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]] 
+  
+&lt;add your name here&gt;
 
