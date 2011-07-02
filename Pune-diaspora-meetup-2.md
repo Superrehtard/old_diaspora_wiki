@@ -25,5 +25,6 @@ If you are already a contributor to any Free Software project, we would love to 
  2. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]   
  3. Sahil Patwardhan   
  4. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
+5. Mayank Jain
 
   &lt;add your name here&gt;
