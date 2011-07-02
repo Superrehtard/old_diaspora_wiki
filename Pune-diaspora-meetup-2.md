@@ -23,5 +23,6 @@ If you are already a contributor to any Free Software project, we would love to 
 ### Attending
  1. [[Praveen Arimbrathodiyil|https://joindiaspora.com/public/j4v4m4n]] 
  2. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]   
+ 3. Sahil Patwardhan   
 
   &lt;add your name here&gt;
