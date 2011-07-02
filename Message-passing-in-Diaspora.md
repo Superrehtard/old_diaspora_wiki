@@ -13,7 +13,7 @@ post.to_diaspora_xml
       }
     end
 
-Salmon::SalmonSlap.create aes encrypts the body(that xml) and signs the aes ciphertext
+Salmon::SalmonSlap.create # aes encrypts the body(that xml) and signs the aes ciphertext
     def self.create(user, activity)
       salmon = self.new
       salmon.author = user.person
