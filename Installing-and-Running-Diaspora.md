@@ -141,11 +141,11 @@ If you want to run production mode:
 
 Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/common/templates/default/nginx.conf.erb">configuration</a>
 
-#### load balancing with a thin cluster and nginx
+### load-balancing with a Thin cluster and Nginx
 
 To improve the performance on large-scale pods, it makes sense to run many thin servers and cluster them for load-balancing. Add the parameters `--servers n -R config.ru` to the list of `default_thin_args` in `config/script_server_config.yml`, where *n* is the number of thin servers you like to cluster:
 
-     default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV""
+     default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV"
 
 This will instruct the `./script/server` script to run thin instances on $THIN_PORT and the next *n-1* ports. Make sure that your nginx configuration knows about these servers by adding them to the list of upstream servers. E.g.: if the thin port is 3000 and you want to cluster five servers, the upstream section of your nginx configuration should look like this:
 
