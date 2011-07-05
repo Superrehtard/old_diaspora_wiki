@@ -126,4 +126,9 @@ Note: If you get an error in the next step try to run
 
 and try the step again.
 
+### SQLite libraries and header files
+
+        sudo apt-get install libsqlite3-dev
+
+
 Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
