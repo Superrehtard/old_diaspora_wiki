@@ -9,6 +9,7 @@ For attendees, pre-requisite knowledge on basic web development and database int
 ### Attending
   1. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]] 
   2. [[Muneeb Shaikh|https://joindiaspora.com/public/iamMuneeb]] 
+  3. [[Rahul Bedarkar|https://joindiaspora.com/public/rpal143]]
   
 
 &lt;add your name here&gt;
