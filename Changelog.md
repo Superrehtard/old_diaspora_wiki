@@ -4,11 +4,11 @@
 * Facebook connection now working
 * Added posting to Tumblr
 * You can now view more than 15 people when searching for a tag
-* Replaced aspects manage page with contact list page / Revamped (simplified) contacts management interface.
-* UI Redesign
-* Notifications Dropdown
-* Ajaxy likes
-* Follow hashtags
+* Revamped (simplified) contacts management interface: Replaced aspects manage page with contact list page.
+* General UI redesign and cleanup.
+* Notifications partially moved in a handier dropdown in the header.
+* Likes use ajax now.
+* Ability to "follow" (subscribe to) hashtags.
 
 **May**
 
