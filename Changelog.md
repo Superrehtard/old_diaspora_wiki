@@ -1,3 +1,9 @@
+**July**
+* General UI redesign and cleanup.
+* Notifications partially moved in a handier dropdown in the header.
+* Likes use ajax now.
+* Ability to "follow" (subscribe to) hashtags.
+
 **June**
 
 * Revamped login page
@@ -5,10 +11,6 @@
 * Added posting to Tumblr
 * You can now view more than 15 people when searching for a tag
 * Revamped (simplified) contacts management interface: Replaced aspects manage page with contact list page.
-* General UI redesign and cleanup.
-* Notifications partially moved in a handier dropdown in the header.
-* Likes use ajax now.
-* Ability to "follow" (subscribe to) hashtags.
 
 **May**
 
