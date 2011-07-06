@@ -7,8 +7,8 @@ For attendees, pre-requisite knowledge on basic web development and database int
 * 2 pm - 5 pm
 
 ### Attending
-1. AbdulKarim Memon
-1. Muneeb Shaikh
-1. Rahul Bedarkar
+1. [AbdulKarim Memon ](https://joindiaspora.com/public/techmaniack)
+1. [Muneeb Shaikh](https://joindiaspora.com/public/iamMuneeb)
+1. [Rahul Bedarkar](https://joindiaspora.com/public/rpal143)
 
-<add your name here>
+< add your name here >
