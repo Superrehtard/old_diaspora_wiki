@@ -1,22 +1,22 @@
---Aspects--
+###Aspects
 We should get rid of ‘all aspects’ in the left menu and replace it with having litterly all aspects selected. Having no aspects selected should say: select one or more aspects from the left menu. Have a way to set default aspects. This stimulates sharing with a selection of common aspects instead of posting everything to ‘all aspects’. You could exclude your ‘work’ or ‘teachers’ aspect for example.
 
---Public / private--
+###Public / private
 Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and also add ‘and comments’ in the hover message on ‘Public’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
 
 Add a hover over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” 
 
---Publisher--
+###Publisher
 Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior.
 
 Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
 
 Have an aspect dropdown next to the share button. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too.
 
---Messages--
+###Messages
 Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
 
---Stream--
+###Stream
 Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: http://i.imgur.com/XnpWP.png (exclude the likes on comments for now). The names of those who liked the content should go in a hover instead (as they aren’t important enough to justify taking a lot of space).
@@ -27,18 +27,18 @@ Get rid of the aweful  and  smilies. Either replace them with real smilies
 
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
---Tags--
+###Tags
 Clean up their appearance a bit as they are kinda overkill right now; http://i.imgur.com/72Xtk.png
 
 Add the followed tags to the right menu and let the left menu float again.
 
---Menus--
+###Menus
 Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future (http://i.imgur.com/bZi2F.png). Also add suggested contacts there.
 
---Photos--
+###Photos
 Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. The viewer should solve it for now; before the end of the year we will need to have full-fletched photo albums.
 
---Suggested contacts--
+###Suggested contacts
 -	Suggest people with the same tags added to their profile
 -	Mutual contacts
 -	Facebook friends
@@ -47,30 +47,30 @@ Have a huge photo viewer pop up when you click on a photo in the stream, with pr
 
 Suggested contacts should be both a widget in the right menu as well as a section on the contact page.
 
---Birthdays--
+###Birthdays
 Add birthday notifications and mail about them to make people return to Diaspora.
 
---Profile--
+###Profile
 Title and item fields which can be assigned to aspects and ‘public’. This will allow for the much craved ‘per aspect profiles’ and offers a lot of possibilities. Solves a big problem for now (e.g. we can finally privately put up our telephonenumber and emailadres for our true friends). Probably needs some refining in the future but we need to take a step.
 
---Import RSS--
+###Import RSS
 The ability to import RSS into your stream in order to follow blogs and site updates. This will add feedreader functionality to Diaspora. Can very well be tied in with the ‘Collections’ concept I read in the tracker.
 
---Hovercards--
+###Hovercards
 We could use these for a visit profile, message, mention and chat button, as well as for adding the contact to aspects. We can do this all over the place, making the interface a lot more consistent. Also possibly removes the need for ‘add to aspect’ buttons in places where the buttons don’t fit, like the tag page.
 
 Instead of hovercards they would need to be on-click cards. Middle mouse-button click should take you directly to the users profile page.
 
---Contact management--
+###Contact management
 The contacts page doesn’t provide any functionality that can’t be done in an easier way elsewhere, except for doing a lot of changes on a lot of contacts. We do need the page because people will expect it to exist but it’s really got to be better. One way of massively improving the usability of the page is by adding real-time contact browsing; http://i.imgur.com/Dfh7e.png
 
 “All contacts” is the only real feature though. Adding to aspects is already as easy as can be. Especially if it’s going to be in the hover/clickcards.
 
---Notifications--
+###Notifications
 Show the amount of unread notifications in the title of the page.
 
---Homepage--
+###Homepage
 A lot of people wonder whether Diaspora still exists and whether it’s actually being used. It would be nice if we could have a stream of public posts on the homepage of the pod, to show that Diaspora is alive and kicking. Also helps with finding contacts. Improves the first impression of potential users and gives a clear signal to the existing users that public really means public.
 
---Reshare--
+###Reshare
 This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
