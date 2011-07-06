@@ -62,6 +62,9 @@ from the list:
 - [[Installing Diaspora dependencies on OS X|Installing on Mac OS X]]
 - [[Installing Diaspora on Windows XP|Installing on Windows XP]]
 
+or select your hosting provider from list:
+
+- [[Installing Diaspora dependencies on Dreamhost|Installing on Dreamhost]]
 If you don't see your system on here, we don't currently support it. If you figure out how to get
 it working, though, let us know. We'd love to be able to let folks install on (for example) Windows.
 
