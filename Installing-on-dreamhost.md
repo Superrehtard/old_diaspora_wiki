@@ -1,4 +1,4 @@
-Dreamhost runs Debian GNU/Linux lenny 5.0.8
+Dreamhost runs Debian GNU/Linux lenny 5.0.8. You will need to create a new domain or subdomain with Ruby on Rails enabled.
 
 ### MySQL
 
