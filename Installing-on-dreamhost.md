@@ -27,3 +27,7 @@ there is an old version of rack installed by default which conflicts with diapso
 passenger equivalent to restart is
 
        touch tmp/restart.txt
+
+you have to run jammit to have the layout come properly
+
+      ~/gems/bin/bundle exec jammit
