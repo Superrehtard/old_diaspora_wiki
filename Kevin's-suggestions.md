@@ -21,7 +21,11 @@ Have a dropdown menu. People have come to expect this after the notification dro
 ###Stream
 Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
 
-Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: http://i.imgur.com/XnpWP.png (exclude the likes on comments for now). The names of those who liked the content should go in a hover instead (as they aren’t important enough to justify taking a lot of space).
+Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
+
+![Picture](http://i.imgur.com/XnpWP.png)
+
+The names of those who liked the content should go in a hover instead (as they aren’t important enough to justify taking a lot of space).
 
 The time ago really should go back under the post like it used to be. Not only does it look better; right now it also switches the name and time ago on RTL languages. It also goes very well with the apps (Public 1 minute ago via Cubbi.es). 
 
@@ -30,12 +34,16 @@ Get rid of the aweful  and  smilies. Either replace them with real smilies
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
 ###Tags
-Clean up their appearance a bit as they are kinda overkill right now; http://i.imgur.com/72Xtk.png
+Clean up their appearance a bit as they are kinda overkill right now:
+
+![Picture](http://i.imgur.com/72Xtk.png)
 
 Add the followed tags to the right menu and let the left menu float again.
 
 ###Menus
-Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future (http://i.imgur.com/bZi2F.png). Also add suggested contacts there.
+Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future. Also add suggested contacts there.
+
+![Picture](http://i.imgur.com/bZi2F.png)
 
 ###Photos
 Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. The viewer should solve it for now; before the end of the year we will need to have full-fletched photo albums.
@@ -64,7 +72,9 @@ We could use these for a visit profile, message, mention and chat button, as wel
 Instead of hovercards they would need to be on-click cards. Middle mouse-button click should take you directly to the users profile page.
 
 ###Contact management
-The contacts page doesn’t provide any functionality that can’t be done in an easier way elsewhere, except for doing a lot of changes on a lot of contacts. We do need the page because people will expect it to exist but it’s really got to be better. One way of massively improving the usability of the page is by adding real-time contact browsing; http://i.imgur.com/Dfh7e.png
+The contacts page doesn’t provide any functionality that can’t be done in an easier way elsewhere, except for doing a lot of changes on a lot of contacts. We do need the page because people will expect it to exist but it’s really got to be better. One way of massively improving the usability of the page is by adding real-time contact browsing
+
+![Picture](http://i.imgur.com/Dfh7e.png)
 
 “All contacts” is the only real feature though. Adding to aspects is already as easy as can be. Especially if it’s going to be in the hover/clickcards.
 
