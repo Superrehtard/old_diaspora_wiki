@@ -1,4 +1,5 @@
 **July**
+
 * General UI redesign and cleanup.
 * Notifications partially moved in a handier dropdown in the header.
 * Likes use ajax now.
