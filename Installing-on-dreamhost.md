@@ -23,3 +23,7 @@ sqlite3 gem won't work if you don't provide '--without development' option
 there is an old version of rack installed by default which conflicts with diapsora
 
         gem install rack -v 1.2.3
+
+passenger equivalent to restart is
+
+       touch tmp/restart.txt
