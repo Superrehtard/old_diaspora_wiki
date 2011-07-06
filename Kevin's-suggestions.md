@@ -74,5 +74,7 @@ Show the amount of unread notifications in the title of the page.
 ###Homepage
 A lot of people wonder whether Diaspora still exists and whether it’s actually being used. It would be nice if we could have a stream of public posts on the homepage of the pod, to show that Diaspora is alive and kicking. Also helps with finding contacts. Improves the first impression of potential users and gives a clear signal to the existing users that public really means public.
 
+There should also be some general information about Diaspora, shipped with the pod. It should list some of the features we already have, some that will come soon. Tell people it's decentralised like e-mail and that they can talk to eachother whichever server they use.
+
 ###Reshare
 This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
