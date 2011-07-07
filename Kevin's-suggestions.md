@@ -93,5 +93,11 @@ There should also be some general information about Diaspora, shipped with the p
 ###Reshare
 This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
 
-Change emailadres
+###Change emailadress
 This is a very basic and much needed feat.
+
+###Minor things
+  - **untitaker:** links to posts in the notifications dropdown should make the page scroll to the post (if possible), instead of opening it.
+  - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed.
+  - **untitaker:** Right sidebar is way too bloated, there's also unneccessary stuff in it.
+  - **untitaker:** User menu (#user_menu) is a bit empty, some stuff (eg. from the right sidebar) could be moved in there.
