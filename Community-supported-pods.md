@@ -280,6 +280,13 @@ management console.
    * Comments: public registration open, twitter and facebook app enabled, SSL coming soon
    * Configuration: Apache2 proxy -> thin
 
+* [[https://privit.us/]]
+   * Opened: Jun 1, 2011
+   * Updated: Daily when upstream code is stable
+   * Maintained by: [[https://privit.us/people/1]]
+   * Operating system: Ubuntu 10.04
+   * Facebook, Twitter, Tumblr integration. Nginx with passenger.
+
 * [[https://spargo.me/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
    * Opened: 3/3/2011
    * Updated: Every Day between 5 and 7 o'clock in the morning
@@ -440,13 +447,6 @@ management console.
    * Operating system: Ubuntu 10.04
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
-
-* [[https://privit.us/]]
-   * Opened: Jun 1, 2011
-   * Updated: Daily when upstream code is stable
-   * Maintained by: [[https://privit.us/people/1]]
-   * Operating system: Ubuntu 10.04
-   * Facebook, Twitter, Tumblr integration
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
