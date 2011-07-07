@@ -69,9 +69,10 @@ Title and item fields which can be assigned to aspects and ‘public’. This wi
 The ability to import RSS into your stream in order to follow blogs and site updates. This will add feedreader functionality to Diaspora. Can very well be tied in with the ‘Collections’ concept I read in the tracker.
 
 ###Hovercards
-We could use these for a visit profile, message, mention and chat button, as well as for adding the contact to aspects. We can do this all over the place, making the interface a lot more consistent. Also possibly removes the need for ‘add to aspect’ buttons in places where the buttons don’t fit, like the tag page.
+We could use these for a visit profile, message, mention and chat button, as well as for adding the contact to aspects. We can do this all over the place, making the interface a lot more consistent. Also possibly removes the need for ‘add to aspect’ buttons in places where the buttons don’t fit, like the tag page and possibly the 'suggested contacts' page.
 
-Have hovercards on mentions too. Possibly add a micro-bio to the card.
+Have hovercards on mentions too. Add a micro-bio to the card to make things more personal and stimulate contacting people found on other peoples posts.
+
 ![Picture](http://i.imgur.com/DSOuv.png)
 
 ###Contact management
