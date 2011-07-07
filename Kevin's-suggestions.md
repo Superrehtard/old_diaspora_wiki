@@ -13,7 +13,7 @@ Don’t send public posts, shared with only a selection of aspects, to all aspec
 
 Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
 
-Have an aspect dropdown next to the share button. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. <--- This is backed by a real UX expert whom Dennis Schubert talked too!
+Have an aspect dropdown next to the share button. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *This is backed by a real UX expert whom Dennis Schubert talked too!*
 
 ###Messages
 Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
