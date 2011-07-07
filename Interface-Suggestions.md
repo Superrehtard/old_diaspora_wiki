@@ -12,23 +12,22 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 **Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
 
 ##Public / private
-Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
+  - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
 
-Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” 
+  - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” 
 
 ##Publisher
-Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior.
+  - Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior.
 
-Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
+  - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
 
-Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *This is backed by a real UX expert whom Dennis Schubert talked too!*
+  - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *This is backed by a real UX expert whom Dennis Schubert talked too!*
 
 ##Messages
-Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
+  - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
 
 ##Stream
 Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
-
 *Note by untitaker: Might be a privacy (on non-windows also a performance) issue, as well as the cubbi.es images.*
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
