@@ -17,7 +17,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
   - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” 
 
 ##Publisher
-_  - Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior._ (DONE)
+  - _Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior._ (DONE)
 
   - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
 
