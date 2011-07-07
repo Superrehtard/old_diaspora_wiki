@@ -41,6 +41,33 @@ Get rid of the aweful  and  smilies. Either replace them with real smilies
 
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
+##Photo albums
+This one is pretty damn big but much needed! Here's my take on it:
+
+There should be a button in the header to get to your albums (also on the profile). When you click it you get an album overview, with the photos in the albums being the album covers with a nice name on them (much like back in the ol' days).
+
+On the album overview you can add new albums.
+
+Click on an album to go to the album's page. Here you find a 'upload photos' button. Once you have uploaded the photos it a message should come up and say: don't forget to attach aspects to your photos. On the album page you can assign aspects to each photo.
+
+Givne a user named Bob and a user named Alice... :P
+Alice puts Bob in her 'friends' aspect
+And Alice makes a new album called 'Animals'
+And Alice uploads a photo of her dog to the album called 'Animals'
+And Alice assigns the photo to her 'friends' aspect
+When Bob goes to Alices' album overview, he should see an album called 'Animals'
+When Bob clicks on the album he arrives on the album page
+When Bob is on the album page, he should see a photo of Alices' dog
+When he clicks on the photo of Alices' dog, the photoviewer should appear
+And Bob should be able to comment, like, tag, etc and be a happy bob
+
+How to deal with aspects and albums? Upload photos to albums and assign aspects to the photos. A visiting contact will only see the albums that contain at least one picture they have access to. Example:
+
+There's 40 photos in 'Holiday'. 35 are tagged with Family. My mum can see the album and watch the 35 photos available to her. All 40 photos are tagged with 'Friends'. My friends can see the album and all the photos in it. No photos are tagged with 'Losers'. The loser in my friendlist can't see the album name in the first place.
+
+Suggestions much welcome!
+
+
 ##Tags
 Clean up their appearance a bit as they are kinda overkill right now. No underline, no background.
 
