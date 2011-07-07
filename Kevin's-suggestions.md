@@ -92,3 +92,6 @@ There should also be some general information about Diaspora, shipped with the p
 
 ###Reshare
 This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
+
+Change emailadres
+This is a very basic and much needed feat.
