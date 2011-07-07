@@ -10,6 +10,17 @@ To install Bundler, run the following:
 
         GEM_PATH=$HOME/gems GEM_HOME=$HOME/gems gem install bundler 
 
+### Redis 
+
+To install Redis follow these steps:
+
+        wget http://redis.googlecode.com/files/redis-2.2.11.tar.gz
+        tar -zxvf redis-2.2.11.tar.gz
+        cd redis-2.2.11
+        cd src; make PREFIX=$HOME/redis
+        make PREFIX=/home/gnupravi/redis install
+        nohup /home/gnupravi/redis/bin/redis-server  &
+
 Follow remaining steps from [[main installation article | Installing-and-Running-Diaspora]]. Just check the notes below for dreamhost specific quirks.
 
 ### Notes
