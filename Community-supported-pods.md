@@ -441,6 +441,13 @@ management console.
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
+* [[https://privit.us/]]
+   * Opened: Jun 1, 2011
+   * Updated: Daily when upstream code is stable
+   * Maintained by: [[https://privit.us/people/1]]
+   * Operating system: Ubuntu 10.04
+   * Facebook, Twitter, Tumblr integration
+
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
    * Updated: Once a day
