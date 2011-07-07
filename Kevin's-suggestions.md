@@ -7,6 +7,8 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ![State 1](http://i.imgur.com/u6noR.jpg) ![State 2](http://i.imgur.com/TZRY4.jpg) ![State 3](http://i.imgur.com/hYSPa.jpg)
 
+**Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only. Clicking 'your aspects' selects all aspects again.
+
 ##Public / private
 Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and also add ‘and comments’ in the hover message on ‘Public’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
 
