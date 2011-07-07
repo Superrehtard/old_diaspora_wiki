@@ -25,7 +25,7 @@ Don’t hide videos in the stream anymore. It may have seemed to be a very good 
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
 
-![Picture](http://i.imgur.com/XnpWP.png)
+![Timeline suggestions](http://i.imgur.com/XnpWP.png)
 
 The names of those who liked the content should go in a hover instead (as they aren’t important enough to justify taking a lot of space).
 
@@ -38,14 +38,14 @@ The new AJAX’y likes aren’t really that great. People don’t really care ab
 ###Tags
 Clean up their appearance a bit as they are kinda overkill right now:
 
-![Picture](http://i.imgur.com/72Xtk.png)
+![The current way a tag is displayed.](http://i.imgur.com/72Xtk.png)
 
 Add the followed tags to the right menu and let the left menu float again.
 
 ###Menus
 Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future. Also add suggested contacts there.
 
-![Picture](http://i.imgur.com/bZi2F.png)
+![How a customizable widget bar could look like](http://i.imgur.com/bZi2F.png)
 
 ###Photos
 Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. The viewer should solve it for now; before the end of the year we will need to have full-fletched photo albums.
@@ -73,12 +73,12 @@ We could use these for a visit profile, message, mention and chat button, as wel
 
 Have hovercards on mentions too. Add a micro-bio to the card to make things more personal and stimulate contacting people found on other peoples posts.
 
-![Picture](http://i.imgur.com/DSOuv.png)
+![Extended Hovercards suggestion](http://i.imgur.com/DSOuv.png)
 
 ###Contact management
 The contacts page doesn’t provide any functionality that can’t be done in an easier way elsewhere, except for doing a lot of changes on a lot of contacts. We do need the page because people will expect it to exist but it’s really got to be better. One way of massively improving the usability of the page is by adding real-time contact browsing
 
-![Picture](http://i.imgur.com/Dfh7e.png)
+![Better contact management](http://i.imgur.com/Dfh7e.png)
 
 “All contacts” is the only real feature though. Adding to aspects is already as easy as can be. Especially if it’s going to be in the hover/clickcards.
 
