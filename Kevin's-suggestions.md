@@ -150,3 +150,13 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
   - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed.
   - **untitaker:** Right sidebar is way too bloated, there's also unneccessary stuff in it.
   - **untitaker:** User menu (#user_menu) is a bit empty, some stuff (eg. from the right sidebar) could be moved in there.
+
+##Diaspora UX testing with noobs
+###untitaker's sister
+**untitaker:** Okay, here are the results of the Diaspora-test with my sister:
+
+  - **There really needs to be an aspect dropdown beside the share button on the main site.** My "practicant" was unable to figure it out how to use the aspects sidebar, she expected the aspects list to be beside the share button.
+
+  - **Inserting tags is unintuitive as fuck.** While signing up, the practicant tried to insert the tags without a hash as prefix, separated with commas. I'd suggest to make the tags field a simple input, without that clutter around, and, if neccessary, without autocompletion.
+
+  - **Doubled entries in searchbar.** More a bug than a UI lack, but still it was very annoying and confusing.
