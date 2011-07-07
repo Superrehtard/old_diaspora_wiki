@@ -42,6 +42,18 @@ Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with re
 
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
+##The right sidebar
+**untitaker:** The right sidebar is too bloated. Here are some widgets that should be moved or removed.
+
+###Diaspora ID
+  - Could be moved in the user menu (top right), generally style the user menu like a hovercard, with logout, settings buttons instead of mention, message. (untitaker)
+
+###Contacts
+  - Could be moved into a dropdown or tooltip of the contacts icon in the header. (untitaker)
+
+###Inviting people, connecting to services
+  - Move those somewhere in the "getting started" intro or make them a tooltip in the middlerow, which disappear after a few logins. (untitaker)
+
 ##Photoviewer
 Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook.
 
