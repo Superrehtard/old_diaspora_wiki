@@ -109,7 +109,7 @@ Title says it all. New users are going to love seeing that.
 Can we do this? Would be interesting to see if anyone in your area is on Diaspora.
 
 ##[Add checkboxes on aspects list](http://imgur.com/a/jf6Pu)
-**untitaker:** Most users associate checkboxes with the ability to select multiple items, so:
+**untitaker:** Most users associate checkboxes with the ability to select multiple items:
 
 ![State 1](http://i.imgur.com/u6noR.jpg) ![State 2](http://i.imgur.com/TZRY4.jpg) ![State 3](http://i.imgur.com/hYSPa.jpg)
 
