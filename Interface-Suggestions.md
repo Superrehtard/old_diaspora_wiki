@@ -82,7 +82,7 @@ Clean up their appearance a bit as they are kinda overkill right now. No underli
 Add the followed tags to the right menu and let the left menu float again.
 
 ##Menus
-Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future (iGoogle-like functionality). Also add a suggested contacts widget.
+Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future (iGoogle-like functionality). Also add a suggested contacts widget and allow connected apps to provide additional widgets.
 
 ![How a customizable widget bar could look like](http://i.imgur.com/bZi2F.png)
 
