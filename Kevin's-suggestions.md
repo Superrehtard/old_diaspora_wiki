@@ -96,6 +96,12 @@ This feature would be the bomb! Only for public posts. Reshare the post with the
 ###Change emailadress
 This is a very basic and much needed feat.
 
+###More networks!
+We need to be able to post to more networks.
+
+###Find people in your area
+Can we do this? Would be interesting to see if anyone in your area is on Diaspora.
+
 ###Minor things
   - **untitaker:** links to posts in the notifications dropdown should make the page scroll to the post (if possible), instead of opening it.
   - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed.
