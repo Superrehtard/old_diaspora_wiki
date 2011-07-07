@@ -36,7 +36,7 @@ Get rid of the aweful  and  smilies. Either replace them with real smilies
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
 ##Tags
-Clean up their appearance a bit as they are kinda overkill right now:
+Clean up their appearance a bit as they are kinda overkill right now. No underline, no background.
 
 ![The current way a tag is displayed.](http://i.imgur.com/72Xtk.png)
 
