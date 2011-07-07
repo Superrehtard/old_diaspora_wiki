@@ -21,6 +21,8 @@ Have a dropdown menu. People have come to expect this after the notification dro
 ###Stream
 Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
 
+*Note by untitaker: Might be a privacy (on non-windows also a performance) issue, as well as the cubbi.es images.*
+
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
 
 ![Picture](http://i.imgur.com/XnpWP.png)
