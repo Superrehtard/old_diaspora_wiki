@@ -63,7 +63,9 @@ Click on an album to go to the album's page. Here you find a 'upload photos' but
 
 How to deal with aspects and albums? Upload photos to albums and assign aspects to the photos. A visiting contact will only see the albums that contain at least one picture they have access to. Example:
 
-There's 40 photos in 'Holiday'. 35 are tagged with Family. My mum can see the album and watch the 35 photos available to her. All 40 photos are tagged with 'Friends'. My friends can see the album and all the photos in it. No photos are tagged with 'Losers'. The loser in my friendlist can't see the album name in the first place.
+* There's 40 photos in 'Holiday'. 35 are tagged with Family. My mum can see the album and watch the 35 photos available to her. 
+* All 40 photos are tagged with 'Friends'. My friends can see the album and all the photos in it. 
+* No photos are tagged with 'Losers'. The loser in my friendlist can't see the album name in the first place.
 
 Suggestions much welcome!
 
