@@ -38,7 +38,7 @@ The names of those who liked the content should go in a hover instead (as they a
 
 The time ago really should go back under the post like it used to be. Not only does it look better; right now it also switches the name and time ago on RTL languages. It also goes very well with the apps (Public 1 minute ago via Cubbi.es). 
 
-Get rid of the aweful  and  smilies. Either replace them with real smilies or delete them altogether.
+Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with real smilies or delete them altogether.
 
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
 
