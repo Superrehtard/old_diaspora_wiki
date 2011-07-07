@@ -6,6 +6,8 @@ You can see what the core team is currently working on in <a href="http://www.pi
 Tracker is where we keep our most immediate priorities, and it's a good indication of what we 
 are going to be working on in the next 2 or 3 weeks.
 
+You can also look at the [branches](https://github.com/diaspora/diaspora/branches) we have in our git-repo, to see how actively a feature is being developed.
+
 ## And Beyond...
 
 These are things that are in our plan, but haven't yet come to the front of the priority queue. 
