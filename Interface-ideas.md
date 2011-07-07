@@ -1,4 +1,4 @@
-***This page is a bit out of date, a better one can be found [here][Kevin's-suggestions]!***
+***This page is a bit out of date, a better one can be found at [[Kevin's-suggestions]]!***
 
 I realized that it might be hard to manage different aspects when you have more than about 5 of them and you want to drag people from one aspect to another.
 
