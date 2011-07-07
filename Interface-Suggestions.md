@@ -155,8 +155,10 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
 ###untitaker's sister
 **untitaker:** Okay, here are the results of the Diaspora-test with my sister:
 
-  - **There really needs to be an aspect dropdown beside the share button on the main site.** My "practicant" was unable to figure it out how to use the aspects sidebar, she expected the aspects list to be beside the share button.
+  - **There really needs to be an aspect dropdown beside the share button on the main site.** She was unable to figure it out how to use the aspects sidebar and expected the aspects list to be beside the share button.
 
-  - **Inserting tags is unintuitive as fuck.** While signing up, the practicant tried to insert the tags without a hash as prefix, separated with commas. I'd suggest to make the tags field a simple input, without that clutter around, and, if neccessary, without autocompletion.
+  - **Inserting tags is unintuitive as fuck.** While signing up, she tried to insert the tags without a hash as prefix, separated with commas. I'd suggest to make the tags field a simple input, without that clutter around, and, if neccessary, without autocompletion.
 
-  - **Doubled entries in searchbar.** More a bug than a UI lack, but still it was very annoying and confusing.
+  - **Doubled entries in searchbar.** More a bug than a UI lack, but still it was very annoying and confusing to her.
+
+*Note: I made this test with a pre-opened browser and my own PC, otherwise it would've been very likely that my sister opened Internet Explorer.*
