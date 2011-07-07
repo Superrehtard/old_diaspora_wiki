@@ -97,7 +97,10 @@ This feature would be the bomb! Only for public posts. Reshare the post with the
 This is a very basic and much needed feat.
 
 ###More networks!
-We need to be able to post to more networks.
+We need to be able to post to more networks. Show people that we connect to everything and that they can use Diaspora for posting to all sorts of accounts.
+
+###Importing tweets/Facebook stream
+Imagine all your friends are on Facebook/Twitter and you are locked in. You get a Diaspora invite and you can follow your fb stream/tweets through Diaspora. You start using Diaspora and invite a few close friends. They join and can still see fb and twitter. You start communicating on Diaspora as well and activity on other networks goes down. Eventually you will switch altogether. Evolution WIN.
 
 ###Find people in your area
 Can we do this? Would be interesting to see if anyone in your area is on Diaspora.
