@@ -160,4 +160,6 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
 
   - **Doubled entries in searchbar.** More a bug than a UI lack, but still it was very annoying and confusing to her.
 
+  - [This bug](http://bugs.joindiaspora.com/issues/1167) confused her, but didn't stop her.
+
 *Note: I made this test with a pre-opened browser and my own PC, otherwise it would've been very likely that my sister opened Internet Explorer.*
