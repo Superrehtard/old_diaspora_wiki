@@ -72,6 +72,7 @@ The ability to import RSS into your stream in order to follow blogs and site upd
 We could use these for a visit profile, message, mention and chat button, as well as for adding the contact to aspects. We can do this all over the place, making the interface a lot more consistent. Also possibly removes the need for ‘add to aspect’ buttons in places where the buttons don’t fit, like the tag page.
 
 Have hovercards on mentions too. Possibly add a micro-bio to the card.
+![Picture](http://i.imgur.com/DSOuv.png)
 
 ###Contact management
 The contacts page doesn’t provide any functionality that can’t be done in an easier way elsewhere, except for doing a lot of changes on a lot of contacts. We do need the page because people will expect it to exist but it’s really got to be better. One way of massively improving the usability of the page is by adding real-time contact browsing
