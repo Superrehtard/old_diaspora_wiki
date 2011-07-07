@@ -50,16 +50,16 @@ On the album overview you can add new albums.
 
 Click on an album to go to the album's page. Here you find a 'upload photos' button. Once you have uploaded the photos it a message should come up and say: don't forget to attach aspects to your photos. On the album page you can assign aspects to each photo.
 
-Givne a user named Bob and a user named Alice... :P
-Alice puts Bob in her 'friends' aspect
-And Alice makes a new album called 'Animals'
-And Alice uploads a photo of her dog to the album called 'Animals'
-And Alice assigns the photo to her 'friends' aspect
-When Bob goes to Alices' album overview, he should see an album called 'Animals'
-When Bob clicks on the album he arrives on the album page
-When Bob is on the album page, he should see a photo of Alices' dog
-When he clicks on the photo of Alices' dog, the photoviewer should appear
-And Bob should be able to comment, like, tag, etc and be a happy bob
+* Given a user named Bob and a user named Alice... :P
+* Alice puts Bob in her 'friends' aspect
+* And Alice makes a new album called 'Animals'
+* And Alice uploads a photo of her dog to the album called 'Animals'
+* And Alice assigns the photo to her 'friends' aspect
+* When Bob goes to Alices' album overview, he should see an album called 'Animals'
+* When Bob clicks on the album he arrives on the album page
+* When Bob is on the album page, he should see a photo of Alices' dog
+* When he clicks on the photo of Alices' dog, the photoviewer should appear
+* And Bob should be able to comment, like, tag, etc and be a happy bob
 
 How to deal with aspects and albums? Upload photos to albums and assign aspects to the photos. A visiting contact will only see the albums that contain at least one picture they have access to. Example:
 
