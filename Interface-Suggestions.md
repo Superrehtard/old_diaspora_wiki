@@ -1,6 +1,6 @@
-**Edit: Suggestions by multiple awesome people!**
-
 **Kevin:** Here's a list of what I believe is important to look into at least before the beta. It involves improvements to the UX, tweaks and features. You should try to work through these points or come up with a better answer. Almost everything on this list is from the point of view of a mainstream user so use it to your advantage.
+
+**Edit: Suggestions by multiple awesome people!**
 
 ##Aspects
 We should get rid of ‘all aspects’ in the left menu and replace it with having litterly all aspects selected. Having no aspects selected should say: select one or more aspects from the left menu. Have a way to set default aspects. This stimulates sharing with a selection of common aspects instead of posting everything to ‘all aspects’. You could exclude your ‘work’ or ‘teachers’ aspect for example.
