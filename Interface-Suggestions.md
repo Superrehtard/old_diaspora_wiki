@@ -27,7 +27,10 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ###[Tooltips on world icon](http://imgur.com/a/fxjlv)
 **untitaker:**
-![Limited - your post can only be seen by people you are sharing with](http://i.imgur.com/la8M3.jpg) ![Public - your post is visible to everyone and can be found by search engines](http://i.imgur.com/nOJeq.jpg)
+
+![Limited - your post can only be seen by people you are sharing with](http://i.imgur.com/la8M3.jpg)
+
+![Public - your post is visible to everyone and can be found by search engines](http://i.imgur.com/nOJeq.jpg)
 
 
 ##Messages
