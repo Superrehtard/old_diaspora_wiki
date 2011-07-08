@@ -5,11 +5,10 @@
 ##Aspects
 We should get rid of ‘all aspects’ in the left menu and replace it with having litterly all aspects selected. Having no aspects selected should say: select one or more aspects from the left menu. Have a way to set default aspects. This stimulates sharing with a selection of common aspects instead of posting everything to ‘all aspects’. You could exclude your ‘work’ or ‘teachers’ aspect for example.
 
-**untitaker:** [Add checkboxes on aspects list](http://imgur.com/a/jf6Pu) -- Most users associate checkboxes with the ability to select multiple items:
-
+  - **untitaker:** [Add checkboxes on aspects list](http://imgur.com/a/jf6Pu) -- Most users associate checkboxes with the ability to select multiple items:
 ![State 1](http://i.imgur.com/u6noR.jpg) ![State 2](http://i.imgur.com/TZRY4.jpg) ![State 3](http://i.imgur.com/hYSPa.jpg)
 
-**Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
+  - **Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
 
 ##Public / private
   - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
