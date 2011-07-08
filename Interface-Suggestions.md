@@ -54,6 +54,8 @@ The new AJAX’y likes aren’t really that great. People don’t really care ab
 ###Inviting people, connecting to services
   - Move those somewhere in the "getting started" intro or make them a tooltip in the middlerow, which disappear after a few logins. (untitaker)
 
+**Kevin:** Does not agree! Every network has these 'getting started' widgets. We could make a difference by actually making it useful (e.g. Wordpress-style widgetbar). I know you don't agree with that though..
+
 ##Photoviewer
 Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook.
 
