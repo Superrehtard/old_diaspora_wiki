@@ -12,3 +12,5 @@ For attendees, pre-requisite knowledge on basic web development and database int
 1. [Rahul Bedarkar](https://joindiaspora.com/public/rpal143)
 
 < add your name here >
+
+or mention you are coming at [meetup.com/diaspora](http://www.meetup.com/Diaspora/Pune/282351/)
