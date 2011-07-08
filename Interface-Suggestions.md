@@ -14,7 +14,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 ##Public / private
   - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience.
 
-  - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” 
+  - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” (untitaker: See my suggestion in the "Publisher" section)
 
   - **Edit:** even more important once hashtags in posts can be found.
 
