@@ -23,7 +23,11 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
   - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
 
-  - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *This is backed by a real UX expert whom Dennis Schubert talked too!*
+  - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. 
+
+![photo](http://i.imgur.com/WOY4c.png)
+
+*This is backed by a real UX expert whom Dennis Schubert talked too!*
 
 ###[Tooltips on world icon](http://imgur.com/a/fxjlv)
 **untitaker:**
