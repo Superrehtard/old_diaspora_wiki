@@ -61,7 +61,7 @@ anywhere on the site.
 ## Other Resources
 These are all external links.
 
-* [Diaspora bug tracker](http://bugs.joindiaspora.com/projects/diaspora/issues) - issue and bug tracking.
+* [Diaspora bug tracker](https://github.com/diaspora/diaspora/issues) - issue and bug tracking.
 * [Continuos Integration](http://ci.joindiaspora.com) - please don't press that "Build now" button.
 * [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
 * [99translations.com](http://99translations.com/public_projects/show/181) - the service we use to help translate Diaspora

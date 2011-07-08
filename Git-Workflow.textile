@@ -4,7 +4,7 @@ h1. Quickfire Do's and Don't's
 
 p. If you're familiar with git and GitHub, here's the short version of what you need to know. Once you fork and clone the Diaspora code:
 
-*  *Don't develop on the master branch.* Always create a development branch specific to "the issue":http://bugs.joindiaspora.com you're working on. Name it by issue # and description. For example, if you're working on Issue #359, an aspect naming fix, your development branch should be called 359-aspect-names. If you decide to work on another issue mid-stream, create a new branch for that issue--don't work on both in one branch.
+*  *Don't develop on the master branch.* Always create a development branch specific to "the issue":https://github.com/diaspora/diaspora/issues you're working on. Name it by issue # and description. For example, if you're working on Issue #359, an aspect naming fix, your development branch should be called 359-aspect-names. If you decide to work on another issue mid-stream, create a new branch for that issue--don't work on both in one branch.
 
 * *Do not merge* the upstream master with your development branch; *rebase* your branch on top of the upstream master.
 
@@ -86,7 +86,7 @@ p. *We try to make sure these always succeed.* Our "continuous integration serve
 
 h2. Figure out what to work on
 
-Maybe you have a feature addition in mind, but if not, check out our "issue tracker":http://bugs.joindiaspora.com, or come ask in IRC what needs doing.
+Maybe you have a feature addition in mind, but if not, check out our "issue tracker":https://github.com/diaspora/diaspora/issues, or come ask in IRC what needs doing.
 
 h2. Create an Issue-Specific Development Branch
 
