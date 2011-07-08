@@ -32,6 +32,8 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ![Public - your post is visible to everyone and can be found by search engines](http://i.imgur.com/nOJeq.jpg)
 
+**Edit:** I realized that the first tooltip's text is not fully correct, whatever, it's more about the idea.
+
 
 ##Messages
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
