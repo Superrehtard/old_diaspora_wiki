@@ -172,6 +172,9 @@ Imagine all your friends are on Facebook/Twitter and you are locked in. You get 
 ##Likes in comments
 Title says it all. New users are going to love seeing that.
 
+##Contacts search
+Share the user index of a pod with all other pods in the network to improve the people search functionality.
+
 ##Find people in your area
 Can we do this? Would be interesting to see if anyone in your area is on Diaspora.
 
