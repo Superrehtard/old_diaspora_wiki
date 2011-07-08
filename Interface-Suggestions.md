@@ -40,7 +40,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ##Stream
   - **Kevin:** Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
-    - *untitaker:* Might be a privacy (on non-windows also a performance) issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the ressources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
+    - *untitaker:* Might be a privacy (on Linux and Mac also a performance) issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the ressources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
 
