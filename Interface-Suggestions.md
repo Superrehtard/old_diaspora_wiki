@@ -25,6 +25,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
   - _Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior._ (DONE)
 
   - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
+    - **untitaker:** I'd rather go with the way tags are shown in the *publisher*. See [this issue](https://github.com/diaspora/diaspora/issues/1566)
 
   - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. 
 
