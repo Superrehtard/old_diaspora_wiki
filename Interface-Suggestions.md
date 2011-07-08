@@ -105,11 +105,12 @@ How to deal with aspects and albums? Upload photos to albums and assign aspects 
 Suggestions much welcome!
 
 ##Tags
-Clean up their appearance a bit as they are kinda overkill right now. No underline, no background.
+* Clean up their appearance a bit as they are serious overkill right now. No underline, no background. #DoItClean
 
 ![The current way a tag is displayed.](http://i.imgur.com/72Xtk.png)
 
-Add the followed tags to the right menu and let the left menu float again.
+* Add the followed tags to the right menu and let the left menu float again.
+* Have a trending tags cloud in the widgetmenu. This helps new people getting started, appeals to Twitter users, incentive to return to Diaspora, get tags trending.
 
 ##Menus
 Make all sections in the right menu collapse/expandable for now; turn it into a customizable widget bar in the future (iGoogle-like functionality). Also add a suggested contacts widget and allow connected apps to provide additional widgets.
