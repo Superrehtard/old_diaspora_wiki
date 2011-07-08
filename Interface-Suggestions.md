@@ -2,6 +2,9 @@
 
 **Edit: Suggestions by multiple awesome people!**
 
+
+***Note: This page is about current features and provides suggestions to improve the user experience of them. Please do not post your feature requests here!***
+
 ##Aspects
 We should get rid of ‘all aspects’ in the left menu and replace it with having litterly all aspects selected. Having no aspects selected should say: select one or more aspects from the left menu. Have a way to set default aspects. This stimulates sharing with a selection of common aspects instead of posting everything to ‘all aspects’. You could exclude your ‘work’ or ‘teachers’ aspect for example.
 
@@ -198,6 +201,3 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
   - [This bug](http://bugs.joindiaspora.com/issues/1167) confused her, but didn't stop her.
 
 *Note: I made this test with a pre-opened browser and my own PC, otherwise it would've been very likely that my sister opened Internet Explorer.*
-
-### chatting
- independent chattingbar floating on page without need to going to aspects page  again and again for chatting with friends
