@@ -200,5 +200,4 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
 *Note: I made this test with a pre-opened browser and my own PC, otherwise it would've been very likely that my sister opened Internet Explorer.*
 
 ### chatting
-
-     independent chatting like in facebook with videochat  so that we dont need to go to the aspects page for again and again for chatting with friends
+ independent chattingbar floating on page without need to going to aspects page  again and again for chatting with friends
