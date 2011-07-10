@@ -202,3 +202,12 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
   - [This bug](http://bugs.joindiaspora.com/issues/1167) confused her, but didn't stop her.
 
 *Note: I made this test with a pre-opened browser and my own PC, otherwise it would've been very likely that my sister opened Internet Explorer.*
+
+###Zulu's sisters
+Confusion:
+  - hashtags ("What are they? They make messages hard to read.")
+  - the fact that handles are not the same thing as emails (ie: that you cannot email someone at their handle -- "Then why do you have the '@' sign there?")
+  - why there is no "wall"-type feature. 
+
+Frustration:
+  - again, the lack of albums, groups, event pages, and the ability to tag friends in pictures.
