@@ -205,6 +205,7 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
 
 ###Zulu's sisters
 Confusion:
+
   - hashtags ("What are they? They make messages hard to read.")
 
   - the fact that handles are not the same thing as emails (ie: that you cannot email someone at their handle -- "Then why do you have the '@' sign there?")
@@ -212,4 +213,5 @@ Confusion:
   - why there is no "wall"-type feature. 
 
 Frustration:
+
   - again, the lack of albums, groups, event pages, and the ability to tag friends in pictures.
