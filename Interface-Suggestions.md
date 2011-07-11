@@ -1,3 +1,5 @@
+(See also: [[Kevin's suggestions]])
+
 ***Note: This page is about current features and provides suggestions to improve the user experience of them. Please do not post your feature requests here!***
 
 ##Aspects
