@@ -188,6 +188,7 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
   - **untitaker:** links to posts in the notifications dropdown should make the page scroll to the post (if possible), instead of opening it.
   - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed.
   - **untitaker:** User menu (#user_menu) is a bit empty, some stuff (eg. from the right sidebar) could be moved in there.
+  - **untitaker:** Remove the [cancel-link in change-password-form](http://i.imgur.com/b6XpU.png).
 
 ##Diaspora UX testing with noobs
 ###untitaker's sister
