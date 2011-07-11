@@ -1,8 +1,3 @@
-**Kevin:** Here's a list of what I believe is important to look into at least before the beta. It involves improvements to the UX, tweaks and features. You should try to work through these points or come up with a better answer. Almost everything on this list is from the point of view of a mainstream user so use it to your advantage.
-
-**Edit: Suggestions by multiple awesome people!**
-
-
 ***Note: This page is about current features and provides suggestions to improve the user experience of them. Please do not post your feature requests here!***
 
 ##Aspects
