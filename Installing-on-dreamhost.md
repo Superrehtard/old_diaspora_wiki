@@ -23,6 +23,8 @@ To install Redis follow these steps:
 
 Follow remaining steps from [[main installation article | Installing-and-Running-Diaspora]]. Just check the notes below for dreamhost specific quirks.
 
+_Is this intended for use on Dreamhost PS? Normal Dreamhost accounts aren't allowed to run persistent server processes._
+
 ### Notes
 
 To run bundle use ~/gems/bin/bundle
