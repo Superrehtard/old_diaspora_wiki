@@ -1,3 +1,5 @@
+**Kevin:** Here's a list of what I believe is important to look into at least before the beta. It involves improvements to the UX, tweaks and features. You should try to work through these points or come up with a better answer. Almost everything on this list is from the point of view of a mainstream user so use it to your advantage.
+
 ##Homepage
 A lot of people wonder whether Diaspora still exists and whether it’s actually being used. It would be nice if we could have a stream of public posts on the homepage of the pod, to show that Diaspora is alive and kicking. Also helps with finding contacts. Improves the first impression of potential users and gives a clear signal to the existing users that public really means public.
 
