@@ -30,8 +30,9 @@
  1. [[Meha Raje Upadhyay|https://joindiaspora.com/public/meha_ru]]
  1. [[Vipul A M|https://diasp.org/people/3127]]
  1. [[Sana Khan|https://joindiaspora.com/public/sanakhan2011]]
+1. [[Priyanka Nag|https:joindiaspora.com/people/61769]]
 
-&lt;Priyanka Nag&gt;
+&lt;add your name here&gt;
 
 or RSVP on 
 
