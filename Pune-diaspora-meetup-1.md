@@ -1,4 +1,3 @@
-
 ![diaspune 1 poster](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_0a0ccba222ea4e806225.jpg)
 
 - Date - Saturday, June 18
@@ -32,7 +31,7 @@
  1. [[Vipul A M|https://diasp.org/people/3127]]
  1. [[Sana Khan|https://joindiaspora.com/public/sanakhan2011]]
 
-&lt;add your name here&gt;
+&lt;Priyanka Nag&gt;
 
 or RSVP on 
 
