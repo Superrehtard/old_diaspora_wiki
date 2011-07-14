@@ -1,5 +1,8 @@
 Dreamhost runs Debian GNU/Linux lenny 5.0.8. You will need to create a new domain or subdomain with Ruby on Rails enabled.
 
+**Per Dreamhost policy you are not permitted to run persistent processes on shared hosting plans.  This has been verified with Dreamhost Support staff.**
+Link: [Dreamhost Wiki](http://wiki.dreamhost.com/Cron_Jobs_%26_Persistent_Processes#What_is_your_persistent_.28background.29_process_policy.3F)
+
 ### MySQL
 
 You need to create a new database for diaspora from dreamhost panel.
@@ -22,8 +25,6 @@ To install Redis follow these steps:
         nohup $HOME/redis/bin/redis-server  &
 
 Follow remaining steps from [[main installation article | Installing-and-Running-Diaspora]]. Just check the notes below for dreamhost specific quirks.
-
-_Is this intended for use on Dreamhost PS? Normal Dreamhost accounts aren't allowed to run persistent server processes._
 
 ### Notes
 
