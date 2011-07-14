@@ -231,6 +231,15 @@ management console.
     * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
     * Comments: just for testing, database will be reset whenever required
 
+* [[http://diaspora.sceal.ie//] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
+    * Opened: 2011-07-14
+    * Updated: irregularly
+    * Maintained by a private person
+      * IRC/Freenode: amck
+      * alastair@sceal.ie
+    * Operating system: Debian GNU/Linux 6.0 (squeeze)
+    * Comments: mostly for friends. Others welcome to play.
+
 * [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-09-21
     * Updated: irregularly
