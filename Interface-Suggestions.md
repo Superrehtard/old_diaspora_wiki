@@ -179,7 +179,7 @@ Show the amount of unread notifications in the title of the page.
 ###Zulu's sisters
 Confusion:
 
-  - hashtags ("What are they? They make messages hard to read.")
+  - hashtags ("What are they? They make messages hard to read.") ([Issue](https://github.com/diaspora/diaspora/issues/1594))
 
   - the fact that handles are not the same thing as emails (ie: that you cannot email someone at their handle -- "Then why do you have the '@' sign there?")
 
