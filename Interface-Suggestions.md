@@ -9,10 +9,12 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ![State 1](http://i.imgur.com/u6noR.jpg) ![State 2](http://i.imgur.com/TZRY4.jpg) ![State 3](http://i.imgur.com/hYSPa.jpg)
 
+(https://github.com/diaspora/diaspora/issues/1584)
+
   - **Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
 
 ##Public / private
-  - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915*
+  - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable *([Issue](https://github.com/diaspora/diaspora/issues/1585))* and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915*
 
   - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” (untitaker: See my suggestion in the "Publisher" section)
 
@@ -24,13 +26,13 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
   - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
     - **untitaker:** I'd rather go with the way tags are shown in the *publisher*. See [this issue](https://github.com/diaspora/diaspora/issues/1566)
 
-  - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. 
+  - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *([Issue](https://github.com/diaspora/diaspora/issues/1586))*
 
 ![photo](http://i.imgur.com/WOY4c.png)
 
 *This is backed by a real UX expert whom Dennis Schubert talked too!*
 
-###[Tooltips on world icon](http://imgur.com/a/fxjlv)
+###[Tooltips on world icon](http://imgur.com/a/fxjlv) ([Issue](https://github.com/diaspora/diaspora/issues/1587))
 **untitaker:**
 
 ![Limited - your post can only be seen by people you are sharing with](http://i.imgur.com/la8M3.jpg)
@@ -41,11 +43,11 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 
 ##Messages
-  - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page.
+  - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
 
 ##Stream
   - **Kevin:** Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
-    - *untitaker:* Might be a privacy (on Linux and Mac also a performance) issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the ressources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
+    - *untitaker:* Might be a privacy issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the ressources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
 
@@ -55,9 +57,9 @@ The names of those who liked the content should go in a hover instead (as they a
 
 The time ago really should go back under the post like it used to be. Not only does it look better; right now it also switches the name and time ago on RTL languages. It also goes very well with the apps (Public 1 minute ago via Cubbi.es). 
 
-Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with real smilies or delete them altogether.
+Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with real smilies or delete them altogether. ([Issue](https://github.com/diaspora/diaspora/issues/1589))
 
-The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one.
+The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one. ([Issue](https://github.com/diaspora/diaspora/issues/1565))
 
 ##The right sidebar
 **untitaker:** The right sidebar is too bloated. Here are some widgets that should be moved or removed.
@@ -74,7 +76,7 @@ The new AJAX’y likes aren’t really that great. People don’t really care ab
 **Kevin:** Does not agree! Every network has these 'getting started' widgets. We could make a difference by actually making it useful (e.g. Wordpress-style widgetbar). I know you don't agree with that though..
 
 ##Photoviewer
-**Kevin:** Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook.
+**Kevin:** Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. (DONE)
 
 **untitaker:** That what Kevin said; Lightbox with comments in sidebar - Something like http://bueltge.de/photos, but as a popup/layer and simplified.
 ##Photo albums
@@ -154,8 +156,8 @@ The contacts page doesn’t provide any functionality that can’t be done in an
 Show the amount of unread notifications in the title of the page.
 
 ##Minor things
-  - **untitaker:** links to posts in the notifications dropdown should make the page scroll to the post (if possible), instead of opening it.
-  - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed.
+  - **untitaker:** links to posts in the notifications dropdown should make the page scroll to the post (if possible), instead of opening it. ([Issue](https://github.com/diaspora/diaspora/issues/1590))
+  - **untitaker:** There are too much icons beside the searchbar; At least the home-icon is not needed. ([Issue](https://github.com/diaspora/diaspora/issues/1591))
   - **untitaker:** User menu (#user_menu) is a bit empty, some stuff (eg. from the right sidebar) could be moved in there.
   - **untitaker:** Remove the [cancel-link in change-password-form](http://i.imgur.com/b6XpU.png).
 
@@ -163,7 +165,7 @@ Show the amount of unread notifications in the title of the page.
 ###untitaker's sister
 **untitaker:** Okay, here are the results of the Diaspora-test with my sister:
 
-  - **There really needs to be an aspect dropdown beside the share button on the main site.** She was unable to figure it out how to use the aspects sidebar and expected the aspects list to be beside the share button.
+  - **There really needs to be an aspect dropdown beside the share button on the main site.** She was unable to figure it out how to use the aspects sidebar and expected the aspects list to be beside the share button. ([Issue](https://github.com/diaspora/diaspora/issues/1586))
 
   - **Inserting tags is unintuitive as fuck.** While signing up, she tried to insert the tags without a hash as prefix, separated with commas. I'd suggest to make the tags field a simple input, without that clutter around, and, if neccessary, without autocompletion.
 
