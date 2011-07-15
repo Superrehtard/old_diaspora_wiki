@@ -25,7 +25,7 @@ Can we do this? Would be interesting to see if anyone in your area is on Diaspor
 This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
 
 ##Change emailadress
-This is a very basic and much needed feat.
+This is a very basic and much needed feat. ([[pull request|https://github.com/diaspora/diaspora/pull/651]])
 
 ##More networks!
 We need to be able to post to more networks. Show people that we connect to everything and that they can use Diaspora for posting to all sorts of accounts.
