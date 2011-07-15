@@ -67,9 +67,10 @@ The new AJAX’y likes aren’t really that great. People don’t really care ab
 ###Diaspora ID
   - Could be moved in the user menu (top right), generally style the user menu like a hovercard, with logout, settings buttons instead of mention, message. (untitaker)
 
-###Contacts
+###Contacts ([[issue|https://github.com/diaspora/diaspora/issues/1593]])
   - Could be moved into a dropdown or tooltip of the contacts icon in the header. (untitaker)
-
+  - Make it a drop down and keep view all contacts  (j4v4m4n)
+ 
 ###Inviting people, connecting to services
   - Move those somewhere in the "getting started" intro or make them a tooltip in the middlerow, which disappear after a few logins. (untitaker)
 
