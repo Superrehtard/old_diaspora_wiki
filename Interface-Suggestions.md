@@ -14,9 +14,11 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
   - **Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
 
 ##Public / private
-  - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora. Add a small note near the share button to let people know their comments will be publicly viewable *([Issue](https://github.com/diaspora/diaspora/issues/1585))* and change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915*
-
-  - Add a hover-over message for a ‘Limited’ post by a contact for more consistency. For example: “This post is shared with a limited audience.” (untitaker: See my suggestion in the "Publisher" section)
+  - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora.
+    - **untitaker:** I think it is already like that.
+  - Add a small note near the share button to let people know their comments will be publicly viewable ([Issue](https://github.com/diaspora/diaspora/issues/1585))
+  - change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Similar with the 'Limited'-badge for posts ([Issue](https://github.com/diaspora/diaspora/issues/1587))
+  - Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915*
 
   - **Edit:** even more important once hashtags in posts can be found.
 
@@ -60,7 +62,7 @@ The names of those who liked the content should go in a hover instead (as they a
 
 The time ago really should go back under the post like it used to be. Not only does it look better; right now it also switches the name and time ago on RTL languages. It also goes very well with the apps (Public 1 minute ago via Cubbi.es). 
 
-Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with real smilies or delete them altogether. ([Issue](https://github.com/diaspora/diaspora/issues/1589))
+Get rid of that awful unicode (☺ and ☹) smilies. Either replace them with real smilies or delete them altogether. ([Issue](https://github.com/diaspora/diaspora/issues/1598))
 
 The new AJAX’y likes aren’t really that great. People don’t really care about the names as much as being able to quickly see the amount of them. It’s also looks like it’s a bug, which is just bad. Should revert that one. ([Issue](https://github.com/diaspora/diaspora/issues/1565))
 
