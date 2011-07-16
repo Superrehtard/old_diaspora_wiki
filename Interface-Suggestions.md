@@ -47,7 +47,7 @@ Add the ability to attach videos to posts. Can we do this through the same icon 
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
 
 ##Stream
-Instead of loading the publisher + stream (containing the first page of posts!) and then rendering those **all at once**, render the publisher and stream area instantly on pageload and start ajaxing the posts in one by one. It should feel a lot faster and it will look great. (Kevin)
+Instead of loading the publisher + stream (containing the first page of posts!) and then rendering those **all at once**, render the publisher and stream area instantly on pageload and start ajaxing the posts in one by one. It should feel a lot faster and it will look great. Also have a way to refresh the stream without reloading the rest of the page. (Kevin)
 
   - **Kevin:** Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
     - *untitaker:* Might be a privacy issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the resources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
