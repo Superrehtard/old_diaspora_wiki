@@ -41,13 +41,16 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 **Edit:** I realized that the first tooltip's text is not fully correct, whatever, it's more about the idea.
 
+Add the ability to attach videos to posts. Can we do this through the same icon as photos? (Kevin)
 
 ##Messages
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
 
 ##Stream
+Instead of loading the publisher + stream (containing the first page of posts!) and then rendering those **all at once**, render the publisher and stream area instantly on pageload and start ajaxing the posts in one by one. It should feel a lot faster and it will look great. (Kevin)
+
   - **Kevin:** Don’t hide videos in the stream anymore. It may have seemed to be a very good idea to keep Diaspora clean and minimalistic but people barely watch videos posted by their contacts. The video experience on Diaspora is pretty bad as is. Showing them right away will not hurt the experience more than photos do.
-    - *untitaker:* Might be a privacy issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the ressources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
+    - *untitaker:* Might be a privacy issue, as well as the cubbi.es images. And i hardly believe that a pod owner has the resources to save a bigger thumbnail of the vid on his server. Maybe make it a user setting, defaults to deactivated?
 
 Get the ‘x <3’ on one line with the comment and like links and give the posts and comments a bit of extra love in general. Something like this: (exclude the likes on comments for now).
 
