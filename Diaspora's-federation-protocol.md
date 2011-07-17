@@ -196,8 +196,9 @@ So, in order to construct the full salmon slap, you will need to:
 
 #### Constructing the encryption header
 
-* Choose an AES key and initialization vector, suitable for the aes-256-cbc cipher.  I shall refer to this as the "inner key" and the "inner initialization vector (iv)".
-* Construct the following XML snippet:
+Choose an AES key and initialization vector, suitable for the aes-256-cbc cipher.  I shall refer to this as the "inner key" and the "inner initialization vector (iv)".
+
+Construct the following XML snippet:
 
     <decrypted_header>
       <iv>((base64-encoded inner iv))</iv>
@@ -208,28 +209,33 @@ So, in order to construct the full salmon slap, you will need to:
       </author>
     </decrypted_header>
 
-* Construct '''another''' AES key and initialization vector suitable for the aes-256-cbc cipher.  I shall refer to this as the "outer key" and the "outer initialization vector (iv)".
-* Encrypt your <decrypted_header> XML snippet using the "outer key" and "outer iv" (using the aes-256-cbc cipher).  This encrypted blob shall be referred to as "the ciphertext".
-* Construct the following JSON object, which shall be referred to as "the outer aes key bundle":
+Construct _another_ AES key and initialization vector suitable for the aes-256-cbc cipher.  I shall refer to this as the "outer key" and the "outer initialization vector (iv)".
+
+Encrypt your `<decrypted_header>` XML snippet using the "outer key" and "outer iv" (using the aes-256-cbc cipher).  This encrypted blob shall be referred to as "the ciphertext".
+
+Construct the following JSON object, which shall be referred to as "the outer aes key bundle":
 
     {
       "iv": ((base64-encoded AES outer iv)),
       "key": ((base64-encoded AES outer key))
     }
-* Encrypt the "outer aes key bundle" with Bob's RSA public key.  I shall refer to this as the "encrypted outer aes key bundle".
-* Construct the following JSON object, which I shall refer to as the "encrypted header json object":
+
+Encrypt the "outer aes key bundle" with Bob's RSA public key.  I shall refer to this as the "encrypted outer aes key bundle".
+
+Construct the following JSON object, which I shall refer to as the "encrypted header json object":
 
     {
       "aes_key": ((base64-encoded encrypted outer aes key bundle)),
       "ciphertext": ((base64-encoded ciphertextm from above))
     }
 
-* Construct the xml snippet:
+Construct the xml snippet:
 
     <encrypted_header>((base64-encoded encrypted header json object))</encrypted_header>
 
-* Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
-* Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will construct next.
+Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
+
+Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will construct next.
 
 #### Preparing the payload message
 
