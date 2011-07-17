@@ -1,6 +1,6 @@
 The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
 
-# Assymetric Sharing
+# Asymetric Sharing
 
 One important thing to note is that Diaspora's notion of "sharing" is assymetric.
 
