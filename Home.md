@@ -31,6 +31,7 @@ anywhere on the site.
 * [[Work on a bug|Work on a Bug]]
 * [[How to contribute with Git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
+* [[Diaspora's federation protocol]]
 * Live discussions on our [[IRC channel #diaspora-dev/FreeNode|http://webchat.freenode.net/?channels=#diaspora-dev]]
 
 ## Contributor Resources
