@@ -177,6 +177,7 @@ When a user is created on the pod, the pod MUST generate a pgp keypair for them.
 If you (Alice) have decided to share with a user (Bob) on another pod, then you will need to send posts as salmons to the remote user.
 
 You have three tasks:
+
 1. Construct your message.
 2. Construct the url for Bob's salmon endpoint.
 3. Post the message to Bob.
