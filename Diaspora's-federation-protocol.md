@@ -32,7 +32,7 @@ Diaspora servers communicate with one another in a variety of situations:
 
 Diaspora pods MUST be able to discover users on other pods, given the other user's webfinger address.  For convenience, Diaspora pods' user-interfaces MAY choose to allow users to search for users by name, searching through the list of names already known to the pod (such as local users).  However, pods' user interfaces MAY NOT allow users to find a person by name if that person has not marked themselves as "searchable", in their hcard (see below).
 
-If alice@alice.diaspora.example.com wants to discover bob@bob.disaspora.example.com, then alice's pod must perform a Webfinger lookup of bob's address.  Webfinger is an open protocol.  See [http://code.google.com/p/webfinger/wiki/WebFingerProtocol the Webfinger protocol specification] for the full details.  However, we will summarize here.  Note that bob's webfinger profile does not need to be hosted by bob's diaspora pod.  Any webfinger server will do, so long as bob's profile contains the elements necessary for Diaspora.  See below.  However, Diaspora pods SHOULD host webfinger profiles for their users.
+If alice@alice.diaspora.example.com wants to discover bob@bob.disaspora.example.com, then alice's pod must perform a Webfinger lookup of bob's address.  Webfinger is an open protocol.  See [the Webfinger protocol specification](http://code.google.com/p/webfinger/wiki/WebFingerProtocol) for the full details.  However, we will summarize here.  Note that bob's webfinger profile does not need to be hosted by bob's diaspora pod.  Any webfinger server will do, so long as bob's profile contains the elements necessary for Diaspora.  See below.  However, Diaspora pods SHOULD host webfinger profiles for their users.
 
 Alice's pod will first get the host-meta file from bob's webfinger address.  The host-meta file is located at https://bob.diaspora.example.com/.well-known/host-meta.  In the host-meta file, alice's pod will find a Link element with rel="lrdd", such as:
 
@@ -78,7 +78,7 @@ The Subject element should contain the webfinger address that alice asked for.  
 
     <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
 
-Bob's webfinger profile MUST contain a link to an hcard.  The hcard contains personal information such as bob's full name, a link to bob's photo, etc.  Refer to the [http://microformats.org/profile/hcard hcard specification] for a full discussion on hcard syntax.
+Bob's webfinger profile MUST contain a link to an hcard.  The hcard contains personal information such as bob's full name, a link to bob's photo, etc.  Refer to the [hcard specification](http://microformats.org/profile/hcard hcard specification) for a full discussion on hcard syntax.
 
 Like the webfinger profile, the hcard need not be hosted by the Diaspora pod.  In fact, it may be in a location that is distinct from both the Diaspora pod and the webfinger host.  However, if the hcard is to be hosted by the Diaspora pod, then the url SHOULD be:
     http://bob.diaspora.example.com/hcard/users/((bobs-guid))
@@ -171,9 +171,9 @@ This is just bob's guid.  When a user creates an account on a pod, the pod MUST 
 
     <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
 
-This atom feed is an Activity Stream of bob's public posts.  Diaspora pods SHOULD publish an Activity Stream of public posts, but there is currently no requirement to be able to read Activity Streams.  For more information, read the [http://activitystrea.ms/ Activity Streams specification].
+This atom feed is an Activity Stream of bob's public posts.  Diaspora pods SHOULD publish an Activity Stream of public posts, but there is currently no requirement to be able to read Activity Streams.  For more information, read the [Activity Streams specification](http://activitystrea.ms/)
 
-Note that this feed MAY also be made available through the [http://code.google.com/p/pubsubhubbub/ PubSubHubbub mechanism] by supplying a <link rel="hub"> in the atom feed itself.
+Note that this feed MAY also be made available through the [PubSubHubbub mechanism](http://code.google.com/p/pubsubhubbub/) by supplying a <link rel="hub"> in the atom feed itself.
 
 ### Diaspora Public Key
 
@@ -284,7 +284,7 @@ You must now construct the salmon magic envelope that we will post to Bob, the r
 
 Note that the last step in the preparation of the payload message was to base64-encode it.  That string must be base64-encoded again to form the <me:data> element.  However, this time, it must be encoded with the slightly-different base64url encoding.  So your payload message will end up double-wrapped in base64-encoding.
 
-The signature (<me:sig> element) is constructed as specified in the [http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-magicsig-01.html Magic Envelopes specification].  That is, use the RSA-SHA256 algorithm to sign the base string with your (Alice's) private RSA key.  
+The signature (<me:sig> element) is constructed as specified in the [Magic Envelopes specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-magicsig-01.html).  That is, use the RSA-SHA256 algorithm to sign the base string with your (Alice's) private RSA key.  
 
 To construct the base string, concatenate the following elements, separated by periods (.).
 
@@ -300,9 +300,9 @@ This is the final form of the salmon slap, ready for delivery.
 ### Construct the URL of Bob's Salmon endpoint
 
 To construct the url of the salmon endpoint, do the following:
-# Get the pod location of the remote user, Bob.
-# Get the guid of the remote user (using the webfinger process described above).
-# Construct <pod_url>/receive/users/<guid>.  This Bob's salmon endpoint.
+1. Get the pod location of the remote user, Bob.
+2. Get the guid of the remote user (using the webfinger process described above).
+3. Construct <pod_url>/receive/users/<guid>.  This Bob's salmon endpoint.
 
 ### Post the message to Bob
 
@@ -316,13 +316,13 @@ Note that this differs from the standard Salmon protocol, which specifies that y
 
 ## Receiving
 
-Consider the case in which you are Bob, receiving a salmon slap from Alice.  In general, you should be able to follow the steps outlined in the "Sending" section, in reverse.  Verify the slap, as specified in [http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-salmon-00.html#SVR Section 8 of the Salmon specification], and return 202 Created if this is a new salmon, or 200 OK if this salmon updates a previous one. If the slap fails verification, return 400 Bad Request.
+Consider the case in which you are Bob, receiving a salmon slap from Alice.  In general, you should be able to follow the steps outlined in the "Sending" section, in reverse.  Verify the slap, as specified in [Section 8 of the Salmon specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-salmon-00.html#SVR), and return 202 Created if this is a new salmon, or 200 OK if this salmon updates a previous one. If the slap fails verification, return 400 Bad Request.
 
 Note that the slap sent to Bob is signed with Alice's private key.  However, nothing about the author of a slap is sent in cleartext.  Therefore, you will have to decrypt and decode the payload message in order to find the information about who the message is from.  The payload message will contain the diaspora handle of the author.  Get their public key from their webfinger protocol.  This is the key that you will use to verify the signature.
 
 When verifying the signature, note that the reference implementation of Diaspora uses the Ruby OpenSSL library, which generates RSA keys in the PKCS#1 format.  Another popular key format is the new PKCS#8 format.  Some tools may not interoperate.  For example, the openssl command-line tool has options to verify RSA signatures, but it can only read keys in the PKCS#8 format.  To complicate matters, there is no header information that says which of these formats the key is written in, so the openssl command-line tool cannot return a more informative error than "unable to load Public Key".
 
-For more information on this problem, see [http://barelyenough.org/blog/2008/04/fun-with-public-keys/ this blog post].
+For more information on this problem, see [this blog post](http://barelyenough.org/blog/2008/04/fun-with-public-keys/).
 
 # Additional Diaspora Protocols
 
@@ -340,10 +340,10 @@ In addition, the posts are added to an ActivityStream.  The address of this feed
 
 The feed SHOULD also be made available on a PubSubHubbub server.
 
-See the [http://activitystrea.ms/ ActivityStreams specification] and the [http://code.google.com/p/pubsubhubbub/ PubSubHubbub specification].
+See the [ActivityStrems specification](http://activitystrea.ms/) and the [PubSubHubbub specification](http://code.google.com/p/pubsubhubbub/).
 
 ## Third-party Application API
 
-The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [http://tools.ietf.org/html/rfc5849 the OAuth protocol].
+The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [the OAuth protocol](http://tools.ietf.org/html/rfc5849).
 
-Right now, there is only one application that uses this API.  [http://cubbi.es Cubbi.es].  The API is still very much in flux, so people are not being encouraged to write new applications until the protocol has been solidified a little more.
+Right now, there is only one application that uses this API.  [Cubbi.es](http://cubbi.es).  The API is still very much in flux, so people are not being encouraged to write new applications until the protocol has been solidified a little more.
