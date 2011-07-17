@@ -16,8 +16,6 @@ Diaspora servers communicate with one another in a variety of situations:
 
 * When discovering information about users on another server.
 * When sending information to people that you're sharing with.  That information includes:
-    * Hello
-    * Cool stuff 
     * Notification that you've begun sharing with them.
     * Posts that you've made.
     * Comments that have been made (by you or others) on one of your posts.
@@ -186,9 +184,9 @@ When a user is created on the pod, the pod MUST generate a pgp keypair for them.
 If you (Alice) have decided to share with a user (Bob) on another pod, then you will need to send posts as salmons to the remote user.
 
 You have three tasks:
-# Construct your message.
-# Construct the url for Bob's salmon endpoint.
-# Post the message to Bob.
+1. Construct your message.
+2. Construct the url for Bob's salmon endpoint.
+3. Post the message to Bob.
 
 In this example, Alice Exampleman (alice@alice.example.com) is attempting to send a message to Bob Exampleman (bob@bob.example.com).
 
@@ -199,9 +197,9 @@ In Diaspora, messages are sent to remote users encrypted.  This helps protect th
 To support the encryption semantics, Diaspora actually extends the Salmon magic envelopes protocol to add an encryption header.
 
 So, in order to construct the full salmon slap, you will need to:
-# Construct the encryption header.
-# Prepare the payload message.
-# Construct a salmon magic-envelope.
+1. Construct the encryption header.
+2. Prepare the payload message.
+3. Construct a salmon magic-envelope.
 
 #### Constructing the encryption header
 
@@ -288,10 +286,10 @@ The signature (<me:sig> element) is constructed as specified in the [Magic Envel
 
 To construct the base string, concatenate the following elements, separated by periods (.).
 
-# The contents of the <me:data> field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-# The base64url-encoding of the "data-type" parameter.  In this case, application/atom+xml  Thus, the base64url-encoded string is YXBwbGljYXRpb24vYXRvbSt4bWwK
-# The base64url-encoding of the "encoding" paramter, which is the literal string "base64url".  Thus, the base64url-encoded string is YmFzZTY0dXJsCg==
-# The base64url-encoding of the "alg" parameter, which is the literal string RSA-SHA256.  Thus, the base64url-encoded string is UlNBLVNIQTI1Ngo=
+1. The contents of the <me:data> field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
+2. The base64url-encoding of the "data-type" parameter.  In this case, application/atom+xml  Thus, the base64url-encoded string is YXBwbGljYXRpb24vYXRvbSt4bWwK
+3. The base64url-encoding of the "encoding" paramter, which is the literal string "base64url".  Thus, the base64url-encoded string is YmFzZTY0dXJsCg==
+4. The base64url-encoding of the "alg" parameter, which is the literal string RSA-SHA256.  Thus, the base64url-encoded string is UlNBLVNIQTI1Ngo=
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
