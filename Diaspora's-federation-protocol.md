@@ -13,17 +13,20 @@ Public posts are send in salmons, just like all posts.
 # Core Diaspora Protocols
 
 Diaspora servers communicate with one another in a variety of situations:
+
 * When discovering information about users on another server.
 * When sending information to people that you're sharing with.  That information includes:
-** Notification that you've begun sharing with them.
-** Posts that you've made.
-** Comments that have been made (by you or others) on one of your posts.
-** "Like"s that have been made (by you or others) on one of your posts.
-** Conversations (each thread in the inbox has an object representing it)
-** Messages (each individual message in a Conversation)
-** Profile information
-** Retractions of posts
-** Retractions of likes/comments
+    * Hello
+    * Cool stuff 
+    * Notification that you've begun sharing with them.
+    * Posts that you've made.
+    * Comments that have been made (by you or others) on one of your posts.
+    * "Like"s that have been made (by you or others) on one of your posts.
+    * Conversations (each thread in the inbox has an object representing it)
+    * Messages (each individual message in a Conversation)
+    * Profile information
+    * Retractions of posts
+    * Retractions of likes/comments
 
 ## Discovery
 
