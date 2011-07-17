@@ -26,6 +26,8 @@ Diaspora servers communicate with one another in a variety of situations:
     * Retractions of posts
     * Retractions of likes/comments
 
+This document does not cover the semantics of each of the messages listed above.  For a discussion of these semantics, see [Diaspora's Message Semantics].
+
 ## Discovery
 
 Diaspora pods MUST be able to discover users on other pods, given the other user's webfinger address.  For convenience, Diaspora pods' user-interfaces MAY choose to allow users to search for users by name, searching through the list of names already known to the pod (such as local users).  However, pods' user interfaces MAY NOT allow users to find a person by name if that person has not marked themselves as "searchable", in their hcard (see below).
@@ -191,6 +193,7 @@ In Diaspora, messages are sent to remote users encrypted.  This helps protect th
 To support the encryption semantics, Diaspora actually extends the Salmon magic envelopes protocol to add an encryption header.
 
 So, in order to construct the full salmon slap, you will need to:
+
 1. Construct the encryption header.
 2. Prepare the payload message.
 3. Construct a salmon magic-envelope.
@@ -242,7 +245,7 @@ Remember the "inner aes key" and "inner aes iv" for later.  You will use this to
 
 The payload message is what this is all about.  This is the message that you, Alice, are trying to send to Bob.
 
-This section does not cover the actual contents of the message.  However, as stated above, the things you will post to remote users are:
+This section does not cover the actual contents of the message.  For a discussion of this, see [[Diaspora's Message Semantics]].  However, as stated above, the things you will post to remote users are:
 
 * Notification that you've begun sharing with them.
 * Posts that you've made.
