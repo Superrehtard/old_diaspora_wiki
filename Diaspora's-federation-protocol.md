@@ -1,6 +1,6 @@
 The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
 
-== Assymetric Sharing ==
+# Assymetric Sharing
 
 One important thing to note is that Diaspora's notion of "sharing" is assymetric.
 
@@ -10,7 +10,7 @@ In an asymmetric "sharing" relationship, if you start sharing with someone else,
 
 Public posts are send in salmons, just like all posts.
 
-== Core Diaspora Protocols ==
+# Core Diaspora Protocols
 
 Diaspora servers communicate with one another in a variety of situations:
 * When discovering information about users on another server.
@@ -25,7 +25,7 @@ Diaspora servers communicate with one another in a variety of situations:
 ** Retractions of posts
 ** Retractions of likes/comments
 
-=== Discovery ===
+## Discovery
 
 Diaspora pods MUST be able to discover users on other pods, given the other user's webfinger address.  For convenience, Diaspora pods' user-interfaces MAY choose to allow users to search for users by name, searching through the list of names already known to the pod (such as local users).  However, pods' user interfaces MAY NOT allow users to find a person by name if that person has not marked themselves as "searchable", in their hcard (see below).
 
@@ -59,19 +59,19 @@ Bob's webfinger server (which may be the same as bob's pod) will respond with bo
 
 Let's look at these elements in more depth.
 
-==== Subject ====
+### Subject
 
     <Subject>acct:bob@bob.diaspora.example.com</Subject>
 
 The Subject element should contain the webfinger address that alice asked for.  If it does not, then this webfinger profile MUST be ignored by alice's pod.
 
-==== Alias ====
+### Alias
 
     <Alias>"http://bob.diaspora.example.com/"</Alias>
 
 (this seems to be the pod location, but with quotation marks around it.  Why?)
 
-==== hcard ====
+### hcard
 
     <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
 
@@ -152,19 +152,19 @@ Here is an example of an hcard.
   </div>
 </code>
 
-==== Seed Location ====
+### Seed Location
 
     <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
 
 The "seed_location" is a link to bob's pod.
 
-==== guid ====
+### guid
 
     <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
 
 This is just bob's guid.  When a user creates an account on a pod, the pod MUST assign them a guid -- a random hexadecimal string of at least 8 hexadecimal digits.
 
-==== Activity Stream URL ====
+### Activity Stream URL
 
     <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
 
@@ -172,13 +172,13 @@ This atom feed is an Activity Stream of bob's public posts.  Diaspora pods SHOUL
 
 Note that this feed MAY also be made available through the [http://code.google.com/p/pubsubhubbub/ PubSubHubbub mechanism] by supplying a <link rel="hub"> in the atom feed itself.
 
-==== Diaspora Public Key ====
+### Diaspora Public Key
 
     <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
 
 When a user is created on the pod, the pod MUST generate a pgp keypair for them.  This key is used for signing messages.  Here we place the key in the "href".  The format of the key is this:  We take the ascii-armored representation of the key, and base64-encode THAT.  Thus, the actual binary key is "double-wrapped" in base64-encoding.
 
-=== Sending ===
+## Sending
 
 If you (Alice) have decided to share with a user (Bob) on another pod, then you will need to send posts as salmons to the remote user.
 
@@ -189,7 +189,7 @@ You have three tasks:
 
 In this example, Alice Exampleman (alice@alice.example.com) is attempting to send a message to Bob Exampleman (bob@bob.example.com).
 
-==== Constructing the message ====
+### Constructing the message
 
 In Diaspora, messages are sent to remote users encrypted.  This helps protect the privacy of your messages while they are in transit, even if you post the salmon to Bob's pod using regular HTTP instead of SSL-encrypted HTTP.  (Note that messages are only guaranteed to be encrypted in transit.  They MAY be decrypted by Bob's server and stored in cleartext).
 
@@ -200,7 +200,7 @@ So, in order to construct the full salmon slap, you will need to:
 # Prepare the payload message.
 # Construct a salmon magic-envelope.
 
-===== Constructing the encryption header =====
+#### Constructing the encryption header
 
 * Choose an AES key and initialization vector, suitable for the aes-256-cbc cipher.  I shall refer to this as the "inner key" and the "inner initialization vector (iv)".
 * Construct the following XML snippet:
@@ -234,7 +234,7 @@ So, in order to construct the full salmon slap, you will need to:
 * Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
 * Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will construct next.
 
-===== Preparing the payload message =====
+#### Preparing the payload message
 
 The payload message is what this is all about.  This is the message that you, Alice, are trying to send to Bob.
 
@@ -260,7 +260,7 @@ In order to prepare the payload message for inclusion in your salmon slap, you w
 * Encrypt the payload message using the aes-256-cbc cipher and the "inner encryption key" and "inner encryption iv" you chose earlier.
 * Base64-encode the encrypted payload message.
 
-===== Construct a salmon magic envelope =====
+#### Construct a salmon magic envelope
 
 By now, you have gathered the following components:
 * The encryption header.
@@ -294,14 +294,14 @@ Sign the base string with your (Alice's) private RSA key and base64url-encode th
 
 This is the final form of the salmon slap, ready for delivery.
 
-==== Construct the URL of Bob's Salmon endpoint ====
+### Construct the URL of Bob's Salmon endpoint
 
 To construct the url of the salmon endpoint, do the following:
 # Get the pod location of the remote user, Bob.
 # Get the guid of the remote user (using the webfinger process described above).
 # Construct <pod_url>/receive/users/<guid>.  This Bob's salmon endpoint.
 
-==== Post the message to Bob ====
+### Post the message to Bob
 
 Take your final salmon slap, urlencode it, and POST this data to Bob's salmon endpoint:
 
@@ -311,7 +311,7 @@ If you receive an HTTP 202 Created, or a 200 OK, your salmon slap has been accep
 
 Note that this differs from the standard Salmon protocol, which specifies that you will post only the non-urlencoded salmon slap, without an xml=...
 
-=== Receiving ===
+## Receiving
 
 Consider the case in which you are Bob, receiving a salmon slap from Alice.  In general, you should be able to follow the steps outlined in the "Sending" section, in reverse.  Verify the slap, as specified in [http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-salmon-00.html#SVR Section 8 of the Salmon specification], and return 202 Created if this is a new salmon, or 200 OK if this salmon updates a previous one. If the slap fails verification, return 400 Bad Request.
 
@@ -321,14 +321,14 @@ When verifying the signature, note that the reference implementation of Diaspora
 
 For more information on this problem, see [http://barelyenough.org/blog/2008/04/fun-with-public-keys/ this blog post].
 
-== Additional Diaspora Protocols ==
+# Additional Diaspora Protocols
 
 Diaspora pods MAY offer federation through other protocols as well.  The reference implementation offers the following additional protocols:
 
 * An ActivityStream of public posts.
 * An API that allows third-party applications to use your pod's data on behalf of your users, using OAuth authentication ([http://tools.ietf.org/html/rfc5849 the OAuth protocol]).
 
-=== ActivityStream of public posts ===
+## ActivityStream of public posts
 
 The reference implementaion of Diaspora exposes a UI that allows users to mark posts as "public".  If Alice makes a post that is not marked as public, the post will be sent only to those people that Alice is sharing with.  However, if Alice makes a post that is marked public, it will also be sent to those people that are sharing with Alice, even if Alice is not sharing with them.
 
@@ -339,7 +339,7 @@ The feed SHOULD also be made available on a PubSubHubbub server.
 
 See the [http://activitystrea.ms/ ActivityStreams specification] and the [http://code.google.com/p/pubsubhubbub/ PubSubHubbub specification].
 
-=== Third-party Application API ===
+## Third-party Application API
 
 The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [http://tools.ietf.org/html/rfc5849 the OAuth protocol].
 
