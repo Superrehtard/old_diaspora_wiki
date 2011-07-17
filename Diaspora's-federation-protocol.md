@@ -26,7 +26,7 @@ Diaspora servers communicate with one another in a variety of situations:
     * Retractions of posts
     * Retractions of likes/comments
 
-This document does not cover the semantics of each of the messages listed above.  For a discussion of these semantics, see [Diaspora's Message Semantics].
+This document does not cover the semantics of each of the messages listed above.  For a discussion of these semantics, see [[Diaspora's Message Semantics]].
 
 ## Discovery
 
