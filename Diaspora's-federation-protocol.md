@@ -255,6 +255,7 @@ This section does not cover the actual contents of the message.  However, as sta
 * Retractions of likes/comments
 
 Whatever the contents of the payload message, they will be in this format:
+
     <XML>
     <post>((post-content))</post>
     </XML>
@@ -262,12 +263,14 @@ Whatever the contents of the payload message, they will be in this format:
 The post-content depends on what type of message you are sending.  In general, the API is in flux, so this document may be out of date.  The authoritative source for this information is the "models" of the reference ruby-on-rails implementation.
 
 In order to prepare the payload message for inclusion in your salmon slap, you will:
+
 * Encrypt the payload message using the aes-256-cbc cipher and the "inner encryption key" and "inner encryption iv" you chose earlier.
 * Base64-encode the encrypted payload message.
 
 #### Construct a salmon magic envelope
 
 By now, you have gathered the following components:
+
 * The encryption header.
 * The prepared payload message.
 
@@ -302,6 +305,7 @@ This is the final form of the salmon slap, ready for delivery.
 ### Construct the URL of Bob's Salmon endpoint
 
 To construct the url of the salmon endpoint, do the following:
+
 1. Get the pod location of the remote user, Bob.
 2. Get the guid of the remote user (using the webfinger process described above).
 3. Construct `<pod_url>/receive/users/<guid>`.  This Bob's salmon endpoint.
@@ -338,6 +342,7 @@ Diaspora pods MAY offer federation through other protocols as well.  The referen
 The reference implementaion of Diaspora exposes a UI that allows users to mark posts as "public".  If Alice makes a post that is not marked as public, the post will be sent only to those people that Alice is sharing with.  However, if Alice makes a post that is marked public, it will also be sent to those people that are sharing with Alice, even if Alice is not sharing with them.
 
 In addition, the posts are added to an ActivityStream.  The address of this feed is published in the user's hcard, with:
+
     <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="https://joindiaspora.com/public/((username)).atom"/>
 
 The feed SHOULD also be made available on a PubSubHubbub server.
