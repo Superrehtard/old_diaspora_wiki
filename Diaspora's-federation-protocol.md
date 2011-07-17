@@ -242,6 +242,7 @@ Remember the "inner aes key" and "inner aes iv" for later.  You will use this to
 The payload message is what this is all about.  This is the message that you, Alice, are trying to send to Bob.
 
 This section does not cover the actual contents of the message.  However, as stated above, the things you will post to remote users are:
+
 * Notification that you've begun sharing with them.
 * Posts that you've made.
 * Comments that have been made (by you or others) on one of your posts.
