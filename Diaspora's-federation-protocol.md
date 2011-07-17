@@ -1,8 +1,8 @@
 The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
 
-# Asymetric Sharing
+# Asymmetric Sharing
 
-One important thing to note is that Diaspora's notion of "sharing" is assymetric.
+One important thing to note is that Diaspora's notion of "sharing" is asymmetric.
 
 In a symmetric "friending" relationship, neither party sees any posts from the other until one party makes a friend request and the other confirms.
 
