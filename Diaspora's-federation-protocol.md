@@ -32,31 +32,25 @@ Diaspora pods MUST be able to discover users on other pods, given the other user
 
 If alice@alice.diaspora.example.com wants to discover bob@bob.disaspora.example.com, then alice's pod must perform a Webfinger lookup of bob's address.  Webfinger is an open protocol.  See [the Webfinger protocol specification](http://code.google.com/p/webfinger/wiki/WebFingerProtocol) for the full details.  However, we will summarize here.  Note that bob's webfinger profile does not need to be hosted by bob's diaspora pod.  Any webfinger server will do, so long as bob's profile contains the elements necessary for Diaspora.  See below.  However, Diaspora pods SHOULD host webfinger profiles for their users.
 
-Alice's pod will first get the host-meta file from bob's webfinger address.  The host-meta file is located at https://bob.diaspora.example.com/.well-known/host-meta.  In the host-meta file, alice's pod will find a Link element with rel="lrdd", such as:
+Alice's pod will first get the host-meta file from bob's webfinger address.  The host-meta file is located at https://bob.diaspora.example.com/.well-known/host-meta.  In the host-meta file, alice's pod will find a Link element with `rel="lrdd"`, such as:
 
-<code>
     <Link rel="lrdd" template="https://bob.diaspora.example.com/?q={uri}"  type="application/xrd+xml" />
-</code>
 
 Alice's pod will now transform bob's webfinger address and replace {uri} with that.  First, bob's webfinger address is url-encoded.  Alice will make a GET request to:
     https://bob.diaspora.example.com/?q=bob%40bob.diaspora.example.com
 
 Bob's webfinger server (which may be the same as bob's pod) will respond with bob's webfinger profile.  The webfinger protocol might look something like this:
 
-<code>
-  <?xml version="1.0" encoding="UTF-8"?>
-  <XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
-    <Subject>acct:bob@bob.diaspora.example.com</Subject>
-    <Alias>"http://bob.diaspora.example.com/"</Alias>
-    <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
-    <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
-    <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
-
-    <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
-
-    <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
-  </XRD>
-</code>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
+      <Subject>acct:bob@bob.diaspora.example.com</Subject>
+      <Alias>"http://bob.diaspora.example.com/"</Alias>
+      <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+      <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
+      <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
+      <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
+      <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
+    </XRD>
 
 Let's look at these elements in more depth.
 
@@ -88,70 +82,69 @@ Diaspora adds a field, entity_searchable, which contains an element with class "
 Diaspora also includes a url field with the id of "pod_location", which links to bob's diaspora pod.
 
 Here is an example of an hcard.
-<code>
-  <div id="content">
-  <h1>Bob Exampleman</h1>
-  <div id="content_inner">
-  <div class="entity_profile vcard author" id="i">
-  <h2>User profile</h2>
-  <dl class="entity_nickname">
-  <dt>Nickname</dt>
-  <dd>
-  <a class="nickname url uid" href="http://bob.diaspora.example.com/" rel="me">Bob Exampleman</a>
-  </dd>
-  </dl>
-  <dl class="entity_given_name">
-  <dt>First name</dt>
-  <dd>
-  <span class="given_name">Bob</span>
-  </dd>
-  </dl>
-  <dl class="entity_family_name">
-  <dt>Family name</dt>
-  <dd>
-  <span class="family_name">Exampleman</span>
-  </dd>
-  </dl>
-  <dl class="entity_fn">
-  <dt>Full name</dt>
-  <dd>
-  <span class="fn">Bob Exampleman</span>
-  </dd>
-  </dl>
-  <dl class="entity_url">
-  <dt>URL</dt>
-  <dd>
-  <a class="url" href="http://bob.diaspora.example.com/" id="pod_location" rel="me">http://bob.diaspora.example.com/</a>
-  </dd>
-  </dl>
-  <dl class="entity_photo">
-  <dt>Photo</dt>
-  <dd>
-  <img class="photo avatar" height="300px" src="http://bob.diaspora.example.com/uploads/images/thumb_large_sTBJOBJScE.jpg" width="300px">
-  </dd>
-  </dl>
-  <dl class="entity_photo_medium">
-  <dt>Photo</dt>
-  <dd>
-  <img class="photo avatar" height="100px" src="http://bob.diaspora.example.com/uploads/images/thumb_medium_sTBJOBJScE.jpg" width="100px">
-  </dd>
-  </dl>
-  <dl class="entity_photo_small">
-  <dt>Photo</dt>
-  <dd>
-  <img class="photo avatar" height="50px" src="http://bob.diaspora.example.com/uploads/images/thumb_small_sTBJOBJScE.jpg" width="50px">
-  </dd>
-  </dl>
-  <dl class="entity_searchable">
-  <dt>Searchable</dt>
-  <dd>
-  <span class="searchable">true</span>
-  </dd>
-  </dl>
-  </div>
-  </div>
-  </div>
-</code>
+
+    <div id="content">
+    <h1>Bob Exampleman</h1>
+    <div id="content_inner">
+    <div class="entity_profile vcard author" id="i">
+    <h2>User profile</h2>
+    <dl class="entity_nickname">
+    <dt>Nickname</dt>
+    <dd>
+    <a class="nickname url uid" href="http://bob.diaspora.example.com/" rel="me">Bob Exampleman</a>
+    </dd>
+    </dl>
+    <dl class="entity_given_name">
+    <dt>First name</dt>
+    <dd>
+    <span class="given_name">Bob</span>
+    </dd>
+    </dl>
+    <dl class="entity_family_name">
+    <dt>Family name</dt>
+    <dd>
+    <span class="family_name">Exampleman</span>
+    </dd>
+    </dl>
+    <dl class="entity_fn">
+    <dt>Full name</dt>
+    <dd>
+    <span class="fn">Bob Exampleman</span>
+    </dd>
+    </dl>
+    <dl class="entity_url">
+    <dt>URL</dt>
+    <dd>
+    <a class="url" href="http://bob.diaspora.example.com/" id="pod_location" rel="me">http://bob.diaspora.example.com/</a>
+    </dd>
+    </dl>
+    <dl class="entity_photo">
+    <dt>Photo</dt>
+    <dd>
+    <img class="photo avatar" height="300px" src="http://bob.diaspora.example.com/uploads/images/thumb_large_sTBJOBJScE.jpg" width="300px">
+    </dd>
+    </dl>
+    <dl class="entity_photo_medium">
+    <dt>Photo</dt>
+    <dd> 
+    <img class="photo avatar" height="100px" src="http://bob.diaspora.example.com/uploads/images/thumb_medium_sTBJOBJScE.jpg" width="100px">
+    </dd>
+    </dl>
+    <dl class="entity_photo_small">
+    <dt>Photo</dt>
+    <dd>
+    <img class="photo avatar" height="50px" src="http://bob.diaspora.example.com/uploads/images/thumb_small_sTBJOBJScE.jpg" width="50px">
+    </dd>
+    </dl>
+    <dl class="entity_searchable">
+    <dt>Searchable</dt>
+    <dd>
+    <span class="searchable">true</span>
+    </dd>
+    </dl>
+    </div>
+    </div>
+    </div>
 
 ### Seed Location
 
@@ -205,6 +198,7 @@ So, in order to construct the full salmon slap, you will need to:
 
 * Choose an AES key and initialization vector, suitable for the aes-256-cbc cipher.  I shall refer to this as the "inner key" and the "inner initialization vector (iv)".
 * Construct the following XML snippet:
+
     <decrypted_header>
       <iv>((base64-encoded inner iv))</iv>
       <aes_key>((base64-encoded inner key))</aes_key>
@@ -217,20 +211,22 @@ So, in order to construct the full salmon slap, you will need to:
 * Construct '''another''' AES key and initialization vector suitable for the aes-256-cbc cipher.  I shall refer to this as the "outer key" and the "outer initialization vector (iv)".
 * Encrypt your <decrypted_header> XML snippet using the "outer key" and "outer iv" (using the aes-256-cbc cipher).  This encrypted blob shall be referred to as "the ciphertext".
 * Construct the following JSON object, which shall be referred to as "the outer aes key bundle":
-  {
-    "iv": ((base64-encoded AES outer iv)),
-    "key": ((base64-encoded AES outer key))
-  }
 
+    {
+      "iv": ((base64-encoded AES outer iv)),
+      "key": ((base64-encoded AES outer key))
+    }
 * Encrypt the "outer aes key bundle" with Bob's RSA public key.  I shall refer to this as the "encrypted outer aes key bundle".
 * Construct the following JSON object, which I shall refer to as the "encrypted header json object":
-  {
-    "aes_key": ((base64-encoded encrypted outer aes key bundle)),
-    "ciphertext": ((base64-encoded ciphertextm from above))
-  }
+
+    {
+      "aes_key": ((base64-encoded encrypted outer aes key bundle)),
+      "ciphertext": ((base64-encoded ciphertextm from above))
+    }
 
 * Construct the xml snippet:
-  <encrypted_header>((base64-encoded encrypted header json object))</encrypted_header>
+
+    <encrypted_header>((base64-encoded encrypted header json object))</encrypted_header>
 
 * Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
 * Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will construct next.
@@ -269,27 +265,27 @@ By now, you have gathered the following components:
 
 You must now construct the salmon magic envelope that we will post to Bob, the recipient.  It is constructed thusly:
 
-<?xml version='1.0' encoding='UTF-8'?>
-<entry xmlns='http://www.w3.org/2005/Atom'>
-  ((the encryption header))
-  <me:env xmlns:me="http://salmon-protocol.org/ns/magic-env">
-    <me:encoding>base64url</me:encoding>
-    <me:alg>RSA-SHA256</me:alg>
-    <me:data type="application/atom+xml">((base64url-encoded prepared payload message))</me:data>
-    <me:sig>((the RSA-SHA256 signature of the above data))</me:sig>
-  </me:env>
-</entry>
+    <?xml version='1.0' encoding='UTF-8'?>
+    <entry xmlns='http://www.w3.org/2005/Atom'>
+      ((the encryption header))
+      <me:env xmlns:me="http://salmon-protocol.org/ns/magic-env">
+        <me:encoding>base64url</me:encoding>
+        <me:alg>RSA-SHA256</me:alg>
+        <me:data type="application/atom+xml">((base64url-encoded prepared payload message))</me:data>
+        <me:sig>((the RSA-SHA256 signature of the above data))</me:sig>
+      </me:env>
+    </entry>
 
-Note that the last step in the preparation of the payload message was to base64-encode it.  That string must be base64-encoded again to form the <me:data> element.  However, this time, it must be encoded with the slightly-different base64url encoding.  So your payload message will end up double-wrapped in base64-encoding.
+Note that the last step in the preparation of the payload message was to base64-encode it.  That string must be base64-encoded again to form the `<me:data>` element.  However, this time, it must be encoded with the slightly-different base64url encoding.  So your payload message will end up double-wrapped in base64-encoding.
 
-The signature (<me:sig> element) is constructed as specified in the [Magic Envelopes specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-magicsig-01.html).  That is, use the RSA-SHA256 algorithm to sign the base string with your (Alice's) private RSA key.  
+The signature (`<me:sig>` element) is constructed as specified in the [Magic Envelopes specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-magicsig-01.html).  That is, use the RSA-SHA256 algorithm to sign the base string with your (Alice's) private RSA key.  
 
 To construct the base string, concatenate the following elements, separated by periods (.).
 
-1. The contents of the <me:data> field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-2. The base64url-encoding of the "data-type" parameter.  In this case, application/atom+xml  Thus, the base64url-encoded string is YXBwbGljYXRpb24vYXRvbSt4bWwK
-3. The base64url-encoding of the "encoding" paramter, which is the literal string "base64url".  Thus, the base64url-encoded string is YmFzZTY0dXJsCg==
-4. The base64url-encoding of the "alg" parameter, which is the literal string RSA-SHA256.  Thus, the base64url-encoded string is UlNBLVNIQTI1Ngo=
+1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
+2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK`
+3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==`
+4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=`
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
@@ -300,21 +296,21 @@ This is the final form of the salmon slap, ready for delivery.
 To construct the url of the salmon endpoint, do the following:
 1. Get the pod location of the remote user, Bob.
 2. Get the guid of the remote user (using the webfinger process described above).
-3. Construct <pod_url>/receive/users/<guid>.  This Bob's salmon endpoint.
+3. Construct `<pod_url>/receive/users/<guid>`.  This Bob's salmon endpoint.
 
 ### Post the message to Bob
 
 Take your final salmon slap, urlencode it, and POST this data to Bob's salmon endpoint:
 
-xml=((urlencoded salmon slap))
+    xml=((urlencoded salmon slap))
 
-If you receive an HTTP 202 Created, or a 200 OK, your salmon slap has been accepted.
+If you receive an HTTP `202 Created`, or a `200 OK`, your salmon slap has been accepted.
 
-Note that this differs from the standard Salmon protocol, which specifies that you will post only the non-urlencoded salmon slap, without an xml=...
+Note that this differs from the standard Salmon protocol, which specifies that you will post only the non-urlencoded salmon slap, without an `xml=...`
 
 ## Receiving
 
-Consider the case in which you are Bob, receiving a salmon slap from Alice.  In general, you should be able to follow the steps outlined in the "Sending" section, in reverse.  Verify the slap, as specified in [Section 8 of the Salmon specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-salmon-00.html#SVR), and return 202 Created if this is a new salmon, or 200 OK if this salmon updates a previous one. If the slap fails verification, return 400 Bad Request.
+Consider the case in which you are Bob, receiving a salmon slap from Alice.  In general, you should be able to follow the steps outlined in the "Sending" section, in reverse.  Verify the slap, as specified in [Section 8 of the Salmon specification](http://salmon-protocol.googlecode.com/svn/trunk/draft-panzer-salmon-00.html#SVR), and return `202 Created` if this is a new salmon, or `200 OK` if this salmon updates a previous one. If the slap fails verification, return `400 Bad Request`.
 
 Note that the slap sent to Bob is signed with Alice's private key.  However, nothing about the author of a slap is sent in cleartext.  Therefore, you will have to decrypt and decode the payload message in order to find the information about who the message is from.  The payload message will contain the diaspora handle of the author.  Get their public key from their webfinger protocol.  This is the key that you will use to verify the signature.
 
@@ -327,14 +323,14 @@ For more information on this problem, see [this blog post](http://barelyenough.o
 Diaspora pods MAY offer federation through other protocols as well.  The reference implementation offers the following additional protocols:
 
 * An ActivityStream of public posts.
-* An API that allows third-party applications to use your pod's data on behalf of your users, using OAuth authentication ([http://tools.ietf.org/html/rfc5849 the OAuth protocol]).
+* An API that allows third-party applications to use your pod's data on behalf of your users, using OAuth authentication ([the OAuth protocol](http://tools.ietf.org/html/rfc5849)).
 
 ## ActivityStream of public posts
 
 The reference implementaion of Diaspora exposes a UI that allows users to mark posts as "public".  If Alice makes a post that is not marked as public, the post will be sent only to those people that Alice is sharing with.  However, if Alice makes a post that is marked public, it will also be sent to those people that are sharing with Alice, even if Alice is not sharing with them.
 
 In addition, the posts are added to an ActivityStream.  The address of this feed is published in the user's hcard, with:
-  <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="https://joindiaspora.com/public/((username)).atom"/>
+    <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="https://joindiaspora.com/public/((username)).atom"/>
 
 The feed SHOULD also be made available on a PubSubHubbub server.
 
