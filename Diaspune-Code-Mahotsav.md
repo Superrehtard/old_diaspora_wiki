@@ -13,5 +13,6 @@ If you are interested to participate, add your name and a way of contacting you.
 
    1. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
 
+Short link for this page is http://is.gd/mahotsav
 
-[[Stay tuned!|http://diaspune.onlinegroups.net]]
+[[Stay tuned!|http://diaspune.onlinegroups.net]] 
