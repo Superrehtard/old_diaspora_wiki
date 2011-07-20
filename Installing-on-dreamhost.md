@@ -28,7 +28,7 @@ To install Redis follow these steps:
         $ cd redis-2.2.11
         $ cd src; make PREFIX=$HOME/redis
         $ make PREFIX=$HOME/redis install
-        $ nohup $HOME/redis/bin/redis-server  &
+        $ RAILS_ENV=production nohup $HOME/redis/bin/redis-server  &
 
 Follow remaining steps from [[main installation article | Installing-and-Running-Diaspora]]. Just check the notes below for dreamhost specific quirks.
 
@@ -36,20 +36,34 @@ Follow remaining steps from [[main installation article | Installing-and-Running
 
 Run these commands from diapsora code directory - $HOME/<yourdomain>
 
-To run bundle use ~/.gems/bin/bundle 
+- To run bundle use ~/.gems/bin/bundle 
 
 Note: sqlite3 gem won't work if you don't provide '--without development' option. Also you have to remove lines containing sqlite3 from Gemfile and Gemfile.lock.
 
         $ ~/.gems/bin/bundle install --path vendor/bundle_gems --without development 
 
-There is an old version of rack installed by default which conflicts with diapsora
+- There is an old version of rack installed by default which conflicts with diapsora
 
-        $ gem install rack -v 1.2.3
+Hack: You have to change rack version to 1.2.1 in Gemfile.lock to make it work, but then it does not work properly.
 
-passenger equivalent to restart is
+- Change ca_file in config/application.yml (remember dreamhost runs debian)
+
+- Invoke all rake commands via budle exec 
+
+        $ RAILS_ENV=production ~/.gems/bin/bundle exec rake db:migrate
+
+- Passenger equivalent to restart is 
 
        $ touch tmp/restart.txt
 
-you have to run jammit to have the layout come properly
+- You have to run jammit to have the layout come properly
 
-      ~/.gems/bin/bundle exec jammit
+      $ RAILS_ENV=production ~/.gems/bin/bundle exec jammit
+
+- Starting resque 
+
+      $ RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
+
+- Starting websocket_server
+
+      $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
