@@ -76,3 +76,5 @@ Script for starting basic services (script/dreamhost)
         sleep 10
         RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
         sleep 10
+
+Note: Currently we get an internal server error if we have websocket_server running, so don't run it. I don't know if it has something to do with older rack version (j4v4m4n)
