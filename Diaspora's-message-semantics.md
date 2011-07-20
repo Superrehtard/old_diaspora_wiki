@@ -86,14 +86,16 @@ If Alice decides to share with Bob, then Alice's pod MUST transmit a Sharing Not
 
 A Sharing Notification looks like this:
 
-    <XML>
-      <post>
-        <request>
-          <sender_handle>alice@alice.diaspora.example.org</sender_handle>
-          <recipient_handle>bob@bob.diaspora.example.org</sender_handle>
-        </request>
-      </post>
-    </XML>
+```xml
+<XML>
+  <post>
+    <request>
+      <sender_handle>alice@alice.diaspora.example.org</sender_handle>
+      <recipient_handle>bob@bob.diaspora.example.org</sender_handle>
+    </request>
+  </post>
+</XML>
+```
 
 (where alice@alice.diaspora.example.com is Alice's [[Diaspora's federation protocol#Discovery|Webfinger address]]) and bob@bob.diaspora.example.com is Bob's.
 
@@ -109,17 +111,19 @@ However Alice chooses recipients, the message is sent out in the following fashi
 
 Alice will serialize the message like this:
 
-    <XML>
-      <post>
-        <status_message>
-          <raw_message>((status message))</raw_message>
-          <guid>((guid))</guid>
-          <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
-          <public>false</public>
-          <created_at>2011-07-20 01:36:07 UTC</created_at>
-        </status_message>
-      </post>
-    </XML>
+```xml
+<XML>
+  <post>
+    <status_message>
+      <raw_message>((status message))</raw_message>
+      <guid>((guid))</guid>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+      <public>false</public>
+      <created_at>2011-07-20 01:36:07 UTC</created_at>
+    </status_message>
+  </post>
+</XML>
+```
 
 * `<raw_message>` is the text of the message that Alice wants to send out.  
 * `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
