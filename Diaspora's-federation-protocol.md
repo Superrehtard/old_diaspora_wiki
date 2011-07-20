@@ -36,41 +36,51 @@ If alice@alice.diaspora.example.com wants to discover bob@bob.disaspora.example.
 
 Alice's pod will first get the host-meta file from bob's webfinger address.  The host-meta file is located at https://bob.diaspora.example.com/.well-known/host-meta.  In the host-meta file, alice's pod will find a Link element with `rel="lrdd"`, such as:
 
-    <Link rel="lrdd" template="https://bob.diaspora.example.com/?q={uri}"  type="application/xrd+xml" />
+```xml
+<Link rel="lrdd" template="https://bob.diaspora.example.com/?q={uri}"  type="application/xrd+xml" />
+```
 
 Alice's pod will now transform bob's webfinger address and replace {uri} with that.  First, bob's webfinger address is url-encoded.  Alice will make a GET request to:
     https://bob.diaspora.example.com/?q=bob%40bob.diaspora.example.com
 
 Bob's webfinger server (which may be the same as bob's pod) will respond with bob's webfinger profile.  The webfinger protocol might look something like this:
 
-    <?xml version="1.0" encoding="UTF-8"?>
-    <XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
-      <Subject>acct:bob@bob.diaspora.example.com</Subject>
-      <Alias>"http://bob.diaspora.example.com/"</Alias>
-      <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
-      <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
-      <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
-      <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
-      <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
-    </XRD>
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
+  <Subject>acct:bob@bob.diaspora.example.com</Subject>
+  <Alias>"http://bob.diaspora.example.com/"</Alias>
+  <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+  <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
+  <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
+  <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
+  <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
+</XRD>
+```
 
 Let's look at these elements in more depth.
 
 ### Subject
 
-    <Subject>acct:bob@bob.diaspora.example.com</Subject>
+```xml
+<Subject>acct:bob@bob.diaspora.example.com</Subject>
+```
 
 The Subject element should contain the webfinger address that alice asked for.  If it does not, then this webfinger profile MUST be ignored by alice's pod.
 
 ### Alias
 
-    <Alias>"http://bob.diaspora.example.com/"</Alias>
+```xml
+<Alias>"http://bob.diaspora.example.com/"</Alias>
+```
 
 (this seems to be the pod location, but with quotation marks around it.  Why?)
 
 ### hcard
 
-    <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+```xml
+<Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+```
 
 Bob's webfinger profile MUST contain a link to an hcard.  The hcard contains personal information such as bob's full name, a link to bob's photo, etc.  Refer to the [hcard specification](http://microformats.org/profile/hcard hcard specification) for a full discussion on hcard syntax.
 
@@ -85,84 +95,92 @@ Diaspora also includes a url field with the id of "pod_location", which links to
 
 Here is an example of an hcard.
 
-    <div id="content">
-    <h1>Bob Exampleman</h1>
-    <div id="content_inner">
-    <div class="entity_profile vcard author" id="i">
-    <h2>User profile</h2>
-    <dl class="entity_nickname">
-    <dt>Nickname</dt>
-    <dd>
-    <a class="nickname url uid" href="http://bob.diaspora.example.com/" rel="me">Bob Exampleman</a>
-    </dd>
-    </dl>
-    <dl class="entity_given_name">
-    <dt>First name</dt>
-    <dd>
-    <span class="given_name">Bob</span>
-    </dd>
-    </dl>
-    <dl class="entity_family_name">
-    <dt>Family name</dt>
-    <dd>
-    <span class="family_name">Exampleman</span>
-    </dd>
-    </dl>
-    <dl class="entity_fn">
-    <dt>Full name</dt>
-    <dd>
-    <span class="fn">Bob Exampleman</span>
-    </dd>
-    </dl>
-    <dl class="entity_url">
-    <dt>URL</dt>
-    <dd>
-    <a class="url" href="http://bob.diaspora.example.com/" id="pod_location" rel="me">http://bob.diaspora.example.com/</a>
-    </dd>
-    </dl>
-    <dl class="entity_photo">
-    <dt>Photo</dt>
-    <dd>
-    <img class="photo avatar" height="300px" src="http://bob.diaspora.example.com/uploads/images/thumb_large_sTBJOBJScE.jpg" width="300px">
-    </dd>
-    </dl>
-    <dl class="entity_photo_medium">
-    <dt>Photo</dt>
-    <dd> 
-    <img class="photo avatar" height="100px" src="http://bob.diaspora.example.com/uploads/images/thumb_medium_sTBJOBJScE.jpg" width="100px">
-    </dd>
-    </dl>
-    <dl class="entity_photo_small">
-    <dt>Photo</dt>
-    <dd>
-    <img class="photo avatar" height="50px" src="http://bob.diaspora.example.com/uploads/images/thumb_small_sTBJOBJScE.jpg" width="50px">
-    </dd>
-    </dl>
-    <dl class="entity_searchable">
-    <dt>Searchable</dt>
-    <dd>
-    <span class="searchable">true</span>
-    </dd>
-    </dl>
-    </div>
-    </div>
-    </div>
+```html
+<div id="content">
+<h1>Bob Exampleman</h1>
+<div id="content_inner">
+<div class="entity_profile vcard author" id="i">
+<h2>User profile</h2>
+<dl class="entity_nickname">
+<dt>Nickname</dt>
+<dd>
+<a class="nickname url uid" href="http://bob.diaspora.example.com/" rel="me">Bob Exampleman</a>
+</dd>
+</dl>
+<dl class="entity_given_name">
+<dt>First name</dt>
+<dd>
+<span class="given_name">Bob</span>
+</dd>
+</dl>
+<dl class="entity_family_name">
+<dt>Family name</dt>
+<dd>
+<span class="family_name">Exampleman</span>
+</dd>
+</dl>
+<dl class="entity_fn">
+<dt>Full name</dt>
+<dd>
+<span class="fn">Bob Exampleman</span>
+</dd>
+</dl>
+<dl class="entity_url">
+<dt>URL</dt>
+<dd>
+<a class="url" href="http://bob.diaspora.example.com/" id="pod_location" rel="me">http://bob.diaspora.example.com/</a>
+</dd>
+</dl>
+<dl class="entity_photo">
+<dt>Photo</dt>
+<dd>
+<img class="photo avatar" height="300px" src="http://bob.diaspora.example.com/uploads/images/thumb_large_sTBJOBJScE.jpg" width="300px">
+</dd>
+</dl>
+<dl class="entity_photo_medium">
+<dt>Photo</dt>
+<dd> 
+<img class="photo avatar" height="100px" src="http://bob.diaspora.example.com/uploads/images/thumb_medium_sTBJOBJScE.jpg" width="100px">
+</dd>
+</dl>
+<dl class="entity_photo_small">
+<dt>Photo</dt>
+<dd>
+<img class="photo avatar" height="50px" src="http://bob.diaspora.example.com/uploads/images/thumb_small_sTBJOBJScE.jpg" width="50px">
+</dd>
+</dl>
+<dl class="entity_searchable">
+<dt>Searchable</dt>
+<dd>
+<span class="searchable">true</span>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+```
 
 ### Seed Location
 
-    <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
+```xml
+<Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
+```
 
 The "seed_location" is a link to bob's pod.
 
 ### guid
 
-    <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
+```xml
+<Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
+```
 
 This is just bob's guid.  When a user creates an account on a pod, the pod MUST assign them a guid -- a random hexadecimal string of at least 8 hexadecimal digits.
 
 ### Activity Stream URL
 
-    <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
+```xml
+<Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
+```
 
 This atom feed is an Activity Stream of bob's public posts.  Diaspora pods SHOULD publish an Activity Stream of public posts, but there is currently no requirement to be able to read Activity Streams.  For more information, read the [Activity Streams specification](http://activitystrea.ms/)
 
@@ -170,7 +188,9 @@ Note that this feed MAY also be made available through the [PubSubHubbub mechani
 
 ### Diaspora Public Key
 
-    <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
+```xml
+<Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
+```
 
 When a user is created on the pod, the pod MUST generate a pgp keypair for them.  This key is used for signing messages.  Here we place the key in the "href".  The format of the key is this:  We take the ascii-armored representation of the key, and base64-encode THAT.  Thus, the actual binary key is "double-wrapped" in base64-encoding.
 
@@ -204,14 +224,16 @@ Choose an AES key and initialization vector, suitable for the aes-256-cbc cipher
 
 Construct the following XML snippet:
 
-    <decrypted_header>
-      <iv>((base64-encoded inner iv))</iv>
-      <aes_key>((base64-encoded inner key))</aes_key>
-      <author>
-        <name>Alice Exampleman</name>
-        <uri>acct:alice@alice.pirateship.org</uri>
-      </author>
-    </decrypted_header>
+```xml
+<decrypted_header>
+  <iv>((base64-encoded inner iv))</iv>
+  <aes_key>((base64-encoded inner key))</aes_key>
+  <author>
+    <name>Alice Exampleman</name>
+    <uri>acct:alice@alice.pirateship.org</uri>
+  </author>
+</decrypted_header>
+```
 
 Construct _another_ AES key and initialization vector suitable for the aes-256-cbc cipher.  I shall refer to this as the "outer key" and the "outer initialization vector (iv)".
 
@@ -219,23 +241,29 @@ Encrypt your `<decrypted_header>` XML snippet using the "outer key" and "outer i
 
 Construct the following JSON object, which shall be referred to as "the outer aes key bundle":
 
-    {
-      "iv": ((base64-encoded AES outer iv)),
-      "key": ((base64-encoded AES outer key))
-    }
+```javascript
+{
+  "iv": ((base64-encoded AES outer iv)),
+  "key": ((base64-encoded AES outer key))
+}
+```
 
 Encrypt the "outer aes key bundle" with Bob's RSA public key.  I shall refer to this as the "encrypted outer aes key bundle".
 
 Construct the following JSON object, which I shall refer to as the "encrypted header json object":
 
-    {
-      "aes_key": ((base64-encoded encrypted outer aes key bundle)),
-      "ciphertext": ((base64-encoded ciphertextm from above))
-    }
+```javascript
+{
+  "aes_key": ((base64-encoded encrypted outer aes key bundle)),
+  "ciphertext": ((base64-encoded ciphertextm from above))
+}
+```
 
 Construct the xml snippet:
 
-    <encrypted_header>((base64-encoded encrypted header json object))</encrypted_header>
+```xml
+<encrypted_header>((base64-encoded encrypted header json object))</encrypted_header>
+```
 
 Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
 
@@ -259,9 +287,11 @@ This section does not cover the actual contents of the message.  For a discussio
 
 Whatever the contents of the payload message, they will be in this format:
 
-    <XML>
-    <post>((post-content))</post>
-    </XML>
+```xml
+<XML>
+  <post>((post-content))</post>
+</XML>
+```
 
 The post-content depends on what type of message you are sending.  In general, the API is in flux, so this document may be out of date.  The authoritative source for this information is the "models" of the reference ruby-on-rails implementation.
 
@@ -279,16 +309,18 @@ By now, you have gathered the following components:
 
 You must now construct the salmon magic envelope that we will post to Bob, the recipient.  It is constructed thusly:
 
-    <?xml version='1.0' encoding='UTF-8'?>
-    <entry xmlns='http://www.w3.org/2005/Atom'>
-      ((the encryption header))
-      <me:env xmlns:me="http://salmon-protocol.org/ns/magic-env">
-        <me:encoding>base64url</me:encoding>
-        <me:alg>RSA-SHA256</me:alg>
-        <me:data type="application/atom+xml">((base64url-encoded prepared payload message))</me:data>
-        <me:sig>((the RSA-SHA256 signature of the above data))</me:sig>
-      </me:env>
-    </entry>
+```xml
+<?xml version='1.0' encoding='UTF-8'?>
+<entry xmlns='http://www.w3.org/2005/Atom'>
+  ((the encryption header))
+  <me:env xmlns:me="http://salmon-protocol.org/ns/magic-env">
+    <me:encoding>base64url</me:encoding>
+    <me:alg>RSA-SHA256</me:alg>
+    <me:data type="application/atom+xml">((base64url-encoded prepared payload message))</me:data>
+    <me:sig>((the RSA-SHA256 signature of the above data))</me:sig>
+  </me:env>
+</entry>
+```
 
 Note that the last step in the preparation of the payload message was to base64-encode it.  That string must be base64-encoded again to form the `<me:data>` element.  However, this time, it must be encoded with the slightly-different base64url encoding.  So your payload message will end up double-wrapped in base64-encoding.
 
@@ -346,7 +378,9 @@ The reference implementaion of Diaspora exposes a UI that allows users to mark p
 
 In addition, the posts are added to an ActivityStream.  The address of this feed is published in the user's hcard, with:
 
-    <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="https://joindiaspora.com/public/((username)).atom"/>
+```xml
+<Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="https://joindiaspora.com/public/((username)).atom"/>
+```
 
 The feed SHOULD also be made available on a PubSubHubbub server.
 
@@ -357,3 +391,4 @@ See the [ActivityStrems specification](http://activitystrea.ms/) and the [PubSub
 The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [the OAuth protocol](http://tools.ietf.org/html/rfc5849).
 
 Right now, there is only one application that uses this API.  [Cubbi.es](http://cubbi.es).  The API is still very much in flux, so people are not being encouraged to write new applications until the protocol has been solidified a little more.
+
