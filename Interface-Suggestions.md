@@ -32,7 +32,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ![photo](http://i.imgur.com/WOY4c.png)
 
-*This is backed by a real UX expert whom Dennis Schubert talked too!*
+*This is backed by a real UX expert whom Dennis Schubert talked too!* This is also backed by me (Jan-Christoph, surreal UX expert). People had problems with choosing aspects and finding how to toggle them in all usability tests so far (I did 4). Also, 2 long-term users reportedly only found out how to toggle aspects after using Diaspora for about three weeks.
 
 ###[Tooltips on world icon](http://imgur.com/a/fxjlv) ([Issue](https://github.com/diaspora/diaspora/issues/1587))
 **untitaker:**
