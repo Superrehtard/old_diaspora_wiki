@@ -36,34 +36,34 @@ Follow remaining steps from [[main installation article | Installing-and-Running
 
 Run these commands from diapsora code directory - $HOME/<yourdomain>
 
-- To run bundle use ~/.gems/bin/bundle 
+To run bundle use ~/.gems/bin/bundle 
 
 Note: sqlite3 gem won't work if you don't provide '--without development' option. Also you have to remove lines containing sqlite3 from Gemfile and Gemfile.lock.
 
         $ ~/.gems/bin/bundle install --path vendor/bundle_gems --without development 
 
-- There is an old version of rack installed by default which conflicts with diapsora
+There is an old version of rack installed by default which conflicts with diapsora
 
 Hack: You have to change rack version to 1.2.1 in Gemfile.lock to make it work, but then it does not work properly.
 
-- Change ca_file in config/application.yml (remember dreamhost runs debian)
+Change ca_file in config/application.yml (remember dreamhost runs debian)
 
-- Invoke all rake commands via budle exec 
+Invoke all rake commands via budle exec 
 
         $ RAILS_ENV=production ~/.gems/bin/bundle exec rake db:migrate
 
-- Passenger equivalent to restart is 
+Passenger equivalent to restart is 
 
-       $ touch tmp/restart.txt
+        $ touch tmp/restart.txt
 
-- You have to run jammit to have the layout come properly
+You have to run jammit to have the layout come properly
 
-      $ RAILS_ENV=production ~/.gems/bin/bundle exec jammit
+        $ RAILS_ENV=production ~/.gems/bin/bundle exec jammit
 
-- Starting resque 
+Starting resque 
 
-      $ RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
+        $ RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
 
-- Starting websocket_server
+Starting websocket_server
 
-      $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
+        $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
