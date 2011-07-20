@@ -43,17 +43,19 @@ Occasionally, Alice's pod may have more information than Alice herself should ha
 
 Consider the situation where Alice and Eve live on the same pod, but Bob lives on a remote pod.  Bob makes a post, which is delivered to both Alice and Eve.
 
-Each comment is given a GUID and has a "created time" and an "updated time" (these semantics are discussed below).
+Each comment is given a GUID.
 
 Now, Bob wraps up two salmon slaps in order to send the message:  One encrypted with Alice's RSA public key and one with Eve's.  But he sends them both to the same pod.  Pods MAY store their users' RSA private keys and decrypt messages on behalf of its users, and MAY store messages in cleartext.  In fact, this is what the reference implementation does.
 
-So, when Alice receives her copy of Bob's original message, Alice's pod stores the cleartext in the database.  Later, when Eve's copy of the message comes in, Alice's pod notices that the GUID of the new message matches one that already exists in the database, and also notices that the "updated time" is the same as the one stored in the database.  Thus, when Eve's copy of the message comes in, Eve's pod does not choose to store a second copy of it.  Instead, it just makes a note in a local visibility-permission table, noting that Eve should be able to see the message.
+So, when Alice receives her copy of Bob's original message, Alice's pod stores the cleartext in the database.  Later, when Eve's copy of the message comes in, Alice's pod notices that the GUID of the new message matches one that already exists in the database.  Thus, when Eve's copy of the message comes in, Eve's pod does not choose to store a second copy of it.  Instead, it just makes a note in a local visibility-permission table, noting that Eve should be able to see the message.
 
-All comments SHOULD be visible to everybody who saw the original post.  Thus, when Alice makes a comment, Alice's pod looks at the visibility table and notices that Eve should also be seeing the comment.  Thus, the comment can be delivered locally to Eve before receiving the relayed comment from Bob.
+All comments MAY be made visible to everybody who saw the original post.  If using this system,  when Alice makes a comment, Alice's pod looks at the visibility table and notices that Eve should also be seeing the comment.  Thus, the comment can be delivered locally to Eve before receiving the relayed comment from Bob.
 
 Note that this de-duplication is optional.  A pod MAY store duplicates of messages, and MAY wait to deliver Alice's comment to Eve until the pod has heard Bob's relaying of the message.
 
-One reason a pod may do this is if the pod does not store its users' RSA keys and does not decrypt messages on behalf of its users.  Thus, the pod cannot read the message to find out the GUID and updated time, so de-duplication cannot be performed.
+One reason a pod may do this is if the pod does not store its users' RSA keys and does not decrypt messages on behalf of its users.  Thus, the pod cannot read the message to find out the GUID, so de-duplication cannot be performed.
+
+Another consideration is that using de-duplication in this fashion will rob Bob of his choice of whether or not to forward the comment to Eve.  If de-duplication is not used, Bob can do filtering and moderation on Alice's comment.
 
 # The Messages
 
@@ -70,3 +72,65 @@ Diaspora currently defines the following messages:
 * Retractions of likes/comments
 
 Note, however, that Diaspora is in alpha and its protocol is in flux, so this list is subject to change and this document may be out of date.  The most up-to-date information resides in the source code for Diaspora's reference implementation, which is a Ruby on Rails application.  The files to pay attention to are those application models that inherit from WebHooks.
+
+Nevertheless, this document will describe the messages as they were at the time of writing.  This document should be updated when the messages change.
+
+## Sharing Notifications
+
+Remember that Diaspora uses an [[Diaspora's federation protocol#Asymmetric Sharing|asymmetric model]] of sharing.  That is, Alice can choose to start sharing with Bob, and Bob need not approve this action, and Bob need not reciprocate.  However, Bob's pod SHOULD NOT show Alice's original posts in the main location unless Bob is also sharing with Alice.  Alice's responses to Bob's posts SHOULD be shown with the rest of the responses.  However, since Bob, in this scenario, is not sharing with Alice, Alice will only be able to respond to Bob's _public_ posts.  
+If Bob is sharing with Diego, and Diego is sharing with Bob, and Diego is also sharing with Alice, then Alice will see Diego's posts and be able to respond to them.  Bob should see Alice's responses to Diego's posts with the rest of the responses.
+
+The above is just a little refresher on the asymmetric semantics of Diaspora's sharing model.  But this section deals with the actual messages that are sent over the wire.
+
+If Alice decides to share with Bob, then Alice's pod MUST transmit a Sharing Notification to Bob.  (Note: In the reference implementation, these are called "requests"; this is a holdover from when Diaspora had a symmetric model of sharing).
+
+A Sharing Notification looks like this:
+
+    <XML>
+      <post>
+        <request>
+          <sender_handle>alice@alice.diaspora.example.org</sender_handle>
+          <recipient_handle>bob@bob.diaspora.example.org</sender_handle>
+        </request>
+      </post>
+    </XML>
+
+(where alice@alice.diaspora.example.com is Alice's [[Diaspora's federation protocol#Discovery|Webfinger address]]) and bob@bob.diaspora.example.com is Bob's.
+
+Alice will then wrap this up as a salmon slap and send it to Bob according to the methods described in [[Diaspora's federation protocol]].
+
+## Status updates
+
+Alice may choose to post a status update.  In posting this message, Alice must determine who she wants to receive the update.
+
+Diaspora implementations MAY choose to offer an easy management interface for Alice's contacts, and an easy way to choose recipients.  For example, the reference implementation offers "aspects", which are groups of contacts known to Alice.  Alice organizes her contacts into various aspects.  In posting a status update, Alice chooses which aspects should receive the message.
+
+However Alice chooses recipients, the message is sent out in the following fashion:
+
+Alice will serialize the message like this:
+
+    <XML>
+      <post>
+        <status_message>
+          <raw_message>((status message))</raw_message>
+          <guid>((guid))</guid>
+          <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+          <public>false</public>
+          <created_at>2011-07-20 01:36:07 UTC</created_at>
+        </status_message>
+      </post>
+    </XML>
+
+* `<raw_message>` is the text of the message that Alice wants to send out.  
+* `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
+* `<diaspora_handle>` is Alice's [[Diaspora's federation protocol#Discovery|Webfinger address]].
+* `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alice must know that once she has sent a message to Bob, if Bob is capable of reading that message, he is capable of abusing its contents).
+* `<created_at>` is the time that Alice posted the message, using the strftime format string of "%Y-%m-%d %H:%M:%S %Z".  (Note:  This is similar to, but distinct from, ISO 8601 format).
+
+Alice will then wrap this up as a _separate_ salmon slap for _each_ of the intended recipients and send it to each recipient according to the methods described in [[Diaspora's federation protocol]].  Note that if Alice is sending the message to Bob and Diego, she MUST send separate salmon slaps for each recipient, even if Bob and Diego live on the same pod.  This is because the slap MUST be encrypted separately for each recipient (encrypted according to the rules in [[Diaspora's federation protocol]]).
+
+### Public status updates
+
+If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[Diaspora's federation protocol#ActivityStream of public posts|ActivityStream]].
+
+However, even if the post is made public, Alice MUST encrypt the salmon slaps that she sends to the specifically-intended recipients.
