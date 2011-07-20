@@ -67,3 +67,12 @@ Starting resque
 Starting websocket_server
 
         $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
+
+Script for starting basic services (script/dreamhost)
+
+        RAILS_ENV=production nohup ~/.gems/bin/bundle exec  ~/redis/bin/redis-server &
+        sleep 10
+        RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
+        sleep 10
+        RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
+        sleep 10
