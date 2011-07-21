@@ -120,7 +120,7 @@ Suggestions much welcome!
 
 ![The current way a tag is displayed.](http://i.imgur.com/72Xtk.png)
 
-* Add the followed tags to the right menu and let the left menu float again.
+* Add the followed tags to the right menu and let the left menu float again. ([[Issue|https://github.com/diaspora/diaspora/issues/1632]])
 * Have a trending tags cloud in the widgetmenu. This helps new people getting started, appeals to Twitter users, incentive to return to Diaspora, get tags trending. ([[Issue|https://github.com/diaspora/diaspora/issues/1404]])
 
 ##Menus
