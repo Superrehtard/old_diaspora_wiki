@@ -77,7 +77,7 @@ Nevertheless, this document will describe the messages as they were at the time 
 
 ## Sharing Notifications
 
-Remember that Diaspora uses an [[Diaspora's federation protocol#Asymmetric Sharing|asymmetric model]] of sharing.  That is, Alice can choose to start sharing with Bob, and Bob need not approve this action, and Bob need not reciprocate.  However, Bob's pod SHOULD NOT show Alice's original posts in the main location unless Bob is also sharing with Alice.  Alice's responses to Bob's posts SHOULD be shown with the rest of the responses.  However, since Bob, in this scenario, is not sharing with Alice, Alice will only be able to respond to Bob's _public_ posts.  
+Remember that Diaspora uses an [[asymmetric model|Diaspora's federation protocol#Asymmetric Sharing]] of sharing.  That is, Alice can choose to start sharing with Bob, and Bob need not approve this action, and Bob need not reciprocate.  However, Bob's pod SHOULD NOT show Alice's original posts in the main location unless Bob is also sharing with Alice.  Alice's responses to Bob's posts SHOULD be shown with the rest of the responses.  However, since Bob, in this scenario, is not sharing with Alice, Alice will only be able to respond to Bob's _public_ posts.  
 If Bob is sharing with Diego, and Diego is sharing with Bob, and Diego is also sharing with Alice, then Alice will see Diego's posts and be able to respond to them.  Bob should see Alice's responses to Diego's posts with the rest of the responses.
 
 The above is just a little refresher on the asymmetric semantics of Diaspora's sharing model.  But this section deals with the actual messages that are sent over the wire.
@@ -127,7 +127,7 @@ Alice will serialize the message like this:
 
 * `<raw_message>` is the text of the message that Alice wants to send out.  
 * `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
-* `<diaspora_handle>` is Alice's [[Diaspora's federation protocol#Discovery|Webfinger address]].
+* `<diaspora_handle>` is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]].
 * `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alice must know that once she has sent a message to Bob, if Bob is capable of reading that message, he is capable of abusing its contents).
 * `<created_at>` is the time that Alice posted the message, using the strftime format string of "%Y-%m-%d %H:%M:%S %Z".  (Note:  This is similar to, but distinct from, ISO 8601 format).
 
