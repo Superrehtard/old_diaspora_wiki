@@ -62,6 +62,7 @@ Another consideration is that using de-duplication in this fashion will rob Bob 
 Diaspora currently defines the following messages:
 
 * Notification that you've begun sharing with them.
+* Notification that you've ceased sharing with them.
 * Posts that you've made.
 * Comments that have been made (by you or others) on one of your posts.
 * "Like"s that have been made (by you or others) on one of your posts.
@@ -101,6 +102,34 @@ A Sharing Notification looks like this:
 
 Alice will then wrap this up as a salmon slap and send it to Bob according to the methods described in [[Diaspora's federation protocol]].
 
+## Unsharing notification
+
+If Alice is sharing with Bob, and decides to stop, she SHOULD send a notification to Bob that she is no longer sharing with him.
+
+The notification is in this form:
+
+```xml
+<XML>
+  <post>
+    <retraction>
+      <post_guid>6c5c09f129855969</post_guid>
+      <type>Person</type>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+    </retraction>
+  </post>
+</XML>
+```
+
+Here,
+
+* `<post_guid>` is Alice's guid.  (Recall that when a new user is created on a pod, that pod MUST assign them a guid, which is a 16-character hexadecimal string).
+* `<type>` is the literal string `Person`.
+* `<diaspora_handle>` is Alice's Diaspora handle.
+
+The format of this message is very similar to the format of the retraction of posts.  That is due to the fact that the reference implementation internally models these sharing retractions with the same model as the post retractions.  That is the reason that the `<type>` field is present.  That is also the reason that the guid is called `<post_guid>`, and that is the reson why the `<post_guid>` exists even though `<diaspora_handle>` is sufficient to globally specify a particular person.
+
+Other implementations of Diaspora need not internally model post retractions and sharing retractions the same way.  But no matter how an implementation models a sharing retraction, the fields listed above MUST be present.
+
 ## Status updates
 
 Alice may choose to post a status update.  In posting this message, Alice must determine who she wants to receive the update.
@@ -125,7 +154,7 @@ Alice will serialize the message like this:
 </XML>
 ```
 
-* `<raw_message>` is the text of the message that Alice wants to send out.  
+* `<raw_message>` is the text of the message that Alice wants to send out.  Note that the text of this message must be made suitable for XML using any appropriate escaping scheme.  For example, unsafe characters like `<` and `>` could be translated into their corresponding XML entities like `&lt;` and `&gt;`.  Or the CDATA method could be used.  (See the [XML specification](http://www.w3.org/TR/2006/REC-xml11-20060816/#syntax))
 * `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
 * `<diaspora_handle>` is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]].
 * `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alice must know that once she has sent a message to Bob, if Bob is capable of reading that message, he is capable of abusing its contents).
@@ -138,3 +167,69 @@ Alice will then wrap this up as a _separate_ salmon slap for _each_ of the inten
 If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[ActivityStream|Diaspora's federation protocol#ActivityStream of public posts]].
 
 However, even if the post is made public, Alice MUST encrypt the salmon slaps that she sends to the specifically-intended recipients.
+
+## Comments on status updates
+
+If Bob sends a status message to Alice and Eve, and Alice comments on the message, then Alice MUST construct a comment message and send it to Bob.  (As noted [[above|#De-duplication]], Alice's pod MAY immediately make the post visible to Eve, if Eve lives on the same pod as Alice, in the situation that Eve's pod knows that Eve should see the post, even if this knowledge is not available to Alice.  However, this is not required behavior.)
+
+A comment message looks like this:
+
+```xml
+<XML>
+  <post>
+    <comment>
+      <guid>((guid))</guid>
+      <parent_guid>((guid))</parent_guid>
+      <parent_author_signature>((base64-encoded data))</parent_author_signature>
+      <author_signature>((base64-encoded data))</author_signature>
+      <text>I'll be there!</text>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+    </comment>
+  </post>
+</XML>
+```
+
+The fields are thus:
+
+* `<guid>` is the guid of the comment.  Each comment MUST be assigned a guid when the comment is created.  In this case, when Alice chooses to send the comment, the comment is assigned a guid, which is stored in the database.  A guid is a 16-character hexadecimal string.
+* `<parent_guid>` is the guid of Bob's original post that Alice is commenting on.
+* `<author_signature>` is Alice's signature of the comment.  To construct this signature:
+    1. Identify the following fields:
+        1. the guid of the comment
+        2. the guid of the original post that this is a comment to
+        3. the text of the comment
+        4. the diaspora handle of the author of the comment.
+    2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;I'll be there!;alice@alice.diaspora.example.org`.  Note that the text of the comment may have `;`s in it; this is okay.  The base string is not a serialization that we intend to parse.  It is simply an arbitrary string that is constructible by the sender and the receiver of the message in a reliable way.
+    3. Sign this string using Alice's RSA private key, and the RSA-SHA256 signing algorithm.
+    4. base64-encode the signature.  This is the value of `<author_signature>`.
+* `<text>` is the actual text of the comment that Alice wants to post.  Note that the text of this message must be made suitable for XML using any appropriate escaping scheme.  For example, unsafe characters like `<` and `>` could be translated into their corresponding XML entities like `&lt;` and `&gt;`.  Or the CDATA method could be used.  (See the [XML specification](http://www.w3.org/TR/2006/REC-xml11-20060816/#syntax))
+* `<diaspora_handle>` is the Diaspora handle of the author of the comment.  In this case, Alice's Diaspora handle, or `alice@alice.diaspora.example.org`.
+
+This message is wrapped up in a salmon slap and sent to Bob, who wrote the original post that Alice is responding to.
+
+### Relaying comments
+
+When Bob receives Alice's comment on his post, it is his responsibility to relay Alice's comment to the other recipients of Bob's original post.  Bob SHOULD relay the message, unless he is performing moderation or spam filtering.
+
+In this example, Alice and Eve were the recipients of Bob's original post.  So, when Bob receives the salmon containing Alice's comment, he will prepare the relayed comment and send it to both Eve and Alice.  If Bob has chosen to relay the message, Bob MUST send it to all of the recipients, even Alice, the author of the comment.  In this way, Alice knows her comment has been received.  However, Alice's pod MAY choose to display the comment in its place, even before hearing back from Bob.
+
+The message that Bob constructs is this:
+
+```xml
+<XML>
+  <post>
+    <comment>
+      <guid>((guid))</guid>
+      <parent_guid>((guid))</parent_guid>
+      <parent_author_signature>((base64-encoded data))</parent_author_signature>
+      <author_signature>((base64-encoded data))</author_signature>
+      <text>I'll be there!</text>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+    </comment>
+  </post>
+</XML>
+```
+
+All the fields here are identical to those that Bob received from Alice.  The only difference is the addition of the `<parent_author_signature>` field.  Bob signs the message before sending it out, to prove that it was indeed he who chose to relay the message, and not an imposter.
+
+Bob constructs the `<parent_author_signature>` in the same way that Alice constucted her `<parent_signature>`, except that he signs it with _his_ private key, not Alice's (which, of course, he does not have).
