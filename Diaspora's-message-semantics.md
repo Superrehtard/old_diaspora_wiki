@@ -97,7 +97,7 @@ A Sharing Notification looks like this:
 </XML>
 ```
 
-(where alice@alice.diaspora.example.com is Alice's [[Diaspora's federation protocol#Discovery|Webfinger address]]) and bob@bob.diaspora.example.com is Bob's.
+(where alice@alice.diaspora.example.com is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]]) and bob@bob.diaspora.example.com is Bob's.
 
 Alice will then wrap this up as a salmon slap and send it to Bob according to the methods described in [[Diaspora's federation protocol]].
 
@@ -135,6 +135,6 @@ Alice will then wrap this up as a _separate_ salmon slap for _each_ of the inten
 
 ### Public status updates
 
-If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[Diaspora's federation protocol#ActivityStream of public posts|ActivityStream]].
+If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[ActivityStream|Diaspora's federation protocol#ActivityStream of public posts]].
 
 However, even if the post is made public, Alice MUST encrypt the salmon slaps that she sends to the specifically-intended recipients.
