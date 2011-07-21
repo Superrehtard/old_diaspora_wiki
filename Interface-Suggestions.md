@@ -84,7 +84,7 @@ The new AJAX’y likes aren’t really that great. People don’t really care ab
 **Kevin:** Does not agree! Every network has these 'getting started' widgets. We could make a difference by actually making it useful (e.g. Wordpress-style widgetbar). I know you don't agree with that though..
 
 ##Photoviewer
-**Kevin:** Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. (DONE)
+<strike>**Kevin:** Have a huge photo viewer pop up when you click on a photo in the stream, with previous/next buttons, a comment section and likes. Also needs a link to the full size image. Diaspora should have a much better photo experience. It’s one of those things we can easily do better than Facebook. (DONE)</strike>
 
 **untitaker:** That what Kevin said; Lightbox with comments in sidebar - Something like http://bueltge.de/photos, but as a popup/layer and simplified.
 ##Photo albums
