@@ -18,7 +18,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
     - **untitaker:** I think it is already like that.
   - Add a small note near the share button to let people know their comments will be publicly viewable ([Issue](https://github.com/diaspora/diaspora/issues/1585))
   - change the hover message on 'Public' to ‘This post and it's comments are viewable to anyone on the web’. Similar with the 'Limited'-badge for posts ([Issue](https://github.com/diaspora/diaspora/issues/1587))
-  - Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915*
+  - Get rid of the /p/ page and display the /status_message/ page to people not logged in. This should solve a lot of uncertainty about visibility and improves the general experience. *This: https://joindiaspora.com/p/331915* ([[Issue|https://github.com/diaspora/diaspora/issues/1627]])
 
   - **Edit:** even more important once hashtags in posts can be found.
 
