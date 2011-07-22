@@ -24,10 +24,8 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 ##Publisher
   - _Don’t send public posts, shared with only a selection of aspects, to all aspects! Make the post publicly available on the profile without sending it to the streams of people not in the aspects. The other solution is to only allow public posting when all aspects are selected. Right now ‘public’ overrides the aspect selection, which is unexpected behavior._ (DONE)
-
   - Make mentions stand out in the publisher, like the tags on the profile edit page. This should also solve adding punctuation right after a mention.
     - **untitaker:** I'd rather go with the way tags are shown in the *publisher*. See [this issue](https://github.com/diaspora/diaspora/issues/1566)
-
   - Have an aspect dropdown next to the share button. The dropdown should have the currently selected aspects preset but selecting aspects in it should not change the stream. This results in being able to watch the selection you like most and still be able to post to other aspects. Because you won't have to load the streams, performance will be better. This will be a major UX improvement to new and existing users. This can also replace the labels in the bookmarklet, solving the problem of too many aspects / translations there too. *([Issue](https://github.com/diaspora/diaspora/issues/1586))*
 
 ![photo](http://i.imgur.com/WOY4c.png)
@@ -47,8 +45,8 @@ Add the ability to attach videos to posts. Can we do this through the same icon 
 
 ##Messages
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
-
-Enable sending/receiving emails from within the message inbox (replies in convo style).
+  - Enable sending/receiving emails from within the message inbox (replies in convo style). ([[Issue|https://github.com/diaspora/diaspora/issues/1056]])
+  - Stream style for messages too. It will have a left bar as we have right now, but in landing page let all messages come as streams, with all unread messages or last 3 messages for each thread visible, with a hide and show button. (j4v4m4n) ([[Issue|https://github.com/diaspora/diaspora/issues/1638]])
 
 ##Stream
 Instead of loading the publisher + stream (containing the first page of posts!) and then rendering those **all at once**, render the publisher and stream area instantly on pageload and start ajaxing the posts in one by one. It should feel a lot faster and it will look great. Also have a way to refresh the stream without reloading the rest of the page. Infinite scroll would load a new post at the bottom of the page when only 5 posts are left untill you reach the bottom (e.g. you won't hit the bottom anymore and you don't have to wait for 10 posts to load). (Kevin)
