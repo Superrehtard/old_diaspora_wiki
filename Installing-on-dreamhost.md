@@ -8,6 +8,7 @@ Dreamhost runs Debian GNU/Linux lenny 5.0.8. You will need to create a new domai
 Link: [Dreamhost Wiki](http://wiki.dreamhost.com/Cron_Jobs_%26_Persistent_Processes#What_is_your_persistent_.28background.29_process_policy.3F)
 
 - I'm going to ask them if these 3 specific processes (redis-server, resque, websocket_server) can be run (j4v4m4n)
+- We can still do it asynchronously, whenever you want to sync, ssh into your shell and run redis-server and resque, login to your pod, do your things, kill those processes and logout from shell. Yeah, not a great way to run, but you get to keep your data.
 
 ### MySQL
 
