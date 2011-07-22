@@ -26,7 +26,7 @@ Set it up to run as your user:
 Add it to launchctl so it will start automatically:
 
     mkdir -p ~/Library/LaunchAgents
-    cp /usr/local/Cellar/mysql/5.5.10/com.mysql.mysqld.plist ~/Library/LaunchAgents/
+    cp /usr/local/Cellar/mysql/5.5.14/com.mysql.mysqld.plist ~/Library/LaunchAgents/
     launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist
 
 Now mysql is running, and you have a user named root with no password.
