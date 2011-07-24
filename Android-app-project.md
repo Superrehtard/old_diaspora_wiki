@@ -1,5 +1,7 @@
 We are at early stages of developing an android application for diaspora. Our first meeting to be at [[#diaspune on FreeNode|http://webchat.freenode.net/?channels=#diaspune]], this Sunday 24th July at [[9.30 PM IST/9.00 AM PST|http://timeanddate.com/worldclock/meetingdetails.html?year=2011&month=7&day=24&hour=16&min=0&sec=0&p1=224&p2=176&p3=16&p4=179]] 
 
+* [[Code|https://github.com/gardner/diaspora-android]]
+
 #IRC Logs#
 <pre>
 [2011-07-24 21:38:35] [INFO] Now logging to <file:///C:/Users/invakam2/AppData/Roaming/Mozilla/Firefox/Profiles/01e5sn4k.default/chatzilla/logs/freenode/channels/%23diaspune.2011-07-24.log>.
@@ -210,4 +212,93 @@ We are at early stages of developing an android application for diaspora. Our fi
 [2011-07-24 22:47:55] <j4v4m4n> ilyaZ: Shravan was supposed to join, but he is down with fever :(
 [2011-07-24 22:48:21] <ilyaZ> yeah, photos are the awesome thing
 [2011-07-24 22:48:31] <vasudev> j4v4m4n: chatzilla is not allowing me to open log when its in running mode
+
+<j4v4m4n> vasudev: :(  [22:49]
+<vasudev> j4v4m4n: no opened it up using notepad now adding it to wiki page
+								        [22:50]
+*** stultus (~stultus@wikisource/Hrishikesh.kb) has quit: Ping timeout: 258
+    seconds  [22:51]
+<ilyaZ> so I'm  [22:52]
+*** stultus (~stultus@wikisource/Hrishikesh.kb) has joined channel #diaspune
+<j4v4m4n> vasudev: lets start with an app that authenticates and gets the
+	  stream onto the phone
+<vasudev> ilyaZ: coming back to preregistration stuff.. in twitter case we are
+	  using token secret and key first time to get back access key and
+	  token which is then used to sign the messages which go to twitter
+	  how this happens in case of diaspora?
+<ilyaZ> we use the key pair to sign a challange  [22:53]
+<ilyaZ> if the signature verifies
+<ilyaZ> the app gets app id and secret( this is eqivalent to going to
+	dev.twitter.com)
+<vasudev> ilyaZ: how does server verify the signed challenge? do we need to
+	  share the key pair with pod?  [22:54]
+<ilyaZ> thouse are just oauth2 cread
+<ilyaZ> **credentials
+<vasudev> @all I've updated the logs in the wiki
+<ilyaZ> it goes to app.com/manifest.json
+<ilyaZ> http://www.cubbi.es/manifest.json  [22:55]
+<j4v4m4n> ilyaZ: does app id conatain name of pod which issued it?  [22:56]
+<ilyaZ> that's the key + signed (and encoded) manifest
+<vasudev> ilyaZ: from where do we generate this file?
+<vasudev> app need to register in the pod?
+<ilyaZ> j4v4m4n, nope (are you asking for collision reasons?)  [22:57]
+<ilyaZ> it's diaspora-client
+<ilyaZ> there is a task generate_manifest
+<j4v4m4n> ilyaZ: how do another pod verify it?  [22:58]
+*** grippi (~grippi@201.161.0.20) has joined channel #diaspune
+<ilyaZ>
+	https://github.com/diaspora/diaspora-client/blob/master/lib/tasks/diaspora-client.rake
+*** grippi_ (~grippi@201.161.0.20) has joined channel #diaspune  [22:59]
+<vasudev> ilyaZ: grippi j4v4m4n its time for me to hit the bed.. I wish I
+	  could continue :(
+<vasudev> j4v4m4n: please share the logs I'll catch up with your discussion
+	  tomorrow
+<j4v4m4n> vasudev: lets start with an app that authenticate first and then
+	  move on to more features  [23:00]
+<j4v4m4n> vasudev: thanks, good night
+<ilyaZ> my roomate has a begining
+<ilyaZ> let me find a link
+<vasudev> j4v4m4n: i still need some more information.. do we have any mailing
+	  list where we can do offline discussion
+<j4v4m4n> diaspora-dev  [23:01]
+<j4v4m4n> vasudev: google groups
+<vasudev> j4v4m4n: sure thanks
+*** grippi_ (~grippi@201.161.0.20) has quit: Read error: Connection reset by
+    peer
+<ilyaZ> https://github.com/gardner/diaspora-android
+<vasudev> ilyaZ: grippi j4v4m4n good night then
+<ilyaZ> vasudev, good night
+<stultus> vasudev, good night :)
+<vasudev> stultus: good night
+<grippi> hello?  [23:02]
+<vasudev> grippi: :)
+<stultus> vasudev, and diaspune mailing list :)
+<vasudev> grippi: time for me to leave.. Good night..
+<ilyaZ>
+	https://github.com/diaspora/diaspora/blob/master/app/controllers/authorizations_controller.rb#L25
+<vasudev> stultus: please mail me the links
+<ilyaZ> is where the verification happens
+*** vasudev (~kakashi@112.79.163.63) has quit: Quit: Good night world
+<j4v4m4n> ilyaZ: thanks  [23:03]
+<ilyaZ> there is a video of us talking about this at campus party
+ERC> /names  [23:04]
+*** Users on #diaspune: grippi stultus ilyaZ shilpi j4v4m4n onthelivelyside
+    sudiptamondal1 sana manojkmohan DenSchub abdulkarim rajiv_nair @ChanServ
+<ilyaZ> we haven't actually seen it (so hopefully there is nothing embarassing
+	) once we watch it we'll post it
+<ilyaZ> http://www.youtube.com/watch?v=Oc2-Lnzm9bI
+*** stultus (~stultus@wikisource/Hrishikesh.kb) has quit: Read error:
+    Connection reset by peer
+<j4v4m4n> ilyaZ: :)
+*** grippi (~grippi@201.161.0.20) has quit: Read error: Connection reset by
+    peer
+<j4v4m4n> ilyaZ: since all android folks are gone now, lets continue the
+	  discussion on list  [23:05]
+*** grippi (~grippi@201.161.0.20) has joined channel #diaspune
+<ilyaZ> j4v4m4n, kk
+<j4v4m4n> ilyaZ: grippi thanks for coming!
+<j4v4m4n> grippi: we will continue it on diaspora-dev
+<ilyaZ> j4v4m4n, thanks for throwing out a time, again sorry for being missing
+	in action with this conference
+ERC> 
 </pre>
