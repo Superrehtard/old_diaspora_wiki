@@ -2,6 +2,7 @@
 Operation Alpha+ is the cool name of the project that focuses on improving the things we already have, with the goal to make Diaspora ready for broader adoption (by sending out invites).
 
 Alpha+ is about:
+
 * Improving the homepage of pods
 * Improving the onboarding process
 * Improving the general user experience
