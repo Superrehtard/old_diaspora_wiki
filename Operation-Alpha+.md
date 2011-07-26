@@ -1,4 +1,6 @@
+
 ##What is Alpha+?
+
 Operation Alpha+ is the codename of the project that focuses on improving the things we already have, with the goal to make Diaspora ready for broader adoption (ultimately sending out invites).
 
 Alpha+ is about
@@ -21,4 +23,4 @@ To give an idea of the time frame, we would like to be completely done with Alph
 ##Show your support!
 Even if you can't code you can still help by showing the contributors and developers your support. You can also suggest issues to be included in Alpha+. On Diaspora we use the tag "#AlphaPlus".
 
-![Operation Alpha+](http://i.imgur.com/V4uOS.png)
+![Operation Alpha+](http://i.imgur.com/5BO3Y.png)
