@@ -3,7 +3,7 @@ Operation Alpha+ is the codename of the project that focuses on improving the th
 
 Alpha+ is about
 
-* Improving the homepage of pods
+* Improving the publicly available pages
 * Improving the onboarding process
 * Improving the general user experience
 * Fixing small bugs
