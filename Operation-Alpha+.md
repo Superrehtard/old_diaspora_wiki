@@ -1,7 +1,6 @@
-##What is Alpha+?
 Operation Alpha+ is the codename of the project that focuses on improving the things we already have, with the goal to make Diaspora ready for broader adoption (ultimately sending out invites).
 
-Alpha+ is about:
+##What is Alpha+ about?
 
 * Improving the homepage of pods
 * Improving the onboarding process
@@ -17,3 +16,6 @@ We will be labelling issues on GitHub, which are in line with the points above, 
 Alpha+ is supposed to be a short term project and one we would like to actually 'finish'. The project is finished when all labelled issues are solved. Rest assured we will only label issues that truely matter!
 
 To give an idea of the time frame, we would like to be completely done with Alpha+ **before the end of september**.
+
+##Show your support!
+Even if you can't code you can still help by showing the contributors and developers your support. You can also suggest issues to be included in Alpha+. On Diaspora we use the tag "#AlphaPlus".
