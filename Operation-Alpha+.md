@@ -1,6 +1,7 @@
+##What is Alpha+?
 Operation Alpha+ is the codename of the project that focuses on improving the things we already have, with the goal to make Diaspora ready for broader adoption (ultimately sending out invites).
 
-##What is Alpha+ about?
+Alpha+ is about
 
 * Improving the homepage of pods
 * Improving the onboarding process
