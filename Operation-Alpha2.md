@@ -2,7 +2,7 @@
 
 Alpha2 is the codename of the project that focuses on *improving the things we already have*. Once this project is finished it should be easier for mainstream users to sign up and get started on Diaspora. Alpha2 is a major leap towards broader adoption.
 
-Alpha2 includes:
+This project includes:
 
 * Improving the publicly available pages
 * Improving the onboarding process
