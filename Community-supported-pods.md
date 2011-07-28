@@ -454,7 +454,7 @@ management console.
         * Diaspora handle: nicolas@hasst-euch-alle.de
         * Email: kontakt@nicolas-berens.de
    * Operating system: Ubuntu 10.04
-   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware statistics
+   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
