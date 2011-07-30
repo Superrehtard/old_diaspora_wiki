@@ -487,3 +487,10 @@ management console.
     * Maintained by: private individual 
     * Operating system: Linux 
     * Comments: Public and free Diaspora pod.
+
+* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
+    * Opened: 29/07/2011
+    * Updated: regulary
+    * Maintained by: private individual 
+    * Operating system: Ubuntu 10.04 LTS
+    * Comments: Public and free Diaspora pod.
