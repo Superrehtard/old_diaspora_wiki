@@ -3,6 +3,8 @@ Have seperate ID's with their own aspects, tags and stream, pretty much like hav
 
 Compare it with switching to a different user on your computer. The same applies here. You store multiple seperate accounts in one account which you can switch between using a 'change ID' button. 
 
+![ID's](http://i.imgur.com/2KDma.png)
+
 Each ID has it's own handle and it's own profile page you can share. For each ID you choose a standard picture. This will be the picture displayed to those visiting your profile. You are supposed to use a decent or private one here! 
 
 ###Per-aspect profile pictures 
