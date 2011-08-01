@@ -1,5 +1,5 @@
 ###Names 
-Have seperate ID's with their own aspects, tags and stream, pretty much like having seperate accounts (e.g. have an account for your real name and one for your nickname). This way when you post to all aspects, the post is published under the same name to everyone, meaning people will all refer to you with the same name.
+Have seperate ID's with their own aspects, tags and stream, pretty much like having seperate accounts (e.g. have an account for your real name and one for your nickname). This way when you post to all aspects, the post is published under the same name to everyone, meaning people will all refer to you with the same name, not giving away your real or nickname.
 
 Compare it with switching to a different user on your computer. The same applies here. You store multiple seperate accounts in one account which you can switch between using a 'change ID' button. 
 
