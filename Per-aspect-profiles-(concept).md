@@ -14,6 +14,8 @@ You can edit the public and private profile of each ID through Settings -> Profi
 ###Per-aspect profile pictures 
 In the profile edit section you can upload multiple profile pictures. These pictures will be ordered by number, the highest number being the most personal, the lowest number being the least personal. You can assign these pictures to aspects. These profile pictures will override the standard picture you set for the ID. If someone is in multiple aspects, they will see the most personal profile picture available to them.
 
+![Per-aspect photos](http://i.imgur.com/UN6ld.png)
+
 ###Why it works 
 This way you can add family, friends and co-workers under the same ID containing your real name. The standard picture will be decent or vague, your co-workers will see you in a suit, your friends will see you in your swimming shorts and the co-worker who's also a friend will see your shorts too. 
 
