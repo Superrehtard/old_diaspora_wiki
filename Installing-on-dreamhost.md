@@ -23,7 +23,7 @@ To install Bundler, run the following:
 
 ### Redis 
 
-To install Redis follow these steps:
+To install Redis follow these steps (you can skip this step if you are going to use single_process_mode):
 
         $ wget http://redis.googlecode.com/files/redis-2.2.11.tar.gz
         $ tar -zxvf redis-2.2.11.tar.gz
@@ -62,11 +62,11 @@ You have to run jammit to have the layout come properly
 
         $ RAILS_ENV=production ~/.gems/bin/bundle exec jammit
 
-Starting resque 
+Starting resque (you can skip this step if you are going to use single_process_mode)
 
         $ RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
 
-Starting websocket_server
+Starting websocket_server (you can skip this step if you are going to use single_process_mode)
 
         $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
 
