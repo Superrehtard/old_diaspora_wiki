@@ -9,6 +9,7 @@ Link: [Dreamhost Wiki](http://wiki.dreamhost.com/Cron_Jobs_%26_Persistent_Proces
 
 - I'm going to ask them if these 3 specific processes (redis-server, resque, websocket_server) can be run (j4v4m4n)
 - We can still do it asynchronously, whenever you want to sync, ssh into your shell and run redis-server and resque, login to your pod, do your things, kill those processes and logout from shell. Yeah, not a great way to run, but you get to keep your data.
+- There is an option in config/application.yml to run in single process mode, that way we don't have to depend on resque
 
 ### MySQL
 
@@ -70,6 +71,14 @@ Starting websocket_server
         $ RAILS_ENV=production nohup ~/.gems/bin/bundle exec ruby script/websocket_server.rb &
 
 Script for starting basic services (script/dreamhost)
+
+Note: See top of this page about restrictions about running background processes. Edit config/application.yml and under production change single_process_mode: true
+
+        production:
+          <<: *defaults
+          single_process_mode: true
+
+or if you still want to go with background processes, create script/dreamhost and make it executable (chmod +x script/dreamhost)
 
         RAILS_ENV=production nohup ~/.gems/bin/bundle exec  ~/redis/bin/redis-server &
         sleep 10
