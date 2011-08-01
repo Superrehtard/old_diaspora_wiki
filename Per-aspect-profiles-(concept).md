@@ -27,3 +27,6 @@ Sign up will remain exactly the same. You fill in data for your first ID after w
 After sign-up you need to go to the ID management section to add an extra ID, which most people never will because they only need their real name. The way this is built, you don't have to use the complicated system. Managing one ID works for most people. Eventually they can delve deeper into the system and create an extra ID. 
 
 We don't bother newbies with all the complexity while still giving them the ability to use it!
+
+###Per-aspect interests
+See this old mock-up: http://s3.amazonaws.com/satisfaction-production/s3_images/456433/edit_profile.png
