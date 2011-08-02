@@ -1,9 +1,14 @@
+**August** 
+
+* Featured users
+
 **July**
 
 * General UI redesign and cleanup.
 * Notifications partially moved in a handier dropdown in the header.
 * Likes use ajax now.
 * Ability to "follow" (subscribe to) hashtags.
+* Reshare feature
 
 **June**
 
