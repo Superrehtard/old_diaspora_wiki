@@ -12,6 +12,7 @@ If you know Ruby on Rails or diaspora, add your name as a mentor
 If you are interested to participate, add your name and a way of contacting you.
 
    1. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
+   2. Mayank Jain
 
 Short link for this page is http://is.gd/mahotsav
 
