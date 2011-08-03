@@ -6,7 +6,7 @@ We are at early stages of developing an android application for diaspora. Our se
 - New York (U.S.A. - New York) Thursday, August 4, 2011 at 2:00:00 AM EDT UTC-4 hours
 - Corresponding UTC (GMT) Thursday, August 4, 2011 at 06:00:00
 
-[[World Clock|http://timeanddate.com/worldclock/meetingdetails.html?year=2011&month=8&day=4&hour=6&min=0&sec=0&p1=224&p2=176&p3=16&p4=179
+[[World Clock|http://timeanddate.com/worldclock/meetingdetails.html?year=2011&month=8&day=4&hour=6&min=0&sec=0&p1=224&p2=176&p3=16&p4=179]]
 
 * [[Code|https://github.com/gardner/diaspora-android]]
 
