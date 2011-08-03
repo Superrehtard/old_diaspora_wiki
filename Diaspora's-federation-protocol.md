@@ -267,13 +267,7 @@ Construct the xml snippet:
 
 Save the encrypted_header snippet for later; it will be added to the salmon envelope to construct the Diaspora-extended salmon.
 
-Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will construct next.
-
-#### Preparing the payload message
-
-The payload message is what this is all about.  This is the message that you, Alice, are trying to send to Bob.
-
-This section does not cover the actual contents of the message.  For a discussion of this, see [[Diaspora's Message Semantics]].  However, as stated above, the things you will post to remote users are:
+Remember the "inner aes key" and "inner aes iv" for later.  You will use this to encrypt your payload message, which we will owever, as stated above, the things you will post to remote users are:
 
 * Notification that you've begun sharing with them.
 * Posts that you've made.
@@ -329,9 +323,9 @@ The signature (`<me:sig>` element) is constructed as specified in the [Magic Env
 To construct the base string, concatenate the following elements, separated by periods (.).
 
 1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK`
-3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==`
-4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=`
+2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml\n`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK` (note the \n; this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
+3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url\n`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==` (note the \n; this is _not_ the literal string `base64url`).
+4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256\n`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=` (note the \n; this is _not_ the literal string `RSA-SHA256`).
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
@@ -391,4 +385,5 @@ See the [ActivityStrems specification](http://activitystrea.ms/) and the [PubSub
 The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [the OAuth protocol](http://tools.ietf.org/html/rfc5849).
 
 Right now, there is only one application that uses this API.  [Cubbi.es](http://cubbi.es).  The API is still very much in flux, so people are not being encouraged to write new applications until the protocol has been solidified a little more.
+
 
