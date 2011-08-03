@@ -9,7 +9,11 @@ We are at early stages of developing an android application for diaspora. Our se
 [[World Clock|http://timeanddate.com/worldclock/meetingdetails.html?year=2011&month=8&day=4&hour=6&min=0&sec=0&p1=224&p2=176&p3=16&p4=179]]
 
 * Read previous logs if you are joining
+
+#Resources
+
 * [[Code|https://github.com/gardner/diaspora-android]]
+* [[Pre Registration Diagram|https://github.com/diaspora/diaspora-client/wiki/Pre-Registration]]
 
 #IRC Logs#
 - [[Log with Diaspora connect details|http://diaspune.onlinegroups.net/groups/dias_pune/messages/topic/13N1b69q8O3TRfR24mYklg]]
