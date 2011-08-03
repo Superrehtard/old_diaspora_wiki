@@ -323,9 +323,9 @@ The signature (`<me:sig>` element) is constructed as specified in the [Magic Env
 To construct the base string, concatenate the following elements, separated by periods (.).
 
 1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml\n`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK` (note the \n; this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
-3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url\n`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==` (note the \n; this is _not_ the literal string `base64url`).
-4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256\n`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=` (note the \n; this is _not_ the literal string `RSA-SHA256`).
+2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml\n`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK` (note the linefeed character at the end (ascii 0x0a); this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
+3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url\n`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==` (note the linefeed at the end (ascii 0x0a); this is _not_ the literal string `base64url`).
+4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256\n`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=` (note the linefeed at the end (ascii 0x0a); this is _not_ the literal string `RSA-SHA256`).
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
