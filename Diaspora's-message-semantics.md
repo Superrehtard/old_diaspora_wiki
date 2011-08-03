@@ -157,10 +157,7 @@ Alice will serialize the message like this:
 * `<raw_message>` is the text of the message that Alice wants to send out.  Note that the text of this message must be made suitable for XML using any appropriate escaping scheme.  For example, unsafe characters like `<` and `>` could be translated into their corresponding XML entities like `&lt;` and `&gt;`.  Or the CDATA method could be used.  (See the [XML specification](http://www.w3.org/TR/2006/REC-xml11-20060816/#syntax))
 * `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
 * `<diaspora_handle>` is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]].
-* `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alice must know that once she has sent a message to Bob, if Bob is capable of reading that message, he is capable of abusing its contents).
-* `<created_at>` is the time that Alice posted the message, using the strftime format string of "%Y-%m-%d %H:%M:%S %Z".  (Note:  This is similar to, but distinct from, ISO 8601 format).
-
-Alice will then wrap this up as a _separate_ salmon slap for _each_ of the intended recipients and send it to each recipient according to the methods described in [[Diaspora's federation protocol]].  Note that if Alice is sending the message to Bob and Diego, she MUST send separate salmon slaps for each recipient, even if Bob and Diego live on the same pod.  This is because the slap MUST be encrypted separately for each recipient (encrypted according to the rules in [[Diaspora's federation protocol]]).
+* `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alip as a _separate_ salmon slap for _each_ of the intended recipients and send it to each recipient according to the methods described in [[Diaspora's federation protocol]].  Note that if Alice is sending the message to Bob and Diego, she MUST send separate salmon slaps for each recipient, even if Bob and Diego live on the same pod.  This is because the slap MUST be encrypted separately for each recipient (encrypted according to the rules in [[Diaspora's federation protocol]]).
 
 ### Public status updates
 
@@ -180,7 +177,6 @@ A comment message looks like this:
     <comment>
       <guid>((guid))</guid>
       <parent_guid>((guid))</parent_guid>
-      <parent_author_signature>((base64-encoded data))</parent_author_signature>
       <author_signature>((base64-encoded data))</author_signature>
       <text>I'll be there!</text>
       <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
@@ -209,7 +205,7 @@ This message is wrapped up in a salmon slap and sent to Bob, who wrote the origi
 
 ### Relaying comments
 
-When Bob receives Alice's comment on his post, it is his responsibility to relay Alice's comment to the other recipients of Bob's original post.  Bob SHOULD relay the message, unless he is performing moderation or spam filtering.
+When Bob receives Alice's comment on his post, it is his responsibility to relay Alice's comment to the other recipients of Bob's original post.  Bob SHOULD relay the message, unless he is performing moderation or rate-limiting.
 
 In this example, Alice and Eve were the recipients of Bob's original post.  So, when Bob receives the salmon containing Alice's comment, he will prepare the relayed comment and send it to both Eve and Alice.  If Bob has chosen to relay the message, Bob MUST send it to all of the recipients, even Alice, the author of the comment.  In this way, Alice knows her comment has been received.  However, Alice's pod MAY choose to display the comment in its place, even before hearing back from Bob.
 
@@ -232,4 +228,90 @@ The message that Bob constructs is this:
 
 All the fields here are identical to those that Bob received from Alice.  The only difference is the addition of the `<parent_author_signature>` field.  Bob signs the message before sending it out, to prove that it was indeed he who chose to relay the message, and not an imposter.
 
+Bob constructs the `<parent_author_signature>` in the same way that Alice constucted her `<author_signature>`, except that he signs it with _his_ private key, not Alice's (which, of course, he does not have).
+
+## "Like"s on status updates
+
+If Bob sends a status message to Alice and Eve, and Alice "like"s the message, then Alice MUST construct a Like message and send it to Bob.  (As noted [[above|#De-duplication]], Alice's pod MAY immediately make the post visible to Eve, if Eve lives on the same pod as Alice, in the situation that Eve's pod knows that Eve should see the post, even if this knowledge is not available to Alice.  However, this is not required behavior.)
+
+```xml
+<XML>
+  <post>
+    <like>
+      <target_type>Post</target_type>
+      <guid>((guid))</guid>
+      <parent_guid>((guid))</parent_guid>
+      <author_signature>((base64-encoded data))</author_signature>
+      <positive>true</positive>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+    </like>
+  </post>
+</XML>
+```
+
+The fields are thus:
+
+* `<guid>` is the guid of the Like.  Each comment MUST be assigned a guid when the comment is created.  The guid is chosen by Alice's pod.  In this case, when Alice chooses to send the Like, the Like is assigned a guid, which is stored in the database of Alice's pod.  A guid is a 16-character hexadecimal string.
+* `<parent_guid>` is the guid of Bob's original post that Alice is Liking on.
+* `<author_signature>` is Alice's signature of the Like.  To construct this signature:
+    1. Identify the following fields:
+        1. the guid of the Like
+        2. the guid of the original post that this is in response to
+        3. The value of the `<target_type>` field.  In this case, the string "Post".
+        4. The _text_ of the `<positive>` field.  In this case, the string "true".
+        5. the diaspora handle of the author of the comment.
+    2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;Post;true;alice@alice.diaspora.example.org`.
+    3. Sign this string using Alice's RSA private key, and the RSA-SHA256 signing algorithm.
+    4. base64-encode the signature.  This is the value of `<author_signature>`.
+* `<target_type>` is the string "Post" if the Like is liking a status message.  It is "Comment" if the Like is liking a comment (comment-liking is discussed later).
+* `<positive>` is the string "true" if Alice is liking this post.  It is "false" if Alice is retracting a previous Like.
+* `<diaspora_handle>` is the Diaspora handle of the author of the Like.  In this case, Alice's Diaspora handle, or `alice@alice.diaspora.example.org`.
+
+This message is wrapped up in a salmon slap and sent to Bob, who wrote the original post that Alice is responding to.
+
+Alice MUST NOT send a Like for a post if she has already successfully sent a Like for that post.  That is, she can only Like a post once.
+
+If Bob receives a Like from Alice, and he had already received a Like from Alice for that same post, then Bob MUST ignore this second Like.
+
+### Relaying Likes
+
+When Bob receives Alice's Like of his post, it is his responsibility to relay Alice's Like to the other recipients of Bob's original post.  Bob SHOULD relay the message, unless he is performing moderation or rate-limiting.
+
+In this example, Alice and Eve were the recipients of Bob's original post.  So, when Bob receives the salmon containing Alice's Like, he will prepare the relayed comment and send it to both Eve and Alice.  If Bob has chosen to relay the message, Bob MUST send it to all of the recipients, even Alice, the author of the Like.  In this way, Alice knows her Like has been received.  However, Alice's pod MAY choose to display the Like in its place, even before hearing back from Bob.
+
+Note, though, that Bob should accept at most one Like from each person, for each status message.  Bob should ignore all negative Likes from Alice if he has not received a positive Like from Alice.  Bob should ignore all positive Likes from Alice if he has already received a positive Like from her.
+
+If Bob accepts Alice's like, the message that he constructs is this:
+
+```xml
+<XML>
+  <post>
+    <like>
+      <guid>((guid))</guid>
+      <target_type>Post</target_type>
+      <parent_guid>((guid))</parent_guid>
+      <parent_author_signature>((base64-encoded data))</parent_author_signature>
+      <author_signature>((base64-encoded data))</author_signature>
+      <positive>true</positive>
+      <diaspora_handle>alice@alice.diaspora.example.org</diaspora_handle>
+    </like>
+  </post>
+</XML>
+```
+
+All the fields here are identical to those that Bob received from Alice.  The only difference is the addition of the `<parent_author_signature>` field.  Bob signs the message before sending it out, to prove that it was indeed he who chose to relay the message, and not an imposter.
+
 Bob constructs the `<parent_author_signature>` in the same way that Alice constucted her `<parent_signature>`, except that he signs it with _his_ private key, not Alice's (which, of course, he does not have).
+
+### Negative likes
+
+If Alice has previously sent a Like to Bob, regarding one of Bob's posts, and then Alice decides to retract that Like, she sends a negative Like to Bob, who should relay it.  Both Alice's negative like, and Bob's relaying of it, is constructed in the same way described above for Likes.  The difference is that, in a negative Like, the `<positive>` field contains the string "false".
+
+Alice MUST NOT send a negative Like for a post that she has not previously Liked (successfully -- where "success" means that Alice has received Bob's relay of the Like).  Alice MUST NOT send a Like for a message that she has already Liked successfully.
+
+If Bob receives a negative Like for a message that Alice had not previously Liked, then Bob MUST ignore this message.
+
+### Likes on comments
+
+XXX How does this work?  What is the parent post?  Is it the status message or the comment?  Who signs and relays the Like?  Is it the author of the status message or the author of the comment?
+g
