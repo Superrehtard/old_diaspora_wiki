@@ -27,6 +27,13 @@ management console.
        * DIASPORA: plex@alt.md
    * Operating system: Ubuntu
 
+* [[http://rlb.co/]] [[http://rlb.co/apple-touch-icon.png|height=30px]]
+   * Opened: 21/11/2010
+   * Updated: Once per week
+   * Maintained by: Rachael B
+       * Contact: diaspora [at] rlb [dot] co
+   * Operating system: Ubuntu LTS 10.04.2
+
 * [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px]]
     * Opened: 16/09/2010
     * Updated: Every 2 hours, but service restarted roughly daily
