@@ -52,7 +52,7 @@ Add the ability to attach videos to posts. Can we do this through the same icon 
 ##Posting integration to applications
 **mur:** The aspects icons / menu selector could be used as the interface to interact with the diaspora applications. Say you want to post a pic to cubbies. Just post a picture to Diaspora and select share to cubbies. Well this is nothing unusual. But why not make it two-way communication?
 
-Say you want to know route from Palo Alto, CA to SF Civic Center. You'd post a message on your diaspora account: "from Palo Alto, CA to SF civic center, CA" and then shared it with CalTrain diaspora app or google maps diaspora app. Immediately, the Diaspora app would print out the leaving trains and their arrival times and a map. This all content would go to the user's comment stream. Of course this would require a possibility to include pictures or iframes or flash into the comment stream. 
+Say you want to know route from Palo Alto, CA to SF Civic Center. You'd post a message on your diaspora account: "from Palo Alto, CA to SF civic center, CA" and then shared it with CalTrain diaspora app or google maps diaspora app. Immediately, the Diaspora app would print out the leaving trains and their arrival times and a map. This all content would go to the user's post's comments. Of course this would require a possibility to include pictures or iframes or flash into the comment stream. 
  
 Two-way communications unleashes the creativity. Feel lonely? Just add the talking Eliza bot to your post and Eliza bot will comment your post and you can discuss with it. Once you respond to your post which is sharing with Eliza, it'll receive the comment and comment back you an answer. After thousands of people are using it, it'll be pretty fun to talk with.
 
