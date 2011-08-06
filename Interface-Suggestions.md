@@ -47,6 +47,19 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
 
 Add the ability to attach videos to posts. Can we do this through the same icon as photos? (Kevin)
 
+  - **mur:** I think the mini icons should be customizable. So the user could decide what will show up in there.
+
+##Posting integration to applications
+**mur:** The aspects icons / menu selector could be used as the interface to interact with the diaspora applications. Say you want to post a pic to cubbies. Just post a picture to Diaspora and select share to cubbies. Well this is nothing unusual. But why not make it two-way communication?
+
+Say you want to know route from Palo Alto, CA to SF Civic Center. You'd post a message on your diaspora account: "from Palo Alto, CA to SF civic center, CA" and then shared it with CalTrain diaspora app or google maps diaspora app. Immediately, the Diaspora app would print out the leaving trains and their arrival times and a map. This all content would go to the user's comment stream. Of course this would require a possibility to include pictures or iframes or flash into the comment stream. 
+ 
+Two-way communications unleashes the creativity. Feel lonely? Just add the talking Eliza bot to your post and Eliza bot will comment your post and you can discuss with it. Once you respond to your post which is sharing with Eliza, it'll receive the comment and comment back you an answer. After thousands of people are using it, it'll be pretty fun to talk with.
+
+The Eliza bot is fun, but it can be used in real life too. Similar two-way commenting can be implemented to tech support site, so the tech support automatically receives your question and can answer with their tool. They don't need to be your friends on Diaspora, if you need some help. Similar (anonymous) discussion could be used with academic questions, acute mental health problems and suicide candidates, dating... Just share the comment with "Let's date" diaspora app and anyone can talk with you anonymously on dating site and eventually you can decide with conversation if you wish to take it further or remain anonymous.
+
+This feature could be also used to update one's blog. Just check the "publish this in blog" app and it'll be posted there as well. Automated app software can also add the comments to website's comment stream!
+
 ##Messages
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
   - Enable sending/receiving emails from within the message inbox (replies in convo style). ([[Issue|https://github.com/diaspora/diaspora/issues/1056]])
