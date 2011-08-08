@@ -66,10 +66,6 @@ it to connect people or two seeds for real time games?
 Cucumber, whatever.  If you wrote tests, we would love you forever.
 - Selenium tests that hit every page would be super nice. The framework for this is started and can 
 be found in the features directory.
-- An object oriented ruby wrapper for libgcrypt
-  - We initially used gpg for encryption, but the tight binding it has to filesystem config folders 
-  made it untenable. We would like to be able to use libgcrypt, but without an object oriented ruby 
-  wrapper, it would be too time consuming.
 - Javascript compatible view templates (handlebars/mustache looks promising)
 - Taxonomy of social types: creating interfaces for all of the activity stream types, so people 
 could make and send their own types on the file in between diaspora seeds. Could be tied to the 
