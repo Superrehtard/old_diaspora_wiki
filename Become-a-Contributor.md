@@ -12,20 +12,22 @@ contributions are awesome too.
 ## Ways to get involved
 Diaspora needs all sort of help, way more than just code!
 (if anyone wants to link to getting started on any of these things, that would be awesome)
-* Reporting Bugs
-* Starting Meetups
-* Making Fan Art
-* Doing UI mockups
-* Spreading the Word
-* Participating in Weekly community meetings
-* Blogging about Diaspora
-* Writing copy
-* Doing translations
-* Design/User Interface work
-* Donating
-* Running a pod
-* Helping others installing pods
-* Running Diaspora for your company or community
+*Reporting Bugs
+*Starting Meetups
+*Making Fan Art
+*Doing UI mockups
+*Spreading the Word
+*Participating in Weekly community meetings
+*Blogging about Diaspora
+*Writing copy
+*Doing translations
+*Writing documentaion
+*Writinig How-to guides/videos
+*Design/User Interface work
+*Donating
+*Running a pod
+*Helping others installing pods
+*Running Diaspora for your company or community
 
 These are just a few ideas, and we love people who want to donate their skills to make our community more amazing.
 
