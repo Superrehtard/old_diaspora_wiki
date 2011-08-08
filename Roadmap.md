@@ -21,9 +21,7 @@ around seamlessly.
 - Twitter-style API for posting and searching public posts.
 - Services integration: attach services to particular aspects.
 - Server to server authentication:  Right now Diaspora is push-only.  We need servers to 
-authenticate with each other to pull data in, and to delegate that authentication 
-to the browser to avoid replicating large files like photos.  This should probably involve 
-token-authenticable in devise.
+authenticate with each other to pull data in.
 - Refining aspects - having people only in the public group, a Twitter-style follow model, etc. 
 - More standards compliance: for instance, we have a salmon implementation, but it's not tested 
 against the spec yet.  It should be made compliant with the salmon spec.
