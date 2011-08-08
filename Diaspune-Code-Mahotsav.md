@@ -17,6 +17,7 @@ If you are interested to participate, add your name and a way of contacting you.
    4. [[Arnav Sonara|https://joindiaspora.com/public/sonara_arnav]]
    5. [[Akshay Mankar|https://joindiaspora.com/public/akshaymankar]]
    6. [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]
+   7. [[Wilmar Santos|https://joindiaspora.com/public/wcs]]
 
 Short link for this page is http://is.gd/mahotsav
 
