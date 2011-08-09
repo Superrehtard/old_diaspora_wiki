@@ -25,7 +25,7 @@ If you are interested to participate, add your name and a way of contacting you.
    5. [[Akshay Mankar|https://joindiaspora.com/public/akshaymankar]]
    6. [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]
    7. [[Wilmar Santos|https://joindiaspora.com/public/wcs]]
-
+   8. Anuj Deshpande - anujdeshpande92@gmail.com
 Short link for this page is http://is.gd/mahotsav
 
 [[Stay tuned!|http://diaspune.onlinegroups.net]] 
