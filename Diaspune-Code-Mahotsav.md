@@ -7,7 +7,7 @@
 
 </center>
 
-### Ideas
+### Current Projects
 
    1. [[OpenID login for Diaspora |https://github.com/diaspora/diaspora/issues/1570]] - [[Sudipta Mondal|https://joindiaspora.com/people/58963]]
 
@@ -15,7 +15,7 @@
 
 If you know Ruby on Rails or diaspora, add your name as a mentor
 
-### Students
+### Interested Students
 If you are interested to participate, add your name and a way of contacting you.
 
    1. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
@@ -29,4 +29,4 @@ If you are interested to participate, add your name and a way of contacting you.
 
 Short link for this page is http://is.gd/mahotsav
 
-[[Stay tuned!|http://diaspune.onlinegroups.net]] 
+[[Stay tuned!|http://diaspune.onlinegroups.net]] or read our [[FAQ|http://wiki.diaspune.net/index.php?title=FAQs_On_Code_Mahotsav]]
