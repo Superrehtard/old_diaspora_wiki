@@ -16,7 +16,7 @@ Pod maintainers:
 pattern as the existing data. Pods are listed in alphabetical order by pod name.
 * Please consider adding yourself to [the PodUp list](http://podup.sargodarya.de) as well. 
 It's free, people will notice your pod, and you can track how your pod performs in the 
-management console.
+management console. **[10/08/2011: Adding new pods to the list does not seem to work.]**
 
 ## Diaspora pods
 
