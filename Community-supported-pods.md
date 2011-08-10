@@ -502,7 +502,7 @@ management console.
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free Diaspora pod.
 
-* [[http://diaspora.podzimek.org]]
+* [[https://diaspora.podzimek.org]]
     * Opened: 01/08/2011
     * Updated: frequently
     * Maintained by: Andrej Podzimek <andrej@podzimek.org>
