@@ -501,3 +501,12 @@ management console.
     * Maintained by: private individual 
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free Diaspora pod.
+
+* [[http://diaspora.podzimek.org]]
+    * Opened: 01/08/2011
+    * Updated: frequently
+    * Maintained by: Andrej Podzimek <andrej@podzimek.org>
+    * HTTPS (only)
+    * IPv6 support
+    * Operating system: ArchLinux
+    * Comments: Feel free to ask for an invitiation!
