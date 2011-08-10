@@ -27,6 +27,14 @@ If you are interested to participate, add your name and a way of contacting you.
    7. [[Wilmar Santos|https://joindiaspora.com/public/wcs]]
    8. Anuj Deshpande - anujdeshpande92@gmail.com
 
-Short link for this page is http://is.gd/mahotsav
+### Ideas
+- [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
 
-[[Stay tuned!|http://diaspune.onlinegroups.net]] or read our [[FAQ|http://wiki.diaspune.net/index.php?title=FAQs_On_Code_Mahotsav]]
+### Promote
+- Short link for this page is http://is.gd/mahotsav
+- Share our poster (take a print out and post it on your college notice board or post it on your social profiles - diaspora, statusnet, twitter, google plus, facebook or your other favorite online hang out places)
+
+### More
+- [[Stay tuned!|http://diaspune.onlinegroups.net]] to our mailing list 
+- [[Follow us on Diaspora|http://diaspune.net/u/diaspune]]
+- Read our [[FAQ|http://wiki.diaspune.net/index.php?title=FAQs_On_Code_Mahotsav]]
