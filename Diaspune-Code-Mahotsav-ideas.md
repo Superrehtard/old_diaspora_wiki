@@ -1,4 +1,4 @@
-### Ideas (compiled by Sudipta and Maynk)
+### Ideas (compiled by Sudipta and Mayank)
 
 #### Easy level
 
