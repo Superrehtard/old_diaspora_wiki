@@ -9,9 +9,11 @@ in their free time.
 Some of these volunteers are developers and help with the code, which is the "traditional" way
 to help out an open source project, and is awesome. But many are not developers, and their 
 contributions are awesome too.
+
 ## Ways to get involved
 Diaspora needs all sort of help, way more than just code!
 (if anyone wants to link to getting started on any of these things, that would be awesome)
+
 * Reporting Bugs
 * Starting Meetups
 * Making Fan Art
