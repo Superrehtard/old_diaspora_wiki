@@ -14,7 +14,7 @@ When running the installer check "Add Ruby executables to your PATH."
 
 ### Ruby Development Kit
 
-This provides compliation programs for building RubyGems.
+This provides compilation programs for building RubyGems.
 
 Download the [Development Kit](http://rubyinstaller.org/downloads/).
 
@@ -40,7 +40,7 @@ Choose the Typical Setup Install Type.
 
 In the Server Instance Configuration Wizard choose the following options:
 
-* Maintance Option: Reconfigure Instace
+* Maintenance Option: Reconfigure Instance
 * Configuration Type: Detailed Configuration
 * Server Type: Developer Machine
 * Database Usage: Multifunctional Database
@@ -55,7 +55,7 @@ If you need to run the Server Instance Configuration Wizard at a later time, fro
 
         MySQLInstanceConfig
 
-Edit C:\\Program Files\\MySQL\\MySQL Server 5.5\\my.ini
+Edit C:\Program Files\MySQL\MySQL Server 5.5\my.ini
 
 In the mysqld section add
 
@@ -66,9 +66,9 @@ Restart MySQL.  From the command line run:
         net stop mysql
         net start mysql
 
-Note:  If you do run the Server Instance Configuration Wizard again you will need to add bind-address=127.0.0.1 to my.ini file.
+Note:  If you do run the Server Instance Configuration Wizard again you will need to re-add bind-address=127.0.0.1 to the my.ini file.
 
-Open a Command Prompt window and type.
+Open a Command Prompt window and type:
 
     copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby187\bin
 
@@ -91,7 +91,7 @@ When installing uncheck:
 
 Download version 2.2 from [Github](https://github.com/dmajkic/redis). Click on the downloads button and choose redis-2.2.2-win32-win64.zip.  Save the file to your Desktop.
 
-* Right click on the Redis zip file choose Extract All.
+* Right-click on the Redis zip file and choose Extract All.
 * In the Extraction Wizard, click Next twice.
 * Uncheck Show extracted files.
 * Click Finish.
@@ -102,7 +102,7 @@ Open up a Command Prompt and type the following:
     mkdir "C:\Program Files\Redis"
     copy "%HOMEDRIVE%%HOMEPATH%\Desktop\redis-2.2.2-win32-win64\32bit\*" "C:\Program Files\Redis"
 
-Open C:\\Profile Files\\Redis\\redis.conf in a text editor and:
+Open C:\Program Files\Redis\redis.conf in a text editor and:
 
 * Change, or un-comment, `#bind 127.0.0.1` to `bind 127.0.0.1`.
 * Change `loglevel verbose` to `loglevel notice`.
@@ -145,12 +145,13 @@ Open the Gemfile.lock file.
 
 ### Installing Diaspora
 
-The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  While in the C:\\Progra~1\\Diaspora directory from the Command Prompt, type:
+The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  From the command line, type:  
 
+cd "C:\Progra~1\Diaspora"  
     C:\Progra~1\RubyDevKit\devkitvars.bat
     bundle install --path vendor
 
-You will see an error message while compiling the Typhoeus gem.  In the example below Typhoeus 0.2.4 dependens on curl 7.19.4.
+You will see an error message while compiling the Typhoeus gem.  In the example below Typhoeus 0.2.4 depends on curl 7.19.4.
 
     checking for curl/curl.h in C:/PROGRA~1/Diaspora/vendor/ruby/1.8/gems/typhoeus-0.2.4/cross/curl-7.19.4.win32/include... no
     need libcurl
@@ -159,7 +160,7 @@ You will see an error message while compiling the Typhoeus gem.  In the example 
 ### Libcurl
 
 XP:
-Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find the version the Typhoeus is looking for in the format of curl-&lt;version number&gt;-devel-mingw32.zip.  For Typhoeus 0.2.4, download curl-7.19.4-devel-mingw32.zip.  Save the file to your Desktop.
+Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find the version that Typhoeus is looking for in the format of curl-&lt;version number&gt;-devel-mingw32.zip.  For Typhoeus 0.2.4, download curl-7.19.4-devel-mingw32.zip.  Save the file to your Desktop.
 
 * Right click on the file and choose Extract All.
 * In the Extraction Wizard window, click Next twice.
@@ -183,14 +184,14 @@ Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl versi
 
 Vista/7:
 
-Vista/7 will overwrite the curl folder if you try the above steps, so instead please read https://github.com/dbalatero/typhoeus/issues/11 (make sure to delete libcurl.a from the lib directory in the curl folder and move bin/libcurl.dll there. if you get gcc make/build errors).
+Vista/7 will overwrite the curl folder if you try the above steps, so instead please read https://github.com/dbalatero/typhoeus/issues/11 (make sure to delete libcurl.a from the lib directory in the curl folder and move bin/libcurl.dll there if you get gcc make/build errors).
 
 Once you've installed the gem, copy the folder typhoeus-0.2.4 from your/ruby/path/lib/ruby/gems/1.8/gems into C:/Progra~1/Diaspora/vendor/ruby/1.8/gems
 
 
 ### Installing Diaspora (Continued)
 
-From the command line while in the Diaspora installation directory type:
+From the command line while in the Diaspora installation directory, type:
 
     C:\Progra~1\RubyDevKit\devkitvars.bat
     bundle install
@@ -201,9 +202,9 @@ Follow the Set up the database section on the main Installing and Running Diaspo
 
 ### Sending E-mail (optional)
 
-To enable password resets and notifications you will need to install a program capabile of sending e-mail to a mail server.  Do not send your friends invites from your Windows installation as it is not configured to allow connections from the Internet.
+To enable password resets and notifications you will need to install a program capable of sending e-mail to a mail server.  Do not send your friends invites from your Windows installation as it is not configured to allow connections from the Internet.
 
-This will use your send e-mails from  your home e-mail account or other e-mail server that you prefer.  You will need its connection information before proceeding.
+This will send e-mails from  your home e-mail account or other e-mail server that you prefer.  You will need its connection information before proceeding.
 
 Download [msmtp](http://msmtp.sourceforge.net/)
 
@@ -218,8 +219,8 @@ Download [msmtp](http://msmtp.sourceforge.net/)
 
 In a Command Prompt type
 
-    mkdir "C:\\Progra~1\\Diaspora\\software"
-    copy "%HOMEDRIVE%\\%HOMEPATH%\\Desktop\\msmtp-1.4.23-w32\\msmtp-1.4.23-w32\\msmtp.exe" C:\\Progra~1\\Diaspora\\software
+    mkdir "C:\Progra~1\Diaspora\software"
+    copy "%HOMEDRIVE%\%HOMEPATH%\Desktop\msmtp-1.4.23-w32\msmtp-1.4.23-w32\msmtp.exe" C:\Progra~1\Diaspora\software
 
 Edit `config/app.yml`.  If `config/app.yml` does not exist, save a copy of `config/app.yml.example` to `app.yml`.
 
@@ -233,7 +234,7 @@ Edit `config/app.yml`.  If `config/app.yml` does not exist, save a copy of `conf
 
 The resque workers rely on the Unix `ps` command to determine which programs are running.  We will need to modify the source code to use the Windows `tasklist` command instead.  Note: If the version of the resque gem changes you will need to reapply these modifications.
 
-Open vendor\\ruby\\1.8\\gems\\resque-1.10.0\\lib\\resque\\worker.rb
+Open vendor\ruby\1.8\gems\resque-1.10.0\lib\resque\worker.rb
 
 Look for def `kill_child` in that file.  Locate the line that reads
 
@@ -263,7 +264,7 @@ with this one
 
 ### Running Diaspora
 
-Create a batch file named server.bat in C:\\Progra~1\\Diaspora\\script.  Put this into the batch file.
+Create a batch file named server.bat in C:\Progra~1\Diaspora\script.  Put this into the batch file.
 
     net start mysql
 
@@ -288,7 +289,7 @@ This will spawn three additional Command Prompt windows.
     
 A Windows Firewall dialog will appear in the following situations:
 
-*  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\\Progra~1\\Redis\\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
+*  When Redis is started.  If this happens close out the Windows Firewall window and edit C:\Progra~1\Redis\redis.conf.  Uncomment the line that says `bind 127.0.0.1` and start Redis again.
 *  When the websocket loads a Windows Firewall dialog will appear.  Click the Unblock button.  The websocket will need to communicate with external servers/clients.
 
 ### Create an Account
