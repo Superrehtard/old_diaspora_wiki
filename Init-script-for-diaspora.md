@@ -18,11 +18,11 @@ The pkg directory contains corresponding scripts  for Fedora and Ubuntu which ha
 ### END INIT INFO
 
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-DIASPORA_DIR=/home/luke/diaspora
+DIASPORA_DIR=/path/to/diapora/root
 if [[ "$DIASPORA_DIR" = /path/to/diapora/root ]]; then
 echo "Please configure this script for your diapora root"
 fi
-USERNAME="luke"
+USERNAME="user"
 if [[ "$USERNAME" = user ]]; then
 echo "Please configure this script for the correct user"
 fi
