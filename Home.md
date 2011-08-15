@@ -20,7 +20,7 @@ anywhere on the site.
 * [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Meet the team|Contributors]]
 * [[Community Meetups|Meetups]]
-* Live discussion on our [[IRC channel #diaspora/FreeNode|http://webchat.freenode.net/?channels=#diaspora]]
+* Live discussion on our [[IRC channels|How we use IRC]]
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
 * [[Related and similar projects|Other projects]]
 
