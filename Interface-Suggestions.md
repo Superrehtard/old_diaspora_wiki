@@ -14,6 +14,7 @@ We should get rid of ‘all aspects’ in the left menu and replace it with havi
   - **Kevin:** Use checkboxes to select multiple aspects. Clicking on the name of an aspect shows that aspect only(?). Clicking 'your aspects' selects all aspects again. Possibly a key+click for selecting single aspects.
   - **Mur:** I took this the idea further and increased the user friendliness. The graphics are available.
 ![User friendly UI](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_b98d0f5ece33cbe04e6f.png)
+  - **Manuels:** Mur, looks great! Maybe we should replace the green checkboxes with black ones. Green is kind of "reserved" for correct user input.
 
 ##Public / private
   - Make all comments on a public post public, both to people logged in as well as people not logged in to Diaspora.
