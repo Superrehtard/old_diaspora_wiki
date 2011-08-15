@@ -26,6 +26,8 @@ If you are interested to participate, add your name and a way of contacting you.
    6. [[Imran Ahmed|https://joindiaspora.com/public/imranahmed1991]]
    7. [[Wilmar Santos|https://joindiaspora.com/public/wcs]]
    8. Anuj Deshpande - anujdeshpande92@gmail.com
+   9. [[Tejas Bubane|https://joindiaspora.com/u/tejasbubane007]]
+  10. [[Anurag Daware|https://joindiaspora.com/u/anuragdaware]]
 
 ### Ideas
 - [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
