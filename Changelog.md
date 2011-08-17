@@ -4,6 +4,7 @@
 
 * Featured users
 * DiasporaHQ account
+* New Getting Started page
 
 ### July
 
