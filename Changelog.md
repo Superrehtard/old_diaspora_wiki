@@ -3,6 +3,7 @@
 ### August
 
 * Featured users
+* DiasporaHQ account
 
 ### July
 
