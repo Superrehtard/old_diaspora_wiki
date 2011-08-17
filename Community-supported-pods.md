@@ -33,6 +33,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Maintained by: Rachael B
        * Contact: hello [at] pod [dot] im
    * Operating system: Ubuntu LTS 10.04.2
+   * Comments: Please email for an invite. I try to keep the pod as stable as possible but please remember that the site may be taken down, accounts closed, or data lost. Use at your own risk!
 
 * [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px]]
     * Opened: 16/09/2010
