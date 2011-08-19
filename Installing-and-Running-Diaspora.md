@@ -226,7 +226,7 @@ If you once used Jammit, now after each update, after the first request to the p
 
 Normally you don't need this if you aren't developing for Diaspora, just skip it :)
 
-Diaspora's test suite uses [rspec](http://rspec.info/), a behavior driven testing framework. To run all tests execute: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
+Diaspora's test suite uses [Rspec](http://rspec.info/), a behavior driven testing framework. To run all tests execute: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
 
 ### Read-only installation
 
