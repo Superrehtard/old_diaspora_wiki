@@ -106,12 +106,6 @@ NOTE: If you do any other rails development on your machine, you will probably
 want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
 directory to avoid conflicts with your existing environment, or use an rvm gemset.
 
-NOTE: If you're on an ARM based machine try
-
-        bundle install --without development,test
-
-instead. For details see [Bugreport #829](http://bugs.joindiaspora.com/issues/829).
-
 
 ### Configure Diaspora
 
@@ -209,7 +203,7 @@ Change into the Diaspora root folder and run
 
 If the update changes the Gemfile or Gemfile.lock files, run
 
-        bundle install
+        bundle install --without development,test
 
 In order to apply any new schema always run
 
