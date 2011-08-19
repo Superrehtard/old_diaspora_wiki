@@ -13,6 +13,7 @@ We are at early stages of developing an android application for diaspora. Our se
 #Resources
 
 * [[Code|https://github.com/gardner/diaspora-android]]
+* [[Mailing list|https://groups.google.com/group/diaspora-android]]
 * [[Pre Registration Diagram|https://github.com/diaspora/diaspora-client/wiki/Pre-Registration]]
 
 #IRC Logs#
