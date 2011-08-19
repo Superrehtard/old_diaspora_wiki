@@ -182,7 +182,7 @@ Now you need to create the necessary tables. To do so run
 
 Just run `./script/server`. This will start thin, redis, a resque worker and the websocket server. The application is then available at http://your_pod:3000. You can change port by editing thin_port in config/script_server_config.yml or setup a reverse proxy (google it ;)) if you want to run Diaspora for example at a subdomain or use https more easily.
 
-Note: When `./script/server` starts redis, it reads the `config/redis.yml` file. Make sure that you have write permissons to the log file, which is specified on the line starting with the word `logfile`.
+Note: When `./script/server` starts redis, it reads the `config/redis.yml` file. Make sure that you have write permissons to the log file, which is specified on the line starting with the word `logfile` in `config/redis.conf`.
 
 
 If you want to run an app server other than thin or have more control over it, you must run the appserver, redis, a resque worker, and the websocket server separately.
