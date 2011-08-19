@@ -89,12 +89,14 @@ has a pretty awesome guide for getting set up.
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-        bundle install
+        bundle install --without development,test
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
 
 NOTE: If you don't get a **green success line** at the end, double check if you've installed all dependencies. If you can't figure it out feel free to ask for help at the mailing list or the IRC Channel.
+
+NOTE: If you want to do any development just run `bundle install`
 
 NOTE: If you are on Ruby 1.9.2 and get an error such as "invalid byte sequence in US-ASCII (ArgumentError)" then you need to set your system locale to UTF-8. [This GitHub bug report](https://github.com/siefca/i18n-inflector/issues/3) on the gem that causes the problem has steps for doing so on Ubuntu.
 
