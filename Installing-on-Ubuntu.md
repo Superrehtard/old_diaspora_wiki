@@ -63,12 +63,6 @@ To start MySQL run
 
         sudo service mysql start
 
-### PostgreSQL
-
-This installs libraries for PostgreSQL support.
-
-	sudo apt-get install libpq-dev libpq5
-
 ### sqlite
 
         sudo apt-get install libsqlite3-dev
