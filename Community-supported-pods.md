@@ -1,6 +1,6 @@
 This is a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
 when you join one, you always log in to that site. But you can follow friends on *any* pod, including
-the main pod at joindiaspora.com.
+the pod run by the project founders at joindiaspora.com.
 
 **This list is rather static.** While it can be used as a reference, we recommend that when you
 are choosing which pod to sign up for, you also consider:
