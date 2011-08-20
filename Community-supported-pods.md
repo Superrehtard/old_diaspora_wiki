@@ -420,7 +420,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Opened: 2010-12-11
     * Updated: Biweekly
     * Maintainer: Joe Bivins
-        * jbivins@gmail.com
+        * poddery@tampabay.rr.com
         * [[http://twitter.com/poddery]]
     * Operating system: Debian Linux (Squeeze)
     * Comments: Following master branch.
