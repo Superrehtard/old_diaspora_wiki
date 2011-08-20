@@ -28,6 +28,7 @@ If you are interested to participate, add your name and a way of contacting you.
    8. Anuj Deshpande - anujdeshpande92@gmail.com
    9. [[Tejas Bubane|https://joindiaspora.com/u/tejasbubane007]]
    10. [[Anurag Daware|https://joindiaspora.com/u/anuragdaware]]
+   11. [[Abhishek Bhattacharjee : abhishek_bhattacharjee11@yahoo.com
 
 ### Ideas
 - [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
