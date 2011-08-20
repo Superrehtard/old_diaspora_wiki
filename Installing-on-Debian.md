@@ -44,11 +44,11 @@ To install Ruby 1.8.7 (There are known bugs if you use Ruby 1.9.x, see [Bug #998
         make
         make install
 
-Alternativly if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
+Alternatively if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
 
 #### RVM
 
-Alternativly you can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescueend.com/).
+Alternatively you can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescueend.com/).
 
 To install RVM and REE, as your normal user (the one which Diaspora should run under), run
 
@@ -63,6 +63,13 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
 This installs MySQL, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
         sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
+
+
+### PostgreSQL
+
+This installs libraries for PostgreSQL support.
+
+        sudo apt-get install libpq-dev libpq5
 
 ### OpenSSL
 
