@@ -196,7 +196,7 @@ The fields are thus:
         3. the text of the comment
         4. the diaspora handle of the author of the comment.
     2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;I'll be there!;alice@alice.diaspora.example.org`.  Note that the text of the comment may have `;`s in it; this is okay.  The base string is not a serialization that we intend to parse.  It is simply an arbitrary string that is constructible by the sender and the receiver of the message in a reliable way.
-    3. Sign this string using Alice's RSA private key, and the RSA-SHA256 signing algorithm.
+    3. Sign this string using Alice's RSA private key, and the 'SHA' signing algorithm. That's SHA-0, not SHA-1 or SHA256. SHA-0 may not be available on many systems. 
     4. base64-encode the signature.  This is the value of `<author_signature>`.
 * `<text>` is the actual text of the comment that Alice wants to post.  Note that the text of this message must be made suitable for XML using any appropriate escaping scheme.  For example, unsafe characters like `<` and `>` could be translated into their corresponding XML entities like `&lt;` and `&gt;`.  Or the CDATA method could be used.  (See the [XML specification](http://www.w3.org/TR/2006/REC-xml11-20060816/#syntax))
 * `<diaspora_handle>` is the Diaspora handle of the author of the comment.  In this case, Alice's Diaspora handle, or `alice@alice.diaspora.example.org`.
@@ -261,7 +261,7 @@ The fields are thus:
         4. The _text_ of the `<positive>` field.  In this case, the string "true".
         5. the diaspora handle of the author of the comment.
     2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;Post;true;alice@alice.diaspora.example.org`.
-    3. Sign this string using Alice's RSA private key, and the RSA-SHA256 signing algorithm.
+    3. Sign this string using Alice's RSA private key, and the SHA (e.h. SHA-0) signing algorithm.
     4. base64-encode the signature.  This is the value of `<author_signature>`.
 * `<target_type>` is the string "Post" if the Like is liking a status message.  It is "Comment" if the Like is liking a comment (comment-liking is discussed later).
 * `<positive>` is the string "true" if Alice is liking this post.  It is "false" if Alice is retracting a previous Like.
