@@ -261,7 +261,7 @@ The fields are thus:
         4. The _text_ of the `<positive>` field.  In this case, the string "true".
         5. the diaspora handle of the author of the comment.
     2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;Post;true;alice@alice.diaspora.example.org`.
-    3. Sign this string using Alice's RSA private key, and the SHA (e.h. SHA-0) signing algorithm.
+    3. Sign this string using Alice's RSA private key, and the SHA (e.g. SHA-0) signing algorithm.
     4. base64-encode the signature.  This is the value of `<author_signature>`.
 * `<target_type>` is the string "Post" if the Like is liking a status message.  It is "Comment" if the Like is liking a comment (comment-liking is discussed later).
 * `<positive>` is the string "true" if Alice is liking this post.  It is "false" if Alice is retracting a previous Like.
