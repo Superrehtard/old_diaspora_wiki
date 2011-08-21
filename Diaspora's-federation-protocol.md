@@ -192,7 +192,7 @@ Note that this feed MAY also be made available through the [PubSubHubbub mechani
 <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
 ```
 
-When a user is created on the pod, the pod MUST generate a pgp keypair for them.  This key is used for signing messages.  Here we place the key in the "href".  The format of the key is this:  We take the ascii-armored representation of the key, and base64-encode THAT.  Thus, the actual binary key is "double-wrapped" in base64-encoding.
+When a user is created on the pod, the pod MUST generate a pgp keypair for them.  This key is used for signing messages.  Here we place the key in the "href".  The format of the key is this:  We take the ascii-armored representation of the key, and base64-encode THAT.  Thus, the actual binary key is "double-wrapped" in base64-encoding. Removing the outer wrapper provides a familiar DER-encoded PKCS#1 key beginning with the text "----BEGIN RSA PUBLIC KEY----". Some platforms may require conversion of this key to a different format, such as PKCS#8 or "modulus/exponent". 
 
 ## Sending
 
@@ -216,7 +216,7 @@ So, in order to construct the full salmon slap, you will need to:
 
 1. Construct the encryption header.
 2. Prepare the payload message.
-3. Construct a salmon magic-envelope.
+3. Construct a Diaspora salmon magic-envelope.
 
 #### Constructing the encryption header
 
@@ -323,9 +323,10 @@ The signature (`<me:sig>` element) is constructed as specified in the [Magic Env
 To construct the base string, concatenate the following elements, separated by periods (.).
 
 1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-2. The base64url-encoding of the "data-type" parameter.  In this case, `application/atom+xml\n`  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWwK` (note the linefeed character at the end (ascii 0x0a); this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
-3. The base64url-encoding of the "encoding" paramter, which is the literal string `base64url\n`.  Thus, the base64url-encoded string is `YmFzZTY0dXJsCg==` (note the linefeed at the end (ascii 0x0a); this is _not_ the literal string `base64url`).
-4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256\n`.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ngo=` (note the linefeed at the end (ascii 0x0a); this is _not_ the literal string `RSA-SHA256`).
+Next, depending on your platform you may need to remove all linefeeds and whitespace from this string and then insert linefeed characters ('\n' or ascii 0x0a) after every 60 characters to precisely duplicate the line folding of Ruby's base64 implementation. Add a linefeed to the end if the string is not an exact multiple of 60 characters and does not end with a linefeed. 
+2. The base64url-encoding of the "data-type" parameter.  In this case, 'application/atom+xml' is base64-encoded and then concatenated with a linefeed character '\n'.  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWw=\n` (note the linefeed character at the end (\n or ascii 0x0a); this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
+3. The base64url-encoding of the "encoding" parameter, which is the literal string `base64url`, base64-encoded and then concatenated with a linefeed.  Thus, the base64url-encoded string is `YmFzZTY0dXJs\n` (note the linefeed at the end (\n or ascii 0x0a); this is _not_ the literal string `base64url`).
+4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256`, base64-encoded and then concatenated with a linefeed character '\n'.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ng==\n` (note the linefeed at the end (\n or ascii 0x0a); this is _not_ the literal string `RSA-SHA256`).
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
@@ -341,9 +342,9 @@ To construct the url of the salmon endpoint, do the following:
 
 ### Post the message to Bob
 
-Take your final salmon slap, urlencode it, and POST this data to Bob's salmon endpoint:
+Take your final salmon slap, double urlencode it, and POST this data to Bob's salmon endpoint as Content-type: application/x-www-form-urlencoded :
 
-    xml=((urlencoded salmon slap))
+    xml=((double urlencoded salmon slap))
 
 If you receive an HTTP `202 Created`, or a `200 OK`, your salmon slap has been accepted.
 
