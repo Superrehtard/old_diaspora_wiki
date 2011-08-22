@@ -256,11 +256,11 @@ The fields are thus:
 * `<author_signature>` is Alice's signature of the Like.  To construct this signature:
     1. Identify the following fields:
         1. the guid of the Like
-        2. The value of the `<target_type>` field.  In this case, the string "Post".
-        3. the guid of the original post that this is in response to
+        2. the guid of the original post that this is in response to
+        3. The value of the `<target_type>` field.  In this case, the string "Post".
         4. The _text_ of the `<positive>` field.  In this case, the string "true".
         5. the diaspora handle of the author of the comment.
-    2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;Post;d3d4b1320ca196cd;true;alice@alice.diaspora.example.org`.
+    2. Concatenate those strings, with ";" delimiters.  So, the string might look like this:  `a965ddb72a3d5d61;d3d4b1320ca196cd;Post;true;alice@alice.diaspora.example.org`.
     3. Sign this string using Alice's RSA private key, and the SHA (e.g. SHA-0) signing algorithm.
     4. base64-encode the signature.  This is the value of `<author_signature>`.
 * `<target_type>` is the string "Post" if the Like is liking a status message.  It is "Comment" if the Like is liking a comment (comment-liking is discussed later).
