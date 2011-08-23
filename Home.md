@@ -53,6 +53,7 @@ anywhere on the site.
 * [[Installing and Running Diaspora]] <--- click here!
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
+* [[Paypal Subscription Button Setup|Coffee-Setup]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
 * [[joindiaspora.com Production Setup|How we do it]]
 * Various Guides & Resources (probably outdated)
