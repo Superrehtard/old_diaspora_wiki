@@ -63,6 +63,8 @@ The Eliza bot is fun, but it can be used in real life too. Similar two-way comme
 
 This feature could be also used to update one's blog. Just check the "publish this in blog" app and it'll be posted there as well. Automated app software can also add the comments to website's comment stream!
 
+  - **untitaker:** Applications should just be attached to aspects.
+
 ##Messages
   - Have a dropdown menu. People have come to expect this after the notification dropdown. Also allow middle mouse-button clicking on the icon to go directly to the full notifications/conversations page. ([Issue](https://github.com/diaspora/diaspora/issues/1588))
   - Enable sending/receiving emails from within the message inbox (replies in convo style). ([[Issue|https://github.com/diaspora/diaspora/issues/1056]])
