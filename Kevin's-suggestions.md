@@ -21,8 +21,8 @@ Share the user index of a pod with all other pods in the network to improve the 
 ##Find people in your area
 Can we do this? Would be interesting to see if anyone in your area is on Diaspora.
 
-##Reshare (DONE)
-<strike>This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.</strike>
+##Reshare
+This feature would be the bomb! Only for public posts. Reshare the post with the avatar and name of the owner, let the owner be able to withdraw the post and all of its reshares. It’s already on a branche so I hope it could be finished.
 
 ##Change emailadress (DONE)
 <strike>This is a very basic and much needed feat. ([[pull request|https://github.com/diaspora/diaspora/pull/651]])</strike>
