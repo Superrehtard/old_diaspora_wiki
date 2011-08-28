@@ -29,6 +29,7 @@ If you are interested to participate, add your name and a way of contacting you.
    9. [[Tejas Bubane|https://joindiaspora.com/u/tejasbubane007]]
    10. [[Anurag Daware|https://joindiaspora.com/u/anuragdaware]]
    11. Abhishek Bhattacharjee : abhishek_bhattacharjee11@yahoo.com
+   12. [[Prathamesh Sonpatki|https://joindiaspora.com/u/prathamesh]]
 
 ### Ideas
 - [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
