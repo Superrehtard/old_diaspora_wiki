@@ -45,7 +45,6 @@ anywhere on the site.
 * Conceptual stuff (mostly unoffical)
   * [[Encryption]]
   * [[Client-server-model]]
-  * [[Security Architecture Proposal]]
   * [[Interface suggestions]]
 * [[Other ways to contribute|Other Ways to Contribute]]
 
