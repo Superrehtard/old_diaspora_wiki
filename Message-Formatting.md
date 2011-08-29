@@ -1,5 +1,26 @@
 Diaspora supports a number of ways to format messages. These are basically a part of the description language  [Markdown](http://de.wikipedia.org/wiki/Markdown).
 
+## Paragraphs ##
+
+Paragraphs are separated by blank lines.
+
+    This is one paragraph.
+
+    This is another.
+
+Sometimes the line breaks are important, such as when you're entering poetry. Simply hit the `ENTER` key within a paragraph should have the desired results.
+
+    Roses are red.
+    Violets are blue.
+    I am very bad at poetry.
+
+Indenting the lines of a paragraph by four spaces will result in a block of preformatted text, which is handy for code samples.
+
+    Hey guys, look at my code!
+
+        10 PRINT "HELLO"
+        20 GOTO 10
+
 ## Links ##
 Full URLs, for example http://example.org , are automatically converted into links. This also works for ftp:// like ftp://example.org . Furthermore, everything starting with www. is converted into a link, for example www.example.org.
 
