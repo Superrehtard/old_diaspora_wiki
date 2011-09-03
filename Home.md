@@ -37,6 +37,7 @@ anywhere on the site.
 ## Mobile/Third Party App developer Resources
 * [[Android App Project]]
 * [[iOS App Project]]
+* [[Wordpress profile plugin|http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/]]
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
