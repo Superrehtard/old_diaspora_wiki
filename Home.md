@@ -31,9 +31,12 @@ anywhere on the site.
 * [[Work on a bug|Work on a Bug]]
 * [[How to contribute with Git|Git Workflow]]
 * [[Adding your favorite service to Diaspora]]
-* [[Android App Project]]
 * [[Diaspora's federation protocol]] and [[Diaspora's message semantics]]
 * Live discussions on our [[IRC channel #diaspora-dev/FreeNode|http://webchat.freenode.net/?channels=#diaspora-dev]]
+
+## Mobile/Third Party App developer Resources
+* [[Android App Project]]
+* [[iOS App Project]]
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
