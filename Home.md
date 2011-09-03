@@ -37,6 +37,7 @@ anywhere on the site.
 ## Mobile/Third Party App developer Resources
 * [[Android App Project]]
 * [[iOS App Project]]
+* [[Wordpress post plugin|https://github.com/diaspora/wp-post-to-diaspora]]
 * [[Wordpress profile plugin|http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/]]
 
 ## Contributor Resources
