@@ -184,7 +184,7 @@ Note: When `./script/server` starts redis, it reads the `config/redis.yml` file.
 
 If you want to run an app server other than Thin or have more control over it, you must run the appserver, Redis, a Resque worker, and the Websocket server separately.
 
-Here are instructions to [[Run Diasporas Components]]
+Here are instructions to [[Run Diaspora's components|Run Diasporas Components]]
 
 Once Diaspora is running, just open it up in a web browser and sign up for an account.
 
@@ -232,7 +232,7 @@ Diaspora's test suite uses [Rspec](http://rspec.info/), a behavior driven testin
 
 ### Read-only installation
 
-The directories *tmp*, *public/upload* and *log* must be writable by the user running Diaspora even in a read-only installation.
+The directories *tmp*, *public/uploads* and *log* must be writable by the user running Diaspora even in a read-only installation.
 
 Some of Diaspora's web content in the public/ folder  is generated at runtime. In order to create a read-only installation, this content must be generated at install time instead.
 
