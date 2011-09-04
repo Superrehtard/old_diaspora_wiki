@@ -175,6 +175,11 @@ Now you need to create the necessary tables. To do so run
 `bundle exec rake db:migrate` for development mode or
 `RAILS_ENV=production bundle exec rake db:migrate` for production mode.
 
+### Set up services
+
+If you want to connect your pod to other services like Twitter, Tumblr or Facebook read instructions [[howto setup services|Howto-setup-services]].
+
+
 ## Running Diaspora
 
 Just run `./script/server`. This will start Thin, Redis, a Resque worker and the Websocket server. The application is then available at http://your_pod:3000. You can change port by editing thin_port in config/script_server_config.yml or setup a reverse proxy (see above) if you want to run Diaspora for example at a subdomain or use HTTPS more easily.
