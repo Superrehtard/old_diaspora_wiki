@@ -24,7 +24,7 @@ Internet Explorer, though support is planned in the future.
 2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">Thin</a> 
 as our application server and <a href="http://wiki.nginx.org/Main" target="_blank">Nginx</a> as 
 our web server. You can use another application server (Passenger, Mongrel...), or another web 
-server (Apache, Unicorn...), but the core team may not have the expertise to help you set it up. 
+server (Apache, Unicorn...), but the core team may not have the expertise to help you set it up. Same goes for the database, currently we use MySQL but we're close to support PostgreSQL as well, it might work already.
 There are folks in the community who do run Diaspora this way though, so ask around in the IRC and 
 on the mailing list.
 
@@ -41,6 +41,7 @@ that we use to download libraries ("gems") that Diaspora uses.
 - <a href="http://gembundler.com/" target="_blank">Bundler</a> - A gem management tool for Ruby 
 projects.
 - <a href="http://www.mysql.com" target="_blank">MySQL</a> - Backend storage engine.
+- Or: <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> - Backend storage engine.
 - <a href="http://www.sqlite.org" target="_blank">SQLite3</a> - Relational database management system
 - <a href="http://www.openssl.org/" target="_blank">OpenSSL</a> - An encryption library.
 - <a href="http://curl.haxx.se/" target="_blank">libcurl</a> - A library to make HTTP requests 
@@ -90,7 +91,15 @@ has a pretty awesome guide for getting set up.
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-        bundle install --without development,test
+For MySQL:
+
+        DB="mysql" bundle install --without development,test
+
+For PostgreSQL:
+
+        DB="postgres" bundle install --without development,test
+
+If you want to have both available just remove the DB=… part.
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
@@ -209,9 +218,13 @@ Change into the Diaspora root folder and run
 
         git pull origin master
 
-If the update changes the Gemfile or Gemfile.lock files, run
+If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
-        bundle install --without development,test
+        DB="mysql" bundle install --without development,test
+
+or for PostgreSQL:
+
+        DB="postgresql" bundle install --without development,test
 
 In order to apply any new schema always run
 
