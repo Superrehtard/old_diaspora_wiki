@@ -86,20 +86,16 @@ has a pretty awesome guide for getting set up.
 
 ## Installing Diaspora
 
+### Preparations
+
+Depending on the database you want to use either add `DB="mysql"` for MySQL or `DB="postgres"` for PostgreSQL before each command starting with `bundle…` or export the environment variable: `export DB="mysql"` for MySQL or `export DB="postgres"`. If you want to have both available for easy switching just skip this.
+
 ### Install required gems
 
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-For MySQL:
-
-        DB="mysql" bundle install --without development,test
-
-For PostgreSQL:
-
-        DB="postgres" bundle install --without development,test
-
-If you want to have both available just remove the DB=… part.
+        bundle install --without development,test
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
@@ -122,6 +118,8 @@ directory to avoid conflicts with your existing environment, or use an [RVM](htt
 Diaspora needs to know what host it's running on. Copy config/application.yml.example
 to config/application.yml, put your external url into the pod_url field, and make any other
 needed configuration changes.
+
+To use `./script/server` copy config/script_server.yml.example to config/script_server.yml and edit it properly.
 
 ### Background
 
@@ -228,11 +226,23 @@ or for PostgreSQL:
 
 In order to apply any new schema always run
 
-        bundle exec rake db:migrate
+        DB="mysql" bundle exec rake db:migrate
+
+for MySQL, or
+
+        DB="postgres" bundle exec rake db:migrate
+
+for PostgreSQL.
 
 Or if you you run in production mode
 
-        RAILS_ENV="production" bundle exec rake db:migrate
+        RAILS_ENV="production" DB="mysql" bundle exec rake db:migrate
+
+for MySQL, or
+
+        RAILS_ENV="production" DB="postgres" bundle exec rake db:migrate
+
+for PostgreSQL.
 
 Now start Diaspora again.
 
