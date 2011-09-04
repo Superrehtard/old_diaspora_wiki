@@ -7,6 +7,9 @@ If you fear ./script/server ;)
 If you want to use production mode prepend every command here with `RAILS_ENV=production `,
 config/script_server.yml is not respected with this way!
 
+### Database
+
+Be sure to prepend every command with `DB=…` if you did at installation time.
 
 ### Ensure redis is running
 
