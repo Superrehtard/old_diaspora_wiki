@@ -248,7 +248,7 @@ Now start Diaspora again.
 
 If you once used Jammit, now after each update, after the first request to the page run it again:
 
-        bundle exec jammit
+        DB="mysql" bundle exec jammit / DB="postgresql" bundle exec jammit
 
 ## Appendix
 
