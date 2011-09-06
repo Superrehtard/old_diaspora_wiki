@@ -95,7 +95,7 @@ Depending on the database you want to use either add `DB="mysql"` for MySQL or `
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-        bundle install --without development,test
+        bundle install --without development test
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
@@ -222,7 +222,7 @@ If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
 or for PostgreSQL:
 
-        DB="postgresql" bundle install --without development,test
+        DB="postgresql" bundle install --without development test
 
 In order to apply any new schema always run
 
