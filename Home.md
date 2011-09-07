@@ -15,6 +15,7 @@ anywhere on the site.
 * Frequently Asked Questions 
    * [[General|Frequently Asked Questions]]
    * [[About aspects|Aspects FAQ]]
+   * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[What's new?|Changelog]]
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
