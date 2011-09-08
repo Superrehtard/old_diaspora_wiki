@@ -1,4 +1,4 @@
-A mailing list is basically a forum where you can use your email address to create and reply on topics. *Actually you just can use the Google Groups web-interface to use the mailing list, but this instructions are for those who don't have a Google account.*
+A mailing list is basically a forum where you can use your email address to create and reply on topics. ***Actually you just can use the Google Groups web-interface to use the mailing list, but this instructions are for those who don't have a Google account.***
 
 ## Subscribe (join) the mailing list
 You need to "subscribe" to a mailing list in order to be able to reply on topics. ***If you subscribe on a mailing list, you always get a mail when a new topic or reply on a topic was created***, so it'd be a good idea to set some filters or use a separate email address.
