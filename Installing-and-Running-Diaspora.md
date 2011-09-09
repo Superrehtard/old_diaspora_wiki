@@ -18,7 +18,7 @@ If you still want to run your own pod...we salute you. Read on.
 in [[IRC|How we use IRC]], on Freenode.**
 
 1. We are developing Diaspora for the latest and greatest browsers, so please update your 
-Firefox, Chrome or Safari to the newest version. We do not currently support any version of 
+Firefox, Opera, Chrome or Safari to the newest version. We do not currently support any version of 
 Internet Explorer, though support is planned in the future.
 
 2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">Thin</a> 
