@@ -15,9 +15,9 @@
 
 If you know Ruby on Rails or diaspora, add your name as a mentor
 
-### Interested Students
+### Interested Students (Batch 1 Registrations closed)
 If you are interested to participate, add your name and a way of contacting you.
-
+####Batch 1
    1. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
    2. Mayank Jain - firesofmay@gmail.com
    3. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]
@@ -30,6 +30,9 @@ If you are interested to participate, add your name and a way of contacting you.
    10. [[Anurag Daware|https://joindiaspora.com/u/anuragdaware]]
    11. Abhishek Bhattacharjee : abhishek_bhattacharjee11@yahoo.com
    12. [[Prathamesh Sonpatki|https://joindiaspora.com/u/prathamesh]]
+
+####Batch2
+
 
 ### Ideas
 - [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
