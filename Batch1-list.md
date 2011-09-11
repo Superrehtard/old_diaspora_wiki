@@ -4,3 +4,4 @@
 
 #### Attending
 1. [[Meha R Upadhyay |https://joindiaspora.com/public/meha_ru]]
+2. [[AbdulKarim Memon | https://joindiaspora.com/public/techmaniack ]]
