@@ -37,6 +37,9 @@ If you are interested to participate, add your name and a way of contacting you.
 ### Ideas
 - [[See a list of suggested ideas|Diaspune-Code-Mahotsav-Ideas]]
 
+### Meeting Planner
+- [[Batch1 List]]
+
 ### Promote
 - Short link for this page is http://is.gd/mahotsav
 - Share our poster (take a print out and post it on your college notice board or post it on your social profiles - diaspora, statusnet, twitter, google plus, facebook or your other favorite online hang out places)
