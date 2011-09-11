@@ -2,9 +2,5 @@
 
 ##16-09-2011##
 
-{| style="width: 75%; height: 200px" border="1"
-|- style="height: 100px;"
-| '''Name'''         || '''Phone Number''' 
-|-
-| Meha Raje Upadhyay || -
-|}
+#### Attending
+1. [[Meha R Upadhyay |https://joindiaspora.com/public/meha_ru]]
