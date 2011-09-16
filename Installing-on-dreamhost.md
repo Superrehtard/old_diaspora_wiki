@@ -2,6 +2,8 @@ Dreamhost runs Debian GNU/Linux lenny 5.0.8. You will need to create a new domai
 
 **Per Dreamhost policy you are not permitted to run persistent processes on shared hosting plans.  This has been verified with Dreamhost Support staff.  Persistent processes are only permitted on Dreamhost PS plans.**
 
+**Also are network daemons (redis-server) against the Terms of Service.** (DreamHost Policy Bot on 16/09/11)
+
 > "Firstly, we reserve the right to kill any user process on a shared server without warning or prior notification at our discretion."
 > We don't just do this capriciously though! We do this if the process is in any way adversely affecting the smooth functioning of your shared server. 
 
