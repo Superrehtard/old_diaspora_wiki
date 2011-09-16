@@ -15,21 +15,35 @@ Diaspora needs all sort of help, way more than just code!
 (if anyone wants to link to getting started on any of these things, that would be awesome)
 
 * Reporting Bugs
+
+Currently, there are two outlets for this: [GetSatisfaction](https://getsatisfaction.com/) and [GitHub Issues](https://github.com/diaspora/diaspora/issues).
+
+[GetSatisfaction](https://getsatisfaction.com/) should be used for user feedback, feature requests, ideas, and questions. 
+On the other hand, [GitHub Issues](https://github.com/diaspora/diaspora/issues) works better for bugs/issues/features involving source code/logs/UI elements. 
+
+With both of these tools, it's helpful to provide as much information as possible.
+
 * Starting Meetups
-* Making Fan Art
+
+We are an international movement. If you would like to participate or help organize one in your area join us at [Meetup](https://meetup.com/Diaspora)
+
+* Translating
+
+Diaspora is translated into over 45 languages. [Jonne Hass](https://github.com/MrZYX) has been championing managing all of them. For more info: [[How to contribute translations]]
+
 * Doing UI mockups
 * Spreading the Word
 * Participating in Weekly community meetings
 * Blogging about Diaspora
 * Writing copy
-* Doing translations
 * Writing documentaion
-* Writing How-to guides/videos
+* Making How-to guides/videos
 * Design/User Interface work
 * Donating
 * Running a pod
 * Helping others installing pods
 * Running Diaspora for your company or community
+* Making Fan Art
 
 These are just a few ideas, and we love people who want to donate their skills to make our community more amazing.
 
