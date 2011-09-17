@@ -70,7 +70,7 @@ anywhere on the site.
 These are all external links.
 
 * [Diaspora bug tracker](https://github.com/diaspora/diaspora/issues) - issue and bug tracking.
-* [Continuos Integration](http://travis-ci.org/diaspora/diaspora)
+* [Continuous Integration](http://travis-ci.org/diaspora/diaspora)
 * [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
 * [99translations.com](http://99translations.com/public_projects/show/181) - the service we use to help translate Diaspora
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
