@@ -14,9 +14,9 @@ Here are some examples of what the DIASPORA\* community is doing today.
 * Have a [meetup](http://www.meetup.com/diaspora/) about Diaspora
 
 
-* contribute [documentation](http://rubydoc.info/github/diaspora/diaspora/)
+* Contribute [documentation](http://rubydoc.info/github/diaspora/diaspora/)
 * Write [a paper](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol) on Diaspora's federation or authentication protocols
-* run your [own pod](https://diasp.org) for the community
+* Run your [own pod](https://diasp.org) for the community
 * Get your development environment set up
 * Add [posting to your favorite service](https://github.com/diaspora/diaspora/wiki/Adding-your-favorite-service-to-Diaspora) to Diaspora\*
 * Refactor and improve code
