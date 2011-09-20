@@ -18,7 +18,8 @@ Here are some examples of what the DIASPORA\* community is doing today.
 * Run your [own pod](https://diasp.org) for the community.
 * Get your [development environment](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora) set up.
 * Add [posting to your favorite service](https://github.com/diaspora/diaspora/wiki/Adding-your-favorite-service-to-Diaspora) to Diaspora\*
-* Refactor and improve code.
+* [Donating to the project](http://bit.ly/nSSfvr)
+* Whatever you can dream up.
 
 
 ## Any questions?
