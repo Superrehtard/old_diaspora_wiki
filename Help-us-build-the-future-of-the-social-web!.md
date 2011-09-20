@@ -1,18 +1,18 @@
-## DIASPORA\* It is easy to get involved!
 
-There are lots of ways you can get involved, and we need your help.  Here are some examples of what are community is doing today!
+There are lots of ways you can get involved with DIASPORA&, and we need your help.  
 
-* Answer a new user's question on the official help tags on your pod
+Here are some examples of what the DIASPORA* community is doing today.
+
+* Answer new users question on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/bugs)
 * Answer a question on [GetSatisfaction](https://getsatisfaction.com/) 
 * [Tweet about Diaspora](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY)
 * [Edit this wiki](https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web%21/_edit)
-* join the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots]() mailing list
-* write a blog post about Diaspora
-* come up with new feature requests
-* make some [fan art](https://joindiaspora.com/tags/diaspora)
-* contribute a [translation]() in your favorite language
+* Join the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots](https://mailman.stanford.edu/pipermail/diaspora-grassroots/) mailing list
+* Write a blog post about Diaspora
+* Make some [fan art](https://joindiaspora.com/tags/diaspora)
+* Contribute a [translation](https://github.com/diaspora/diaspora/wiki/How-to-contribute-translations) in your favorite language
 * [Make a tutorial](http://diasporial.com/)
 * Have a [meetup]() about Diaspora
 
