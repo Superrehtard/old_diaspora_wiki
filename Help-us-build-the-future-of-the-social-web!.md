@@ -10,16 +10,19 @@ There are lots of ways you can get involved, and we need your help.  Here are so
 * [Edit this wiki](https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web%21/_edit)
 * join the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots]() mailing list
 * write a blog post about Diaspora
-* make some [fan art](https://joindiaspora.com/tags/diaspora)
-* contribute a translation in your favorite language
-* [contribute documentation](http://rubydoc.info/github/diaspora/diaspora/)
-* add posting to your favorite service to Diaspora\*
-* Get your development environment set up
-* [Make a tutorial](http://diasporial.com/)
 * come up with new feature requests
+* make some [fan art](https://joindiaspora.com/tags/diaspora)
+* contribute a [translation]() in your favorite language
+* [Make a tutorial](http://diasporial.com/)
+* Have a [meetup]() about Diaspora
+
+
+* contribute [documentation](http://rubydoc.info/github/diaspora/diaspora/)
 * Write [a paper]() on Diaspora's federation or authentication protocols
-* Refactor and improve code
 * run your [own pod](https://diasp.org) for the community
+* Get your development environment set up
+* add posting to your favorite service to Diaspora\*
+* Refactor and improve code
 
 
 ## Any questions?
