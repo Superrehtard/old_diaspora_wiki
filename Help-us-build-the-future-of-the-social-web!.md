@@ -1,29 +1,25 @@
 ## DIASPORA\* It is easy to get involved!
 
-There are lots of ways you can get involved, and we need your help.  Pick one way below, and jump in!
+There are lots of ways you can get involved, and we need your help.  Here are some examples of what are community is doing today!
 
 * Answer a new user's question on the official help tags on your pod
-  (examples: #help, #feature, #question)
+  (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/bugs)
 * Answer a question on [GetSatisfaction](https://getsatisfaction.com/) 
 * [Tweet about Diaspora](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY)
-* [Edit this wiki]()
+* [Edit this wiki](https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web%21/_edit)
 * join the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots]() mailing list
 * write a blog post about Diaspora
-* make some fan art(htt
+* make some [fan art](https://joindiaspora.com/tags/diaspora)
 * contribute a translation in your favorite language
-* document some code to get a better idea of how the code works
+* [contribute documentation](http://rubydoc.info/github/diaspora/diaspora/)
 * add posting to your favorite service to Diaspora\*
-* get your development environment set up
-* make a tutorial(written or video)
+* Get your development environment set up
+* [Make a tutorial](http://diasporial.com/)
 * come up with new feature requests
-* Write a paper on Diaspora's federation or authentication protocols
+* Write [a paper]() on Diaspora's federation or authentication protocols
 * Refactor and improve code
-* write a new JS widget framework
-* add likes 
-* add (video)chat
-* run your own pod for the community
-* give talks about Diaspora
+* run your [own pod](https://diasp.org) for the community
 
 
 ## Any questions?
