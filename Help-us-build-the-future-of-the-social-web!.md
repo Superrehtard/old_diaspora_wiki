@@ -1,9 +1,8 @@
-
 There are lots of ways you can get involved with DIASPORA&, and we need your help.  
 
 Here are some examples of what the DIASPORA* community is doing today.
 
-* Answer new users question on the official help tags on your pod
+* Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/bugs)
 * Answer a question on [GetSatisfaction](https://getsatisfaction.com/) 
@@ -14,11 +13,11 @@ Here are some examples of what the DIASPORA* community is doing today.
 * Make some [fan art](https://joindiaspora.com/tags/diaspora)
 * Contribute a [translation](https://github.com/diaspora/diaspora/wiki/How-to-contribute-translations) in your favorite language
 * [Make a tutorial](http://diasporial.com/)
-* Have a [meetup]() about Diaspora
+* Have a [meetup](http://www.meetup.com/diaspora/) about Diaspora
 
 
 * contribute [documentation](http://rubydoc.info/github/diaspora/diaspora/)
-* Write [a paper]() on Diaspora's federation or authentication protocols
+* Write [a paper](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol) on Diaspora's federation or authentication protocols
 * run your [own pod](https://diasp.org) for the community
 * Get your development environment set up
 * add posting to your favorite service to Diaspora\*
