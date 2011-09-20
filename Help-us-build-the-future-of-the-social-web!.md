@@ -1,6 +1,6 @@
-There are lots of ways you can get involved with DIASPORA&, and we need your help.  
+There are lots of ways you can get involved with DIASPORA\*, and we need your help.  
 
-Here are some examples of what the DIASPORA* community is doing today.
+Here are some examples of what the DIASPORA\* community is doing today.
 
 * Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
