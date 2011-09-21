@@ -61,16 +61,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (Ubuntu)
     * Comments: Public pod in the cloud! 
 
-* [[http://diaseeds.com]] [[http://diaseeds.com:3000/apple-touch-icon.png|height=30px|]]
-    * Opened: 17/09/2010
-    * Updated: With all of the latest updates
-    * Maintainer 
-        * IRC/Freenode: Mediashell
-        * andrew@mediashell.com
-        * [[http://twitter.com/mediashell]]
-    * Operating system: Linux (CentOS)
-    * Comments: Largest Free Diaspora seeds server; Dive in!
-
 * [[http://diaspa.co.uk]] [[http://diaspa.co.uk/apple-touch-icon.png|height=30px|]]
     * Opened: 01/04/2011
     * Updated: daily
