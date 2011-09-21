@@ -2,13 +2,12 @@ Whether you are a coder, designer, or just a regular user, there are lots of way
 DIASPORA*. We need your help – please pick a role you like from the list below, and jump in!
 
 * Tell people about Diaspora! We need your [tweets](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY), blog posts, or [fan art](https://joindiaspora.com/tags/diaspora).
+* Volunteer to make people welcome! [Sign up here]()
 * Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/bugs), or answer a question on [GetSatisfaction](https://getsatisfaction.com/).
-* [Edit this wiki](https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web%21/_edit)
 * Dive in deeper on the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots](https://mailman.stanford.edu/pipermail/diaspora-grassroots/) mailing lists.
 * [Make a tutorial](http://diasporial.com/) showing off your favorite Diaspora features.
-* Add [posting to your favorite service](https://github.com/diaspora/diaspora/wiki/Adding-your-favorite-service-to-Diaspora) to Diaspora\*
 * Run your [own pod](https://diasp.org) for yourself, your friends and family, or the community.
 * [Translate](https://github.com/diaspora/diaspora/wiki/How-to-contribute-translations) Diaspora* in your favorite language.
 * Have a [meetup](http://www.meetup.com/diaspora/) about Diaspora
