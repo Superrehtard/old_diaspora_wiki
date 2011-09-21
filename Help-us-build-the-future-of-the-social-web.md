@@ -2,7 +2,7 @@ Whether you are a coder, designer, or just a regular user, there are lots of way
 DIASPORA*. We need your help – please pick a role you like from the list below, and jump in!
 
 * Tell people about Diaspora! We need your [tweets](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY), blog posts, or [fan art](https://joindiaspora.com/tags/diaspora).
-* Volunteer to make people welcome! [Sign up here]()
+* Volunteer to make people welcome! [Sign up here](http://bit.ly/rny6Zp)
 * Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/issues), or answer a question on [GetSatisfaction](https://getsatisfaction.com/).
@@ -14,7 +14,7 @@ DIASPORA*. We need your help – please pick a role you like from the list below
 * Contribute [documentation](http://rubydoc.info/github/diaspora/diaspora/).
 * Write [a paper](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol) on Diaspora's federation or authentication protocols.
 * Get your [development environment](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora) set up.
-* [Donating to the project](http://bit.ly/nSSfvr)
+* [Donate to the project](http://bit.ly/nSSfvr)
 * Whatever you can dream up.
 
 
