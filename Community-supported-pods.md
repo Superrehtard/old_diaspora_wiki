@@ -20,21 +20,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 ## Diaspora pods
 
-* [[http://alt.md/]] [[http://alt.md/apple-touch-icon.png|height=30px]]
-   * Opened: 21/09/2010
-   * Updated: Multiple times per day
-   * Maintainer
-       * DIASPORA: plex@alt.md
-   * Operating system: Ubuntu
-
-* [[http://denizencity.com]]  [[http://denizencity.com/apple-touch-icon.png|height=30px]]
-    * Opened: 16/09/2010
-    * Updated: Every 2 hours, but service restarted roughly daily
-    * Maintained by: private individual
-        * [[http://github.com/freedenizen]]
-    * Operating system: Gentoo
-    * Comments: Development, should be up 90% of the time, database may be reset if needed.  Add me freedenizen at denizencity dot com
-
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: Multiple times per day
@@ -50,25 +35,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
        * Hao (David) Zhang: contact@dhz.me
    * Operating system: CentOS
    * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
-
-* [[https://diafor.me]] [[https://diafor.me/apple-touch-icon.png|height=30px|]]
-    * Opened: 02/05/2011
-    * Updated: Almost daily
-    * Maintainer 
-        * IRC/Freenode: carmelosantana
-        * Diaspora: carm@diafor.me
-        * [[http://twitter.com/carmelosantana]]
-    * Operating system: Linux (Ubuntu)
-    * Comments: Public pod in the cloud! 
-
-* [[http://diaspa.co.uk]] [[http://diaspa.co.uk/apple-touch-icon.png|height=30px|]]
-    * Opened: 01/04/2011
-    * Updated: daily
-    * Maintained by : Neil Perry ([[http://www.nperry.eu]])
-        * [[http://twitter.com/NPerry]]
-        * diaspora : nperry@diaspa.co.uk
-    * Operating system: Linux (Ubuntu)
-    * Comments: Public and free Diaspora pod for everyone
 
 * [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
     * Opened: 10/12/2010
