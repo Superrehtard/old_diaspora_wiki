@@ -149,7 +149,7 @@ For a more advanced configuration have a look at this Gist: https://gist.github.
 
 #### Nginx
 
-Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/common/templates/default/nginx.conf.erb">configuration</a>
+Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a>
 
 ### Load-balancing with a Thin cluster and Nginx
 
