@@ -38,16 +38,9 @@ To install Git, run the following:
 
 ### Redis
 
-To install Redis, follow the instructions at http://redis.io/download to determine the right version, and then run the following:
+To install Redis, run the following:
 
-        wget http://redis.googlecode.com/files/redis-2.2.14.tar.gz
-        tar xzf redis-2.2.14.tar.gz
-        cd redis-2.2.14
-        make
-
-Note: You may need to install 'wget' first by running the following:
-
-        su -c 'yum install wget'
+        su -c 'yum install redis'
 
 ### RubyGems
 
