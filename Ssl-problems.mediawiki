@@ -1,0 +1,16 @@
+'''work in progress'''
+
+SSL setup can be tricky
+
+* verifiable crt
+* application.yml contains most of the setup
+** pod_url should contain https:// and proper addr
+** set up proper proxying in webserver
+** ca_file should be able to verify your cert
+*** openssl verify -CApath /dev/null -CAfile ca-certificates.crt  yourpod.crt 
+** if you use socket_secure then socket_cert_chain_location should verify your cert and contain the cert
+
+== Webfinger ==
+Your <code>public/webfinger</code> directory should be empty
+check your webfinger by retrieving PODURL/.well-known/host-meta it should point to proper https://PODURL
+check hcard in the response file, it should point to https://PODURL
