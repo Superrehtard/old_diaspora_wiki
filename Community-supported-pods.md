@@ -467,3 +467,12 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * IPv6 support
     * Operating system: ArchLinux
     * Comments: Feel free to ask for an invitiation!
+
+* [[https://spora.com.ua]]
+    * Opened: 09/09/2011
+    * Updated: regulary
+    * Maintained by: private individual
+    * HTTPS (only)
+    * IPv6 support
+    * Operating system: FreeBSD
+    * Comments: Public and free Diaspora pod. Facebook support.
