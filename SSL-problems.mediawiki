@@ -5,7 +5,7 @@ SSL setup can be tricky
 * ssl setup requires a globally verifiable crt, self signed won't do
 * application.yml contains most of the setup
 ** pod_url should contain https:// and proper PODURL address
-** set up proper proxying in webserver (forward tcp/80 to localhost:3000)
+** set up proper proxying in webserver (forward tcp/443 to localhost:3000)
 ** ca_file should be able to verify your cert:
 *** <code>openssl verify -CApath /dev/null -CAfile ca-certificates.crt  yourpod.crt </code>  - should give you OK
 ** if you use socket_secure then socket_cert_chain_location should verify your cert and contain the cert for your key 
