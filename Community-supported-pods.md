@@ -160,7 +160,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu Maverick
     * Comments: Public and Free
 
-* [[http://diaspora.leafnetwork.it/]] [[http://diaspora.leafnetwork.it/favicon.png|height=30px|]]
+* [[http://diaspora.leafnetwork.it/]] [[http://diaspora.leafnetwork.it/favicon.png|height=16px|]]
     * Opened: 01/09/2011
     * Updated: Once a week
     * Maintained by a private person
