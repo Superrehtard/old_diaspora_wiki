@@ -160,6 +160,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu Maverick
     * Comments: Public and Free
 
+* [[http://diaspora.leafnetwork.it/]] [[http://diaspora.leafnetwork.it/favicon.png|height=30px|]]
+    * Opened: 01/09/2011
+    * Updated: Once a week
+    * Maintained by a private person
+        * [[http://www.leafnetwork.it]]
+    * Operating system: Ubuntu
+    * Comments: Italian Pod. Public and Free
+
 * [[http://diaspora.now.im]] [[http://diaspora.now.im/apple-touch-icon.png|height=30px|]]
     * Opened: 17.09.2010
     * Updated: ~daily
