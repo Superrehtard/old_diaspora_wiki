@@ -166,7 +166,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Maintained by a private person
         * [[http://www.leafnetwork.it]]
     * Operating system: Ubuntu
-    * Comments: Italian Pod. Public and Free
+    * Comments: Italian Pod, public and free
 
 * [[http://diaspora.now.im]] [[http://diaspora.now.im/apple-touch-icon.png|height=30px|]]
     * Opened: 17.09.2010
