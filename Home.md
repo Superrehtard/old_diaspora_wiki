@@ -60,7 +60,6 @@ anywhere on the site.
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
-* [[joindiaspora.com Production Setup|How we do it]]
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
@@ -76,5 +75,4 @@ These are all external links.
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics [[(Mailing Lists?)|https://github.com/diaspora/diaspora/wiki/How to use the Mailing Lists (Quick Intro)]]
   * [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
-* [Questions & answers](http://diaspora.shapado.com/) - The StackOverflow clone for Diaspora
 
