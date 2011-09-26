@@ -25,7 +25,7 @@ This is absolutly needed unless you want to use a different appserver like mod_p
 ### Run the websocket server
 
 Run `bundle exec ruby script/websocket_server.rb` to start websockets on port 8080. Change port in config/application.yml.
-The websocket server is not essential and only provides the live updates to the webfrontend. It has nothing to do with federation.
+The websocket server is not essential and only provides the [[WebSockets|live updates to the webfrontend]]. It has nothing to do with federation.
 
 ### Run the resque worker
 
