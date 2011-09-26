@@ -153,7 +153,8 @@ For a more advanced configuration have a look at this Gist: https://gist.github.
 
 Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a>
 
-As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
+### Configuring SSL
+As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl.com" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
 
 Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
 
