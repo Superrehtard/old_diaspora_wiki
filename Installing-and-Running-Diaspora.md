@@ -28,6 +28,8 @@ server (Apache, Unicorn...), but the core team may not have the expertise to hel
 There are folks in the community who do run Diaspora this way though, so ask around in the IRC and 
 on the mailing list.
 
+3. Diaspora mandates HTTPS, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
+
 ## Preparing your system
 
 In order to run Diaspora, you will need to install the following dependencies (specific instructions
@@ -150,6 +152,10 @@ For a more advanced configuration have a look at this Gist: https://gist.github.
 #### Nginx
 
 Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a>
+
+As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
+
+Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
 
 ### Load-balancing with a Thin cluster and Nginx
 
