@@ -28,7 +28,7 @@ server (Apache, Unicorn...), but the core team may not have the expertise to hel
 There are folks in the community who do run Diaspora this way though, so ask around in the IRC and 
 on the mailing list.
 
-3. Diaspora mandates HTTPS, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
+3. **Diaspora mandates HTTPS**, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
 
 ## Preparing your system
 
