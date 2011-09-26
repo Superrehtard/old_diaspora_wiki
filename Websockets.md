@@ -18,6 +18,6 @@ But this isn't enough. You have to use a modified `crossdomain.xml` as well:
             &lt;allow-access-from domain='*' to-ports='*' />
         &lt;/cross-domain-policy>
 </pre>
-(Obviosuly you should modofy it to be more secure, but you can start with the free-for-all version here.)
+(Obviously you should modify it to be more secure, but you can start with the free-for-all version here.)
 
 You can switch on socket debugging on console with ` socket_debug : true` in `application.yml`.
