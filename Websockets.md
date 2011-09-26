@@ -16,7 +16,7 @@ But this isn't enough. You have to use a modified `crossdomain.xml` as well:
 <pre>
         &lt;cross-domain-policy>
             &lt;allow-access-from domain='*' to-ports='*' />
-        &lt/cross-domain-policy>
+        &lt;/cross-domain-policy>
 </pre>
 (Obviosuly you should modofy it to be more secure, but you can start with the free-for-all version here.)
 
