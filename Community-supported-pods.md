@@ -20,6 +20,15 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 ## Diaspora pods
 
+* [[http://despora.at/]] [[http://despora.at/apple-touch-icon.png|height=30px]]
+   * Opened: 27/09/2011
+   * Updated: 5 times a day
+   * Maintained by: Noobie Network [[http://www.noobie.at/]]
+       * Contact: webmaster@noobie.at
+   * Operating system: Debian 6
+   * Comments: Pod for Austria, Germany and Swizerland open for public Users. Over 99.9% uptime
+
+
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: Multiple times per day
