@@ -147,8 +147,8 @@ Open the Gemfile.lock file.
 
 The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  From the command line, type:  
 
-cd "C:\Progra~1\Diaspora"  
-    C:\Progra~1\RubyDevKit\devkitvars.bat
+    cd "C:\Progra~1\Diaspora"  
+    C:\Progra~1\RubyDevKit\devkitvars.bat  
     bundle install --path vendor
 
 You will see an error message while compiling the Typhoeus gem.  In the example below Typhoeus 0.2.4 depends on curl 7.19.4.
