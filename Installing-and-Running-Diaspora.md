@@ -202,6 +202,7 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 Just run `./script/server`. This will start Thin, Redis, a Resque worker and the Websocket server. The application is then available at http://your_pod:3000. You can change port by editing thin_port in config/script_server.yml or setup a reverse proxy (see above) if you want to run Diaspora for example at a subdomain or use HTTPS more easily.
 
 Note: When `./script/server` starts redis, it reads the `config/redis.yml` file. Make sure that you have write permissons to the log file, which is specified on the line starting with the word `logfile` in `config/redis.conf`.
+On some system, you may have to create the full path to the logfile (example, in Ubuntu, the log file is written in : /var/log/diaspora/redis.log. But the /var/log/diaspora folder doesn't exist, you need to create it, and give the access rights so redis can write in it)
 
 
 If you want to run an app server other than Thin or have more control over it, you must run the appserver, Redis, a Resque worker, and the Websocket server separately.
