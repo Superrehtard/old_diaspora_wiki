@@ -444,22 +444,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Debian Linux 
     * Comments: public registration open, Twitter and Facebook support, HTTPS available
 
-
-* [[http://yaspora.com]] [[http://yaspora.com/apple-touch-icon.png|height=30px]]
-    * Opened: 18/12/2010
-    * Updated: major changes
-    * Maintained by: private individual 
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod.
-
-
-* [[http://yaspora.es]] [[http://yaspora.es/apple-touch-icon.png|height=30px]]
-    * Opened: 19/06/2011
-    * Updated: major changes
-    * Maintained by: private individual 
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod.
-
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
     * Opened: 29/07/2011
     * Updated: regulary
@@ -484,3 +468,10 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * IPv6 support
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
+
+* [[https://yaspora.com]] [[https://yaspora.com/apple-touch-icon.png|height=30px]]
+    * Opened: 18/12/2010
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod.
