@@ -10,6 +10,8 @@ SSL setup can be tricky
 *** <code>openssl verify -CApath /dev/null -CAfile ca-certificates.crt  yourpod.crt </code>  - should give you OK
 ** if you use socket_secure then socket_cert_chain_location should verify your cert and contain the cert for your key 
 
+If you change your pod from http: to https: you have to fix every entry in your configs **and** your database.
+
 == Webfinger ==
 Your <code>public/webfinger</code> directory should be empty. The files are generated on the fly if there is no matching file there, and if there is, the files will be used instead.
 
