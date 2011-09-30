@@ -46,8 +46,8 @@ PassengerMaxPoolSize 10
 # Create vhost
 Once you've installed and loaded Passenger, you just need to setup a vhost like any other website.
 
-<pre>
-<VirtualHost *:80>
+
+    <VirtualHost *:80>
         ServerAdmin     clay@bychosen.com
         ServerName      diaspor.us
         ServerAlias     www.diaspor.us
@@ -57,7 +57,7 @@ Once you've installed and loaded Passenger, you just need to setup a vhost like 
             AllowOverride all
             Options -MultiViews
           </Directory>
-</VirtualHost>
+    </VirtualHost>
 </pre>
 
 # Stop thin, restart apache
