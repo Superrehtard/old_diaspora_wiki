@@ -32,7 +32,7 @@ Install any updates to gems:
 
 IRC is the best way to get an answer quickly. Click the link to the join the channel in a new 
 browser window. You can also download and use an IRC client such as 
-<a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X or 
+<a href="http://colloquy.info/" target="_blank">Colloquy</a> for OS X, [XChat](http://xchat.org/) for GNU/Linux or 
 <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
 
 * <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - general discussion and help for folks installing Diaspora
