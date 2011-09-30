@@ -1,6 +1,6 @@
 ***Are there any public demo servers of Diaspora online that I can try?***  
 
-Yes. For a list of unofficial, community-driven servers, see [[Community supported pods]].
+Yes. For a list of unofficial, community-driven servers, see [podupti.me](http://podupti.me/) and [[Community supported pods]].
 
 ***What is a pod?***  
 
