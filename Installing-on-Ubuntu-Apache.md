@@ -35,15 +35,18 @@ The installer will walk you through any dependencies you need ahead of time and 
 # Load module in Apache Config
 *My default apache config file is /etc/apache2/apache2.conf and I just appended the module settings to the end of the file:*
 
+<pre>
 LoadModule passenger_module /somewhere/passenger-x.x.x/ext/apache2/mod_passenger.so
 
 PassengerRuby /usr/bin/ruby
 PassengerRoot /somewhere/passenger/x.x.x
 PassengerMaxPoolSize 10
+</pre>
 
 # Create vhost
 Once you've installed and loaded Passenger, you just need to setup a vhost like any other website.
 
+<pre>
 <VirtualHost *:80>
         ServerAdmin     clay@bychosen.com
         ServerName      diaspor.us
@@ -55,6 +58,7 @@ Once you've installed and loaded Passenger, you just need to setup a vhost like 
             Options -MultiViews
           </Directory>
 </VirtualHost>
+</pre>
 
 # Stop thin, restart apache
 Then stop the thin server (have to cd to your diaspora directory and execute) and restart Apache:
