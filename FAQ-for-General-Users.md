@@ -30,4 +30,4 @@ Get community-powered answers and support on [GetSatisfaction](http://getsatisfa
 
 You can also try the tutorials on [Diasporial](http://diasporial.com/tutorials).
 
-Or you can put your question in a public post using the #question hashtag.
+Or you can ask your question in a public post on Diaspora using the #question hashtag.
