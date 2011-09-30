@@ -13,8 +13,10 @@ anywhere on the site.
 * [[We need help!|Become-a-Contributor]]
 * [[Report a bug|Report a Bug]]
 * Frequently Asked Questions 
-   * [[General|Frequently Asked Questions]]
+   * [[FAQ for General Users]]
    * [[About aspects|Aspects FAQ]]
+   * [[FAQ for Installing and Running Diaspora]]
+   * [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[What's new?|Changelog]]
 * [[Project roadmap|Roadmap]]
