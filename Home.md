@@ -10,14 +10,14 @@ anywhere on the site.
 
 ## General Resources
 * [[So, you want an invite?|Invitations]]
-* [[We need help!|Become-a-Contributor]]
-* [[Report a bug|Report a Bug]]
 * Frequently Asked Questions 
-   * [[FAQ for General Users]]
+   * [[FAQ for Users]]
    * [[About aspects|Aspects FAQ]]
    * [[FAQ for Installing and Running Diaspora]]
    * [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
+* [[We need help!|Become-a-Contributor]]
+* [[Report a bug|Report a Bug]]
 * [[What's new?|Changelog]]
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
