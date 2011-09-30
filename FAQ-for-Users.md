@@ -28,6 +28,10 @@ containing all your information.
 
 See our separate [[aspects FAQ|Aspects FAQ]].
 
+***Does posting to the "public" include deselected aspects (meaning selecting "public" equals "share with all")?***
+
+Yes, but the post will only appear in the stream for the selected aspects, even if everyone (the public) will be able to see it on your profile.
+
 ***How can I format the text in my posts (Bold, Italics, etc.)?***
 
 By using [Markdown](http://diasporial.com/tutorials/formatting-text).
