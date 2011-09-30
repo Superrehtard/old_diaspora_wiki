@@ -1,3 +1,7 @@
+If you have questions that aren't covered here you can get community powered support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  Or try the tutorials on [Diasporial](http://diasporial.com/tutorials).  Or ask your question in a public post on Diaspora using the #question hashtag.
+
+## User FAQ
+
 ***Are there any public demo servers of Diaspora online that I can try?***  
 
 Yes. For a list of unofficial, community-driven servers, see [podupti.me](http://podupti.me/) and [[Community supported pods]].
@@ -28,6 +32,6 @@ See our separate [[aspects FAQ|Aspects FAQ]].
 
 Get community-powered answers and support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  
 
-You can also try the tutorials on [Diasporial](http://diasporial.com/tutorials).
+Try the tutorials on [Diasporial](http://diasporial.com/tutorials).
 
-Or you can ask your question in a public post on Diaspora using the #question hashtag.
+Or ask your question in a public post on Diaspora using the #question hashtag.
