@@ -5,34 +5,6 @@ You might think, "IRC? For real? Is this 1994 again?"
 Yes. I mean, **no**! Just think of IRC as the open-source equivalent of a Campfire room. **Links
 to IRC channels and mailing lists are at the bottom of this page.**
 
-## User FAQ
-
-***Are there any public demo servers of Diaspora online that I can try?***  
-
-Yes. For a list of unofficial, community-driven servers, see [[Community supported pods]].
-
-***What is a pod?***  
-
-A pod is a server where Diaspora is running. There are lots of different pods. You can add friends from other pods and communicate with them. (You can think of a Diaspora pod as similar to an email provider: there are public pods, private pods, and with some effort you can even run your own.)
-
-"Pod" is a metaphor referring to pods on plants which contain seeds.
-
-***What is a seed?***  
-
-A seed is a profile or an account, and contains all the data of a specific user. 
-Your seed interacts with the seeds of your friends to keep each other up to date. 
-You can see it as a package of personal data...which is all yours! 
-
-Seeds are hosted on servers running the Diaspora software, which are called 'pods'. 
-In the future you will be able to move your seed between pods. For now, you can export a file
-containing all your information.
-
-"Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
-
-***What is an aspect?***
-
-See our separate [[aspects FAQ|Aspects FAQ]].
-
 ## Installation FAQ
 
 ***Do you have a detailed install guide?***
@@ -118,26 +90,7 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 
 If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
-## Developer FAQ
 
-***How do I get debug information?***  
-You can use the command  
-    tail -f log/development.log
-to watch the log in development mode.
-
-***How do I get the latest source?***
-
-Pull the latest from github:
-    git pull
-Install any updates to gems:
-    bundle install
-    
-***How do I reset the database to a totally clean state?***
-
-    rake db:drop
-    rake db:create
-    rake db:migrate
-    
 ## What if my question isn't answered here?
 
 ### IRC Channels
