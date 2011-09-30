@@ -28,6 +28,10 @@ containing all your information.
 
 See our separate [[aspects FAQ|Aspects FAQ]].
 
+***How can I format the text in my posts (Bold, Italics, etc.)?***
+
+By using [Markdown](http://diasporial.com/tutorials/formatting-text).
+
 ## What if my question isn't answered here?
 
 Get community-powered answers and support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  
