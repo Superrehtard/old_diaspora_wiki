@@ -32,6 +32,10 @@ See our separate [[aspects FAQ|Aspects FAQ]].
 
 By using [Markdown](http://diasporial.com/tutorials/formatting-text).
 
+***Are there photo albums to collect and organize all photos (or videos) posted by a user?***
+
+No, not currently (but see [cubbi.es](http://cubbi.es/)).
+
 ## What if my question isn't answered here?
 
 Get community-powered answers and support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  
