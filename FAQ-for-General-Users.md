@@ -23,3 +23,11 @@ containing all your information.
 ***What is an aspect?***
 
 See our separate [[aspects FAQ|Aspects FAQ]].
+
+## What if my question isn't answered here?
+
+Get community-powered answers and support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  
+
+You can also try the tutorials on [Diasporial](http://diasporial.com/tutorials).
+
+Or you can put your question in a public post using the #question hashtag.
