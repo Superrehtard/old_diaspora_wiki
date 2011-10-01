@@ -11,10 +11,8 @@ anywhere on the site.
 ## General Resources
 * [[So, you want an invite?|Invitations]]
 * Frequently Asked Questions 
-   * [[FAQ for Users]]
+   * [[FAQ for Users]] - (see also: [[FAQ for Pod Maintainers]], [[FAQ for Developers]])
    * [[About aspects|Aspects FAQ]]
-   * [[FAQ for Pod Maintainers]]
-   * [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[We need help!|Become-a-Contributor]]
 * [[Report a bug|Report a Bug]]
