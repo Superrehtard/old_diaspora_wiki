@@ -42,6 +42,10 @@ To install Redis, run the following:
 
         su -c 'yum install redis'
 
+To start Redis run
+
+        su -c 'service redis start'
+
 ### RubyGems
 
 To install RubyGems, run the following:
