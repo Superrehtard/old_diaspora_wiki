@@ -13,7 +13,7 @@ anywhere on the site.
 * Frequently Asked Questions 
    * [[FAQ for Users]]
    * [[About aspects|Aspects FAQ]]
-   * [[FAQ for Installing and Running Diaspora]]
+   * [[FAQ for Pod Maintainers]]
    * [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[We need help!|Become-a-Contributor]]
@@ -29,6 +29,7 @@ anywhere on the site.
 
 ## Developer Resources
 * [[Installing and Running Diaspora]] &lt;--- click here!
+* [[FAQ for Developers]]
 * [[Contributor License Agreement|New-CLA--12-13-10]] - [[Sign Here!|https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ]]
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
@@ -58,6 +59,7 @@ anywhere on the site.
 
 ## Pod Maintainer Resources
 * [[Installing and Running Diaspora]] <--- click here!
+* [[FAQ for Pod Maintainers]]
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
