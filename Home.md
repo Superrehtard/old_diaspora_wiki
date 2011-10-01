@@ -71,6 +71,9 @@ anywhere on the site.
 
 For the grassroots organizing community -- see the [diaspora-grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots).
 
+* [[Support Hashtags]] - #question, #bug, #feature
+
+
 ## Other Resources
 These are all external links.
 
