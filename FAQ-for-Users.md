@@ -5,7 +5,7 @@ If you have questions that are not answered here you can get community powered s
 ***What is a pod?***  
 A pod is a server where Diaspora is running. There are lots of different pods. You can add friends from other pods and communicate with them. (You can think of a Diaspora pod as similar to an email provider: there are public pods, private pods, and with some effort you can even run your own.) "Pod" is a metaphor referring to pods on plants which contain seeds.
 
-***Is there a directory of public pods (servers) that I can join?***  
+***Is there a directory that lists public pods (servers) that I can join?***  
 Yes. For a list of unofficial, community-driven pods/servers, see [podupti.me](http://podupti.me/) and [[Community supported pods]].
 
 ***What is a seed?***  
