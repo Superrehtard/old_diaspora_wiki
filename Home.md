@@ -67,6 +67,10 @@ anywhere on the site.
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
   * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
 
+## Grassroots Community Resources
+
+For the grassroots organizing community -- see the [diaspora-grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots).
+
 ## Other Resources
 These are all external links.
 
