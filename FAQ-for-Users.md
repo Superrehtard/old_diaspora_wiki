@@ -31,14 +31,8 @@ Both logged-in Diaspora users and the internets at large can see a post you mark
 ***How can other people find my public post?***  
 Public posts are visible to anyone on your pod's tag pages and your profile page. Every public post also has a special public URL that anyone can view, even if they're not logged in - thus public posts may be linked to directly from twitter, hn, etc. Public posts may also be indexed by search engines.
 
-***Who can comment on my public post?***  
-Any logged-in Diaspora user can comment on your public post.
-
-***Who can reshare my public post?***  
-Any logged-in Diaspora user can reshare your public post.
-
-***Who can like my public post?***  
-Any logged-in Diaspora user can like your public post.
+***Who can comment on, reshare, or like my public post?***  
+Any logged-in Diaspora user can comment on, reshare, or like your public post.
 
 ***Does posting to "public" include contacts in any deselected aspects?***  
 Yes, but the post will only appear in the stream for the selected aspects, even if everyone (the public) will be able to see it on your profile.
@@ -48,14 +42,11 @@ Yes, but the post will only appear in the stream for the selected aspects, even 
 ***When I post a message to an aspect (i.e., a private post), who can see it?***  
 Only logged-in Diaspora users you have placed in that aspect can see your private post.
 
-***Who can comment on my private post?***  
-Only logged-in Diaspora users you have placed in that aspect can comment on your private post.
+***Who can comment on or like my private post?***  
+Only logged-in Diaspora users you have placed in that aspect can comment on or like your private post.
 
 ***Who can reshare my private post?***  
 Nobody. Private posts are not resharable. Logged-in Diaspora users in that aspect can always copy & paste it, though...
-
-***Who can like my private post?***  
-Only logged-in Diaspora users you have placed in that aspect can like your private post.
 
 ###PUBLIC PROFILES
 
