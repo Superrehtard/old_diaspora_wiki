@@ -20,6 +20,9 @@ No, not currently (but see [cubbi.es](http://cubbi.es/)).
 ***How can I format the text in my posts (Bold, Italics, etc.)?***  
 By using [Markdown](http://diasporial.com/tutorials/formatting-text).
 
+***Just joined a pod and looking for people to share with?***  
+Invite your friends. Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with). 
+
 ###PUBLIC POSTS
 
 ***When I post something publicly, who can see it?***  
