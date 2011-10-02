@@ -15,7 +15,7 @@ anywhere on the site.
    * [[About aspects|Aspects FAQ]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[We need help!|Become-a-Contributor]]
-* [[Report a bug|Report a Bug]]
+* [[Report a bug or suggest a feature|Report a Bug]]
 * [[What's new?|Changelog]]
 * [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
