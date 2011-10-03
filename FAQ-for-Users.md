@@ -23,6 +23,10 @@ By using [Markdown](http://diasporial.com/tutorials/formatting-text).
 ***I just joined a pod, how can I find people to share with?***  
 Invite your friends.  Follow hashtags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with). 
 
+
+***How do I move an account from one Pod to another?*** 
+In the future you will be able to export your profile from a pod and import it on another, but now it is not yet possible. You can just open a new account and ask your old contacts to search it and add you again.
+
 ###PUBLIC POSTS
 
 ***When I post something publicly, who can see it?***  
