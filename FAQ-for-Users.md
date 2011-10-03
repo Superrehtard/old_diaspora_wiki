@@ -25,6 +25,7 @@ Invite your friends.  Follow hashtags to discover others who share your interest
 
 
 ***How do I move an account from one Pod to another?*** 
+
 In the future you will be able to export your profile from a pod and import it on another, but now it is not yet possible. You can just open a new account and ask your old contacts to search it and add you again.
 
 ###PUBLIC POSTS
