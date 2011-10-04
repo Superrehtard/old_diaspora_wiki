@@ -12,13 +12,13 @@ Yes. For a list of unofficial, community-driven pods/servers, see [podupti.me](h
 A seed is a profile or an account, and contains all the data of a specific user.  Your seed interacts with the seeds of your friends to keep each other up to date.  You can see it as a package of personal data...which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the future you will be able to move your seed between pods. For now, you can export a file containing all your information.  "Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
 
 ***What is an aspect?***  
-See our separate [[aspects FAQ|Aspects FAQ]].
+An aspect is how you group your contacts on Diaspora.  See our separate [[Aspects FAQ|Aspects FAQ]].
 
 ***Are there photo or video albums?***  
 No, not currently (but see [cubbi.es](http://cubbi.es/)).
 
-***How can I format the text in my posts (Bold, Italics, etc.)?***  
-By using [Markdown](http://diasporial.com/tutorials/formatting-text).
+***How can I format the text in my posts (bold, italics, etc.)?***  
+By using [Markdown](http://diasporial.com/tutorials/formatting-text).  [Give it a try](http://daringfireball.net/projects/markdown/dingus), or check out the full-blown [Markdown syntax](http://daringfireball.net/projects/markdown/syntax).
 
 ***I just joined a pod, how can I find people to share with?***  
 Invite your friends.  Follow hashtags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with). 
