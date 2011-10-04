@@ -43,9 +43,6 @@ Public posts are visible to anyone on your pod's tag pages and your profile page
 ***Who can comment on, reshare, or like my public post?***  
 Any logged-in Diaspora user can comment on, reshare, or like your public post.
 
-***What happens if I deselect one or more aspects when making a public post?***  
-For the contacts in those deselected aspects, the post will _not_ appear in their stream, but they and everyone else on the internet will still be able to see it on your profile page.
-
 ###PRIVATE POSTS
 
 ***When I post a message to an aspect (i.e., a private post), who can see it?***  
