@@ -14,7 +14,7 @@ A seed is a profile or an account, and contains all the data of a specific user.
 ***What is an aspect?***  
 See our separate [[aspects FAQ|Aspects FAQ]].
 
-***Are there photo albums to collect and organize all photos (or videos) posted by a user?***  
+***Are there photo or video albums?***  
 No, not currently (but see [cubbi.es](http://cubbi.es/)).
 
 ***How can I format the text in my posts (Bold, Italics, etc.)?***  
@@ -23,8 +23,14 @@ By using [Markdown](http://diasporial.com/tutorials/formatting-text).
 ***I just joined a pod, how can I find people to share with?***  
 Invite your friends.  Follow hashtags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with). 
 
-***How do I move an account from one Pod to another?***      
-In the future you will be able to export your profile from a pod and import it on another, but now it is not yet possible. You can just open a new account and ask your old contacts to search it and add you again.
+***How do I move my seed (account) from one pod to another?***      
+In the future you will be able to export your seed from a pod and import it on another, but this is not currently possible. You could always open a new account and ask your contacts to search for it and add you again.
+
+***Can I download a copy of all of my data contained in my seed (account)?***  
+Yes. At the bottom of your settings page there are two buttons for downloading your data.  
+
+***How do I delete my seed (account)?***  
+Go to the bottom of your settings page and click the close account button.
 
 ###PUBLIC POSTS
 
