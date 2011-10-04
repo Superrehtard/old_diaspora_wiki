@@ -71,7 +71,7 @@ Anyone can see changes if they visit your profile page on your pod. Public profi
 ###PRIVATE PROFILES
 
 ***Who sees my private profile?***  
-Any logged-in user that you are following (meaning, you have added them to one of your aspects). Specifically, people following you, but who you do NOT follow, see only your public information.
+Any logged-in user that you are following (meaning, you have added them to one of your aspects). However, people following you, but whom you do **NOT** follow, will see only your public information.
 
 ***What's in my private profile?***  
 Bio, location, gender, and birthday. It's the stuff in the bottom section of the edit profile page. Logged-in users who can see your private profile will also see the private posts that they are allowed to see, mixed in with your public posts, when they visit your profile page.
