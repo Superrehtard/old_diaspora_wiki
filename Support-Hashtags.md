@@ -4,7 +4,7 @@ To help coordinate efforts, you can sign up below for the day(s) of the week on 
 
 ### Monday
 
-_\#question:_ John "Example" Doe,  Jane "Example" Smith,  
+_\#question:_  
 
 _\#bug:_ 
 
@@ -36,11 +36,11 @@ _\#feature:_
 
 ### Friday
 
-_\#question:_
+_\#question:_ PM, 
 
-_\#bug:_
+_\#bug:_ PM, 
 
-_\#feature:_
+_\#feature:_ PM, 
 
 ### Saturday
 
