@@ -12,7 +12,7 @@ _\#feature:_
 
 ### Tuesday
 
-_\#question:_
+_\#question:_ Allison
 
 _\#bug:_
 
@@ -28,7 +28,7 @@ _\#feature:_
 
 ### Thursday
 
-_\#question:_
+_\#question:_ Allison
 
 _\#bug:_
 
@@ -44,14 +44,14 @@ _\#feature:_ PM,
 
 ### Saturday
 
-_\#question:_
+_\#question:_ Allison
 
 _\#bug:_
 
 _\#feature:_
 
 ### Sunday
-_\#question:_
+_\#question:_ Allison
 
 _\#bug:_
 
