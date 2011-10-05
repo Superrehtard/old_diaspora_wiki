@@ -31,11 +31,11 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
-   * Updated: Multiple times per day
+   * Updated: daily
    * Maintained by: Lennart Prelle
        * Contact: prellele@despora.de
    * Operating system: Ubuntu LTS 10.04
-   * Comments: Over 99.9% uptime, facebook and twitter integration, public registration, mostly german users
+   * Comments: Over 99% uptime, facebook, twitter and tumblr integration, mostly german-speaking users
 
 * [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px]]
    * Opened: 1/1/2011
