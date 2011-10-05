@@ -53,6 +53,7 @@ anywhere on the site.
   * [[Encryption]]
   * [[Client-server-model]]
   * [[Interface suggestions]]
+* [[Copy editing the website(s)|Website Copy Editing]]
 * [[Other ways to contribute|Other Ways to Contribute]]
 
 ## Pod Maintainer Resources
