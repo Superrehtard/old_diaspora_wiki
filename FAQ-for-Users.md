@@ -1,4 +1,4 @@
-If you have questions that are not answered here you can get community powered support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  Or try the tutorials on [Diasporial](http://diasporial.com/tutorials).  Or ask your question in a public post on Diaspora using the #question hashtag.
+If you have questions that are not answered here you can get community powered support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  Or try the tutorials on [Diasporial](http://diasporial.com/tutorials).  Or ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
 
 ###BASICS
 
@@ -83,4 +83,4 @@ Get community-powered answers and support on [GetSatisfaction](http://getsatisfa
 
 Try the tutorials on [Diasporial](http://diasporial.com/tutorials).
 
-Or ask your question in a public post on Diaspora using the #question hashtag.
+Or ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
