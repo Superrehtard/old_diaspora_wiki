@@ -90,6 +90,17 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 
 If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
+1. Help, why are there no images on my pod?
+You are most likely in production mode, or your apache/nginx is not serving static assets.  If you want to just run your server from your thin on port 3000, you can set ruby to servce static assets by changing %{the setting}
+
+
+2.  Webfinger does not seem to be working!
+ Is your resque worker running?   Can you see the error in resque web? Does your SSL cert check out?(link for cert checker)  We do not support self signed certs, but you can get a free one here and here
+
+
+3.  Help, I am receiving posts, but nobody is receiving mine!
+Check your ssl certs!
+
 
 ## What if my question isn't answered here?
 
