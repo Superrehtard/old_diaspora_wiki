@@ -31,6 +31,9 @@ Any logged-in Diaspora user can comment on, reshare, or like your public post.
 ***When I comment on, reshare, or like a public post, who can see it?***  
 Any logged-in Diaspora user and anyone else on the internet.  Comments, likes, and reshares of public posts are also public.  
 
+***I do not see links to like or comment on public posts on the tag pages?***  
+Currently you need to click on the time stamp ("Posted an hour ago") to go to the post's page in order to like or comment on it.  (This is just temporary, and will be fixed in a future update.)  
+
 ###PRIVATE POSTS
 
 ***When I post a message to an aspect (i.e., a private post), who can see it?***  
