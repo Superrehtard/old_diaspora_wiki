@@ -1,6 +1,6 @@
 If you have questions that are not answered here you can get community powered support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  Or try the tutorials on [Diasporial](http://diasporial.com/tutorials).  Or ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
 
-###BASICS
+###PODS AND SEEDS
 
 ***What is a pod?***  
 A pod is a server where Diaspora is running. There are lots of different pods. You can add friends from other pods and communicate with them. (You can think of a Diaspora pod as similar to an email provider: there are public pods, private pods, and with some effort you can even run your own.) "Pod" is a metaphor referring to pods on plants which contain seeds.
@@ -11,11 +11,37 @@ Yes. For a list of unofficial, community-driven pods/servers, see [podupti.me](h
 ***What is a seed?***  
 A seed is a profile or an account, and contains all the data of a specific user.  Your seed interacts with the seeds of your friends to keep each other up to date.  You can see it as a package of personal data...which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the future you will be able to move your seed between pods. For now, you can export a file containing all your information.  "Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
 
-***What is an aspect?***  
-An aspect is how you group your contacts on Diaspora.  See our separate [[Aspects FAQ|Aspects FAQ]].  
-
 ***I just joined a pod, how can I find people to share with?***  
 Invite your friends.  Follow hashtags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with).  
+
+###ASPECTS
+
+***What is an aspect?***  
+Aspects are the way you group your contacts on Diaspora. An aspect is one of the faces you show to the world.  It might be who you are at work, or who you are to your family, or who you are to your college friends.  
+
+***When I post to an aspect, who sees it?***  
+Only the people you have put in that aspect. Contacts you have that aren't in the aspect have no way of seeing the post, unless you've made it *public*.  
+
+***Can I see only the posts from people in one or more of my aspects?***  
+Yes.  Click on the aspects in the list on the left side of the main page to select and deselect them. Only the posts by people in the selected aspects will appear in your stream.  
+
+***Do my contacts know what aspects I have put them in?***  
+No. They cannot see the name of the aspect under any circumstances. If you make an aspect "public", then they can see other people who are in the aspect via "similar contacts."
+
+***Can I rename an aspect?***  
+Yes. In your list of aspects on the left side of the main page, point your mouse at the aspect you want to rename. Click the little 'edit' pencil that appears to the right. Click *rename* in the box that appears.    
+
+***Once I have posted something, can I change the aspect(s) that can see it?***  
+No, but you can always make a new post with the same content and post it to a different aspect.
+
+***Can I post content to multiple aspects at once?***  
+Yes.  When you are making a post, use the aspects menu to select or deselect aspects.  Your post will be visible to all the selected aspects.  Also, the aspect(s) that you have selected in the list on the left will automatically be selected in the aspects menu when you start to make a new post. 
+
+***Can I add a person to multiple aspects?***  
+Yes. Go to your *contacts* page and click *my contacts*.  For each contact you can use the menu on the right to add them to (or remove them from) as many aspects as you want.  
+
+***How do I delete an aspect?***  
+In your list of aspects on the left of the main page, point your mouse at the aspect you want to delete.  Click the little 'edit' pencil that appears on the right.  Click the *delete* button in the box that appears.  
 
 ###PUBLIC POSTS
 
@@ -101,9 +127,9 @@ If and when they add you to one of their aspects then all of this becomes recipr
 These are people that have added you to one of their aspects, but whom you have not (yet) added to one of your aspects.  In other words, they are sharing with you, but you are not sharing with them (asymmetrical sharing).  If you add them to an aspect, they will then appear under that aspect and not under "only sharing with you".  See above.
 
 ***Is there a list of people whom I have added to one of my aspects, but who have not added me to one of theirs?***  
-No.  
+No, in the interest of helping to keep each person's own aspects private to them.  However, you should get a one-time notification that someone has started sharing with you when they add you to an aspect.
 
-###MORE ON POSTS AND POSTING 
+###MORE ON POSTS AND POSTING
 
 ***How do I hide a post?***  
 ***How do I stop getting notifications about a post that I commented on?***  
@@ -117,9 +143,6 @@ By using [Markdown](http://diasporial.com/tutorials/formatting-text).  [Give it 
 
 ***What is the character limit for posts shared through a connected service (Twitter, Facebook, Tumblr) with a smaller character count?***  
 In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  
-
-***Can I subscribe to someone's public posts with a feed reader?***  
-Yes, but the formatting of the results is still not very good (you get raw markdown text).  To try it, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS.  
 
 ###TAGS  
 
@@ -165,14 +188,14 @@ Go to the bottom of your settings page and click the close account button.
 
 ###MISCELLANEOUS
 
-***How do I delete an aspect?***  
-In the list of aspects on the left of your home page, point your mouse at the aspect you want to delete.  Click the little 'edit' pencil that appears on the right.  Click the delete button in the window that appears.  
-
 ***Is there a quick way to go back to the top of a page after I scroll down?***  
 Yes.  After scrolling down a page, click on the grey arrow that appears in the bottom right corner of your browser window.    
 
 ***Are there photo or video albums?***  
 No, not currently (but see [cubbi.es](http://cubbi.es/)).  
+
+***Can I subscribe to someone's public posts with a feed reader?***  
+Yes, but this is still not a polished feature and the formatting of the results is still pretty rough (you get raw markdown text, for example).  If you want to try it anyway, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS.  
 
 ## What if my question isn't answered here?
 
