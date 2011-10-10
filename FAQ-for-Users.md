@@ -105,7 +105,6 @@ Any logged-in user that you are following sees changes to your private profile. 
 ###SHARING MODEL
 
 ***What happens when someone adds me to one of their aspects?***  
-They start sharing with you (asymmetrical sharing):
 
 - You will receive a notification that they have "started sharing" with you.
 
@@ -119,7 +118,7 @@ They start sharing with you (asymmetrical sharing):
 
 - They will appear under "*Only sharing with me*" on your contacts page (unless you add them to an aspect).  
 
-If and when you add them to an aspect then all of this becomes reciprocal (symmetrical, bi-directional sharing).  
+This is known as asymmetrical sharing.  If and when you also add them to an aspect then all of the above becomes reciprocal and you then have symmetrical, bi-directional sharing.  
 
 ***Who are the people listed in "Only sharing with me" on my contacts page?***  
 These are people that have added you to one of their aspects, but whom you have not (yet) added to one of your aspects.  In other words, they are sharing with you, but you are not sharing with them (asymmetrical sharing).  If you add them to an aspect, they will then appear under that aspect and not under "only sharing with you".  See above.
