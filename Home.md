@@ -23,6 +23,7 @@ anywhere on the site.
 * Live discussion on our [[IRC channels|How we use IRC]]
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
 * [[Diaspora* Art]] - icons, logos, etc.
+* [[3rd Party Tools]] - browser add-ons, etc.
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
