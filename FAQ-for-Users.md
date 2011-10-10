@@ -104,24 +104,22 @@ Any logged-in user that you are following sees changes to your private profile. 
 
 ###SHARING MODEL
 
-***What happens when I add someone to one of my aspects?***  
-You start sharing with them (asymmetrical sharing):
+***What happens when someone adds me to one of their aspects?***  
+They start sharing with you (asymmetrical sharing):
 
-- They will receive a notification that you started sharing with them.
+- You will receive a notification that they have "started sharing" with you.
 
-- They will see the *private* posts that you make to that aspect (in their stream).  
+- They will start to see your *public* posts in their stream.  
 
-- You will see their *public* posts in your stream.  
+- They will *not* see any of your *private* posts (unless you add them to an aspect).
 
-- You *will not* see any of their *private* posts (unless they also add you to one of their aspects).
+- You will *not* see their *public* or *private* posts in your stream (unless you add them to an aspect).
 
-- They *will not* see your *public* posts in their stream (unless they also add you to one of their aspects).
+- You will be able to see their private profile (bio, location, gender, birthday).
 
-- They will be able to see your private profile (bio, location, gender, birthday).
+- They will appear under "*Only sharing with me*" on your contacts page (unless you add them to an aspect).  
 
-- You will appear under "*Only sharing with me*" on their contacts page (unless they add you to one of their aspects).  
-
-If and when they add you to one of their aspects then all of this becomes reciprocal (symmetrical, bi-directional sharing).  
+If and when you add them to an aspect then all of this becomes reciprocal (symmetrical, bi-directional sharing).  
 
 ***Who are the people listed in "Only sharing with me" on my contacts page?***  
 These are people that have added you to one of their aspects, but whom you have not (yet) added to one of your aspects.  In other words, they are sharing with you, but you are not sharing with them (asymmetrical sharing).  If you add them to an aspect, they will then appear under that aspect and not under "only sharing with you".  See above.
