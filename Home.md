@@ -9,7 +9,7 @@ As long as you're logged in to your Github account, feel free to click that "Edi
 anywhere on the site.
 
 ## General Resources
-* **[[Frequently Asked Questions (FAQ for Users)|FAQ for Users]]** <--- start here 
+* **[[Frequently Asked Questions (FAQ for Users)|FAQ for Users]]** <--- start here!
    * See also [[FAQ for Pod Maintainers]] and [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[So, you want an invite?|Invitations]]
