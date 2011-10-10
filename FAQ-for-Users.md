@@ -34,8 +34,8 @@ Any logged-in Diaspora user and anyone else on the internet.  Comments, likes, a
 ***What happens when I deselect one or more aspects when making a public post?***  
 Deselecting aspects does not affect a public post.  It will still appear in the streams of all of your contacts.  
 
-***Where are the links to like or comment on the public posts on the tag pages?***  
-Currently you need to click on the time stamp ("_about an hour ago_") to go to the post's page in order to like or comment on it.  (This is just temporary, and will be fixed in a future update.)  
+***How do I like, reshare, or comment on the public posts shown on the tag pages?***  
+Currently you can click on the time stamp ("_about an hour ago_") to go to the post's page to like, reshare, or comment on it.
 
 ###PRIVATE POSTS
 
