@@ -8,4 +8,4 @@ _Links to third party tools built by the community for use with Diaspora._
 
 ###WordPress
 
-[Webfinger Profile Plugin](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora
+[Webfinger Profile Plugin](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora, [more info](http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/)
