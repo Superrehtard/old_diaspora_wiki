@@ -9,11 +9,10 @@ As long as you're logged in to your Github account, feel free to click that "Edi
 anywhere on the site.
 
 ## General Resources
-* [[So, you want an invite?|Invitations]]
-* Frequently Asked Questions 
-   * [[FAQ for Users]] - (see also: [[FAQ for Pod Maintainers]], [[FAQ for Developers]])
-   * [[About aspects|Aspects FAQ]]
+* **[[Frequently Asked Questions (FAQ for Users)|FAQ for Users]]** <--- start here 
+   * See also [[FAQ for Pod Maintainers]] and [[FAQ for Developers]]
    * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
+* [[So, you want an invite?|Invitations]]
 * [[We need help!|Become-a-Contributor]]
 * [[Report a bug or suggest a feature|Report a Bug]]
 * [[What's new?|Changelog]]
@@ -23,6 +22,7 @@ anywhere on the site.
 * [[Community Meetups|Meetups]]
 * Live discussion on our [[IRC channels|How we use IRC]]
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
+* [[Diaspora* Art]] - icons, logos, etc.
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
@@ -68,10 +68,11 @@ anywhere on the site.
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
   * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
 
-## Grassroots Community Resources
+## Grassroots Organizing Community Resources
 
-For the grassroots organizing community -- see the [diaspora-grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots).
-
+* [Grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots)
+* [Grassroots media team mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-media)
+* [Grassroots design team mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-design)
 * [[Support Hashtags]] - #question, #bug, #feature
 
 
