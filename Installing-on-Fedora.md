@@ -24,6 +24,14 @@ To start MySQL run
 
         su -c 'service mysqld start'
 
+### PostGres
+
+This installs Postgres also if you prefer to use this over MySQL (requires some postgres setup knowledge):
+
+        su -c 'yum install postgresql-devel'
+
+To start Postgres see: 
+
 ### ImageMagick
 
 To install ImageMagick, run the following:
