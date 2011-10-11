@@ -50,9 +50,9 @@ To install Redis, run the following:
 
         su -c 'yum install redis'
 
-To start Redis run
+Make a directory for redis logs
 
-        su -c 'service redis start'
+       su -c 'mkdir /var/log/diaspora'
 
 ### RubyGems
 
