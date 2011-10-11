@@ -28,7 +28,7 @@ To start MySQL run
 
 This installs Postgres also if you prefer to use this over MySQL (requires some postgres setup knowledge):
 
-        su -c 'yum install postgresql-devel'
+        su -c 'yum install postgresql-server postgresql-devel'
 
 To start Postgres see: [http://wiki.postgresql.org/wiki/YUM_Installation](http://wiki.postgresql.org/wiki/YUM_Installation)
 
