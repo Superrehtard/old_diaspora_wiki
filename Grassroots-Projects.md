@@ -1,10 +1,9 @@
 This is a list of projects that members of our grassroots community are working on.  Please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
 
 ##Simple ways to help out
-*Feel free to jump right in and help with any of these.*
 
 **Support Hashtags**  
-Help respond to posts to #question, #bug, and #feature tags on Diaspora.
+Help respond to users' posts to #question, #bug, and #feature tags on Diaspora.
 
 **DiasporaForum**  
 Help answer questions and assist new Diaspora members. http://www.diasporaforum.org/
@@ -17,7 +16,7 @@ Help us [welcome] (https://docs.google.com/spreadsheet/viewform?formkey=dG5RUHpM
 
 
 ##Projects that need volunteers
-*If you would like to help with one of these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and ask about it there. Or you can send an email to "people" [at] "joindiaspora" [dot] com.*
+*To help with these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and ask about them there. Or send email to "people" [at] "joindiaspora" [dot] com.*
 
 **Beta Launch**  
 Will need meetup organizers, designers, and writers.
