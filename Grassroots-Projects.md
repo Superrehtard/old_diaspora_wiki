@@ -1,6 +1,7 @@
-This is a list of projects that members of our grassroots community are working on.  Let us know if you would like to volunteer to help with one or more of them.  Also, please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
+This is a list of projects that members of our grassroots community are working on.  Please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
 
 ##Simple ways to help out
+*Feel free to jump right in and help with any of these.*
 
 **Support Hashtags**  
 Help respond to posts to #question, #bug, and #feature tags on Diaspora.
@@ -12,10 +13,11 @@ Help answer questions and assist new Diaspora members. http://www.diasporaforum.
 Visit our [IRC chat channel](http://webchat.freenode.net/?channels=diaspora) to answer questions, talk about Diaspora, discuss bugs and new feature suggestions.  
 
 **Welcome Committee**  
-Help with [welcoming] (https://docs.google.com/spreadsheet/viewform?formkey=dG5RUHpMdlNidzRXN2twcXFRMDR0ZEE6MQ&ndplr=1) new users to Diaspora. 
+Help us [welcome] (https://docs.google.com/spreadsheet/viewform?formkey=dG5RUHpMdlNidzRXN2twcXFRMDR0ZEE6MQ&ndplr=1) new users to Diaspora. 
 
 
 ##Projects that need volunteers
+*If you would like to help with one of these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and ask about it there. Or you can send an email to "people" [at] "joindiaspora" [dot] com.*
 
 **Beta Launch**  
 Will need meetup organizers, designers, and writers.
@@ -47,7 +49,7 @@ Need user documentation writers. https://github.com/diaspora/diaspora/wiki
 ##Projects that currently do not need additional volunteers
 
 **Creative Collective**  
-A Creative Collective a la [Mozilla](http://creative.mozilla.org/) to have a place for everyone to come together to develop great fan art, and then enable Diaspora users to create t-shirts, mugs, etc from the fan art via something like [Zazzle](http://www.zazzle.com/).  
+A creative collective a la [Mozilla](http://creative.mozilla.org/) to have a place for everyone to come together to develop great fan art, and then enable Diaspora users to create t-shirts, mugs, etc from the fan art via something like [Zazzle](http://www.zazzle.com/).  
   
 **Diaspora Project Website**  
 www.diasporafoundation.org 
