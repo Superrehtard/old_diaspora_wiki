@@ -1,12 +1,12 @@
 ### Versions
 
-These instructions are for the current version of Fedora.
+These instructions are for the current version of Fedora 15. If you are using a older version you may need to use things like remi repo for up to date packages.
 
 ### Build Tools
 
 To install build tools, run the following:
 
-        su -c 'yum install make automake gcc gcc-c++ libxslt libxslt-devel libxml2 libxml2-devel libffi libffi-devel libcurl libcurl-devel openssl-devel'
+        su -c 'yum install make automake gcc gcc-c++ libxslt libxslt-devel libxml2 libxml2-devel libffi libffi-devel libcurl libcurl-devel openssl-devel sqlite-devel'
 
 ### Ruby
 
