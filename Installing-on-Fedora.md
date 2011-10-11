@@ -52,6 +52,10 @@ To install RubyGems, run the following:
 
         su -c 'yum install rubygems'
 
+Rubygems tends to be a little old, you can update it by:
+
+       su -c 'gem update --system'
+
 ### Bundler
 
 To install Bundler, run the following:
