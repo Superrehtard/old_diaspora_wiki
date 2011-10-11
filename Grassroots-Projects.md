@@ -1,6 +1,6 @@
-This is a list of projects that members of our grassroots community are working on.  Please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
+This is a list of projects that members of the Diaspora grassroots community are working on.  They are all great ways to help out and get involved with Diaspora.  Please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
 
-##Simple ways to help out
+##Simple ways everyone can help
 
 **Support Hashtags**  
 Help respond to users' posts to #question, #bug, and #feature tags on Diaspora.
@@ -9,14 +9,14 @@ Help respond to users' posts to #question, #bug, and #feature tags on Diaspora.
 Help answer questions and assist new Diaspora members. http://www.diasporaforum.org/
 
 **IRC Chat**  
-Visit our [IRC chat channel](http://webchat.freenode.net/?channels=diaspora) to answer questions, talk about Diaspora, discuss bugs and new feature suggestions.  
+Visit our [IRC chat channel](http://webchat.freenode.net/?channels=diaspora) to answer questions, discuss bugs, new feature suggestions, etc.  
 
 **Welcome Committee**  
 Help us [welcome] (https://docs.google.com/spreadsheet/viewform?formkey=dG5RUHpMdlNidzRXN2twcXFRMDR0ZEE6MQ&ndplr=1) new users to Diaspora. 
 
 
-##Projects that need volunteers
-*To help with these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and ask about them there. Or send email to "people" [at] "joindiaspora" [dot] com.*
+##Projects that could use more volunteers
+*To help with these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and inquire there. Or send email to "people" [at] "joindiaspora" [dot] com.*
 
 **Beta Launch**  
 Will need meetup organizers, designers, and writers.
