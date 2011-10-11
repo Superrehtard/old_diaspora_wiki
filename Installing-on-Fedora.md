@@ -30,7 +30,7 @@ This installs Postgres also if you prefer to use this over MySQL (requires some 
 
         su -c 'yum install postgresql-devel'
 
-To start Postgres see: 
+To start Postgres see: [http://wiki.postgresql.org/wiki/YUM_Installation](http://wiki.postgresql.org/wiki/YUM_Installation)
 
 ### ImageMagick
 
