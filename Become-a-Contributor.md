@@ -14,7 +14,7 @@ contributions are awesome too.
 Diaspora needs all sort of help, way more than just code!
 (if anyone wants to link to getting started on any of these things, that would be awesome)
 
-* Reporting Bugs
+####Reporting Bugs  
 
 Currently, there are two outlets for this: [GetSatisfaction](https://getsatisfaction.com/) and [GitHub Issues](https://github.com/diaspora/diaspora/issues).
 
@@ -23,14 +23,19 @@ On the other hand, [GitHub Issues](https://github.com/diaspora/diaspora/issues) 
 
 With both of these tools, it's helpful to provide as much information as possible.
 
-* Starting Meetups
+####Starting Meetups  
 
-We are an international movement. If you would like to participate or help organize one in your area join us at [Meetup](https://meetup.com/Diaspora)
+We are an international movement. If you would like to participate or help organize one in your area join us at [Meetup](https://meetup.com/Diaspora).
 
-* Translating
+####Translating   
 
-Diaspora is translated into over 45 languages. [Jonne Hass](https://github.com/MrZYX) has been championing managing all of them. For more info: [[How to contribute translations]]
+Diaspora is translated into over 45 languages. [Jonne Hass](https://github.com/MrZYX) has been championing managing all of them. For more info: [[How to contribute translations]].
 
+####Grassroots Community Projects
+
+See the list of [grassroots community projects](Grassroots Projects).
+
+####More Ways to Get Involved:  
 * Doing UI mockups
 * Spreading the Word
 * Participating in Weekly community meetings
