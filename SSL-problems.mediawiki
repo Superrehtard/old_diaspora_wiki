@@ -1,6 +1,11 @@
 '''work in progress'''
 
-SSL setup can be tricky
+== Prologue ==
+** Do not try to use self-signed certificates! **
+
+Diaspora* try to verify all certificates against the known certificate chains, and **every** failed checks fail **silently** and with **no sign in the debug logs**. If you want to connect other pods you have to use globally verifiable certs. (I do not want to advertise any service but StartSSL is free and their cert chain is globally accepted; if anyone knows any other free and globally accepted authority feel free to tell. [CACert isn't one.])
+
+== SSL setup can be tricky ==
 
 * ssl setup requires a globally verifiable crt, self signed won't do
 * application.yml contains most of the setup
