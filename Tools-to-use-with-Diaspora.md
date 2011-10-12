@@ -1,4 +1,4 @@
-_Links to third party tools built by the community for use with Diaspora._
+_Links to various tools built by the community for use with Diaspora._
 
 ###Browser Add-ons
 
@@ -18,13 +18,13 @@ _Links to third party tools built by the community for use with Diaspora._
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
-###Share on Diaspora Buttons for blogs and sites
+###"Share on Diaspora" Buttons (for use on blogs and websites)
 
 *   [Diaspora* Sharing Service (DSS)][1] working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
 
 *   [German Data Protection Act Button][2] with regard to German Data Protection Act (German only ATM)
 
-*   [HTML5 animated button][3]: embedded image, html5 localStorage to save the name of the pod
+*   [HTML5 animated button][3]: with embedded image, uses html5 localStorage to save the name of the pod
 
 *   [Burnman’s Diaspora Button][4] for Wordpress
 
