@@ -1,4 +1,4 @@
-###Logos, Icons, etc.
+###Logos, Icons, Badges, Toolkits, Etc.
 
 *   SVG Images of logo ( [link 1][19] [ link 2][20] )
 
@@ -18,7 +18,7 @@
  [24]: http://naesk.deviantart.com/art/Diaspora-Userbars-350x19px-257899291
  [25]: http://naesk.deviantart.com/art/Diaspora-Userbars-Coloured-258377952
 
-###Wallpapers 
+###Wallpaper Images 
 
 * [Dandelion Wallpaper](http://wlppr.com/wallpapers/2011/10/04/Dandelion.1920x1200.jpg)
 
@@ -55,7 +55,7 @@
  [38]: http://apolonis.deviantart.com/art/Le-Passage-261741787
  [39]: http://bit.ly/rohrn0
 
-###Fanart
+###Fan Art
     
 *   [Diaspora Future Prediction][26]
     
