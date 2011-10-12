@@ -25,8 +25,8 @@ Aspects are the way you group your contacts on Diaspora. An aspect is one of the
 ***When I post to an aspect, who sees it?***  
 Only the people you have put in that aspect. Contacts you have that aren't in the aspect have no way of seeing the post, unless you've made it *public*.  
 
-***Can I see only the posts from people in one or more of my aspects?***  
-Yes.  Click on the aspects in the list on the left side of the main page to select and deselect them. Only the posts by people in the selected aspects will appear in your stream.  
+***Can I restrict the posts I see to just those from certain aspects?***  
+Yes.  Click on the aspects in the list on the left side of the main page to select or deselect them. Only the posts by people in the selected aspects will appear in your stream.  
 
 ***Do my contacts know what aspects I have put them in?***  
 No. They cannot see the name of the aspect under any circumstances. If you make an aspect "public", then they can see other people who are in the aspect via "similar contacts."
