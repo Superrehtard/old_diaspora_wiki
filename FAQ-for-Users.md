@@ -52,7 +52,7 @@ In your list of aspects on the left of the main page, point your mouse at the as
 ###PUBLIC POSTS
 
 ***When I post something publicly, who can see it?***  
-Both logged-in Diaspora users and the internets at large can see a post you mark public.
+Both logged-in Diaspora users and the Internet at large can see a post you mark public.
 
 ***How can other people find my public post?***  
 Public posts are visible to anyone on your pod's tag pages and your profile page. Every public post also has a special public URL that anyone can view, even if they're not logged in - thus public posts may be linked to directly from twitter, hn, etc. Public posts may also be indexed by search engines.
@@ -86,7 +86,7 @@ Only the people that the post was shared with can see its comments and likes (th
 ###PUBLIC PROFILES  
 
 ***Who sees my public profile?***  
-Any logged-in Diaspora user, as well as the wider internets, can see it. Each profile has a direct URL, so it may be linked to directly from outside sites. It may be indexed by search engines.
+Any logged-in Diaspora user, as well as the wider Internet, can see it. Each profile has a direct URL, so it may be linked to directly from outside sites. It may be indexed by search engines.
 
 ***What's in my public profile?***  
 Your name, your 5 tags, and your photo. It's the stuff in the top section of the edit profile page. Your profile page also shows any public posts you have made.
