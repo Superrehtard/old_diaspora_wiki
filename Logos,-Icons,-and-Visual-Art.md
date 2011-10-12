@@ -24,7 +24,7 @@
 
 *   [Diaspora* Typography][31]
     
-*   [link 2][32]
+*   [Diaspora Wallpapers gallery][32]
     
 *   [The Diaspora* Field][33]
     
@@ -39,6 +39,10 @@
 *   [Le passage][38]
     
 *   [Soffio][39]
+
+*   [golD*](http://bit.ly/n672BO)
+
+*   [Pirate D](http://fav.me/d4cjf2n)
 
  [26]: http://naesk.deviantart.com/art/Diaspora-Future-Prediction-252416084
  [27]: http://naesk.deviantart.com/art/Diaspora-Monolith-Dawning-221230196
@@ -66,3 +70,5 @@
 *   [Datavisualisation video][29]
     
 *   [Elegant Brass 2][30]
+
+*  [Own your own social graph](file:///home/morgenstern/Documenti/own_your_social_graph.svg)
