@@ -12,7 +12,10 @@ Yes. For a list of unofficial, community-driven pods/servers, see [podupti.me](h
 A seed is a profile or an account, and contains all the data of a specific user.  Your seed interacts with the seeds of your friends to keep each other up to date.  You can see it as a package of personal data...which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the future you will be able to move your seed between pods. For now, you can export a file containing all your information.  "Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
 
 ***I just joined a pod, how can I find people to share with?***  
-Invite your friends.  Follow hashtags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with).  
+Invite your friends.  Follow #tags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with).  
+
+***How do I use the search box to find particular people to share with?***  
+Search for their full Diaspora handle (e.g. `username@podname.org`).  If you are on the same pod you can search for just their username. If a search does not work the first time, try it again. Once you have added someone to one of your aspects, you can search for them using just their username.  
 
 ###ASPECTS
 
@@ -27,6 +30,9 @@ Yes.  Click on the aspects in the list on the left side of the main page to sele
 
 ***Do my contacts know what aspects I have put them in?***  
 No. They cannot see the name of the aspect under any circumstances. If you make an aspect "public", then they can see other people who are in the aspect via "similar contacts."
+
+***If I remove someone from an aspect, or all of my aspects, are they notified of this?***  
+No.  
 
 ***Can I rename an aspect?***  
 Yes. In your list of aspects on the left side of the main page, point your mouse at the aspect you want to rename. Click the little 'edit' pencil that appears to the right. Click *rename* in the box that appears.    
@@ -102,23 +108,26 @@ Bio, location, gender, and birthday. It's the stuff in the bottom section of the
 ***Who sees updates to my private profile?***  
 Any logged-in user that you are following sees changes to your private profile. Changes are propagated to the pods of everyone you follow.
 
-###SHARING MODEL
+###SHARING 
 
-***What happens when someone adds me to one of their aspects?***  
+***What happens when I add someone to one of my aspects?  Or when they add me to one of their aspects?***  
+Let's say that Amy adds Ben to an aspect, but Ben has not (yet) added Amy to an aspect:
 
-- You will receive a notification that they have "started sharing" with you.
+- Ben will receive a notification that Amy has "started sharing" with Ben.
 
-- They will start to see your *public* posts in their stream.  
+- Amy will start to see Ben's *public* posts in her stream.  
 
-- They will *not* see any of your *private* posts (unless you add them to an aspect).
+- Amy will *not* see any of Ben's *private* posts.
 
-- You will *not* see their *public* or *private* posts in your stream (unless you add them to an aspect).
+- Ben will *not* see Amy's *public* or *private* posts in his stream.
 
-- You will be able to see their private profile (bio, location, gender, birthday).
+- But if Ben goes to Amy's profile page, then he will see Amy's *private* posts that she makes to her aspect that has him in it (as well as her *public* posts which anyone can see there).
 
-- They will appear under "*Only sharing with me*" on your contacts page (unless you add them to an aspect).  
+- Ben will be able to see Amy's private profile (bio, location, gender, birthday).
 
-This is known as asymmetrical sharing.  If and when you also add them to an aspect then all of the above becomes reciprocal and you then have symmetrical, bi-directional sharing.  
+- Amy will appear under "*Only sharing with me*" on Ben's contacts page.  
+
+This is known as asymmetrical sharing.  If and when Ben also adds Amy to an aspect then all of the above becomes reciprocal and you would then have symmetrical, bi-directional sharing.  
 
 ***Who are the people listed in "Only sharing with me" on my contacts page?***  
 These are people that have added you to one of their aspects, but whom you have not (yet) added to one of your aspects.  In other words, they are sharing with you, but you are not sharing with them (asymmetrical sharing).  If you add them to an aspect, they will then appear under that aspect and not under "only sharing with you".  See above.
@@ -134,6 +143,12 @@ If you point your mouse at the top of a post, an X appears on the right.  Click 
 
 ***How can I format the text in my posts (bold, italics, etc.)?***  
 By using [Markdown](http://diasporial.com/tutorials/formatting-text).  [Give it a try](http://daringfireball.net/projects/markdown/dingus), or check out the full-blown [Markdown syntax](http://daringfireball.net/projects/markdown/syntax).  
+
+***How do I insert images into posts?***  
+Click the little photo icon to insert an image into a post.  Press the photo icon again to add another photo, or you can press the control key to select multiple photos to upload.  
+
+***Can I insert images into comments?***  
+The following [Markdown](http://diasporial.com/tutorials/formatting-text) code `![image text](image url)` can be used to insert images into comments as well as posts.  It also allows more control over embedding images into the text of posts. 
 
 ***What is the character limit for posts?***  
 10,000 characters.  That's 9,860 more characters than you get on Twitter! ;)  
@@ -159,7 +174,10 @@ A mention is a link to a person's profile page that appears in a post. When some
 
 ***How do I mention someone when making a post?***  
 Type the "@" sign and start typing their name.  A drop down menu should appear to let you select them more easily.  
-However, adding mentions only works for people you have added to an aspect, and it does not work in comments.  
+However, adding mentions only works for people you have added to an aspect.  
+
+***Can I mention someone in a comment?***  
+No, not currently, but there is no harm in using the "@username" convention in comments anyway.
   
 ***Is there a way to see the posts in which I have been mentioned?***  
 Yes, click "_Mentions_" in the left hand column on your home page.  
