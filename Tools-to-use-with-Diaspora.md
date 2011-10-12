@@ -20,13 +20,13 @@ _Links to various tools built by the community for use with Diaspora._
 
 ###"Share on Diaspora" Buttons (for use on blogs and websites)
 
-*   [Diaspora* Sharing Service (DSS)](http://www.basshero.org/page/show/dss)[1] working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
+*   [Diaspora* Sharing Service (DSS)](http://www.basshero.org/page/show/dss) working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
 
-*   [German Data Protection Act Button](http://blog.pgs-info.de/index.php/2011/08/24/social-media-buttons-datenschutzkonform)[2] with regard to German Data Protection Act (German only ATM)
+*   [German Data Protection Act Button](http://blog.pgs-info.de/index.php/2011/08/24/social-media-buttons-datenschutzkonform) with regard to German Data Protection Act (German only ATM)
 
-*   [HTML5 animated button](http://bit.ly/oKRKrS)[3]: with embedded image, uses html5 localStorage to save the name of the pod
+*   [HTML5 animated button](http://bit.ly/oKRKrS) with embedded image, uses html5 localStorage to save the name of the pod
 
-*   [Burnman’s Diaspora Button](http://theburnman.com/wordpress-plugins/burnmans-diaspora-button/)[4] for Wordpress
+*   [Burnman’s Diaspora Button](http://theburnman.com/wordpress-plugins/burnmans-diaspora-button/) for Wordpress
 
 *   [Diaspora* Advanced Sharer](http://sharetodiaspora.github.com/about/) is a service to share links to any Diaspora* pod.
 
@@ -40,11 +40,11 @@ _Links to various tools built by the community for use with Diaspora._
 
 ###Cubbi.es extensions 
     
-*   [Opera](http://dl.dropbox.com/u/22821615/cubbies_opera.zip)[13]
+*   [Opera](http://dl.dropbox.com/u/22821615/cubbies_opera.zip)
     
-*   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)[14]
+*   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)
     
-*   [Safari](http://github.com/gattonero/cubbies-safari)[15]
+*   [Safari](http://github.com/gattonero/cubbies-safari)
     
-*   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension)[16] (uses context menu instead of shift-click) 
+*   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
 
