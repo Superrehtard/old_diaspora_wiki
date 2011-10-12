@@ -154,7 +154,7 @@ The following [Markdown](http://diasporial.com/tutorials/formatting-text) code `
 10,000 characters.  That's 9,860 more characters than you get on Twitter! ;)  
 
 ***What is the character limit for posts shared through a connected service (Twitter, Facebook, Tumblr) with a smaller character count?***  
-In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  
+In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  You can still post to these services if your post is longer than their limit, but the text is truncated on those services.
 
 ###TAGS  
 
