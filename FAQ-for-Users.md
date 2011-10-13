@@ -110,7 +110,7 @@ Any logged-in user that you are following sees changes to your private profile. 
 
 ###SHARING 
 
-***What happens when I add someone to one of my aspects?  Or when they add me to one of their aspects?***  
+***What happens when I add someone to one of my aspects?  Or when someone adds me to one of their aspects?***  
 Let's say that Amy adds Ben to an aspect, but Ben has not (yet) added Amy to an aspect:
 
 - Ben will receive a notification that Amy has "started sharing" with Ben.
@@ -127,7 +127,7 @@ Let's say that Amy adds Ben to an aspect, but Ben has not (yet) added Amy to an 
 
 - Amy will appear under "*Only sharing with me*" on Ben's contacts page.  
 
-This is known as asymmetrical sharing.  If and when Ben also adds Amy to an aspect then it would become symmetrical, bi-directional sharing, with each other's public posts and relevant private posts appearing in each other's streams, etc.   
+This is known as asymmetrical sharing.  If and when Ben also adds Amy to an aspect then it would become symmetrical, bi-directional sharing, with both Amy's and Ben's public posts and relevant private posts appearing in each other's streams, etc.   
 
 ***Who are the people listed in "Only sharing with me" on my contacts page?***  
 These are people that have added you to one of their aspects, but whom you have not (yet) added to one of your aspects.  In other words, they are sharing with you, but you are not sharing with them (asymmetrical sharing).  If you add them to an aspect, they will then appear under that aspect and not under "only sharing with you".  See above.
