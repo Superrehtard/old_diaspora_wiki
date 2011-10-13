@@ -220,4 +220,4 @@ Yes, but this is still not a polished feature and the formatting of the results 
 
 ## What if my question isn't answered here?
 
-See the links at the [top of this page](#).
+See the links at the [top of this page](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users/).
