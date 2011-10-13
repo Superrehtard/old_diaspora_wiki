@@ -72,5 +72,3 @@
 *   [Datavisualisation video][29]
     
 *   [Elegant Brass 2][30]
-
-*  [Own your own social graph](file:///home/morgenstern/Documenti/own_your_social_graph.svg)
