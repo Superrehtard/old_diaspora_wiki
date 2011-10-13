@@ -23,7 +23,7 @@ anywhere on the site.
 * Live discussion on our [[IRC channels|How we use IRC]]
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
 * [[Logos, Icons, and Visual Art]] - includes wallpaper, fan art, etc.
-* [[Tools to use with Diaspora]] - browser add-ons, share buttons, wordpress plugins, etc.
+* [[Tools to use with Diaspora]] - browser add-ons, share buttons, CMS plugins, etc.
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
