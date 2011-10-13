@@ -20,7 +20,6 @@ in [[IRC|How we use IRC]], on Freenode.**
 1. We are developing Diaspora for the latest and greatest browsers, so please update your 
 Firefox, Opera, Chrome or Safari to the newest version. We do not currently support any version of 
 Internet Explorer, though support is planned in the future.
-**How can you "not currently support any version of Internet Explorer, though support is planned in the future."  How can you even write something that would not support IE?  The most popular browser? Man!**
 
 2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">Thin</a> 
 as our application server and <a href="http://wiki.nginx.org/Main" target="_blank">Nginx</a> as 
