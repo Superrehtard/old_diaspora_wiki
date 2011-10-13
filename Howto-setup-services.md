@@ -13,7 +13,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 [[https://mrzyx.de/diaspora/services_twitter_2.png|width=500px]]
     * Give it a name.  For example "Diaspora at example.org"
     * Give it a description
-    * Set the application website to your pod URL or a page that describes what Diaspora is and waht your pod has to do with it
+    * Set the application website to your pod URL or a page that describes what Diaspora is and what your pod has to do with it
     * Leave the application type at Browser
     * **Important:** Set the callback URL to the domain under which your pod is running (including http:// or https://)
     * Set default access type to "Read & Write"
@@ -30,7 +30,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 * Goto [[http://www.tumblr.com/oauth/register]]        
   [[https://mrzyx.de/diaspora/services_tumblr.png|width=500px]]
     * Give it a name
-    * Set the application website to your pod URL or a page that describes what Diaspora is and waht your pod has to do with it
+    * Set the application website to your pod URL or a page that describes what Diaspora is and what your pod has to do with it
     * Give it a description
     * Enter an email address
     * **Important:** Set the "Default callback URL" to your pod_url (including http/https)+ /auth/tumblr/callback So if your pod is located at http://example.org enter http://example.org/auth/tumblr/callback
