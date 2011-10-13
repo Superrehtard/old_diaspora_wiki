@@ -30,6 +30,8 @@ on the mailing list.
 
 3. **Diaspora mandates HTTPS**, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
 
+**Note** While you can certainly get up and running with your own pod by using a self-signed SSL certificate, your pod may not be able to communicate with all other pods. It is therefore recommended that you use a certificate issued from a trusted Certificate Authority.
+
 ## Preparing your system
 
 In order to run Diaspora, you will need to install the following dependencies (specific instructions
