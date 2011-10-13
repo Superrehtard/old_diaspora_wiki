@@ -159,7 +159,7 @@ In that case your post is limited to the smaller character count, and the number
 ###TAGS  
 
 ***What are tags for?***  
-Tags are a way to categorize a post, usually by topic.  Searching for a tag will show all public posts that have that tag.  This lets people who are interested in a given topic find recent public posts about it.  
+Tags are a way to categorize a post, usually by topic.  Searching for a tag shows all posts with that tag that you can see (both public and private posts).  This lets people who are interested in a given topic find recent public posts about it.  
 
 ***Can I put tags in comments or just in posts?***  
 A tag added to a comment will still appear as a link to that tag's page, but it will not make that post (or comment) appear on that tag page.  This only works for tags in posts.
