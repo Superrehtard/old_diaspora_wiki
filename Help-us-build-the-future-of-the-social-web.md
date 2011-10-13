@@ -1,7 +1,7 @@
 Whether you are a coder, designer, or just a regular user, there are lots of ways you can get involved with
 DIASPORA*. We need your help – please pick a role you like from the list below, and jump in!
 
-* Tell people about Diaspora! We need your [tweets](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY), blog posts, or [fan art](https://joindiaspora.com/tags/diaspora).
+* Tell people about Diaspora! We need your [tweets](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY), blog posts, or [fan art](https://github.com/diaspora/diaspora/wiki/Logos,-Icons,-and-Visual-Art).
 * Volunteer to make people welcome! [Sign up here](http://bit.ly/rny6Zp)
 * Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
