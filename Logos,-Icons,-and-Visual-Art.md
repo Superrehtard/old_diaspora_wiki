@@ -44,6 +44,8 @@
 
 *   [Pirate D](http://fav.me/d4cjf2n)
 
+*   [Metaloid IV](http://fav.me/d4cpa4t)
+
  [26]: http://naesk.deviantart.com/art/Diaspora-Future-Prediction-252416084
  [27]: http://naesk.deviantart.com/art/Diaspora-Monolith-Dawning-221230196
  [28]: http://apolonis.deviantart.com/gallery
