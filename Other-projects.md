@@ -13,6 +13,8 @@ Projects in the same broad technology space as Diaspora.
   * <a href="http://daisycha.in/" target="_blank">daisycha.in</a>
 * <a href="http://opensource.appleseedproject.org/" target="_blank">Appleseed</a>
 * <a href="http://open.buddycloud.com" target="_blank">buddycloud channels</a>
+* <a href="http://onesocialweb.com" target="_blank">One Social Web</a>
+* <a href="http://movim.eu" target="_blank">movim.eu</a>
   
 ## FreedomBox Foundation
 
