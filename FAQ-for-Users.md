@@ -1,4 +1,10 @@
-If you have questions that are not answered here you can get community powered support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  Or try the tutorials on [Diasporial](http://diasporial.com/tutorials).  Or ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
+###WHERE TO GET HELP
+If you have questions that are not answered below, try:
+
+*  Asking your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
+*  [Diasporial](http://diasporial.com) - especially their excellent [tutorials](http://diasporial.com/tutorials)
+*  [Diaspora Forum](http://www.diasporaforum.org/) - community powered support
+*  [GetSatisfaction](http://getsatisfaction.com/diaspora) - community powered support
 
 ###PODS AND SEEDS
 
@@ -214,8 +220,4 @@ Yes, but this is still not a polished feature and the formatting of the results 
 
 ## What if my question isn't answered here?
 
-Get community-powered answers and support on [GetSatisfaction](http://getsatisfaction.com/diaspora) and the [Diaspora Forum](http://www.diasporaforum.org/).  
-
-Try the tutorials on [Diasporial](http://diasporial.com/tutorials).
-
-Or ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
+See the links at the [top of this page](#).
