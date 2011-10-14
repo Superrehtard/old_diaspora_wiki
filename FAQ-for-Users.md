@@ -1,7 +1,7 @@
 ###WHERE TO GET HELP
-If you have questions that are not answered below, try:
+If your questions are not answered below, these are some more options:
 
-*  Asking your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
+*  Ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
 *  [Diasporial](http://diasporial.com) - especially their excellent [tutorials](http://diasporial.com/tutorials)
 *  [Diaspora Forum](http://www.diasporaforum.org/) - community powered support
 *  [GetSatisfaction](http://getsatisfaction.com/diaspora) - community powered support
