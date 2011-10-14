@@ -2,17 +2,33 @@
 
 This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
 
-h2. General notes
+***
+
+**Table of Contents:**
+* Introduction
+** "General notes":#general_notes
+** "Authentication":#authentication
+* Stream methods
+** "GET /stream":#get_stream
+* Post functions
+** "GET /post/[post]":#get_post
+* Conversation
+** "GET /conversations":#get_conversations
+** "GET /conversation/[conversation]":#get_conversation
+
+***
+
+h2(#general_notes). General notes
 
 We want to use as much already existing standards as possible, so we decided to use "JSON Activity Streams":http://activitystrea.ms/specs/json/1.0/ for everything related with streams and messages and "Portable Contacts":http://portablecontacts.net/draft-spec.html for everything regarding profiles.
 
-h2. Authentication
+h2(#authentication). Authentication
 
 In this first version we are going to use http basic auth until OAuth is fully implemented and tested. Devise supports http basic auth and that's easy to enable.
 
 h2. Stream
 
-h3. GET /stream
+h3(#get_stream). GET /stream
 
 Returns a JSON of the stream items. (ActivityStreams)
 
@@ -22,23 +38,53 @@ no parameters
 
 h4. Example
 
-bc. GET /contacts
+bc. GET /stream?sort_order=created_at
 {
-  "contacts": [
+  "items": [
     {
-      "id": "23",
-      "displayName": "John Doe"
+      "id": "456",
+      "published": "2011-02-10T15:04:55Z",
+      "actor": {
+        "id": "42",
+        "displayName": "Jane Doe",
+        "name": "Jane Doe",
+        "nickname": "jane@pod.example.org",
+        "preferredUsername": "jane",
+        "birthday": "1975-02-14",
+        "gender": "who knows",
+        "note": "Janes profile description"
+        "picture": "http://example.com/uploads/images/foo.png"
+      },
+      "verb": "post",
+      "object": {
+        "content": "Hello, epic Diasporaverse"
+      }
     },
     {
-      "id": "42",
-      "displayName": "Jane Doe"
+      "id": "564",
+      "published": "2011-02-11T14:03:55Z",
+      "actor": {
+        "id": "23",
+        "displayName": "John Doe",
+        "name": "John Doe",
+        "nickname": "john@pod.example.org",
+        "preferredUsername": "john",
+        "birthday": "1975-02-14",
+        "gender": "who knows",
+        "note": "Johns profile description"
+        "picture": "http://example.com/uploads/images/foo.png"
+      },
+      "verb": "post",
+      "object": {
+        "content": "Good morning!"
+      }
     }
   ]
 }
 
 h2. Posts
 
-h3. GET /post/[post]
+h3(#get_post). GET /post/[post]
 
 Returnsa JSON containing the requested post. (ActivityStreams)
 
@@ -71,7 +117,7 @@ bc. GET /posts/456
 
 h2. Conversations
 
-h3. GET /conversations
+h3(#get_conversations). GET /conversations
 
 Returns a JSON containing all conversations. (extended ActivitySreams)
 
@@ -121,7 +167,7 @@ bc. GET /conversations
   ]
 }
 
-h3. GET /conversation/[conversation]
+h3(#get_conversation). GET /conversation/[conversation]
 
 Returns a JSON (ActivityStreams) containing all messages of the given conversation
 
