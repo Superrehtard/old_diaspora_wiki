@@ -24,7 +24,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [German Data Protection Act Button](http://blog.pgs-info.de/index.php/2011/08/24/social-media-buttons-datenschutzkonform) with regard to German Data Protection Act (German only ATM)
 
-*   [HTML5 animated button](http://bit.ly/oKRKrS) with embedded image, uses html5 localStorage to save the name of the pod
+*   [HTML5 animated button](http://bit.ly/nUM4c0) with embedded image, uses html5 localStorage to save the name of the pod
 
 *   [Burnman’s Diaspora Button](http://theburnman.com/wordpress-plugins/burnmans-diaspora-button/) for Wordpress
 
