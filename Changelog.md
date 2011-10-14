@@ -1,5 +1,19 @@
 # 2011
 
+### October
+* Mentions stream to see all posts you were mentioned in
+* Followed tags stream that aggregates posts for all of your followed tags
+* Featured users stream
+* De/select all aspects and improvements to aspect de/selection
+* Alphebetized tags list
+* Reshare on mobile web app
+
+### September
+* Mobile web app redesign
+* Database improvements (scaling)
+* Reshare notifications
+* Aspect dropdown in the publisher, showing clearly which aspects are receiving a post
+
 ### August
 
 * Featured users
