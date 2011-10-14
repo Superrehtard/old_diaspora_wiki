@@ -14,7 +14,7 @@ h2. Stream
 
 h3. GET /stream
 
-Returns a JSON of the stream items.
+Returns a JSON of the stream items. (ActivityStreams)
 
 h4. Parameters
 
@@ -34,4 +34,37 @@ bc. GET /contacts
       "displayName": "Jane Doe"
     }
   ]
+}
+
+h2. Posts
+
+h3. GET /post/[post]
+
+Returnsa JSON containing the requested post. (ActivityStreams)
+
+h4. Parameters
+
+* post: The post ID
+
+h4. Example
+
+bc. GET /posts/456
+{
+  "id": "456",
+  "published": "2011-02-10T15:04:55Z",
+  "actor": {
+    "id": "42",
+    "displayName": "Jane Doe",
+    "name": "Jane Doe",
+    "nickname": "jane@pod.example.org",
+    "preferredUsername": "jane",
+    "birthday": "1975-02-14",
+    "gender": "who knows",
+    "note": "Janes profile description"
+    "picture": "http://example.com/uploads/images/foo.png"
+  },
+  "verb": "post",
+  "object": {
+    "content": "Hello, epic Diasporaverse"
+  }
 }
