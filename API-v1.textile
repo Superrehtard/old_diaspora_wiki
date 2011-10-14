@@ -16,8 +16,6 @@ This is a draft for designing Diaspora's API version 1. This is neither complete
 ** "GET /conversations":#get_conversations
 ** "GET /conversation/[conversation]":#get_conversation
 
-***
-
 h2(#general_notes). General notes
 
 We want to use as much already existing standards as possible, so we decided to use "JSON Activity Streams":http://activitystrea.ms/specs/json/1.0/ for everything related with streams and messages and "Portable Contacts":http://portablecontacts.net/draft-spec.html for everything regarding profiles.
