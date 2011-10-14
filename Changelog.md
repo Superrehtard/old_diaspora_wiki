@@ -7,6 +7,7 @@
 * De/select all aspects and improvements to aspect de/selection
 * Alphebetized tags list
 * Reshare on mobile web app
+* Tag pages now inddicate how many people are following a tag
 
 ### September
 * Mobile web app redesign
