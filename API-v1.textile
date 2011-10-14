@@ -1,0 +1,39 @@
+**I ("Dennis Schubert, @denschub":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
+
+h1. The Diaspora API - Version 1
+
+This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
+
+h2. General notes
+
+We want to use as much already existing standards as possible, so we decided to use "JSON Activity Streams":http://activitystrea.ms/specs/json/1.0/ for everything related with streams and messages and "Portable Contacts":http://portablecontacts.net/draft-spec.html for everything regarding profiles.
+
+h2. Authentication
+
+In this first version we are going to use http basic auth until OAuth is fully implemented and tested. Devise supports http basic auth and that's easy to enable.
+
+h2. Stream
+
+h3. GET /stream
+
+Returns a JSON of the stream items.
+
+h4. Parameters
+
+no parameters
+
+h4. Example
+
+bc. GET /contacts
+{
+  "contacts": [
+    {
+      "id": "23",
+      "displayName": "John Doe"
+    },
+    {
+      "id": "42",
+      "displayName": "Jane Doe"
+    }
+  ]
+}
