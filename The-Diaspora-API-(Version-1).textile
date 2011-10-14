@@ -1,4 +1,4 @@
-**I ("Dennis Schubert, @denschub":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
+**I ("Dennis Schubert (@denschub)":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
 
 This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
 
@@ -44,7 +44,7 @@ Returnsa JSON containing the requested post. (ActivityStreams)
 
 h4. Parameters
 
-* post: The post ID
+* **post**: The post ID
 
 h4. Example
 
@@ -68,3 +68,67 @@ bc. GET /posts/456
     "content": "Hello, epic Diasporaverse"
   }
 }
+
+h2. Conversations
+
+h3. GET /conversations
+
+Returns a JSON containing all conversations. (extended ActivitySreams)
+
+h4. Parameters
+
+none
+
+h4. Example
+
+bc. GET /conversations
+{
+  "conversations": [
+    {
+      "id": "123",
+      "subject": "Hello, you",
+      "created_at": "2011-02-10T15:04:55Z",
+      "updated_at": "2011-02-10T15:04:55Z",
+      "lastAuthor": {
+        "id": "42",
+        "displayName": "Jane Doe",
+        "name": "Jane Doe",
+        "nickname": "jane@pod.example.org",
+        "preferredUsername": "jane",
+        "birthday": "1975-02-14",
+        "gender": "who knows",
+        "note": "Janes profile description",
+        "picture": "http://example.com/uploads/images/foo.png"
+      }
+    },
+    {
+      "id": "456",
+      "subject": "BugBug!",
+      "created_at": "2011-02-10T15:04:55Z",
+      "updated_at": "2011-02-10T15:04:55Z",
+      "lastAuthor": {
+        "id": "23",
+        "displayName": "John Doe",
+        "name": "John Doe",
+        "nickname": "John@pod.example.org",
+        "preferredUsername": "John",
+        "birthday": "1975-02-14",
+        "gender": "who knows",
+        "note": "John profile description",
+        "picture": "http://example.com/uploads/images/foo.png"
+      }
+    }
+  ]
+}
+
+h3. GET /conversation/[conversation]
+
+Returns a JSON (ActivityStreams) containing all messages of the given conversation
+
+h4. Parameters
+
+* **conversation**: the id of a conversation
+
+h4. Example
+
+See *GET /stream*, this will look similar.
