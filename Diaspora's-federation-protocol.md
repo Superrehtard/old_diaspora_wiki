@@ -8,7 +8,7 @@ In a symmetric "friending" relationship, neither party sees any posts from the o
 
 In an asymmetric "sharing" relationship, if you start sharing with someone else, you have decided to send them posts.  They may or may not choose to share with you as well.  If they choose not to, you will see only their posts that they have explicitly marked as public.
 
-Public posts are send in salmons, just like all posts.
+Public posts are sent in salmons, just like all posts.
 
 # Core Diaspora Protocols
 
