@@ -8,7 +8,7 @@ In a symmetric "friending" relationship, neither party sees any posts from the o
 
 In an asymmetric "sharing" relationship, if you start sharing with someone else, you have decided to send them posts.  They may or may not choose to share with you as well.  If they choose not to, you will see only their posts that they have explicitly marked as public.
 
-Public posts are sent in salmons, just like all posts.
+Public posts are sent in salmon, just like all posts.
 
 # Core Diaspora Protocols
 
@@ -196,7 +196,7 @@ When a user is created on the pod, the pod MUST generate a pgp keypair for them.
 
 ## Sending
 
-If you (Alice) have decided to share with a user (Bob) on another pod, then you will need to send posts as salmons to the remote user.
+If you (Alice) have decided to share with a user (Bob) on another pod, then you will need to send posts as salmon to the remote user.
 
 You have three tasks:
 
