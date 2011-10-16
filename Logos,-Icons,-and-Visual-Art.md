@@ -40,7 +40,7 @@
     
 *   [Soffio][39]
 
-*   [golD*](http://bit.ly/n672BO)
+*   [golD*](http://bit.ly/rthcMm)
 
 *   [Pirate D](http://fav.me/d4cjf2n)
 
@@ -51,7 +51,7 @@
  [28]: http://apolonis.deviantart.com/gallery
  [29]: http://vimeo.com/24998484
  [30]: http://pix.toile-libre.org/upload/original/1316972985.png
- [31]: http://dl.dropbox.com/u/22821615/d_typography.zip
+ [31]: http://bit.ly/r6SRL9
  [32]: http://minus.com/mbmKpJylh5XBOs
  [33]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_diaspora_field.jpg
  [34]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/Diaspora-is-everywhere.jpg
@@ -59,7 +59,7 @@
  [36]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_majestic_Diaspora.jpg
  [37]: http://apolonis.deviantart.com/art/Metal-Pod-261268484
  [38]: http://apolonis.deviantart.com/art/Le-Passage-261741787
- [39]: http://bit.ly/rohrn0
+ [39]: http://bit.ly/q4RY2J
 
 ###Fan Art
     
