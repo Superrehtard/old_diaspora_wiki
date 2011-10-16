@@ -40,7 +40,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 ###Cubbi.es extensions 
     
-*   [Opera](http://dl.dropbox.com/u/22821615/cubbies_opera.zip)
+*   [Opera](http://bit.ly/nPBzuk)
     
 *   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)
     
