@@ -179,7 +179,7 @@ Tags are a way to categorize a post, usually by topic.  Searching for a tag show
 ***Can I put tags in comments or just in posts?***  
 A tag added to a comment will still appear as a link to that tag's page, but it will not make that post (or comment) appear on that tag page.  This only works for tags in posts.
 
-***What are "Followed Tags" and how do I follow a tag?
+***What are "Followed Tags" and how do I follow a tag?***  
 After searching for a tag you can click the button at the top of the tag's page to "follow" that tag.  It will then appear in your list of "Followed Tags" on the left.  Clicking on one of your followed tags takes you to that tag's page so you can see recent posts containing that tag.  Click on "Followed Tags" to see a stream that contains posts that contain one of any of your followed tags.  
 
 ***Who are the people on the left hand side of a tag page?***  
@@ -210,12 +210,6 @@ No, it is not possible to reshare a private post.  This is to respect the intent
 
 ###ACCOUNT AND DATA MANAGEMENT  
 
-***How much of my information can my pod administrator see?***  
-Communication *between* pods is always encrypted, but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually also the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you then control access to your own pod's database.  
-
-***Can the administrators of other pods see my information?***  
-Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  
-
 ***How do I move my seed (account) from one pod to another?***  
 In the future you will be able to export your seed from a pod and import it on another, but this is not currently possible. You could always open a new account and ask your contacts to search for it and add you again.  
 
@@ -224,6 +218,12 @@ Yes. At the bottom of your settings page there are two buttons for downloading y
 
 ***How do I delete my seed (account)?***  
 Go to the bottom of your settings page and click the close account button.  
+
+***How much of my information can my pod administrator see?***  
+Communication *between* pods is always encrypted, but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually also the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you then control access to your own pod's database.  
+
+***Can the administrators of other pods see my information?***  
+Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  
 
 ###MISCELLANEOUS
 
