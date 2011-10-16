@@ -452,7 +452,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu 10.04 LTS
     * Comments: Public and free Diaspora pod.
 
-* [[https://diaspora.podzimek.org]]
+* [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
     * Updated: frequently
     * Maintained by: Andrej Podzimek <andrej@podzimek.org>
