@@ -4,7 +4,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 * [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - share webpages and images to Diaspora, translate text on Diaspora (Firefox)
 
-*  [D* Hide Images](http://bit.ly/pWcCYN) - hides images in your stream until you choose to show them, hover to preview (Firefox, Chrome, Safari)
+*  [D* Hide Images](http://bit.ly/pWcCYN) - hides images in your stream until you choose to show them, hover to preview (Firefox, Chrome, Safari, Opera)
 
 *   [Diaspora* Publisher](https://chrome.google.com/webstore/detail/pgblolfhnddeobmfgjhckddncbbfnlim?hl=fr) - (Chrome) allows you to share your favorite pages with your friends; you can also select and share a specific part of the page.
     
