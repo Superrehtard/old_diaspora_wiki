@@ -21,7 +21,7 @@ A seed is a profile or an account, and contains all the data of a specific user.
 Invite your friends.  Follow #tags to discover others who share your interests.  Meet new contacts on this [Diaspora Forum thread](http://www.diasporaforum.org/forum/showthread.php?233-Just-joined-a-Diaspora-pod-Looking-for-people-to-share-with).  
 
 ***How do I use the search box to find particular people to share with?***  
-Search for their full Diaspora handle (e.g. `username@podname.org`).  If you are on the same pod you can search for just their username. If a search does not work the first time, try it again. Once you have added someone to one of your aspects, you can search for them using just their username.  
+Search for their full Diaspora handle (e.g. `username@podname.org`).  If you are on the same pod you can search for just their username. If a search does not work the first time, try it again. Once you have added someone to one of your aspects, you can search for them using just their username.  (The person you are searching for will need to have "allow people to search for you within Diaspora" checked on the "edit profile" page.)
 
 ###ASPECTS
 
@@ -53,7 +53,7 @@ Yes.  When you are making a post, use the aspects menu to select or deselect asp
 Yes. Go to your *contacts* page and click *my contacts*.  For each contact you can use the menu on the right to add them to (or remove them from) as many aspects as you want.  
 
 ***How do I delete an aspect?***  
-In your list of aspects on the left of the main page, point your mouse at the aspect you want to delete.  Click the little 'edit' pencil that appears on the right.  Click the *delete* button in the box that appears.  
+In your list of aspects on the left side of the main page, point your mouse at the aspect you want to delete.  Click the little 'edit' pencil that appears on the right.  Click the *delete* button in the box that appears.  
 
 ###PUBLIC POSTS
 
@@ -141,6 +141,9 @@ These are people that have added you to one of their aspects, but whom you have 
 ***Is there a list of people whom I have added to one of my aspects, but who have not added me to one of theirs?***  
 No, in the interest of helping to keep each person's own aspects private to them.  However, you should get a one-time notification that someone has started sharing with you when they add you to an aspect.
 
+***When I add someone to an aspect, can they see older posts that I have already posted to that aspect?***  
+No. They will only be able to see new posts to that aspect.  They (and everyone else) can see your older *public* posts on your profile page, but they *may* also see them in their stream if you are both on the same pod, or if you are on different pods but someone on their pod is already following you.  (Posts from the past are not shared between pods retroactively, but they may have already been shared between them when they were first posted.)  
+
 ###MORE ON POSTS AND POSTING
 
 ***How do I hide a post?***  
@@ -156,6 +159,12 @@ Click the little photo icon to insert an image into a post.  Press the photo ico
 ***Can I insert images into comments?***  
 The following [Markdown](http://diasporial.com/tutorials/formatting-text) code `![image text](image url)` can be used to insert images into comments as well as posts.  It also allows more control over embedding images into the text of posts. 
 
+***Can I customize the size of images in posts or comments?***  
+No.  Images are resized automatically to fit the stream.  (And [Markdown](http://diasporial.com/tutorials/formatting-text) does not allow specifying the size of an image.)
+
+***How do I embed a video, audio, or other multimedia content into a post?***  
+You can usually just paste the URL (e.g. http://www.youtube.com/watch?v=dQw4w9WgXcQ) into your post and the video or audio will be embedded automatically.  These are some websites that are supported: [YouTube](http://youtube.com), [Viddler](http://viddler.com), [Qik](http://qik.com/), [Revision3](http://revision3.com/), [Hulu](http://www.hulu.com/), [Vimeo](http://vimeo.com/), [SoundCloud](http://soundcloud.com/), [Cubbi.es](http://cubbi.es/). (Diaspora uses [oEmbed](http://www.oembed.com) for this feature.)
+
 ***What is the character limit for posts?***  
 10,000 characters.  That's 9,860 more characters than you get on Twitter! ;)  
 
@@ -165,10 +174,13 @@ In that case your post is limited to the smaller character count, and the number
 ###TAGS  
 
 ***What are tags for?***  
-Tags are a way to categorize a post, usually by topic.  Searching for a tag shows all posts with that tag that you can see (both public and private posts).  This lets people who are interested in a given topic find recent public posts about it.  
+Tags are a way to categorize a post, usually by topic.  Searching for a tag shows all posts with that tag that you can see (both public and private posts).  This lets people who are interested in a given topic find public posts about it.  
 
 ***Can I put tags in comments or just in posts?***  
 A tag added to a comment will still appear as a link to that tag's page, but it will not make that post (or comment) appear on that tag page.  This only works for tags in posts.
+
+***What are "Followed Tags" and how do I follow a tag?
+After searching for a tag you can click the button at the top of the tag's page to "follow" that tag.  It will then appear in your list of "Followed Tags" on the left.  Clicking on one of your followed tags takes you to that tag's page so you can see recent posts containing that tag.  Click on "Followed Tags" to see a stream that contains posts that contain one of any of your followed tags.  
 
 ***Who are the people on the left hand side of a tag page?***  
 They are people who have listed that tag in their public profile.  
@@ -197,6 +209,12 @@ No, when you reshare a public post it automatically becomes one of your public p
 No, it is not possible to reshare a private post.  This is to respect the intentions of the original poster who only shared it with a particular group of people.  
 
 ###ACCOUNT AND DATA MANAGEMENT  
+
+***How much of my information can my pod administrator see?***  
+Communication *between* pods is always encrypted, but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually also the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you then control access to your own pod's database.  
+
+***Can the administrators of other pods see my information?***  
+Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  
 
 ***How do I move my seed (account) from one pod to another?***  
 In the future you will be able to export your seed from a pod and import it on another, but this is not currently possible. You could always open a new account and ask your contacts to search for it and add you again.  
