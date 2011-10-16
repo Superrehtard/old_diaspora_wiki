@@ -163,7 +163,7 @@ The following [Markdown](http://diasporial.com/tutorials/formatting-text) code `
 No.  Images are resized automatically to fit the stream.  (And [Markdown](http://diasporial.com/tutorials/formatting-text) does not allow specifying the size of an image.)
 
 ***How do I embed a video, audio, or other multimedia content into a post?***  
-You can usually just paste the URL (e.g. http://www.youtube.com/watch?v=dQw4w9WgXcQ) into your post and the video or audio will be embedded automatically.  These are some websites that are supported: [YouTube](http://youtube.com), [Viddler](http://viddler.com), [Qik](http://qik.com/), [Revision3](http://revision3.com/), [Hulu](http://www.hulu.com/), [Vimeo](http://vimeo.com/), [SoundCloud](http://soundcloud.com/), [Cubbi.es](http://cubbi.es/). (Diaspora uses [oEmbed](http://www.oembed.com) for this feature.)
+You can usually just paste the URL (e.g. http://www.youtube.com/watch?v=dQw4w9WgXcQ ) into your post and the video or audio will be embedded automatically.  These are some websites that are supported: [YouTube](http://youtube.com), [Viddler](http://viddler.com), [Qik](http://qik.com/), [Revision3](http://revision3.com/), [Hulu](http://www.hulu.com/), [Vimeo](http://vimeo.com/), [SoundCloud](http://soundcloud.com/), [Cubbi.es](http://cubbi.es/). (Diaspora uses [oEmbed](http://www.oembed.com) for this feature.)
 
 ***What is the character limit for posts?***  
 10,000 characters.  That's 9,860 more characters than you get on Twitter! ;)  
@@ -223,7 +223,7 @@ Go to the bottom of your settings page and click the close account button.
 Communication *between* pods is always encrypted, but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually also the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you then control access to your own pod's database.  
 
 ***Can the administrators of other pods see my information?***  
-Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  
+Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  When you delete a post or profile data it is deleted from your pod and any other pods where it had previously been stored.  
 
 ###MISCELLANEOUS
 
