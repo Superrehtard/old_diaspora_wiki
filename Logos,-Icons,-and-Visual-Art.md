@@ -52,4 +52,4 @@
     
 *   [Elegant Brass 2](http://pix.toile-libre.org/upload/original/1316972985.png)
 
-*   [Moved to Diaspora Banners](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594) Want to to tell your friends on other SN why you are not there anymore?
+*   ["Moved to Diaspora" Banners](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594) Want to to tell your friends on other SN why you are not there anymore?
