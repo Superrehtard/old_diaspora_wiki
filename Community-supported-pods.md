@@ -264,6 +264,13 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
+* [[https://mispora.net/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
+   * Opened: 18/10/2011
+   * Updated: Frequently
+   * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
+   * Location: Tokyo, Japan
+   * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
+
 * [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
    * Opened: 3/3/2011
    * Updated: Very often (no exactly details cause of security reason)
