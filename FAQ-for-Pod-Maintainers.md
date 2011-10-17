@@ -12,6 +12,7 @@ Yes. [[Check it out!|Installing and Running Diaspora]] It will probably be more 
 this page, in general.
 
 ***What ports does Diaspora need open for communication?***  
+
 * Your server must be on either port 80 for HTTP or 443 for HTTPS. You must forward that port to 3000. Otherwise friend requests may cause lockups on other servers. See the command-line switches below.
 
 * Your server should also have 8080 available for websockets. <a href="http://en.wikipedia.org/wiki/WebSockets" target="_blank">Websockets</a> 
@@ -29,10 +30,10 @@ There are a couple of helpful command line options for setting the address and p
 
     bundle exec thin -a <address> -p <port> start
 
-**Note:** If you are running Diaspora on port 80, the command above needs to be executed as root - i.e., with su or sudo in front of it. 
+*Note:* If you are running Diaspora on port 80, the command above needs to be executed as root - i.e., with su or sudo in front of it. 
 For example, on Ubuntu, Arch et al. do <code>sudo bundle exec thin -p 80 start</code>
 
-**-D** will turn on debug mode.  Run <code>thin -h</code> to see a complete list.
+Use <code>-D</code> to turn on debug mode.  Run <code>thin -h</code> to see a complete list.
 
 ***How do I install on other distros?***  
 [Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)<br>
