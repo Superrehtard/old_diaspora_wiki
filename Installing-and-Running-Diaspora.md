@@ -79,8 +79,9 @@ After you're done following those instructions, come back here and move on to:
 
 ## Getting Diaspora Source
 
-Our code is hosted at GitHub (which also hosts the wiki page you're reading). To get a copy of 
-the Diaspora source, use the following command:
+Our code is hosted at GitHub (which also hosts the wiki page you're reading). Our test suite is run at <a href="http://travis-ci.org/#!/diaspora/diaspora" target="_blank">Travis CI</a>, you should check build status and verify your Ruby/DB combo are green and pass all tests before you pull code.
+
+To get a copy of the Diaspora source, use the following command:
 
         git clone git://github.com/diaspora/diaspora.git
         cd diaspora
