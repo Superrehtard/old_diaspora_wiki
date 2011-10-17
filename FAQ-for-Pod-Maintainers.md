@@ -101,6 +101,21 @@ You are most likely in production mode, or your apache/nginx is not serving stat
 3.  Help, I am receiving posts, but nobody is receiving mine!
 Check your ssl certs!
 
+***Is there anything I should do before upgrading my installation?***  
+We have a service (Travis) that builds all our code for each ruby version/database combination that we support. Before you update your Diaspora installation, you should check here to see if your combination is green: http://travis-ci.org/diaspora/diaspora  If it's not green, wait to do the update. (Note: Travis is having issues with their SSL cert, so you may get a warning, but it is safe to proceed.)
+
+***Will a pod eventually receive federated posts that it misses while being offline/down?***  
+Currently no, there are no retries, though we'd like to add that at some point. 
+
+***How do I roll back my installation if an update breaks it?***  
+Just do:  `git checkout [ref]`  Where [ref] is the identifier of the commit to go back to. It's a long guid-like string of letters and numbers. You can find the ref by doing a git log, eyeballing the commit dates, and figuring out where you were before you pulled. Of course it's best if you keep track of that ref before you update. :)
+
+***What if there were database migrations in the code I am rolling back?***  
+Then you also need to roll those back separately. You need to do this BEFORE you roll back the code. Look in the db/migrate directory and figure out which files are new since the last time you pulled - i.e., which migration your db should be on. They are in timestamp order in that directory. Then do:
+`rake db:rollback`  And look at the output. It will tell you which migration you are now on. It rolls back one each time you run it. Run it until you're on the right migration and then roll back the code as described above.
+
+Also be aware that database rollbacks can fail - they depend on the migration author writing the correct code to roll back. And if they didn't right the correct code to roll forward... :)  So really, the best thing you can do to avoid this is check [Travis](http://travis-ci.org/diaspora/diaspora) (as described above) before doing an update.
+
 
 ## What if my question isn't answered here?
 
