@@ -73,7 +73,7 @@ or select your hosting provider from this list:
 
 - [[Installing Diaspora dependencies on Dreamhost|Installing on Dreamhost]]
 
-If you don't see your system on here, don't give up. It should work similar on most distributions. If you figure it out we'd love it when you add a guide here, even a "do the same as for xy" would help.
+If you don't see your system on here, don't give up. It should work similarly on most distributions. If you figure it out we'd love it when you add a guide here, even a "do the same as for xy" would help.
 
 After you're done following those instructions, come back here and move on to:
 
