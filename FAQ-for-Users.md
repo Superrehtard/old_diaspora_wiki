@@ -220,10 +220,10 @@ Yes. At the bottom of your settings page there are two buttons for downloading y
 Go to the bottom of your settings page and click the close account button.  
 
 ***How much of my information can my pod administrator see?***  
-Communication *between* pods is always encrypted, but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually also the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you then control access to your own pod's database.  
+Communication *between* pods is always encrypted (using [SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security)), but the storage of data on pods is not encrypted.  If they wanted to, the database administrator for your pod (usually the person running the pod) could access all your profile data and everything that you post (as is the case for most every website that stores user data).  Running your own pod provides more privacy since you would control access to the database.  
 
 ***Can the administrators of other pods see my information?***  
-Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are then accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that when you view someone's profile, you can easily understand what their pod's policies allow the pod maintainer to do with your information.)  When you delete a post or profile data it is deleted from your pod and any other pods where it had previously been stored.  
+Once you are sharing with someone on another pod, any posts you share with them and a copy of your profile data are stored (cached) on their pod, and are accessible to that pod's database administrator.  (There are plans to implement a system of privacy badges for pods so that you can easily understand to what degree the policies of someone else's pod would safeguard the privacy of your information, before you add them to one of your aspects.)  When you delete a post or profile data it is deleted from your pod and any other pods where it had previously been stored.  
 
 ###MISCELLANEOUS
 
