@@ -21,7 +21,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 ## Diaspora pods
 
-* [[https://cospora.org/]] [[https://cospora.org/apple-touch-icon.png|height=30px]]
+* [[https://cospora.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
    * Opened: 16/10/2011
    * Updated: Daily
    * Maintained by: The Cospora Team
