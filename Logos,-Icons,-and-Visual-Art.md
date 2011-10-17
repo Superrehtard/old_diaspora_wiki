@@ -52,6 +52,6 @@
     
 *   [Elegant Brass 2](http://pix.toile-libre.org/upload/original/1316972985.png)
 
-*   [Diaspora - The Open Social Network ](http://www.youtube.com/watch?v=7scQUNNH444) a video tutorial of Diaspora 
+*   [Diaspora - The Open Social Network ](http://www.youtube.com/watch?v=7scQUNNH444) A video tutorial of Diaspora 
 
 *   ["Moved to Diaspora" Banners](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594) Want to to tell your friends on other SN why you are not there anymore?
