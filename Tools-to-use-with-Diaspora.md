@@ -30,7 +30,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora* Advanced Sharer](http://sharetodiaspora.github.com/about/) is a service to share links to any Diaspora* pod.
 
-*   [HTML share button for JoinDiaspora](http://pastebin.com/PxrFauH8): works for any blog or site (simple html), with joindiaspora.com only.
+*   [HTML share button for JoinDiaspora](http://pastebin.com/PxrFauH8) works for any blog or site (simple html), with joindiaspora.com only.
 
 
 ###WordPress Plugins
