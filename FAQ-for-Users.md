@@ -1,10 +1,24 @@
 ###WHERE TO GET HELP
-If your questions are not answered below, these are some more options:
+**If your questions are not answered below, you can**
 
-*  Ask your question in a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
-*  [Diasporial](http://diasporial.com) - especially their excellent [tutorials](http://diasporial.com/tutorials)
-*  [Diaspora Forum](http://www.diasporaforum.org/) - community powered support
-*  [GetSatisfaction](http://getsatisfaction.com/diaspora) - community powered support
+
+Check these tutorials
+
+*  [Diasporial](http://diasporial.com) (blog; tutorials, tips) - especially their excellent [tutorials](http://diasporial.com/tutorials)   
+*  [Diasporatest](http://www.diasporatest.com/index.php/HowToTutorial) (wiki: tuts and tips)   
+*  [Wiki](https://github.com/diaspora/diaspora/wiki) at Github    
+*  [Spored](http://wiki.spored.de/) (wiki; help) (german)    
+*  [Guide du parfait débutant](http://fr.wikibooks.org/wiki/Diaspora_:_Le_guide_du_parfait_débutant) (french)    
+
+
+Or ask your specific question
+
+*  In a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
+*  On [Diaspora Forum](http://www.diasporaforum.org/) - community powered support
+*  On [GetSatisfaction](http://getsatisfaction.com/diaspora) - community powered support
+*  On [IRC](file:///home/morgenstern/Documenti/%20http://webchat.freenode.net/%3Fchannels=diaspora-dev) *  (Live support)
+*  On [Spored](http://wiki.spored.de/) (wiki; help) (german)
+
 
 ###PODS AND SEEDS
 
