@@ -1,44 +1,37 @@
 ###Logos, Icons, Badges, Toolkits, Etc.
 
-*   SVG Images of logo ( [link 1][19] [ link 2][20] )
+*   SVG Images of logo ( [link 1](http://nwlinux.com/diaspora-logo-and-artwork/) [link 2](http://www.littlegreenriver.com/wp-content/uploads/diaspora-logo-1.png) )
 
-*   [Icon Set][21]
+*   [Icon Set](http://creativekaizen.deviantart.com/art/Diaspora-Icon-Set-257241499)
 
 * [Artwork Toolkit](http://naesk.deviantart.com/art/Diaspora-Artwork-Toolkit-254178705)
 
-*   Badges ( [w/b][22] [coloured][23] )
+*   Badges ( [w/b](http://naesk.deviantart.com/art/Diaspora-Web-Badges-80x15px-257840696) [coloured](http://naesk.deviantart.com/art/Diaspora-Badges80x15px-Colours-258228537) )
 
-*   Userbars ([ w/b][24] [coloured ][25])
+*   Userbars ([ w/b](http://naesk.deviantart.com/art/Diaspora-Userbars-350x19px-257899291) [coloured ](http://naesk.deviantart.com/art/Diaspora-Userbars-Coloured-258377952) )
 
- [19]: http://nwlinux.com/diaspora-logo-and-artwork/
- [20]: http://www.littlegreenriver.com/wp-content/uploads/diaspora-logo-1.png
- [21]: http://creativekaizen.deviantart.com/art/Diaspora-Icon-Set-257241499
- [22]: http://naesk.deviantart.com/art/Diaspora-Web-Badges-80x15px-257840696
- [23]: http://naesk.deviantart.com/art/Diaspora-Badges80x15px-Colours-258228537
- [24]: http://naesk.deviantart.com/art/Diaspora-Userbars-350x19px-257899291
- [25]: http://naesk.deviantart.com/art/Diaspora-Userbars-Coloured-258377952
 
 ###Wallpaper Images 
 
 * [Dandelion Wallpaper](http://wlppr.com/wallpapers/2011/10/04/Dandelion.1920x1200.jpg)
 
-*   [Diaspora* Typography][31]
+*   [Diaspora* Typography](http://bit.ly/r6SRL9)
     
-*   [Diaspora Wallpapers gallery][32]
+*   [A Diaspora Wallpapers gallery](http://minus.com/mbmKpJylh5XBOs)
     
-*   [The Diaspora* Field][33]
+*   [The Diaspora* Field](http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_diaspora_field.jpg)
     
-*   [Diaspora* is everywhere][34]
+*   [Diaspora* is everywhere](http://ubunblox.free.fr/UbunBlox/home/david/Photos/Diaspora-is-everywhere.jpg)
     
-*   [Road to Diaspora*][35]
+*   [Road to Diaspora*](http://ubunblox.free.fr/UbunBlox/home/david/Photos/Road_to_Diaspora.jpg)
     
-*   [The Majestic Diaspora*][36]
+*   [The Majestic Diaspora*](http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_majestic_Diaspora.jpg)
     
-*   [Metal Pod][37]
+*   [Metal Pod](http://apolonis.deviantart.com/art/Metal-Pod-261268484)
     
-*   [Le passage][38]
+*   [Le passage](http://apolonis.deviantart.com/art/Le-Passage-261741787)
     
-*   [Soffio][39]
+*   [Soffio](http://bit.ly/q4RY2J)
 
 *   [golD*](http://bit.ly/rthcMm)
 
@@ -46,29 +39,17 @@
 
 *   [Metaloid IV](http://fav.me/d4cpa4t)
 
- [26]: http://naesk.deviantart.com/art/Diaspora-Future-Prediction-252416084
- [27]: http://naesk.deviantart.com/art/Diaspora-Monolith-Dawning-221230196
- [28]: http://apolonis.deviantart.com/gallery
- [29]: http://vimeo.com/24998484
- [30]: http://pix.toile-libre.org/upload/original/1316972985.png
- [31]: http://bit.ly/r6SRL9
- [32]: http://minus.com/mbmKpJylh5XBOs
- [33]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_diaspora_field.jpg
- [34]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/Diaspora-is-everywhere.jpg
- [35]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/Road_to_Diaspora.jpg
- [36]: http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_majestic_Diaspora.jpg
- [37]: http://apolonis.deviantart.com/art/Metal-Pod-261268484
- [38]: http://apolonis.deviantart.com/art/Le-Passage-261741787
- [39]: http://bit.ly/q4RY2J
 
 ###Fan Art
     
-*   [Diaspora Future Prediction][26]
+*   [Diaspora Future Prediction](http://naesk.deviantart.com/art/Diaspora-Future-Prediction-252416084)
     
-*   [Diaspora Monolith Dawning][27]
+*   [Diaspora Monolith Dawning](http://naesk.deviantart.com/art/Diaspora-Monolith-Dawning-221230196)
     
-*   [A gallery of funny artworks][28]
+*   [A gallery of funny artworks](http://apolonis.deviantart.com/gallery)
     
-*   [Datavisualisation video][29]
+*   [Datavisualisation video](http://vimeo.com/24998484)
     
-*   [Elegant Brass 2][30]
+*   [Elegant Brass 2](http://pix.toile-libre.org/upload/original/1316972985.png)
+
+*   [Moved to Diaspora Banners](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594) Want to to tell your friends on other SN why you are not there anymore?
