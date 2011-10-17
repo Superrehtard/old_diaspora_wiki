@@ -264,7 +264,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
-* [[https://mispora.net/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
+* [[https://mispora.net/]] [[https://a248.e.akamai.net/assets.github.com/img/ff90672606cd44468cee316a6f3ac47a49fffad1/687474703a2f2f64696173706f72612e6469676974616c696e73616e6974792e64652f6170706c652d746f7563682d69636f6e2e706e67]]
    * Opened: 18/10/2011
    * Updated: Frequently
    * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
