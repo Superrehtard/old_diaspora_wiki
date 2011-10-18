@@ -13,11 +13,13 @@
 
 ###Wallpaper Images 
 
+*   Galleries of awesome wallpapers ( [link1](http://apolonis.deviantart.com/gallery/33154505), [link2](http://minus.com/mbmKpJylh5XBOs) )
+
 * [Dandelion Wallpaper](http://wlppr.com/wallpapers/2011/10/04/Dandelion.1920x1200.jpg)
 
 *   [Diaspora* Typography](http://bit.ly/r6SRL9)
     
-*   [A Diaspora Wallpapers gallery](http://minus.com/mbmKpJylh5XBOs)
+
     
 *   [The Diaspora* Field](http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_diaspora_field.jpg)
     
@@ -27,17 +29,9 @@
     
 *   [The Majestic Diaspora*](http://ubunblox.free.fr/UbunBlox/home/david/Photos/The_majestic_Diaspora.jpg)
     
-*   [Metal Pod](http://apolonis.deviantart.com/art/Metal-Pod-261268484)
-    
-*   [Le passage](http://apolonis.deviantart.com/art/Le-Passage-261741787)
-    
 *   [Soffio](http://bit.ly/q4RY2J)
 
 *   [golD*](http://bit.ly/rthcMm)
-
-*   [Pirate D](http://fav.me/d4cjf2n)
-
-*   [Metaloid IV](http://fav.me/d4cpa4t)
 
 
 ###Fan Art
