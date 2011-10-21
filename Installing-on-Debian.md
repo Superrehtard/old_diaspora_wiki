@@ -58,6 +58,13 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
     rvm install ree
     rvm use ree@global
 
+
+For Debian 6.0 users who wish to install ree(ruby enterprise edition)(or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
+
+    rvm pkg install openssl
+    rvm remove ree #just in case
+    rvm install ree --with-openssl-dir=$rvm_path/usr
+
 ### MySQL
 
 This installs MySQL, you also need the libmysqlclient-dev and libmysql-ruby packages.
