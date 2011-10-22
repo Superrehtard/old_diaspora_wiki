@@ -162,7 +162,7 @@ As noted previously, you will need to configure NGINX to point to your SSL certi
 Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
 
 ### Configuring WebSockets
-WebSockets is required to have instant notifications and similar services, you can completely live without it. If you fancy to have it see [[this page|WebSockets]].
+WebSockets is required to have instant notifications and similar services, you can completely live without it. If you fancy it see [[this page|WebSockets]].
 
 ### Load-balancing with a Thin cluster and Nginx
 
