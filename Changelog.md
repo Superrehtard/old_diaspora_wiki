@@ -1,9 +1,9 @@
 # 2011
 
 ### October
-* Stream now includes posts from all followed tags and @mentions as well as aspects (formerly known as "soup")
-* Mentions stream to see all posts you were mentioned in
-* Followed tags stream that aggregates posts for all of your followed tags
+* Stream can now include posts from all followed tags and @mentions as well as aspects (formerly known as "soup")
+* @Mentions stream to see all posts you were mentioned in
+* #Followed tags stream that aggregates posts for all of your followed tags
 * Community spotlight stream
 * De/select all aspects and improvements to aspect de/selection
 * Alphebetized tags list
