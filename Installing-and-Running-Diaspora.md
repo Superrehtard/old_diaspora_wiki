@@ -217,7 +217,9 @@ If you want to run an app server other than Thin or have more control over it, y
 
 Here are instructions to [[Run Diaspora's components|Run Diasporas Components]]
 
-Once Diaspora is running, just open it up in a web browser and sign up for an account.
+Once Diaspora is running, just open it up in a web browser and sign up for an account.  
+
+**Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set to True the variable "serve_static_assets" in the config/environments/production.rb file.
 
 ### Jammit
 
