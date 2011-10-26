@@ -7,7 +7,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 ## Twitter
 
 * Go to [[http://dev.twitter.com]] and sign in
-* Click on Register an app     
+* Click on Register an app    (Seems to now be called 'Create an App')  
 [[https://mrzyx.de/diaspora/services_twitter_1.png|width=500px]]
 * Register your app   
 [[https://mrzyx.de/diaspora/services_twitter_2.png|width=500px]]
