@@ -1,10 +1,12 @@
 # 2011
 
 ### October
+* Longer posts and comments are truncated with a "show more" link to reveal the rest of the text
 * Stream can now include posts from all followed tags and @mentions as well as aspects (formerly known as "soup")
 * @Mentions stream to see all posts you were mentioned in
 * #Followed tags stream that aggregates posts for all of your followed tags
 * Community spotlight stream
+* Embed videos and audio into posts (using oembed)
 * De/select all aspects and improvements to aspect de/selection
 * Alphebetized tags list
 * Reshare on mobile web app
