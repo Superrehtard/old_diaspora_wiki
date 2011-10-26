@@ -153,6 +153,10 @@ If you want to run production mode:
 
 For a more advanced configuration have a look at this Gist: https://gist.github.com/719014
 
+**Note** For installations on OSX Server if you wish to use Apache built into OSX Server, use Server Admin to create a site on port 443.  A file should be created in the directory `/etc/apache2/sites/` with a name like "000X_any_443_domain.com.conf".  The above proxy settings will allow you to continue to use your existing web services alongside the Diaspora installation.
+
+
+
 #### Nginx
 
 Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a>
