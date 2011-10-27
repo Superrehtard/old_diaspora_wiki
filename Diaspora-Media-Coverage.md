@@ -45,6 +45,10 @@
 
 * heise.de, 06.04.2011, [FSW2011: Auf der Suche nach dem datenschutzfreundlichen Netz](http://www.heise.de/newsticker/meldung/FSW2011-Auf-der-Suche-nach-dem-datenschutzfreundlichen-Netz-1255206.html)
 
+### May (Mai)
+
+* allgemeine-zeitung.de, 05.13.2011, [Netzwerk ohne Datenhunger](http://www.allgemeine-zeitung.de/region/mainz/meldungen/10734259.htm)
+
 ### April
 
 * heise.de, 04.15.2011, [re:publica: Dezentralisierung vs. Zentralisierung im Internet](http://www.heise.de/newsticker/meldung/re-publica-Dezentralisierung-vs-Zentralisierung-im-Internet-1228365.html)
