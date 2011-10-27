@@ -27,6 +27,10 @@
 
 * golem.de, 11.24.2011, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 
+### September
+
+* golem.de, 09.16.2011, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
+
 ### May (Mai)
 
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
