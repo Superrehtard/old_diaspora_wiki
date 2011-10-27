@@ -167,7 +167,7 @@ As noted previously, you will need to configure NGINX to point to your SSL certi
 Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
 
 
-**OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key'.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
+**OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key`.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
 
 
 ### Configuring WebSockets
