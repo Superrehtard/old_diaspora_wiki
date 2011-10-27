@@ -36,6 +36,7 @@
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * ZDF, Elektronischer Reporter, 10.19.2011, [Ein Fast-Monopol, eine Verhaftung und Dinge-Drucker](http://www.elektrischer-reporter.de/phase3/video/254/)
+
 ### August
 
 * heise.de, 08.19.2011, [Diaspora-Gründer setzt auf Langzeitstrategie gegen Facebook & Co.](http://www.heise.de/newsticker/meldung/Diaspora-Gruender-setzt-auf-Langzeitstrategie-gegen-Facebook-Co-1324082.html)
@@ -47,6 +48,7 @@
 
 ### May (Mai)
 
+* netzcheckers.de, 05.19.2011, [Diaspora - die Facebook-Alternative](http://www.netzcheckers.de/m2106333860_421.html)
 * telekom-presse.at, 05.17.2011, [Diaspora: ein Konkurrent für Facebook](http://www.telekom-presse.at/Diaspora_ein_Konkurrent_fuer_Facebook.id.15875.htm)
 * rhein-zeitung.de, 05.14.2011, ["Gefällt mir" nun auch bei Facebook-Alternative Diaspora - 17-Jährige Deutsche gehören zu Kernentwicklern](http://www.rhein-zeitung.de/nachrichten/computer/computernews_artikel,-Gefaellt-mir-nun-auch-bei-Facebook-Alternative-Diaspora-17-Jaehrige-Deutsche-gehoeren-zu-Kernentwic-_arid,248113.html)
 * allgemeine-zeitung.de, 05.13.2011, [Netzwerk ohne Datenhunger](http://www.allgemeine-zeitung.de/region/mainz/meldungen/10734259.htm)
