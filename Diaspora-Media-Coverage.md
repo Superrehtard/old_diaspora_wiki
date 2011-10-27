@@ -47,7 +47,6 @@
 
 ### May (Mai)
 
-* telekom-presse.at, 05.17.2011, [Diaspora: ein Konkurrent für Facebook](http://www.telekom-presse.at/Diaspora_ein_Konkurrent_fuer_Facebook.id.15875.htm)
 * rhein-zeitung.de, 05.14.2011, ["Gefällt mir" nun auch bei Facebook-Alternative Diaspora - 17-Jährige Deutsche gehören zu Kernentwicklern](http://www.rhein-zeitung.de/nachrichten/computer/computernews_artikel,-Gefaellt-mir-nun-auch-bei-Facebook-Alternative-Diaspora-17-Jaehrige-Deutsche-gehoeren-zu-Kernentwic-_arid,248113.html)
 * allgemeine-zeitung.de, 05.13.2011, [Netzwerk ohne Datenhunger](http://www.allgemeine-zeitung.de/region/mainz/meldungen/10734259.htm)
 
@@ -107,13 +106,15 @@
 * Wired, 2011.10.13, [Diaspora, l'anti Facebook, è in cerca di fondi](http://daily.wired.it/news/internet/2011/10/13/diaspora-social-network-donazioni-14948.html)
 
 ## 2010
+### November (Novembre)
+* PuntoInformatico, 2010.09.25, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
+
 ### May (Maggio)
 * BariMia, 2010.05.18, [Quit Facebook Day: il 31 maggio tutti in fuga dal social blu](http://www.barimia.info/modules/article/view.article.php?29098)
 * HI Techitaly, 2010.05.18, [Quit Facebook Day e Diaspora: gli utenti pro-privacy abbandonano il social network](http://www.hi-techitaly.com/news/varie/2612-quit-facebook-day-e-diaspora-gli-utenti-pro-privacy-abbandonano-il-social-network.html)
 * Knowledge for business, 2010.05.18, [FACEBOOK: una spina nel fianco chiamata privacy. Cresce il progetto Diaspora](http://www.key4biz.it/Vinti/2010/05/Facebook_Diaspora_Progetto_Privacy_Social_Newtork_Rete_Web_Internet_Fund_Rising_Kickstarter.html)
 * La Stampa, 2010.05.18, [A.A.A., cercasi alternativa a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=7633)
 * La Voce, 2010.05.18, [Facebook in campana: utenti vogliono alternative](http://www.voceditalia.it/articolo.asp?id=51944&titolo=Facebook%20in%20campana%20utenti%20vogliono%20alternative)
-* PuntoInformatico, 2010.09.25, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
 * jackTech, 2010.05.13, [Colletta per creare l'anti-Facebook](http://www.jacktech.it/news/lifestyle-e-web/web/social-network-diaspora-l-anti-facebook-che-paghi-tu)
 * WinTricks, 2010.05.13, [facebook: voglia di privacy](http://news.wintricks.it/web/dal-web/31766/facebook-voglia-privacy/)
 * PuntoInformatico, 2010.05.13, [Facebook, faccia a faccia con la privacy](http://punto-informatico.it/2883783/PI/News/facebook-faccia-faccia-privacy.aspx)
