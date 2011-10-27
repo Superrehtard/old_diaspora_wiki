@@ -113,14 +113,29 @@
 * Web news-, 10.13.2011, [Un obolo per la Diaspora](http://www.webnews.it/notizie/un-obolo-per-la-diaspora/)
 * Wired, 10.13.2011, [Diaspora, l'anti Facebook, è in cerca di fondi](http://daily.wired.it/news/internet/2011/10/13/diaspora-social-network-donazioni-14948.html)
 
+### August (Agosto)
+* Wired, 08.30.2011, [Diaspora: il social network tra Google+ e Facebook](http://daily.wired.it/news/internet/2011/08/30/recensione-diaspora-beta-14186.html)
+
+### February (Febbraio)
+* Wired, 02.15.2011, [Daniel Grippi: #Lasciate Facebook per noi#](http://mag.wired.it/news/password/daniele-grippi-diaspora.html)
+
 ## 2010
 ### November (Novembre)
 * PuntoInformatico, 09.25.2010, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
+* Wired, 11.25.2010, [Le prime immagini di Diaspora, il rivale di Facebook](http://daily.wired.it/news/internet/immagini-diaspora.html)
+* Wired, 11.24.2010, [Diaspora, ai blocchi di partenza l'anti-Facebook](http://daily.wired.it/news/internet/arriva-diaspora-anti-facebook.html)
+
+### September (Settembre)
+* Wired, 11.26.2010, [Diaspora, abbiamo provato per voi l'anti-Facebook](http://daily.wired.it/news/internet/diaspora-recensione.html)
+* PuntoInformatico, 09.20.2010, [Diaspora? Un colabrodo](http://punto-informatico.it/2993899/PI/News/diaspora-un-colabrodo.aspx)
+* PuntoInformatico, 09.16.2010, [Diaspora, l'epifania](http://punto-informatico.it/2991519/PI/News/diaspora-epifania.aspx)
+* Wired, 09.15.2010, [Prime immagini di Diaspora, l'anti Facebook](http://daily.wired.it/news/internet/prime-immagini-di-diaspora-l-anti-facebook.html)
 
 ### August (Agosto)
 * digital.it, 08.30.2010, [Diaspora: il nuovo social network open source](http://www.digital.it/news/software/servizi/diaspora-il-nuovo-social-network-open-source/1263/)
-* La Stampa, 08.30.2010, [Diaspora, l'alternativa open source
- a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=8024)
+* La Stampa, 08.30.2010, [Diaspora, l'alternativa open source a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=8024)
+* PuntoInformatico, 08.30.2010, [La Diaspora da Facebook, prossimamente su questi schermi](http://punto-informatico.it/2977393/PI/News/diaspora-facebook-prossimamente-questi-schermi.aspx)
+* Wired, 08.30.2010, [Come sarà Diaspora?](http://daily.wired.it/news/tech/come-sara-diaspora.html)
 
 ### June (Giugno)
 * Corriere della sera, 06.10.2010, [Facebook in crisi? Solo 34 mila
@@ -132,12 +147,15 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 * Apoge online-, 05.19.2010, [La nuova consapevolezza dello stare in rete](http://www.apogeonline.com/webzine/2010/05/19/la-nuova-consapevolezza-dello-stare-in-rete)
 * DGMag, 05.19.2010, [Le alternative a Facebook sono davvero interessanti?](http://www.dgmag.it/internet/le-alternative-a-facebook-sono-davvero-interessanti-28766)
 * Il Giornale, 05.19.2010, [Arriva il cerca-segreti degli internauti](http://www.ilgiornale.it/interni/arriva_cerca-segreti_internauti/cronaca-attualit-ricerca/19-05-2010/articolo-id=446630-page=0-comments=1)
+* Wired, 05.19.2010, [Deciso il QuitFacebook Day, si fa avanti la concorrenza open source](http://daily.wired.it/news/tech/deciso-il-quitfacebook-day-si-fa-avanti-la-concorrenza-open-source.html)
 * BariMia, 05.18.2010, [Quit Facebook Day: il 31 maggio tutti in fuga dal social blu](http://www.barimia.info/modules/article/view.article.php?29098)
 * HI Techitaly, 05.18.2011, [Quit Facebook Day e Diaspora: gli utenti pro-privacy abbandonano il social network](http://www.hi-techitaly.com/news/varie/2612-quit-facebook-day-e-diaspora-gli-utenti-pro-privacy-abbandonano-il-social-network.html)
 * Knowledge for business, 05.18.2010, [FACEBOOK: una spina nel fianco chiamata privacy. Cresce il progetto Diaspora](http://www.key4biz.it/Vinti/2010/05/Facebook_Diaspora_Progetto_Privacy_Social_Newtork_Rete_Web_Internet_Fund_Rising_Kickstarter.html)
 * La Stampa, 05.18.2010, [A.A.A., cercasi alternativa a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=7633)
 * La Voce, 05.18.2010, [Facebook in campana: utenti vogliono alternative](http://www.voceditalia.it/articolo.asp?id=51944&titolo=Facebook%20in%20campana%20utenti%20vogliono%20alternative)
+* Wired, 05.17.2010, [Arriva Diaspora: l'anti-Facebook è open-source](http://daily.wired.it/news/tech/arriva-diaspora-l-anti-facebook-e-open-source.html?page=1)
 * jackTech, 05.13.2010, [Colletta per creare l'anti-Facebook](http://www.jacktech.it/news/lifestyle-e-web/web/social-network-diaspora-l-anti-facebook-che-paghi-tu)
 * WinTricks, 05.13.2010, [facebook: voglia di privacy](http://news.wintricks.it/web/dal-web/31766/facebook-voglia-privacy/)
 * PuntoInformatico, 05.13.2010, [Facebook, faccia a faccia con la privacy](http://punto-informatico.it/2883783/PI/News/facebook-faccia-faccia-privacy.aspx)
 * News dal WEB, 05.13.2010, [Privacy su Facebook, ripensamenti?](http://www.newsdelweb.net/privacy-su-facebook-ripensamenti/)
+* Wired, 05.03.2010, [Zuckerberg: #Anche io ho fatto una donazione per Diaspora#](http://daily.wired.it/news/internet/zuckerberg-anche-io-ho-fatto-una-donazione-per-diaspora.html)
