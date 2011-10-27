@@ -20,6 +20,7 @@
 * Berliner-Zeitung, 10.27.2011, [Eine Plattform für Paranoiker](http://www.berliner-zeitung.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,10809188,11064404.html)
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
+
 ## 2010
 
 ### May (Mai)
