@@ -45,13 +45,13 @@
 
 * heise.de, 06.04.2011, [FSW2011: Auf der Suche nach dem datenschutzfreundlichen Netz](http://www.heise.de/newsticker/meldung/FSW2011-Auf-der-Suche-nach-dem-datenschutzfreundlichen-Netz-1255206.html)
 
-### February (Februar)
-
-*heise.de, 02.19.2011, [FreedomBox Foundation für ein wirklich freies Internet](http://www.heise.de/open/meldung/FreedomBox-Foundation-fuer-ein-wirklich-freies-Internet-1193382.html)
-
 ### April
 
 * heise.de, 04.15.2011, [re:publica: Dezentralisierung vs. Zentralisierung im Internet](http://www.heise.de/newsticker/meldung/re-publica-Dezentralisierung-vs-Zentralisierung-im-Internet-1228365.html)
+
+### February (Februar)
+
+* heise.de, 02.19.2011, [FreedomBox Foundation für ein wirklich freies Internet](http://www.heise.de/open/meldung/FreedomBox-Foundation-fuer-ein-wirklich-freies-Internet-1193382.html)
 
 ## 2010
 
