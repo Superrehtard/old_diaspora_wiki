@@ -44,6 +44,7 @@
 
 ### June (Juni)
 
+* netzwertig.com, 06.13.2011, [Diaspora eine zweite Chance geben](http://netzwertig.com/2011/06/13/alternative-zu-facebook-diaspora-eine-zweite-chance-geben/)
 * heise.de, 06.04.2011, [FSW2011: Auf der Suche nach dem datenschutzfreundlichen Netz](http://www.heise.de/newsticker/meldung/FSW2011-Auf-der-Suche-nach-dem-datenschutzfreundlichen-Netz-1255206.html)
 
 ### May (Mai)
