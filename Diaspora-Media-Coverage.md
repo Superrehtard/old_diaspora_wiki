@@ -55,6 +55,10 @@
 
 ## 2010
 
+### December (Dezember)
+
+* heise.de, 12.31.2010, [Aufbruch in die Diaspora](http://www.heise.de/newsticker/meldung/Aufbruch-in-die-Diaspora-1162036.html)
+
 ### November
 
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
