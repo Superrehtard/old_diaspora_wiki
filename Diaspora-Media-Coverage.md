@@ -12,6 +12,21 @@
 * TECH.BLORGE, 10.12.2011, [‘Free’ Diaspora begs for (more) cash](http://tech.blorge.com/Structure:%20/2011/10/12/free-diaspora-begs-for-more-cash/)
 * The Next Web, 10.12.2011, [Diaspora asks users via email for donations to keep it alive. Will you donate?](http://thenextweb.com/socialmedia/2011/10/12/diaspora-asks-users-for-25-donation-to-keep-it-alive-will-you-donate/)
 
+### January
+
+* NYT, 01.19.2010, [For New Social Networks, Sharing Can Be More Focused](http://www.nytimes.com/2011/01/20/technology/personaltech/20basics.html?pagewanted=all)
+
+## 2010
+
+### September
+
+* NYT, 09.16.2010, [Diaspora, the Open Facebook Alternative, Releases Its Code](http://bits.blogs.nytimes.com/2010/09/16/diaspora-open-facebook-alternative-releases-code/)
+
+### May
+
+* NYT, 05.12.2010, [Is There Life After Facebook?](http://bits.blogs.nytimes.com/2010/05/12/is-there-life-after-facebook/)
+* NYT, 05.11.2010, [Four Nerds and a Cry to Arms Against Facebook](http://www.nytimes.com/2010/05/12/nyregion/12about.html)
+
 # German (Deutsch)
 
 ## 2011
