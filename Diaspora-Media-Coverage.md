@@ -14,7 +14,7 @@
 
 ### January
 
-* NYT, 01.19.2010, [For New Social Networks, Sharing Can Be More Focused](http://www.nytimes.com/2011/01/20/technology/personaltech/20basics.html?pagewanted=all)
+* NYT, 01.19.2011, [For New Social Networks, Sharing Can Be More Focused](http://www.nytimes.com/2011/01/20/technology/personaltech/20basics.html?pagewanted=all)
 
 ## 2010
 
