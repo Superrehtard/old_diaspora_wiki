@@ -62,6 +62,7 @@
 
 ### November
 
+* heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 
 ### September
