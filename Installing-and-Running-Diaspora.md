@@ -153,7 +153,7 @@ If you want to run production mode:
 
 For a more advanced configuration have a look at this Gist: https://gist.github.com/719014
 
-**Note** For installations on OSX Server if you wish to use Apache built into OSX Server, use Server Admin to create a site on port 443.  A file should be created in the directory `/etc/apache2/sites/` with a name like "000X_any_443_domain.com.conf".  The above proxy settings will allow you to continue to use your existing web services alongside the Diaspora installation.
+**OSX Server Note** If you wish to use Apache built into OSX Server, use Server Admin to create a site on port 443.  A file should be created in the directory `/etc/apache2/sites/` with a name like "000X_any_443_domain.com.conf".  The above proxy settings will allow you to continue to use your existing web services alongside the Diaspora installation.
 
 
 
@@ -165,6 +165,10 @@ Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/ch
 As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl.com" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
 
 Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
+
+
+**OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key'.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
+
 
 ### Configuring WebSockets
 WebSockets is required to have instant notifications and similar services, you can completely live without it. If you fancy it see [[this page|WebSockets]].
