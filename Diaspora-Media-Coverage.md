@@ -33,8 +33,8 @@
 
 ### October (Oktober)
 * Berliner-Zeitung, 10.27.2011, [Eine Plattform für Paranoiker](http://www.berliner-zeitung.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,10809188,11064404.html)
-* t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
+* t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 
 ### August
 
@@ -62,12 +62,17 @@
 
 ### November
 
-* heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
+* heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
+
+### October (Oktober)
+
+*heise.de, 10.07.2010, [Die Woche: Diaspora – Hype ist nicht genug](http://www.heise.de/open/artikel/Die-Woche-Diaspora-Hype-ist-nicht-genug-1103488.html)
 
 ### September
 
 * golem.de, 09.16.2010, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
+* heise.de, 09.16.2010, ["Facebook-Killer" Diaspora im Quellcode verfügbar](http://www.heise.de/open/meldung/Facebook-Killer-Diaspora-im-Quellcode-verfuegbar-1080423.html)
 
 ### August
 
@@ -79,7 +84,6 @@
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
 * golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
-
 
 # Italian (Italiano)
 ## 2011
