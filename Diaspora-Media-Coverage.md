@@ -67,7 +67,7 @@
 
 ### October (Oktober)
 
-*heise.de, 10.07.2010, [Die Woche: Diaspora – Hype ist nicht genug](http://www.heise.de/open/artikel/Die-Woche-Diaspora-Hype-ist-nicht-genug-1103488.html)
+* heise.de, 10.07.2010, [Die Woche: Diaspora – Hype ist nicht genug](http://www.heise.de/open/artikel/Die-Woche-Diaspora-Hype-ist-nicht-genug-1103488.html)
 
 ### September
 
