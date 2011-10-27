@@ -92,3 +92,13 @@
 * PuntoInformatico, 2011.10.13, [Diaspora, appello ai donatori](http://punto-informatico.it/3302883/PI/News/diaspora-appello-ai-donatori.aspx)
 * Web news-, 2011.10.13, [Un obolo per la Diaspora](http://www.webnews.it/notizie/un-obolo-per-la-diaspora/)
 * Wired, 2011.10.13, [Diaspora, l'anti Facebook, è in cerca di fondi](http://daily.wired.it/news/internet/2011/10/13/diaspora-social-network-donazioni-14948.html)
+
+## 2010
+### May (Maggio)
+* BariMia, 2010.05.18, [Quit Facebook Day: il 31 maggio tutti in fuga dal social blu](http://www.barimia.info/modules/article/view.article.php?29098)
+* HI Techitaly, 2010.05.18, [Quit Facebook Day e Diaspora: gli utenti pro-privacy abbandonano il social network](http://www.hi-techitaly.com/news/varie/2612-quit-facebook-day-e-diaspora-gli-utenti-pro-privacy-abbandonano-il-social-network.html)
+a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=7633)
+* Knowledge for business, 2011.05.18, [FACEBOOK: una spina nel fianco chiamata privacy. Cresce il progetto Diaspora](http://www.key4biz.it/Vinti/2010/05/Facebook_Diaspora_Progetto_Privacy_Social_Newtork_Rete_Web_Internet_Fund_Rising_Kickstarter.html)
+* La Stampa, 2011.05.18, [A.A.A., cercasi alternativa 
+* La Voce, 2011.05.18, [Facebook in campana: utenti vogliono alternative](http://www.voceditalia.it/articolo.asp?id=51944&titolo=Facebook%20in%20campana%20utenti%20vogliono%20alternative)
+* PuntoInformatico, 2010.09.25, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
