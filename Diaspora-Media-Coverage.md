@@ -75,7 +75,3 @@
 * Tech news, 2011.10.14, [Diaspora, il social network anti Facebook, è rimasto senza soldi](http://technews.it/YBgGL)
 * Web news-, 2011.10.13, [Un obolo per la Diaspora](http://www.webnews.it/notizie/un-obolo-per-la-diaspora/)
 * Il giornale del Pachino , 2011.10.15, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
-* -editor-, 2011.10.xx, [titolo](http://url)
-* -editor-, 2011.10.xx, [titolo](http://url)
-* -editor-, 2011.10.xx, [titolo](http://url)
-
