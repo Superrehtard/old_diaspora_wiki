@@ -25,11 +25,15 @@
 
 ### November
 
-* golem.de, 11.24.2011, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
+* golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 
 ### September
 
-* golem.de, 09.16.2011, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
+* golem.de, 09.16.2010, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
+
+### August
+
+* golem.de, 08.27.2010, [Diaspora ist Mitte September startklar](http://www.golem.de/1008/77534.html)
 
 ### May (Mai)
 
