@@ -61,3 +61,21 @@
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
 * golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
+# Italian (Italiano)
+
+## 2011
+
+### October (Ottobre)
+
+
+* PuntoInformatico, 2011.10.20, [PayPal congela Diaspora. Che sceglie Stripe](http://punto-informatico.it/3311910/PI/Brevi/paypal-congela-diaspora-che-sceglie-stripe.aspx)
+* Wired, 2011.10.13, [Diaspora, l'anti Facebook, è in cerca di fondi](http://daily.wired.it/news/internet/2011/10/13/diaspora-social-network-donazioni-14948.html)
+* PuntoInformatico, 2011.10.13, [Diaspora, appello ai donatori](http://punto-informatico.it/3302883/PI/News/diaspora-appello-ai-donatori.aspx)
+* Mr. Webmaster, 2011.10.14, [25 dollari per Diaspora](http://www.mrwebmaster.it/news/25-dollari-diaspora_6218.html)
+* Tech news, 2011.10.14, [Diaspora, il social network anti Facebook, è rimasto senza soldi](http://technews.it/YBgGL)
+* Web news-, 2011.10.13, [Un obolo per la Diaspora](http://www.webnews.it/notizie/un-obolo-per-la-diaspora/)
+* Il giornale del Pachino , 2011.10.15, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
+* -editor-, 2011.10.xx, [titolo](http://url)
+* -editor-, 2011.10.xx, [titolo](http://url)
+* -editor-, 2011.10.xx, [titolo](http://url)
+
