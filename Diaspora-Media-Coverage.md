@@ -62,6 +62,7 @@
 
 ### November
 
+* taz.de, 11.29.2010, [Online-Netzwerk Diaspora - Ein erster Blick aufs Anti-Facebook](http://www.taz.de/1/netz/netzkultur/artikel/1/ein-erster-blick-aufs-anti-facebook/)
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 * heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
 
