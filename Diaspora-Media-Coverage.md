@@ -105,7 +105,7 @@
 ## 2011
 
 ### October (Ottobre)
-* Il giornale del Pachino , 10.15.2011, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
+* Il giornale del Pachino, 10.15.2011, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
 * PuntoInformatico, 10.20.2011, [PayPal congela Diaspora. Che sceglie Stripe](http://punto-informatico.it/3311910/PI/Brevi/paypal-congela-diaspora-che-sceglie-stripe.aspx)
 * Mr. Webmaster, 10.14.2011, [25 dollari per Diaspora](http://www.mrwebmaster.it/news/25-dollari-diaspora_6218.html)
 * Tech news, 10.14.2011, [Diaspora, il social network anti Facebook, è rimasto senza soldi](http://technews.it/YBgGL)
@@ -117,7 +117,21 @@
 ### November (Novembre)
 * PuntoInformatico, 09.25.2010, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
 
+### August (Agosto)
+* digital.it, 08.30.2010, [Diaspora: il nuovo social network open source](http://www.digital.it/news/software/servizi/diaspora-il-nuovo-social-network-open-source/1263/)
+* La Stampa, 08.30.2010, [Diaspora, l'alternativa open source
+ a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=8024)
+
+### June (Giugno)
+* Corriere della sera, 06.10.2010, [Facebook in crisi? Solo 34 mila
+hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10_giugno_01/facebook-crisi-burchia_17dc31a0-6d69-11df-b7b4-00144f02aabe.shtml)
+
 ### May (Maggio)
+* Corriere della sera, 05.27.2010, [Privacy su Facebook, la nuova linea](http://www.corriere.it/scienze_e_tecnologie/10_maggio_27/zuckerberg-facebook-privacy-manifesto_d2bb4b88-698f-11df-a901-00144f02aabe.shtml)
+* SkyTG 24-, 05.27.2010, [Privacy, se Facebook è un libro aperto](http://tg24.sky.it/tg24/mondo/2010/05/26/facebook_gestione_privacy_mark_zuckerberg_quit_facebook_day_cambiamenti_pagine_sociali_.html)
+* Apoge online-, 05.19.2010, [La nuova consapevolezza dello stare in rete](http://www.apogeonline.com/webzine/2010/05/19/la-nuova-consapevolezza-dello-stare-in-rete)
+* DGMag, 05.19.2010, [Le alternative a Facebook sono davvero interessanti?](http://www.dgmag.it/internet/le-alternative-a-facebook-sono-davvero-interessanti-28766)
+* Il Giornale, 05.19.2010, [Arriva il cerca-segreti degli internauti](http://www.ilgiornale.it/interni/arriva_cerca-segreti_internauti/cronaca-attualit-ricerca/19-05-2010/articolo-id=446630-page=0-comments=1)
 * BariMia, 05.18.2010, [Quit Facebook Day: il 31 maggio tutti in fuga dal social blu](http://www.barimia.info/modules/article/view.article.php?29098)
 * HI Techitaly, 05.18.2011, [Quit Facebook Day e Diaspora: gli utenti pro-privacy abbandonano il social network](http://www.hi-techitaly.com/news/varie/2612-quit-facebook-day-e-diaspora-gli-utenti-pro-privacy-abbandonano-il-social-network.html)
 * Knowledge for business, 05.18.2010, [FACEBOOK: una spina nel fianco chiamata privacy. Cresce il progetto Diaspora](http://www.key4biz.it/Vinti/2010/05/Facebook_Diaspora_Progetto_Privacy_Social_Newtork_Rete_Web_Internet_Fund_Rising_Kickstarter.html)
