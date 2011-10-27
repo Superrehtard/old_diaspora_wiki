@@ -54,3 +54,5 @@
 
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
+* golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
+* golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
