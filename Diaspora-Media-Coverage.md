@@ -11,3 +11,12 @@
 * ReadWriteCloud, 10.12.2011, [The State of Diaspora and Fundraising Round Two](http://www.readwriteweb.com/cloud/2011/10/the-state-of-diaspora-and-fund.php)
 * TECH.BLORGE, 10.12.2011, [‘Free’ Diaspora begs for (more) cashOctober 12, 2011](http://tech.blorge.com/Structure:%20/2011/10/12/free-diaspora-begs-for-more-cash/)
 * The Next Web, 10.12.2011, [Diaspora asks users via email for donations to keep it alive. Will you donate?](http://thenextweb.com/socialmedia/2011/10/12/diaspora-asks-users-for-25-donation-to-keep-it-alive-will-you-donate/)
+
+# German (Deutsch)
+
+## 2010
+
+### May
+
+* Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
+* Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
