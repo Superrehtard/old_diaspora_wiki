@@ -72,15 +72,13 @@
 
 
 # Italian (Italiano)
-
 ## 2011
 
 ### October (Ottobre)
+* Il giornale del Pachino , 2011.10.15, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
+* PuntoInformatico, 2011.10.20, [PayPal congela Diaspora. Che sceglie Stripe](http://punto-informatico.it/3311910/PI/Brevi/paypal-congela-diaspora-che-sceglie-stripe.aspx)
+* Mr. Webmaster, 2011.10.14, [25 dollari per Diaspora](http://www.mrwebmaster.it/news/25-dollari-diaspora_6218.html)
+* Tech news, 2011.10.14, [Diaspora, il social network anti Facebook, è rimasto senza soldi](http://technews.it/YBgGL)
+* PuntoInformatico, 2011.10.13, [Diaspora, appello ai donatori](http://punto-informatico.it/3302883/PI/News/diaspora-appello-ai-donatori.aspx)
 * Web news-, 2011.10.13, [Un obolo per la Diaspora](http://www.webnews.it/notizie/un-obolo-per-la-diaspora/)
 * Wired, 2011.10.13, [Diaspora, l'anti Facebook, è in cerca di fondi](http://daily.wired.it/news/internet/2011/10/13/diaspora-social-network-donazioni-14948.html)
-* PuntoInformatico, 2011.10.13, [Diaspora, appello ai donatori](http://punto-informatico.it/3302883/PI/News/diaspora-appello-ai-donatori.aspx)
-
-* Il giornale del Pachino , 2011.10.15, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
-* Mr. Webmaster, 2011.10.14, [25 dollari per Diaspora](http://www.mrwebmaster.it/news/25-dollari-diaspora_6218.html)
-* PuntoInformatico, 2011.10.20, [PayPal congela Diaspora. Che sceglie Stripe](http://punto-informatico.it/3311910/PI/Brevi/paypal-congela-diaspora-che-sceglie-stripe.aspx)
-* Tech news, 2011.10.14, [Diaspora, il social network anti Facebook, è rimasto senza soldi](http://technews.it/YBgGL)
