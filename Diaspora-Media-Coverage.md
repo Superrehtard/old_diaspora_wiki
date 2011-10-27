@@ -58,6 +58,7 @@
 ### December (Dezember)
 
 * heise.de, 12.31.2010, [Aufbruch in die Diaspora](http://www.heise.de/newsticker/meldung/Aufbruch-in-die-Diaspora-1162036.html)
+* heise.de, 12.31,2010, [Bye-bye Facebook](http://www.heise.de/tr/artikel/Bye-bye-Facebook-1156977.html)
 
 ### November
 
