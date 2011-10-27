@@ -77,12 +77,14 @@
 ### August
 
 * golem.de, 08.27.2010, [Diaspora ist Mitte September startklar](http://www.golem.de/1008/77534.html)
+* heise.de, 08.27.2010, [Offenes soziales Netzwerk Diaspora startet am 15. September](http://www.heise.de/open/meldung/Offenes-soziales-Netzwerk-Diaspora-startet-am-15-September-1068684.html)
 
 ### May (Mai)
 
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
+* heise.de, 05.14.2010, [100.000 Dollar für das dezentrale soziale Netz Diaspora](http://www.heise.de/open/meldung/100-000-Dollar-fuer-das-dezentrale-soziale-Netz-Diaspora-1000517.html)
 * golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
 
 # Italian (Italiano)
