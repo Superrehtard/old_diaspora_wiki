@@ -37,6 +37,10 @@
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * ZDF, Elektronischer Reporter, 10.19.2011, [Ein Fast-Monopol, eine Verhaftung und Dinge-Drucker](http://www.elektrischer-reporter.de/phase3/video/254/)
 
+### September
+
+* blog.zdf.de, 09.28.2011, [Facebook-Umbau: Zweite Chance für Gegennetzwerk Diaspora?](http://blog.zdf.de/hyperland/2011/09/facebook-umbau-zweite-chance-fuer-gegennetzwerk-diaspora/)
+
 ### August
 
 * heise.de, 08.19.2011, [Diaspora-Gründer setzt auf Langzeitstrategie gegen Facebook & Co.](http://www.heise.de/newsticker/meldung/Diaspora-Gruender-setzt-auf-Langzeitstrategie-gegen-Facebook-Co-1324082.html)
