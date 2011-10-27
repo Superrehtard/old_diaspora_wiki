@@ -47,6 +47,7 @@
 
 ### May (Mai)
 
+* telekom-presse.at, 05.17.2011, [Diaspora: ein Konkurrent für Facebook](http://www.telekom-presse.at/Diaspora_ein_Konkurrent_fuer_Facebook.id.15875.htm)
 * rhein-zeitung.de, 05.14.2011, ["Gefällt mir" nun auch bei Facebook-Alternative Diaspora - 17-Jährige Deutsche gehören zu Kernentwicklern](http://www.rhein-zeitung.de/nachrichten/computer/computernews_artikel,-Gefaellt-mir-nun-auch-bei-Facebook-Alternative-Diaspora-17-Jaehrige-Deutsche-gehoeren-zu-Kernentwic-_arid,248113.html)
 * allgemeine-zeitung.de, 05.13.2011, [Netzwerk ohne Datenhunger](http://www.allgemeine-zeitung.de/region/mainz/meldungen/10734259.htm)
 
