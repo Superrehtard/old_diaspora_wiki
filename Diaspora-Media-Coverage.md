@@ -14,9 +14,15 @@
 
 # German (Deutsch)
 
+## 2011
+
+### October (Oktober)
+
+* t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
+
 ## 2010
 
-### May
+### May (Mai)
 
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
