@@ -36,7 +36,6 @@
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * ZDF, Elektronischer Reporter, 10.19.2011, [Ein Fast-Monopol, eine Verhaftung und Dinge-Drucker](http://www.elektrischer-reporter.de/phase3/video/254/)
-
 ### August
 
 * heise.de, 08.19.2011, [Diaspora-Gründer setzt auf Langzeitstrategie gegen Facebook & Co.](http://www.heise.de/newsticker/meldung/Diaspora-Gruender-setzt-auf-Langzeitstrategie-gegen-Facebook-Co-1324082.html)
@@ -114,3 +113,7 @@
 * La Stampa, 2010.05.18, [A.A.A., cercasi alternativa a Facebook](http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&ID_articolo=7633)
 * La Voce, 2010.05.18, [Facebook in campana: utenti vogliono alternative](http://www.voceditalia.it/articolo.asp?id=51944&titolo=Facebook%20in%20campana%20utenti%20vogliono%20alternative)
 * PuntoInformatico, 2010.09.25, [Diaspora, porte aperte ai sostenitori](http://punto-informatico.it/3043948/PI/News/diaspora-porte-aperte-ai-sostenitori.aspx)
+* jackTech, 2010.05.13, [Colletta per creare l'anti-Facebook](http://www.jacktech.it/news/lifestyle-e-web/web/social-network-diaspora-l-anti-facebook-che-paghi-tu)
+* WinTricks, 2010.05.13, [facebook: voglia di privacy](http://news.wintricks.it/web/dal-web/31766/facebook-voglia-privacy/)
+* PuntoInformatico, 2010.05.13, [Facebook, faccia a faccia con la privacy](http://punto-informatico.it/2883783/PI/News/facebook-faccia-faccia-privacy.aspx)
+* News dal WEB, 2010.05.13, [Privacy su Facebook, ripensamenti?](http://www.newsdelweb.net/privacy-su-facebook-ripensamenti/)
