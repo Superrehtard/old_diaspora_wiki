@@ -20,7 +20,11 @@
 * The Inquirer, 09.22.2011, [Open Diaspora lets you post to the social web](http://www.theinquirer.net/inquirer/news/2111213/diaspora-post-social-web)
 * BeatBeat, 09.22.2011, [On Diaspora, You’re Free to Be Your True Pseudonymous Self](http://www.betabeat.com/2011/09/22/on-diaspora-youre-free-to-be-your-true-pseudonymous-self/)
 * FSM, 09.14.2011, [Why You Should Join Diaspora Now, Like Your Freedom Depends On It](http://www.freesoftwaremagazine.com/columms/why_you_should_join_diaspora_now_your_freedom_depends_it)
+* ReadWriteWeb, 09.12.2011, [How Can Diaspora Help Us in a Facebook and Google Plus World?](http://www.readwriteweb.com/archives/how_can_diaspora_help_us_in_a_facebook_and_google.php)
 
+### June
+
+* IEEE Spectrum, 06.2011, [The Making of Diaspora](http://spectrum.ieee.org/telecom/internet/the-making-of-diaspora/)
 
 ### January
 
@@ -28,9 +32,15 @@
 
 ## 2010
 
+### November
+
+* Mashable, 11.23.2010, [Facebook Alternative Diaspora Releasing Private Alpha Invites](http://mashable.com/2010/11/23/diaspora-invites/)
+* TechCrunch, 11.23.2010, [Facebook Alternative Diaspora Launches Their Private Alpha With Some Bet Hedging](http://techcrunch.com/2010/11/23/diaspora-alpha/)
+
 ### September
 
 * New York Times, 09.16.2010, [Diaspora, the Open Facebook Alternative, Releases Its Code](http://bits.blogs.nytimes.com/2010/09/16/diaspora-open-facebook-alternative-releases-code/)
+* TechCrunch, 09.15.2010, [Facebook Competitor Diaspora Revealed: Sparse, But Clean; Source Code Released](http://techcrunch.com/2010/09/15/diaspora-revealed/)
 
 ### May
 
@@ -54,6 +64,7 @@
 ### August
 
 * heise.de, 08.19.2011, [Diaspora-Gründer setzt auf Langzeitstrategie gegen Facebook & Co.](http://www.heise.de/newsticker/meldung/Diaspora-Gruender-setzt-auf-Langzeitstrategie-gegen-Facebook-Co-1324082.html)
+* Technology Review, 08.19.2011, ["Facebook ist doch abwegig"](http://www.heise.de/tr/artikel/Facebook-ist-doch-abwegig-1323862.html)
 * heise.de, 08.10.2011, ["Facebook ist doch abwegig"](http://www.heise.de/tr/artikel/Facebook-ist-doch-abwegig-1323862.html)
 
 ### June (Juni)
