@@ -12,6 +12,16 @@
 * TECH.BLORGE, 10.12.2011, [‘Free’ Diaspora begs for (more) cash](http://tech.blorge.com/Structure:%20/2011/10/12/free-diaspora-begs-for-more-cash/)
 * The Next Web, 10.12.2011, [Diaspora asks users via email for donations to keep it alive. Will you donate?](http://thenextweb.com/socialmedia/2011/10/12/diaspora-asks-users-for-25-donation-to-keep-it-alive-will-you-donate/)
 
+### September
+
+* Digital Journal, 09.30.2011, [Op-Ed: Diaspora* moves forward in building 'a new and better social web'](http://www.digitaljournal.com/article/312158)
+* SocialTech, 09.27.2011, [First thoughts on Diaspora – the distributed social network](http://www.socialtech.biz/blog/first-thoughts-on-diaspora-%E2%80%93-the-distributed-social-network)
+* Technorati, 09.22.2011, [Diaspora*: Not Just Another Social Network](http://technorati.com/blogging/article/diaspora-not-just-another-social-network/)
+* The Inquirer, 09.22.2011, [Open Diaspora lets you post to the social web](http://www.theinquirer.net/inquirer/news/2111213/diaspora-post-social-web)
+* BeatBeat, 09.22.2011, [On Diaspora, You’re Free to Be Your True Pseudonymous Self](http://www.betabeat.com/2011/09/22/on-diaspora-youre-free-to-be-your-true-pseudonymous-self/)
+* FSM, 09.14.2011, [Why You Should Join Diaspora Now, Like Your Freedom Depends On It](http://www.freesoftwaremagazine.com/columms/why_you_should_join_diaspora_now_your_freedom_depends_it)
+
+
 ### January
 
 * New York Times, 01.19.2011, [For New Social Networks, Sharing Can Be More Focused](http://www.nytimes.com/2011/01/20/technology/personaltech/20basics.html?pagewanted=all)
