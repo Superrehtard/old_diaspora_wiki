@@ -44,6 +44,7 @@
 
 ### May
 
+* VentureBeat, 05.13.2010, [Anti-Facebook project rockets to $120,000 in online donations](http://venturebeat.com/2010/05/13/anti-facebook-project-rockets-past-120000-in-funding/)
 * New York Times, 05.12.2010, [Is There Life After Facebook?](http://bits.blogs.nytimes.com/2010/05/12/is-there-life-after-facebook/)
 * New York Times, 05.11.2010, [Four Nerds and a Cry to Arms Against Facebook](http://www.nytimes.com/2010/05/12/nyregion/12about.html)
 
