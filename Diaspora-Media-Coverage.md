@@ -1,4 +1,6 @@
-**Media coverage of the Diaspora Project**, organized by **language** and **time** (alphabetically by source if multiple/date):
+**Media coverage of the Diaspora Project**: press, blogs, media articles organized by **language** and **time** (alphabetically by source if multiple/date).
+
+**Medienberichterstattung über das Diaspora Projekt**: Presse, Blogs, Medien sortiert nach **Sprache** und **Zeit** (alphabetisch nach Quelle wenn mehrere/Datum).
 
 # English
 
