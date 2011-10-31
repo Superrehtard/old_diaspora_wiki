@@ -30,15 +30,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Comments: Customized as a Trust & Trade Social Platform for the Uncorporate
 
 
-* [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
-   * Opened: 16/10/2011
-   * Updated: Regularly
-   * Maintained by: Gojkovic Dejan
-       * Contact: gojkovicde@gmail.com
-   * Operating system: Linux
-   * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
-
-
 * [[http://despora.at/]] [[http://despora.at/apple-touch-icon.png|height=30px]]
    * Opened: 27/09/2011
    * Updated: 5 times a day
@@ -263,6 +254,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://twitter.com/mediashell]]
     * Operating system: Linux (CentOS)
     * Comments: Free Diaspora seeds for anyone who wants it; carefully run
+
+* [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
+   * Opened: 16/10/2011
+   * Updated: Regularly
+   * Maintained by: Gojkovic Dejan
+       * Contact: gojkovicde@gmail.com
+   * Operating system: Linux
+   * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
 
 * [[https://mispora.net/]] [[https://mispora.net/apple-touch-icon.png|height=30px]]
    * Opened: 18/10/2011
