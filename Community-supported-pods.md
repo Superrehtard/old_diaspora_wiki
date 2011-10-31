@@ -42,6 +42,8 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: daily
+   * HTTPS only
+   * IPv6-Support
    * Maintained by: Lennart Prelle
        * Contact: prellele@despora.de
    * Operating system: Ubuntu LTS 10.04
