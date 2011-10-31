@@ -84,7 +84,7 @@ h2. Posts
 
 h3(#get_post). GET /post/[post]
 
-Returnsa JSON containing the requested post. (ActivityStreams)
+Returns a JSON containing the requested post. (ActivityStreams)
 
 h4. Parameters
 
