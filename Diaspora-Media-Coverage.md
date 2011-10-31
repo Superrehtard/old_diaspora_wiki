@@ -63,12 +63,14 @@
 ### September
 
 * blog.zdf.de, 09.28.2011, [Facebook-Umbau: Zweite Chance für Gegennetzwerk Diaspora?](http://blog.zdf.de/hyperland/2011/09/facebook-umbau-zweite-chance-fuer-gegennetzwerk-diaspora/)
+* Das Social Media Blog, 09.11.2011, [Diaspora-Techies gegen das Facebook-Imperium](http://stueber.welt.de/2011/09/11/diaspora-techies-gegen-das-facebook-imperium/)
 
 ### August
 
 * heise.de, 08.19.2011, [Diaspora-Gründer setzt auf Langzeitstrategie gegen Facebook & Co.](http://www.heise.de/newsticker/meldung/Diaspora-Gruender-setzt-auf-Langzeitstrategie-gegen-Facebook-Co-1324082.html)
 * Technology Review, 08.19.2011, ["Facebook ist doch abwegig"](http://www.heise.de/tr/artikel/Facebook-ist-doch-abwegig-1323862.html)
 * heise.de, 08.10.2011, ["Facebook ist doch abwegig"](http://www.heise.de/tr/artikel/Facebook-ist-doch-abwegig-1323862.html)
+* Zeit, 08.02.2011, 
 
 ### June (Juni)
 
@@ -95,13 +97,15 @@
 ### December (Dezember)
 
 * heise.de, 12.31.2010, [Aufbruch in die Diaspora](http://www.heise.de/newsticker/meldung/Aufbruch-in-die-Diaspora-1162036.html)
-* heise.de, 12.31,2010, [Bye-bye Facebook](http://www.heise.de/tr/artikel/Bye-bye-Facebook-1156977.html)
+* heise.de, 12.31.2010, [Bye-bye Facebook](http://www.heise.de/tr/artikel/Bye-bye-Facebook-1156977.html)
+* Welt, 12.18.2010, [Statt Facebook](http://www.welt.de/print/die_welt/wissen/article11702721/Statt-Facebook.html)
 
 ### November
 
 * taz.de, 11.29.2010, [Online-Netzwerk Diaspora - Ein erster Blick aufs Anti-Facebook](http://www.taz.de/1/netz/netzkultur/artikel/1/ein-erster-blick-aufs-anti-facebook/)
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 * heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
+* Zeit, 11.24.2010, [Freier Facebook-Konkurrent lädt zum Test ein](http://www.zeit.de/digital/internet/2010-11/diaspora-alphatest)
 
 ### October (Oktober)
 
@@ -109,20 +113,34 @@
 
 ### September
 
+* taz, 09.17.2010, [Facebook-Freunde bald exportierbar](http://www.taz.de/!58490/)
+* Zeit, 09.17.2010, [Facebook-Alternative steckt noch voller Fehler](http://www.zeit.de/digital/internet/2010-09/facebook-diaspora-sicherheit)
 * golem.de, 09.16.2010, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
 * heise.de, 09.16.2010, ["Facebook-Killer" Diaspora im Quellcode verfügbar](http://www.heise.de/open/meldung/Facebook-Killer-Diaspora-im-Quellcode-verfuegbar-1080423.html)
+* Zeit, 09.15.2010, [Mit Eigenverantwortung gegen Facebook](http://www.zeit.de/digital/internet/2010-09/diaspora-facebook-alternative)
 
 ### August
 
+* taz, 08.31.2010, [Die Diaspora kommt](http://www.taz.de/1/archiv/digitaz/artikel/?ressort=tz&dig=2010%2F08%2F31%2Fa0131&cHash=a7b22ff30f)
+* Welt, 08.31.2010, [Studenten entwickeln Anti-Facebook "Diaspora"](http://www.welt.de/wirtschaft/webwelt/article9307899/Studenten-entwickeln-Anti-Facebook-Diaspora.html)
+* Focus, 08.30.2010, [Facebook bekommt Konkurrenz](http://www.focus.de/digital/digital-news/diaspora-facebook-bekommt-konkurrenz-_aid_546816.html)
+* taz, 08.30.2010, [Anti-Facebook vor Start](http://www.taz.de/!57690/)
 * golem.de, 08.27.2010, [Diaspora ist Mitte September startklar](http://www.golem.de/1008/77534.html)
 * heise.de, 08.27.2010, [Offenes soziales Netzwerk Diaspora startet am 15. September](http://www.heise.de/open/meldung/Offenes-soziales-Netzwerk-Diaspora-startet-am-15-September-1068684.html)
 
 ### May (Mai)
 
+* Süddeutsche, 05.31.2011, [Klick zum Abschied leise "Gefällt mir"](http://www.sueddeutsche.de/digital/quit-facebook-day-klick-zum-abschied-leise-gefaellt-mir-1.952384)
+* taz, 05.31.2010, [Gefällt mir - nicht mehr](http://www.taz.de/!53245/)
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
+* Welt, 05.23.2010, [Wer Facebook nutzt, gibt das Private auf](http://www.welt.de/die-welt/finanzen/article7750879/Wer-Facebook-nutzt-gibt-das-Private-auf.html)
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
+* Welt, 05.17.2010, [Diaspora](http://www.welt.de/die-welt/vermischtes/article7660878/Diaspora.html)
+* Das Social Media Blog, 05.16.2010, [Diaspora greift Facebook an](http://stueber.welt.de/2010/05/16/390/)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
 * heise.de, 05.14.2010, [100.000 Dollar für das dezentrale soziale Netz Diaspora](http://www.heise.de/open/meldung/100-000-Dollar-fuer-das-dezentrale-soziale-Netz-Diaspora-1000517.html)
+* taz, 05.14.2010, [Das freie Facebook](http://www.taz.de/!52538/)
+* Zeit, 05.14.2010, [Das bessere Facebook](http://www.zeit.de/digital/internet/2010-05/leserdebatte-facebook-alternative)
 * golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
 
 # Italian (Italiano)
