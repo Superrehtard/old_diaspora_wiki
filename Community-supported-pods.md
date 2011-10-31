@@ -89,35 +89,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Fedora 15
    * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
 
-* [[http://diasp.es/]] [[http://diasp.es/apple-touch-icon.png|height=30px|]]
-   * Opened: 01/01/2011
-   * Updated: Once a week
-   * Maintained by: [[http://www.diasp.es]] [[http://twitter.com/soukron]]
-
-* [[http://diasp.se/]] [[http://diasp.se/apple-touch-icon.png|height=30px|]]
-   * Opened: 13/03/2011
-   * Updated: Once a week
-   * Maintained by: olof.andersson@gmail.com
-   * Comments: Swedish pod. Run by private person on Ubuntu 10.10.
-
-* [[http://diaspora-vallibre.linux59.info]] [[http://diaspora-vallibre.linux59.info/apple-touch-icon.png|height=30px|]]
-   * Opened: 25/12/2010
-   * Updated: 
-   * Maintainer: Thierry Brasseur <mygalaxia@free.fr>
-   * [[https://github.com/zeubuntu]]
-   * Operating system: Ubuntu+apache 2
-   * Comments: development. Server based in Valenciennes, FR, For members of vallibres Valenciennes http://www.mjc-athena.org/Mjc/activites/activites-scientifiques/val-libre
-
-* [[http://diaspora.barmet.tk]] [[http://diaspora.barmet.tk/apple-touch-icon.png|height=30px|]]
-    * Opened: 07/11/2010
-    * Updated: Any time
-    * Maintainer : private person
-        * [[http://github.com/efix]]
-        * efix.fx@gmail.com
-        * [[http://identi.ca/efix]]
-    * Operating system: Linux (CentOS)
-    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
-
 * [[http://diaspora.binaryfreedom.info]] [[http://diaspora.binaryfreedom.info/apple-touch-icon.png|height=30px|]]
     * Opened: 09/11/2010
     * Maintainer: Chris Fernandez
@@ -125,18 +96,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://identi.ca/chfernandez]]
     * Operating system: Ubuntu 10.04 LTS
     * Comments:  Based in Cambridge MA, US, Following main branch. Updated every couple of days. also hosting a jabber server and mail server
-
-* [[http://diaspora.chouchoune.fr]] [[http://diaspora.chouchoune.fr/apple-touch-icon.png|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Any time
-    * Maintainer : private person
-        * IRC/Freenode: chouchoune
-        * [[http://github.com/chouchoune]]
-        * delcasse@gmail.com
-        * [[http://twitter.com/arnauddelcasse]]
-    * Operating system: Linux (Debian)
-    * Comments: Development. Can be patched with unofficial code, reset or down at any time. Use it for quick testing but not as a production seed.
-
 
 * [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
@@ -165,50 +124,8 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (Scientific Linux 6.0)
     * Comments: Open, intended for those interested in future Internet testbeds and research
 
-* [[https://diasp.fi/]] [[https://diasp.eu/apple-touch-icon.png|height=30px|]]
-   * Opened: 30/05/2011
-   * Updated: Once a day
-   * Maintained by a private person
-       * [[http://twitter.com/diasp_fi]]
-   * Operating system: Linux
-   * Comments: Testing as a development platform.
 
-* [[https://diaspora.hostmaster.org/]] [[http://diaspora.hostmaster.org/apple-touch-icon.png|height=30px|]]
-    * Opened: 27/11/2010
-    * Updated: as needed
-    * Maintained by a private person
-        * [[http://twitter.com/R34lB0rg]]
-    * Operating system: Ubuntu Maverick
-    * Comments: Public and Free
-
-* [[http://diaspora.now.im]] [[http://diaspora.now.im/apple-touch-icon.png|height=30px|]]
-    * Opened: 17.09.2010
-    * Updated: ~daily
-    * Maintained by a private person
-        * IRC/Freenode: datagutt
-        * [[http://github.com/datagutt]]
-    * Operating system: Mac OS X
-    * Comments: Only online on the day (UT+1), for development and test purposes.
-
-* [[http://diaspora.numbski.com]] [[http://diaspora.numbski.com/apple-touch-icon.png|height=30px|]]
-    * Opened: 20.10.2010
-    * Updated: ~daily
-    * Maintained by a private person
-        * IRC/Freenode: numbski
-        * [[http://github.com/numbski]]
-    * Operating system: Ubuntu
-    * Comments: Testing as a development platform.  Close friends will be on.
-
-* [[http://diaspora.rueckgr.at]] [[http://diaspora.rueckgr.at/apple-touch-icon.png|height=30px|]]
-    * Opened: 2010-07-16
-    * Updated: irregularly
-    * Maintained by a private person
-        * IRC/Freenode: paulchen
-        * paulchen@rueckgr.at
-    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
-    * Comments: just for testing, database will be reset whenever required
-
-* [[http://diaspora.sceal.ie//] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
+* [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
     * Opened: 2011-07-14
     * Updated: irregularly
     * Maintained by a private person
@@ -226,36 +143,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
     * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
 
-* [[http://diaspora.xilinus.com]] [[http://diaspora.xilinus.com/apple-touch-icon.png|height=30px|]]
-    * Opened: 2010-07-17
-    * Updated: daily
-    * Maintained by a private person
-        * [[http://github.com/sgruhier]]
-        * [[http://twitter.com/sgruhier]]
-    * Operating system: Debian GNU/Linux 5.0.6 (Lenny)
-    * Comments: Up all the time, database will be reset only if need be
-
-
-
-* [[http://diasporahosts.com]] [[http://diasporahosts.com:3000/apple-touch-icon.png|height=30px|]]
-    * Opened: 17/09/2010
-    * Updated: Everyday with stable code
-    * Maintainer
-        * IRC/Freenode: Mediashell
-        * andrew@mediashell.com
-        * [[http://twitter.com/mediashell]]
-    * Operating system: CentOS
-    * Comments: High quality, secure, diaspora seed hosting; Dive in!
-
-* [[http://diasporapages.com]] [[http://diasporapages.com/apple-touch-icon.png|height=30px|]]
-    * Opened: 17/09/2010
-    * Updated: With all of the latest updates
-    * Maintainer
-        * IRC/Freenode: Mediashell
-        * andrew@mediashell.com
-        * [[http://twitter.com/mediashell]]
-    * Operating system: Linux (CentOS)
-    * Comments: Free Diaspora seeds for anyone who wants it; carefully run
 
 * [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
    * Opened: 16/10/2011
@@ -272,22 +159,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Location: Tokyo, Japan
    * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
 
-* [[http://pod.zauberstuhl.de/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
-   * Opened: 3/3/2011
-   * Updated: Very often (no exactly details cause of security reason)
-   * Admins: Lukas Matt
-     * Contact: support@zauberstuhl.de && lukas@pod.zauberstuhl.de
-   * Operating system: Debian
-   * Comments: public registration open, twitter and facebook app enabled, SSL coming soon
-   * Configuration: Apache2 proxy -> thin
-
-* [[http://pod.im/]] [[http://pod.im/apple-touch-icon.png|height=30px]]
-   * Opened: 21/11/2010
-   * Updated: Once per week
-   * Maintained by: Rachael B
-       * Contact: hello [at] pod [dot] im
-   * Operating system: Ubuntu LTS 10.04.2
-   * Comments: Please email for an invite. I try to keep the pod as stable as possible but please remember that the site may be taken down, accounts closed, or data lost. Use at your own risk!
 
 * [[https://privit.us/]]
    * Opened: Jun 1, 2011
@@ -304,14 +175,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Debian
    * Comments: public registration open, twitter and facebook app enabled, SSL
    * Configuration: Apache2 proxy -> thin
-
-* [[http://goulag.su]] [[http://goulag.su/apple-touch-icon.png|height=30px|]]
-    * Opened: 25/09/2010
-    * Updated: every 12 hours
-    * Maintainer : private person
-        * IRC/freenode: wk_
-    * Operating system: ArchLinux
-    * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required.
 
 * [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
     * Opened: 31/12/2010
@@ -331,23 +194,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu 10.04
    * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
 
-* [[http://mangaspora.com]] [[http://mangaspora.com/apple-touch-icon.png|height=30px]]
-    * Opened: 25/12/2010
-    * updated every couple of days
-    * located in New York City
-    * Maintainer: Kevin <kevinmangan13@gmail.com> Michael <mgaffney@fordham.edu>
-    * Operating system: Ubuntu
-    * Comments: Diaspora seed maintained by two college students in Manhattan.
-
-* [[http://monocle.dyndns.org:3000]] [[http://monocle.dyndns.org:3000/apple-touch-icon.png|height=30px|]]
-  * Opened: 05/11/2010
-  * Updated: weekly
-  * Maintainer: private person
-      * pg5779@monocle.dyndns.org
-      * [[http://opensns.wordpress.com]]
-  * Operating system: CentOS
-  * Comments: A Diaspora pod for testing and development purposes.  Visit [[http://opensns.wordpress.com]] for more information about this pod.
-
 * [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-08-20
     * Updated: irregularly
@@ -355,25 +201,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * IRC/Freenode: duke_
     * Operating system: Gentoo
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
-
-* [[http://notfb.ca]] [[http://notfb.ca/apple-touch-icon.png|height=30px]]
-    * Opened: 2010-07-17
-    * Updated: irregularly
-    * Maintained by a private person
-        * IRC/Freenode: bengl
-        * [[http://twitter.com/notfbdotca]]
-    * Operating system: Ubuntu 9.4
-    * Comments: Development mode for now.  Database will be reset whenever required
-
-* [[http://openspora.com]] [[http://openspora.com/apple-touch-icon.png|height=30px]]
-    * Opened: 15/09/2010
-    * Updated: As changes in the official repository become stable
-    * Maintainer
-        * IRC/Freenode: chuck
-        * charles.melbye@gmail.com
-        * [[http://twitter.com/cmelbye]]
-    * Operating system: ArchLinux
-    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
 * [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
     * Opened: 4/03/2011
@@ -390,14 +217,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://www.areya.de]] 
     * Operating system: Ubuntu
     * Comments: Reset of Database only if needed
-
-* [[https://piratendiaspora.de]] [[https://piratendiaspora.de/apple-touch-icon.png|height=30px]]
-    * Opened: 25/11/2010
-    * Updated: daily
-    * Maintained by a private person
-        * [[http://twitter.com/PitaPoison]]
-    * Operating system: Ubuntu 10.04 LTS
-    * Comments: Public and free. Made for the german pirate party. HTTPS ONLY
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
     * Opened: 2010-11-01
@@ -417,14 +236,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Debian Linux (Squeeze)
     * Comments: Following master branch.
 
-* [[http://regged.de]] [[http://regged.de/apple-touch-icon.png|height=30px]]
-    * Opened: 24/09/2010
-    * Updated: irregularly
-    * Maintainer
-        * private individual
-    * Operating system: Linux
-    * Comments: just for testing, database will be reset whenever required
-
 * [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
    * Opened: 20/12/2010
    * Updated: Weekly
@@ -435,16 +246,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu 10.10
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
-
-* [[http://diasp.cg1.fr/]] [[http://diasp.cg1.fr/apple-touch-icon.png|height=30px]]
-    * Opened: 02/02/2011
-    * Updated: Any time
-    * Maintainer : Benoit Anastay
-        * [[http://github.com/benoit934]]
-        * benoit@cg1.fr
-        * Diaspora : benoit@diasp.cg1.fr
-    * Operating system: Linux (CentOS)
-    * Comments: Free, public Diaspora pod. Carefully run to be as stable as possible.
 
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
