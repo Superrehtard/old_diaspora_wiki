@@ -56,6 +56,7 @@
 
 ### October (Oktober)
 * Berliner-Zeitung, 10.27.2011, [Eine Plattform für Paranoiker](http://www.berliner-zeitung.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,10809188,11064404.html)
+* Frankfurter Rundschau, 10.27.2011, [Eine Plattform für Paranoiker](http://www.fr-online.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,1473342,11064404.html)
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * ZDF, Elektronischer Reporter, 10.19.2011, [Ein Fast-Monopol, eine Verhaftung und Dinge-Drucker](http://www.elektrischer-reporter.de/phase3/video/254/)
@@ -91,6 +92,10 @@
 ### February (Februar)
 
 * heise.de, 02.19.2011, [FreedomBox Foundation für ein wirklich freies Internet](http://www.heise.de/open/meldung/FreedomBox-Foundation-fuer-ein-wirklich-freies-Internet-1193382.html)
+
+### January (Januar)
+
+* Frankfurter Rundschau, 01.07.2011, [Das Netz im Netz](http://www.fr-online.de/politik/das-netz-im-netz,1472596,5078776.html)
 
 ## 2010
 
