@@ -14,9 +14,9 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension)
 
-*   [Diaspora Translate](http://userscripts.org/scripts/show/91276) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. (Firefox, Chrome)
+*   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. (Firefox, Chrome)
 
-*   [Speech to Text](http://bit.ly/vbzjvr) Diaspora* with Google Chrome HTML5 speech to text input. (only Chrome/Chromium)
+*   [Speech to Text](http://bit.ly/vbzjvr) - Diaspora* with Google Chrome HTML5 speech to text input. (only Chrome/Chromium)
 
 ###Bookmarklets
 
