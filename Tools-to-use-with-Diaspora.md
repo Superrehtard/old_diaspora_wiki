@@ -16,6 +16,8 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora Translate](http://userscripts.org/scripts/show/91276) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. (Firefox, Chrome)
 
+*   [Speech to Text](http://bit.ly/vbzjvr) Diaspora* with Google Chrome HTML5 speech to text input. (only Chrome/Chromium)
+
 ###Bookmarklets
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
