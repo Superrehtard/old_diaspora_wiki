@@ -178,7 +178,7 @@ No.  Images are resized automatically to fit the stream.  (And [Markdown](http:/
 
 ***How do I embed a video, audio, or other multimedia content into a post?***  
 You can usually just paste the URL (e.g. http://www.youtube.com/watch?v=dQw4w9WgXcQ ) into your post and the video or audio will be embedded automatically.  These are some websites that are supported: [YouTube](http://youtube.com), [Viddler](http://viddler.com), [Qik](http://qik.com/), [Revision3](http://revision3.com/), [Hulu](http://www.hulu.com/), [Vimeo](http://vimeo.com/), [SoundCloud](http://soundcloud.com/), [Cubbi.es](http://cubbi.es/). (Diaspora uses [oEmbed](http://www.oembed.com) for this feature.)    
-Remember to always post simple, full links: no shortned links, no https; and refresh the page after posting for seeing the preview.
+Remember to always post simple, full links: no shortened links, no https; and refresh the page after posting for seeing the preview.
 
 
 ***What is the character limit for posts?***  
