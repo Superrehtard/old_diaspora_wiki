@@ -49,14 +49,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu LTS 10.04
    * Comments: Over 99% uptime, facebook, twitter and tumblr integration, mostly german-speaking users
 
-* [[http://dhz.me/]] [[http://dhz.me:3000/apple-touch-icon.png|height=30px]]
-   * Opened: 1/1/2011
-   * Updated: Four times per day
-   * Maintainer
-       * Hao (David) Zhang: contact@dhz.me
-   * Operating system: CentOS
-   * Comments: Updates frequently, good security and uptime, facebook and twitter integration, public registration.
-
 * [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
     * Opened: 10/12/2010
     * Updated: daily
