@@ -1,0 +1,1 @@
+Community is a huge part of the Diaspora project, and we can show this by welcoming all new-comers on any installation by simply saying a friendly welcome to their #NewHere posts.  This document will serve as some guidelines, as set forth by the community, on how best to welcome a new user on Diaspora*.
