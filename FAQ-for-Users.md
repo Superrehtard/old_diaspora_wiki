@@ -51,7 +51,7 @@ Yes.  Click on the aspects in the list on the left side of the main page to sele
 ***Do my contacts know what aspects I have put them in?***  
 No. They cannot see the name of the aspect under any circumstances. 
 
-What does "make contacts in this aspect visible to each other" mean?
+***What does "make contacts in this aspect visible to each other" mean?***      
 If you check this option then contacts from that aspect will e able to see who else joins it in "similar contacts", on your profile page under your pic. They still won't be able to see how the aspect is called.
 
 ***If I remove someone from an aspect, or all of my aspects, are they notified of this?***  
