@@ -76,7 +76,7 @@ anywhere on the site.
 * [Grassroots design team mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-design)
 * [[Grassroots projects list|Grassroots Projects]]
 * [[Support Hashtags]] - #question, #bug, #feature
-
+* [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 
 ## Other Resources
 These are all external links.
