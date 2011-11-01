@@ -7,7 +7,7 @@
 ## 2011
 
 ### October
-
+* The Daily, 10.31.2011, [Emerging from the shadows - New network site Diaspora: We're more than 'the anti-Facebook'](http://www.thedaily.com/page/2011/10/31/103111-biz-diaspora-1-3/)
 * AllThingsD, 10.13.2011, [Diaspora Prepares to Launch Open Source Social Network](http://allthingsd.com/20111013/at-lunch-with-diaspora-the-non-profit-open-source-social-network-built-by-outsiders/)
 * FleshEatingZipper, 10.12.2011, [Facebook-Killer Diaspora Is Asking For More Cash, Do We Even Care Anymore?](http://www.flesheatingzipper.com/tech/2011/10/facebook-killer-diaspora-is-asking-for-more-cash-do-we-even-care-anymore/)
 * ReadWriteCloud, 10.12.2011, [The State of Diaspora and Fundraising Round Two](http://www.readwriteweb.com/cloud/2011/10/the-state-of-diaspora-and-fund.php)
