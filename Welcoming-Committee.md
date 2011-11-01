@@ -1,6 +1,6 @@
 Community is a huge part of the Diaspora project, and we can show this by welcoming all new-comers on any installation by simply saying a friendly welcome to their #NewHere posts.  This document will serve as some guidelines, as set forth by the community, on how best to welcome a new user on Diaspora*.
 
-# How do we word our welcomes?
+## How do we word our welcomes?
 It's best to keep our welcoming messages personal, so we don't sound like bots.  People aren't used to being quickly welcomed by real people, and there has been some confusion as to if we friendly folks are bots or not.  We can alleviate this by keeping our welcoming messages as friendly as possible.
 
 * Try to make your welcome message relevant to their interests (i.e. "Hey, fellow #art fanatic!"  or, "Cool, I dig #android development as well!")
