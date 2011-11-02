@@ -34,4 +34,12 @@ To start the resque worker run the following command:
         QUEUE=* bundle exec rake resque:work
 
 This is also essential unless you turn on single_process_mode in config/application.yml which is absolutly unrecommended for production environments. Resque is used for time intensive jobs like sending mail, sending and receiving messages from other pods etc.
-You can monitor by starting `resque-web` and then visit http://server-ip:5678, but don't keep it running open since it's a debugging tool.
+You can monitor by starting `resque-web` and then visit http://server-ip:5678, but don't keep it running open since it's a debugging tool. By default it's also mounted in Diaspora and accessible for admins only. You can disable that by turning "mount_resque_web" to false in your application.yml.
+
+### Run resque scheduler
+
+In order to properly retry failed jobs, for example if the receiving end is offline, you need to run another daemon with the following command:
+
+     bundle exec rake resque:scheduler
+
+
