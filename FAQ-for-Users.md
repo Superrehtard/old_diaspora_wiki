@@ -15,7 +15,7 @@ Or ask your specific question:
 *  In a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
 *  On [Diaspora Forum](http://www.diasporaforum.org/) 
 *  On [GetSatisfaction](http://getsatisfaction.com/diaspora) 
-*  On [IRC](file:///home/morgenstern/Documenti/%20http://webchat.freenode.net/%3Fchannels=diaspora-dev)  (Live support)
+*  On [IRC](http://webchat.freenode.net/?channels=diaspora-dev)  (Live support)
 *  On [Spored](http://wiki.spored.de/) (wiki, help) (german)
 
 For more technical questions about maintaining pods or development/coding see the [[FAQ for Pod Maintainers]] and the [[FAQ for Developers]].
