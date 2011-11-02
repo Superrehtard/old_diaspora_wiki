@@ -31,6 +31,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu LTS 10.04
    * Comments: Over 99% uptime, facebook, twitter and tumblr integration, mostly german-speaking users
 
+
 * [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
     * Opened: 10/12/2010
     * Updated: daily
@@ -40,6 +41,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (Ubuntu)
     * Comments: Public and free Diaspora pod for Belgium
 
+
 * [[http://diasp.de]] [[https://diasp.de/apple-touch-icon.png|height=30px|]]
     * Opened: 26/11/2010
     * Updated: major changes
@@ -47,6 +49,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://twitter.com/diasp_de]]
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Germany
+
 
 * [[http://diasp.eu]] [[https://diasp.eu/apple-touch-icon.png|height=30px|]]
     * Opened: 30/11/2010
@@ -56,12 +59,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Europe
 
+
 * [[http://diasp.org/]] [[https://diasp.org/apple-touch-icon.png|height=30px|]]
    * Opened: 01/11/2010
    * Updated: Once a day @ noon
    * Maintained by: [[http://www.diasp.org]]
    * Operating system: Fedora 15
    * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
+
 
 * [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
@@ -73,6 +78,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux (Ubuntu 10.10)
     * Comments: Come one, come all.
 
+
 * [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px|]]
     * Opened: 16/09/2010
     * Updated: Daily
@@ -80,6 +86,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://github.com/arrakaij]]
     * Operating system: Linux
     * Comments: For development and test purposes, images are uploaded to S3
+
 
 * [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
@@ -89,7 +96,8 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * IPv6 support
     * Operating system: ArchLinux
     * Comments: Feel free to ask for an invitiation!
-    
+
+
 * [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
     * Opened: 2011-07-14
     * Updated: irregularly
@@ -98,6 +106,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
       * alastair@sceal.ie
     * Operating system: Debian GNU/Linux 6.0 (squeeze)
     * Comments: mostly for friends. Others welcome to play.
+
 
 * [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
     * Opened: 2010-09-21
@@ -108,6 +117,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
     * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
 
+
 * [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
    * Opened: 16/10/2011
    * Updated: Regularly
@@ -116,12 +126,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Linux
    * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
 
+
 * [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
     * Opened: 09/05/2010
     * Updated: irregularly
     * Maintained by: private individual 
     * Operating system: Debian Linux 
     * Comments: public registration open, Twitter and Facebook support, HTTPS available
+
 
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
@@ -134,6 +146,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
+
 * [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
     * Opened: 31/12/2010
     * updated every couple of days
@@ -141,6 +154,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Maintainer: Frank Boehm <frank@thor.baldar.de>
     * Operating system: Slackware 12.2
     * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
+
 
 * [[https://londondiaspora.org/]] [[https://londondiaspora.org/apple-touch-icon.png|height=30px]]
    * Opened: 17/05/2011
@@ -152,12 +166,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu 10.04
    * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
 
+
 * [[https://mispora.net/]] [[https://mispora.net/apple-touch-icon.png|height=30px]]
    * Opened: 18/10/2011
    * Updated: Frequently
    * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
    * Location: Tokyo, Japan
    * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
+
 
 * [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-08-20
@@ -167,6 +183,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Gentoo
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
 
+
 * [[https://nerdpol.ch/]] [[https://nerdpol.ch/apple-touch-icon.png|height=30px|]]
    * Opened: 28/09/2011
    * Updated: ~daily
@@ -175,6 +192,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Linux (Debian Squeeze)
    * Comments: Public and free Diaspora pod
 
+
 * [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
     * Opened: 4/03/2011
     * Updated: daily
@@ -182,6 +200,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * diaspora : protowouter@ottospora.nl
     * Operating system: Ubuntu 11.04
     * Comments: Running in production mode with nginx as proxy/frontend
+
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
     * Opened: 2010-11-01
@@ -192,6 +211,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
 
+
 * [[https://poddery.com]] [[https://poddery.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-12-11
     * Updated: Biweekly
@@ -201,12 +221,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Debian Linux (Squeeze)
     * Comments: Following master branch.
 
+
 * [[https://privit.us/]]
    * Opened: Jun 1, 2011
    * Updated: Daily when upstream code is stable
    * Maintained by: [[https://privit.us/people/1]]
    * Operating system: Ubuntu 10.04
    * Facebook, Twitter, Tumblr integration. Nginx with passenger.
+
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
@@ -215,6 +237,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
        * DIASPORA: ragriz44@soc.ragriz.net
    * Operating system: Debian 5
    * Comments: Open registration, Twitter and Facebook support.  Only through https.
+
 
 * [[https://spargo.me/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
    * Opened: 3/3/2011
@@ -225,6 +248,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Comments: public registration open, twitter and facebook app enabled, SSL
    * Configuration: Apache2 proxy -> thin
 
+
 * [[https://spora.com.ua]]
     * Opened: 09/09/2011
     * Updated: regulary
@@ -233,6 +257,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * IPv6 support
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
+
 
 * [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
    * Opened: 20/12/2010
@@ -244,7 +269,8 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu 10.10
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
-                  
+
+  
 * [[https://yaspora.com]] [[https://yaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 18/12/2010
     * Updated: major changes
