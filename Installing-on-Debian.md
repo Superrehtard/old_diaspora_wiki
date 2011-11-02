@@ -145,4 +145,4 @@ and try the step again.
         sudo apt-get install libsqlite3-dev
 
 
-Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
