@@ -21,24 +21,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 ## Diaspora pods
 
-* [[https://cospora.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
-   * Opened: 16/10/2011
-   * Updated: Daily
-   * Maintained by: The Cospora Team
-       * Contact: terje@cospora.org
-   * Operating system: Heroku
-   * Comments: Customized as a Trust & Trade Social Platform for the Uncorporate
-
-
-* [[http://despora.at/]] [[http://despora.at/apple-touch-icon.png|height=30px]]
-   * Opened: 27/09/2011
-   * Updated: 5 times a day
-   * Maintained by: Noobie Network [[http://www.noobie.at/]]
-       * Contact: webmaster@noobie.at
-   * Operating system: Debian 6
-   * Comments: Pod for Austria, Germany and Swizerland open for public Users. Over 99.9% uptime
-
-
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: daily
@@ -81,14 +63,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Fedora 15
    * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
 
-* [[http://diaspora.binaryfreedom.info]] [[http://diaspora.binaryfreedom.info/apple-touch-icon.png|height=30px|]]
-    * Opened: 09/11/2010
-    * Maintainer: Chris Fernandez
-        * cfernandez@binaryfreedom.info
-        * [[http://identi.ca/chfernandez]]
-    * Operating system: Ubuntu 10.04 LTS
-    * Comments:  Based in Cambridge MA, US, Following main branch. Updated every couple of days. also hosting a jabber server and mail server
-
 * [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
     * Updated: Every 2-3 days
@@ -106,16 +80,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * [[http://github.com/arrakaij]]
     * Operating system: Linux
     * Comments: For development and test purposes, images are uploaded to S3
-
-* [[http://diaspora.gpeni.net]] [[http://diaspora.gpeni.net/apple-touch-icon.png|height=30px|]]
-    * Opened: 20/04/2010
-    * Updated: Periodically
-    * Maintainer: Justin P. Rohrer &ndash; GpENI Project
-        * rohrej@ittc.ku.edu
-        * [[http://wiki.ittc.ku.edu/gpeni]]
-    * Operating system: Linux (Scientific Linux 6.0)
-    * Comments: Open, intended for those interested in future Internet testbeds and research
-
 
 * [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
     * Opened: 2011-07-14
@@ -208,14 +172,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * diaspora : protowouter@ottospora.nl
     * Operating system: Ubuntu 11.04
     * Comments: Running in production mode with nginx as proxy/frontend
-
-* [[http://pasarus.com]]  [[http://pasarus.com/apple-touch-icon.png|height=30px]]
-    * Opened: 18/09/2010
-    * Updated: Daily
-    * Maintained by: Areya Webservices
-        * [[http://www.areya.de]] 
-    * Operating system: Ubuntu
-    * Comments: Reset of Database only if needed
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
     * Opened: 2010-11-01
