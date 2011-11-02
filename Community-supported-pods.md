@@ -68,6 +68,13 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
 
 
+* [[http://diasp0ra.ca/]] [[https://diasp0ra.ca/apple-touch-icon.png|height=30px|]]
+   * Opened: 2011-10-27
+   * Updated: Every stable update to the code
+   * Maintained by: Pistos
+   * Operating system: Gentoo Linux
+
+
 * [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
     * Updated: Every 2-3 days
