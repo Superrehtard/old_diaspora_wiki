@@ -81,6 +81,15 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Linux
     * Comments: For development and test purposes, images are uploaded to S3
 
+* [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
+    * Opened: 01/08/2011
+    * Updated: frequently
+    * Maintained by: Andrej Podzimek <andrej@podzimek.org>
+    * HTTPS (only)
+    * IPv6 support
+    * Operating system: ArchLinux
+    * Comments: Feel free to ask for an invitiation!
+    
 * [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
     * Opened: 2011-07-14
     * Updated: irregularly
@@ -99,7 +108,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
     * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
 
-
 * [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
    * Opened: 16/10/2011
    * Updated: Regularly
@@ -108,36 +116,23 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Linux
    * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
 
-* [[https://mispora.net/]] [[https://mispora.net/apple-touch-icon.png|height=30px]]
-   * Opened: 18/10/2011
-   * Updated: Frequently
-   * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
-   * Location: Tokyo, Japan
-   * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
+* [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
+    * Opened: 09/05/2010
+    * Updated: irregularly
+    * Maintained by: private individual 
+    * Operating system: Debian Linux 
+    * Comments: public registration open, Twitter and Facebook support, HTTPS available
 
-* [[https://nerdpol.ch/]] [[https://nerdpol.ch/apple-touch-icon.png|height=30px|]]
-   * Opened: 28/09/2011
-   * Updated: ~daily
-   * Maintained by a private person
-      * supertux@nerdpol.ch
-   * Operating system: Linux (Debian Squeeze)
-   * Comments: Public and free Diaspora pod
-
-* [[https://privit.us/]]
-   * Opened: Jun 1, 2011
-   * Updated: Daily when upstream code is stable
-   * Maintained by: [[https://privit.us/people/1]]
+* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
+   * Opened: 1/2/2011
+   * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
+   * Admins: Nicolas & Gabriel, two students from Germany and Austria
+   * How to Contact the Admin
+        * Diaspora handle: nicolas@hasst-euch-alle.de
+        * Email: kontakt@nicolas-berens.de
    * Operating system: Ubuntu 10.04
-   * Facebook, Twitter, Tumblr integration. Nginx with passenger.
-
-* [[https://spargo.me/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
-   * Opened: 3/3/2011
-   * Updated: Every Day between 5 and 7 o'clock in the morning
-   * Admins: Lukas Matt
-     * Contact: support@spargo.me && lukas@pod.zauberstuhl.de
-   * Operating system: Debian
-   * Comments: public registration open, twitter and facebook app enabled, SSL
-   * Configuration: Apache2 proxy -> thin
+   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
+   * Configuration: Nginx proxying multiple thin via sockets
 
 * [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
     * Opened: 31/12/2010
@@ -157,6 +152,13 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Ubuntu 10.04
    * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
 
+* [[https://mispora.net/]] [[https://mispora.net/apple-touch-icon.png|height=30px]]
+   * Opened: 18/10/2011
+   * Updated: Frequently
+   * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
+   * Location: Tokyo, Japan
+   * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
+
 * [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-08-20
     * Updated: irregularly
@@ -164,6 +166,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * IRC/Freenode: duke_
     * Operating system: Gentoo
     * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
+
+* [[https://nerdpol.ch/]] [[https://nerdpol.ch/apple-touch-icon.png|height=30px|]]
+   * Opened: 28/09/2011
+   * Updated: ~daily
+   * Maintained by a private person
+      * supertux@nerdpol.ch
+   * Operating system: Linux (Debian Squeeze)
+   * Comments: Public and free Diaspora pod
 
 * [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
     * Opened: 4/03/2011
@@ -191,27 +201,12 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: Debian Linux (Squeeze)
     * Comments: Following master branch.
 
-* [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
-   * Opened: 20/12/2010
-   * Updated: Weekly
-   * Maintained by: [[https://the.diasperse.com/]]
-        * Diaspora handle admin@the.diasperse.com
-        * IRC freenode.net flah00
-        * joppershopper@gmail.com
-   * Operating system: Ubuntu 10.10
-   * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
-   * Configuration: Nginx proxying multiple thins
-
-* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
-   * Opened: 1/2/2011
-   * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
-   * Admins: Nicolas & Gabriel, two students from Germany and Austria
-   * How to Contact the Admin
-        * Diaspora handle: nicolas@hasst-euch-alle.de
-        * Email: kontakt@nicolas-berens.de
+* [[https://privit.us/]]
+   * Opened: Jun 1, 2011
+   * Updated: Daily when upstream code is stable
+   * Maintained by: [[https://privit.us/people/1]]
    * Operating system: Ubuntu 10.04
-   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
-   * Configuration: Nginx proxying multiple thin via sockets
+   * Facebook, Twitter, Tumblr integration. Nginx with passenger.
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
@@ -221,28 +216,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Debian 5
    * Comments: Open registration, Twitter and Facebook support.  Only through https.
 
-* [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
-    * Opened: 09/05/2010
-    * Updated: irregularly
-    * Maintained by: private individual 
-    * Operating system: Debian Linux 
-    * Comments: public registration open, Twitter and Facebook support, HTTPS available
-
-* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
-    * Opened: 29/07/2011
-    * Updated: regulary
-    * Maintained by: private individual 
-    * Operating system: Ubuntu 10.04 LTS
-    * Comments: Public and free Diaspora pod.
-
-* [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
-    * Opened: 01/08/2011
-    * Updated: frequently
-    * Maintained by: Andrej Podzimek <andrej@podzimek.org>
-    * HTTPS (only)
-    * IPv6 support
-    * Operating system: ArchLinux
-    * Comments: Feel free to ask for an invitiation!
+* [[https://spargo.me/]] [[http://pod.zauberstuhl.de/apple-touch-icon.png|height=30px]]
+   * Opened: 3/3/2011
+   * Updated: Every Day between 5 and 7 o'clock in the morning
+   * Admins: Lukas Matt
+     * Contact: support@spargo.me && lukas@pod.zauberstuhl.de
+   * Operating system: Debian
+   * Comments: public registration open, twitter and facebook app enabled, SSL
+   * Configuration: Apache2 proxy -> thin
 
 * [[https://spora.com.ua]]
     * Opened: 09/09/2011
@@ -253,6 +234,17 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
 
+* [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
+   * Opened: 20/12/2010
+   * Updated: Weekly
+   * Maintained by: [[https://the.diasperse.com/]]
+        * Diaspora handle admin@the.diasperse.com
+        * IRC freenode.net flah00
+        * joppershopper@gmail.com
+   * Operating system: Ubuntu 10.10
+   * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
+   * Configuration: Nginx proxying multiple thins
+                  
 * [[https://yaspora.com]] [[https://yaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 18/12/2010
     * Updated: major changes
