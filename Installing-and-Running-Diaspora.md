@@ -159,7 +159,9 @@ For a more advanced configuration have a look at this Gist: https://gist.github.
 
 #### Nginx
 
-Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a> or <a href="https://gist.github.com/1337227">this version</a> if you are not using Chef. Search for all instances of **FIXME** and modify the configuration accordingly.
+Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb">configuration</a> 
+
+If you are not using Chef, you can try <a href="https://gist.github.com/1337227">this version</a>. Search for all instances of **FIXME** and modify the configuration accordingly.
 
 These Nginx configurations assume that Diaspora will be the only application running behind Nginx. Another configuration example will be posted soon for those with an existing Nginx virtual hosts setup who wish to add Diaspora as an additional virtual host.
 
