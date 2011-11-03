@@ -13,3 +13,4 @@ This page lists all the major issues and feature requests that the developers ar
 * Comment on public posts from other pods
 * Migrate an account from one pod to another
 * Search for posts
+* API
