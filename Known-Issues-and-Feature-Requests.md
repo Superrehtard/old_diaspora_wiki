@@ -2,7 +2,7 @@ This page lists all the major issues and feature requests that the developers ar
 
 ## Known Issues
 
-* Public posts don't always go out to other pods (AKA the "pod bubble" effect)
+* Public posts don't always go out to other pods (AKA the "pod bubble effect")
 * Searching for someone by Diaspora ID doesn't show the result until you search again a few moments later
 * It doesn't work in IE (to varying degrees)
 
