@@ -163,7 +163,7 @@ Get inspired by our <a href="https://github.com/diaspora/diaspora/blob/master/ch
 
 If you are not using Chef, you can try <a href="https://gist.github.com/1337227">this version</a>. Search for all instances of **FIXME** and modify the configuration accordingly.
 
-These Nginx configurations assume that Diaspora will be the only application running behind Nginx. Another configuration example will be posted soon for those with an existing Nginx virtual hosts setup who wish to add Diaspora as an additional virtual host.
+These Nginx configurations assume that Diaspora will be the only application running behind Nginx. <a href="https://gist.github.com/1337513">This configuration</a> makes minor changes to those above, specifying a path name to the virtualhost's public directory and can be used when your Nginx supports multiple virtual hosts.
 
 ### Configuring SSL
 As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl.com" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
