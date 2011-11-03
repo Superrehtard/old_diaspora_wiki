@@ -253,7 +253,14 @@ Yes.  After scrolling down a page, click on the grey arrow that appears in the b
 No, not currently (but see [cubbi.es](http://cubbi.es/)).  
 
 ***Can I subscribe to someone's public posts with a feed reader?***  
-Yes, but this is still not a polished feature and the formatting of the results is still pretty rough (you get raw markdown text, for example).  If you want to try it anyway, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS.  
+Yes, but this is still not a polished feature and the formatting of the results is still pretty rough (you get raw markdown text, for example).  If you want to try it anyway, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS. 
+
+***Is there a Diaspora Android-app?***  
+Not yet, it's actually under developement, you can find [here](https://groups.google.com/group/diaspora-android/) some infos about it and [here](https://github.com/geraspora/diaspora-android) the code. You can help developing it simply joining the google group.
+
+
+
+ 
 
 ## What if my question isn't answered here?
 
