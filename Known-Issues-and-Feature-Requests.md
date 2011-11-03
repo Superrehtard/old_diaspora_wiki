@@ -9,6 +9,7 @@ This page lists all the major issues and feature requests that the developers ar
 ## Acknowledged Feature Requests
 
 * Edit posts and comments
+* Preview posts and comments
 * Comment on public posts from other pods
 * Migrate an account from one pod to another
 * Can't search for posts
