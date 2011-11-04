@@ -8,7 +8,7 @@
 * Community spotlight stream
 * Embed videos and audio into posts (using oembed)
 * De/select all aspects and improvements to aspect de/selection
-* Alphebetized tags list
+* Alphabetized tags list
 * Add tags directly from the followed tags list, rather than having to search for them first
 * Reshare on mobile web app
 * Tag pages now indicate how many people are following a tag
