@@ -15,6 +15,8 @@ This page lists all the major issues and feature requests that the developers ar
 * Migrate an account from one pod to another
 * Comment on public posts from other pods
 * "Mention" in comments
-* Groups
+* Groups (private)
 * Search for posts
 * API
+* Albums/galleries (photo, video, etc.)
+* Event calendar
