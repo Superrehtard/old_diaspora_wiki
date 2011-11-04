@@ -206,7 +206,7 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 * News dal WEB, 05.13.2010, [Privacy su Facebook, ripensamenti?](http://www.newsdelweb.net/privacy-su-facebook-ripensamenti/)
 * Wired, 05.03.2010, [Zuckerberg: #Anche io ho fatto una donazione per Diaspora#](http://daily.wired.it/news/internet/zuckerberg-anche-io-ho-fatto-una-donazione-per-diaspora.html)
 
-# Dutch
+# Dutch (Nederlands)
 
 ## 2011
 
