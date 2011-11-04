@@ -205,3 +205,10 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 * PuntoInformatico, 05.13.2010, [Facebook, faccia a faccia con la privacy](http://punto-informatico.it/2883783/PI/News/facebook-faccia-faccia-privacy.aspx)
 * News dal WEB, 05.13.2010, [Privacy su Facebook, ripensamenti?](http://www.newsdelweb.net/privacy-su-facebook-ripensamenti/)
 * Wired, 05.03.2010, [Zuckerberg: #Anche io ho fatto una donazione per Diaspora#](http://daily.wired.it/news/internet/zuckerberg-anche-io-ho-fatto-una-donazione-per-diaspora.html)
+
+# Dutch
+
+## 2011
+
+### November
+* Bits of Freedom, 11.4.2011 [Een privacyvriendelijk alternatief voor Facebook](https://www.bof.nl/2011/11/04/een-privacyvriendelijk-alternatief-voor-facebook/)
