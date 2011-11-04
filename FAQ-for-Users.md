@@ -191,10 +191,10 @@ Remember to always post simple, full links: no shortened links, no https; and re
 In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  You can still post to these services if your post is longer than their limit, but the text is truncated on those services.
 
 ***My stream is full of posts from people i don't know and i don't share with, why are they in my stream? Ho can i remove them?***                      
-The stream shows all togheter 
-+ posts from your aspects (people you share with, green marked posts). If you don't want to see posts from these people, stop sharing with them removing them from your aspects.
-+ posts from followed tags (people you don't share with but posting public posts with tags you follow, blue marked posts). If you don't want to see some of these posts, stop following some tags.
-+ post from community spotlight (some remarkable people from the community, red marked posts). If you don't want to see these posts, stop following the community spotlight in your settings.
+The stream shows all togheter      
+* posts from your aspects (people you share with, green marked posts). If you don't want to see posts from these people, stop sharing with them removing them from your aspects.     
+* posts from followed tags (people you don't share with but posting public posts with tags you follow, blue marked posts). If you don't want to see some of these posts, stop following some tags.      
+* post from community spotlight (some remarkable people from the community, red marked posts). If you don't want to see these posts, stop following the community spotlight in your settings.     
 
 
 ###TAGS  
