@@ -146,6 +146,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Opened: 05/11/2011
     * Updated: regularly
     * Maintained by: private individual 
+       * Contact : olivier@free-beer.ch
     * Operating system: Debian Squeeze 
     * Comments: public registration open, HTTPS available
 
