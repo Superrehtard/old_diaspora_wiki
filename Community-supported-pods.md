@@ -142,6 +142,13 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Comments: public registration open, Twitter and Facebook support, HTTPS available
 
 
+* [[http://free-beer.ch]] [[https://free-beer.ch/apple-touch-icon.png|height=30px]]
+    * Opened: 05/11/2011
+    * Updated: regularly
+    * Maintained by: private individual 
+    * Operating system: Debian Squeeze 
+    * Comments: public registration open, HTTPS available
+
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
    * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
