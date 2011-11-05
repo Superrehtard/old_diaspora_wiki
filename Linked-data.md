@@ -18,3 +18,5 @@ User profile pages might expose [FOAF](http://en.wikipedia.org/wiki/FOAF_%28soft
 User posts might expose [SIOC](http://en.wikipedia.org/wiki/Semantically-Interlinked_Online_Communities) data.
 
 * The post may be represented as a [sioc:Post](http://sioc-project.org/ontology#term_Post).
+* The post's creator may be represented by setting its [sioc:has_creator](http://sioc-project.org/ontology#term_has_creator) property to the creator's user profile page.
+* Each comment may be represented with the [sioc:has_reply](http://sioc-project.org/ontology#term_has_reply) property.
