@@ -143,7 +143,24 @@ You may need to install libxsl first: http://nokogiri.org/tutorials/installing_n
 
 On **Ubuntu 11.10**:
 
-The default repository RubyGems version is 1.7.2 which doesn't seem to work with Diaspora. If you have problems when running `bundle`, follow these instructions to build a newer version: 
+Try installing first as follows:
+
+        sudo apt-get install rubygems
+
+If once you get to run `bundle` for the first time, you get the following type of errors:
+
+        Invalid gemspec in [/var/lib/gems/1.8/specifications/sinatra-1.2.7.gemspec]: invalid date format in specification: "2011-10-01 00:00:00.000000000Z"
+        Invalid gemspec in [/var/lib/gems/1.8/specifications/tilt-1.3.3.gemspec]: invalid date format in specification: "2011-08-25 00:00:00.000000000Z"
+
+Try running the following to see if that helps:
+
+        sudo sed -i 's/ 00:00:00.000000000Z//' /var/lib/gems/1.8/specifications/*
+
+If you still get errors, possibly the following:
+
+        Could not find em-websocket-0.3.5 in any of the sources
+
+One thing to try is to update RubyGems to 1.8 which you can do as follows:
 
         sudo apt-get remove rubygems
         wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.10.tgz
@@ -153,6 +170,4 @@ The default repository RubyGems version is 1.7.2 which doesn't seem to work with
         sudo ln -s /usr/bin/gem1.8 /usr/bin/gem
         sudo gem update --system
 
-Please note these instructions will overwrite any system global RubyGems installation, so do not follow if you are trying to create a separate Ruby environment for Diaspora!
-
-
+Please note the above instructions will overwrite any system global RubyGems installation, so do not follow if you are trying to create a separate Ruby environment for Diaspora!
