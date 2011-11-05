@@ -10,7 +10,7 @@ User profile pages might expose [FOAF](http://en.wikipedia.org/wiki/FOAF_%28soft
 * The user's birthday may be represented with the [foaf:birthday](http://xmlns.com/foaf/spec/#term_birthday) property.
 * The user's profile picture may be represented with the [foaf:img](http://xmlns.com/foaf/spec/#term_img) property.
 * Each of the user's tags may be represented with the [foaf:interest](http://xmlns.com/foaf/spec/#term_interest) property.
-* The user's Diaspora account may be represented by setting its [foaf:account](http://xmlns.com/foaf/spec/#term_account) property to the URI of the user's profile page.
+* The user's Diaspora account may be represented by setting their [foaf:account](http://xmlns.com/foaf/spec/#term_account) property to the URI of the user's profile page.
 * The user's Diaspora handle may be represented with the [foaf:accountName](http://xmlns.com/foaf/spec/#term_accountName) property of the resource given by the URI of the user's profile page.
 * The user's Diaspora pod may be represented with the [foaf:accountServiceHomepage](http://xmlns.com/foaf/spec/#term_accountServiceHomepage) property of the resource given by the URI of the user's profile page.
 
