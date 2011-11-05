@@ -1,7 +1,7 @@
 [Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)
 
 ### Versions
-These instructions are for 11.04 & 10.10 [ for Ubuntu 10.04, read the Rubygems section in the appendix ].
+These instructions are for 11.04 & 10.10 [ for Ubuntu 10.04 & 11.10, read the Rubygems section in the appendix ].
 You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
 
 ## Step 1
@@ -140,5 +140,19 @@ On **Ubuntu 10.10**, run the following:
         sudo apt-get install rubygems
 
 You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
+
+On **Ubuntu 11.04**:
+
+The default repository RubyGems version is 1.7.2 which doesn't seem to work with Diaspora. If you have problems when running `bundle`, follow these instructions to build a newer version: 
+
+        sudo apt-get remove rubygems
+        wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.10.tgz
+        tar xzvf rubygems-1.8.10.tgz
+        cd rubygems-1.8.10
+        sudo ruby setup.rb
+        sudo ln -s /usr/bin/gem1.8 /usr/bin/gem
+        sudo gem update --system
+
+Please note these instructions will overwrite any system global RubyGems installation, so do not follow if you are trying to create a separate Ruby environment for Diaspora!
 
 
