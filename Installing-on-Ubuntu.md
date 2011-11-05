@@ -141,7 +141,7 @@ On **Ubuntu 10.10**, run the following:
 
 You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
 
-On **Ubuntu 11.04**:
+On **Ubuntu 11.10**:
 
 The default repository RubyGems version is 1.7.2 which doesn't seem to work with Diaspora. If you have problems when running `bundle`, follow these instructions to build a newer version: 
 
