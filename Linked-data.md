@@ -17,4 +17,4 @@ User profile pages might expose [FOAF](http://en.wikipedia.org/wiki/FOAF_%28soft
 ### Posts
 User posts might expose [SIOC](http://en.wikipedia.org/wiki/Semantically-Interlinked_Online_Communities) data.
 
-* The post may be represented as a sioc:Post.
+* The post may be represented as a [sioc:Post](http://sioc-project.org/ontology#term_Post).
