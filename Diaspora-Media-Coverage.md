@@ -90,6 +90,7 @@
 
 ### April
 
+* WDR, 04.16.2011, [Diaspora - anders netzwerken? Teilen macht das Netz erst großartig](http://www1.wdr.de/themen/medienseite/diaspora100.html)
 * heise.de, 04.15.2011, [re:publica: Dezentralisierung vs. Zentralisierung im Internet](http://www.heise.de/newsticker/meldung/re-publica-Dezentralisierung-vs-Zentralisierung-im-Internet-1228365.html)
 
 ### February (Februar)
@@ -121,11 +122,14 @@
 
 ### September
 
+* Handelsblatt, 09.21.2010, [Diaspora: Facebook-Alternative steckt noch voller Fehler](http://www.handelsblatt.com/technologie/it-tk/it-internet/facebook-alternative-steckt-noch-voller-fehler/3544308.html)
 * taz, 09.17.2010, [Facebook-Freunde bald exportierbar](http://www.taz.de/!58490/)
 * Zeit, 09.17.2010, [Facebook-Alternative steckt noch voller Fehler](http://www.zeit.de/digital/internet/2010-09/facebook-diaspora-sicherheit)
 * golem.de, 09.16.2010, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
+* Handelsblatt, 09.16.2010, [Mit Eigenverantwortung gegen Facebook](http://www.handelsblatt.com/technologie/it-tk/it-internet/mit-eigenverantwortung-gegen-facebook/3540662.html)
 * heise.de, 09.16.2010, ["Facebook-Killer" Diaspora im Quellcode verfügbar](http://www.heise.de/open/meldung/Facebook-Killer-Diaspora-im-Quellcode-verfuegbar-1080423.html)
 * Zeit, 09.15.2010, [Mit Eigenverantwortung gegen Facebook](http://www.zeit.de/digital/internet/2010-09/diaspora-facebook-alternative)
+* ZDF Kulturzeit, 09.01.2010, [Digitaler Fluchtort](http://blog.zdf.de/3sat.Kulturtube/2010/09/01/von_jutta_heess_diaspora_das/)
 
 ### August
 
@@ -143,6 +147,7 @@
 * Spiegel Online, 05.27.2010, [Windows-Nutzer lästern über Skype-Probleme - Neuer Facebook-Killer?](http://www.spiegel.de/netzwelt/web/0,1518,765243,00.html)
 * Welt, 05.23.2010, [Wer Facebook nutzt, gibt das Private auf](http://www.welt.de/die-welt/finanzen/article7750879/Wer-Facebook-nutzt-gibt-das-Private-auf.html)
 * Spiegel Online, 05.17.2010, [Nerds wollen Facebook-Alternative programmieren](http://www.spiegel.de/netzwelt/web/0,1518,694838,00.html)
+* Handelsblatt, 05.17.2010, [Auf der Suche nach dem besseren Netzwerk](http://www.handelsblatt.com/technologie/it-tk/it-internet/auf-der-suche-nach-dem-besseren-netzwerk/3438042.html?p3438042=all)
 * Welt, 05.17.2010, [Diaspora](http://www.welt.de/die-welt/vermischtes/article7660878/Diaspora.html)
 * Das Social Media Blog, 05.16.2010, [Diaspora greift Facebook an](http://stueber.welt.de/2010/05/16/390/)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
