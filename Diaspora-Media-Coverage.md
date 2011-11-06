@@ -225,15 +225,19 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 ## 2011
 
 ### November
-* Bits of Freedom, 11.4.2011 [Een privacyvriendelijk alternatief voor Facebook](https://www.bof.nl/2011/11/04/een-privacyvriendelijk-alternatief-voor-facebook/)
+
+* Bits of Freedom, 11.4.2011, [Een privacyvriendelijk alternatief voor Facebook](https://www.bof.nl/2011/11/04/een-privacyvriendelijk-alternatief-voor-facebook/)
 
 ### September
-* Onlinepromotie.nl, 09.22.2011 [Diaspora: de nieuwe rivaal van Facebook?](http://www.onlinepromotie.nl/weblog/diaspora-de-nieuwe-rivaal-van-facebook.html)
+
+* Onlinepromotie.nl, 09.22.2011, [Diaspora: de nieuwe rivaal van Facebook?](http://www.onlinepromotie.nl/weblog/diaspora-de-nieuwe-rivaal-van-facebook.html)
 
 ## 2010
 
 ### November
-* tweakers.net, 08.24.2010[Opensource-alternatief voor Facebook opent deuren](http://tweakers.net/nieuws/70963/opensource-alternatief-voor-facebook-opent-deuren.html)
 
-### September
-* Nu.nl, 08.27.2010 [Facebook-alternatief Diaspora komt eraan](http://www.nu.nl/internet/2320984/facebook-alternatief-diaspora-komt-eraan.html)
+* tweakers.net, 11.24.2010, [Opensource-alternatief voor Facebook opent deuren](http://tweakers.net/nieuws/70963/opensource-alternatief-voor-facebook-opent-deuren.html)
+
+### August
+
+* Nu.nl, 08.27.2010, [Facebook-alternatief Diaspora komt eraan](http://www.nu.nl/internet/2320984/facebook-alternatief-diaspora-komt-eraan.html)
