@@ -159,6 +159,11 @@
 # Italian (Italiano)
 ## 2011
 
+### November (Novembre)
+* Il Sole 24 Ore, 11.06.2011, [Diaspora non è Facebook: l'inizio di un web sociale](http://www.ilsole24ore.com/art/tecnologie/2011-11-06/diaspora-facebook-inizio-sociale-081850.shtml?uuid=Aa4sNAJE)
+* NewsdelWeb, 11.03.2011, [Diaspora: il social network nemico di Facebook](http://www.newsdelweb.net/diaspora-il-social-network-nemico-di-facebook/)
+* SubitoTechs, 11.03.2011, [Diaspora e UnThink, i primi social network anti-Facebook‎](http://subitotechs.com/2011/11/03/diaspora-unthink-primi-social-network-antifacebook-19162/)
+
 ### October (Ottobre)
 * Il giornale del Pachino, 10.15.2011, [Diaspora chiede donazioni, flop in vista?](http://www.ilgiornaledipachino.com/diaspora-chiede-donazioni-flop-in-vista/145876)
 * PuntoInformatico, 10.20.2011, [PayPal congela Diaspora. Che sceglie Stripe](http://punto-informatico.it/3311910/PI/Brevi/paypal-congela-diaspora-che-sceglie-stripe.aspx)
