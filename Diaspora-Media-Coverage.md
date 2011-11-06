@@ -228,4 +228,4 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 ## 2010
 
 ### September
-* Nu.nl, 27.8.2010[Facebook-alternatief Diaspora komt eraan](http://www.nu.nl/internet/2320984/facebook-alternatief-diaspora-komt-eraan.html)
+* Nu.nl, 27.8.2010 [Facebook-alternatief Diaspora komt eraan](http://www.nu.nl/internet/2320984/facebook-alternatief-diaspora-komt-eraan.html)
