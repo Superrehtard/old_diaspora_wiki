@@ -6,6 +6,10 @@
 
 ## 2011
 
+### November
+
+* The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
+
 ### October
 * The Daily, 10.31.2011, [Emerging from the shadows - New network site Diaspora: We're more than 'the anti-Facebook'](http://www.thedaily.com/page/2011/10/31/103111-biz-diaspora-1-3/)
 * AllThingsD, 10.13.2011, [Diaspora Prepares to Launch Open Source Social Network](http://allthingsd.com/20111013/at-lunch-with-diaspora-the-non-profit-open-source-social-network-built-by-outsiders/)
