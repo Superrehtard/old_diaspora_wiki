@@ -196,6 +196,8 @@ This will instruct the `./script/server` script to run thin instances on $THIN_P
 
 ### Set up the database
 
+*Note for PostgreSQL users*: If you are running Diaspora with PostgreSQL, beware that having [the ssl setting](http://www.postgresql.org/docs/9.1/interactive/runtime-config-connection.html#GUC-SSL) turned on in the PostgreSQL config has been causing problems for several people.  We recommend turning it off unless you know what you're doing.
+
 You need to configure the database settings. Copy config/database.yml.example to config/database.yml
 and edit it properly.
 
