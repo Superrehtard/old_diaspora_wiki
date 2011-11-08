@@ -164,6 +164,7 @@
 ## 2011
 
 ### November (Novembre)
+* ITnews, 11.07.2011, [Diaspora e Unthink: l'alternativa a Facebook](http://www.itnews.it/news/2011/1107212901707/diaspora-e-unthink-l-alternativa-a-facebook.html)
 * Il Sole 24 Ore, 11.06.2011, [Diaspora non è Facebook: l'inizio di un web sociale](http://www.ilsole24ore.com/art/tecnologie/2011-11-06/diaspora-facebook-inizio-sociale-081850.shtml?uuid=Aa4sNAJE)
 * NewsdelWeb, 11.03.2011, [Diaspora: il social network nemico di Facebook](http://www.newsdelweb.net/diaspora-il-social-network-nemico-di-facebook/)
 * SubitoTechs, 11.03.2011, [Diaspora e UnThink, i primi social network anti-Facebook‎](http://subitotechs.com/2011/11/03/diaspora-unthink-primi-social-network-antifacebook-19162/)
