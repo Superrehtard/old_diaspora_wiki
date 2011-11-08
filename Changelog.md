@@ -1,5 +1,8 @@
 # 2011
 
+### November
+* Ignore user
+
 ### October
 * Longer posts and comments are truncated with a "show more" link to reveal the rest of the text
 * Stream can now include posts from all followed tags and @mentions as well as aspects (formerly known as "soup")
