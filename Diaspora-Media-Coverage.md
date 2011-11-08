@@ -2,7 +2,7 @@
 
 **Pressespiegel und Medienberichterstattung über das Diaspora Projekt**: Presse, Blogs, Medien sortiert nach **Sprache** und **Zeit** (alphabetisch nach Quelle wenn mehrere/Datum).
 
-**Rassegne stampa e copertura mediatica che trattano il progetto Diaspora\***: pubblicazioni, blog, e altri media tutti organizzati per **lingua** e **data** (in ordine alfabetico per fonte se nello stesso giorno).
+**Rassegne stampa e copertura mediatica che trattano il progetto Diaspora\***: pubblicazioni, blog, e altri media tutti organizzati per **data** (formato Americano: mm/gg/aaaa) e **lingua** (in ordine alfabetico per fonte se nello stesso giorno).
 
 
 # English
