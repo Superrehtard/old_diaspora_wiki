@@ -30,7 +30,7 @@ on the mailing list.
 
 3. **Diaspora mandates HTTPS**, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
 
-**Note** While you can certainly get up and running with your own pod by using a self-signed SSL certificate, your pod may not be able to communicate with all other pods. It is therefore recommended that you use a certificate issued from a trusted Certificate Authority.
+**Note** While you can certainly get up and running with your own pod by using a self-signed SSL certificate, your pod may not be able to communicate with all other pods. It is therefore recommended that you use a certificate issued from a trusted Certificate Authority. Unfortunately, this also means that CaCert certificates won't work. They are not (yet) part of most certificate bundles.
 
 ## Preparing your system
 
@@ -173,6 +173,7 @@ Take note: We upgrade all requests to port 80 to 443.  We recommend you do the s
 
 **OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key`.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
 
+***Different certificates** Make sure that your top level domain (e.g. example.com if your pod is pod.example.com) hands out the _same_ certificate as your actual pod URL. The communication with other pods (or applications, like [cubbi.es](http://www.cubbi.es)) might not work otherwise.
 
 ### Configuring WebSockets
 WebSockets is required to have instant notifications and similar services, but you can completely live without it. If you fancy it see [[this page|WebSockets]].
