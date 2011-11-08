@@ -8,7 +8,7 @@
 
 ### November
 
-* RWW, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
+* ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
 
 ### October
