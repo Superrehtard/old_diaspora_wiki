@@ -2,21 +2,21 @@ _Links to various tools built by the community for use with Diaspora._
 
 ###Browser Add-ons
 
-* [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - share webpages and images to Diaspora, translate text on Diaspora (Firefox)
+* [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - (Firefox) share webpages and images to Diaspora, translate text on Diaspora 
 
-*  [D* Hide Images](http://bit.ly/pWcCYN) - hides images in your stream until you choose to show them, hover to preview (Firefox, Chrome, Safari, Opera)
+*  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
 
 *   [Diaspora* Publisher](https://chrome.google.com/webstore/detail/pgblolfhnddeobmfgjhckddncbbfnlim?hl=fr) - (Chrome) allows you to share your favorite pages with your friends; you can also select and share a specific part of the page.
     
-*   [Löwenzahn](https://addons.mozilla.org/en-US/firefox/addon/lowenzahn/?src=api) - This addon shows a notification when you get a new Diaspora message or notification.
+*   [Löwenzahn](https://addons.mozilla.org/en-US/firefox/addon/lowenzahn/?src=api) - (Firefox) This addon shows a notification when you get a new Diaspora message or notification.
 
 *   [Diaspost](http://soycodigo.wordpress.com/diaspost/) - es una extensión por Chrome que permite de manera rápida y cómoda, compartir el sitio que estamos explorando en la red social *Diaspora.
 
-*   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension)
+*   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera)
 
-*   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. (Firefox, Chrome)
+*   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), Chrome) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. 
 
-*   [Speech to Text](http://bit.ly/vbzjvr) - Diaspora* with Google Chrome HTML5 speech to text input. (only Chrome/Chromium)
+*   [Speech to Text](http://bit.ly/vbzjvr) - (Chrome/Chromium) Diaspora* with Google Chrome HTML5 speech to text input.
 
 ###Bookmarklets
 
