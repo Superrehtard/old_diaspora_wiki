@@ -6,7 +6,7 @@ These instructions are for Debian Lenny 5.0 or Squeeze 6.0.  You will need to ma
 
 To install build tools, run the following (includes the gcc and xml parsing dependencies):
 
-        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev
 
 ### CURL
 
@@ -14,17 +14,17 @@ You need to install the dev headers.
 
 To install them, run the following:
 
-        sudo apt-get install curl libcurl4-openssl-dev
+    sudo apt-get install curl libcurl4-openssl-dev
 
 ### Git
 
 To install Git on **Debian 6.0**, run the following:
 
-        sudo apt-get install git-core
+    sudo apt-get install git-core
 
 To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
 
-        sudo apt-get install -t squeeze-backports git-core
+    sudo apt-get install -t squeeze-backports git-core
 
 
 ### Ruby
@@ -32,17 +32,17 @@ To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and instal
 #### System Ruby
 To install Ruby 1.8.7 on **Debian 6.0**, run the following command:
 
-        sudo apt-get install ruby-full
+    sudo apt-get install ruby-full
 
 To install Ruby 1.8.7 (There are known bugs if you use Ruby 1.9.x, see [Bug #998](http://bugs.joindiaspora.com/issues/998)) on **Debian 5.0** from source, run the following commands:
 
-        cd /tmp
-        wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
-        tar xzf ruby-1.8.7-p334.tar.gz
-        cd ruby-1.8.7-p334
-        ./configure --prefix=/usr
-        make
-        make install
+    cd /tmp
+    wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
+    tar xzf ruby-1.8.7-p334.tar.gz
+    cd ruby-1.8.7-p334
+    ./configure --prefix=/usr
+    make
+    make install
 
 Alternatively if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
 
@@ -69,20 +69,20 @@ For Debian 6.0 users who wish to install ree(ruby enterprise edition)(or any edi
 
 This installs MySQL, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
-        sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
+    sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
 
 
 ### PostgreSQL
 
 This installs libraries for PostgreSQL support.
 
-        sudo apt-get install libpq-dev libpq5
+    sudo apt-get install libpq-dev libpq5
 
 ### OpenSSL
 
 You already have OpenSSL installed but you need the libssl-dev and libopenssl-ruby package too:
 
-        sudo apt-get install libssl-dev libopenssl-ruby
+    sudo apt-get install libssl-dev libopenssl-ruby
 
 For Debian 6.0 and later, libopenssl-ruby is provided through the virtual package libruby or libruby1.8.
 
@@ -90,7 +90,7 @@ For Debian 6.0 and later, libopenssl-ruby is provided through the virtual packag
 
 To install ImageMagick, run the following:
 
-        sudo apt-get install imagemagick libmagick9-dev
+    sudo apt-get install imagemagick libmagick9-dev
 
 Note that libmagick9-dev is provided through libmagickwand-dev.
 
@@ -98,36 +98,37 @@ Note that libmagick9-dev is provided through libmagickwand-dev.
 
 Debian 6.0 stable repositories have an older version of Redis.  If you are running Debian Testing, you can use the repository:
 
-        sudo apt-get install redis-server
+    sudo apt-get install redis-server
 
 Otherwise, you can get the newest version directly.  If you're running a 64-bit system, run:
 
-        wget  http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.12-1_amd64.deb
+    wget  http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.12-1_amd64.deb -O redis-server.deb
 
 If you're running a 32-bit system, run:
 
-        wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.12-1_i386.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.12-1_i386.deb -O redis-server.deb
 
 Then install the corresponding package
 
-        sudo dpkg -i "name of package downloaded with the wget-command mentioned earlier"
+    sudo dpkg -i redis-server.deb
 
 ### RubyGems
 
 Not needed for a RVM installation.
 To install RubyGems, run the following:
 
-        sudo apt-get install rubygems
+    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
+
 
 ### Bundler
 
 To install Bundler, run the following, skip the sudo for a RVM installation:
 
-        sudo gem install bundler 
+    sudo gem install bundler 
 
 To get bundle work with the system Ruby, you might make a symbolic link:
 
-        sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+    sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
 This is not needed on **Debian 5.0** when ruby is installed from source.
 
@@ -136,13 +137,13 @@ This is not needed on **Debian 5.0** when ruby is installed from source.
 
 Note: If you get an error in the next step try to run
 
-        sudo apt-get install libffi-ruby libffi-dev
+    sudo apt-get install libffi-ruby libffi-dev
 
 and try the step again.
 
 ### SQLite libraries and header files
 
-        sudo apt-get install libsqlite3-dev
+    sudo apt-get install libsqlite3-dev
 
 
 ## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
