@@ -48,7 +48,7 @@
 
 ### February
 
-EditorsWeblog, 02.22.2011, [Diaspora and future social networks: decentralized, open-sourced?](http://www.editorsweblog.org/web_20/2011/02/diaspora_and_the_future_social_networks.php)
+* EditorsWeblog, 02.22.2011, [Diaspora and future social networks: decentralized, open-sourced?](http://www.editorsweblog.org/web_20/2011/02/diaspora_and_the_future_social_networks.php)
 
 ### January
 
