@@ -11,6 +11,8 @@
 
 ### November
 
+* UnlikeUs, 11.09.2011, [Activistic Salon in Amsterdam: Goodbye Facebook, hello Diaspora*](http://networkcultures.org/wpmu/unlikeus/2011/11/09/activistic-salon-in-amsterdam-goodbye-facebook-hello-diaspora/)
+* Edudemic, 11.09.2011, [Diaspora: The Highly Anticipated Social Network Has Launched](http://edudemic.com/2011/11/diaspora-launch/)
 * ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
 * The Wall Street Journal, 11.07.2011, [Whatever Happened to Diaspora the ‘Facebook Killer’?](http://blogs.wsj.com/tech-europe/2011/11/07/whatever-happened-to-diaspora-the-facebook-killer/?mod=google_news_blog)
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
