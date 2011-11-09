@@ -15,45 +15,73 @@
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
 
 ### October
+
 * The Daily, 10.31.2011, [Emerging from the shadows - New network site Diaspora: We're more than 'the anti-Facebook'](http://www.thedaily.com/page/2011/10/31/103111-biz-diaspora-1-3/)
 * AllThingsD, 10.13.2011, [Diaspora Prepares to Launch Open Source Social Network](http://allthingsd.com/20111013/at-lunch-with-diaspora-the-non-profit-open-source-social-network-built-by-outsiders/)
+* Edudemic, 10.12.2011, [Still In Development, Social Network Diaspora Pleads For Additional Funding](http://edudemic.com/2011/10/diaspora-funding/)
 * FleshEatingZipper, 10.12.2011, [Facebook-Killer Diaspora Is Asking For More Cash, Do We Even Care Anymore?](http://www.flesheatingzipper.com/tech/2011/10/facebook-killer-diaspora-is-asking-for-more-cash-do-we-even-care-anymore/)
 * ReadWriteCloud, 10.12.2011, [The State of Diaspora and Fundraising Round Two](http://www.readwriteweb.com/cloud/2011/10/the-state-of-diaspora-and-fund.php)
+* SEO Best Tips, 10.12.2011, [Diaspora, A Better Social Network.](http://www.seobesttips.com/social-media/diaspora-a-better-social-network/)
 * TECH.BLORGE, 10.12.2011, [‘Free’ Diaspora begs for (more) cash](http://tech.blorge.com/Structure:%20/2011/10/12/free-diaspora-begs-for-more-cash/)
 * The Next Web, 10.12.2011, [Diaspora asks users via email for donations to keep it alive. Will you donate?](http://thenextweb.com/socialmedia/2011/10/12/diaspora-asks-users-for-25-donation-to-keep-it-alive-will-you-donate/)
 
 ### September
 
 * Digital Journal, 09.30.2011, [Op-Ed: Diaspora* moves forward in building 'a new and better social web'](http://www.digitaljournal.com/article/312158)
+* The Myndset, 09.30.2011, [Diaspora* Social Network Alpha Version is going mainstream… slowly. A first review.](http://themyndset.com/2011/09/diaspora-social-network-alpha-version-is-going-mainstream-slowly-a-first-review/)
+* TheOnlyCog, 09.30.2011, [Diaspora - more social networking, coming soon](http://www.theonlycog.com/post/diaspora-alpha/)
 * SocialTech, 09.27.2011, [First thoughts on Diaspora – the distributed social network](http://www.socialtech.biz/blog/first-thoughts-on-diaspora-%E2%80%93-the-distributed-social-network)
 * Technorati, 09.22.2011, [Diaspora*: Not Just Another Social Network](http://technorati.com/blogging/article/diaspora-not-just-another-social-network/)
 * The Inquirer, 09.22.2011, [Open Diaspora lets you post to the social web](http://www.theinquirer.net/inquirer/news/2111213/diaspora-post-social-web)
 * BeatBeat, 09.22.2011, [On Diaspora, You’re Free to Be Your True Pseudonymous Self](http://www.betabeat.com/2011/09/22/on-diaspora-youre-free-to-be-your-true-pseudonymous-self/)
 * FSM, 09.14.2011, [Why You Should Join Diaspora Now, Like Your Freedom Depends On It](http://www.freesoftwaremagazine.com/columms/why_you_should_join_diaspora_now_your_freedom_depends_it)
 * ReadWriteWeb, 09.12.2011, [How Can Diaspora Help Us in a Facebook and Google Plus World?](http://www.readwriteweb.com/archives/how_can_diaspora_help_us_in_a_facebook_and_google.php)
+* TheDailyBeast, 09.02.2011, [Diaspora Social Network: Little Hope for Facebook Rival](http://www.thedailybeast.com/articles/2011/09/02/diaspora-social-network-little-hope-for-facebook-rival.html)
 
 ### June
 
 * IEEE Spectrum, 06.2011, [The Making of Diaspora](http://spectrum.ieee.org/telecom/internet/the-making-of-diaspora/)
 
+### March
+
+* PCWorld, 03.29.2011, [Diaspora: An Antidote For Your Facebook Privacy Problems](http://www.pcworld.com/article/223498/diaspora_an_antidote_for_your_facebook_privacy_problems.html)
+
+### February
+
+EditorsWeblog, 02.22.2011, [Diaspora and future social networks: decentralized, open-sourced?](http://www.editorsweblog.org/web_20/2011/02/diaspora_and_the_future_social_networks.php)
+
 ### January
 
 * New York Times, 01.19.2011, [For New Social Networks, Sharing Can Be More Focused](http://www.nytimes.com/2011/01/20/technology/personaltech/20basics.html?pagewanted=all)
+* MakeTechEasier, 01.13.2011, [A First Look At Diaspora – The Open Social Network](http://maketecheasier.com/diaspora-the-open-social-network/2011/01/13)
 
 ## 2010
 
+### December
+
+* Lifehacker, 12.06.2010, [Screenshot Tour of Diaspora, the Open-Source Social Network](http://lifehacker.com/5707453/screenshot-tour-of-the-open+source-social-network-diaspora)
+
 ### November
 
+* Ars Technica, 11.28.2010, [Hands-on: a first look at Diaspora's private alpha test](http://arstechnica.com/open-source/news/2010/11/hands-on-a-first-look-at-diasporas-private-alpha-test.ars)
+* Thinq, 11.24.2010, [Diaspora social network goes alpha](http://www.thinq.co.uk/2010/11/24/diaspora-social-network-goes-alpha/)
 * Mashable, 11.23.2010, [Facebook Alternative Diaspora Releasing Private Alpha Invites](http://mashable.com/2010/11/23/diaspora-invites/)
 * TechCrunch, 11.23.2010, [Facebook Alternative Diaspora Launches Their Private Alpha With Some Bet Hedging](http://techcrunch.com/2010/11/23/diaspora-alpha/)
 
 ### September
 
 * New York Times, 09.16.2010, [Diaspora, the Open Facebook Alternative, Releases Its Code](http://bits.blogs.nytimes.com/2010/09/16/diaspora-open-facebook-alternative-releases-code/)
+* ComputerWorld, 09.16.2010, [Diaspora: It's no Facebook ... yet](http://blogs.computerworld.com/16974/diaspora_its_no_facebook_yet)
 * TechCrunch, 09.15.2010, [Facebook Competitor Diaspora Revealed: Sparse, But Clean; Source Code Released](http://techcrunch.com/2010/09/15/diaspora-revealed/)
+
+### August
+
+* The Telegraph, 08.31.2010, [Diaspora, the 'anti-Facebook', is doomed](http://www.telegraph.co.uk/technology/social-media/7973490/Diaspora-the-anti-Facebook-is-doomed.html)
 
 ### May
 
+* CNET News, 13.05.2010, [Diaspora about to hit $100,000 in donations](http://news.cnet.com/8301-13577_3-20004895-36.html)
+* Gizmag, 05.13.2010, [Diaspora – a distributed, open source, secure social network with Facebook in its sights](http://www.gizmag.com/diaspora-open-source-social-network/15098/)
 * VentureBeat, 05.13.2010, [Anti-Facebook project rockets to $120,000 in online donations](http://venturebeat.com/2010/05/13/anti-facebook-project-rockets-past-120000-in-funding/)
 * New York Times, 05.12.2010, [Is There Life After Facebook?](http://bits.blogs.nytimes.com/2010/05/12/is-there-life-after-facebook/)
 * New York Times, 05.11.2010, [Four Nerds and a Cry to Arms Against Facebook](http://www.nytimes.com/2010/05/12/nyregion/12about.html)
