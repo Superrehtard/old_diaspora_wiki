@@ -10,15 +10,19 @@ You will need to make sure that your username is on the sudo authorized list loc
 
 This is for Ubuntu 10.10. There are other steps than just this one:
 
-        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5-dev
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5-dev
 
 This is for Ubuntu 11.10. There are other steps than just this one:
 
-        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline-gplv2-dev
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline-gplv2-dev
+
+For both run:
+
+    wget http://mirrors.us.kernel.org/ubuntu//pool/universe/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
 ### Start MySQL (optional, depending on your platform):
 
-        sudo service mysql start
+    sudo service mysql start
 
 ## Step 2
 
@@ -26,11 +30,11 @@ This is for Ubuntu 11.10. There are other steps than just this one:
 
 To install Bundler, run the following:
 
-        sudo gem install bundler --no-ri --no-rdoc 
+    sudo gem install bundler --no-ri --no-rdoc 
 
 To get bundle to work (**bundle install** step later), you might need to make a symbolic link:
 
-        sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
+    sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
 
 ## Done
@@ -47,13 +51,13 @@ Congrats! You have all your dependencies installed. Go back to [[Installing and 
 
 To install build tools, run the following (includes the gcc and xml parsing dependencies):
 
-        sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2
 
 ### Ruby
 
 To install Ruby 1.8.7, run the following command:
 
-        sudo apt-get install ruby-full
+    sudo apt-get install ruby-full
 
 Please note that you need to have Universe enabled in your
 /etc/apt/sources.list file to install ruby using apt-get.
@@ -62,21 +66,21 @@ Please note that you need to have Universe enabled in your
 
 This installs MySQL, you also need the libmysqlclient-dev and libmysql-ruby packages.
 
-        sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
+    sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
 
 To start MySQL run
 
-        sudo service mysql start
+    sudo service mysql start
 
 ### sqlite
 
-        sudo apt-get install libsqlite3-dev
+    sudo apt-get install libsqlite3-dev
 
 ### OpenSSL
 
 You already have OpenSSL installed but you need the libssl-dev and libopenssl-ruby package too:
 
-        sudo apt-get install libssl-dev libopenssl-ruby
+    sudo apt-get install libssl-dev libopenssl-ruby
 
 ### libcurl
 
@@ -84,90 +88,41 @@ You need to install the dev headers.
 
 To install them, run the following:
 
-        sudo apt-get install libcurl4-openssl-dev
+    sudo apt-get install libcurl4-openssl-dev
 
 ### ImageMagick
 
 To install ImageMagick, run the following:
 
-        sudo apt-get install imagemagick libmagick9-dev
+    sudo apt-get install imagemagick libmagick9-dev
 
 If you're on **Ubuntu 10.10** use the following instead:
 
-        sudo apt-get install imagemagick libmagickwand-dev
+    sudo apt-get install imagemagick libmagickwand-dev
 
 ### Git
 
 To install Git, run the following:
 
-        sudo apt-get install git-core
+    sudo apt-get install git-core
 
 ### Redis
 
 To install Redis, run the following:
 
-        sudo apt-get install redis-server
+    sudo apt-get install redis-server
 
 ### ffi
 
 Note: If you get an error in the next step try to run
 
-        sudo apt-get install libffi-dev libffi-ruby
+    sudo apt-get install libffi-dev libffi-ruby
 
 and try the step again.
 
 
 ### RubyGems
 
-On **Ubuntu 10.04**, run the following:
+To install RubyGems run
 
-        sudo add-apt-repository ppa:maco.m/ruby
-        sudo apt-get update
-        sudo apt-get install rubygems
-
-This PPA is maintained by an Ubuntu Developer.
-
-If you are running **Ubuntu Server**, you might get an error that looks like:
-
-        sudo: add-apt-repository: command not found
-
-If this happens, you must first install python-software-properties, which contains the add-apt-repository command:
-
-        sudo apt-get install python-software-properties
-
-On **Ubuntu 10.10**, run the following:
-
-        sudo apt-get install rubygems
-
-You may need to install libxsl first: http://nokogiri.org/tutorials/installing_nokogiri.html
-
-On **Ubuntu 11.10**:
-
-Try installing first as follows:
-
-        sudo apt-get install rubygems
-
-If once you get to run `bundle` for the first time, you get the following type of errors:
-
-        Invalid gemspec in [/var/lib/gems/1.8/specifications/sinatra-1.2.7.gemspec]: invalid date format in specification: "2011-10-01 00:00:00.000000000Z"
-        Invalid gemspec in [/var/lib/gems/1.8/specifications/tilt-1.3.3.gemspec]: invalid date format in specification: "2011-08-25 00:00:00.000000000Z"
-
-Try running the following to see if that helps:
-
-        sudo sed -i 's/ 00:00:00.000000000Z//' /var/lib/gems/1.8/specifications/*
-
-If you still get errors, possibly the following:
-
-        Could not find em-websocket-0.3.5 in any of the sources
-
-One thing to try is to update RubyGems to 1.8 which you can do as follows:
-
-        sudo apt-get remove rubygems
-        wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.10.tgz
-        tar xzvf rubygems-1.8.10.tgz
-        cd rubygems-1.8.10
-        sudo ruby setup.rb
-        sudo ln -s /usr/bin/gem1.8 /usr/bin/gem
-        sudo gem update --system
-
-Please note the above instructions will overwrite any system global RubyGems installation, so do not follow if you are trying to create a separate Ruby environment for Diaspora!
+    wget http://mirrors.us.kernel.org/ubuntu//pool/universe/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
