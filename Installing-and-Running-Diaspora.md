@@ -129,11 +129,11 @@ To use `./script/server` copy config/script_server.yml.example to config/script_
 
 ### Background
 
-Diaspora is a Rails-app and as such it has different modes it's running in.
-The default is the "development mode" in which some performance features such as
-source code caching are disabled. The other one is production mode and best for
-actually running a pod. So if you want a test installation to develop for Diaspora,
-keep the defaults, if you plan to host a pod choose production mode.
+Diaspora is a Rails-app and as such it has different running modes.
+The default is "development mode" in which some performance features such as
+source code caching are disabled. The other mode is "production mode" which is best for
+actually running a pod. If you want just a test installation to develop for Diaspora,
+keep the defaults.  However, if you plan to actually host a pod choose production mode.
 
 If you want to run production mode:
 
