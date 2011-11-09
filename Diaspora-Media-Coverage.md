@@ -12,7 +12,9 @@
 ### November
 
 * ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
+* The Wall Street Journal, 11.07.2011, [Whatever Happened to Diaspora the ‘Facebook Killer’?](http://blogs.wsj.com/tech-europe/2011/11/07/whatever-happened-to-diaspora-the-facebook-killer/?mod=google_news_blog)
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
+* GreatPlainsBuddha, 11.01.2011, [Diaspora: the other "other social network"](http://greatplainsbuddha.com/diaspora-the-other-other-social-network)
 
 ### October
 
