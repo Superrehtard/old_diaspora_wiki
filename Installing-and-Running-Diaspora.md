@@ -93,7 +93,7 @@ has a pretty awesome guide for getting set up.
 
 ### Preparations
 
-Depending on the database you want to use either add `DB="mysql"` for MySQL or `DB="postgres"` for PostgreSQL before each command starting with `bundle…` or export the environment variable: `export DB="mysql"` for MySQL or `export DB="postgres"`. (If you want to have both available for easy switching,  you can either skip this step or use `DB="all"`.)
+Depending on the database you want to use, add either `DB="mysql"` for MySQL or `DB="postgres"` for PostgreSQL before each command starting with `bundle…`, or export the environment variable: `export DB="mysql"` for MySQL or `export DB="postgres"`. (If you want to have both database types available for easy switching, you can either skip this step or use `DB="all"`.)
 
 ### Install required gems
 
