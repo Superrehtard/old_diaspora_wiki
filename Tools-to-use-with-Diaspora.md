@@ -1,28 +1,33 @@
 _Links to various tools built by the community for use with Diaspora._
 
-###Browser Add-ons
 
+### Browser Add-ons
+
+#### Sharing extensions
 * [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - (Firefox) share webpages and images to Diaspora, translate text on Diaspora 
 
-*  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
-
 *   [Diaspora* Publisher](https://chrome.google.com/webstore/detail/pgblolfhnddeobmfgjhckddncbbfnlim?hl=fr) - (Chrome) allows you to share your favorite pages with your friends; you can also select and share a specific part of the page.
+
+*   [Diaspost](http://soycodigo.wordpress.com/diaspost/) - (Chrome) quickly share webpages to Diaspora
+
+*   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
+
+#### More cool stuff
+*  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
     
 *   [Löwenzahn](https://addons.mozilla.org/en-US/firefox/addon/lowenzahn/?src=api) - (Firefox) This addon shows a notification when you get a new Diaspora message or notification.
-
-*   [Diaspost](http://soycodigo.wordpress.com/diaspost/) - es una extensión por Chrome que permite de manera rápida y cómoda, compartir el sitio que estamos explorando en la red social *Diaspora.
-
-*   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera)
 
 *   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), Chrome) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. 
 
 *   [Speech to Text](http://bit.ly/vbzjvr) - (Chrome/Chromium) Diaspora* with Google Chrome HTML5 speech to text input.
 
-###Bookmarklets
+
+### Bookmarklets
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
-###"Share on Diaspora" Buttons (for use on blogs and websites)
+
+### "Share on Diaspora" Buttons (for use on blogs and websites)
 
 *   [Diaspora* Sharing Service (DSS)](http://www.basshero.org/page/show/dss) working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
 
@@ -37,14 +42,14 @@ _Links to various tools built by the community for use with Diaspora._
 *   [HTML share button for JoinDiaspora](http://pastebin.com/PxrFauH8) works for any blog or site (simple html), with joindiaspora.com only.
 
 
-###WordPress Plugins
+### WordPress Plugins
 
 *  [Webfinger Profile Plugin for 'Join me' widget](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora, [more info](http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/)
 
 *   [Wordpress plugin: wp-post-to-diaspora](https://github.com/diaspora/wp-post-to-diaspora) when you make a new blog post, this plugin will post a link to it to your diaspora account
 
 
-###Cubbi.es extensions 
+### Cubbi.es extensions 
     
 *   [Opera](http://bit.ly/nPBzuk)
     
