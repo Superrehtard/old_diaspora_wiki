@@ -133,6 +133,19 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Operating system: Linux
    * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
 
+* [[https://dipod.org]] [[https://dipod.org/apple-touch-icon.png|height=30px]]
+    * Opened: 01/11/2011
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod.
+
+* [[https://dipod.es]] [[https://dipod.es/apple-touch-icon.png|height=30px]]
+    * Opened: 01/11/2011
+    * Updated: major changes
+    * Maintained by: private individual 
+    * Operating system: Linux 
+    * Comments: Public and free Diaspora pod.
 
 * [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
     * Opened: 09/05/2010
