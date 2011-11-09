@@ -1,7 +1,4 @@
-[Unofficial install script for Ubuntu](http://github.com/maco/diaspora/commits/master/ubuntu-setup.bash)
-
-### Versions
-These instructions are for 11.04 & 10.10 [ for Ubuntu 10.04 & 11.10, read the Rubygems section in the appendix ].
+### Preparations
 You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
 
 ## Step 1
