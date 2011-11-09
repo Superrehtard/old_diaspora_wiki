@@ -100,7 +100,7 @@ Debian 6.0 stable repositories have an older version of Redis.  If you are runni
 
     sudo apt-get install redis-server
 
-Otherwise, you can get the newest version directly.  If you're running a 64-bit system, run:
+Otherwise, if you're running Stable, you should get the newest version directly.  If you're running a 64-bit system, run:
 
     wget  http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.12-1_amd64.deb -O redis-server.deb
 
