@@ -138,7 +138,7 @@ keep the defaults.  However, if you plan to actually host a pod choose productio
 If you want to run production mode:
 
 * Edit rails_env in the script_server section in config/script_server.yml
-* Change the "serve_static_assets" setting to "true" in the config/environments/production.rb file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option for Apache and Nginx users would be to modify the respective webserver's configuration to serve the content itself:
+* Change the "serve_static_assets" setting to "true" in the config/environments/production.rb file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to install a true webserver such as Apache or Nginx alongside Diaspora and then modify that webserver's configuration to serve the static content itself:
 
 #### Apache 2
 
