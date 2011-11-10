@@ -170,7 +170,9 @@ See [[Using lighttpd as webserver]] for an example configuration.
 ### Configuring SSL
 As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl.com" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
 
-Take note: We upgrade all requests to port 80 to 443.  We recommend you do the same.
+**NOTE:** Certificates issued from StartSSL will probably also require that the StartSSL intermediate certificate be concatenated in order for some pods to communicate properly.
+
+Take note: We upgrade all port 80 requests to port 443.  We recommend that you do the same.
 
 
 **OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key`.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
