@@ -15,7 +15,7 @@ _Links to various tools built by the community for use with Diaspora._
 #### More cool stuff
 *  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
 
-*   [Diaspora Tagfilter](https://www.userscripts.org/scripts/show/117102) - ( Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) )This userscript allows to filter postings in your diaspora-stream by tags. It also can replace all inline-images (except avatars) by links to those images.
+*   [Diaspora Tagfilter](https://www.userscripts.org/scripts/show/117102) - ( Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) ) GreaseMonkey script to filter postings in your diaspora-stream by tags. It also can replace all inline-images (except avatars) by links to those images.
     
 *   [Löwenzahn](https://addons.mozilla.org/en-US/firefox/addon/lowenzahn/?src=api) - (Firefox) This addon shows a notification when you get a new Diaspora message or notification.
 
