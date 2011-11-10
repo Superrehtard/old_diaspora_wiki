@@ -100,6 +100,7 @@
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
 * t3n, 10.19.2011, [Diaspora: PayPal friert Spenden ein und lehnt die Annahme weiterer Gelder ab](http://t3n.de/news/diaspora-paypal-friert-spenden-lehnt-annahme-weiterer-337826/)
 * ZDF, Elektronischer Reporter, 10.19.2011, [Ein Fast-Monopol, eine Verhaftung und Dinge-Drucker](http://www.elektrischer-reporter.de/phase3/video/254/)
+* t3n, 10.13.2011, [Diaspora bittet Nutzer um 25 Dollar – Hat es noch eine Zukunft?](http://t3n.de/news/diaspora-bittet-nutzer-um-25-dollar-hat-noch-zukunft-336877/)
 
 ### September
 
@@ -120,6 +121,7 @@
 ### May (Mai)
 
 * netzcheckers.de, 05.19.2011, [Diaspora - die Facebook-Alternative](http://www.netzcheckers.de/m2106333860_421.html)
+* t3n, 05.17.2011, [Anti-Facebook Diaspora verspricht: "Wir legen an Tempo zu"](http://t3n.de/news/anti-facebook-diaspora-verspricht-legen-tempo-310295/)
 * telekom-presse.at, 05.17.2011, [Diaspora: ein Konkurrent für Facebook](http://www.telekom-presse.at/Diaspora_ein_Konkurrent_fuer_Facebook.id.15875.htm)
 * rhein-zeitung.de, 05.14.2011, ["Gefällt mir" nun auch bei Facebook-Alternative Diaspora - 17-Jährige Deutsche gehören zu Kernentwicklern](http://www.rhein-zeitung.de/nachrichten/computer/computernews_artikel,-Gefaellt-mir-nun-auch-bei-Facebook-Alternative-Diaspora-17-Jaehrige-Deutsche-gehoeren-zu-Kernentwic-_arid,248113.html)
 * allgemeine-zeitung.de, 05.13.2011, [Netzwerk ohne Datenhunger](http://www.allgemeine-zeitung.de/region/mainz/meldungen/10734259.htm)
@@ -128,6 +130,7 @@
 
 * WDR, 04.16.2011, [Diaspora - anders netzwerken? Teilen macht das Netz erst großartig](http://www1.wdr.de/themen/medienseite/diaspora100.html)
 * heise.de, 04.15.2011, [re:publica: Dezentralisierung vs. Zentralisierung im Internet](http://www.heise.de/newsticker/meldung/re-publica-Dezentralisierung-vs-Zentralisierung-im-Internet-1228365.html)
+* t3n, 04.15.2011, [Diaspora-Gründer Maxwell Salzberg: Facebook sollte seine API für Diaspora öffnen](http://t3n.de/news/diaspora-grunder-maxwell-salzberg-facebook-sollte-api-306088/)
 
 ### February (Februar)
 
@@ -148,6 +151,7 @@
 ### November
 
 * taz.de, 11.29.2010, [Online-Netzwerk Diaspora - Ein erster Blick aufs Anti-Facebook](http://www.taz.de/1/netz/netzkultur/artikel/1/ein-erster-blick-aufs-anti-facebook/)
+* t3n, 11.15.2010, [Diaspora Alpha: Erste Tests verlaufen eher enttäuschend](http://t3n.de/news/diaspora-alpha-erste-tests-verlaufen-eher-enttauschend-286820/)
 * golem.de, 11.24.2010, [Freier Facebook-Konkurrent nun im Alphatest](http://www.golem.de/1011/79644.html)
 * heise.de, 11.24.2010, [Soziales Netzwerk Diaspora startet Alpha-Test](http://www.heise.de/open/meldung/Soziales-Netzwerk-Diaspora-startet-Alpha-Test-1141788.html)
 * Zeit, 11.24.2010, [Freier Facebook-Konkurrent lädt zum Test ein](http://www.zeit.de/digital/internet/2010-11/diaspora-alphatest)
@@ -159,6 +163,7 @@
 ### September
 
 * Handelsblatt, 09.21.2010, [Diaspora: Facebook-Alternative steckt noch voller Fehler](http://www.handelsblatt.com/technologie/it-tk/it-internet/facebook-alternative-steckt-noch-voller-fehler/3544308.html)
+* t3n, 09.17.2010, [Diaspora: Welche Chancen hat die dezentrale Facebook-Alternative?](http://t3n.de/news/diaspora-welche-chancen-hat-dezentrale-279997/)
 * taz, 09.17.2010, [Facebook-Freunde bald exportierbar](http://www.taz.de/!58490/)
 * Zeit, 09.17.2010, [Facebook-Alternative steckt noch voller Fehler](http://www.zeit.de/digital/internet/2010-09/facebook-diaspora-sicherheit)
 * golem.de, 09.16.2010, [Diaspora verteilt den Quelltext](http://www.golem.de/1009/78014.html)
@@ -175,6 +180,7 @@
 * taz, 08.30.2010, [Anti-Facebook vor Start](http://www.taz.de/!57690/)
 * golem.de, 08.27.2010, [Diaspora ist Mitte September startklar](http://www.golem.de/1008/77534.html)
 * heise.de, 08.27.2010, [Offenes soziales Netzwerk Diaspora startet am 15. September](http://www.heise.de/open/meldung/Offenes-soziales-Netzwerk-Diaspora-startet-am-15-September-1068684.html)
+* t3n, 08.27.2010, [Social Web: Anti-Facebook "Diaspora" gibt Code am 15. September frei](http://t3n.de/news/diaspora-september-278327/)
 
 ### May (Mai)
 
@@ -188,6 +194,7 @@
 * Das Social Media Blog, 05.16.2010, [Diaspora greift Facebook an](http://stueber.welt.de/2010/05/16/390/)
 * golem.de, 05.15.2010, [150.000 US-Dollar für freien Facebook-Konkurrenten](http://www.golem.de/1005/75135.html)
 * heise.de, 05.14.2010, [100.000 Dollar für das dezentrale soziale Netz Diaspora](http://www.heise.de/open/meldung/100-000-Dollar-fuer-das-dezentrale-soziale-Netz-Diaspora-1000517.html)
+* t3n, 05.14.2010, [Anti-Facebook "Diaspora": Vier Geeks wollen das bessere Facebook bauen](http://t3n.de/news/anti-facebook-diaspora-272496/)
 * taz, 05.14.2010, [Das freie Facebook](http://www.taz.de/!52538/)
 * Zeit, 05.14.2010, [Das bessere Facebook](http://www.zeit.de/digital/internet/2010-05/leserdebatte-facebook-alternative)
 * golem.de, 05.13.2010, [Auf dem Weg zu einem sicheren und freien sozialen Netzwerk](http://www.golem.de/1005/75092.html)
