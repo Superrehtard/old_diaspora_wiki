@@ -42,12 +42,21 @@
 * ReadWriteWeb, 09.12.2011, [How Can Diaspora Help Us in a Facebook and Google Plus World?](http://www.readwriteweb.com/archives/how_can_diaspora_help_us_in_a_facebook_and_google.php)
 * TheDailyBeast, 09.02.2011, [Diaspora Social Network: Little Hope for Facebook Rival](http://www.thedailybeast.com/articles/2011/09/02/diaspora-social-network-little-hope-for-facebook-rival.html)
 
+### August
+
+* Hayes and Grey, 08.29.2011, [Diaspora: Social networking that could warm the heart of any nerd.](http://hayesandgrey.co.uk/14.html)
+
+### July
+
+* The Chronicle, 07.11.2011, [Remembering Diaspora*: The Open Source Social Network](http://chronicle.com/blogs/profhacker/remembering-diaspora-the-open-source-social-network/34627)
+
 ### June
 
 * IEEE Spectrum, 06.2011, [The Making of Diaspora](http://spectrum.ieee.org/telecom/internet/the-making-of-diaspora/)
 
 ### March
 
+* NYConvergence, 03.14.2011, [Taking a Look at Social Network Diaspora](http://nyconvergence.com/2011/03/taking-a-look-at-social-network-diaspora.html)
 * PCWorld, 03.29.2011, [Diaspora: An Antidote For Your Facebook Privacy Problems](http://www.pcworld.com/article/223498/diaspora_an_antidote_for_your_facebook_privacy_problems.html)
 
 ### February
@@ -63,6 +72,7 @@
 
 ### December
 
+* Technology Review, 12.14.2010, [Leaving Facebook. Will Diaspora provide a social-networking haven for those fed up with Facebook?](http://www.technologyreview.in/web/26904/)
 * Lifehacker, 12.06.2010, [Screenshot Tour of Diaspora, the Open-Source Social Network](http://lifehacker.com/5707453/screenshot-tour-of-the-open+source-social-network-diaspora)
 
 ### November
@@ -71,9 +81,15 @@
 * Thinq, 11.24.2010, [Diaspora social network goes alpha](http://www.thinq.co.uk/2010/11/24/diaspora-social-network-goes-alpha/)
 * Mashable, 11.23.2010, [Facebook Alternative Diaspora Releasing Private Alpha Invites](http://mashable.com/2010/11/23/diaspora-invites/)
 * TechCrunch, 11.23.2010, [Facebook Alternative Diaspora Launches Their Private Alpha With Some Bet Hedging](http://techcrunch.com/2010/11/23/diaspora-alpha/)
+* ComputerWorld, 11.23.2010, [Open-source social network Diaspora goes live](http://www.computerworld.com/s/article/9197882/Open_source_social_network_Diaspora_goes_live)
+
+### October
+
+* WIRED, 10.05.2010, [Diaspora: A First Step Toward Safer Social Networking](http://www.wired.com/geekdad/2010/10/diaspora-a-first-step-toward-safer-social-networking/)
 
 ### September
 
+* BBC News, 09.16.2010, [Facebook alternative Diaspora rolls out first code](http://www.bbc.co.uk/news/technology-11326157)
 * New York Times, 09.16.2010, [Diaspora, the Open Facebook Alternative, Releases Its Code](http://bits.blogs.nytimes.com/2010/09/16/diaspora-open-facebook-alternative-releases-code/)
 * ComputerWorld, 09.16.2010, [Diaspora: It's no Facebook ... yet](http://blogs.computerworld.com/16974/diaspora_its_no_facebook_yet)
 * TechCrunch, 09.15.2010, [Facebook Competitor Diaspora Revealed: Sparse, But Clean; Source Code Released](http://techcrunch.com/2010/09/15/diaspora-revealed/)
@@ -84,9 +100,12 @@
 
 ### May
 
-* CNET News, 13.05.2010, [Diaspora about to hit $100,000 in donations](http://news.cnet.com/8301-13577_3-20004895-36.html)
+* Helium, 05.17.2010, [What is the Diaspora* social network?](http://www.helium.com/items/1835414-what-is-the-diaspora-social-network)
+* CNET News, 05.13.2010, [Diaspora about to hit $100,000 in donations](http://news.cnet.com/8301-13577_3-20004895-36.html)
 * Gizmag, 05.13.2010, [Diaspora – a distributed, open source, secure social network with Facebook in its sights](http://www.gizmag.com/diaspora-open-source-social-network/15098/)
+* The Next Web, 05.13.2010, [New Social Networking Darling Diaspora* Has An Idea Problem](http://thenextweb.com/socialmedia/2010/05/13/diaspora-problems/)
 * VentureBeat, 05.13.2010, [Anti-Facebook project rockets to $120,000 in online donations](http://venturebeat.com/2010/05/13/anti-facebook-project-rockets-past-120000-in-funding/)
+* Gizmodo, 05.12.2010, [Diaspora: The Student-Made, Privacy-Respecting Facebook Alternative](http://gizmodo.com/5537502/diaspora-the-student+made-privacy+respecting-facebook-alternative)
 * New York Times, 05.12.2010, [Is There Life After Facebook?](http://bits.blogs.nytimes.com/2010/05/12/is-there-life-after-facebook/)
 * New York Times, 05.11.2010, [Four Nerds and a Cry to Arms Against Facebook](http://www.nytimes.com/2010/05/12/nyregion/12about.html)
 
