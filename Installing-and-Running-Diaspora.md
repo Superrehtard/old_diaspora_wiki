@@ -177,7 +177,7 @@ Take note: We upgrade all port 80 requests to port 443.  We recommend that you d
 
 **OSX Server Note** If you use startssl to obtain both a private key and a certificate don't forget to decrypt the private key using the following command `openssl rsa -in ssl.key -out ssl.key`.  Import the decrypted key (ssl.key) and a certificate (ssl.crt) file into Server Admin by dragging the files into the Certificate manager found here: Server Admin>Web>Site>example.com>Security>Manage Certificates>Import Certificate Identity.  If the certificate & key are valid the certificate should be 'blue'.  Once imported, the certificate can then be selected as the security for the site. 
 
-***Different certificates** Make sure that your top level domain (e.g. example.com if your pod is pod.example.com) hands out the _same_ certificate as your actual pod URL. The communication with other pods (or applications, like [cubbi.es](http://www.cubbi.es)) might not work otherwise.
+**Different certificates** Make sure that your top level domain (e.g. example.com if your pod is pod.example.com) hands out the _same_ certificate as your actual pod URL. The communication with other pods (or applications, like [cubbi.es](http://www.cubbi.es)) might not work otherwise.
 
 ### Configuring WebSockets
 WebSockets is required to have instant notifications and similar services, but you can completely live without it. If you fancy it see [[this page|WebSockets]].
