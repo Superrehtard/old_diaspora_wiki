@@ -12,6 +12,18 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
 
+
+#### Cubbi.es extensions 
+    
+*   [Opera](http://bit.ly/nPBzuk)
+    
+*   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)
+    
+*   [Safari](http://github.com/gattonero/cubbies-safari)
+    
+*   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
+
+
 #### More cool stuff
 *  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
 
@@ -51,13 +63,4 @@ _Links to various tools built by the community for use with Diaspora._
 *   [Wordpress plugin: wp-post-to-diaspora](https://github.com/diaspora/wp-post-to-diaspora) when you make a new blog post, this plugin will post a link to it to your diaspora account
 
 
-### Cubbi.es extensions 
-    
-*   [Opera](http://bit.ly/nPBzuk)
-    
-*   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)
-    
-*   [Safari](http://github.com/gattonero/cubbies-safari)
-    
-*   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
 
