@@ -47,7 +47,7 @@ First copy config/oauth_keys.yml.example to config/oauth_keys.yml and open it in
 * Choose a name, for example "Diaspora at example.org"
 * Set the site address to your pod URL including a trailing /, for example http://example.org/
 * Choose a language
-* Click on Create application
+* Click on **+ Create New App**
 * Fill the Captcha
 * It will now give you your app id and your app_secret which you have to set in your config/oauth_keys.yml
 * Go to https://developers.facebook.com/apps/app_id/summary
