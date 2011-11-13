@@ -8,9 +8,11 @@ These instructions are for creating a local development instance on Windows XP P
 
 ### Ruby
 
-Download [RubyInstaller 1.8.7](http://rubyinstaller.org/downloads/).  This also includes RubyGems.
+Download [RubyInstaller 1.9.2](http://rubyinstaller.org/downloads/).  This also includes RubyGems.
 
 When running the installer check "Add Ruby executables to your PATH."
+
+Add `C:\Ruby192\lib` to your system path.  You can temporarily set this by running `set PATH=%PATH%;C:\Ruby192\lib` in a command-line window.
 
 ### Ruby Development Kit
 
@@ -33,7 +35,7 @@ Close the command prompt window.
 
 ### MySQL
 
-Download the Windows (x86, 32-bit), MSI Installer v5.5.11 from [MySQL.com](http://www.mysql.com/downloads/mysql/).  Click on the "No thanks, just take me to the downloads!" link at the bottom of the next web page.
+Download the Windows (x86, 32-bit), MSI Installer for the latest 5.5 version from [MySQL.com](http://www.mysql.com/downloads/mysql/).  Click on the "No thanks, just take me to the downloads!" link at the bottom of the next web page.
 
 Run the Installer.
 Choose the Typical Setup Install Type.
@@ -70,7 +72,7 @@ Note:  If you do run the Server Instance Configuration Wizard again you will nee
 
 Open a Command Prompt window and type:
 
-    copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby187\bin
+    copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby192\lib
 
 ### ImageMagick
 
@@ -89,7 +91,7 @@ When installing uncheck:
 
 ### Redis
 
-Download version 2.2 from [Github](https://github.com/dmajkic/redis). Click on the downloads button and choose redis-2.2.2-win32-win64.zip.  Save the file to your Desktop.
+Download version 2.4 from [Github](https://github.com/dmajkic/redis/downloads). Save redis-2.4.2-win32-win64-fix to your Desktop.
 
 * Right-click on the Redis zip file and choose Extract All.
 * In the Extraction Wizard, click Next twice.
@@ -100,7 +102,7 @@ Open up a Command Prompt and type the following:
 
     cd %HOMEDRIVE%
     mkdir "C:\Program Files\Redis"
-    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\redis-2.2.2-win32-win64\32bit\*" "C:\Program Files\Redis"
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\redis-2.4.2-win32-win64-fix\32bit\*" "C:\Program Files\Redis"
 
 Open C:\Program Files\Redis\redis.conf in a text editor and:
 
@@ -135,32 +137,18 @@ Get the source code.
    
 Two windows specific gems need to be included.  Open the Gemfile file.
 
-* Change `'SystemTimer', '1.2.1'` to `'ghazel-SystemTimer', '1.2.1.1'`
-* Add `gem 'win32-open3', '0.3.2'`
+* Add `gem 'win32-open3-19', '0.0.1'`
 
 Open the Gemfile.lock file.
 
-* Change `SystemTimer (1.2.1)` to `ghazel-SystemTimer (1.2.1.1)`
-* Change `SystemTimer (= 1.2.1.1)` to `ghazel-SystemTimer (= 1.2.1.1)`
-
-### Installing Diaspora
-
-The bundle install command will fail while installing the Typhoeus gem due to missing libcurl files.  From the command line, type:  
-
-    cd "C:\Progra~1\Diaspora"  
-    C:\Progra~1\RubyDevKit\devkitvars.bat  
-    bundle install --path vendor
-
-You will see an error message while compiling the Typhoeus gem.  In the example below Typhoeus 0.2.4 depends on curl 7.19.4.
-
-    checking for curl/curl.h in C:/PROGRA~1/Diaspora/vendor/ruby/1.8/gems/typhoeus-0.2.4/cross/curl-7.19.4.win32/include... no
-    need libcurl
-    *** extconf.rb failed ***
+* Change `eventmachine (>= 0.12.9)` to `eventmachine (>= 1.0.0.beta.2)`
+* Change `eventmachine (0.12.10)` to `eventmachine (1.0.0.beta.2)`
 
 ### Libcurl
 
-XP:
-Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find the version that Typhoeus is looking for in the format of curl-&lt;version number&gt;-devel-mingw32.zip.  For Typhoeus 0.2.4, download curl-7.19.4-devel-mingw32.zip.  Save the file to your Desktop.
+The Typhoeus gem depends on libcurl, and this provides a work-around approach of building the gem on Windows:
+
+Download curl-7.19.4-devel-mingw32.zip from [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/) and save the file to your Desktop.
 
 * Right click on the file and choose Extract All.
 * In the Extraction Wizard window, click Next twice.
@@ -168,33 +156,22 @@ Download [libcurl](http://www.gknw.net/mirror/curl/win32/old_releases/).  Find t
 
 From the Command Prompt run:
 
-    set TYPHOEUS_VER=0.2.4
     set CURL_VER=7.19.4
 
-    mkdir C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include\curl
-    mkdir C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\bin
-    cd %HOMEDRIVE%
+    mkdir C:\Ruby192\include\ruby-1.9.1\curl
 
-    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\include\curl" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\include\curl
-    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin" C:\PROGRA~1\Diaspora\vendor\ruby\1.8\gems\typhoeus-%TYPHOEUS_VER%\cross\curl-%CURL_VER%.win32\bin
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby192\lib
+    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\include\curl\*.*" C:\Ruby192\include\ruby-1.9.1\curl
+    
+### Installing Diaspora
 
-    copy "%HOMEDRIVE%%HOMEPATH%\Desktop\curl-%CURL_VER%-devel-mingw32\curl-%CURL_VER%-devel-mingw32\bin\*.dll" C:\Ruby187\bin
+From the command line, type:  
 
-Should the Typhoeus and Curl versions change, adjust the Typhoeus and Curl version environment variables used above.
-
-Vista/7:
-
-Vista/7 will overwrite the curl folder if you try the above steps, so instead please read https://github.com/dbalatero/typhoeus/issues/11 (make sure to delete libcurl.a from the lib directory in the curl folder and move bin/libcurl.dll there if you get gcc make/build errors).
-
-Once you've installed the gem, copy the folder typhoeus-0.2.4 from your/ruby/path/lib/ruby/gems/1.8/gems into C:/Progra~1/Diaspora/vendor/ruby/1.8/gems
-
-
-### Installing Diaspora (Continued)
-
-From the command line while in the Diaspora installation directory, type:
-
+    cd "C:\Progra~1\Diaspora"  
     C:\Progra~1\RubyDevKit\devkitvars.bat
-    bundle install
+
+    bundle config build.mysql2 '--with-mysql-include="C:\Progra~1\MySQL\MySQL Server 5.5\include"'  
+    bundle install --path vendor
 
 ### Set up the database
 
@@ -227,40 +204,6 @@ Edit `config/app.yml`.  If `config/app.yml` does not exist, save a copy of `conf
 * Change `mailer_on: false` to `mailer_on: true`
 * Change sendmail_location from `sendmail_location: '/usr/sbin/sendmail'` to `sendmail_location: 'C:/Progra~1/Diaspora/software/msmtp'`
 * Change the entries that begin with `smtp_` to match that of your e-mail server.
-
-### Windows Compatibility Modifications
-
-#### Resque
-
-The resque workers rely on the Unix `ps` command to determine which programs are running.  We will need to modify the source code to use the Windows `tasklist` command instead.  Note: If the version of the resque gem changes you will need to reapply these modifications.
-
-Open vendor\ruby\1.8\gems\resque-1.10.0\lib\resque\worker.rb
-
-Look for def `kill_child` in that file.  Locate the line that reads
-
-    if system("ps -o pid,state -p #{@child}")
-
-and replace it with
-
-    if system('tasklist /fi "PID eq #{@child}"')
-
-Look for `def worker_pids`
-
-Replace this code block
-
-    def worker_pids
-      `ps -A -o pid,command | grep [r]esque`.split("\n").map do |line|
-        line.split(' ')[0]
-      end
-    end
-
-with this one
-
-    def worker_pids
-      `tasklist /fi "Services eq resque"`.split("\n").map do |line|
-        line.split(' ')[1]
-      end
-    end
 
 ### Running Diaspora
 
