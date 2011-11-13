@@ -298,7 +298,15 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
    * Configuration: Nginx proxying multiple thins
 
-  
+* [[https://wk3.org/]]
+    * Updated: regularly
+    * Maintained by: private individual
+         * christophe@wk3.org
+    * HTTPS (only)
+    * IPv6
+    * Operating system: Debian
+    * Comments: Public and free Diaspora pod. Facebook and Twitter support.
+
 * [[https://yaspora.com]] [[https://yaspora.com/apple-touch-icon.png|height=30px]]
     * Opened: 18/12/2010
     * Updated: major changes
