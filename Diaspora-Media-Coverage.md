@@ -11,11 +11,13 @@
 
 ### November
 
-* UnlikeUs, 11.09.2011, [Activistic Salon in Amsterdam: Goodbye Facebook, hello Diaspora*](http://networkcultures.org/wpmu/unlikeus/2011/11/09/activistic-salon-in-amsterdam-goodbye-facebook-hello-diaspora/)
+* LJWorld, 11.13.2011, [Remember Diaspora*?](http://www2.ljworld.com/weblogs/social-media-blog/2011/nov/4/remember-diaspora/) 
 * Edudemic, 11.09.2011, [Diaspora: The Highly Anticipated Social Network Has Launched](http://edudemic.com/2011/11/diaspora-launch/)
+* UnlikeUs, 11.09.2011, [Activistic Salon in Amsterdam: Goodbye Facebook, hello Diaspora*](http://networkcultures.org/wpmu/unlikeus/2011/11/09/activistic-salon-in-amsterdam-goodbye-facebook-hello-diaspora/)
 * ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
 * The Wall Street Journal, 11.07.2011, [Whatever Happened to Diaspora the ‘Facebook Killer’?](http://blogs.wsj.com/tech-europe/2011/11/07/whatever-happened-to-diaspora-the-facebook-killer/?mod=google_news_blog)
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
+* SEO Best Tips, 11.03.2011, [What is Diaspora?](http://www.seobesttips.com/social-media/what-is-diaspora/)
 * GreatPlainsBuddha, 11.01.2011, [Diaspora: the other "other social network"](http://greatplainsbuddha.com/diaspora-the-other-other-social-network)
 
 ### October
@@ -115,6 +117,25 @@
 * DigitalAnalog, 08.06.2010, [Diaspora – A Solution to Facebook’s Sharing and Privacy Problems](http://digitalanalog.in/2010/08/06/diaspora-a-solution-to-facebooks-sharing-and-privacy-problems/)
 * SeederBlog, 08.06.2010, [Exploring the Diaspora User Experience](http://seederblog.com/tag/diaspora/)
 * BestTechie, 08.04.2010, [Why Facebook Will Not Acquire Diaspora](http://www.besttechie.net/2010/08/04/why-facebook-will-not-acquire-diaspora/)
+
+### July
+
+* TechnoBuffalo, 07.03.2010, [Diaspora Social Network Project On Schedule Thus Far](http://www.technobuffalo.com/internet/social-networking/diaspora-social-network-project-on-schedule-thus-far/)
+* jonchu's posterous, 07.02.2010, [Analyzing Diaspora](http://jonchu.posterous.com/analyzing-diaspora)
+* Tech.Blorge, 07.02.2010, [Diaspora social network shaping up](http://tech.blorge.com/Structure:%20/2010/07/02/diaspora-social-network-shaping-up/)
+* TechCrunch, 07.02.2010, [Diaspora Reports Progress In Its Quest To Build An Open Facebook Alternative](http://techcrunch.com/2010/07/02/diaspora/)
+* ThinkDigit, 07.02.2010, [Diaspora developers give a sneak peak at what's to come](http://www.thinkdigit.com/Internet/Diaspora-developers-give-a-sneak-peak-at_4946.html)
+
+### June
+
+* YES!, 06.30.2010, [Better Than Facebook? Fed up with Facebook's commercialism, four NYU students have created an open source, peer-to-peer alternative: Diaspora.](http://www.yesmagazine.org/people-power/better-than-facebook)
+* Smedio, 06.07.2010, [Will Diaspora Change the Face of Social Media?](http://smedio.com/2010/06/07/will-diaspora-change-the-face-of-social-media/)
+* The Guardian, 06.07.2010, [Social networking project Diaspora captures the public mood](http://www.guardian.co.uk/media/pda/2010/jun/07/social-networking-facebook-diaspora-project)
+* Daily Maverick, 06.06.2010, [What chances for Diaspora, the anti-Facebook social network?](http://dailymaverick.co.za/article/2010-06-06-what-chances-for-diaspora-the-anti-facebook-social-network)
+* GigaOM, 06.05.2010, [Should Facebook Be Worried About Diaspora?](http://gigaom.com/2010/06/05/should-facebook-be-worried-about-diaspora/)
+* Intelius, 06.03.2010, [What’s the future of social networking privacy, could it be Diaspora*?](http://blog.intelius.com/what%E2%80%99s-future-social-networking-privacy-could-it-be-diaspora-1)
+* TechCrunch, 06.02.2010, [Diaspora's Final Tally: $200,000 From Nearly 6,500 Backers](http://techcrunch.com/2010/06/02/diaspora-project/)
+* TheWavingCat, 06.02.2010, [Diaspora, an open Facebook?](http://www.thewavingcat.com/2010/06/02/diaspora-an-open-facebook/)
 
 ### May
 
