@@ -96,7 +96,22 @@
 
 ### August
 
+* News.com.au, 08.31.2010, [Diaspora team sets October launch date as interest grows in 'anti-Facebook'](http://www.news.com.au/technology/diaspora-teams-sets-october-launch-date-as-interest-grows-in-anti-facebook/story-e6frfro0-1225912183377)
 * The Telegraph, 08.31.2010, [Diaspora, the 'anti-Facebook', is doomed](http://www.telegraph.co.uk/technology/social-media/7973490/Diaspora-the-anti-Facebook-is-doomed.html)
+* Backupify, 08.30.2010, [Diaspora doesn’t have what it takes to topple Facebook](http://blog.backupify.com/2010/08/30/diaspora-doesnt-have-what-it-takes-to-topple-facebook/)
+* ReadWriteWeb, 08.30.2010, [The Rise of the Anti-Facebooks](http://www.readwriteweb.com/archives/the_rise_of_the_anti-facebooks.php)
+* Product Reviews, 08.29.2010, [Anti-Facebook: Can Diaspora Social Network Challenge?](http://www.product-reviews.net/2010/08/29/anti-facebook-can-diaspora-social-network-challenge/)
+* BBC News, 08.27.2010, [Facebook alternative Diaspora eyes launch date](http://www.bbc.co.uk/news/technology-11108891)
+* BuzzStudy, 08.27.2010, [Is Diaspora a worthy Facebook competitor?](http://infegy.com/buzzstudy/diaspora/)
+* Digitizor, 08.27.2010, [The Social Web Goes Open Source On Sept. 15! (Diaspora)](http://digitizor.com/2010/08/27/the-social-web-goes-open-source-on-sept-15-diaspora/)
+* Mashable, 08.27.2010, [Facebook Alternative Diaspora Launches September 15](http://mashable.com/2010/08/26/facebook-alternative-diaspora-launches-september-15/)
+* PCMag, 08.27.2010, [Open-Source Facebook Competitor Diaspora to Launch Sept. 15](http://www.pcmag.com/article2/0,2817,2368422,00.asp#fbid=0uTrGvJzukA)
+* PCWorld, 08.27.2010, [The Anti-Facebook Arrives September 15: Will You Switch?](http://www.pcworld.com/article/204298/the_antifacebook_arrives_september_15_will_you_switch.html)
+* Tech.Blorge, 08.27.2010, [Diaspora launching to fight Facebook](http://tech.blorge.com/Structure:%20/2010/08/27/diaspora-launching-to-fight-facebook/)
+* Wirefresh, 08.27.2010, [Open source Diaspora site aims to right Facebook’s social networking wrongs](http://www.wirefresh.com/open-source-diaspora-site-aims-to-right-facebooks-social-networking-wrongs/)
+* TechCrunch, 08.26.2010, [Diaspora Three Weeks Away From Unveiling Open-Source Facebook Alternative](http://techcrunch.com/2010/08/26/diaspora-facebook/) 
+* DigitalAnalog, 08.06.2010, [Diaspora – A Solution to Facebook’s Sharing and Privacy Problems](http://digitalanalog.in/2010/08/06/diaspora-a-solution-to-facebooks-sharing-and-privacy-problems/)
+* BestTechie, 08.04.2010, [Why Facebook Will Not Acquire Diaspora](http://www.besttechie.net/2010/08/04/why-facebook-will-not-acquire-diaspora/)
 
 ### May
 
