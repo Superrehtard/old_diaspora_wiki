@@ -273,6 +273,12 @@ Yes, but this is still not a polished feature and the formatting of the results 
 ***Is there a Diaspora Android-app?***  
 Not yet, it's actually under developement, you can find [here](https://groups.google.com/group/diaspora-android/) some infos about it and [here](https://github.com/geraspora/diaspora-android) the code. You can help developing it simply joining the google group.
 
+***Is it possible to connect my identi.ca account to diaspora and post my diaspora post automatically on identi.ca?***     
+Yes, you can make your public diaspora posts to be automatically posted on identi.ca. There are two methods:     
+* Add your profile atom feed ( *yourpod*/public/*yournickname*.atom) to identica.
+You can subscribe to a feed on identi.ca going to http://identi.ca/settings/mirror and set the infos     
+* Follow this french (anyway clear) [tutorial](http://ubunblox.servhome.org/diaspora-et-identi-ca.html)
+
 
 
  
