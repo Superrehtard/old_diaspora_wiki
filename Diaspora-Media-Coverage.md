@@ -166,7 +166,12 @@
 
 ## 2011
 
+### November
+
+* Tagesspiegel, 11.13.2011, [In den Startlöchern - Das Anti-Facebook](http://www.tagesspiegel.de/medien/das-anti-facebook/5831970.html)
+
 ### October (Oktober)
+
 * Berliner-Zeitung, 10.27.2011, [Eine Plattform für Paranoiker](http://www.berliner-zeitung.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,10809188,11064404.html)
 * Frankfurter Rundschau, 10.27.2011, [Eine Plattform für Paranoiker](http://www.fr-online.de/medien/online-netzwerke-eine-plattform-fuer-paranoiker,1473342,11064404.html)
 * golem.de, 10.19.2011, [Paypal sperrt Diaspora-Spendenkonto](http://www.golem.de/1110/87145.html)
