@@ -11,6 +11,13 @@
 
 ### November
 
+* Digital Journal, 11.14.2011, [Ilya Zhitomirskiy, co-founder of Diaspora, passes away at 22](http://www.digitaljournal.com/article/314387)
+* Financial Times Tech Hub, 11.14.2011, [Diaspora co-founder dies](http://blogs.ft.com/fttechhub/2011/11/diaspora-co-founder-dies/#axzz1dgiLkBoN)
+* Mail Online, 11.14.2011, [Social networking pioneer found dead at age of 22](http://www.dailymail.co.uk/news/article-2061265/Facebook-rival-Diasporas-founder-Ilya-Zhitomirskiy-dies-22.html)
+* Memeburn, 11.14.2011, [Diaspora co-founder dies at 22](http://memeburn.com/2011/11/diaspora-co-founder-dies-at-22/comment-page-1/)
+* SiliconRepublic, 11.14.2011, [Diaspora co-founder Zhitomirskiy dies at 22](http://www.siliconrepublic.com/start-ups/item/24473-diaspora-co-founder/)
+* Social Barrel, 11.14.2011, [Young Diaspora Co-Founder Passes Away – Report](http://socialbarrel.com/young-diaspora-co-founder-passes-away-report/26671/)
+* The Register, 11.14.2011, [Diaspora co-founder dies as site unveils new-look alpha](http://www.theregister.co.uk/2011/11/14/diaspora_co_founder_dies/)
 * ATD, 11.13.2011, [22-Year-Old Founder of Open Social Network Diaspora Ilya Zhitomirskiy Has Died](http://allthingsd.com/20111113/21-year-old-founder-of-open-social-network-diaspora-has-died/)
 * CNET, 11.13.2011, [Diaspora co-founder dies at 22, report says](http://news.cnet.com/8301-1001_3-57323852-92/diaspora-co-founder-dies-at-22-report-says/)
 * Examiner, 11.13.2011, [Co-founder of Diaspora dead at 21](http://www.examiner.com/marketing-pr-in-dallas/co-founder-of-diaspora-dead-at-21)
