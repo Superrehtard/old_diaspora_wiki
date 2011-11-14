@@ -168,6 +168,7 @@
 
 ### November
 
+* ZEIT, 11.13.2011, [Diaspora startet für alle offene Betaphase](http://www.zeit.de/digital/internet/2011-11/diaspora-betaphase-todesfall)
 * Tagesspiegel, 11.13.2011, [In den Startlöchern - Das Anti-Facebook](http://www.tagesspiegel.de/medien/das-anti-facebook/5831970.html)
 
 ### October (Oktober)
