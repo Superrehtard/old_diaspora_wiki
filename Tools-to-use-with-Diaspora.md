@@ -35,9 +35,6 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Speech to Text](http://bit.ly/vbzjvr) - (Chrome/Chromium) Diaspora* with Google Chrome HTML5 speech to text input.
 
-
-### Bookmarklets
-
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
 
