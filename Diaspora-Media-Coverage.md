@@ -168,6 +168,10 @@
 
 ### November
 
+* Computerwoche, 11.14.2011, [Mit 22 Jahren - Diaspora-Mitgründer Ilya Zhitomirskiy ist tot](http://www.computerwoche.de/management/it-macher/2499937/)
+* Futurezone.at, 11.14.2011, [Diaspora-Mitbegründer 22-jährig verstorben](http://futurezone.at/digitallife/5910-diaspora-mitbegruender-22-jaehrig-verstorben.php)
+* Golem.de, 11.14.2011, [Diaspora-Mitgründer Ilya Zhitomirskiy ist tot](http://www.golem.de/1111/87733.html)
+* Inforand, 11.14.2011, [Ilya Zhitomirskiy, Mitbegründer der Facebook-Alternative Diaspora mit 22 Jahren gestorben](http://www.inforand.de/ilya-zhitomirskiy-mitbegrunder-der-facebook-alternative-diaspora-mit-22-jahren-gestorben-19834)
 * ZEIT, 11.14.2011, [Diaspora startet für alle offene Betaphase](http://www.zeit.de/digital/internet/2011-11/diaspora-betaphase-todesfall)
 * Tagesspiegel, 11.13.2011, [In den Startlöchern - Das Anti-Facebook](http://www.tagesspiegel.de/medien/das-anti-facebook/5831970.html)
 
