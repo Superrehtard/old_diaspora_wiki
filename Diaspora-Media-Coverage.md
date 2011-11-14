@@ -280,6 +280,7 @@
 ## 2011
 
 ### November (Novembre)
+* Panorama, 11.13.2011, [Diaspora\* apre in versione alpha dopo la morte di uno dei fondatori](http://blog.panorama.it/hitechescienza/2011/11/14/diaspora-apre-in-versione-alpha-dopo-la-morte-di-uno-dei-fondatori/)
 * Paperblog, 11.13.2011, [Ilya Zhitomirskiy, Co-Fondatore di Diaspora, è morto a soli 21 anni](http://it.paperblog.com/ilya-zhitomirskiy-co-fondatore-di-diaspora-e-morto-a-soli-21-anni-686105/)
 * WEB news, 11.13.2011, [Muore a 21 anni uno dei fondatori di Diaspora](http://www.webnews.it/notizie/muore-a-21-anni-uno-dei-fondatori-di-diaspora/?ref=breve)
 * Controcampus, 11.09.2011, [Diaspora e UnThink: nuove frontiere del social network](http://www.controcampus.it/spip.php?article25457)
