@@ -11,7 +11,21 @@
 
 ### November
 
-* LJWorld, 11.13.2011, [Remember Diaspora*?](http://www2.ljworld.com/weblogs/social-media-blog/2011/nov/4/remember-diaspora/) 
+* ATD, 11.13.2011, [22-Year-Old Founder of Open Social Network Diaspora Ilya Zhitomirskiy Has Died](http://allthingsd.com/20111113/21-year-old-founder-of-open-social-network-diaspora-has-died/)
+* CNET, 11.13.2011, [Diaspora co-founder dies at 22, report says](http://news.cnet.com/8301-1001_3-57323852-92/diaspora-co-founder-dies-at-22-report-says/)
+* Examiner, 11.13.2011, [Co-founder of Diaspora dead at 21](http://www.examiner.com/marketing-pr-in-dallas/co-founder-of-diaspora-dead-at-21)
+* GigaOM, 11.13.2011, [R.I.P. Diaspora Co-Founder Ilya Zhitomirskiy](http://gigaom.com/2011/11/13/r-i-p-diaspora-co-founder-ilya-zhitomirskiy/)
+* Huffington Post, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Dies At 22](http://www.huffingtonpost.com/2011/11/13/diaspora-co-founder-ilya-zhitomirskiy-dies_n_1091382.html)
+* LJWorld, 11.13.2011, [Remember Diaspora*?](http://www2.ljworld.com/weblogs/social-media-blog/2011/nov/4/remember-diaspora/)
+* Mashable, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Dies at 22 [REPORT]](http://mashable.com/2011/11/13/ilya-zhitomirskiy-diaspora-dies/)
+* TechCrunch, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Passes Away At 22](http://techcrunch.com/2011/11/13/diaspora-co-founder-ilya-zhitomirskiy-passes-away-at-21/)
+* TechCrunch, 11.13.2011, [Following Founder’s Passing, Diaspora Opens Redesigned Alpha To Invitees](http://techcrunch.com/2011/11/13/diaspora-redesign/)
+* TechDay, 11.13.2011, [22-year-old social network whiz passes away](http://www.techday.co.nz/netguide/news/22-year-old-social-network-whiz-passes-away/21495/)
+* The Conversation, 11.13.2011, [Diaspora founder reported dead at 22](http://theconversation.edu.au/diaspora-founder-reported-dead-at-22-4278)
+* The Conversation, 11.13.2011, [Diaspora co-founder dead at 22](http://theconversation.edu.au/diaspora-co-founder-dead-at-22-4279)
+* The Tartan, 11.13.2011, [Ilya Zhitomirskiy, Diaspora co-founder, dead at 22](http://thetartan.org/2011/11/14/news/zhitomirskiydeadat22)
+* WebProNews, 11.13.2011, [Co-Founder of Diaspora, Ilya Zhitomirskiy, has passed away](http://www.webpronews.com/co-founder-of-diaspora-ilya-zhitomirskiy-has-passed-away-2011-11)
+* ZDNet, 11.13.2011, [Diaspora co-founder dead at 22: report](http://www.zdnet.com.au/diaspora-co-founder-dead-at-22-report-339326085.htm)
 * Edudemic, 11.09.2011, [Diaspora: The Highly Anticipated Social Network Has Launched](http://edudemic.com/2011/11/diaspora-launch/)
 * UnlikeUs, 11.09.2011, [Activistic Salon in Amsterdam: Goodbye Facebook, hello Diaspora*](http://networkcultures.org/wpmu/unlikeus/2011/11/09/activistic-salon-in-amsterdam-goodbye-facebook-hello-diaspora/)
 * ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
