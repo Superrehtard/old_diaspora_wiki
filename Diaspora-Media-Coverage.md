@@ -16,7 +16,6 @@
 * Examiner, 11.13.2011, [Co-founder of Diaspora dead at 21](http://www.examiner.com/marketing-pr-in-dallas/co-founder-of-diaspora-dead-at-21)
 * GigaOM, 11.13.2011, [R.I.P. Diaspora Co-Founder Ilya Zhitomirskiy](http://gigaom.com/2011/11/13/r-i-p-diaspora-co-founder-ilya-zhitomirskiy/)
 * Huffington Post, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Dies At 22](http://www.huffingtonpost.com/2011/11/13/diaspora-co-founder-ilya-zhitomirskiy-dies_n_1091382.html)
-* LJWorld, 11.13.2011, [Remember Diaspora*?](http://www2.ljworld.com/weblogs/social-media-blog/2011/nov/4/remember-diaspora/)
 * Mashable, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Dies at 22 [REPORT]](http://mashable.com/2011/11/13/ilya-zhitomirskiy-diaspora-dies/)
 * TechCrunch, 11.13.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Passes Away At 22](http://techcrunch.com/2011/11/13/diaspora-co-founder-ilya-zhitomirskiy-passes-away-at-21/)
 * TechCrunch, 11.13.2011, [Following Founder’s Passing, Diaspora Opens Redesigned Alpha To Invitees](http://techcrunch.com/2011/11/13/diaspora-redesign/)
@@ -31,6 +30,7 @@
 * ReadWriteWeb, 11.08.2011, [Are Open Standards the Future of the Social Web?](http://www.readwriteweb.com/archives/are_open_standards_the_future_of_the_social_web.php)
 * The Wall Street Journal, 11.07.2011, [Whatever Happened to Diaspora the ‘Facebook Killer’?](http://blogs.wsj.com/tech-europe/2011/11/07/whatever-happened-to-diaspora-the-facebook-killer/?mod=google_news_blog)
 * The Register, 11.05.2011, [Open 'Facebook killer' survives on cash donations](http://www.theregister.co.uk/2011/11/05/diaspora_social_network/)
+* LJWorld, 11.04.2011, [Remember Diaspora*?](http://www2.ljworld.com/weblogs/social-media-blog/2011/nov/4/remember-diaspora/)
 * SEO Best Tips, 11.03.2011, [What is Diaspora?](http://www.seobesttips.com/social-media/what-is-diaspora/)
 * GreatPlainsBuddha, 11.01.2011, [Diaspora: the other "other social network"](http://greatplainsbuddha.com/diaspora-the-other-other-social-network)
 
