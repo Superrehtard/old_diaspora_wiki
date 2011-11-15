@@ -42,17 +42,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Comments: Public and free Diaspora pod for Belgium
 
 
-
-* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
-    * Opened: 2010-09-21
-    * Updated: regularly
-    * HTTPS only
-    * Maintained by a private person
-        * IRC/Freenode: phaidros
-        * phaidros@subsignal.org
-    * Operating system: Ubuntu Server LTS 
-    * Comments: Community Pod. SSL Cert is now Comodo, to properly interact with other pods. 
-
 * [[http://diasp.de]] [[https://diasp.de/apple-touch-icon.png|height=30px|]]
     * Opened: 26/11/2010
     * Updated: major changes
@@ -132,6 +121,17 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
        * Contact: gojkovicde@gmail.com
    * Operating system: Linux
    * Comments: A pod located in Serbia, open for everyone! Facebook, Twitter, Tumblr integration. Over 99.9% uptime.
+
+
+* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
+    * Opened: 2010-09-21
+    * Updated: regularly
+    * HTTPS only
+    * Maintained by a private person
+        * IRC/Freenode: phaidros
+        * phaidros@subsignal.org
+    * Operating system: Ubuntu Server LTS 
+    * Comments: Public Community Pod. Various People from German Hackerspaces aboard. SSL Cert is now Comodo, to properly interact with other pods. 
 
 * [[https://dipod.org]] [[https://dipod.org/apple-touch-icon.png|height=30px]]
     * Opened: 01/11/2011
