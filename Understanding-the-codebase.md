@@ -7,4 +7,7 @@ The Diaspora codebase is quite large, and the model relationships and the usage 
 
 This is aims to be a guide to the codebase so that you can find what you're looking for, make your changes, and fix bugs quicker than you would just feeling around.
 
-1. *Models*: The main post model is called Post. The 
+1. **Models**:
+   * The main post model is called Post. The StatusMessage and Reshare models inherit from this main model.
+   * The user model is basic. Authentication is handled by [devise](https://github.com/plataformatec/devise).
+   * Photos are a separate model.
