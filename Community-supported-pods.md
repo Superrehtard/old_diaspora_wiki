@@ -42,6 +42,16 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Comments: Public and free Diaspora pod for Belgium
 
 
+
+* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
+    * Opened: 2010-09-21
+    * Updated: regularly
+    * Maintained by a private person
+        * IRC/Freenode: phaidros
+        * phaidros@subsignal.org
+    * Operating system: Ubuntu Server LTS 
+    * Comments: Community Pod. SSL Cert is now Comodo, to properly interact with other pods. 
+
 * [[http://diasp.de]] [[https://diasp.de/apple-touch-icon.png|height=30px|]]
     * Opened: 26/11/2010
     * Updated: major changes
@@ -113,17 +123,6 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
       * alastair@sceal.ie
     * Operating system: Debian GNU/Linux 6.0 (squeeze)
     * Comments: mostly for friends. Others welcome to play.
-
-
-* [[https://diaspora.subsignal.org/]] [[https://diaspora.subsignal.org/apple-touch-icon.png|height=30px|]]
-    * Opened: 2010-09-21
-    * Updated: irregularly
-    * Maintained by a private person
-        * IRC/Freenode: phaidros
-        * phaidros@subsignal.org
-    * Operating system: Ubuntu 10.04.1 LTS (Lucid Lynx)
-    * Comments: Testing, feel free to use for any purpose. Will try to keep database intact, only reset if needed by updates. SSL Cert will be CACert.org soon and replace the SnakeOil Cert (Within next week).
-
 
 * [[https://diasporaserbia.org/]] [[https://diasporaserbia.org/apple-touch-icon.png|height=30px]]
    * Opened: 16/10/2011
