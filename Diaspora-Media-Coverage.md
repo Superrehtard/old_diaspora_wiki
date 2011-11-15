@@ -323,6 +323,16 @@
 ## 2011
 
 ### November (Novembre)
+
+
+* Programmazione.it, 11.15.2011, [Muore Zhitomirskiy, ma lo sviluppo di Diaspora non si ferma](http://programmazione.it/index.php?entity=eitem&idItem=47953)
+* amicoPC, 11.14.2011, [Ilya Zhitomirskiy, Co-Fondatore di Diaspora deceduto](http://www.amicopc.com/ilya-zhitomirskiy-co-fondatore-di-diaspora-deceduto.asp)
+* IlSecoloXIX, 11.14.2011, [Muore a 22 anni uno dei fondatori di Diaspora\*](http://www.ilsecoloxix.it/p/magazine/2011/11/14/AOwue9MB-muore_diaspora_fondatori.shtml)
+* MigliorBlog, 11.14.2011, [Ilya Zhitomirskiy : Social Network in lutto](http://www.migliorblog.it/ilya-zhitomirskiy-social-network-lutto.html)
+* Mr.Webmaster, 11.14.2011, [E\' morto Ilya Zhitomirskiy, uno dei fondatori di Diaspora](http://www.mrwebmaster.it/news/morto-ilya-zhitomirskiy-fondatori-diaspora_6426.html)
+* oneweb2.0, 11.14.2011, [Diaspora: morto Ilya Zhitomirskiy, uno dei fondatori](http://www.oneweb20.it/14/11/2011/diaspora-morto-ilya-zhitomirskiy-uno-dei-fondatori/)
+* PianetaTech, 11.14.2011, [Diaspora: morto Ilya Zhitomirskiy. Era uno dei fondatori](http://www.pianetatech.it/social-network/notizie/diaspora-morto-ilya-zhitomirskiy-era-uno-dei-fondatori.html)
+* PuntoInformatico, 11.14.2011, [Diaspora, un triste addio](http://punto-informatico.it/3336003/PI/Brevi/diaspora-un-triste-addio.aspx)
 * Panorama, 11.13.2011, [Diaspora\* apre in versione alpha dopo la morte di uno dei fondatori](http://blog.panorama.it/hitechescienza/2011/11/14/diaspora-apre-in-versione-alpha-dopo-la-morte-di-uno-dei-fondatori/)
 * Paperblog, 11.13.2011, [Ilya Zhitomirskiy, Co-Fondatore di Diaspora, è morto a soli 21 anni](http://it.paperblog.com/ilya-zhitomirskiy-co-fondatore-di-diaspora-e-morto-a-soli-21-anni-686105/)
 * WEB news, 11.13.2011, [Muore a 21 anni uno dei fondatori di Diaspora](http://www.webnews.it/notizie/muore-a-21-anni-uno-dei-fondatori-di-diaspora/?ref=breve)
