@@ -11,6 +11,7 @@
 
 ### November
 
+* BBC, 11.15.2011, [Diaspora social network's 22-year-old founder has died](http://www.bbc.co.uk/news/technology-15736807)
 * ABC News, 11.14.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Die](http://abcnews.go.com/blogs/technology/2011/11/diaspora-co-founder-ilya-zhitomirskiy-dies/)
 * Associated Press, 11.14.2011, [Co-founder of social network Diaspora dies](http://www.google.com/hostednews/ap/article/ALeqM5iTxJ4hhqtcyfEjM5_AY6wOSp5Qrg?docId=036541eeb6204657a7d94aa2df93d4b5)
 * CNN Money, 11.14.2011, [Co-founder of social network Diaspora dies at 22](http://money.cnn.com/2011/11/14/technology/diaspora_cofounder_died/)
