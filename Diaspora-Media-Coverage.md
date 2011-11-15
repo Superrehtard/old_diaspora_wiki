@@ -10,9 +10,11 @@
 ## 2011
 
 ### November
-* The Consumerist, 11.15.2011, [Diaspora Co-Founder Dead In Apparent Suicide](http://consumerist.com/2011/11/diaspora-co-founder-dead-in-apparent-suicide.html)
 * BBC, 11.15.2011, [Diaspora social network's 22-year-old founder has died](http://www.bbc.co.uk/news/technology-15736807)
+* The Consumerist, 11.15.2011, [Diaspora Co-Founder Dead In Apparent Suicide](http://consumerist.com/2011/11/diaspora-co-founder-dead-in-apparent-suicide.html)
+* The Inquisitr, 11.15.2011, [Diaspora co-founder Ilya Zhitomirskiy dies at 22](http://www.inquisitr.com/159658/diaspora-co-founder-ilya-zhitomirskiy-dies-at-22/)
 * ABC News, 11.14.2011, [Diaspora Co-Founder Ilya Zhitomirskiy Die](http://abcnews.go.com/blogs/technology/2011/11/diaspora-co-founder-ilya-zhitomirskiy-dies/)
+* All Things D, 11.15.2011, [Public Memorials for Diaspora Co-Founder Ilya Zhitomirskiy to Be Held This Weekend](http://allthingsd.com/20111114/public-memorials-for-diaspora-co-founder-ilya-zhitomirskiy-to-be-held-this-weekend/)
 * Associated Press, 11.14.2011, [Co-founder of social network Diaspora dies](http://www.google.com/hostednews/ap/article/ALeqM5iTxJ4hhqtcyfEjM5_AY6wOSp5Qrg?docId=036541eeb6204657a7d94aa2df93d4b5)
 * CNN Money, 11.14.2011, [Co-founder of social network Diaspora dies at 22](http://money.cnn.com/2011/11/14/technology/diaspora_cofounder_died/)
 * Chicago Tribune, 11.14.2011, [Co-founder of Diaspora social network dead at 22](http://www.chicagotribune.com/business/breaking/chi-cofounder-of-diaspora-social-network-dead-at-22-20111114,0,4185447.story)
@@ -40,6 +42,7 @@
 * Register, 11.14.2011, [Diaspora co-founder dies as site unveils new-look alpha](http://www.theregister.co.uk/2011/11/14/diaspora_co_founder_dies/)
 * SiliconRepublic, 11.14.2011, [Diaspora co-founder Zhitomirskiy dies at 22](http://www.siliconrepublic.com/start-ups/item/24473-diaspora-co-founder/)
 * Social Barrel, 11.14.2011, [Young Diaspora Co-Founder Passes Away – Report](http://socialbarrel.com/young-diaspora-co-founder-passes-away-report/26671/)
+* Social Beat, 11.14.2011, [Co-founder of “open-source Facebook” Diaspora dies at 22](http://venturebeat.com/2011/11/14/co-founder-open-source-facebook-diaspora-dies-22/)
 * Sydney Morning Herald, 11.14.2011, [Co-founder of social network Diaspora dies](http://news.smh.com.au/breaking-news-technology/cofounder-of-social-network-diaspora-dies-20111115-1nfyu.html)
 * Tech Observer, 11.14.2011, [Diaspora Co-Founder Dies at 22](http://www.portfolio.com/views/blogs/the-tech-observer/2011/11/14/diaspora-co-founder-Ilya-Zhitomirskiy-dies-at-22)
 * TMCnet, 11.14.2011, [Diaspora's Co-founder Dead at 22](http://www.tmcnet.com/topics/articles/238267-diasporas-co-founder-dead-22.htm)
