@@ -2,7 +2,7 @@ Gathering requirements to determine desired behavior of a new feature which allo
 
 Still in the data gathering stage.
 
-===From 0bject@diasp.org==
+### From 0bject@diasp.org
 
 There are a few requisite properties of a (discussion) group, then lots of other, optional bells & whistles. To start, something like this ...
 
