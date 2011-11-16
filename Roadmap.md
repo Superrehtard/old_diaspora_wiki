@@ -62,14 +62,10 @@ rails projects have a framework for using it?
 - Chat client integration using web sockets? (using jabber might be easier)
 - Other crazy Websocket experiments: We are just using it to push data to the client, but can we use 
 it to connect people or two seeds for real time games?
-- Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, 
-Cucumber, whatever.  If you wrote tests, we would love you forever.
-- Selenium tests that hit every page would be super nice. The framework for this is started and can 
-be found in the features directory.
+- Test test tests: we have a fair amount, we’re sure there are plenty more that are missing.  Rspec, Cucumber, whatever.  If you wrote tests, we would love you forever.
+- Selenium tests that hit every page would be super nice. The framework for this is started and can be found in the features directory.
 - Javascript compatible view templates (handlebars/mustache looks promising)
-- Taxonomy of social types: creating interfaces for all of the activity stream types, so people 
-could make and send their own types on the file in between diaspora seeds. Could be tied to the 
-parser/generator?
+- Taxonomy of social types: creating interfaces for all of the activity stream types, so people could make and send their own types on the file in between diaspora seeds. Could be tied to the parser/generator?
 
 ### Deployment
 - Running Diaspora from home:
