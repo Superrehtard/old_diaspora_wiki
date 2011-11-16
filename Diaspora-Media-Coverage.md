@@ -240,6 +240,7 @@
 
 ### November
 
+* taz, 11.16.2011, [Diaspora in Nöten](https://www.taz.de/Alternative-zu-Facebook/!81997/)
 * Bild, 11.14.2011, [Rätselhafter Tod mit 22](http://www.bild.de/digital/internet/diaspora/mysterioeser-tod-von-mitgruender-des-facebook-konkurrenten-21001554.bild.html)
 * Computerwoche, 11.14.2011, [Mit 22 Jahren - Diaspora-Mitgründer Ilya Zhitomirskiy ist tot](http://www.computerwoche.de/management/it-macher/2499937/)
 * Futurezone.at, 11.14.2011, [Diaspora-Mitbegründer 22-jährig verstorben](http://futurezone.at/digitallife/5910-diaspora-mitbegruender-22-jaehrig-verstorben.php)
