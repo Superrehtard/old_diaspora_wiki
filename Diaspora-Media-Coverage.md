@@ -10,6 +10,13 @@
 ## 2011
 
 ### November
+
+* ComputerWorldUK, 11.16.2011, [Diaspora open source social network founder dies](http://www.computerworlduk.com/news/careers/3318696/diaspora-open-source-social-network-founder-dies/)
+* GEV, 11.16.2011, [Co-Founder of Diaspora Social Network Commits Suicide](http://www.gev.com/2011/11/co-founder-of-diaspora-social-network-commits-suicide/)
+* MacWorld, 11.16.2011, [Diaspora social network co-founder dies at age 22](http://www.macworld.co.uk/digitallifestyle/news/index.cfm?newsid=3318620)
+* MashaCrunch, 11.16.2011, [Ilya Zhitomirskiy Dies at 22; Co-Founded Social Network](http://www.mashacrunch.com/ilya-zhitomirskiy-dies-at-22-co-founded-social-network/?utm_source=rss&utm_medium=rss&utm_campaign=ilya-zhitomirskiy-dies-at-22-co-founded-social-network)
+* TechWorld, 11.16.2011, [Diaspora social network founder dies aged 22](http://news.techworld.com/sme/3318663/diaspora-social-network-founder-dies-aged-22/)
+* TheJournal.ie, 11.16.2011, [22-year-old founder of social networking site found dead](http://www.thejournal.ie/22-year-old-founder-of-social-networking-site-found-dead-279902-Nov2011/)
 * BBC, 11.15.2011, [Diaspora social network's 22-year-old founder has died](http://www.bbc.co.uk/news/technology-15736807)
 * New York Times, 11.15.2011, [Ilya Zhitomirskiy Dies at 22; Co-Founded Social Network](http://www.nytimes.com/2011/11/16/technology/ilya-zhitomirskiy-co-founder-of-social-network-dies-at-22.html)
 * The Consumerist, 11.15.2011, [Diaspora Co-Founder Dead In Apparent Suicide](http://consumerist.com/2011/11/diaspora-co-founder-dead-in-apparent-suicide.html)
