@@ -104,6 +104,12 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Operating system: ArchLinux
     * Comments: Feel free to ask for an invitiation!
 
+* [[http://diaspora.re/]] [[https://diaspora.re/apple-touch-icon.png|height=30px|]]
+   * Opened: 01/11/2010
+   * Updated: regularly
+   * Maintained by: [[http://diaspora.re]]
+   * Operating system: Debian GNU/Linux 5.0 
+   * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
 
 * [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
     * Opened: 2011-07-14
