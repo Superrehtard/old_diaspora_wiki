@@ -200,7 +200,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Updated: Frequently
    * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
    * Location: Tokyo, Japan
-   * Comments: First public pod hosted in Australasia! HTTPS, Facebook & Twitter, high uptime.
+   * Comments: First public pod hosted in the Asia Pacific region! HTTPS, Facebook & Twitter, high uptime.
 
 
 * [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
