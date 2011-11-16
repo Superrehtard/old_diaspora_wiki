@@ -46,17 +46,18 @@ become a Diaspora contributor.
 
 
 *as a hacker*
+
 * file a bug
-* confirm someone elses bug
+* confirm someone else's bug
 * close a finished bug
 * join the [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) mailing list
-
 
 ### If you have 30 minutes...
 
 *as a user* 
+
 * write a blog post about Diaspora
-* make some fan art(htt
+* make some fan art
 * come chat with us in Diaspora on IRC
 * contribute a translation in your favorite language
 
