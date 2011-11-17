@@ -4,6 +4,8 @@
 
 **Rassegne stampa e copertura mediatica che trattano il progetto Diaspora\***: pubblicazioni, blog, e altri media tutti organizzati per **data** [ndr: formato mm/gg/aaaa] e **lingua** (in ordine alfabetico per fonte se nello stesso giorno).
 
+**Cobertura mediática e artigos de imprensa do Projecto Diaspora**: imprensa, blogs e mídia organizados por **lingua** e **tempo** (alfabeticamente, por fonte, se existirem datas múltiplas).
+
 
 # English
 
