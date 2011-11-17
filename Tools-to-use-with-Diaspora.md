@@ -3,7 +3,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 ### Browser Add-ons
 
-#### Sharing extensions
+#### Sharing extensions (istantly share on diaspora the page you're visiting)
 * [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - (Firefox) share webpages and images to Diaspora, translate text on Diaspora 
 
 *   [Diaspora* Publisher](https://chrome.google.com/webstore/detail/pgblolfhnddeobmfgjhckddncbbfnlim?hl=fr) - (Chrome) allows you to share your favorite pages with your friends; you can also select and share a specific part of the page.
@@ -24,7 +24,7 @@ _Links to various tools built by the community for use with Diaspora._
 *   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
 
 
-#### More cool stuff
+#### More cool stuff (add ons to make your diaspora experience smarter)
 *  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
 
 *   [Diaspora Tagfilter](https://www.userscripts.org/scripts/show/117102) - ( Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) ) GreaseMonkey script to filter postings in your diaspora-stream by tags. It also can replace all inline-images (except avatars) by links to those images.
@@ -38,7 +38,7 @@ _Links to various tools built by the community for use with Diaspora._
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
 
-### "Share on Diaspora" Buttons (for use on blogs and websites)
+### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
 
 *   [Diaspora* Sharing Service (DSS)](http://www.basshero.org/page/show/dss) working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
 
