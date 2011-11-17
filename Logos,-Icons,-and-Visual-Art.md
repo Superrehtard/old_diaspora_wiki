@@ -6,7 +6,7 @@
 
 * [Artwork Toolkit](http://naesk.deviantart.com/art/Diaspora-Artwork-Toolkit-254178705)
 
-*   Badges ( [w/b](http://naesk.deviantart.com/art/Diaspora-Web-Badges-80x15px-257840696) [coloured](http://naesk.deviantart.com/art/Diaspora-Badges80x15px-Colours-258228537) )
+*   Badges ( [link1](http://naesk.deviantart.com/art/Diaspora-Web-Badges-80x15px-257840696) [link2](http://naesk.deviantart.com/art/Diaspora-Badges80x15px-Colours-258228537) [link3](http://domesticempire.wordpress.com/2011/11/08/diaspora-buttons/) )
 
 *   Userbars ([ w/b](http://naesk.deviantart.com/art/Diaspora-Userbars-350x19px-257899291) [coloured ](http://naesk.deviantart.com/art/Diaspora-Userbars-Coloured-258377952) )
 
