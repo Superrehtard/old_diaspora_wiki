@@ -457,3 +457,21 @@ hanno lasciato il social network](http://www.corriere.it/scienze_e_tecnologie/10
 ### August
 
 * Nu.nl, 08.27.2010, [Facebook-alternatief Diaspora komt eraan](http://www.nu.nl/internet/2320984/facebook-alternatief-diaspora-komt-eraan.html)
+
+
+
+#Portuguese
+
+##2011
+
+### November
+
+* 35mm, 11.17.2011, [Diaspora*, um sopro de liberdade]
+(https://a35mm.wordpress.com/2011/11/17/diaspora-um-sopro-de-liberdade/)
+
+##2010
+
+###November
+
+* Notas sobre segurança, 11.24.2010, [Diaspora: Rede social alternativa focada na privacidade]
+(http://miguelalmeida.pt/2010/11/diaspora-rede-social-alternativa-focada-na-privacidade.html)
