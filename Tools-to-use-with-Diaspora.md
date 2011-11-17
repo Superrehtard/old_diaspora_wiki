@@ -3,7 +3,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 ### Browser Add-ons
 
-#### Sharing extensions (istantly share on diaspora the page you're visiting)
+#### Sharing extensions (instantly share on diaspora the page you're visiting)
 * [Diaspora Tools](http://geniusmusings.wordpress.com/diaspora-tools/) - (Firefox) share webpages and images to Diaspora, translate text on Diaspora 
 
 *   [Diaspora* Publisher](https://chrome.google.com/webstore/detail/pgblolfhnddeobmfgjhckddncbbfnlim?hl=fr) - (Chrome) allows you to share your favorite pages with your friends; you can also select and share a specific part of the page.
