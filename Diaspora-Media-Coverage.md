@@ -364,7 +364,7 @@
 
 ### November (Novembre)
 
-
+* ZioGeek, 11.16.2011, [Diaspora: Il Giovane Fondatore Ilya Zhitomirskiy è Morto](http://ziogeek.com/diaspora-il-giovane-fondatore-ilya-zhitomirskiy-e-morto/)
 * Programmazione.it, 11.15.2011, [Muore Zhitomirskiy, ma lo sviluppo di Diaspora non si ferma](http://programmazione.it/index.php?entity=eitem&idItem=47953)
 * amicoPC, 11.14.2011, [Ilya Zhitomirskiy, Co-Fondatore di Diaspora deceduto](http://www.amicopc.com/ilya-zhitomirskiy-co-fondatore-di-diaspora-deceduto.asp)
 * IlSecoloXIX, 11.14.2011, [Muore a 22 anni uno dei fondatori di Diaspora\*](http://www.ilsecoloxix.it/p/magazine/2011/11/14/AOwue9MB-muore_diaspora_fondatori.shtml)
