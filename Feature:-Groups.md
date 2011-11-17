@@ -4,7 +4,7 @@ Still in the data gathering stage.
 
 ### From 0bject@diasp.org
 
-There are a few requisite properties of a (discussion) group, then lots of other, optional bells & whistles. To start, something like this ...
+There are a few requisite properties of a Diaspora (discussion) group, then there are lots of other, optional bells & whistles. To start, something like this ...
 
 * Name for the aggregate entity/object type: GROUP, or (in keeping with the botanical metaphor) forum, synapse, rhizome, cell-cluster, garden?  Welcome to the Friends_of_the_Moth (lepidopterists' group).
  
