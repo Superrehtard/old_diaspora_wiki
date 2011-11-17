@@ -6,7 +6,7 @@ Still in the data gathering stage.
 
 There are a few requisite properties of a (discussion) group, then lots of other, optional bells & whistles. To start, something like this ...
 
-* Name for the aggregate entity/object type: GROUP, or forum, synapse, rhizome, cell-cluster, garden?  Welcome to the Friends_of_the_Moth (lepidopterists' group).
+* Name for the aggregate entity/object type: GROUP, or (in keeping with the botanical metaphor) forum, synapse, rhizome, cell-cluster, garden?  Welcome to the Friends_of_the_Moth (lepidopterists' group).
  
 * Probably 'owned' by one or more members. Ownership should be transferable so that the group doesn't become orphaned.  Mechanism for anyone to create a new group.
  
@@ -16,8 +16,8 @@ There are a few requisite properties of a (discussion) group, then lots of other
 
 * Owner(s) should be able to remove trouble makers. 
  
-* Likewise, owner(s) should be able to retire the group.
+* Likewise, owner(s) should have a mechanism to retire the group.
  
-Lesser concerns would be how long group posts exist & are searchable? During development of a group mechanism there might be 'beta' constraints on maximum group size, eg.
-
+Lesser concerns would be how long group posts exist & are searchable? During development of a group mechanism there might be 'beta' constraints, on maximum group size, eg.  Export conversations.  Group image gallery, events calendar, etc. 
+  
 As others have mentioned, a group would be a distinct entity or data type, from a pod or seed/user/member.
