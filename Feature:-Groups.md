@@ -4,7 +4,7 @@ Still in the data gathering stage.
 
 ### From 0bject@diasp.org
 
-There are a few requisite properties of a Diaspora (discussion) group, then there are lots of other, optional bells & whistles. To start, something like this ...
+There are a few requisite properties for a Diaspora (discussion) group, then there are lots of other, optional bells & whistles. To start, something like this ...
 
 * Name for the aggregate entity/object type: GROUP, or (in keeping with the botanical metaphor) forum, synapse, rhizome, cell-cluster, garden?  Welcome to the Friends_of_the_Moth (lepidopterists' group).
  
@@ -18,6 +18,6 @@ There are a few requisite properties of a Diaspora (discussion) group, then ther
  
 * Likewise, owner(s) should have a mechanism to retire the group.
  
-Lesser concerns would be how long group posts exist & are searchable? During development of a group mechanism there might be 'beta' constraints, on maximum group size, eg.  Export conversations.  Group image gallery, events calendar, etc. 
+Lesser concerns would be how long group posts exist & are searchable? During development of a group mechanism there might be 'beta' constraints, on maximum group size, eg.  Export conversations.  Fork groups or merge groups.  Group image gallery, events calendar, etc. 
   
-As others have mentioned, a group would be a distinct entity or data type, from a pod or seed/user/member.
+As others have mentioned, a group would be a distinct entity or data type, from a pod or seed/user/member (sharing some properties). 
