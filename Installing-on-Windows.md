@@ -1,6 +1,6 @@
 ### Versions
 
-These instructions are for creating a local development instance on Windows XP Professional Service Pack 3.
+These instructions are for creating a local development instance on Windows XP Professional Service Pack 3 and Windows 7.
 
 ### Known Problems
 
