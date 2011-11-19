@@ -66,7 +66,7 @@ from this list:
 - [[Installing Diaspora dependencies on Fedora|Installing on Fedora]]
 - [[Installing Diaspora dependencies on OS X|Installing on Mac OS X]]
 - [Installing Diaspora on Archlinux](https://wiki.archlinux.org/index.php/Diaspora)
-- [[Installing Diaspora on Windows XP|Installing on Windows XP]]
+- [[Installing Diaspora on Windows|Installing on Windows]]
 
 
 or select your hosting provider from this list:
