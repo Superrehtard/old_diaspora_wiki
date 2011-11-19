@@ -34,6 +34,7 @@
 * Detroit Free Press, 11.14.2011, [Ilya Zhitomirskiy, cofounder of social-networking site Diaspora, dies](http://www.freep.com/article/20111114/NEWS07/111114037/Ilya-Zhitomirskiy-cofounder-social-networking-site-Diaspora-dies)
 * Digital Journal, 11.14.2011, [Ilya Zhitomirskiy, co-founder of Diaspora, passes away at 22](http://www.digitaljournal.com/article/314387)
 * Digital Trends, 11.14.2011, [Diaspora co-founder Ilya Zhitomirskiy dies at 22](http://www.digitaltrends.com/social-media/diaspora-co-founder-ilya-zhitomirskiy-dies-at-22/)
+* EFF, 11.14.2011, [EFF Mourns the Passing of Ilya Zhitomirskiy](https://www.eff.org/deeplinks/2011/11/eff-mourns-passing-ilya-zhitomirskiy)
 * eWeek Europe UK, 11.14.2011, [Diaspora Co-founder Found Dead](http://www.eweekeurope.co.uk/news/diaspora-co-founder-found-dead-45764)
 * Financial Times Tech Hub, 11.14.2011, [Diaspora co-founder dies](http://blogs.ft.com/fttechhub/2011/11/diaspora-co-founder-dies/#axzz1dgiLkBoN)
 * Fox News, 11.14.2011, [Founder of Open-Source Facebook Foe Dies at 22](http://www.foxnews.com/scitech/2011/11/14/founder-open-source-facebook-foe-dies-at-22/)
