@@ -13,6 +13,7 @@
 
 ### November
 
+* ITBusinessEdge, 11.18.2011, [Diaspora Founders Continue Quest for Free and Private Internet](http://www.itbusinessedge.com/cm/blogs/bentley/diaspora-founders-continue-quest-for-free-and-private-internet/?cs=49124)
 * ComputerWorldUK, 11.16.2011, [Diaspora open source social network founder dies](http://www.computerworlduk.com/news/careers/3318696/diaspora-open-source-social-network-founder-dies/)
 * GEV, 11.16.2011, [Co-Founder of Diaspora Social Network Commits Suicide](http://www.gev.com/2011/11/co-founder-of-diaspora-social-network-commits-suicide/)
 * MacWorld, 11.16.2011, [Diaspora social network co-founder dies at age 22](http://www.macworld.co.uk/digitallifestyle/news/index.cfm?newsid=3318620)
