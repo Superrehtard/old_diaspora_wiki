@@ -5,6 +5,7 @@ These instructions are for creating a local development instance on Windows XP P
 ### Known Problems
 
 * SSL support is not tested.
+* Time required to start the application is slow.  This appears to be a common problem in running Ruby programs in Windows.
 
 ### Ruby
 
@@ -36,6 +37,8 @@ Close the command prompt window.
 ### MySQL
 
 Download the Windows (x86, 32-bit), MSI Installer for the latest 5.5 version from [MySQL.com](http://www.mysql.com/downloads/mysql/).  Click on the "No thanks, just take me to the downloads!" link at the bottom of the next web page.
+
+(Windows 7 note:  You can use the 64-bit version of MySQL; however, you will need to also download the 32-bit version for building the MySQL ruby gem.)
 
 Run the Installer.
 Choose the Typical Setup Install Type.
@@ -176,6 +179,12 @@ From the command line, type:
 ### Set up the database
 
 Follow the Set up the database section on the main Installing and Running Diaspora page.  Remember to put the root MySQL password into the common section of database.yml.
+
+### Windows Compatibility
+
+Edit config/application.yml
+
+Change `redis_url: ''` to `redis_url: 'localhost'`
 
 ### Sending E-mail (optional)
 
