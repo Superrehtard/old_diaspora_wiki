@@ -14,6 +14,8 @@
 ### November
 
 * ITBusinessEdge, 11.18.2011, [Diaspora Founders Continue Quest for Free and Private Internet](http://www.itbusinessedge.com/cm/blogs/bentley/diaspora-founders-continue-quest-for-free-and-private-internet/?cs=49124)
+* SMH, 11.18.2011, [Creator of the anti-Facebook, a social network with privacy](http://www.smh.com.au/technology/technology-news/creator-of-the-antifacebook-a-social-network-with-privacy-20111117-1nl0e.html)
+* Breaking News World, 11.17.2011, [Diaspora’s 21 Year Old Co-Founder Passes Away](http://breakingnewsworld.net/2011/11/diasporas-21-year-old-co-founder-passes-away/)
 * ComputerWorldUK, 11.16.2011, [Diaspora open source social network founder dies](http://www.computerworlduk.com/news/careers/3318696/diaspora-open-source-social-network-founder-dies/)
 * GEV, 11.16.2011, [Co-Founder of Diaspora Social Network Commits Suicide](http://www.gev.com/2011/11/co-founder-of-diaspora-social-network-commits-suicide/)
 * MacWorld, 11.16.2011, [Diaspora social network co-founder dies at age 22](http://www.macworld.co.uk/digitallifestyle/news/index.cfm?newsid=3318620)
