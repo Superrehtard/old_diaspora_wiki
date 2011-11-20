@@ -65,7 +65,7 @@ anywhere on the site.
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
-* [[How to Use Pagekite to Link Your Own Domain Name to a Local Network Diaspora Pod|How-to-Use-Pagekite-to-Link-a-Domain-Name-to-a-Local-Diaspora-Pod]]
+* [[How to Use Pagekite to Link Your Own Domain Name to a Local Network Diaspora Pod|How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
