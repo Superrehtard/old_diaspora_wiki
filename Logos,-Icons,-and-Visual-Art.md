@@ -50,4 +50,4 @@
 
 *   [Diaspora - The Open Social Network ](http://www.youtube.com/watch?v=7scQUNNH444) A video tutorial of Diaspora 
 
-*   ["Moved to Diaspora" Banners](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594) Want to to tell your friends on other SN why you are not there anymore?
+*   **"Moved to Diaspora" Avatar Pictures** ( [link1](http://staticsilva.deviantart.com/art/Moved-To-Diaspora-Banners-263930594), [link2](https://joindiaspora.com/posts/842102) ) Want to to tell your friends on other SN why you are not there anymore? 
