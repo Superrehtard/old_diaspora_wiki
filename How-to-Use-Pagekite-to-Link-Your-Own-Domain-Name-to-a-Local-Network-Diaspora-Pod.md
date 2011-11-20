@@ -21,11 +21,13 @@ Go back to your domain registrar, log in to your domain name account, and create
 Now you want to direct the CNAME you created, [_diaspora.yourdomain.net_], through your [_yourname_].pagekite.me kite, to your local computer, where your nginx webserver is listening at port 443. Using a text editor, edit your pagekite configuration files as follows.  The file /etc/pagekite.d/10_account.rc should contain the following values:
 
 kitename=[_diaspora.yourdomain.net_]
+
 kitesecret=[_your account secret from your pagekite account_]
 
 The file /etc/pagekite.d/80_httpd.rc should contain the following:
 
 backend=http:[_yourname_].pagekite.me:localhost:443:@kitesecret
+
 backend=http:@kitename:localhost:443:@kitesecret
 
 ## 5. Test
