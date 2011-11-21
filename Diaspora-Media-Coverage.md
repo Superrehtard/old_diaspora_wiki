@@ -403,6 +403,8 @@
 ## 2011
 
 ### November (Novembre)
+
+* Linkiesta, 11.20.2011 [Se ne sono andati](http://www.linkiesta.it/diaspora)
 * PuntoInformatico, 11.18.2011 [Diaspora compie un anno e ingrana la beta](http://punto-informatico.it/3340322/PI/Interviste/diaspora-compie-un-anno-ingrana-beta.aspx)
 * ZioGeek, 11.16.2011, [Diaspora: Il Giovane Fondatore Ilya Zhitomirskiy è Morto](http://ziogeek.com/diaspora-il-giovane-fondatore-ilya-zhitomirskiy-e-morto/)
 * Programmazione.it, 11.15.2011, [Muore Zhitomirskiy, ma lo sviluppo di Diaspora non si ferma](http://programmazione.it/index.php?entity=eitem&idItem=47953)
