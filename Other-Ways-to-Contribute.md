@@ -8,8 +8,6 @@ If you don't have coding experience, or just don't know Ruby on Rails, there are
 
 **Add to this Wiki -** If you've got any helpful tips to add, or if something here isn't very clear, edit this wiki. It's a great place to pool user information, so new people can find help and learn about the project.
 
-**Answer Questions -** There is a Q&A site at [diaspora.shapado.com](http://diaspora.shapado.com) where people discuss the software. Logging in is simple and you can go answer peoples questions or point them in the right direction. Make it simple for people to use Diaspora.
-
 **Make a Video -** Make screencasts, make animations, make slideshows. Show people what it is, how it works, and why it's good for you.  
   
 **See the [[Grassroots Community Projects List|Grassroots Projects]]**  
