@@ -4,11 +4,11 @@
 
 ## [Diasporial.com](http://Diasporial.com)
 
-**What's Diaspora?**
+### What's Diaspora?
 
 http://diasporial.com/whats-diaspora
 
-**Getting Started**
+### Getting Started
 
 http://diasporial.com/tutorials
 
