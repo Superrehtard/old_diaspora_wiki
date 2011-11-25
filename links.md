@@ -31,7 +31,7 @@ http://diasporial.com/tutorials
 
     http://diasporial.com/tutorials/conversations
 
-### Other Tutorials
+### Other Tutorials on [Diasporial.com](http://Diasporial.com/tutorials)
 http://diasporial.com/tutorials
 
 - **Connecting Diaspora to other services**
@@ -50,7 +50,7 @@ http://diasporial.com/tutorials
 
     http://diasporial.com/tutorials/setting-up-a-topic-account
 
-### Other Documentation
+### Other Documentation on [Diasporial.com](http://Diasporial.com/other-documentation)
 http://diasporial.com/other-documentation
 
 ### Join the Team
@@ -62,13 +62,21 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 - **github Social Coding**
 
+    https://github.com
+
+- **Diaspora on github**
+
+    https://github.com/diaspora/diaspora
+
+- **Diaspora Members on github**
+
     https://github.com/diaspora
 
-- **Diaspora Issues**
+- **Diaspora Issues on github**
 
     https://github.com/diaspora/diaspora/issues
 
-- **Diaspora Wiki
+- **Diaspora Wiki on github
 
     https://github.com/diaspora/diaspora/wiki
 
