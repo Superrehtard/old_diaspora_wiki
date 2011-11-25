@@ -8,6 +8,7 @@
 
     http://diasporial.com/whats-diaspora
 
+&nbsp;
 
 1. Part I: Signing up
 
