@@ -60,9 +60,7 @@ http://diasporial.com/join-the-team
      
 ---------------------
      
-## [Wikipedia.org](http://wikipedia.org)
-**Various articles on Wikipedia**
-
+    
 - **Diaspora (social network)**
 
     http://wikipedia.org/wiki/Diaspora_(social_network)
