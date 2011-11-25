@@ -87,8 +87,10 @@ http://diasporial.com/join-the-team
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
    
 ---------------------
-    
-**New page of links being developed by RichardTE@Diasp.org Nov2011**
+
+### About This Page
+**Diaspora Wiki Links** being developed by **[RichardTE@Diasp.org](https://Diasp.org/u/richardte) Nov2011**
+
 
 
 
