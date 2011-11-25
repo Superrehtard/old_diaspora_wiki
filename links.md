@@ -58,6 +58,22 @@ http://diasporial.com/join-the-team
 
 end **[Diasporial.com](http://Diasporial.com)** links
 
+## [github.com](http://github.com) links
+
+- **github Social Coding**
+
+    https://github.com/diaspora
+
+- **Diaspora Issues**
+
+    https://github.com/diaspora/diaspora/issues
+
+- **Diaspora Wiki
+
+    https://github.com/diaspora/diaspora/wiki
+
+end **[github.com](http://github.com)** links
+
 ## [Wikipedia.org](http://Wikipedia.org) links
     
 - **Diaspora (social network)**
