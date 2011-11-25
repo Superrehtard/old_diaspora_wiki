@@ -10,29 +10,42 @@ http://diasporial.com/whats-diaspora
 
 **Getting Started**
 
+http://diasporial.com/tutorials
+
 1. **Part I: Signing up**
 
     http://diasporial.com/tutorials/signing-up
 
 2. **Part II: Interface & Aspects**
 
-    http://diasporial.com/tutorials/signing-up
+    http://diasporial.com/tutorials/interface-and-aspects
 
 3. **Part III: Follows & Followers**
 
-    http://diasporial.com/tutorials/signing-up
+    http://diasporial.com/tutorials/follows-and-followers
 
 4. **Part IV: Start sharing!**
 
-    http://diasporial.com/tutorials/signing-up
+    http://diasporial.com/tutorials/start-sharing
 
 5. **Part V: Conversations**
 
-    http://diasporial.com/tutorials/signing-up
+    http://diasporial.com/tutorials/conversations
 
 6. **Part VI: Finishing up**
 
-    http://diasporial.com/tutorials/signing-up
+    http://diasporial.com/tutorials/conversations
+
+**Other Tutorials**
+
+http://diasporial.com/tutorials
+
+- Connecting Diaspora to other services
+- Tips and Tricks
+- Formatting text
+- Setting up a topic account
+
+
 
 ---
 
