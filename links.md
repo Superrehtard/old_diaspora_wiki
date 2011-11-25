@@ -36,19 +36,19 @@ http://diasporial.com/tutorials
 ### Other Tutorials
 http://diasporial.com/tutorials
 
-- Connecting Diaspora to other services
+- **Connecting Diaspora to other services**
 
     http://diasporial.com/tutorials/connecting-diaspora-to-other-services
 
-- Tips and Tricks
+- **Tips and Tricks**
 
     http://diasporial.com/tutorials/tips-and-tricks
 
-- Formatting text
+- **Formatting text**
 
     http://diasporial.com/tutorials/formatting-text
 
-- Setting up a topic account
+- **Setting up a topic account**
 
     http://diasporial.com/tutorials/setting-up-a-topic-account
 
