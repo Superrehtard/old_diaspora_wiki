@@ -58,9 +58,9 @@ http://diasporial.com/other-documentation
 ### Join the Team
 http://diasporial.com/join-the-team
      
+     
 ---------------------
-    
-    
+         
 ## [Diasporial.com](http://Diasporial.com)
     
 - **Diaspora (social network)**
