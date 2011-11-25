@@ -1,13 +1,5 @@
 # Diaspora Wiki Links
 
-in single angles <test>
-
-in single brackets [test]
-
-in single angles <test>
-
-in single brackets [test]
-
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
 
 ## [Diasporial.com](http://Diasporial.com) links
@@ -104,13 +96,17 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 - **Diaspora on IRC Channels**
 
-    http://webchat.freenode.net/?channels=diaspora (Help)
+    http://webchat.freenode.net/?channels=diaspora (Live Help)
 
     http://webchat.freenode.net/?channels=diaspora-dev (Coding)
     
     http://webchat.freenode.net/?channels=diaspora-de (German)
 
-- 
+- **Diaspora Forums on [Groups.Google.com](http://groups.google.com)**
+
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)
+
+     http://groups.google.com/group/diaspora-dev (Devs)
 
 end **Getting Help & Answers** links
 
