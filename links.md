@@ -1,7 +1,7 @@
 # Diaspora Wiki Links 
-
+    
 -----------------------------------------------
-
+    
 ## [Diasporial.com](http://Diasporial.com)
 ### What's Diaspora?
 http://diasporial.com/whats-diaspora
@@ -57,9 +57,9 @@ http://diasporial.com/other-documentation
 
 ### Join the Team
 http://diasporial.com/join-the-team
-
+     
 -----------------------------------------------
-
+     
 ## [Wikipedia.org](http://wikipedia.org)
 
 - **Diaspora (social network)**
