@@ -4,9 +4,10 @@
 
 ## [Diasporial.com](http://Diasporial.com)
 
-    **What's Diaspora?**
+- **What's Diaspora?**
 
     http://diasporial.com/whats-diaspora
+
 
 1. Part I: Signing up
 
