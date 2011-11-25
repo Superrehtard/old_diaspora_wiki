@@ -8,7 +8,6 @@ http://diasporial.com/whats-diaspora
 
 ### Getting Started
 http://diasporial.com/tutorials
-
 1. **Part I: Signing up**
 
     http://diasporial.com/tutorials/signing-up
@@ -60,8 +59,7 @@ http://diasporial.com/join-the-team
 
 ---
 
-## [Wikipedia.org](http://wikipedia.org)
-
+##[Wikipedia.org](http://wikipedia.org)
 - **Diaspora (social network)**
 
     http://wikipedia.org/wiki/Diaspora_(social_network)
