@@ -3,13 +3,10 @@
 ---
 
 ## [Diasporial.com](http://Diasporial.com)
-
 ### What's Diaspora?
-
 http://diasporial.com/whats-diaspora
 
 ### Getting Started
-
 http://diasporial.com/tutorials
 
 1. **Part I: Signing up**
@@ -36,8 +33,7 @@ http://diasporial.com/tutorials
 
     http://diasporial.com/tutorials/conversations
 
-**Other Tutorials**
-
+### Other Tutorials
 http://diasporial.com/tutorials
 
 - Connecting Diaspora to other services
@@ -56,12 +52,10 @@ http://diasporial.com/tutorials
 
     http://diasporial.com/tutorials/setting-up-a-topic-account
 
-** Other Documentation**
-
+### Other Documentation
 http://diasporial.com/other-documentation
 
-** Join the Team**
-
+### Join the Team
 http://diasporial.com/join-the-team
 
 ---
