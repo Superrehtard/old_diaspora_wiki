@@ -4,7 +4,7 @@
 
 ## [Diasporial.com](http://Diasporial.com)
 
-1. **What's Diaspora?**
+    **What's Diaspora?**
 
     http://diasporial.com/whats-diaspora
 
