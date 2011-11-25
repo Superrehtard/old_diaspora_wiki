@@ -1,5 +1,13 @@
 # Diaspora Wiki Links
 
+in single angles <test>
+
+in single brackets [test]
+
+in single angles <test>
+
+in single brackets [test]
+
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
 http://diasporial.com/whats-diaspora
@@ -66,6 +74,10 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     https://github.com/diaspora/diaspora/wiki/FAQ-for-Users
 
+- **Community-powered support for Diaspora on [getSatisfaction.com](http://getsatisfaction.com/diaspora)**
+
+    http://getSatisfaction.com/diaspora
+
 - **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**
 
     http://wiki.spored.de/w/Hauptseite
@@ -86,11 +98,15 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     http://whatIsDiaspora.com/#get
 
-- 
+- **Diaspora on IRC Channels**
+
+    http://webchat.freenode.net/?channels=diaspora (Help)
+
+    http://webchat.freenode.net/?channels=diaspora-dev (Coding)
+    
+    http://webchat.freenode.net/?channels=diaspora-de (German)
 
 - 
-
-
 
 end **Getting Help & Answers** links
 
