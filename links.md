@@ -8,6 +8,8 @@ in single angles <test>
 
 in single brackets [test]
 
+<!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
+
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
 http://diasporial.com/whats-diaspora
@@ -66,9 +68,11 @@ http://diasporial.com/join-the-team
 
 end **[Diasporial.com](http://Diasporial.com)** links
 
+<!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
+
 ## Getting Help & Answers
  
-- **Use the #help hashtag in searching & posting**
+- **Use the #help hashtag in searching & posting!**
 
 - **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**
 
@@ -110,6 +114,8 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 end **Getting Help & Answers** links
 
+<!-- - - - - - - - - - - - - - - github.com Links - - - - - - - - - - - - - - - - -->
+
 ## [github.com](http://github.com) links
 
 - **github Social Coding**
@@ -133,6 +139,8 @@ end **Getting Help & Answers** links
     https://github.com/diaspora/diaspora/wiki
 
 end **[github.com](http://github.com)** links
+
+<!-- - - - - - - - - - - - - - - Wikipedia.org Links - - - - - - - - - - - - - - - - -->
 
 ## [Wikipedia.org](http://Wikipedia.org) links
     
@@ -166,7 +174,9 @@ end **[github.com](http://github.com)** links
 
 end **[Wikipedia.org](http://Wikipedia.org)** links
    
----------------------
+<!-- - - - - - - - - - - - - - - About This Page - - - - - - - - - - - - - - - - -->
+
+---
 
 ### About This Page
 **Diaspora Wiki Links** being developed by **[@RichardTE](https://Diasp.org/u/richardte)** Nov2011
