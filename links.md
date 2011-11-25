@@ -59,8 +59,8 @@ http://diasporial.com/other-documentation
 http://diasporial.com/join-the-team
      
 ---------------------
-     
-## [Wikipedia.org](http://Wikipedia.org)
+    
+## [Diasporial.com](http://Diasporial.com)
     
 - **Diaspora (social network)**
 
