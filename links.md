@@ -56,7 +56,7 @@ http://diasporial.com/other-documentation
 ### Join the Team
 http://diasporial.com/join-the-team
 
-**[Diasporial.com](http://Diasporial.com)**
+**↑ [Diasporial.com](http://Diasporial.com)**
 
 ## [Wikipedia.org](http://Wikipedia.org)
     
@@ -88,7 +88,7 @@ http://diasporial.com/join-the-team
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
-**[Wikipedia.org](http://Wikipedia.org)**
+**↑ [Wikipedia.org](http://Wikipedia.org)**
    
 ---------------------
 
