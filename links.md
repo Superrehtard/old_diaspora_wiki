@@ -60,7 +60,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 ## Getting Help & Answers
  
-- **#help Hashtag**
+- **Use the #help hashtag in searching & posting**
 
 - **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**
 
@@ -77,9 +77,13 @@ end **[Diasporial.com](http://Diasporial.com)** links
 - **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**
 
     http://whatIsDiaspora.com/#history
+
     http://whatIsDiaspora.com/#how
+
     http://whatIsDiaspora.com/#why
+
     http://whatIsDiaspora.com/#more
+
     http://whatIsDiaspora.com/#get
 
 - 
@@ -88,7 +92,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 
 
-end **Getting Help & Answers**
+end **Getting Help & Answers** links
 
 ## [github.com](http://github.com) links
 
