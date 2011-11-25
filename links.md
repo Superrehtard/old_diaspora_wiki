@@ -56,6 +56,8 @@ http://diasporial.com/other-documentation
 ### Join the Team
 http://diasporial.com/join-the-team
 
+**[Diasporial.com](http://Diasporial.com)**
+
 ## [Wikipedia.org](http://Wikipedia.org)
     
 - **Diaspora (social network)**
@@ -85,6 +87,8 @@ http://diasporial.com/join-the-team
 - **Comparison of Internet forum software**
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
+
+**[Wikipedia.org](http://Wikipedia.org)**
    
 ---------------------
 
