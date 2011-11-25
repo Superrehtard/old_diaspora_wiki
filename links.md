@@ -1,34 +1,34 @@
-## Diaspora Wiki Links 
+# Diaspora Wiki Links 
 
+---
 
+## Wikipedia.org
 
-Wikipedia.org
-
-* **Diaspora (social network)**
+- **Diaspora (social network)**
 
     http://wikipedia.org/wiki/Diaspora_(social_network)
 
-* **Diaspora (software)**
+- **Diaspora (software)**
 
     http://wikipedia.org/wiki/Diaspora_(software)
 
-* **Ilya Zhitomirskiy**
+- **Ilya Zhitomirskiy**
 
     http://wikipedia.org/wiki/Ilya_Zhitomirskiy
 
-* **List of social networking websites**
+- **List of social networking websites**
 
     http://wikipedia.org/wiki/List_of_social_networking_websites
 
-* **Community of interest**
+- **Community of interest**
 
     http://wikipedia.org/wiki/Community_of_interest
 
-* **Internet forum**
+- **Internet forum**
 
     http://wikipedia.org/wiki/Internet_forum
 
-* **Comparison of Internet forum software**
+- **Comparison of Internet forum software**
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
