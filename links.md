@@ -5,8 +5,7 @@
 Wikipedia.org
 
 * Diaspora (social network)
-
-    http://wikipedia.org/wiki/Diaspora_(social_network)
+** http://wikipedia.org/wiki/Diaspora_(social_network)
 * Diaspora (software)
 
     http://en.wikipedia.org/wiki/Diaspora_(software)
