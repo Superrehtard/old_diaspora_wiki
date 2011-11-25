@@ -58,6 +58,38 @@ http://diasporial.com/join-the-team
 
 end **[Diasporial.com](http://Diasporial.com)** links
 
+## Getting Help & Answers
+ 
+- **#help Hashtag**
+
+- **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**
+
+    https://github.com/diaspora/diaspora/wiki/FAQ-for-Users
+
+- **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**
+
+    http://wiki.spored.de/w/Hauptseite
+
+- **[DiasporaForum.org](http://diasporaforum.org)**
+
+    http://www.diasporaforum.org/forum/forum.php
+ 
+- **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**
+
+    http://whatIsDiaspora.com/#history
+    http://whatIsDiaspora.com/#how
+    http://whatIsDiaspora.com/#why
+    http://whatIsDiaspora.com/#more
+    http://whatIsDiaspora.com/#get
+
+- 
+
+- 
+
+
+
+end **Getting Help & Answers**
+
 ## [github.com](http://github.com) links
 
 - **github Social Coding**
@@ -76,7 +108,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     https://github.com/diaspora/diaspora/issues
 
-- **Diaspora Wiki on github
+- **Diaspora Wiki on github**
 
     https://github.com/diaspora/diaspora/wiki
 
