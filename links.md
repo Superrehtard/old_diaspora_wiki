@@ -89,7 +89,7 @@ http://diasporial.com/join-the-team
 ---------------------
 
 ### About This Page
-**Diaspora Wiki Links** being developed by **[RichardTE@Diasp.org](https://Diasp.org/u/richardte)** Nov2011
+**Diaspora Wiki Links** being developed by **[@RichardTE](https://Diasp.org/u/richardte)** Nov2011
 
 
 
