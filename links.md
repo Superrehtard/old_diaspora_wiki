@@ -1,6 +1,6 @@
 # Diaspora Wiki Links 
     
------------------------------------------------
+---------------------
     
 ## [Diasporial.com](http://Diasporial.com)
 ### What's Diaspora?
@@ -58,9 +58,10 @@ http://diasporial.com/other-documentation
 ### Join the Team
 http://diasporial.com/join-the-team
      
------------------------------------------------
+---------------------
      
 ## [Wikipedia.org](http://wikipedia.org)
+**Various articles on Wikipedia**
 
 - **Diaspora (social network)**
 
@@ -89,9 +90,9 @@ http://diasporial.com/join-the-team
 - **Comparison of Internet forum software**
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
-
------------------------------------------------
-
+   
+---------------------
+    
 **New page of links being developed by RichardTE@Diasp.org Nov2011**
 
 
