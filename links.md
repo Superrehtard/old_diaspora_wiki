@@ -60,6 +60,28 @@ http://diasporial.com/join-the-team
 
 end **[Diasporial.com](http://Diasporial.com)** links
 
+<!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
+
+## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
+
+- **Markdown Text Formatting by John Gruber**
+ 
+    http://daringfireball.net/projects/markdown
+
+- **Markdown: Basics**
+
+    http://daringfireball.net/projects/markdown/basics
+
+- **Markdown: Syntax**
+
+    http://daringfireball.net/projects/markdown/syntax
+
+- **Markdown: Dingus** (handy sandbox for practice-editing in Markdown)
+
+    http://daringfireball.net/projects/markdown/dingus 
+
+end **Formatting text with Markdown** links
+
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
 
 ## Getting Help & Answers
@@ -94,11 +116,11 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     http://whatIsDiaspora.com/#get
 
-- **Diaspora on IRC Channels**
+- **Diaspora Chat on IRC Channels**
 
-    http://webchat.freenode.net/?channels=diaspora (Live Help)
+    http://webchat.freenode.net/?channels=diaspora (Live Chat)
 
-    http://webchat.freenode.net/?channels=diaspora-dev (Coding)
+    http://webchat.freenode.net/?channels=diaspora-dev (Devs)
     
     http://webchat.freenode.net/?channels=diaspora-de (German)
 
@@ -151,6 +173,10 @@ end **[github.com](http://github.com)** links
 - **Ilya Zhitomirskiy**
 
     http://wikipedia.org/wiki/Ilya_Zhitomirskiy
+
+- **Markdown Text Formatting**
+
+    http://wikipedia.org/wiki/Markdown
 
 - **List of social networking websites**
 
