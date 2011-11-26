@@ -184,7 +184,7 @@ end **[github.com](http://github.com)** links
 
 <!-- - - - - - - - - - - - - Groups & Forums Links - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-wikipedia">\<wiki-groups\></a>
+<a name="wiki-groups">\<wiki-groups\></a>
 
 ## Diaspora Groups & Forums 
 
