@@ -47,7 +47,7 @@
 
 ### Hai!! Berikut ini adalah tips singkat untuk mulai menikmati Diaspora dan bertemu teman - teman baru!
 1. **Tambahkan 5 tag dalam profilmu** jika kamu belum melakukannya:ini akan membantu orang dengan minat yang sama menemukanmu!
-2. **mulai mem-follow beberapa #tag** (cari di kolom pencarian dan klik "start following"): tag yang kamu follow akan muncul di stream dan akan membantumu bertemu orang sepertimu dan membuatmu selalu memperoleh update tentang hal yang kami sukai!
+2. **Mulai mem-follow beberapa #tag** (cari di kolom pencarian dan klik "start following"): tag yang kamu follow akan muncul di stream dan akan membantumu bertemu orang sepertimu dan membuatmu selalu memperoleh update tentang hal yang kamu sukai!
 3. **Tambahkan tag dalam postingmu, terbitkan secara publik** mereka akan muncul pada stream semua orang yang mem-follow tag itu!
 4. **Mulailah berbagi** dan kamu akan segera tahu bagaimana semuanya bekerja!
 5. Jika ada pertanyaan lainnya, kunjungi [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) dan [tutorials](http://diasporial.com/tutorials) atau buat post dengan tag #question.
