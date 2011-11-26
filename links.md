@@ -62,6 +62,8 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
+<div id="markdown">markdown anchor</div>
+
 ## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
 - **Markdown Text Formatting by John Gruber**
