@@ -76,9 +76,24 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     http://daringfireball.net/projects/markdown/syntax
 
-- **Markdown: Dingus** (handy sandbox for practice-editing in Markdown)
+- **Markdown: Dingus** (cool sandbox for practice-editing **Markdown**)
 
     http://daringfireball.net/projects/markdown/dingus 
+
+- **Markdown Text Formatting** (Wikipedia.org)
+
+    http://wikipedia.org/wiki/Markdown
+
+- **Markup to format text** (DiasporaTest.com)
+
+    http://diasporatest.com/index.php/Markup_to_format_text
+
+- **Formatting text** (Diasporial.com)**
+
+    http://diasporial.com/tutorials/formatting-text
+
+- **Formatting Text on Diaspora** (DifferentComputers.com)
+http://differentcomputers.com/diaspora-text-formatting
 
 end **Formatting text with Markdown** links
 
