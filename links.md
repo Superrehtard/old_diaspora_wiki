@@ -2,6 +2,8 @@
 
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
 
+<a name="wiki-markdown">wiki-diasporial</a>
+
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
 http://diasporial.com/whats-diaspora
@@ -62,7 +64,9 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
-## Formatting Text with <a name="wiki-markdown">[Markdown](http://daringfireball.net/projects/markdown)</a>
+<a name="wiki-markdown">wiki-markdown</a>
+
+## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
 - **Markdown Text Formatting by John Gruber**
  
@@ -99,6 +103,8 @@ end **[Diasporial.com](http://Diasporial.com)** links
 end **Formatting text with Markdown** links
 
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
+
+<a name="wiki-markdown">wiki-answers</a>
 
 ## Getting Help & Answers
  
@@ -150,6 +156,8 @@ end **Getting Help & Answers** links
 
 <!-- - - - - - - - - - - - - - - github.com Links - - - - - - - - - - - - - - - - -->
 
+<a name="wiki-markdown">wiki-github</a>
+
 ## [github.com](http://github.com) links
 
 - **github Social Coding**
@@ -175,8 +183,8 @@ end **Getting Help & Answers** links
 end **[github.com](http://github.com)** links
 
 <!-- - - - - - - - - - - - - Wikipedia.org Links - - - - - - - - - - - - - - - - -->
-<!-- - - - - - - - - - - - - Wikipedia.org Links - - - - - - - - - - - - - - - - -->
 
+<a name="wiki-markdown">wiki-wikipedia</a>
 
 ## [Wikipedia.org](http://Wikipedia.org) links
     
@@ -218,7 +226,9 @@ end **[Wikipedia.org](http://Wikipedia.org)** links
 
 ---
 
-### About This Page
+<a name="wiki-markdown">wiki-about</a>
+
+**About This Page**
 **Diaspora Wiki Links** being developed by **[@RichardTE](https://Diasp.org/u/richardte)** Nov2011
 
 
