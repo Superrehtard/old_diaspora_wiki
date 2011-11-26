@@ -188,11 +188,11 @@ end **[github.com](http://github.com)** links
 
 ## Diaspora Groups & Forums 
 
-In formulating a concept of **Diaspora Groups**, _we_ need to realize the intrinsic vagaries in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** are a group of groups as well, trying to build structure and functionality — build communities that work, and last, and are fun.
+In formulating a concept of **Diaspora Groups**, _we_ need to realize up-front the intrinsic vagaries in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** are a group of groups as well, trying to build structure and functionality — build communities that work, and last, and are fun.
 
-It's complex.  On the _back-end_ there's network security, reliability, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and real living being.
+It's complex.  On the _back-end_ there's network security, reliability, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and an organic being.
 
-Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as a critical necessity for the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms & other types of group functionality are referred to in **Wikipedia** & elsewhere as **Internet Forums**.  The _Inter-net_ itself is a network of networks.
+Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as the critical links in the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms & other types of group functionality are referred to in **Wikipedia** & elsewhere as **Internet Forums**.  The _Inter-net_ is itself a network of networks.
 
 ###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
@@ -201,9 +201,21 @@ http://Wikipedia.org/wiki/Margaret_Mead
 
     http://wikipedia.org/wiki/Internet_forum
 
-* **Comparison of Internet forum software**
+* **Comparison of Internet forum software** (Wikipedia.org)
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
+
+* **Community of interest** (Wikipedia.org)
+
+    http://wikipedia.org/wiki/Community_of_interest
+
+* **Community structure** (Wikipedia.org)
+
+    http://wikipedia.org/wiki/Community_strutcure
+
+* **Community** (Wikipedia.org)
+
+    http://wikipedia.org/wiki/Community
 
 * **Diaspora Groups & Forums** (DiasporaForums.org)
 
