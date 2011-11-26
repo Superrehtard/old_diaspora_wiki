@@ -2,7 +2,7 @@
 
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-diasporial">\<wiki-diasporial\<</a>
+<a name="wiki-diasporial">\<wiki-diasporial\></a>
 
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
@@ -64,7 +64,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">\<wiki-markdown\<</a>
+<a name="wiki-markdown">\<wiki-markdown\></a>
 
 ## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
@@ -104,7 +104,7 @@ end **Formatting text with Markdown** links
 
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-answers">\<wiki-answers\<</a>
+<a name="wiki-answers">\<wiki-answers\></a>
 
 ## Getting Help & Answers
  
@@ -156,7 +156,7 @@ end **Getting Help & Answers** links
 
 <!-- - - - - - - - - - - - - - - github.com Links - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">wiki-github</a>
+<a name="wiki-github">\<wiki-github\></a>
 
 ## [github.com](http://github.com) links
 
@@ -184,7 +184,7 @@ end **[github.com](http://github.com)** links
 
 <!-- - - - - - - - - - - - - Wikipedia.org Links - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">wiki-wikipedia</a>
+<a name="wiki-wikipedia">\<wiki-wikipedia\></a>
 
 ## [Wikipedia.org](http://Wikipedia.org) links
     
@@ -226,7 +226,7 @@ end **[Wikipedia.org](http://Wikipedia.org)** links
 
 ---
 
-<a name="wiki-markdown">wiki-about</a>
+<a name="wiki-about">\<wiki-about\></a>
 
 **About This Page**
 **Diaspora Wiki Links** being developed by **[@RichardTE](https://Diasp.org/u/richardte)** Nov2011
