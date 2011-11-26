@@ -42,7 +42,7 @@
 5.  Wenn du weitere Fragen hast, sieh dir einfach die [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) und [tutorials](http://diasporial.com/tutorials) an, oder schreibe einen öffentlichen Post und markiere es als #frage.
 
 
-## Polish
+## Polski
 
 #### Cześć!! Oto kilka krótkich wskazówek do rozpoczęcia zabawy z diasporą i poznawania nowych osób!
 
@@ -53,7 +53,7 @@
 5. Jeśli masz więcej pytań sprawdź [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) oraz [tutoriale](http://diasporial.com/tutorials) lub udostępnij wiadomość publiczną ze znacznikiem #pytanie.
 
 
-## Indonesian
+## Bahasa Indonesia
 
 ### Hai!! Berikut ini adalah tips singkat untuk mulai menikmati Diaspora dan bertemu teman - teman baru!
 1. **Tambahkan 5 tag dalam profilmu** jika kamu belum melakukannya:ini akan membantu orang dengan minat yang sama menemukanmu!
@@ -63,7 +63,7 @@
 5. Jika ada pertanyaan lainnya, kunjungi [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) dan [tutorials](http://diasporial.com/tutorials) atau buat post dengan tag #question.
 
 
-## Hindi
+## मानक हिन्दी
 
 #### नमस्ते!! यहाँ कुछ आसन युक्तियाँ हैं जिससे आप Diaspora पर मजें कर सकें और नए लोगों से मुलाकात कर सकें
 
