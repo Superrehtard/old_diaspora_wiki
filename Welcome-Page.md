@@ -24,7 +24,7 @@
 
 #### Salut ! Voici quelques astuces rapides pour vous aider à débuter sur Diaspora, et faire de nouvelles connaissances !
 
-1. **Ajoutez 5 tags à votre profil** Si ce n'est pas encore fait: cela aidera les personnes partageant vos intérêt à vous trouver.
+1. **Ajoutez 5 tags à votre profil** Si ce n'est pas encore fait: cela aidera les personnes partageant vos intérêt à vous trouver. Un tag est un mot clef précédé du signe # , par exemple #photographie , #tennis ,... 
 2. **Suivez quelques #tags** (l'écrire dans la barre de recherche, et cliquer sur « Suivre »): Les tags suivis apparaîtront dans votre flux et vous aideront à rencontrer et discuter avec des personnes comme vous, et vous garderont au courant des sujets que vous aimez !
 3. **Ajoutez des tags à vos postes et postez-les en mode « Public »**: Ils seront affichés dans les flux de tout ceux qui suivent ces tags!
 4. **Commencez à partager** et vous comprendrez progressivement (et sûrement) comment tout cela fonctionne !
