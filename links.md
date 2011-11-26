@@ -188,7 +188,7 @@ end **[github.com](http://github.com)** links
 
 ## Diaspora Groups & Forums 
 
-The language used to describe group communications on the Internet is ambiguous from the outset, and gets even more convoluted when talking about the _back-end_ of network connectivity or the _front-end_ of social interactivity.  Further complicating things are at least 2 camps of people.  One will get along just fine without **Diaspora Groups**, while the other sees groups as an absolute necessity for **Diaspora**.  Historically, mailing lists, bulletin boards (BBs) & other types of group functionality are referred to by **Wikipedia** & others as **Internet Forums** ...
+The language used to describe group communications on the Internet is ambiguous from the outset, and gets even more convoluted when talking about the _back-end_ of network connectivity or the _front-end_ of social interactivity.  Further complicating things are at least 2 camps of people.  One will get along just fine without **Diaspora Groups**, while the other sees groups as an absolute necessity for the future of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs) & other types of group functionality are referred to on **Wikipedia** & elsewhere as **Internet Forums** ...
 
 * **Internet forum** (Wikipedia.org)
 
@@ -198,13 +198,13 @@ The language used to describe group communications on the Internet is ambiguous 
 
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
-* **D*Group** (alpha) **Diaspora Group Emulator**
-
-    http://Diasp.org/u/d_group
-
 * **Diaspora Groups & Forums** (DiasporaForums.org)
 
     http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
+
+* **D*Group** (alpha) **Diaspora Group Emulator**
+
+    http://Diasp.org/u/d_group
 
 end **Diaspora Groups & Forums** links
 
