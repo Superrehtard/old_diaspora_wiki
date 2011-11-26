@@ -92,7 +92,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
     http://diasporatest.com/index.php/Markup_to_format_text
 
-- **Formatting text** (Diasporial.com)**
+- **Formatting text** (Diasporial.com)
 
     http://diasporial.com/tutorials/formatting-text
 
