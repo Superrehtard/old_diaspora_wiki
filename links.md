@@ -2,7 +2,7 @@
 
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">wiki-diasporial</a>
+<a name="wiki-diasporial">\<wiki-diasporial\<</a>
 
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
@@ -64,7 +64,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">wiki-markdown</a>
+<a name="wiki-markdown">\<wiki-markdown\<</a>
 
 ## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
@@ -104,7 +104,7 @@ end **Formatting text with Markdown** links
 
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
 
-<a name="wiki-markdown">wiki-answers</a>
+<a name="wiki-answers">\<wiki-answers\<</a>
 
 ## Getting Help & Answers
  
