@@ -89,6 +89,6 @@
 
 1. **Agrega 5 tags a tu perfil** si ya no lo hiciste: esto ayudará a personas como tu a encontrarte.
 2. **Comienza siguiendo algunos #tags** (Busca por estos en la barra de busqueda (arriba) y dale click "comenzar a seguir"): los tags seguidos aparecerán en tu stream y te ayudarán a encontrar personas como tu y mantenerte actualizado sobre los topicos o temas de tu interes!
-3. **Agrega tags a tus post y publicalos al mundo**: Se mostrarán en el stream of de quien sigue esos tags.
+3. **Agrega tags a tus post y publicalos al mundo**: Se mostrarán en el stream de quien sigue esos tags.
 4. **Solo empieza compartiendo** y poco a poco entenderas como funcionan las cosas!
 5. Si tienes mas preguntas, solo revisa [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) y [tutoriales](http://diasporial.com/tutorials) ó realiza post publico con el tag #question       
