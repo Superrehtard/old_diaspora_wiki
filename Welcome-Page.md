@@ -32,12 +32,12 @@
 5.  Wenn du weitere Fragen hast, sieh dir einfach die [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) und [tutorials](http://diasporial.com/tutorials) an, oder schreibe einen öffentlichen Post und markiere es als #frage.
 
 
+## Polish
 
+#### Cześć!! Oto kilka krótkich wskazówek do rozpoczęcia zabawy z diasporą i poznawania nowych osób!
 
-
-    
-  
-    
-   
-
-
+1. **Dodaj 5 znaczników do swojego profilu** jeśli jeszcze tego nie zrobiłeś(aś): pomoże to innym osobom w odnalezieniu Ciebie.
+2. **Zacznij obserwować #znaczniki** (znajdź je za pomocą paska wyszukiwania i naciśnij "obserwuj"): obserwowane znaczniki pojawią się w Twoim strumieniu, pomoże to znaleźć osoby takie jak Ty i pozwoli na bycie na bieżąco z tematami, które lubisz!
+3. **Do swoich wiadomości dodawaj znaczniki oraz udostępniaj je jako publiczne**: ukażą się one w strumieniach osób, które obserwują znaczniki!
+4. **Po prostu zacznij udostępniać swoje wiadomości innym**, a wtedy łatwo zrozumiesz o co chodzi!
+5. Jeśli masz więcej pytań sprawdź [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) oraz [tutoriale](http://diasporial.com/tutorials) lub udostępnij wiadomość publiczną ze znacznikiem #pytanie.
