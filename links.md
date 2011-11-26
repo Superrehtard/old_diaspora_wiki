@@ -93,6 +93,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
     http://diasporial.com/tutorials/formatting-text
 
 - **Formatting Text on Diaspora** (DifferentComputers.com)
+
 http://differentcomputers.com/diaspora-text-formatting
 
 end **Formatting text with Markdown** links
