@@ -94,7 +94,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 - **Formatting Text on Diaspora** (DifferentComputers.com)
 
-http://differentcomputers.com/diaspora-text-formatting
+    http://differentcomputers.com/diaspora-text-formatting
 
 end **Formatting text with Markdown** links
 
