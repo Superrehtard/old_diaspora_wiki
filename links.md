@@ -62,7 +62,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
-<div id="markdown">markdown anchor</div>
+<a name="markdown">markdown anchor</a>
 
 ## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
