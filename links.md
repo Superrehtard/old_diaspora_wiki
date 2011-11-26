@@ -62,9 +62,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
-<a name="markdown">markdown anchor</a>
-
-## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
+## Formatting Text with <a name="wiki-markdown">[Markdown](http://daringfireball.net/projects/markdown)</a>
 
 - **Markdown Text Formatting by John Gruber**
  
