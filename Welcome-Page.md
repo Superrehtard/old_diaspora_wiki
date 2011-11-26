@@ -94,4 +94,12 @@
 5. إذا كنت تملك أسئلة أخرى، راجع [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) و [tutorials](http://diasporial.com/tutorials) أو أنشر مشاركة عامة ووسّمها  بـ #سؤال
 
 
-    
+## Nederlands
+
+#### Hallo!! Hierbij een paar korte tips voor een goed begin op Diaspora en om daar nieuwe mensen te leren kennen!
+
+1. **Voeg 5 tags toe aan je profiel** Als je dat nog niet gedaan hebt: Dit helpt zodat mensen je kunnen vinden.
+2. **Begin een paar #tags te volgen** (zoek er naar in de zoekbalk en klik "Volg ...."): gevolgde tags worden weergegeven in je stream en zullen je helpen mensen zoals jou tegen te komen en houden je up to date over onderwerpen die je interesseren!
+3. **Voeg tags toe aan je posts en post ze als Openbaar**: ze zullen te zien zijn in de streams van iedereen die die tags volgt!
+4. **Begin gewoon te delen** en in een vloek en een zucht zal je begrijpen hoe het allemaal werkt!
+5. Wanneer je meer vragen hebt, kijk dan gewoon op [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) and [tutorials](http://diasporial.com/tutorials) of schrijf een openbare post en tag het met  #question en/of #vraag.
