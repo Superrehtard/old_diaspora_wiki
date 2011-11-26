@@ -15,6 +15,7 @@ This page lists all the major issues and feature requests that the developers ar
 * Comment on public posts from other pods
 * "Mention" in comments
 * Groups (private)
+
     [Diaspora Groups & Forums](https://github.com/diaspora/diaspora/wiki/links/#wiki-groups)
 * Search for posts
 * API
