@@ -230,15 +230,9 @@ end **[Wikipedia.org](http://Wikipedia.org)** links
 
 **About This Page**
 The small \<wiki-\> tags are name anchors.
+
 To jump to the Wikipedia section, use ...
+
 https://github.com/diaspora/diaspora/wiki/links/#wiki-wikipedia
 
 **Diaspora Wiki Links** being developed by **[@RichardTE](https://Diasp.org/u/richardte)** Nov2011
-
-
-
-
-
-
-
-
