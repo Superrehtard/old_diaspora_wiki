@@ -7,7 +7,6 @@
 3. **Add tags to your posts and post them as public**: they will be shown in stream of whoever follows those tags!
 4. **Just start sharing** and you'll smoothly understand how everything works!
 5. If you have more questions, just check [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) and [tutorials](http://diasporial.com/tutorials) or post a public post and tag it as #question       
-### Welcome!!
 
 
 ## Italian
@@ -20,5 +19,4 @@
 3. **Metti dei tag nei tuoi post e pubblicali come "pubblici"**: appariranno nello stream di chiunque segua quei tag!
 4. **Comincia a condividere**: capirai subito come funziona Diaspora*!
 5. Se hai qualche dubbio, domanda o semplicemente vuoi saperne di più, da' un'occhiata alle [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) e hai [tutorials](http://diasporial.com/tutorials) oppure fai un post pubblico col tag #domanda!      
-###Benvenuto!!!
 
