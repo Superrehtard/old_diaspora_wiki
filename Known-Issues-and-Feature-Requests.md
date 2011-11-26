@@ -16,7 +16,7 @@ This page lists all the major issues and feature requests that the developers ar
 * "Mention" in comments
 * Groups (private)
 
-    [Diaspora Groups & Forums](https://github.com/diaspora/diaspora/wiki/links/#wiki-groups)
+    [Groups & Forums](https://github.com/diaspora/diaspora/wiki/links/#wiki-groups)
 * Search for posts
 * API
 * Albums/galleries (photo, video, etc.)
