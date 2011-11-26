@@ -63,15 +63,15 @@
 5. Jika ada pertanyaan lainnya, kunjungi [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) dan [tutorials](http://diasporial.com/tutorials) atau buat post dengan tag #question.
 
 
-## मानक हिन्दी
+## हिन्दी
 
-#### नमस्ते!! यहाँ कुछ आसन युक्तियाँ हैं जिससे आप Diaspora पर मजें कर सकें और नए लोगों से मुलाकात कर सकें
+#### नमस्ते! यहाँ कुछ आसन युक्तियाँ हैं जिससे आप Diaspora पर मजें कर सकें और नए लोगों से मुलाकात कर सकें |
 
-1. **अगर अभी तक नहीं डाले, अपने profile में ५ tags डालिए**: इससे आपके जैसे लोग आपको ढूंढ पाएंगे
-2. **कुछ #tags को follow कीजिये** (screenbar से खोज करके "start following " पर क्लिक कीजिये ): follow किये हुए tags आपकी stream में दिखेंगे और आपकी लोगों से मुलाकात होगी तथा नए समाचार मिलेंगे
+1. **अगर अभी तक नहीं डाले, अपने profile में 5 tags डालिए**: इससे आपके जैसे लोग आपको ढूंढ पाएंगे |
+2. **कुछ #tags को follow कीजिये** (screenbar से खोज करके "start following " पर क्लिक कीजिये ): follow किये हुए tags आपकी stream में दिखेंगे और आपकी लोगों से मुलाकात होगी तथा नए समाचार मिलेंगे |
 3. **अपने post में tags डालिए तथा उन्हें पब्लिक(public) बनायें**: वह उन लोगों की stream में जायेंगे जो tag को follow कर रहें है
-4. **बस बातचीत शुरू कीजिये** और आप आसानी से समझ जायंगे की सबकुछ कैसे काम करता है
-5. अगर आपको और प्रश्न हैं तो [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) या [tutorials](http://diasporial.com/tutorials) या public post कीजिये, #question (#प्रश्न) tag के साथ
+4. **बस बातचीत शुरू कीजिये** और आप आसानी से समझ जायंगे की सबकुछ कैसे काम करता है |
+5. अगर आपको और प्रश्न हैं तो [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) या [tutorials](http://diasporial.com/tutorials) या public post कीजिये, #question (#प्रश्न) tag के साथ |
 
 
 ## عربي
