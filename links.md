@@ -192,7 +192,7 @@ In formulating a concept of **Diaspora Groups**, _we_ need to realize the intrin
 
 It's complex.  On the _back-end_ there's network security, reliability, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and real living being.
 
-Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as a critical necessity for the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms & other types of group functionality are referred to in **Wikipedia** & elsewhere as **Internet Forums**.  The **Inter-net** itself is a network of networks.
+Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as a critical necessity for the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms & other types of group functionality are referred to in **Wikipedia** & elsewhere as **Internet Forums**.  The _Inter-net_ itself is a network of networks.
 
 ###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
