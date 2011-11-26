@@ -194,22 +194,7 @@ It's complex.  On the _back-end_ there's network security, reliability, (federat
 
 Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as a critical necessity for the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms & other types of group functionality are referred to in **Wikipedia** & elsewhere as **Internet Forums**.  The **Inter-net** itself is a network of networks.
 
-#### _Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
-http://Wikipedia.org/wiki/Margaret_Mead
-
-#### Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has. 
-http://Wikipedia.org/wiki/Margaret_Mead
-
-##### _Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
-http://Wikipedia.org/wiki/Margaret_Mead
-
-##### Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has.
-http://Wikipedia.org/wiki/Margaret_Mead
-
-###### _Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
-http://Wikipedia.org/wiki/Margaret_Mead
-
-###### _Never doubt that a small group of committed people can change the world.  Indeed, it is the only thing that ever has. 
+###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
 
 * **Internet forum** (Wikipedia.org)
