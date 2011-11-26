@@ -36,7 +36,7 @@
 #### Hallo!! Hier sind einige kurze Tipps für einen guten Anfang bei Diaspora und um neue Leute zu treffen!
 
 1. **Füge 5 Tags zu deinem Profil hinzu.** Wenn du das noch nicht getan hast: Das wird Leuten helfen dich zu finden.
-2. **Fange an einigen #tags zu folgen** (suche danach in der Suchleiste und klicke auf "#[Suchbegriff] folgen"): Beiträge mit Tags denen du folgst werden in deinem Steam erscheinen und werden dir helfen Menschen mit gleichen Interessen zu finden!
+2. **Fange an einigen #tags zu folgen** (suche danach in der Suchleiste und klicke auf "#[Suchbegriff] folgen"): Beiträge mit Tags denen du folgst, werden in deinem Stream erscheinen und werden dir helfen Menschen mit gleichen Interessen zu finden!
 3. **Füge Tags zu deinen Beiträgen hinzu und teile sie als "öffentlich"**: Sie werden bei den Leuten im Stream angezeigt, die diesen Tags folgen!
 4. **Fang einfach an** zu teilen und du wirst problemlos verstehen wie alles funktioniert!
 5.  Wenn du weitere Fragen hast, sieh dir einfach die [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) und [tutorials](http://diasporial.com/tutorials) an, oder schreibe einen öffentlichen Post und markiere es als #frage.
