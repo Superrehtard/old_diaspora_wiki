@@ -6,3 +6,6 @@ It's best to keep our welcoming messages personal, so we don't sound like bots. 
 * Try to make your welcome message relevant to their interests (i.e. "Hey, fellow #art fanatic!"  or, "Cool, I dig #android development as well!")
 * Keep the welcoming "fresh".  By this, we mean switching up the welcoming message.  Maybe to one user, we might say "Welcome to Diaspora, {name}!", and to another, we might say "Hey there {name}!  Great to see another friendly face on Diaspora!"
 * If someone doesn't seem to have the wording "...and I am interested in {tags}", suggest that they follow some tags, noting that those tags will appear in their stream.  (The hashtags populated in a newcomer's #NewHere message includes the tags that they are following.)
+
+
+Are you #NewHere and just need some help? see [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)
