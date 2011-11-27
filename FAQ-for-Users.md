@@ -219,7 +219,7 @@ After searching for a tag you can click the button at the top of the tag's page 
 ***Who are the people on the left hand side of a tag page?***  
 They are people who have listed that tag in their public profile.  
 
-**How can i filter/exclude some tags (eg #newhere or #nsfw) from my stream?**
+**How can i filter/exclude some tags (eg #newhere or #nsfw) from my stream?**       
 If you use Firefox, you can try the Tag Filter add on you can find [here](https://github.com/diaspora/diaspora/wiki/Tools-to-use-with-Diaspora).
 
 
