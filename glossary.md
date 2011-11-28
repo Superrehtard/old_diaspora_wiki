@@ -71,6 +71,10 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
    
+- **Google Groups**     
+    http://groups.google.com/group/diaspora-discuss     
+    http://groups.google.com/group/diaspora-dev      
+     
 - **Group or Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
@@ -81,10 +85,17 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     Diaspora is a social network created by people like you.  In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.  They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.  Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
     http://whatIsDiaspora.com
 
+## <a name="wiki-i">I</a>    
+
+- **IRC Channels**     
+    http://webchat.freenode.net/?channels=diaspora      
+    http://webchat.freenode.net/?channels=diaspora-dev      
+    http://webchat.freenode.net/?channels=diaspora-de     
+     
 ## <a name="wiki-j">J</a>
-
+      
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
-
+     
 ## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber    
