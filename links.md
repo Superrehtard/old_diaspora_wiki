@@ -1,5 +1,17 @@
 # Diaspora Wiki Links
 
+### Quick Links Index**
+
+- **One -** Links about blah blah blah ...
+
+- **Two -** Links about blah blah blah ...
+
+- **Three -** Links about blah blah blah ...
+
+- **Four -** Links about blah blah blah ...
+
+- **Five -** Links about blah blah blah ...
+
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
 
 <a name="wiki-diasporial">\<wiki-diasporial\></a>
