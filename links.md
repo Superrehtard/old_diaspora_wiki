@@ -127,7 +127,7 @@ http://Wikipedia.org/wiki/Margaret_Mead
 
     http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
 
-* **D*Group** (alpha) **Diaspora Group Emulator**
+* **D*Group** (alpha) **Emulator**
 
     http://Diasp.org/u/d_group
 
