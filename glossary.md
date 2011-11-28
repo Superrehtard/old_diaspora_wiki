@@ -12,6 +12,12 @@
 
 ## <a name="wiki-d">B C D</a>
 
+- **[Diasp.de](http://Diasp.de)**   
+
+- **[Diasp.eu](http://Diasp.eu)**   
+
+- **[Diasp.org](http://Diasp.org)**   
+
 - **_Diaspora_**       
     definition of **_Diaspora_** ...   
     http://wikipedia.org/wiki/Diaspora_(software)
@@ -23,6 +29,12 @@
 - **_Diaspora_ Group** or **Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
+
+- **[_Diaspora_Forum.org](http://DiasporaFoundation.org)**   
+
+- **[_Diaspora_Foundation.org](http://DiasporaFoundation.org)**   
+
+- **[_Diaspora_Foundation.org](http://DiasporaFoundation.org)**   
 
 ## <a name="wiki-f">E F</a>
      
@@ -52,6 +64,10 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 - **Group** or **Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
+
+## <a name="wiki-j">J</a>
+
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
 
 ## <a name="wiki-p">P</a>
 
