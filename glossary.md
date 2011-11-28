@@ -6,6 +6,8 @@
 
 ---
 
+## <a name="wiki-d">D</a>
+
 ### • _Diaspora_    
 &nbsp; &nbsp; definition of **_Diaspora_** ...   
 &nbsp; &nbsp; http://en.wikipedia.org/wiki/Diaspora_(software)
