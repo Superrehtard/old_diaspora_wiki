@@ -227,6 +227,12 @@ http://Wikipedia.org/wiki/Margaret_Mead
 
     http://Diasp.org/u/d_group
 
+- **Diaspora Forums on [Groups.Google.com](http://groups.google.com)**
+
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)
+
+     http://groups.google.com/group/diaspora-dev (Devs)
+
 end **Diaspora Groups & Forums** links
 
 <!-- - - - - - - - - - - Wikipedia.org Links - - - - - - - - - - - - - - -->
