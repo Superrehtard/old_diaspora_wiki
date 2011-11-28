@@ -1,5 +1,7 @@
 # Diaspora Wiki Links
 
+### WARNING! This Page is Under Construction!  Proceed at your own risk!
+
 > **Quick Links Index**
 
 > **• [_Diasporial.com_ links](#wiki-diasporial") —** Links from **Diasporial.com** ...
