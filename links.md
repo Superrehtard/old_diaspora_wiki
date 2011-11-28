@@ -197,10 +197,10 @@ end **Formatting text with Markdown** links
 
 - **Diaspora Chat on IRC Channels**   
     http://webchat.freenode.net/?channels=diaspora (Live Chat)     
-    http://webchat.freenode.net/?channels=diaspora-dev (Devs)  
-    http://webchat.freenode.net/?channels=diaspora-de (German)   
+    http://webchat.freenode.net/?channels=diaspora-dev (Devs)    
+    http://webchat.freenode.net/?channels=diaspora-de (German)      
 
-- **Diaspora Forums on [Groups.Google.com](http://groups.google.com)**    
+- **Diaspora Forums on** **[Groups.Google.com](http://groups.google.com)**      
      http://groups.google.com/group/diaspora-discuss (Regular Folks)     
      http://groups.google.com/group/diaspora-dev (Devs)     
 
