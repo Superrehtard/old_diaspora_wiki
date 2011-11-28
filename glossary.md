@@ -23,10 +23,12 @@
 - **Featured Users**     
 Diaspora has the coolest strangers short listed for you on the “Featured users” page, which you can access by clicking the “Contacts” icon in the header and browsing the menu on the left.    
     http://diasporial.com/tutorials/follows-and-followers    
+
 - **Federation**          
     definition of **federation** ...       
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation     
+
 - **Follows & Followers & Mutuals**    
     A **follow** is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
     http://diasporial.com/tutorials/follows-and-followers
