@@ -93,31 +93,34 @@ Further complicating things are two camps of people.  One gets along just fine w
 ###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
 
-* **Internet forum** (Wikipedia.org)    
+- **Internet forum** (Wikipedia.org)    
     http://wikipedia.org/wiki/Internet_forum
 
-* **Comparison of Internet forum software** (Wikipedia.org)    
+- **Comparison of Internet forum software** (Wikipedia.org)    
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
-* **Community of interest** (Wikipedia.org)    
+- **Community of interest** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community_of_interest
 
-* **Community structure** (Wikipedia.org)    
+- **Community structure** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community_structure
 
-* **Community** (Wikipedia.org)    
+- **Community** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community
 
-* **Diaspora Groups & Forums** (DiasporaForums.org)    
+- **Diaspora Groups & Forums** (DiasporaForums.org)    
     http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
 
-* **D*Group** (alpha) **Emulator**    
+- **D*Group** (alpha) **Emulator**    
     http://Diasp.org/u/d_group
 
 - **Diaspora Forums** (groups.Google.com)    
      http://groups.google.com/group/diaspora-discuss (Regular Folks)    
-     http://groups.google.com/group/diaspora-dev (Devs)    
-
+     http://groups.google.com/group/diaspora-dev (Devs)     
+   
+- **Setting up a topic account**    
+    http://diasporial.com/tutorials/setting-up-a-topic-account     
+   
 end **_Diaspora_ Groups & Forums** links
 
 <!-- - - - - - - - - - - - - - Diaspora Hyper-Linkage - - - - - - - - - - - - - - - - - - -->
