@@ -86,10 +86,10 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-s">S</a>   
 
-- **[Spored.de](https://Spored.de)**
+- **[Spored.de](http://Spored.de)**
 
 ## <a name="wiki-w">W</a>
 
-- **[WhatIsDiaspora.org](https://WhatIsDiaspora.org)**
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
 
 ## <a name="wiki-z">Z</a>
