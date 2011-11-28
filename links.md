@@ -33,47 +33,37 @@ http://diasporial.com/whats-diaspora
 ### Getting Started
 http://diasporial.com/tutorials
 
-1. **Part I: Signing up**
-
+1. **Part I: Signing up**     
     http://diasporial.com/tutorials/signing-up
 
-2. **Part II: Interface & Aspects**
-
+2. **Part II: Interface & Aspects**   
     http://diasporial.com/tutorials/interface-and-aspects
 
-3. **Part III: Follows & Followers**
-
+3. **Part III: Follows & Followers**    
     http://diasporial.com/tutorials/follows-and-followers
 
-4. **Part IV: Start sharing!**
-
+4. **Part IV: Start sharing!**    
     http://diasporial.com/tutorials/start-sharing
 
-5. **Part V: Conversations**
-
+5. **Part V: Conversations**     
     http://diasporial.com/tutorials/conversations
 
-6. **Part VI: Finishing up**
-
+6. **Part VI: Finishing up**    
     http://diasporial.com/tutorials/conversations
 
 ### Other Tutorials on [Diasporial.com](http://Diasporial.com/tutorials)
 http://diasporial.com/tutorials
 
-- **Connecting Diaspora to other services**
-
+- **Connecting Diaspora to other services**    
     http://diasporial.com/tutorials/connecting-diaspora-to-other-services
 
-- **Tips and Tricks**
-
+- **Tips and Tricks**    
     http://diasporial.com/tutorials/tips-and-tricks
 
-- **Formatting text**
-
+- **Formatting text**    
     http://diasporial.com/tutorials/formatting-text
 
-- **Setting up a topic account**
-
+- **Setting up a topic account**    
     http://diasporial.com/tutorials/setting-up-a-topic-account
 
 ### Other Documentation on [Diasporial.com](http://Diasporial.com/other-documentation)
@@ -103,39 +93,30 @@ Further complicating things are two camps of people.  One gets along just fine w
 ###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
 
-* **Internet forum** (Wikipedia.org)
-
+* **Internet forum** (Wikipedia.org)    
     http://wikipedia.org/wiki/Internet_forum
 
-* **Comparison of Internet forum software** (Wikipedia.org)
-
+* **Comparison of Internet forum software** (Wikipedia.org)    
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
-* **Community of interest** (Wikipedia.org)
-
+* **Community of interest** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community_of_interest
 
-* **Community structure** (Wikipedia.org)
-
+* **Community structure** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community_structure
 
-* **Community** (Wikipedia.org)
-
+* **Community** (Wikipedia.org)    
     http://wikipedia.org/wiki/Community
 
-* **Diaspora Groups & Forums** (DiasporaForums.org)
-
+* **Diaspora Groups & Forums** (DiasporaForums.org)    
     http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
 
-* **D*Group** (alpha) **Emulator**
-
+* **D*Group** (alpha) **Emulator**    
     http://Diasp.org/u/d_group
 
-- **Diaspora Forums** (groups.Google.com)
-
-     http://groups.google.com/group/diaspora-discuss (Regular Folks)
-
-     http://groups.google.com/group/diaspora-dev (Devs)
+- **Diaspora Forums** (groups.Google.com)    
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)    
+     http://groups.google.com/group/diaspora-dev (Devs)    
 
 end **_Diaspora_ Groups & Forums** links
 
@@ -161,36 +142,28 @@ end **_Diaspora_ Hyper-Linkage** links
 
 ## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
 
-- **Markdown Text Formatting by John Gruber**
- 
+- **Markdown Text Formatting by John Gruber**    
     http://daringfireball.net/projects/markdown
 
-- **Markdown: Basics**
-
+- **Markdown: Basics**    
     http://daringfireball.net/projects/markdown/basics
+ 
+- **Markdown: Syntax**    
+    http://daringfireball.net/projects/markdown/syntax   
 
-- **Markdown: Syntax**
-
-    http://daringfireball.net/projects/markdown/syntax
-
-- **Markdown: Dingus** (cool sandbox for practice-editing **Markdown**)
-
+- **Markdown: Dingus** (cool sandbox for practice-editing **Markdown**)   
     http://daringfireball.net/projects/markdown/dingus 
 
-- **Markdown Text Formatting** (Wikipedia.org)
-
+- **Markdown Text Formatting** (Wikipedia.org)    
     http://wikipedia.org/wiki/Markdown
 
-- **Markup to format text** (DiasporaTest.com)
-
+- **Markup to format text** (DiasporaTest.com)    
     http://diasporatest.com/index.php/Markup_to_format_text
 
-- **Formatting text** (Diasporial.com)
-
+- **Formatting text** (Diasporial.com)    
     http://diasporial.com/tutorials/formatting-text
 
-- **Formatting Text on Diaspora** (DifferentComputers.com)
-
+- **Formatting Text on Diaspora** (DifferentComputers.com)    
     http://differentcomputers.com/diaspora-text-formatting
 
 end **Formatting text with Markdown** links
@@ -203,47 +176,33 @@ end **Formatting text with Markdown** links
  
 - **Use the #help hashtag in searching & posting!**
 
-- **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**
-
+- **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**    
     https://github.com/diaspora/diaspora/wiki/FAQ-for-Users
 
-- **Community-powered support for Diaspora on [getSatisfaction.com](http://getsatisfaction.com/diaspora)**
-
+- **Community-powered support for Diaspora on [getSatisfaction.com](http://getsatisfaction.com/diaspora)**   
     http://getSatisfaction.com/diaspora
 
-- **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**
-
+- **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**    
     http://wiki.spored.de/w/Hauptseite
 
-- **[DiasporaForum.org](http://diasporaforum.org)**
-
+- **[DiasporaForum.org](http://diasporaforum.org)**    
     http://www.diasporaforum.org/forum/forum.php
  
-- **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**
-
-    http://whatIsDiaspora.com/#history
-
-    http://whatIsDiaspora.com/#how
-
-    http://whatIsDiaspora.com/#why
-
-    http://whatIsDiaspora.com/#more
-
+- **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**    
+    http://whatIsDiaspora.com/#history   
+    http://whatIsDiaspora.com/#how   
+    http://whatIsDiaspora.com/#why   
+    http://whatIsDiaspora.com/#more   
     http://whatIsDiaspora.com/#get
 
-- **Diaspora Chat on IRC Channels**
+- **Diaspora Chat on IRC Channels**   
+    http://webchat.freenode.net/?channels=diaspora (Live Chat)     
+    http://webchat.freenode.net/?channels=diaspora-dev (Devs)  
+    http://webchat.freenode.net/?channels=diaspora-de (German)   
 
-    http://webchat.freenode.net/?channels=diaspora (Live Chat)
-
-    http://webchat.freenode.net/?channels=diaspora-dev (Devs)
-    
-    http://webchat.freenode.net/?channels=diaspora-de (German)
-
-- **Diaspora Forums on [Groups.Google.com](http://groups.google.com)**
-
-     http://groups.google.com/group/diaspora-discuss (Regular Folks)
-
-     http://groups.google.com/group/diaspora-dev (Devs)
+- **Diaspora Forums on [Groups.Google.com](http://groups.google.com)**    
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)     
+     http://groups.google.com/group/diaspora-dev (Devs)     
 
 end **Getting Help & Answers** links
 
@@ -253,24 +212,19 @@ end **Getting Help & Answers** links
 
 ## [github.com](http://github.com) links
 
-- **github Social Coding**
-
+- **github Social Coding**   
     https://github.com
 
-- **Diaspora on github**
-
+- **Diaspora on github**    
     https://github.com/diaspora/diaspora
 
-- **Diaspora Members on github**
-
+- **Diaspora Members on github**    
     https://github.com/diaspora
 
-- **Diaspora Issues on github**
-
+- **Diaspora Issues on github**    
     https://github.com/diaspora/diaspora/issues
 
-- **Diaspora Wiki on github**
-
+- **Diaspora Wiki on github**    
     https://github.com/diaspora/diaspora/wiki
 
 end **[github.com](http://github.com)** links
@@ -283,36 +237,28 @@ end **[github.com](http://github.com)** links
 
 ## [Wikipedia.org](http://Wikipedia.org) links
     
-- **Diaspora (social network)**
-
+- **Diaspora (social network)**    
     http://wikipedia.org/wiki/Diaspora_(social_network)
 
-- **Diaspora (software)**
-
+- **Diaspora (software)**    
     http://wikipedia.org/wiki/Diaspora_(software)
 
-- **Ilya Zhitomirskiy**
-
+- **Ilya Zhitomirskiy**    
     http://wikipedia.org/wiki/Ilya_Zhitomirskiy
 
-- **Markdown Text Formatting**
-
+- **Markdown Text Formatting**    
     http://wikipedia.org/wiki/Markdown
 
-- **List of social networking websites**
-
+- **List of social networking websites**    
     http://wikipedia.org/wiki/List_of_social_networking_websites
 
-- **Community of interest**
-
+- **Community of interest**    
     http://wikipedia.org/wiki/Community_of_interest
 
-- **Internet forum**
-
+- **Internet forum**    
     http://wikipedia.org/wiki/Internet_forum
 
-- **Comparison of Internet forum software**
-
+- **Comparison of Internet forum software**    
     http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
 
 end **[Wikipedia.org](http://Wikipedia.org)** links
@@ -325,8 +271,7 @@ end **[Wikipedia.org](http://Wikipedia.org)** links
 
 **About This Page**
 
-The small \<wiki-\> tags are name anchors.
-
+The small \<wiki-\> tags are name anchors.     
 To jump to the **Wikipedia.org** section, use ...
 
 https://github.com/diaspora/diaspora/wiki/links/#wiki-wikipedia
