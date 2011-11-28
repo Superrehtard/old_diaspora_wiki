@@ -66,7 +66,7 @@ end **[Diasporial.com](http://Diasporial.com)** links
 
 <a name="wiki-groups">\<wiki-groups\></a>
 
-## Diaspora Groups & Forums 
+## _Diaspora_ Groups & Forums 
  
 **[This section is being re-edited]** ... 
 
@@ -122,6 +122,17 @@ end **Diaspora Groups & Forums** links
 <a name="wiki-hyper-linkage">\<wiki-hyper-linkage\></a>
 
 ## _Diaspora_ Hyper-Linkage
+
+**These are Pages with Lots of Links to _Diaspora_ Resources**
+
+- **one**
+
+- **two**
+
+- **three**
+
+
+
 
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
