@@ -9,7 +9,7 @@
 ### • _Diaspora_
     **definition** of federation ...
 
-### • _Diaspora*_
+### • _Diaspora_
     **definition** of federation ...
 
 ### • Federation
