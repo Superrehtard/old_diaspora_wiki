@@ -22,15 +22,15 @@
 
 - **[Diasp.org](http://Diasp.org)**   
 
-- **_Diaspora_**       
+- **Diaspora**       
     definition of **_Diaspora_** ...   
     http://wikipedia.org/wiki/Diaspora_(software)
 
-- **_Diaspora*_**        
+- **Diaspora**        
     definition of **_Diaspora*_** ...     
     http://wikipedia.org/wiki/Diaspora_(social_network)
 
-- **_Diaspora_ Group** or **Forum**       
+- **Diaspora Group or Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
@@ -38,7 +38,7 @@
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
-- **Donate** to **_Diaspora_**   
+- **Donate to Diaspora**   
     https://DiasporaFoundation.org/donate
 
 ## <a name="wiki-f">E F</a>
@@ -62,11 +62,15 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**. Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers     
 
+- **Forum or Group**       
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    http://wikipedia.org/wiki/Internet_forum    
+
 ## <a name="wiki-g">G</a>
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
    
-- **Group** or **Forum**       
+- **Group or Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
