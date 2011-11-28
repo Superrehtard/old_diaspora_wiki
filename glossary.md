@@ -10,7 +10,11 @@
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
 
-## <a name="wiki-d">B C D</a>
+## <a name="wiki-b">B</a>
+
+- **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**   
+
+## <a name="wiki-d">D</a>
 
 - **[Diasp.de](http://Diasp.de)**   
 
@@ -30,11 +34,9 @@
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
-- **[_Diaspora_Forum.org](http://DiasporaFoundation.org)**   
+- **[DiasporaForum.org](http://DiasporaFoundation.org)**   
 
-- **[_Diaspora_Foundation.org](http://DiasporaFoundation.org)**   
-
-- **[_Diaspora_Foundation.org](http://DiasporaFoundation.org)**   
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
 ## <a name="wiki-f">E F</a>
      
