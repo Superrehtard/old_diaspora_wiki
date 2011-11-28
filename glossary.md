@@ -48,6 +48,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 ## <a name="wiki-g">G</a>
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
+   
 - **Group** or **Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
