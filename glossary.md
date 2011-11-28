@@ -31,16 +31,15 @@
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
-## <a name="wiki-p">Q</a>
+## <a name="wiki-p">P</a>
 
 - **Pod**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
-- definition of **pod** ...     
-- [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.    
-- [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.    
-- **Community Supported Pods**      
-    https://github.com/diaspora/diaspora/wiki/Community-supported-pods
-    http://wikipedia.org/wiki/Internet_forum    
+    definition of **pod** ...     
+    [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.    
+    [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.    
+    **Community Supported Pods**      
+        https://github.com/diaspora/diaspora/wiki/Community-supported-pods
+        http://wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-q">Q</a>
 
