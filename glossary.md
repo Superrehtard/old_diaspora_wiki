@@ -7,7 +7,7 @@
 ## <a name="wiki-a">A</a>
 
 - **Aspect**   
-    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four “example aspects”, namely Family, Work, Friends and Acquaintances. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
+    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
 
 ## <a name="wiki-d">B C D</a>
@@ -27,7 +27,7 @@
 ## <a name="wiki-f">E F</a>
      
 - **Featured Users**     
-Diaspora has the coolest strangers short listed for you on the “Featured users” page, which you can access by clicking the “Contacts” icon in the header and browsing the menu on the left.    
+Diaspora has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
     http://diasporial.com/tutorials/follows-and-followers    
 
 - **Federation**          
@@ -35,7 +35,7 @@ Diaspora has the coolest strangers short listed for you on the “Featured users
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation     
 
-- **Follows & Followers & Mutuals**    
+- **Follow & Follower & Mutual**    
     A **follow** is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
     http://diasporial.com/tutorials/follows-and-followers
     
