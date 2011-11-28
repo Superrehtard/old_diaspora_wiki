@@ -39,7 +39,7 @@
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
 - **Donate** to **_Diaspora_**   
-    https://www.diasporafoundation.org/donate
+    https://DiasporaFoundation.org/donate
 
 ## <a name="wiki-f">E F</a>
      
