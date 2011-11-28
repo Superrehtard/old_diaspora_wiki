@@ -85,7 +85,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
 
-## <a name="wiki-p">P</a>
+## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber    
     http://daringfireball.net/projects/markdown
