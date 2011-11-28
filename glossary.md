@@ -21,7 +21,7 @@
 ## <a name="wiki-f">E F</a>
 
 ### • Federation   
-&nbsp; &nbsp; definition of **federation** ...     
+&nbsp; &nbsp; a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with Diaspora Groups.     
 &nbsp; &nbsp; http://wikipedia.org/wiki/Federation_(information_technology)    
 &nbsp; &nbsp; http://foldoc.org/federation
 
