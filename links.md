@@ -4,11 +4,6 @@
 
 <a name="wiki-diasporial">\<wiki-diasporial\></a>
 
-<a name="test">\<test\></a>
-<a name="wiki">\<wiki\></a>
-<a name="wiki-test">\<wiki-test\></a>
-<a name="wiki-wiki-test">\<wiki-wiki-test\></a>
-
 ## [Diasporial.com](http://Diasporial.com) links
 ### What's Diaspora?
 http://diasporial.com/whats-diaspora
