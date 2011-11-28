@@ -187,10 +187,12 @@ end **[github.com](http://github.com)** links
 <a name="wiki-groups">\<wiki-groups\></a>
 
 ## Diaspora Groups & Forums 
+ 
+What if you could communicate in private with your friends & colleagues, share links & images, organize events and collaborate on projects — just like on Facebook, Yahoo or Google groups — only different?  The technology might not be quite in place yet, but this is the idea of **Diaspora Groups**.
 
-In formulating a concept of **Diaspora Groups**, _we_ need to realize up-front the intrinsic vagaries in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** are a group of groups as well, trying to build structure and functionality — build communities that work, and last, and are fun.
+In conceptualizing **Diaspora Groups**, _we_ need to realize up-front the intrinsic vagaries & ambiguities in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** (the conceptualizers) are also a group, trying to build structure & functionality — build communities that work, that are sustainable, meaningful, and fun.
 
-It's complex.  On the _back-end_ there are network protocols, security, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and an organic, sentient being.
+It's complex.  On the _back-end_ it's network architecture, protocols, security, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and an organic, sentient being.
 
 Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as critical links in the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms and other types of group functionality are referred to in **Wikipedia** and elsewhere as **Internet Forums**.  The _Inter-net_ is itself a network of networks.
 
