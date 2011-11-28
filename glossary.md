@@ -70,7 +70,11 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 ## <a name="wiki-g">G</a>
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
-   
+
+- **[github.com](https://github.com/diaspora/diaspora)   
+    **This page on github.com**    
+    https://github.com/diaspora/diaspora/wiki/glossary    
+    
 - **Google Groups**     
     http://groups.google.com/group/diaspora-discuss     
     http://groups.google.com/group/diaspora-dev      
