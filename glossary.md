@@ -6,40 +6,23 @@
 
 ## <a name="wiki-d">A B C D</a>
 
-* **_Diaspora_**       
+- **_Diaspora_**       
     definition of **_Diaspora_** ...   
     http://en.wikipedia.org/wiki/Diaspora_(software)
 
-* **_Diaspora*_**        
+- **_Diaspora*_**        
     definition of **_Diaspora*_** ...     
     http://en.wikipedia.org/wiki/Diaspora_(social_network)
 
-### • _Diaspora_    
-&nbsp; &nbsp; definition of **_Diaspora_** ...   
-&nbsp; &nbsp; http://en.wikipedia.org/wiki/Diaspora_(software)
-
-### • _Diaspora*_    
-&nbsp; &nbsp; definition of **_Diaspora*_** ...     
-&nbsp; &nbsp; http://en.wikipedia.org/wiki/Diaspora_(social_network)
-
-### • _Diaspora_ Group or Forum    
-&nbsp; &nbsp; definition of **_Diaspora*_ group or forum** ...   
-&nbsp; &nbsp; http://en.wikipedia.org/wiki/Internet_forum    
+- **_Diaspora_ Group or Forum**       
+&nbsp; &nbsp; a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with Diaspora Groups.     
+    http://en.wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-f">E F</a>
 
-### • Federation   
-&nbsp; &nbsp; a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with Diaspora Groups.     
-&nbsp; &nbsp; http://wikipedia.org/wiki/Federation_(information_technology)    
-&nbsp; &nbsp; http://foldoc.org/federation
-
-### • Federation
-&nbsp; &nbsp; **definition** of federation ...
-
-### • Federation
+- **Federation**      
     **definition** of federation ...
-
-### • Federation
-    **definition** of federation ...
+    http://wikipedia.org/wiki/Federation_(information_technology)    
+    http://foldoc.org/federation
 
 
