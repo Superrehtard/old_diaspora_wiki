@@ -90,6 +90,9 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-s">S</a>   
 
+- **Spore**       
+    definition of **spore** ...     
+
 - **[Spored.de](http://Spored.de)**
 
 ## <a name="wiki-w">W</a>
