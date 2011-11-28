@@ -96,19 +96,19 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     **Markdown**: Syntax    
     http://daringfireball.net/projects/markdown/syntax
 
-    **Markdown**: Dingus (cool sandbox for practice-editing Markdown)
+    **Markdown**: Dingus (cool sandbox for practice-editing Markdown)    
     http://daringfireball.net/projects/markdown/dingus
 
-    **Markdown** Text Formatting (Wikipedia.org)
+    **Markdown** Text Formatting (Wikipedia.org)      
     http://wikipedia.org/wiki/Markdown
 
-    **Markdown** to format text (DiasporaTest.com)
+    **Markdown** to format text (DiasporaTest.com)      
     http://diasporatest.com/index.php/Markup_to_format_text
 
-    Formatting text (Diasporial.com)
+    Formatting text (Diasporial.com)      
     http://diasporial.com/tutorials/formatting-text
 
-    Formatting Text on **Diaspora** (DifferentComputers.com)
+    Formatting Text on **Diaspora** (DifferentComputers.com)     
     http://differentcomputers.com/diaspora-text-formatting
 
 ## <a name="wiki-p">P</a>
