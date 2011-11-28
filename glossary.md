@@ -15,7 +15,8 @@
 &nbsp; &nbsp; http://en.wikipedia.org/wiki/Diaspora_(social_network)
 
 ### • _Diaspora_ Group or Forum    
-&nbsp; &nbsp; definition of **_Diaspora*_ group or forum** ...
+&nbsp; &nbsp; definition of **_Diaspora*_ group or forum** ...   
+&nbsp; &nbsp; http://en.wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-f">E F</a>
 
