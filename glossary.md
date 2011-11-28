@@ -20,7 +20,7 @@
     definition of **_Diaspora*_** ...     
     http://wikipedia.org/wiki/Diaspora_(social_network)
 
-- **_Diaspora_ Group or Forum**       
+- **_Diaspora_ Group** or **Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
@@ -35,7 +35,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation     
 
-- **Follow & Follower & Mutual**    
+- **Follow** & **Follower** & **Mutual**    
     A **follow** is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
     http://diasporial.com/tutorials/follows-and-followers
     
