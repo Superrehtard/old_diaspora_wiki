@@ -12,6 +12,9 @@
 ### • _Diaspora*_
 &nbsp; &nbsp; definition of **_Diaspora*_** ...
 
+### • _Diaspora_ Group or Forum
+&nbsp; &nbsp; definition of **_Diaspora*_ group or forum** ...
+
 ### • Federation
 &nbsp; &nbsp; definition of **federation** ...
 
