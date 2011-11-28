@@ -96,7 +96,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     **Markdown**: Syntax    
     http://daringfireball.net/projects/markdown/syntax
 
-    **Markdown**: Dingus (cool sandbox for practice-editing Markdown)    
+    **Markdown**: Dingus (cool sandbox for practice-editing **Markdown**)    
     http://daringfireball.net/projects/markdown/dingus
 
     **Markdown** Text Formatting (Wikipedia.org)      
