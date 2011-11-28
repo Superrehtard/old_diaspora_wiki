@@ -6,6 +6,14 @@
 
 ## <a name="wiki-d">A B C D</a>
 
+* **_Diaspora_**       
+    definition of **_Diaspora_** ...   
+    http://en.wikipedia.org/wiki/Diaspora_(software)
+
+* **_Diaspora*_**        
+    definition of **_Diaspora*_** ...     
+    http://en.wikipedia.org/wiki/Diaspora_(social_network)
+
 ### • _Diaspora_    
 &nbsp; &nbsp; definition of **_Diaspora_** ...   
 &nbsp; &nbsp; http://en.wikipedia.org/wiki/Diaspora_(software)
