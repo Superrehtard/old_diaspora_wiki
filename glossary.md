@@ -4,9 +4,7 @@
 
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
----
-
-## <a name="wiki-d">D</a>
+## <a name="wiki-d">A B C D</a>
 
 ### • _Diaspora_    
 &nbsp; &nbsp; definition of **_Diaspora_** ...   
@@ -18,6 +16,8 @@
 
 ### • _Diaspora_ Group or Forum    
 &nbsp; &nbsp; definition of **_Diaspora*_ group or forum** ...
+
+## <a name="wiki-f">E F</a>
 
 ### • Federation   
 &nbsp; &nbsp; definition of **federation** ...     
