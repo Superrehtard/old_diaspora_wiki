@@ -31,9 +31,13 @@
     
     A **follower** is a person who is following you. Followers are created automatically when a person adds you to one or more of their aspects. They will start following your public posts and you get to see their shared aspect.    
     http://diasporial.com/tutorials/follows-and-followers   
-    
+&nbsp;    
     When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**. Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers   
+&nbsp;    
+- **Featured Users**
+Diaspora has the coolest strangers short listed for you on the “Featured users” page, which you can access by clicking the “Contacts” icon in the header and browsing the menu on the left.    
+    http://diasporial.com/tutorials/follows-and-followers
 
 ## <a name="wiki-g">G</a>
 
