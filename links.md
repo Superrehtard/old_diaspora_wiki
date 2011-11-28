@@ -115,7 +115,7 @@ http://Wikipedia.org/wiki/Margaret_Mead
 
      http://groups.google.com/group/diaspora-dev (Devs)
 
-end **Diaspora Groups & Forums** links
+end **_Diaspora_ Groups & Forums** links
 
 <!-- - - - - - - - - - - - - - Diaspora Hyper-Linkage - - - - - - - - - - - - - - - - - - -->
 
@@ -131,9 +131,7 @@ end **Diaspora Groups & Forums** links
 
 - **three**
 
-
-
-
+end **_Diaspora_ Hyper-Linkage** links
 
 <!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
 
