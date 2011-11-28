@@ -4,7 +4,13 @@
 
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
-## <a name="wiki-d">A B C D</a>
+## <a name="wiki-a">A</a>
+
+- **Aspect**   
+    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four “example aspects”, namely Family, Work, Friends and Acquaintances. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
+    http://diasporial.com/tutorials/interface-and-aspects   
+
+## <a name="wiki-d">B C D</a>
 
 - **_Diaspora_**       
     definition of **_Diaspora_** ...   
