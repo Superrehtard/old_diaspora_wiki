@@ -18,7 +18,8 @@
 
 > **• [Getting Help & Answers](#wiki-answers") —** **Diaspora** help resources ...
 
-> **• [github.com](#wiki-github") —** **Diaspora** resources on **github.com** ...        
+> **• [github.com](#wiki-github") —** **Diaspora** resources on **github.com** ...      
+>     
 ---
 
 <!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
