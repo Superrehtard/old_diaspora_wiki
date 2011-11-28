@@ -71,7 +71,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
 
-- **[github.com](https://github.com/diaspora/diaspora)   
+- **[github.com](https://github.com/diaspora/diaspora)**      
     **This page on github.com**    
     https://github.com/diaspora/diaspora/wiki/glossary    
     
