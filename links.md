@@ -188,14 +188,10 @@ end **[github.com](http://github.com)** links
 
 ## Diaspora Groups & Forums 
  
-**[This is being re-edited]** ... 
+**[This section is being re-edited]** ... 
 
-The idea of groups on **Diaspora** is similar to the idea of groups on Facebook, Yahoo groups or Google groups — only without the commercial control.
-
----
-
-What if you could communicate in private with your friends & colleagues, share links & images, organize events and collaborate on projects — just like on Facebook, Yahoo or Google groups — only _different?_  The technology might not be quite in place yet, but this is the idea of **Diaspora Groups**.
-
+The idea of groups on **Diaspora** is similar to the idea of groups on Facebook, Yahoo groups or Google groups — only without the commercial control.  It's a private space where a group of friends or colleagues can share links & images, organize events and collaborate on projects.  For now, the technology is not quite in place, but many are optimistic for a future with **Diaspora Groups**.  
+ 
 In conceptualizing **Diaspora Groups**, _we_ need to realize up-front the intrinsic vagaries & ambiguities in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** (the conceptualizers) are also a group, trying to build structure & functionality — build communities that work, that are sustainable, meaningful, and fun.
 
 It's complex.  On the _back-end_ it's networking architecture, protocols, security, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and an organic, sentient being.
