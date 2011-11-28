@@ -26,13 +26,13 @@
     http://foldoc.org/federation
 
 - **Follows & Followers & Mutuals**    
-    A follow is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
+    A **follow** is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
     http://diasporial.com/tutorials/follows-and-followers
     
-    A follower is a person who is following you. Followers are created automatically when a person adds you to one or more of their aspects. They will start following your public posts and you get to see their shared aspect.
+    A **follower** is a person who is following you. Followers are created automatically when a person adds you to one or more of their aspects. They will start following your public posts and you get to see their shared aspect.    
     http://diasporial.com/tutorials/follows-and-followers   
     
-    When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook “friends”. Just like on Twitter, you need to be “mutual followers” in order to use certain features.
+    When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**. Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers   
 
 ## <a name="wiki-g">G</a>
