@@ -87,6 +87,33 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-p">P</a>
 
+- **Markdown Text Formatting**
+    Markdown Text Formatting by John Gruber    
+    http://daringfireball.net/projects/markdown
+
+    Markdown: Basics   
+    http://daringfireball.net/projects/markdown/basics
+
+    Markdown: Syntax    
+    http://daringfireball.net/projects/markdown/syntax
+
+    Markdown: Dingus (cool sandbox for practice-editing Markdown)
+    http://daringfireball.net/projects/markdown/dingus
+
+    Markdown Text Formatting (Wikipedia.org)
+    http://wikipedia.org/wiki/Markdown
+
+    Markup to format text (DiasporaTest.com)
+    http://diasporatest.com/index.php/Markup_to_format_text
+
+    Formatting text (Diasporial.com)
+    http://diasporial.com/tutorials/formatting-text
+
+    Formatting Text on Diaspora (DifferentComputers.com)
+    http://differentcomputers.com/diaspora-text-formatting
+
+## <a name="wiki-p">P</a>
+
 - **Pod**       
     **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.  They in turn can allow people to register for an account on what they call their **pod**.  There are many of these pods already established across the internet with many users.  You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.  No matter which pod you are on, you are all using **Diaspora**.  If you have the technical skills, you can even set up your own pod for your family and or friends.  They can in turn connect to family and friends on your pod or even other pods with ease.     
     http://whatIsDiaspora.com        [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.    
@@ -100,7 +127,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 - **Spore**       
     definition of **spore** ...     
 
-- **[Spored.de](http://Spored.de)**
+- **[Spored.de](http://Spored.de)**    
 
 ## <a name="wiki-w">W</a>
 
