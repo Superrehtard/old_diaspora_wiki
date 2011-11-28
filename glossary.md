@@ -20,10 +20,13 @@
 
 ## <a name="wiki-f">E F</a>
 
-- **Federation**      
-    **definition** of federation ...
+- **Federation**          
+    definition of **federation** ...       
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation
 
 ## <a name="wiki-g">G</a>
 
+- **Group or Forum**       
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    http://wikipedia.org/wiki/Internet_forum    
