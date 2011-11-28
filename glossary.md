@@ -84,6 +84,12 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
         https://github.com/diaspora/diaspora/wiki/Community-supported-pods
         http://wikipedia.org/wiki/Internet_forum    
 
-## <a name="wiki-q">Q</a>
+## <a name="wiki-s">S</a>   
 
+- **[Spored.de](https://Spored.de)**
 
+## <a name="wiki-w">W</a>
+
+- **[WhatIsDiaspora.org](https://WhatIsDiaspora.org)**
+
+## <a name="wiki-z">Z</a>
