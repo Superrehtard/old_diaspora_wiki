@@ -4,7 +4,7 @@
     
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
-## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) || [I](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-i) | [J](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-j) | [K](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) || [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
+## [A](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-a) | [B](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-b) | [C](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-c) | [D](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-d) | [E](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-e) | [F](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-f) | [G](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-g) | [H](https://GitHub.com/diaspora/diaspora/wiki/glossary/#wiki-h) || [I](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-i) | [J](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-j) | [K](https://GitHub.com/diaspora/diaspora/wiki/glossary2/#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) || [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
     
 ## <a name="wiki-a">A</a>    
     
