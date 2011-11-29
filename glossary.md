@@ -75,8 +75,10 @@
 
 - **Encryption**
 
-## <a name="wiki-f">F</a>
+## <a name="wiki-f">F</a>     
      
+- **Facebook.com**    
+       
 - **Featured Users**     
     **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
     http://diasporial.com/tutorials/follows-and-followers    
@@ -107,7 +109,9 @@
 - **[github.com](https://github.com/diaspora/diaspora)**      
     **This wiki page on github.com**    
     https://github.com/diaspora/diaspora/wiki/glossary    
-    
+     
+- **Google.com**    
+     
 - **Google Groups**     
     http://groups.google.com/group/diaspora-discuss     
     http://groups.google.com/group/diaspora-dev      
@@ -156,11 +160,15 @@
     http://webchat.freenode.net/?channels=diaspora      
     http://webchat.freenode.net/?channels=diaspora-dev      
     http://webchat.freenode.net/?channels=diaspora-de     
-     
-## <a name="wiki-j">J</a>
       
-- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+## <a name="wiki-j">J</a>     
      
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Linus Torvalds**   
+           
 ## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber    
@@ -196,6 +204,8 @@
 
 - **Mobile Device**
     
+- **Mozilla Firefox**     
+      
 ## <a name="wiki-n">N</a> 
   
 - **Netherlands**     
@@ -224,12 +234,20 @@
     **Community Supported Pods**      
     This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com).    
     https://github.com/diaspora/diaspora/wiki/Community-supported-pods     
+    
+- **Programming Language**   
+    HTML **|** XHTML **|** Ruby on Rails **|** Javascript **|** Java **|** CSS **|** C++ **|** Scripting Language
    
 - **Protocol** (Network or Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
    
+## <a name="wiki-r">R</a>   
+    
+- **Ruby on Rails**     
+    Programming Language    
+    
 ## <a name="wiki-s">S</a>   
 
 - **Seed**       
@@ -240,8 +258,12 @@
 
 - **[Spored.de](http://Spored.de)**    
 
-## <a name="wiki-w">W</a>
-
+## <a name="wiki-w">W</a>      
+     
+- **Yahoo.com**   
+    
+## <a name="wiki-w">W</a>    
+     
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
        
 ## <a name="wiki-z">Z</a>      
