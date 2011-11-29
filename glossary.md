@@ -135,7 +135,7 @@
 
 - **Hacker**    
     abbreviation for **developer, computer programmer, coder or dev**.    
-    The word **hacker** has different meanings, but in the world of **Diaspora** generally implies a computer programmer learning & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** on **open-source software** projects.       
+    The word **hacker** has multiple meanings, but in the world of **Diaspora** generally signifies a computer programmer learning & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** on **open-source software** projects.       
     http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
     http://wikipedia.org/wiki/Programmer  
     http://foldoc.org/programmer 
