@@ -9,6 +9,9 @@
 - **Aspect**   
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
+     
+    Ever wanted to to share something with just a certain group of people? &nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want. &nbsp; Of course, you can still tell the whole world too, if you want to.     
+    http://diasporafoundation.org 
 
 ## <a name="wiki-b">B</a>
 
@@ -22,7 +25,15 @@
 - **[Cubbi.es](http://Cubbi.es)**    
     
 ## <a name="wiki-d">D</a>
-
+   
+- **[Dev]**    
+    abbreviation for **developer, computer programmer or hacker**.    
+    http://diasporafoundation.org     
+    **Diaspora's Contributors**    
+    **Hackers**     
+    **Community Members**      
+    **Painters**   
+   
 - **[Diasp.de](http://Diasp.de)**   
 
 - **[Diasp.eu](http://Diasp.eu)**   
@@ -92,6 +103,13 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-h">H</a>
 
+- **#hashtag** (usually lowercase)
+    allow you to label and follow your interests. &nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
+    http://diasporafoundation.org          
+    #help      
+    #newhere     
+    #diaspora     
+      
 - **History of Diaspora**  	
     Diaspora is a social network created by people like you.  In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.  They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.  Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
     http://whatIsDiaspora.com
@@ -144,7 +162,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-p">P</a>
    
-- **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641)
+- **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641)**
     
 - **Pod**       
     **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.  They in turn can allow people to register for an account on what they call their **pod**.  There are many of these **pods** already established across the internet with many users.  You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.  No matter which **pod** you are on, you are all using **Diaspora**.  If you have the technical skills, you can even set up your own **pod** for your family and or friends.  They can in turn connect to family and friends on your **pod** or even other **pods** with ease.     
