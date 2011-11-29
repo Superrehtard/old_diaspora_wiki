@@ -103,7 +103,7 @@
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
 
 - **[github.com](https://github.com/diaspora/diaspora)**      
-    **This page on github.com**    
+    **This wiki page on github.com**    
     https://github.com/diaspora/diaspora/wiki/glossary    
     
 - **Google Groups**     
