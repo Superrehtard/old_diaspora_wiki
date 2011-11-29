@@ -4,10 +4,10 @@
 
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
-## A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y |  Z
-
+## [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | 
+     
 ## <a name="wiki-a">A</a>
-
+     
 - **Alpha**     
    
 - **Aspect**   
