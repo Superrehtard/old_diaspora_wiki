@@ -14,6 +14,13 @@
 
 - **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**   
 
+## <a name="wiki-c">C</a>
+   
+- **Conversation**   
+   a private message, shared with one or multiple followers. Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
+   
+- **[Cubbi.es](http://Cubbi.es)**    
+    
 ## <a name="wiki-d">D</a>
 
 - **[Diasp.de](http://Diasp.de)**   
@@ -89,6 +96,15 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     Diaspora is a social network created by people like you.  In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.  They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.  Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
     http://whatIsDiaspora.com
 
+- **HTTP & HTTP Secure**    
+    Hypertext Transfer **Protocol**   
+    http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol    
+    http://foldoc.org/http    
+    
+    Hypertext Transfer **Protocol**, Secure    
+    http://en.wikipedia.org/wiki/HTTP_Secure    
+    http://foldoc.org/https    
+  
 ## <a name="wiki-i">I</a>    
 
 - **IRC Channels**     
