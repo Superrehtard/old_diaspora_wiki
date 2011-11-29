@@ -11,7 +11,7 @@
 - **Alpha**     
     
 - **Austria** [Pods](#wiki-p)    
-    **[** [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) **]**     
+    [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]     
       
 - **Aspect**   
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
@@ -139,7 +139,7 @@
     allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
     **#hashtags** can help you **tag**, search & organize things by categories.     
-    **[** [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) **]**        
+    [ [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) ]        
     
 - **Handshake**    
     part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) requires computers to **shake hands**.     
@@ -207,10 +207,10 @@
     http://differentcomputers.com/diaspora-text-formatting    
 
 - **Markup Language**    
-    **[** HTML **|** XHTML **|** Markdown **|** text **]**     
+    [ HTML **|** XHTML **|** Markdown **|** text ]     
     
 - **Metaphor**    
-    **[** Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake **]**     
+    [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
 
 - **Mobile Device**
     
@@ -219,7 +219,7 @@
 ## <a name="wiki-n">N</a> 
   
 - **Netherlands**  [Pods](#wiki-p)     
-    [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net)
+    [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]    
    
 - **Network**     
    
@@ -246,14 +246,14 @@
     https://github.com/diaspora/diaspora/wiki/Community-supported-pods     
     
 - **Programming Language**   
-    HTML **|** XHTML **|** Ruby on Rails **|** Javascript **|** Java **|** CSS **|** C++ **|** Scripting Language
+    [ HTML **|** XHTML **|** Ruby on Rails **|** Javascript **|** Java **|** CSS **|** C++ **|** Scripting Language ]    
    
 - **Protocol** ([Network](#wiki-n) Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
     http://Wikipedia.org/wiki/Internet_Protocol         
-    [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h)
+    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]     
    
 ## <a name="wiki-r">R</a>   
 
@@ -279,7 +279,7 @@
 ## <a name="wiki-s">S</a>   
     
 - **United Kingdom** [Pods](#wiki-p)    
-    [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk)     
+    [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]         
     
 ## <a name="wiki-w">W</a>      
      
