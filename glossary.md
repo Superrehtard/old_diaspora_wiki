@@ -63,7 +63,11 @@
 - **Donate to Diaspora**   
     https://DiasporaFoundation.org/donate
 
-## <a name="wiki-f">E F</a>
+## <a name="wiki-e">E</a>
+
+- **Encryption**
+
+## <a name="wiki-f">F</a>
      
 - **Featured Users**     
     **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
@@ -107,7 +111,8 @@
 ## <a name="wiki-h">H</a>
 
 - **Hacker**    
-    abbreviation for **developer, computer programmer, coder or hacker**.    
+    abbreviation for **developer, computer programmer, coder or dev**.    
+    The word **hacker** has different meanings, but in the world of **Diaspora** generally implies a computer programmer learning & working outside of mainstream, commercial channels.  **Hackers** collaborate with other **hackers** on **open-source software** projects.
     http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
     http://wikipedia.org/wiki/Programmer  
     http://foldoc.org/programmer 
@@ -174,6 +179,12 @@
 - **Netherlands**     
     Nesc.io **|** social.mathaba.net **|** social.seawolfsanctuary.com **|** pod.orkz.net
 
+## <a name="wiki-o">O</a>
+    
+- **Open Source**    
+     
+- **Open Content**     
+    
 ## <a name="wiki-p">P</a>
    
 - **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641)**
