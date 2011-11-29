@@ -19,8 +19,10 @@
    
 - **Beta**    
      
-- **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**   
-
+- **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**     
+    
+- **Browser**    
+    
 ## <a name="wiki-c">C</a>
    
 - **Conversation**   
@@ -183,6 +185,8 @@
     Formatting Text on **Diaspora** (DifferentComputers.com)     
     http://differentcomputers.com/diaspora-text-formatting
 
+- **Mobile Device**
+    
 ## <a name="wiki-n">N</a> 
   
 - **Netherlands**     
@@ -232,3 +236,18 @@
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
 
 ## <a name="wiki-z">Z</a>
+   
+---
+     
+## Credits for this page
+  
+- **Diaspora**    
+     
+- **github.com**    
+   
+- **Wikipedia.org**   
+  
+- **FOLDOC**     
+    
+- **RichardTE**   
+ 
