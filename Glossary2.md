@@ -1,4 +1,4 @@
-# _Diaspora_ Wiki Glossary    
+# _Diaspora_ Wiki Glossary   CAP?    
     
 ### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk ! &nbsp; Typos !    
     
