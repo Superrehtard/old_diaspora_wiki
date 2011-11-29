@@ -148,8 +148,10 @@
     http://en.wikipedia.org/wiki/HTTP_Secure    
     http://foldoc.org/https    
   
-## <a name="wiki-i">I</a>    
-
+## <a name="wiki-i">I</a>      
+     
+- **Ilya Zhitomirskiy**     
+     
 - **IRC Channels**     
     http://webchat.freenode.net/?channels=diaspora      
     http://webchat.freenode.net/?channels=diaspora-dev      
