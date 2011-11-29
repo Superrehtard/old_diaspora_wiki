@@ -143,7 +143,9 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://differentcomputers.com/diaspora-text-formatting
 
 ## <a name="wiki-p">P</a>
-
+   
+- **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641)
+    
 - **Pod**       
     **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.  They in turn can allow people to register for an account on what they call their **pod**.  There are many of these **pods** already established across the internet with many users.  You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.  No matter which **pod** you are on, you are all using **Diaspora**.  If you have the technical skills, you can even set up your own **pod** for your family and or friends.  They can in turn connect to family and friends on your **pod** or even other **pods** with ease.     
     http://whatIsDiaspora.com        
