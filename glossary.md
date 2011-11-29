@@ -7,10 +7,10 @@
 ## <a name="wiki-a">A</a>
 
 - **Aspect**   
-    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**. These can be found on your left hand. The idea is that you sort your family members and co-workers into their corresponding aspects. This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
+    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
      
-    Ever wanted to to share something with just a certain group of people? &nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want. &nbsp; Of course, you can still tell the whole world too, if you want to.     
+    Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to.     
     http://diasporafoundation.org 
 
 ## <a name="wiki-b">B</a>
@@ -20,7 +20,7 @@
 ## <a name="wiki-c">C</a>
    
 - **Conversation**   
-   a private message, shared with one or multiple followers. Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
+   a private message, shared with one or multiple followers.&nbsp; Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
    
 - **[Cubbi.es](http://Cubbi.es)**    
     
@@ -48,12 +48,12 @@
     http://wikipedia.org/wiki/Diaspora_(software)
 
 - **Diaspora**        
-    a software that can be installed on a server by someone that has the knowledge to do so.  They in turn can allow people to register for an account on what they call their **pod**.  There are many of these pods already established across the internet with many users.  You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.  No matter which pod you are on, you are all using **Diaspora**.  If you have the technical skills, you can even set up your own pod for your family and or friends.  They can in turn connect to family and friends on your pod or even other pods with ease.     
+    a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease.     
     http://whatIsDiaspora.com    
     http://wikipedia.org/wiki/Diaspora_(social_network)    
 
 - **Diaspora Group or Forum**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**   
@@ -66,7 +66,7 @@
 ## <a name="wiki-f">E F</a>
      
 - **Featured Users**     
-Diaspora has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
+    **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
     http://diasporial.com/tutorials/follows-and-followers    
 
 - **Federation**          
@@ -75,17 +75,17 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://foldoc.org/federation     
 
 - **Follow** & **Follower** & **Mutual Follower**    
-    A **follow** is a person whom you are following. In order to follow a person you will have to add them to one or more of your aspects. The person will get access to your aspect(s) and you will automatically start following their public posts.    
+    A **follow** is a person whom you are following.&nbsp; In order to follow a person you will have to add them to one or more of your aspects.&nbsp; The person will get access to your aspect(s) and you will automatically start following their public posts.    
     http://diasporial.com/tutorials/follows-and-followers
     
-    A **follower** is a person who is following you. Followers are created automatically when a person adds you to one or more of their aspects. They will start following your public posts and you get to see their shared aspect.    
+    A **follower** is a person who is following you.&nbsp; Followers are created automatically when a person adds you to one or more of their aspects.&nbsp; They will start following your public posts and you get to see their shared aspect.    
     http://diasporial.com/tutorials/follows-and-followers   
 &nbsp;    
-    When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**. Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
+    When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**.&nbsp; Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers     
 
 - **Forum or Group**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-g">G</a>
@@ -101,7 +101,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://groups.google.com/group/diaspora-dev      
      
 - **Group or Forum**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-h">H</a>
@@ -113,14 +113,14 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://foldoc.org/programmer 
     http://foldoc.org/hacker        
      
-- **\#hashtag or \#tag** (usually lowercase to be more **search engine friendly**)      
-    allow you to label and follow your interests. &nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
+- **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**)      
+    allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
     **#hashtags** can help you **tag**, search & organize things by categories.     
     \#newhere **|** \#help **|** \#diaspora **|** \#dev **|** \#hacker **|** \#federation **|** \#meetup        
       
 - **History of Diaspora**  	
-    Diaspora is a social network created by people like you.  In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.  They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.  Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
+    **Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
     http://whatIsDiaspora.com
 
 - **HTTP & HTTP Secure**    
@@ -174,7 +174,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 - **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641)**
     
 - **Pod**       
-    **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.  They in turn can allow people to register for an account on what they call their **pod**.  There are many of these **pods** already established across the internet with many users.  You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.  No matter which **pod** you are on, you are all using **Diaspora**.  If you have the technical skills, you can even set up your own **pod** for your family and or friends.  They can in turn connect to family and friends on your **pod** or even other **pods** with ease.     
+    **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease.     
     http://whatIsDiaspora.com        
     [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.    
     [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.    
@@ -183,7 +183,7 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     https://github.com/diaspora/diaspora/wiki/Community-supported-pods
    
 - **Protocol** (Network or Communications)     
-   a set of formal rules describing how to transmit data, especially across a network. &nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
+   a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
    
