@@ -37,9 +37,11 @@
   
 - **[Cubbi.es](http://Cubbi.es)**    
     
-## <a name="wiki-d">D</a>
+## <a name="wiki-d">D</a>    
+      
+- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)      
    
-- **Dev**    
+- **Dev**     
     abbreviation for **developer, computer programmer, coder or hacker**.    
     http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
     http://wikipedia.org/wiki/Programmer  
@@ -50,7 +52,7 @@
     http://diasporafoundation.org/get_involved      
     [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]        
    
-- **[Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org](http://Diasp.org)**    
+- **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org](http://Diasp.org)**    
     
 - **Diaspora**       
     definition of **_Diaspora_** ...   
@@ -122,7 +124,9 @@
 - **Google Groups**     
     http://groups.google.com/group/diaspora-discuss     
     http://groups.google.com/group/diaspora-dev      
-     
+    
+- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
+      
 - **Group or Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
@@ -161,7 +165,8 @@
   
 ## <a name="wiki-i">I</a>      
      
-- **Ilya Zhitomirskiy**     
+- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)   
+    http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
     
 -  **IP | IPv4 | IPv6**     
     Internet **[Protocol](#wiki-p)**      
@@ -210,7 +215,9 @@
 
 - **Markup Language**    
     [ HTML **|** XHTML **|** Markdown **|** text ]     
-    
+       
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
+         
 - **Metaphor**    
     [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
 
@@ -258,7 +265,9 @@
     [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]     
    
 ## <a name="wiki-r">R</a>   
-
+    
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
+    
 - **Rails**        
     
 - **Ruby**        
@@ -266,19 +275,23 @@
 - **Ruby on Rails**     
     
 ## <a name="wiki-s">S</a>   
-
+     
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
+     
 - **Seed**       
     definition of **seed** ...     
     
 - **Serbia** [Pods](#wiki-p)     
     [DiasporaSerbia.org](https://diasporaserbia.org)    
-   
+    
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
+       
 - **Spore**       
     definition of **spore** ...     
 
 - **[Spored.de](http://Spored.de)**    
 
-## <a name="wiki-s">S</a>   
+## <a name="wiki-u">U</a>   
     
 - **United Kingdom** [Pods](#wiki-p)    
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]         
@@ -294,7 +307,10 @@
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
        
 ## <a name="wiki-z">Z</a>      
-     
+   
+- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)   
+    http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
+             
 ## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)     
 ---
          
