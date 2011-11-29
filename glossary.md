@@ -288,9 +288,9 @@
        
 - **Spore**       
     definition of **spore** ...     
-
+     
 - **[Spored.de](http://Spored.de)**    
-
+     
 ## <a name="wiki-u">U</a>   
     
 - **United Kingdom** [Pods](#wiki-p)    
