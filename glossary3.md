@@ -6,9 +6,9 @@
     
 ## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) || [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) || [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
     
-## <a name="wiki-a">A</a>    
+## <a name="wiki-a">A</a> (3)    
     
-- **Alpha** (3)   
+- **Alpha**    
     
 - **Austria** [Pods](#wiki-p)    
     [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]    
