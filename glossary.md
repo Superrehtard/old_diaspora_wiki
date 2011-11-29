@@ -6,6 +6,8 @@
 
 ## <a name="wiki-a">A</a>
 
+- **Alpha**     
+   
 - **Aspect**   
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
@@ -14,7 +16,9 @@
     http://diasporafoundation.org 
 
 ## <a name="wiki-b">B</a>
-
+   
+- **Beta**    
+     
 - **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**   
 
 ## <a name="wiki-c">C</a>
@@ -22,6 +26,8 @@
 - **Conversation**   
    a private message, shared with one or multiple followers.&nbsp; Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
    
+- **Copyleft**    
+  
 - **[Cubbi.es](http://Cubbi.es)**    
     
 ## <a name="wiki-d">D</a>
