@@ -2,9 +2,9 @@
     
 ### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk ! &nbsp; Typos ! &nbsp; [1](https://github.com/diaspora/diaspora/wiki/glossary/) [2](https://github.com/diaspora/diaspora/wiki/glossary2/) 3    
     
-**[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
-## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](./glossary2#wiki-i) | [J](./glossary2#wiki-j) | [K](./glossary2#wiki-k) | [L](./glossary2#wiki-l) | [M](./glossary2#wiki-m) | [N](./glossary2#wiki-n) | [O](./glossary2#wiki-o) | [P](./glossary2#wiki-p) | [Q](./glossary2#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
+## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](./glossary2#wiki-i) | [J](./glossary2#wiki-j) | [K](./glossary2#wiki-k) | [L](./glossary2#wiki-l) | [M](./glossary2#wiki-m) | [N](./glossary2#wiki-n) | [O](./glossary2#wiki-o) | [P](./glossary2#wiki-p) | [Q](./glossary2#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
     
 ## <a name="wiki-r">R</a>    
     
