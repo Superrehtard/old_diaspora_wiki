@@ -276,11 +276,11 @@
    
 ## <a name="wiki-s">S</a>    
      
+- **Seed**       
+    definition of **seed** ...    
+    
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
      
-- **Seed**       
-    definition of **seed** ...     
-    
 - **Serbia** [Pods](#wiki-p)     
     [ [DiasporaSerbia.org](https://diasporaserbia.org) ]       
     
