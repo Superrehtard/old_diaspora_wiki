@@ -32,9 +32,7 @@
     http://wikipedia.org/wiki/Programmer         
     **Diaspora's Contributors**     
     http://diasporafoundation.org/get_involved      
-    [Hackers](http://diasporafoundation.org/get_involved)     
-    [Community Members](http://diasporafoundation.org/get_involved)     
-    [Painters](http://diasporafoundation.org/get_involved)        
+    [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved)        
    
 - **[Diasp.de](http://Diasp.de)**   
 
