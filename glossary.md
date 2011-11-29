@@ -146,13 +146,14 @@
 ## <a name="wiki-h">H</a>
 
 - **Hacker**    
-    abbreviation for **developer, computer programmer, coder or dev**.    
-    The word **hacker** has multiple meanings, but in the world of **Diaspora** generally signifies a computer programmer learning & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** on **open-source software** projects.       
-    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
-    http://wikipedia.org/wiki/Programmer  
-    http://foldoc.org/programmer 
-    http://foldoc.org/hacker        
-     
+    indie **developer, computer programmer, coder or dev**.    
+    The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.    
+    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)    
+    http://en.wikipedia.org/wiki/Hacker_(term)    
+    http://wikipedia.org/wiki/Programmer    
+    http://foldoc.org/programmer    
+    http://foldoc.org/hacker    
+    
 - **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**)      
     allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
