@@ -264,7 +264,7 @@
     http://Wikipedia.org/wiki/Internet_Protocol         
     [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]     
    
-## <a name="wiki-r">R</a>   
+## <a name="wiki-r">R</a>
     
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
     
@@ -274,7 +274,7 @@
     
 - **Ruby on Rails**     
    
-## <a name="wiki-s">S</a>    
+## <a name="wiki-s">S</a>
      
 - **Seed**       
     definition of **seed** ...    
@@ -296,7 +296,7 @@
 - **United Kingdom** [Pods](#wiki-p)    
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]         
     
-## <a name="wiki-y">Y</a>      
+## <a name="wiki-y">Y</a>
      
 - **Yahoo.com**   
     
