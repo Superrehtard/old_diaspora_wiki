@@ -4,8 +4,8 @@
 
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
-## [A](#wiki-a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | 
-     
+## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)     
+       
 ## <a name="wiki-a">A</a>
      
 - **Alpha**     
