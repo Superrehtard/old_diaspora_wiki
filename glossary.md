@@ -174,15 +174,15 @@
 ## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber        
->    **Markdown** is a lightweight **markup language**.      
->    http://daringfireball.net/projects/markdown      
->       
->    **Markdown**: Basics       
->    http://daringfireball.net/projects/markdown/basics     
->       
->    **Markdown**: Syntax       
->    http://daringfireball.net/projects/markdown/syntax      
->     
+    **Markdown** is a lightweight **markup language**.      
+    http://daringfireball.net/projects/markdown      
+       
+    **Markdown**: Basics       
+    http://daringfireball.net/projects/markdown/basics     
+       
+    **Markdown**: Syntax       
+    http://daringfireball.net/projects/markdown/syntax      
+     
     **Markdown**: Dingus (cool sandbox for practice-editing **Markdown**)     
     http://daringfireball.net/projects/markdown/dingus
 
@@ -269,6 +269,8 @@
     
 ## <a name="wiki-w">W</a>    
      
+- **Wikipedia.org**    
+    
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
        
 ## <a name="wiki-z">Z</a>      
