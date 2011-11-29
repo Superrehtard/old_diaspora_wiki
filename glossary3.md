@@ -49,7 +49,7 @@
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]    
     
 - **United States** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.Urbanabydos.ca](https://diasp.urbanabydos.ca) **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ]    
+    [ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.UrbanAbydos.ca](https://diasp.urbanabydos.ca) **|** [Pod.NoCentre.net](https://pod.nocentre.net) **|** [Privit.us](https://privit.us) **|** [Exodus.net.nz](https://exodus.net.nz) **|** [Cryptospora.net](https://www.cryptospora.net) **|** [Diaspora.OCJtech.us](https://diaspora.ocjtech.us) **|** [Failure.net](https://failure.net) ]    
     
 ## <a name="wiki-y">Y</a>    
     
