@@ -97,11 +97,11 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://whatIsDiaspora.com
 
 - **HTTP & HTTP Secure**    
-    Hypertext Transfer **Protocol**   
+    **Hypertext Transfer Protocol** (http://)   
     http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol    
     http://foldoc.org/http    
     
-    Hypertext Transfer **Protocol**, Secure    
+    **Hypertext Transfer Protocol, Secure** (https://)    
     http://en.wikipedia.org/wiki/HTTP_Secure    
     http://foldoc.org/https    
   
@@ -153,7 +153,12 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     **Community Supported Pods**      
     https://github.com/diaspora/diaspora/wiki/Community-supported-pods
     http://wikipedia.org/wiki/Internet_forum    
-
+ 
+- **Protocol** (Network or Communications)     
+   a set of formal rules describing how to transmit data, especially across a network. &nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
+    http://foldoc.org/protocol 
+    http://Wikipedia.org/wiki/Communications_protocol    
+   
 ## <a name="wiki-s">S</a>   
 
 - **Spore**       
