@@ -42,6 +42,9 @@
 - **United Kingdom** [Pods](#wiki-p)    
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]    
     
+- **United States** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ]    
+    
 ## <a name="wiki-y">Y</a>    
     
 - **Yahoo.com**    
