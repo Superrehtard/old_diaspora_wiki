@@ -161,7 +161,10 @@
 ## <a name="wiki-i">I</a>      
      
 - **Ilya Zhitomirskiy**     
-     
+    
+-  **IP | IPv4 | IPv6**     
+    Internet **[Protocol](#wiki-p)**      
+       
 - **IRC Channels**     
     http://webchat.freenode.net/?channels=diaspora      
     http://webchat.freenode.net/?channels=diaspora-dev      
@@ -251,7 +254,7 @@
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
     http://Wikipedia.org/wiki/Internet_Protocol         
-    Diaspora **|** Federation **|** IP **|** IPv4 **|** IPv6 **|** HTTP **|** HTTPS
+    [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h)
    
 ## <a name="wiki-r">R</a>   
 
