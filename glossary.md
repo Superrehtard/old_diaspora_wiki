@@ -219,8 +219,8 @@
       
 ## <a name="wiki-n">N</a> 
   
-- **Netherlands**     
-    Nesc.io **|** social.mathaba.net **|** social.seawolfsanctuary.com **|** pod.orkz.net
+- **Netherlands**  [Pods](#wiki-p)     
+    [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [pod.orkz.net](https://Pod.Orkz.net)
    
 - **Network**     
    
@@ -291,13 +291,15 @@
          
 ### Credits for this page
   
-- **Diaspora**    
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
      
 - **[github.com](https://github.com/diaspora/diaspora)**    
    
 - **[Wikipedia.org](http://Wikipedia.org)**   
   
 - **[FOLDOC.org](http://FOLDOC.org)**     
+   
+- **[PodUpTi.me](http://PodUpTi.me)**
     
 - **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/richardte)**   
  
