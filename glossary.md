@@ -259,72 +259,72 @@
    
 - **Protocol** ([Network](#wiki-n) Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
-    http://foldoc.org/protocol      
+    http://foldoc.org/protocol    
     http://Wikipedia.org/wiki/Communications_protocol    
-    http://Wikipedia.org/wiki/Internet_Protocol         
-    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]     
-   
-## <a name="wiki-r">R</a>
+    http://Wikipedia.org/wiki/Internet_Protocol    
+    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]    
     
-- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
+## <a name="wiki-r">R</a>    
     
-- **Rails**        
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)    
     
-- **Ruby**        
+- **Rails**    
     
-- **Ruby on Rails**     
-   
-## <a name="wiki-s">S</a>
-     
+- **Ruby**    
+    
+- **Ruby on Rails**    
+    
+## <a name="wiki-s">S</a>    
+    
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)    
+    
 - **Seed**       
     definition of **seed** ...    
     
-- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
-     
 - **Serbia** [Pods](#wiki-p)     
-    [ [DiasporaSerbia.org](https://diasporaserbia.org) ]       
+    [ [DiasporaSerbia.org](https://diasporaserbia.org) ]    
     
-- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
-       
-- **Spore**       
-    definition of **spore** ...     
-     
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)    
+    
+- **Spore**    
+    definition of **spore** ...    
+    
 - **[Spored.de](http://Spored.de)**    
-     
-## <a name="wiki-u">U</a>   
+    
+## <a name="wiki-u">U</a>    
     
 - **United Kingdom** [Pods](#wiki-p)    
-    [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]         
+    [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]    
     
-## <a name="wiki-y">Y</a>
-     
-- **Yahoo.com**   
+## <a name="wiki-y">Y</a>    
+    
+- **Yahoo.com**    
     
 ## <a name="wiki-w">W</a>    
-     
+    
 - **Wikipedia.org**    
     
-- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
-       
-## <a name="wiki-z">Z</a>      
-   
-- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)   
-    http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
-             
-## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)     
----
-         
-### Credits for this page
-  
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
-     
-- **[GitHub.com](https://GitHub.com/diaspora)**    
-   
-- **[Wikipedia.org](http://Wikipedia.org)**   
-  
-- **[FOLDOC.org](http://FOLDOC.org)**     
-   
-- **[PodUpTi.me](http://PodUpTi.me)**
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**    
     
-- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**   
- 
+## <a name="wiki-z">Z</a>    
+    
+- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)    
+    http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
+    
+## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
+    
+---    
+    
+### Credits for this page    
+    
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
+    
+- **[GitHub.com](https://GitHub.com/diaspora)**    
+    
+- **[Wikipedia.org](http://Wikipedia.org)**    
+    
+- **[FOLDOC.org](http://FOLDOC.org)**    
+    
+- **[PodUpTi.me](http://PodUpTi.me)**    
+    
+- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**
