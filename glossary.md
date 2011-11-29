@@ -27,8 +27,9 @@
 ## <a name="wiki-d">D</a>
    
 - **[Dev]**    
-    abbreviation for **developer, computer programmer or hacker**.    
-    http://diasporafoundation.org     
+    abbreviation for **developer, computer programmer, coder or hacker**.    
+    http://foldoc.org/programmer     
+    http://wikipedia.org/wiki/Programmer         
     **Diaspora's Contributors**     
     http://diasporafoundation.org/get_involved      
     [Hackers](http://diasporafoundation.org/get_involved)     
