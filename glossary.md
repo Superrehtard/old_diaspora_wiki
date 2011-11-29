@@ -29,10 +29,11 @@
 - **[Dev]**    
     abbreviation for **developer, computer programmer or hacker**.    
     http://diasporafoundation.org     
-    **Diaspora's Contributors**    
-    **[Hackers](http://diasporafoundation.org/get_involved)**     
-    **[Community Members](http://diasporafoundation.org/get_involved)**     
-    **[Painters](http://diasporafoundation.org/get_involved)**        
+    **Diaspora's Contributors**     
+    http://diasporafoundation.org/get_involved      
+    [Hackers](http://diasporafoundation.org/get_involved)     
+    [Community Members](http://diasporafoundation.org/get_involved)     
+    [Painters](http://diasporafoundation.org/get_involved)        
    
 - **[Diasp.de](http://Diasp.de)**   
 
