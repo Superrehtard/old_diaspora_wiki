@@ -30,9 +30,9 @@
     abbreviation for **developer, computer programmer or hacker**.    
     http://diasporafoundation.org     
     **Diaspora's Contributors**    
-    **Hackers**     
-    **Community Members**      
-    **Painters**   
+    **[Hackers](http://diasporafoundation.org/get_involved)**     
+    **[Community Members](http://diasporafoundation.org/get_involved)**     
+    **[Painters](http://diasporafoundation.org/get_involved)**        
    
 - **[Diasp.de](http://Diasp.de)**   
 
