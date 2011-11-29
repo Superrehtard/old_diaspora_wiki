@@ -167,6 +167,8 @@
    
 ## <a name="wiki-l">L</a>
      
+- **Like**    
+    
 - **Linus Torvalds**   
            
 ## <a name="wiki-m">M</a>
