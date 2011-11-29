@@ -11,7 +11,7 @@
 - **Alpha**     
     
 - **Austria** [Pods](#wiki-p)    
-    [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at)    
+    **[** [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) **]**     
       
 - **Aspect**   
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
@@ -139,7 +139,7 @@
     allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
     **#hashtags** can help you **tag**, search & organize things by categories.     
-    [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h)        
+    **[** [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) **]**        
     
 - **Handshake**    
     part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) requires computers to **shake hands**.     
@@ -207,10 +207,10 @@
     http://differentcomputers.com/diaspora-text-formatting    
 
 - **Markup Language**    
-    HTML **|** XHTML **|** Markdown **|** text     
+    **[** HTML **|** XHTML **|** Markdown **|** text **]**     
     
 - **Metaphor**    
-    Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake     
+    **[** Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake **]**     
 
 - **Mobile Device**
     
