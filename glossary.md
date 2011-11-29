@@ -308,5 +308,5 @@
    
 - **[PodUpTi.me](http://PodUpTi.me)**
     
-- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/richardte)**   
+- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**   
  
