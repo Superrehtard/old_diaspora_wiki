@@ -129,7 +129,10 @@
     http://diasporafoundation.org          
     **#hashtags** can help you **tag**, search & organize things by categories.     
     [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h)        
-      
+    
+- **Handshake** 
+    part of a **network protocol**.&nbsp; Sometimes a **protocol** is abbreviated as a **handshake**.   
+       
 - **History of Diaspora**  	
     **Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
     http://whatIsDiaspora.com
@@ -184,7 +187,11 @@
   
 - **Netherlands**     
     Nesc.io **|** social.mathaba.net **|** social.seawolfsanctuary.com **|** pod.orkz.net
-
+   
+- **Network**     
+   
+- **Network Protocol**   
+     
 ## <a name="wiki-o">O</a>
     
 - **Open Source**    
