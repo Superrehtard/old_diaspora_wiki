@@ -240,12 +240,12 @@
 
 ## <a name="wiki-w">W</a>
 
-- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
-
-## <a name="wiki-z">Z</a>
-   
----
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-z">Z</a>      
      
+---
+         
 ### Credits for this page
   
 - **Diaspora**    
@@ -256,5 +256,5 @@
   
 - **FOLDOC**     
     
-- **@RichardTE**   
+- **@RichardTE & @D_Group**   
  
