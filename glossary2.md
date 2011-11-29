@@ -22,7 +22,7 @@
 ## <a name="wiki-j">J</a>     
      
 - **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [   **|**  **|**  **|**  ]    
+    [ [Mispora.net](https://mispora.net) ]    
 
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
