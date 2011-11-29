@@ -26,10 +26,13 @@
     
 ## <a name="wiki-d">D</a>
    
-- **[Dev]**    
+- **Dev**    
     abbreviation for **developer, computer programmer, coder or hacker**.    
-    http://foldoc.org/programmer     
-    http://wikipedia.org/wiki/Programmer         
+    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
+    http://wikipedia.org/wiki/Programmer  
+    http://foldoc.org/programmer 
+    http://foldoc.org/hacker        
+            
     **Diaspora's Contributors**     
     http://diasporafoundation.org/get_involved      
     [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved)        
@@ -103,7 +106,14 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
 
 ## <a name="wiki-h">H</a>
 
-- **#hashtag** (usually lowercase)
+- **Hacker**    
+    abbreviation for **developer, computer programmer, coder or hacker**.    
+    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
+    http://wikipedia.org/wiki/Programmer  
+    http://foldoc.org/programmer 
+    http://foldoc.org/hacker        
+     
+- **#hashtag** (usually lowercase to be **search engine friendly**)
     allow you to label and follow your interests. &nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
     #help      
