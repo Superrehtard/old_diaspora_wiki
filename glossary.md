@@ -180,7 +180,8 @@
     [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.    
 
     **Community Supported Pods**      
-    https://github.com/diaspora/diaspora/wiki/Community-supported-pods
+    This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com).    
+    https://github.com/diaspora/diaspora/wiki/Community-supported-pods     
    
 - **Protocol** (Network or Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
