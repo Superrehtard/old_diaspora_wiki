@@ -111,9 +111,11 @@
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
 
-- **[github.com](https://github.com/diaspora/diaspora)**      
-    **This wiki page on github.com**    
-    https://github.com/diaspora/diaspora/wiki/glossary    
+- **[GitHub.com](https://github.com/diaspora/diaspora)** 
+    a web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site.    
+    http://Wikipedia.org/wiki/GitHub     
+    **This wiki page is on GitHub.com**    
+    https://GitHub.com/diaspora/diaspora/wiki/glossary    
      
 - **Google.com**    
      
@@ -181,7 +183,7 @@
            
 ## <a name="wiki-m">M</a>
 
-- **Markdown Text Formatting** by John Gruber        
+- **Markdown Text Formatting** by John Gruber & Aaron Swartz        
     **Markdown** is a lightweight **markup language**.      
     http://daringfireball.net/projects/markdown      
        
@@ -300,7 +302,7 @@
   
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
      
-- **[github.com](https://github.com/diaspora/diaspora)**    
+- **[GitHub.com](https://GitHub.com/diaspora/diaspora)**    
    
 - **[Wikipedia.org](http://Wikipedia.org)**   
   
