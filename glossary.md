@@ -286,11 +286,11 @@
   
 - **Diaspora**    
      
-- **github.com**    
+- **[github.com](https://github.com/diaspora/diaspora)**    
    
-- **Wikipedia.org**   
+- **[Wikipedia.org](http://Wikipedia.org)**   
   
-- **FOLDOC**     
+- **[FOLDOC.org](http://FOLDOC.org)**     
     
-- **@RichardTE & @D_Group**   
+- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/richardte)**   
  
