@@ -291,6 +291,10 @@
     
 - **[Spored.de](http://Spored.de)**    
     
+## <a name="wiki-t">T</a>    
+    
+- **Linus Torvalds**    
+    
 ## <a name="wiki-u">U</a>    
     
 - **United Kingdom** [Pods](#wiki-p)    
