@@ -113,12 +113,11 @@ Diaspora has the coolest strangers short listed for you on the **Featured Users*
     http://foldoc.org/programmer 
     http://foldoc.org/hacker        
      
-- **#hashtag** (usually lowercase to be **search engine friendly**)
+- **#hashtag** (usually lowercase to be **search engine friendly**)      
     allow you to label and follow your interests. &nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
-    #help      
-    #newhere     
-    #diaspora     
+    **#hashtags** can help you search & organize things by categories.
+    \#newhere **|** \#help **|** \#diaspora **|** \#dev **|** \#hacker **|** \#federation **|** \#meetup       
       
 - **History of Diaspora**  	
     Diaspora is a social network created by people like you.  In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.  They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.  Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
