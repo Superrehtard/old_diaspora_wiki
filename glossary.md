@@ -306,6 +306,186 @@
     
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
        
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
+## <a name="wiki-w">W</a>    
+     
+- **Wikipedia.org**    
+    
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**       
+       
 ## <a name="wiki-z">Z</a>      
    
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)   
