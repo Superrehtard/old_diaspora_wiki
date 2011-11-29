@@ -239,7 +239,7 @@
    
 ---
      
-## Credits for this page
+### Credits for this page
   
 - **Diaspora**    
      
