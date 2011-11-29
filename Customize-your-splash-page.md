@@ -7,3 +7,11 @@ A very basic example would be something like:
   .center
     %h2 Welcome to my pod!
 ```
+
+The file config/routes.rb lists the mapping between request and controllers. The lines concerning the splash screen are:
+```ruby
+  # Startpage
+  root :to => 'home#show'
+```
+
+You must delete the index.html in the apps/public directory, if any, as rails gives precedence to static content before serving dynamic content.
