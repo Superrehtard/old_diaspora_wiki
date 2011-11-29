@@ -37,6 +37,9 @@
     
 - **[Cubbi.es](http://Cubbi.es)**    
     
+- **Czech Republic** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [   **|**  **|**  **|**  ]    
+    
 ## <a name="wiki-d">D</a>    
     
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
