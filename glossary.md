@@ -29,30 +29,30 @@
 - **Browser**    
     
 ## <a name="wiki-c">C</a>    
-   
-- **Conversation**   
+    
+- **Conversation**    
    a private message, shared with one or multiple followers.&nbsp; Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
-   
+    
 - **Copyleft**    
-  
+    
 - **[Cubbi.es](http://Cubbi.es)**    
     
 ## <a name="wiki-d">D</a>    
-      
-- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)      
-   
-- **Dev**     
+    
+- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
+    
+- **Dev**    
     abbreviation for **developer, computer programmer, coder or hacker**.    
-    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)   
-    http://wikipedia.org/wiki/Programmer  
-    http://foldoc.org/programmer 
-    http://foldoc.org/hacker        
-            
-    **Diaspora's Contributors**     
-    http://diasporafoundation.org/get_involved      
-    [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]        
-   
-- **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org](http://Diasp.org)**    
+    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)    
+    http://wikipedia.org/wiki/Programmer    
+    http://foldoc.org/programmer    
+    http://foldoc.org/hacker    
+    
+    **Diaspora's Contributors**    
+    http://diasporafoundation.org/get_involved    
+    [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]    
+    
+- **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
 - **Diaspora**       
     definition of **_Diaspora_** ...   
