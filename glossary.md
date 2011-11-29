@@ -106,7 +106,10 @@
 - **Forum or Group**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
-     
+    
+- **France** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ]    
+    
 - **Friend or Unfriend**   
     
 ## <a name="wiki-g">G</a>    
