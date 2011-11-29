@@ -187,9 +187,10 @@
     http://differentcomputers.com/diaspora-text-formatting    
 
 - **Markup Language**    
-    HTML    
-    XHTML    
-    Markdown     
+    HTML **|** XHTML **|** Markdown **|** text     
+    
+- **Metaphor**    
+    Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake     
 
 - **Mobile Device**
     
