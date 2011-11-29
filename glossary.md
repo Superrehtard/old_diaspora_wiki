@@ -1,6 +1,6 @@
 # _Diaspora_ Wiki Glossary    
     
-### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk !    
+### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk ! &nbsp; Typos !    
     
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
