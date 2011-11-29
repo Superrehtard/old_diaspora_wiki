@@ -1,34 +1,34 @@
-# _Diaspora_ Wiki Glossary
-
-### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk !
-
-**[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
-
-## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)     
-       
-## <a name="wiki-a">A</a>
-     
-- **Alpha**     
+# _Diaspora_ Wiki Glossary    
+    
+### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk !    
+    
+**[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
+    
+## [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
+    
+## <a name="wiki-a">A</a>    
+    
+- **Alpha**    
     
 - **Austria** [Pods](#wiki-p)    
-    [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]     
-      
-- **Aspect**   
-    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
-    http://diasporial.com/tutorials/interface-and-aspects   
-     
-    Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to.     
-    http://diasporafoundation.org 
-
-## <a name="wiki-b">B</a>
-   
+    [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]    
+    
+- **Aspect**    
+    An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.    
+    http://diasporial.com/tutorials/interface-and-aspects    
+    
+    Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to.    
+    http://diasporafoundation.org    
+    
+## <a name="wiki-b">B</a>    
+    
 - **Beta**    
-     
-- **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**     
+    
+- **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**    
     
 - **Browser**    
     
-## <a name="wiki-c">C</a>
+## <a name="wiki-c">C</a>    
    
 - **Conversation**   
    a private message, shared with one or multiple followers.&nbsp; Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
