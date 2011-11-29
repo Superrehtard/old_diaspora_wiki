@@ -28,10 +28,16 @@
     
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)    
     
+- **Spain** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [ [Jaupora.com](https://jauspora.com) ]    
+    
 - **Spore**    
     definition of **spore** ...    
     
 - **[Spored.de](http://Spored.de)**    
+    
+- **Sweden** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [ [Diaspor.at](https://diaspor.at) ]    
     
 ## <a name="wiki-t">T</a>    
     
