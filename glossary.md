@@ -109,8 +109,11 @@
      
 - **Friend or Unfriend**   
     
-## <a name="wiki-g">G</a>
-
+## <a name="wiki-g">G</a>    
+   
+- **Germany** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ] 
+    
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
 
 - **[GitHub.com](https://github.com/diaspora/diaspora)** 
