@@ -250,6 +250,8 @@
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
+    http://Wikipedia.org/wiki/Internet_Protocol         
+    Diaspora **|** Federation **|** IP **|** IPv4 **|** IPv6 **|** HTTP **|** HTTPS
    
 ## <a name="wiki-r">R</a>   
 
