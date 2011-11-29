@@ -282,7 +282,7 @@
     definition of **seed** ...     
     
 - **Serbia** [Pods](#wiki-p)     
-    [DiasporaSerbia.org](https://diasporaserbia.org)    
+    [ [DiasporaSerbia.org](https://diasporaserbia.org) ]       
     
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)      
        
