@@ -21,6 +21,9 @@
       
 ## <a name="wiki-j">J</a>     
      
+- **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
+    [   **|**  **|**  **|**  ]    
+
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
 ## <a name="wiki-l">L</a>
