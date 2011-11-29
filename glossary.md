@@ -331,4 +331,375 @@
     
 - **[PodUpTi.me](http://PodUpTi.me)**    
     
-- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**
+- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**    
+    
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
+## <a name="wiki-j">J</a>     
+     
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
+   
+## <a name="wiki-l">L</a>
+     
+- **Like or Unlike**    
+    
+- **Linus Torvalds**   
+           
