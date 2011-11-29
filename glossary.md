@@ -9,7 +9,10 @@
 ## <a name="wiki-a">A</a>
      
 - **Alpha**     
-   
+    
+- **Austria** [Pods](#wiki-p)    
+    [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at)    
+      
 - **Aspect**   
     An aspect would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily.   
     http://diasporial.com/tutorials/interface-and-aspects   
@@ -268,12 +271,20 @@
 
 - **Seed**       
     definition of **seed** ...     
-
+    
+- **Serbia** [Pods](#wiki-p)     
+    [DiasporaSerbia.org](https://diasporaserbia.org)    
+   
 - **Spore**       
     definition of **spore** ...     
 
 - **[Spored.de](http://Spored.de)**    
 
+## <a name="wiki-s">S</a>   
+    
+- **United Kingdom** [Pods](#wiki-p)    
+    [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk)     
+    
 ## <a name="wiki-w">W</a>      
      
 - **Yahoo.com**   
