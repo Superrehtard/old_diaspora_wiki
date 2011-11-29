@@ -238,15 +238,18 @@
 - **Programming Language**   
     HTML **|** XHTML **|** Ruby on Rails **|** Javascript **|** Java **|** CSS **|** C++ **|** Scripting Language
    
-- **Protocol** (Network or Communications)     
+- **Protocol** (Network Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
     http://foldoc.org/protocol      
     http://Wikipedia.org/wiki/Communications_protocol    
    
 ## <a name="wiki-r">R</a>   
+
+- **Rails**        
+    
+- **Ruby**        
     
 - **Ruby on Rails**     
-    Programming Language    
     
 ## <a name="wiki-s">S</a>   
 
