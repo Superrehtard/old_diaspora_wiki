@@ -101,7 +101,9 @@
 - **Forum or Group**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
-
+     
+- **Friend or Unfriend**   
+    
 ## <a name="wiki-g">G</a>
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
@@ -167,7 +169,7 @@
    
 ## <a name="wiki-l">L</a>
      
-- **Like**    
+- **Like or Unlike**    
     
 - **Linus Torvalds**   
            
