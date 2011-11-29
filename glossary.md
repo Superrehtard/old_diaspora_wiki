@@ -83,6 +83,9 @@
 
 ## <a name="wiki-f">F</a>     
      
+- **FAQ for Users**    
+    https://github.com/diaspora/diaspora/wiki/FAQ-for-Users    
+    
 - **Facebook.com**    
        
 - **Featured Users**     
