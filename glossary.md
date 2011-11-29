@@ -90,7 +90,7 @@
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation     
 
-- **[FOLDOC.org](http://FOLDOC.org) —** Free Online Dictionary Of Computing (classic site)
+- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
 
 - **Follow | Follower | Mutual Follower**    
     A **follow** is a person whom you are following.&nbsp; In order to follow a person you will have to add them to one or more of your aspects.&nbsp; The person will get access to your aspect(s) and you will automatically start following their public posts.    
