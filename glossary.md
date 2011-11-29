@@ -50,12 +50,8 @@
     http://diasporafoundation.org/get_involved      
     [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved)        
    
-- **[Diasp.de](http://Diasp.de)**   
-
-- **[Diasp.eu](http://Diasp.eu)**   
-
-- **[Diasp.org](http://Diasp.org)**   
-
+- **[Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org](http://Diasp.org)**    
+    
 - **Diaspora**       
     definition of **_Diaspora_** ...   
     http://wikipedia.org/wiki/Diaspora_(software)
