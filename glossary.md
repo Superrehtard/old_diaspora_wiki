@@ -114,7 +114,7 @@
     http://wikipedia.org/wiki/Internet_forum    
     
 - **France** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ]    
+    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  ]    
     
 - **Friend or Unfriend**   
     
@@ -148,8 +148,8 @@
 - **Hacker**    
     indie **developer, computer programmer, coder or dev**.    
     The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.    
-    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)    
-    http://en.wikipedia.org/wiki/Hacker_(term)    
+    http://wikipedia.org/wiki/Hacker_(programmer_subculture)    
+    http://wikipedia.org/wiki/Hacker_(term)    
     http://wikipedia.org/wiki/Programmer    
     http://foldoc.org/programmer    
     http://foldoc.org/hacker    
