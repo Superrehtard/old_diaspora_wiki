@@ -281,7 +281,7 @@
 - **United Kingdom** [Pods](#wiki-p)    
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]         
     
-## <a name="wiki-w">W</a>      
+## <a name="wiki-y">Y</a>      
      
 - **Yahoo.com**   
     
