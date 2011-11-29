@@ -118,7 +118,7 @@
 ## <a name="wiki-g">G</a>    
    
 - **Germany** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**  **|**   ] 
+    [ [WK3.org](https://wk3.org) **|** [Diasp.de](https://diasp.de) **|** [Diasp.eu](https://diasp.eu) **|** [Nerdpol.ch](https://nerdpol.ch) **|** [Despora.de](https://despora.de) **|** [My-Seed.com](https://my-seed.com) **|** [Stylr.net](https://stylr.net) **|** [Loofi.de](https://loofi.de) **|** [ILikeFreedom.org](https://ilikefreedom.org) **|** [Diaspora.Subsignal.org](https://diaspora.subsignal.org) **|** [Diaspora.F4N.de](https://diaspora.f4n.de) **|** [Dipod.es](https://dipod.es) **|** [Yaspora.com](https://yaspora.com) **|** [Dipod.org](https://dipod.org) **|** [Diaspora.Death-Head.ch](http://diaspora.death-head.ch) **|** [Pod.Geraspora.de](https://pod.geraspora.de) **|** [Hasst-Euch-Alle.de](https://hasst-euch-alle.de) **|** [SeeYouThere.de](http://SeeYouThere.de) **|** [Pod.Haxxors.com](http://pod.haxxors.com) **|** [Marsoc.de](https://marsoc.de) ]    
     
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
 
