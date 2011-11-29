@@ -273,9 +273,9 @@
 - **Ruby**        
     
 - **Ruby on Rails**     
+   
+## <a name="wiki-s">S</a>   
     
-## <a name="wiki-s">S</a>     
-     
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
      
 - **Seed**       
