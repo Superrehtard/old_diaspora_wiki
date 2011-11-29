@@ -302,7 +302,7 @@
   
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
      
-- **[GitHub.com](https://GitHub.com/diaspora/diaspora)**    
+- **[GitHub.com](https://GitHub.com/diaspora)**    
    
 - **[Wikipedia.org](http://Wikipedia.org)**   
   
