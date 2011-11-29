@@ -4,7 +4,7 @@
 
 **[@RichardTE](https://Diasp.org/u/richardte)** is also working on a **[_Diaspora_ Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
-## [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | 
+## [A](#wiki-a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | [A](#a) | 
      
 ## <a name="wiki-a">A</a>
      
