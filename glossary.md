@@ -146,7 +146,7 @@
 ## <a name="wiki-h">H</a>
 
 - **Hacker**    
-    indie **developer, computer programmer, coder or dev**.    
+    indie **computer programmer, coder, developer or dev**.    
     The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.    
     http://wikipedia.org/wiki/Hacker_(programmer_subculture)    
     http://wikipedia.org/wiki/Hacker_(term)    
