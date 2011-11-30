@@ -2,12 +2,22 @@
     
 ### This Page is Under Construction [1](https://github.com/diaspora/diaspora/wiki/glossary/) [2](https://github.com/diaspora/diaspora/wiki/glossary2/) 3    
     
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
-    
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
+
 <a name="wiki-a"><table><tr>
 <td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td>
-</tr></table></a>     
-      
+</tr></table></a>
+
+---   
+
+<a name="wiki-a"><table><tr>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td>
+</tr><td>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td>
+</tr></table></a>
+
+
+---   
 
 
 
