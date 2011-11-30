@@ -4,7 +4,9 @@
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
----
+---    
+    
+![Diaspora* logo](http://www.diasporafoundation.org/images/logo.png?1319762059)   
     
 ### ___________________________________________________________________________________ [A](#wiki-a) | [B](#wiki-b) | [C](#wiki-c) | [D](#wiki-d) | [E](#wiki-e) | [F](#wiki-f) | [G](#wiki-g) | [H](#wiki-h) | [I](./glossary2#wiki-i) | [J](./glossary2#wiki-j) | [K](./glossary2#wiki-k) | [L](./glossary2#wiki-l) | [M](./glossary2#wiki-m) | [N](./glossary2#wiki-n) | [O](./glossary2#wiki-o) | [P](./glossary2#wiki-p) | [Q](./glossary2#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
     
