@@ -3,9 +3,11 @@
 ### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)    
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
-    
-### [_______________________________________________________________________________________________](#) [A]&nbsp;&nbsp;|&nbsp;&nbsp;[B]&nbsp;&nbsp;|&nbsp;&nbsp;[C]&nbsp;&nbsp;|&nbsp;&nbsp;[D]&nbsp;&nbsp;|&nbsp;&nbsp;[E]&nbsp;&nbsp;|&nbsp;&nbsp;[F](#wiki-f)&nbsp;&nbsp;|&nbsp;&nbsp;[G](#wiki-g)&nbsp;&nbsp;|&nbsp;&nbsp;[H](#wiki-h)&nbsp;&nbsp;|&nbsp;&nbsp;[I](./glossary2#wiki-i)&nbsp;&nbsp;|&nbsp;&nbsp;[J](./glossary2#wiki-j)&nbsp;&nbsp;|&nbsp;&nbsp;[K](./glossary2#wiki-k)&nbsp;&nbsp;|&nbsp;&nbsp;[L](./glossary2#wiki-l)&nbsp;&nbsp;|&nbsp;&nbsp;[M](./glossary2#wiki-m)&nbsp;&nbsp;|&nbsp;&nbsp;[N](./glossary2#wiki-n)&nbsp;&nbsp;|&nbsp;&nbsp;[O](./glossary2#wiki-o)&nbsp;&nbsp;|&nbsp;&nbsp;[P](./glossary2#wiki-p)&nbsp;&nbsp;|&nbsp;&nbsp;[Q](./glossary2#wiki-q)&nbsp;&nbsp;|&nbsp;&nbsp;[R](./glossary3#wiki-r)&nbsp;&nbsp;|&nbsp;&nbsp;[S](./glossary3#wiki-s)&nbsp;&nbsp;|&nbsp;&nbsp;[T](./glossary3#wiki-t)&nbsp;&nbsp;|&nbsp;&nbsp;[U](./glossary3#wiki-u)&nbsp;&nbsp;|&nbsp;&nbsp;[V](./glossary3#wiki-v)&nbsp;&nbsp;|&nbsp;&nbsp;[W](./glossary3#wiki-w)&nbsp;&nbsp;|&nbsp;&nbsp;[X](./glossary3#wiki-x)&nbsp;&nbsp;|&nbsp;&nbsp;[Y](./glossary3#wiki-y)&nbsp;&nbsp;|&nbsp;&nbsp;[Z](./glossary3#wiki-z)    
-    
+   
+<a><table><tr>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td><td> [f] </td><td> [g] </td><td> [h] </td><td> [i] </td><td> [j] </td><td> [k] </td><td> [l] </td><td> [m] </td><td> [n] </td><td> [o] </td><td> [p] </td><td> [q] </td><td> [r] </td><td> [s] </td><td> [t] </td><td> [u] </td><td> [v] </td><td> [w] </td><td> [x] </td><td> [y] </td><td> [z] </td>
+</tr></table></a>     
+     
 ## <a name="wiki-a">A</a>    
 <!-- - - - - - - - - - - A - - - - - - - - - - - - -->    
     
