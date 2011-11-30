@@ -190,19 +190,15 @@
 ### Credits for this page    
     
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
-    
 - **[GitHub.com](https://GitHub.com/diaspora)**    
-    
 - **[Wikipedia.org](http://Wikipedia.org)**    
-    
 - **[FOLDOC.org](http://FOLDOC.org)**    
-    
 - **[PodUpTi.me](http://PodUpTi.me)**    
-    
 - **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**    
     
-## Linking to this page    
+## Linking to letters on this page    
     
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (A-H)
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (I-Q)
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (R-Z)
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (a-h)    
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (i-q)    
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (r-z)    
+- https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
