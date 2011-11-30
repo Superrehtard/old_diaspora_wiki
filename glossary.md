@@ -176,10 +176,12 @@
 
 - **HTTP | HTTP Secure**    
     **Hypertext Transfer Protocol** (http://)   
+    
     http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol    
     http://foldoc.org/http    
     
     **Hypertext Transfer Protocol, Secure** (https://)    
+    
     http://en.wikipedia.org/wiki/HTTP_Secure    
     http://foldoc.org/https    
       
