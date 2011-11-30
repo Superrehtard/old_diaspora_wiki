@@ -4,9 +4,9 @@
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
-## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
-    
-## <a name="wiki-i">I</a>      
+<a name="wiki-a"><table><tr>
+<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+</tr></table></a>     
      
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)   
     http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
@@ -122,7 +122,9 @@
     
     [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]    
     
-## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
+<a name="wiki-a"><table><tr>
+<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+</tr></table></a>     
     
 ---    
     
