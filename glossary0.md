@@ -23,7 +23,7 @@ Not intended for public consumption.
 
 <table>
   <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
+    <td>ID</td><td>Name</td><th>Rank</td>
   </tr>
 </table>
 
