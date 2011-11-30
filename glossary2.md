@@ -54,16 +54,13 @@
 
     **Markdown** Text Formatting (Wikipedia.org)      
     http://wikipedia.org/wiki/Markdown
-
-    **Markdown** to format text (DiasporaTest.com)      
-    http://diasporatest.com/index.php/Markup_to_format_text
-
-    Formatting text (Diasporial.com)      
-    http://diasporial.com/tutorials/formatting-text
-
-    Formatting Text on **Diaspora** (DifferentComputers.com)     
+    
+    **Markdown** text formatting on **Diaspora**      
+    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
+    http://diasporatest.com/index.php/Markup_to_format_text    
     http://differentcomputers.com/diaspora-text-formatting    
-
+    http://diasporial.com/tutorials/formatting-text    
+    
 - **Markup Language**    
     
     [ HTML **|** XHTML **|** Markdown **|** text ]     
