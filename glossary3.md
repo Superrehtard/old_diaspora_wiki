@@ -5,7 +5,7 @@
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
 <a name="wiki-a"><table><tr>
-<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td>
 </tr></table></a>     
       
 <a name="wiki-a"><table><tr>
