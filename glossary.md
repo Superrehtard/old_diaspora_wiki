@@ -5,7 +5,7 @@
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
    
 <a name="wiki-a"><table><tr>
-<td> **A** </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td><td> [f] </td><td> [g] </td><td> [h] </td><td> [i] </td><td> [j] </td><td> [k] </td><td> [l] </td><td> [m] </td><td> [n] </td><td> [o] </td><td> [p] </td><td> [q] </td><td> [r] </td><td> [s] </td><td> [t] </td><td> [u] </td><td> [v] </td><td> [w] </td><td> [x] </td><td> [y] </td><td> [z] </td>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td><td> [f] </td><td> [g] </td><td> [h] </td><td> [i] </td><td> [j] </td><td> [k] </td><td> [l] </td><td> [m] </td><td> [n] </td><td> [o] </td><td> [p] </td><td> [q] </td><td> [r] </td><td> [s] </td><td> [t] </td><td> [u] </td><td> [v] </td><td> [w] </td><td> [x] </td><td> [y] </td><td> [z] </td>
 </tr></table></a>     
          
 <a name="wiki-a"><table><tr>
