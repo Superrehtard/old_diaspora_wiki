@@ -212,5 +212,3 @@
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
     
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
-
-
