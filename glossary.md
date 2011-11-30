@@ -212,3 +212,5 @@
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
     
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
+
+[[Image:Whttp://upload.wikimedia.org/wikipedia/commons/3/39/Westminstpalace.jpg|alt text]]
