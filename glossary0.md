@@ -48,9 +48,9 @@ Not intended for public consumption.
 
 ---
 
-<a><small><table><tr>
+<a><table bgcolor="silver" cellpadding=""0><tr>
 <th>[A]</th><th>[B]</th><th>[C]</th><th>[D]</th><th>[E]</th><th> F </th><th> G </th><th> H </th><th> I </th><th> J </th><th> K </th><th> L </th><th> M </th><th> N </th><th> O </th><th> P </th><th> Q </th><th> R </th><th> S </th><th> T </th><th> U </th><th> V </th><th> W </th><th> X </th><th> Y </th><th> Z </th> 
-</tr></table><small></a>
+</tr></table></a>
 
 <a style="background-color: yellow;"><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
