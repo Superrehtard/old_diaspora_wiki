@@ -65,6 +65,8 @@
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
+- **Meetup**    
+    
 - **Metaphor**    
     
     [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
