@@ -158,6 +158,7 @@
     allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
     http://diasporafoundation.org          
     **#hashtags** can help you **tag**, search & organize things by categories.     
+    
     [ [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) ]        
     
 - **Handshake**    
