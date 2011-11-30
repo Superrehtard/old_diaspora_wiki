@@ -52,7 +52,7 @@ Not intended for public consumption.
 <th> [A](#) </th><th> [B](#) </th><th> [D] </th><th> [D] </th><th> [E] </th><th> F </th><th> G </th><th> H </th><th> I </th><th> J </th><th> K </th><th> L </th><th> M </th><th> N </th><th> O </th><th> P </th><th> Q </th><th> R </th><th> S </th><th> T </th><th> U </th><th> V </th><th> W </th><th> X </th><th> Y </th><th> Z </th> 
 </tr></table>
 
-<a name="wiki-a"><table><tr>
+<a><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
 </tr></table></a>
 
