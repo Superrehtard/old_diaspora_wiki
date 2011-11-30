@@ -212,10 +212,32 @@
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
     
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
-
-[A]: ./glossary#wiki-a
-[B]: ./glossary#wiki-b 
-[C]: ./glossary#wiki-c 
-[D]: ./glossary#wiki-d 
-[E]: ./glossary#wiki-e    
     
+[A]: ./glossary#wiki-a
+[B]: ./glossary#wiki-b
+[C]: ./glossary#wiki-c
+[D]: ./glossary#wiki-d
+[E]: ./glossary#wiki-e   
+[F]: ./glossary#wiki-f   
+[G]: ./glossary#wiki-g   
+[H]: ./glossary#wiki-h   
+    
+[I]: ./glossary2#wiki-i
+[J]: ./glossary2#wiki-j
+[K]: ./glossary2#wiki-k
+[L]: ./glossary2#wiki-l
+[M]: ./glossary2#wiki-m
+[N]: ./glossary2#wiki-n
+[O]: ./glossary2#wiki-p
+[P]: ./glossary2#wiki-p
+[Q]: ./glossary2#wiki-q
+    
+[R]: ./glossary3#wiki-r
+[S]: ./glossary3#wiki-s
+[T]: ./glossary3#wiki-t
+[U]: ./glossary3#wiki-u
+[V]: ./glossary3#wiki-v
+[W]: ./glossary3#wiki-w
+[X]: ./glossary3#wiki-x
+[Y]: ./glossary3#wiki-y
+[Z]: ./glossary3#wiki-z
