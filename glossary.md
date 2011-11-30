@@ -1,13 +1,9 @@
 # _Diaspora_ Wiki Glossary    
     
-### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)    
-    
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
-        
-<a name="wiki-a"><table width="100%" bgcolor="silver"><tr>
-<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </th>
-</tr></table></a>     
-         
+### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)
+
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
+
 <a name="wiki-a"><table width="100%" bgcolor="silver"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>     
