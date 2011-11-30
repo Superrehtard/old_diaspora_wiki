@@ -262,7 +262,7 @@
 [L]: ./glossary2#wiki-l
 [M]: ./glossary2#wiki-m
 [N]: ./glossary2#wiki-n
-[O]: ./glossary2#wiki-p
+[O]: ./glossary2#wiki-o
 [P]: ./glossary2#wiki-p
 [Q]: ./glossary2#wiki-q
     
