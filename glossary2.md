@@ -63,7 +63,7 @@
     
 - **Markup Language**    
     
-    [ HTML **|** XHTML **|** Markdown **|** text ]     
+    [ HTML **|** XHTML **|** [Markdown][M] **|** Text ]     
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
@@ -71,7 +71,9 @@
     
 - **Message | Conversation**    
     a private **message**, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
-    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics    
+    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics       
+    https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora    
+    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
     
 - **Metaphor**    
     
