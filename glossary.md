@@ -1,6 +1,6 @@
 # _Diaspora_ Wiki Glossary    
     
-### WARNING ! &nbsp; This Page is Under Construction ! &nbsp; Proceed at your own risk ! &nbsp; Typos ! &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)    
+### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)    
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
