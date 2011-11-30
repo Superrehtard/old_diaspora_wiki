@@ -93,8 +93,9 @@
     
 ## <a name="wiki-e">E</a>
 
-- **Encryption**
-
+- **Encryption**    
+    https://github.com/diaspora/diaspora/wiki/Encryption    
+    
 ## <a name="wiki-f">F</a>     
      
 - **FAQ for Users**    
