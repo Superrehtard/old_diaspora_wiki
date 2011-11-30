@@ -4,8 +4,8 @@
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
     
-<a name="wiki-a"><table width="80%" bgcolor="silver" style="background-color: grey; color: maroon;"><tr>
-<th bgcolor="silver" style="background-color: grey; color: maroon;"> [a] </th><th width="30%"> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+<a name="wiki-a"><table width="80%"><tr>
+<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>     
       
 - **R**
