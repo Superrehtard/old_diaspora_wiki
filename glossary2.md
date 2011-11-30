@@ -108,7 +108,7 @@
     http://foldoc.org/protocol    
     http://Wikipedia.org/wiki/Communications_protocol    
     http://Wikipedia.org/wiki/Internet_Protocol    
-    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) ]    
+    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) **|** FTP ]    
     
 ## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
     
