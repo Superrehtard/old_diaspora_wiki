@@ -39,7 +39,7 @@ Not intended for public consumption.
 
 <table>
   <tr>
-    <th></th><th></th><th></th>
+    <th> --- </th><th> --- </th><th> --- </th>
   </tr>
   <tr>
     <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
