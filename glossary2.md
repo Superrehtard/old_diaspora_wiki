@@ -39,23 +39,23 @@
            
 ## <a name="wiki-m">M</a>
 
-- **Markdown Text Formatting** by John Gruber & Aaron Swartz        
-    **Markdown** is a lightweight **markup language**.      
-    http://daringfireball.net/projects/markdown/basics     
-    http://daringfireball.net/projects/markdown/syntax      
+- **Markdown Text Formatting** by John Gruber & Aaron Swartz
+    **Markdown** is a lightweight **markup language**.
+    http://daringfireball.net/projects/markdown/basics
+    http://daringfireball.net/projects/markdown/syntax
     http://daringfireball.net/projects/markdown/dingus
-    http://daringfireball.net/projects/markdown      
+    http://daringfireball.net/projects/markdown
 
-    **Markdown** Text Formatting (Wikipedia.org)      
-    http://github.github.com/github-flavored-markdown    
+    **Markdown** Text Formatting
+    http://github.github.com/github-flavored-markdown
     http://wikipedia.org/wiki/Markdown
-    
-    **Markdown** text formatting on **Diaspora**      
+
+    **Markdown** text formatting on **Diaspora**
     https://github.com/diaspora/diaspora/wiki/Message-Formatting
-    http://diasporatest.com/index.php/Markup_to_format_text    
-    http://differentcomputers.com/diaspora-text-formatting    
-    http://diasporial.com/tutorials/formatting-text    
-    
+    http://diasporatest.com/index.php/Markup_to_format_text
+    http://differentcomputers.com/diaspora-text-formatting   
+    http://diasporial.com/tutorials/formatting-text
+
 - **Markup Language**    
     
     [ HTML **|** XHTML ** Hypertext **|** [Markdown][M] **|** Text]     
