@@ -21,4 +21,10 @@ Not intended for public consumption.
 
 ---
 
+<table>
+  <tr>
+    <th>ID</th><th>Name</th><th>Rank</th>
+  </tr>
+</table>
+
 
