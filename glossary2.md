@@ -41,29 +41,24 @@
 
 - **Markdown Text Formatting** by John Gruber & Aaron Swartz        
     **Markdown** is a lightweight **markup language**.      
-    http://daringfireball.net/projects/markdown      
-       
-    **Markdown**: Basics       
     http://daringfireball.net/projects/markdown/basics     
-       
-    **Markdown**: Syntax       
     http://daringfireball.net/projects/markdown/syntax      
-     
-    **Markdown**: Dingus (cool sandbox for practice-editing **Markdown**)     
     http://daringfireball.net/projects/markdown/dingus
+    http://daringfireball.net/projects/markdown      
 
     **Markdown** Text Formatting (Wikipedia.org)      
+    http://github.github.com/github-flavored-markdown    
     http://wikipedia.org/wiki/Markdown
     
     **Markdown** text formatting on **Diaspora**      
-    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
+    https://github.com/diaspora/diaspora/wiki/Message-Formatting
     http://diasporatest.com/index.php/Markup_to_format_text    
     http://differentcomputers.com/diaspora-text-formatting    
     http://diasporial.com/tutorials/formatting-text    
     
 - **Markup Language**    
     
-    [ HTML **|** XHTML **|** [Markdown][M] **|** Text ]     
+    [ HTML **|** XHTML ** Hypertext **|** [Markdown][M] **|** Text]     
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
