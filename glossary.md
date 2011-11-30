@@ -39,7 +39,7 @@
     https://github.com/diaspora/diaspora/wiki/Client-server-model    
     
 - **Contribute | Volunteer | Donate**   
-    https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web 
+    https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web    
     https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
     https://github.com/diaspora/diaspora/wiki/Become-a-Contributor    
     https://DiasporaFoundation.org/donate   
