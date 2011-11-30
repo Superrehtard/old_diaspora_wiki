@@ -1,5 +1,8 @@
 # Diaspora Wiki Glossary — editors' notes 
-
+ 
+**Sandbox & editors' note for the Diaspora Wiki Glossary**    
+Not intended for public consumption.      
+   
 - **[/ glossary](https://github.com/diaspora/diaspora/wiki/glossary)** (A-H)
 - **[/ glossary1](https://github.com/diaspora/diaspora/wiki/glossary2)** (I-Q)
 - **[/ glossary2](https://github.com/diaspora/diaspora/wiki/glossary3)** (R-Z)
