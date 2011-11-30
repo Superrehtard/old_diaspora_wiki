@@ -48,14 +48,9 @@ Not intended for public consumption.
 
 ---
 
-<table>
-  <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
-</table>
+<table><tr>
+<th> A </th><th> B </th><th> D </th><th> E </th><th> F </th><th> G </th><th> H </th><th> I </th> 
+</tr></table>
 
 
 
