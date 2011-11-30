@@ -9,6 +9,9 @@
 ## <a name="wiki-a">A</a>    
 <!-- - - - - - - - - - - A - - - - - - - - - - - - -->    
     
+- **[Android.com](http://Android.com)**    
+    https://github.com/diaspora/diaspora/wiki/Android-app-project    
+    
 - **Alpha**    
     
 - **Austria** [Pods](./glossary2#wiki-p)    
