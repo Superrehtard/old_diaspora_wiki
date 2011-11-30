@@ -41,7 +41,7 @@
     
 - **Czech Republic** [Pods](./glossary2#wiki-p)    
     
-    [   **|**  **|**  **|**  ]    
+    [ [Diaspora.Podzimek.org](https://diaspora.podzimek.org) ]    
     
 ## <a name="wiki-d">D</a>    
     
@@ -119,7 +119,7 @@
     
 - **France** [Pods](./glossary2#wiki-p)    
     
-    [   **|**  **|**  **|**  **|**  **|**  **|**  **|**  ]    
+    [ [Diasp.eu.com](https://diasp.eu.com) **|** [Social.Belfalas.org](https://social.belfalas.org) **|** [Free-Beer.ch](https://free-beer.ch) **|** [Diaspora.re](https://diaspora.re) **|** [Diaspora.sjau.ch](https://diaspora.sjau.ch) ]    
     
 - **Friend or Unfriend**   
     
