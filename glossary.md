@@ -1,5 +1,3 @@
-[A]: ./glossary#wiki-a [B]: ./glossary#wiki-b [C]: ./glossary#wiki-c [D]: ./glossary#wiki-d [E]: ./glossary#wiki-e    
-    
 # _Diaspora_ Wiki Glossary    
     
 ### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)    
@@ -214,3 +212,10 @@
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
     
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
+
+[A]: ./glossary#wiki-a
+[B]: ./glossary#wiki-b 
+[C]: ./glossary#wiki-c 
+[D]: ./glossary#wiki-d 
+[E]: ./glossary#wiki-e    
+    
