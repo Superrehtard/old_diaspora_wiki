@@ -60,6 +60,7 @@
     http://differentcomputers.com/diaspora-text-formatting    
 
 - **Markup Language**    
+    
     [ HTML **|** XHTML **|** Markdown **|** text ]     
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
@@ -75,6 +76,7 @@
 ## <a name="wiki-n">N</a> 
   
 - **Netherlands**  [Pods](#wiki-p)     
+    
     [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]    
    
 - **Network**    
