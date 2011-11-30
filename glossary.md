@@ -12,8 +12,6 @@
 
 <!-- ![A](http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/RomanA-01.svg/60px-RomanA-01.svg.png) -->
 
-#A
-
 - **A**    
     
 - **[Android.com](http://Android.com)**    
