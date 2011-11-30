@@ -16,14 +16,14 @@
 -  **IP | IPv4 | IPv6**     
     Internet **[Protocol](#wiki-p)**      
        
-- **IRC Channels**     
-https://github.com/diaspora/diaspora/wiki/How-we-use-IRC    
-http://webchat.freenode.net/?channels=diaspora-dev      
-http://webchat.freenode.net/?channels=diaspora-de     
-http://webchat.freenode.net/?channels=diaspora      
+- **IRC Channels**   
+https://github.com/diaspora/diaspora/wiki/How-we-use-IRC
+http://webchat.freenode.net/?channels=diaspora-dev
+http://webchat.freenode.net/?channels=diaspora-de
+http://webchat.freenode.net/?channels=diaspora
       
-## <a name="wiki-j">J</a>     
-     
+## <a name="wiki-j">J</a>
+
 - **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
     [ [Mispora.net](https://mispora.net) ]    
     
