@@ -33,6 +33,11 @@
     
 - **Browser**    
     
+- **Bug**    
+    https://github.com/diaspora/diaspora/wiki/Work-on-a-bug    
+    http://wikipedia.org/wiki/Software_bug    
+    http://foldoc.org/bug    
+    
 ## <a name="wiki-c">C</a>    
     
 - **Client | Server**    
