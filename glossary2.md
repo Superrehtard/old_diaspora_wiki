@@ -65,6 +65,7 @@
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
 - **Metaphor**    
+    
     [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
 
 - **Mobile Device**
@@ -101,6 +102,7 @@
     https://github.com/diaspora/diaspora/wiki/Community-supported-pods     
     
 - **Programming Language**   
+    
     [ HTML **|** XHTML **|** Ruby on Rails **|** Javascript **|** Java **|** CSS **|** C++ **|** Scripting Language ]    
    
 - **Protocol** ([Network](#wiki-n) Communications)     
