@@ -1,4 +1,4 @@
-# _Diaspora_ Wiki Glossary    
+# Diaspora Lexicon    
     
 ### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)
 
