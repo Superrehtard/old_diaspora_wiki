@@ -146,7 +146,7 @@
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
       
 - **Group or Forum**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**.     
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-h">H</a>
