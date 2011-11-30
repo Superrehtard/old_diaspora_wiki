@@ -35,6 +35,9 @@
     
 ## <a name="wiki-c">C</a>    
     
+- **Client | Server**    
+    https://github.com/diaspora/diaspora/wiki/Client-server-model    
+    
 - **Conversation**    
    a private message, shared with one or multiple followers.&nbsp; Please note that conversations only work with mutual followers! &nbsp; To access this feature, click on the **mail icon** in the header.    
     
