@@ -41,9 +41,10 @@
     [ [Diaspor.at](https://diaspor.at) ]    
     
 ## <a name="wiki-t">T</a>    
-    
-- **Linus Torvalds**    
-    
+
+- **Linus Torvalds**
+- **Tutorial** 
+
 ## <a name="wiki-u">U</a>    
     
 - **United Kingdom** [Pods][P]    
