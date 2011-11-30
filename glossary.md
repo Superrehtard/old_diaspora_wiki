@@ -164,7 +164,7 @@
     http://Wikipedia.org/wiki/GitHub     
     **This wiki page is on GitHub.com**    
     https://GitHub.com/diaspora/diaspora/wiki/glossary    
-    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
+    http://github.github.com/github-flavored-markdown    
      
 - **Google.com**    
      
