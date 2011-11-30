@@ -77,7 +77,7 @@
     
 - **Metaphor**    
     
-    [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
+    [ [Diaspora][D] **|** [Pod][P] **|** [Seed][S] **|** [Spore][S] **|** [Handshake][H] ]     
 
 - **Mobile Device**
     
