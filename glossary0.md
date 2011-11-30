@@ -53,7 +53,7 @@ Not intended for public consumption.
 </tr></table>
 
 <table><tr>
-<td> [A](http://Diasp.org) </td><td> [B](#) </td><td> [D] </td><td> [D] </td><td> [E] </td>
+<td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
 </tr></table>
 
 
