@@ -55,8 +55,9 @@
     http://foldoc.org/hacker    
     
     **Diaspora's Contributors**    
-    http://diasporafoundation.org/get_involved    
+    https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
     https://github.com/diaspora/diaspora/wiki/Contributors    
+    http://diasporafoundation.org/get_involved    
     
     [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]    
     
@@ -80,8 +81,9 @@
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
 - **Donate to Diaspora**   
-    https://DiasporaFoundation.org/donate
-
+    https://DiasporaFoundation.org/donate    
+    https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
+    
 ## <a name="wiki-e">E</a>
 
 - **Encryption**
