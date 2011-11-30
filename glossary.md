@@ -56,6 +56,7 @@
     
     **Diaspora's Contributors**    
     http://diasporafoundation.org/get_involved    
+    https://github.com/diaspora/diaspora/wiki/Contributors    
     
     [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]    
     
