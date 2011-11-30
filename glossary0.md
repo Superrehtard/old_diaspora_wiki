@@ -10,6 +10,12 @@ Not intended for public consumption.
    
 ---   
 
+<a><table><tr>
+<td> [a] </td><td> [b] </td><td> [c] </td><td> [d] </td><td> [e] </td><td> [f] </td><td> [g] </td><td> [h] </td><td> [i] </td><td> [j] </td><td> [k] </td><td> [l] </td><td> [m] </td><td> [n] </td><td> [o] </td><td> [p] </td><td> [q] </td><td> [r] </td><td> [s] </td><td> [t] </td><td> [u] </td><td> [v] </td><td> [w] </td><td> [x] </td><td> [y] </td><td> [z] </td>
+</tr></table></a>
+
+---
+
 <table>
   <tr>
     <th>ID</th><th>Name</th><th>Rank</th>
@@ -60,9 +66,6 @@ Not intended for public consumption.
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> f </th><th> g </th><th> h </th><th> i </th><th> j </th><th> k </th><th> l </th><th> m </th><th> n </th><th> o </th><th> p </th><th> q </th><th> r </th><th> s </th><th> t </th><th> u </th><th> v </th><th> w </th><th> x </th><th> y </th><th> z </th> 
 </tr></table></a>
 
-<a><table bgcolor="silver" cellpadding=""0><tr>
-<td>a</td><td>b</td><td>c</td><td>[d]</td><td>[e]</td><td> f </td><td> g </td><td> h </td><td> i </td><td> j </td><td> k </td><td> l </td><td> m </td><td> n </td><td> o </td><td> p </td><td> q </td><td> r </td><td> s </td><td> t </td><td> u </td><td> v </td><td> w </td><td> x </td><td> y </td><td> z </td> 
-</tr></table></a>
 
 # <a style="background-color: yellow;"><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
