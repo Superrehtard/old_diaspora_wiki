@@ -196,7 +196,7 @@
 - **[PodUpTi.me](http://PodUpTi.me)**    
 - **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**    
     
-## Linking to letters on this page    
+### Linking to headings on this page    
     
 - https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (a-h)    
 - https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (i-q)    
