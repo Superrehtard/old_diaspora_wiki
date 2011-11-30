@@ -46,7 +46,8 @@
     
 ## <a name="wiki-u">U</a>    
     
-- **United Kingdom** [Pods](#wiki-p)    
+- **United Kingdom** [Pods][P]    
+    
     [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]    
     
 - **United States** [Pods][P]    
