@@ -107,7 +107,7 @@
     http://diasporial.com/tutorials/follows-and-followers    
 
 - **Federation**          
-    definition of **federation** ...       
+    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol    
     http://wikipedia.org/wiki/Federation_(information_technology)    
     http://foldoc.org/federation     
 
