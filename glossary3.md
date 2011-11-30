@@ -18,7 +18,7 @@
     
 - **Ruby on Rails**    
     
-## <a name="wiki-s">S</a>    
+## <a><a name="wiki-s">S</a></a>    
     
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)    
     
