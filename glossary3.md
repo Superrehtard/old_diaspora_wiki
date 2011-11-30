@@ -4,7 +4,9 @@
     
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.    
     
-## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](./glossary2#wiki-i) | [J](./glossary2#wiki-j) | [K](./glossary2#wiki-k) | [L](./glossary2#wiki-l) | [M](./glossary2#wiki-m) | [N](./glossary2#wiki-n) | [O](./glossary2#wiki-o) | [P](./glossary2#wiki-p) | [Q](./glossary2#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
+<a name="wiki-a"><table><tr>
+<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+</tr></table></a>     
     
 ## <a name="wiki-r">R</a>    
     
@@ -79,7 +81,9 @@
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)    
     http://Wikipedia.org/wiki/Ilya_Zhitomirskiy    
     
-## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](./glossary2#wiki-i) | [J](./glossary2#wiki-j) | [K](./glossary2#wiki-k) | [L](./glossary2#wiki-l) | [M](./glossary2#wiki-m) | [N](./glossary2#wiki-n) | [O](./glossary2#wiki-o) | [P](./glossary2#wiki-p) | [Q](./glossary2#wiki-q) | [R](#wiki-r) | [S](#wiki-s) | [T](#wiki-t) | [U](#wiki-u) | [V](#wiki-v) | [W](#wiki-w) | [X](#wiki-x) | [Y](#wiki-y) | [Z](#wiki-z)    
+<a name="wiki-a"><table><tr>
+<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+</tr></table></a>     
     
 ---    
     
