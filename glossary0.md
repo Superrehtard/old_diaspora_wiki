@@ -1,3 +1,6 @@
-# Page of notes for Diaspora Wiki Glossary editors 
+# Diaspora Wiki Glossary — editors' notes 
+
+
+
 
 
