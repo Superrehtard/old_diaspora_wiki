@@ -71,6 +71,10 @@
          
 - **Meetup**    
     
+- **Message | Conversation**    
+    a private message, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
+    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics    
+    
 - **Metaphor**    
     
     [ Diaspora **|** Pod **|** Seed **|** Spore **|** Handshake ]     
