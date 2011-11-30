@@ -205,10 +205,10 @@
     
 ### Links to headings on this page    
     
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (a-h)    
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h)    
     
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (i-q)    
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q)    
     
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (r-z)    
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
     
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
