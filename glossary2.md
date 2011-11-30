@@ -115,11 +115,12 @@
    
 - **Protocol** ([Network](#wiki-n) Communications)     
    a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.    
-    http://foldoc.org/protocol    
+    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol    
     http://Wikipedia.org/wiki/Communications_protocol    
     http://Wikipedia.org/wiki/Internet_Protocol    
+    http://foldoc.org/protocol    
     
-    [ [Diaspora](#wiki-d) **|** [Federation](#wiki-f) **|** [IP](#wiki-i) **|** [IPv4](#wiki-i) **|** [IPv6](#wiki-i) **|** [HTTP](#wiki-h) **|** [HTTPS](#wiki-h) **|** FTP ]    
+    [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP ]    
     
 ## [A](./glossary#wiki-a) | [B](./glossary#wiki-b) | [C](./glossary#wiki-c) | [D](./glossary#wiki-d) | [E](./glossary#wiki-e) | [F](./glossary#wiki-f) | [G](./glossary#wiki-g) | [H](./glossary#wiki-h) | [I](#wiki-i) | [J](#wiki-j) | [K](#wiki-k) | [L](#wiki-l) | [M](#wiki-m) | [N](#wiki-n) | [O](#wiki-o) | [P](#wiki-p) | [Q](#wiki-q) | [R](./glossary3#wiki-r) | [S](./glossary3#wiki-s) | [T](./glossary3#wiki-t) | [U](./glossary3#wiki-u) | [V](./glossary3#wiki-v) | [W](./glossary3#wiki-w) | [X](./glossary3#wiki-x) | [Y](./glossary3#wiki-y) | [Z](./glossary3#wiki-z)    
     
