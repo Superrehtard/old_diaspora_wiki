@@ -87,8 +87,9 @@
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
 - **Donate to Diaspora**   
-    https://DiasporaFoundation.org/donate    
     https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
+    https://github.com/diaspora/diaspora/wiki/Become-a-Contributor    
+    https://DiasporaFoundation.org/donate    
     
 ## <a name="wiki-e">E</a>
 
