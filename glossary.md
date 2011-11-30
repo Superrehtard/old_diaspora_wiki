@@ -99,7 +99,7 @@
     http://wikipedia.org/wiki/Diaspora_(social_network)    
 
 - **Diaspora Group or Forum**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
+    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**   
