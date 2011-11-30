@@ -23,7 +23,11 @@
      
 - **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
     [ [Mispora.net](https://mispora.net) ]    
-
+    
+- **Javascript**    
+    https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip)    
+    http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18    
+    
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
 ## <a name="wiki-l">L</a>
