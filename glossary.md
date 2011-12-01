@@ -29,11 +29,11 @@
 ### Aspect
 An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily. 
 
-- http://diasporial.com/tutorials/interface-and-aspects
+• http://diasporial.com/tutorials/interface-and-aspects
 
 Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to.
 
-- http://diasporafoundation.org
+• http://diasporafoundation.org
 </td></tr></table>
     
 ## <a name="wiki-b">B</a>    
