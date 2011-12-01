@@ -8,15 +8,12 @@
 
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
 
-# <a name="wiki-r">R</a>
+## <a name="wiki-r">R</a>
 
-- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)    
-    
-- **Rails**    
-    
-- **Ruby**    
-    
-- **Ruby on Rails**    
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)
+- **Rails**
+- **Ruby**
+- **Ruby on Rails**
     
 ## <a name="wiki-s">S</a>    
     
