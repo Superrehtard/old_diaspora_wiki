@@ -54,7 +54,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 - **Client | Server**    
     https://github.com/diaspora/diaspora/wiki/Client-server-model    
     
-- **Contribute | Volunteer | Donate** <br />
+- **Contribute | Volunteer | Donate**
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
@@ -121,13 +121,13 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
 
-- **Donate | Contribute | Volunteer**   
-    https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web    
-    https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
-    https://github.com/diaspora/diaspora/wiki/Become-a-Contributor    
-    https://github.com/diaspora/diaspora/wiki/Work-on-a-bug    
-    https://DiasporaFoundation.org/donate   
-    
+- **Donate | Contribute | Volunteer**
+• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
+• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
+• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
+• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
+• https://DiasporaFoundation.org/donate
+
 ## <a name="wiki-e">E</a>
 
 - **Encryption**    
