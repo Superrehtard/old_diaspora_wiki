@@ -60,7 +60,7 @@ http://wikipedia.org/wiki/Markdown <br />
 
 - **Markup Language**    
     
-    [ HTML **|** XHTML ** Hypertext **|** [Markdown][M] **|** Text]     
+    [ HTML **|** XHTML *|* Hypertext **|** [Markdown][M] **|** Text]     
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
