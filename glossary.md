@@ -99,8 +99,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     definition of **_Diaspora_** ...   
     http://wikipedia.org/wiki/Diaspora_(software)
 
-<a><table width="100%"><tr><td>
-### Diaspora
+<a><table width="100%"><tr><td>### Diaspora
 a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease.
 
 • http://whatIsDiaspora.com <br />
