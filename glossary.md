@@ -243,32 +243,24 @@ a private space where a group of friends or colleagues can discuss issues, colla
       
 <a name="wiki-a"><table width="60%" bgcolor="silver"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
-</tr></table></a>     
-       
-### Credits for this page    
-    
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**    
-    
-- **[GitHub.com](https://GitHub.com/diaspora)**    
-    
-- **[Wikipedia.org](http://Wikipedia.org)**    
-    
-- **[FOLDOC.org](http://FOLDOC.org)**    
-    
-- **[PodUpTi.me](http://PodUpTi.me)**    
-    
-- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**    
-    
-### Links to headings on this page    
-    
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h)    
-    
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q)    
-    
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z)    
-    
+</tr></table></a>
+
+### Credits for this page
+
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
+- **[GitHub.com](https://GitHub.com/diaspora)** <br />
+- **[Wikipedia.org](http://Wikipedia.org)** <br />
+- **[FOLDOC.org](http://FOLDOC.org)** <br />
+- **[PodUpTi.me](http://PodUpTi.me)** <br />
+- **[@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)**
+
+### Links to headings on this page
+
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
-    
+
 [A]: ./glossary#wiki-a
 [B]: ./glossary#wiki-b
 [C]: ./glossary#wiki-c
