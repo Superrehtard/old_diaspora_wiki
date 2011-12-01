@@ -27,7 +27,7 @@
 
 <table><tr><td>
 ### Aspect
-An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily. </td></tr><table>
+An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily. 
 
 - http://diasporial.com/tutorials/interface-and-aspects
 
