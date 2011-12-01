@@ -77,9 +77,9 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 • https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora <br />
 • https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
 
-- **Metaphor**    
+- **Metaphor** <br />
     
-    [ [Diaspora][D] **|** [Pod][P] **|** [Seed][S] **|** [Spore][S] **|** [Handshake][H] ]     
+[ [Diaspora][D] **|** [Pod][P] **|** [Seed][S] **|** [Spore][S] **|** [Handshake][H] ]
 
 - **Mobile Device**
     
@@ -87,10 +87,10 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
       
 ## <a name="wiki-n">N</a> 
   
-- **Netherlands**  [Pods](#wiki-p)     
+- **Netherlands**  [Pods][P] <br />
     
-    [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]    
-   
+[ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]
+
 - **Network**    
     
 - **Network Protocol**    
@@ -121,10 +121,10 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 • https://github.com/diaspora/diaspora/wiki/Community-supported-pods
 </td></tr></table></a>
 
-- **Programming Language**   
-    
-    [ HTML **|** XHTML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]    
-   
+- **Programming Language**
+
+[ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
+
 - **Protocol** ([Network](#wiki-n) Communications) <br />
 a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc. <br />
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
