@@ -54,7 +54,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 - **Client | Server**    
     https://github.com/diaspora/diaspora/wiki/Client-server-model    
     
-- **Contribute | Volunteer | Donate**
+- **Contribute | Volunteer | Donate** <br />
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
