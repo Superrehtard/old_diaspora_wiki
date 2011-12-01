@@ -93,8 +93,8 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 
 - **Netiquette** <br />
 (short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community (**Wikipedia**) <br />
-• http://en.wikipedia.org/wiki/Netiquette <br />
 • http://urbandictionary.com/define.php?term=netiquette <br />
+• http://wikipedia.org/wiki/Netiquette <br />
 
 - **Network**
 
