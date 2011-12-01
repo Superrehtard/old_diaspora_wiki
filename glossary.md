@@ -79,17 +79,17 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
     
-- **Dev**    
-    abbreviation for **developer, computer programmer, coder or hacker**.    
-    http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)    
-    http://wikipedia.org/wiki/Programmer    
-    http://foldoc.org/programmer    
-    http://foldoc.org/hacker    
-    
-    **Diaspora's Contributors**    
-    https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
-    https://github.com/diaspora/diaspora/wiki/Contributors    
-    http://diasporafoundation.org/get_involved    
+- **Dev**
+abbreviation for **developer, computer programmer, coder or hacker**. <br />
+• http://en.wikipedia.org/wiki/Hacker_(programmer_subculture) <br />
+• http://wikipedia.org/wiki/Programmer <br />
+• http://foldoc.org/programmer <br />
+• http://foldoc.org/hacker <br />
+<br /> 
+**Diaspora's Contributors** <br />
+• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
+• https://github.com/diaspora/diaspora/wiki/Contributors <br />
+• http://diasporafoundation.org/get_involved <br />
     
     [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]    
     
