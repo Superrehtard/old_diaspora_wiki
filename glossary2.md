@@ -108,7 +108,8 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 • http://whatIsDiaspora.com <br />
 • [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.<br />
 • [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org. <br />
-• **Community Supported Pods** <br />
+
+**Community Supported Pods**
 
 This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com). <br />
 
