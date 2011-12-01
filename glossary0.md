@@ -76,6 +76,7 @@ Not intended for public consumption.
 </tr></table></a>
 
 
+<table width="100%"><tr><td></td></tr></table>
 
 [A]: http://google.com
 [B]: http://google.com
