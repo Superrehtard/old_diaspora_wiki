@@ -214,26 +214,31 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 ## <a name="wiki-h">H</a>
 
-- **Hacker**    
-    indie **computer programmer, coder, developer or dev**.    
-    The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.    
-    http://wikipedia.org/wiki/Hacker_(programmer_subculture)    
-    http://wikipedia.org/wiki/Hacker_(term)    
-    http://wikipedia.org/wiki/Programmer    
-    http://foldoc.org/programmer    
-    http://foldoc.org/hacker    
+- **Hacker** <br />
+<br /> indie **computer programmer, coder, developer or dev**. <br />
+The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects. <br />
+• http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br />
+• http://wikipedia.org/wiki/Hacker_(term) <br />
+• http://wikipedia.org/wiki/Programmer <br />
+• http://foldoc.org/programmer <br />
+• http://foldoc.org/hacker <br />
     
-- **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**)      
-    allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**.    
-    http://diasporafoundation.org          
-    **#hashtags** can help you **tag**, search & organize things by categories.     
-    
-    [ [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) ]        
-    
-- **Handshake**    
-    part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**.
+- **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**) <br />
+allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**. <br />
+• http://diasporafoundation.org <br />
+<br />
+**#hashtags** can help you **tag**, search & organize things by categories. <br />
+• http://urbandictionary.com/define.php?term=hashtag <br />
+• http://en.wikipedia.org/wiki/Tag_(metadata)#Hashtags <br />
+• http://en.wiktionary.org/wiki/hashtag <br />
+<br />
+[ [\#newhere][N] **|** [\#help][H] **|** [\#diaspora][D] **|** [\#dev][D] **|** [\#hacker][H] **|** [\#federation][F] **|** [\#meetup][M] **|** [\#occupy][O] **|** [\#love][L] **|** [\#freedom][F] **|** [#d_group][D] **|** [\#opensource][O] **|** [\#copyleft][C] ]
 
-     
+- **Handshake** <br />
+part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**. <br />
+• http://en.wiktionary.org/wiki/handshake <br />
+• http://en.wikipedia.org/wiki/Handshaking <br />
+
 <a><table width="100%"><tr><td>
 
 ### History of Diaspora**  	
