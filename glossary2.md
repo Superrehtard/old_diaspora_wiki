@@ -17,10 +17,10 @@
     Internet **[Protocol](#wiki-p)**      
        
 - **IRC Channels**   
-https://github.com/diaspora/diaspora/wiki/How-we-use-IRC <br />
-http://webchat.freenode.net/?channels=diaspora-dev <br />
-http://webchat.freenode.net/?channels=diaspora-de <br />
-http://webchat.freenode.net/?channels=diaspora <br />
+**|** https://github.com/diaspora/diaspora/wiki/How-we-use-IRC <br />
+**|** http://webchat.freenode.net/?channels=diaspora-dev <br />
+**|** http://webchat.freenode.net/?channels=diaspora-de <br />
+**|** http://webchat.freenode.net/?channels=diaspora <br />
       
 ## <a name="wiki-j">J</a>
 
