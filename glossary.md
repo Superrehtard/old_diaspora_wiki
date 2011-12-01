@@ -206,9 +206,9 @@ web-based hosting service for software development projects that use the Git rev
 
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
 
-- **Group or Forum**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**.     
-    http://wikipedia.org/wiki/Internet_forum    
+- **Group or Forum** <br />
+a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**. <br />
+• http://wikipedia.org/wiki/Internet_forum    
 
 ## <a name="wiki-h">H</a>
 
@@ -229,7 +229,7 @@ allow you to label and follow your interests.&nbsp; They're also a great way to 
 • http://urbandictionary.com/define.php?term=hashtag <br />
 • http://en.wikipedia.org/wiki/Tag_(metadata)#Hashtags <br />
 • http://en.wiktionary.org/wiki/hashtag <br />
-<br />
+
 [ [\#newhere][N] **|** [\#help][H] **|** [\#diaspora][D] **|** [\#dev][D] **|** [\#hacker][H] **|** [\#federation][F] **|** [\#meetup][M] **|** [\#occupy][O] **|** [\#love][L] **|** [\#freedom][F] **|** [#d_group][D] **|** [\#opensource][O] **|** [\#copyleft][C] ]
 
 - **Handshake** <br />
