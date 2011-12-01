@@ -112,8 +112,8 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 <a><table width="100%"><tr><td>
 ### Diaspora
 
-a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease.
-
+a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease. (WhatIsDiaspora.com) <br />
+<br />
 • http://whatIsDiaspora.com <br />
 • http://wikipedia.org/wiki/Diaspora_(social_network) <br />
 </td></tr></table></a>
@@ -241,8 +241,8 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 ### History of Diaspora**  	
 
-**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.
-
+**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely. (WhatIsDiaspora.com) <br />
+<br />
 • http://whatIsDiaspora.com
 
 </td></tr></table></a>
