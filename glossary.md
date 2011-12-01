@@ -1,6 +1,6 @@
 # Diaspora Lexicon
 
-<a name="wiki-a"><table width="99%" bgcolor="silver"><tr>
+<a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
@@ -273,7 +273,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
 
-<a name="wiki-a"><table width="99%" bgcolor="silver"><tr>
+<a name="wiki-a"><table width="99%" bgcolor="silver" border="1" bordercolor="navy"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
