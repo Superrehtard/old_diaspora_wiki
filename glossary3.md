@@ -11,7 +11,7 @@
 ## <a name="wiki-r">R</a>
 
 <a><table align="right" width="9" height="9"><tr><td>
-![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/94px-Ruby_on_Rails_logo.svg.png)
+![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png)
 </td></tr></table></a>
 
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)
