@@ -66,7 +66,9 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
     
 - **United States** [Pods][P]    
     
-    [ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.UrbanAbydos.ca](https://diasp.urbanabydos.ca) **|** [Pod.NoCentre.net](https://pod.nocentre.net) **|** [Privit.us](https://privit.us) **|** [Exodus.net.nz](https://exodus.net.nz) **|** [Cryptospora.net](https://www.cryptospora.net) **|** [Diaspora.OCJtech.us](https://diaspora.ocjtech.us) **|** [Failure.net](https://failure.net) ]    
+    [ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.UrbanAbydos.ca](https://diasp.urbanabydos.ca) **|** [Pod.NoCentre.net](https://pod.nocentre.net) **|** [Privit.us](https://privit.us) **|** [Exodus.net.nz](https://exodus.net.nz) **|** [Cryptospora.net](https://www.cryptospora.net) **|** [Diaspora.OCJtech.us](https://diaspora.ocjtech.us) **|** [Failure.net](https://failure.net) ]
+
+- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
     
 ## <a name="wiki-v">V</a>    
     
@@ -81,12 +83,14 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
     
 - **Yahoo.com**    
     
-## <a name="wiki-w">W</a>    
+## <a name="wiki-w">W</a>
     
-- **Wikipedia.org**    
-    
-- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**    
-    
+- **Wikipedia.org** <br />
+
+- **Wiktionary.org** <br />
+
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)** <br />
+
 ## <a name="wiki-z">Z</a>    
     
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder)    
