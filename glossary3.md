@@ -24,6 +24,8 @@ a dynamic, reflective, general-purpose **object-oriented programming language** 
 The standard 1.8.7 implementation is written in C, as a single-pass interpreted language. <br />
 • http://en.wikipedia.org/wiki/Ruby_%28programming_language%29 <br />
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br />
+• http://rubyonrails.org <br />
+• http://rubyforge.org <br />
 
 - **Ruby on Rails**
     
