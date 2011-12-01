@@ -107,9 +107,9 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
     
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
-- **Diaspora**       
-    definition of **_Diaspora_** ...   
-    http://wikipedia.org/wiki/Diaspora_(software)
+- **Diaspora** <br />
+• http://wikipedia.org/wiki/Diaspora_(software) <br />
+• http://urbandictionary.com/define.php?term=diaspora 
 
 <a><table width="100%"><tr><td>
 ### Diaspora
