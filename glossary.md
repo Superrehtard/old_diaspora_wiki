@@ -109,7 +109,7 @@ a software that can be installed on a server by someone that has the knowledge t
 </td></tr></table></a>
 
 <a><table width="100%"><tr><td>
-- **Diaspora Group or Forum**       
+### Diaspora Group or Forum
 
 a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.
 
