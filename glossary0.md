@@ -25,7 +25,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;">
+<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="border">
   <tr height="111" style="background-color: pink; color: maroon;">
     <th bgcolor="yellow" height="111" style="background-color: pink; color: maroon;"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
@@ -34,7 +34,16 @@ Nav table works — note a-tag enclosure (Nov2011) ...
   </tr>
 </table></a>
 
-![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)
+---
+
+<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="box">
+  <tr height="111" style="background-color: pink; color: maroon;">
+    <th bgcolor="yellow" height="111" style="background-color: pink; color: maroon;"> [Link][A] </th><th>Name</th><th>Rank</th>
+  </tr>
+  <tr bgcolor="yellow" style="background-color: pink; color: maroon;">
+    <td bgcolor="yellow" style="background-color: pink; color: maroon;" valign="middle" align="center"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ewe_sheep_black_and_white.jpg/120px-Ewe_sheep_black_and_white.jpg)</td>
+  </tr>
+</table></a>
 
 ---
 
