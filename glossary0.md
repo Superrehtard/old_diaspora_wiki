@@ -30,7 +30,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
     <th bgcolor="yellow" height="111"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
   <tr bgcolor="yellow">
-    <td bgcolor="yellow"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)</td>
+    <td bgcolor="yellow"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ewe_sheep_black_and_white.jpg/120px-Ewe_sheep_black_and_white.jpg)</td>
   </tr>
 </table></a>
 
