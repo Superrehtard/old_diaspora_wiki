@@ -93,6 +93,10 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 
 ## <a name="wiki-z">Z</a>
 
+<a><table width="9" height="60" align="right"><tr><td valign="middle" align="right">
+![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
+</td></tr></table>
+
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br />
 • http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br />
 
