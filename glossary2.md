@@ -10,6 +10,10 @@
 
 # <a name="wiki-i">I</a>
 
+<a><table align="right"><tr><td>
+![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_large_24848be7297b28b0bcbe.jpeg)
+</td></tr></table>
+
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br />
 http://Wikipedia.org/wiki/Ilya_Zhitomirskiy
 
