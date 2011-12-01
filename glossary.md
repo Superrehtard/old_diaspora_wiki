@@ -150,8 +150,9 @@ a private space where a group of friends or colleagues can discuss issues, colla
 - **FAQ for Users**    
     https://github.com/diaspora/diaspora/wiki/FAQ-for-Users    
     
-- **Facebook.com**    
-       
+- **Facebook.com** <br />
+• http://www.urbandictionary.com/define.php?term=facebook
+
 - **Featured Users**     
     **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
     http://diasporial.com/tutorials/follows-and-followers    
