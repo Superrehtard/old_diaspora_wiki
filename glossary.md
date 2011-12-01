@@ -19,11 +19,9 @@
     
 - **Alpha**    
     
-- **Austria** [Pods](./glossary2#wiki-p)    
+- **Austria** [Pods][P] <br />
     
-    [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]
-
-
+[ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]
 
 <a><table width="100%"><tr><td>
 ### Aspect
@@ -79,10 +77,10 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 
 - **[Cubbi.es](http://Cubbi.es)**    
     
-- **Czech Republic** [Pods](./glossary2#wiki-p)    
-    
-    [ [Diaspora.Podzimek.org](https://diaspora.podzimek.org) ]    
-    
+- **Czech Republic** [Pods][P] <br />
+
+[ [Diaspora.Podzimek.org](https://diaspora.podzimek.org) ]
+
 ## <a name="wiki-d">D</a>
 
 <a><table align="right" width="9" height="9"><tr><td> 
@@ -102,9 +100,9 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
 • https://github.com/diaspora/diaspora/wiki/Contributors <br />
 • http://diasporafoundation.org/get_involved <br />
-    
-    [ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]    
-    
+
+[ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]
+
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
 - **Diaspora** <br />
@@ -179,35 +177,35 @@ a private space where a group of friends or colleagues can discuss issues, colla
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
     
-- **France** [Pods](./glossary2#wiki-p)    
-    
-    [ [Diasp.eu.com](https://diasp.eu.com) **|** [Social.Belfalas.org](https://social.belfalas.org) **|** [Free-Beer.ch](https://free-beer.ch) **|** [Diaspora.re](https://diaspora.re) **|** [Diaspora.sjau.ch](https://diaspora.sjau.ch) ]    
-    
-- **Friend or Unfriend**   
-    
+- **France** [Pods][P]
+
+[ [Diasp.eu.com](https://diasp.eu.com) **|** [Social.Belfalas.org](https://social.belfalas.org) **|** [Free-Beer.ch](https://free-beer.ch) **|** [Diaspora.re](https://diaspora.re) **|** [Diaspora.sjau.ch](https://diaspora.sjau.ch) ]
+
+- **Friend | Unfriend** <br />
+
 ## <a name="wiki-g">G</a>    
    
-- **Germany** [Pods](./glossary2#wiki-p)    
+- **Germany** [Pods][P]
     
-    [ [WK3.org](https://wk3.org) **|** [Diasp.de](https://diasp.de) **|** [Diasp.eu](https://diasp.eu) **|** [Nerdpol.ch](https://nerdpol.ch) **|** [Despora.de](https://despora.de) **|** [My-Seed.com](https://my-seed.com) **|** [Stylr.net](https://stylr.net) **|** [Loofi.de](https://loofi.de) **|** [ILikeFreedom.org](https://ilikefreedom.org) **|** [Diaspora.Subsignal.org](https://diaspora.subsignal.org) **|** [Diaspora.F4N.de](https://diaspora.f4n.de) **|** [Dipod.es](https://dipod.es) **|** [Yaspora.com](https://yaspora.com) **|** [Dipod.org](https://dipod.org) **|** [Diaspora.Death-Head.ch](http://diaspora.death-head.ch) **|** [Pod.Geraspora.de](https://pod.geraspora.de) **|** [Hasst-Euch-Alle.de](https://hasst-euch-alle.de) **|** [SeeYouThere.de](http://SeeYouThere.de) **|** [Pod.Haxxors.com](http://pod.haxxors.com) **|** [Marsoc.de](https://marsoc.de) ]    
-    
-- **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)**   
+[ [WK3.org](https://wk3.org) **|** [Diasp.de](https://diasp.de) **|** [Diasp.eu](https://diasp.eu) **|** [Nerdpol.ch](https://nerdpol.ch) **|** [Despora.de](https://despora.de) **|** [My-Seed.com](https://my-seed.com) **|** [Stylr.net](https://stylr.net) **|** [Loofi.de](https://loofi.de) **|** [ILikeFreedom.org](https://ilikefreedom.org) **|** [Diaspora.Subsignal.org](https://diaspora.subsignal.org) **|** [Diaspora.F4N.de](https://diaspora.f4n.de) **|** [Dipod.es](https://dipod.es) **|** [Yaspora.com](https://yaspora.com) **|** [Dipod.org](https://dipod.org) **|** [Diaspora.Death-Head.ch](http://diaspora.death-head.ch) **|** [Pod.Geraspora.de](https://pod.geraspora.de) **|** [Hasst-Euch-Alle.de](https://hasst-euch-alle.de) **|** [SeeYouThere.de](http://SeeYouThere.de) **|** [Pod.Haxxors.com](http://pod.haxxors.com) **|** [Marsoc.de](https://marsoc.de) ]
 
-- **[GitHub.com](https://github.com/diaspora/diaspora)** 
-    a web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site.    
-    http://Wikipedia.org/wiki/GitHub     
-    **This wiki page is on GitHub.com**    
-    https://GitHub.com/diaspora/diaspora/wiki/glossary    
-    http://github.github.com/github-flavored-markdown    
-     
-- **Google.com**    
-     
-- **Google Groups**     
-    http://groups.google.com/group/diaspora-discuss     
-    http://groups.google.com/group/diaspora-dev      
-    
-- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
-      
+- **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)** <br />
+
+- **[GitHub.com](https://github.com/diaspora/diaspora)** <br />
+web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br />
+• http://Wikipedia.org/wiki/GitHub <br />
+• **This wiki page is on GitHub.com** <br /> 
+• https://GitHub.com/diaspora/diaspora/wiki/glossary <br />    
+• http://github.github.com/github-flavored-markdown <br />
+
+- **Google.com** <br />
+
+- **Google Groups** <br />
+• http://groups.google.com/group/diaspora-discuss <br />   
+• http://groups.google.com/group/diaspora-dev <br />
+
+- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
+
 - **Group or Forum**       
     a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**.     
     http://wikipedia.org/wiki/Internet_forum    
