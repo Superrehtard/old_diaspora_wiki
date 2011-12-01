@@ -1,4 +1,4 @@
-# Diaspora Wiki Glossary — editors' notes 
+# Diaspora Lexicon — editors' notes 
  
 **Sandbox & editors' note for the Diaspora Wiki Glossary**    
 Not intended for public consumption.      
