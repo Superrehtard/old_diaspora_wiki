@@ -27,9 +27,9 @@
 - **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
     [ [Mispora.net](https://mispora.net) ]    
     
-- **Javascript**  
-https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <br/>
-http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br />
+- **Javascript**
+• https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <br/>
+• http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br />
     
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
@@ -41,23 +41,23 @@ http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb1
            
 ## <a name="wiki-m">M</a>    
     
-- **Markdown Text Formatting** by John Gruber & Aaron Swartz    
-    **Markdown** is a lightweight **markup language**.    
-    http://daringfireball.net/projects/markdown/basics    
-    http://daringfireball.net/projects/markdown/syntax    
-    http://daringfireball.net/projects/markdown/dingus    
-    http://daringfireball.net/projects/markdown    
-    
-    **Markdown** Text Formatting    
-    http://github.github.com/github-flavored-markdown    
-    http://wikipedia.org/wiki/Markdown    
-    
-    **Markdown** text formatting on **Diaspora**    
-    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
-    http://diasporatest.com/index.php/Markup_to_format_text    
-    http://differentcomputers.com/diaspora-text-formatting       
-    http://diasporial.com/tutorials/formatting-text    
-    
+- **Markdown Text Formatting** by John Gruber & Aaron Swartz
+**Markdown** is a lightweight **markup language**. <br />
+• http://daringfireball.net/projects/markdown/basics <br />
+• http://daringfireball.net/projects/markdown/syntax <br />
+• http://daringfireball.net/projects/markdown/dingus <br />
+• http://daringfireball.net/projects/markdown <br />
+<br />  
+**Markdown** Text Formatting <br />
+• http://github.github.com/github-flavored-markdown <br />
+http://wikipedia.org/wiki/Markdown <br />
+<br />
+**Markdown** text formatting on **Diaspora** <br />
+• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
+• http://diasporatest.com/index.php/Markup_to_format_text <br />
+• http://differentcomputers.com/diaspora-text-formatting <br />
+• http://diasporial.com/tutorials/formatting-text <br />
+
 - **Markup Language**    
     
     [ HTML **|** XHTML ** Hypertext **|** [Markdown][M] **|** Text]     
