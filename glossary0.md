@@ -25,12 +25,12 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<table>
+<table bgcolor="yellow" width="99%" height="99" align="right">
   <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
+    <th bgcolor="yellow">ID</th><th>Name</th><th>Rank</th>
   </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  <tr bgcolor="yellow">
+    <td bgcolor="yellow">2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
   </tr>
 </table>
 
