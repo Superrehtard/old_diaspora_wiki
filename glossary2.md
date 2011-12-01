@@ -16,7 +16,7 @@
 -  **IP | IPv4 | IPv6**     
     Internet **[Protocol](#wiki-p)**      
        
-- **IRC Channels**   
+- **IRC Channels** <br />
 • https://github.com/diaspora/diaspora/wiki/How-we-use-IRC <br />
 • http://webchat.freenode.net/?channels=diaspora-dev <br />
 • http://webchat.freenode.net/?channels=diaspora-de <br />
@@ -27,7 +27,7 @@
 - **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
     [ [Mispora.net](https://mispora.net) ]    
     
-- **Javascript**
+- **Javascript** <br />
 • https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <br/>
 • http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br />
     
@@ -66,12 +66,12 @@ http://wikipedia.org/wiki/Markdown <br />
          
 - **Meetup**    
     
-- **Message | Conversation**    
-    a private **message**, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
-    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics       
-    https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora    
-    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
-    
+- **Message | Conversation** <br />
+a private **message**, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header. <br />
+• https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics <br />
+• https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora <br />
+• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
+
 - **Metaphor**    
     
     [ [Diaspora][D] **|** [Pod][P] **|** [Seed][S] **|** [Spore][S] **|** [Handshake][H] ]     
@@ -100,8 +100,8 @@ http://wikipedia.org/wiki/Markdown <br />
    
 - **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641) | [PivotalLabs.com](http://pivotallabs.com/what/pivotal_tracker)**    
     
-- **Pod** ([Diaspora](#wiki-d) Server)              
-    **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease.     
+- **Pod** ([Diaspora](#wiki-d) Server) <br />
+**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease.<br />
     http://whatIsDiaspora.com        
     [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.    
     [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.    
