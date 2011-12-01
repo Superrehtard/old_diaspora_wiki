@@ -91,10 +91,15 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
     
 [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]
 
-- **Network**    
-    
-- **Network Protocol**    
-         
+- **Netiquette** <br />
+(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community ... <br />
+• http://en.wikipedia.org/wiki/Netiquette <br />
+• http://urbandictionary.com/define.php?term=netiquette <br />
+
+- **Network**
+
+- **Network Protocol**
+
 ## <a name="wiki-o">O</a>
     
 - **Open Source**    
