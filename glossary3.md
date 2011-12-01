@@ -22,8 +22,8 @@ a dynamic, reflective, general-purpose **object-oriented programming language** 
 **Ruby** supports multiple programming paradigms, including functional, object oriented, imperative and reflective.&nbsp; It also has a dynamic type system and automatic memory management; it is therefore similar in varying respects to Smalltalk, Python, Perl, Lisp, Dylan, Pike, and CLU. <br />
 <br />
 The standard 1.8.7 implementation is written in C, as a single-pass interpreted language. <br />
-<br />
-• http://en.wikipedia.org/wiki/Ruby_%28programming_language%29
+• http://en.wikipedia.org/wiki/Ruby_%28programming_language%29 <br />
+• http://en.wikipedia.org/wiki/Ruby_on_Rails <br />
 
 - **Ruby on Rails**
     
