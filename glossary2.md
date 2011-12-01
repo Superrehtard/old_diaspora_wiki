@@ -10,7 +10,7 @@
 
 # <a name="wiki-i">I</a>
 
-<a><table width="55" height="55" align="right"><tr><td valign="middle" align="center">
+<a><table width="99" height="99" align="right"><tr><td valign="middle" align="center">
 ![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
 </td></tr></table>
 
