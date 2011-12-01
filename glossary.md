@@ -70,7 +70,8 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 <a><table align="right" width="9" height="60"><tr><td>
 ![CopyLeft](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GreenCopyleft.svg/50px-GreenCopyleft.svg.png)
 </td></tr><table></a>
-- **Copyleft**
+    
+- **Copyleft** <br />
 
 - **[Cubbi.es](http://Cubbi.es)**    
     
