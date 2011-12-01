@@ -263,7 +263,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 - **[GitHub.com](https://GitHub.com/diaspora)** <br />
 - **[FOLDOC.org](http://FOLDOC.org)** <br />
 - **[PodUpTi.me](http://PodUpTi.me)** <br />
-- **[UrbanDictionary.com](http://UrbanDictionary.com) <br />
+- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
 - **[Wikipedia.org](http://Wikipedia.org)** <br />
 - **[Wiktionary.org](http://Wiktionary.org)** <br />
 - **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** <br />
