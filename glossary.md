@@ -114,7 +114,7 @@ a software that can be installed on a server by someone that has the knowledge t
 a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.
 
 • http://wikipedia.org/wiki/Internet_forum
-• **[D*Group](https://Diasp.org/u/d_group)
+• **[D*Group](https://Diasp.org/u/d_group) Diaspora Group emulator**
 </td></tr></table></a>
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**   
