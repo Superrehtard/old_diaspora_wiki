@@ -50,7 +50,7 @@ Internet **[Protocol](#wiki-p)**
 <br />  
 **Markdown** Text Formatting <br />
 • http://github.github.com/github-flavored-markdown <br />
-http://wikipedia.org/wiki/Markdown <br />
+• http://wikipedia.org/wiki/Markdown <br />
 <br />
 **Markdown** text formatting on **Diaspora** <br />
 • https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
