@@ -62,9 +62,10 @@ Internet **[Protocol](#wiki-p)**
 • http://differentcomputers.com/diaspora-text-formatting <br />
 • http://diasporial.com/tutorials/formatting-text <br />
 
-- **Markup Language**    
-    
-    [ HTML **|** XHTML *|* Hypertext **|** [Markdown][M] **|** Text]     
+- **Markup Language** <br />
+high level (human-readable) computer language. <br />
+
+[ HTML **|** XHTML *|* XML *|* Hypertext **|** [Markdown][M] **|** Text ]     
        
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
          
