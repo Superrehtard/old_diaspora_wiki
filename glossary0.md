@@ -25,7 +25,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="border">
+<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="border" border="2">
   <tr height="111" style="background-color: pink; color: maroon;">
     <th bgcolor="yellow" height="111" style="background-color: pink; color: maroon;"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
@@ -36,7 +36,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="box">
+<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;" frame="box" border="1">
   <tr height="111" style="background-color: pink; color: maroon;">
     <th bgcolor="yellow" height="111" style="background-color: pink; color: maroon;"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
