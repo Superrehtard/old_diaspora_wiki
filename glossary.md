@@ -260,13 +260,15 @@ a private space where a group of friends or colleagues can discuss issues, colla
 ### Diaspora Lexicon credits
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
+- **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
+- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing) <br />
 - **[GitHub.com](https://GitHub.com/diaspora)** <br />
-- **[FOLDOC.org](http://FOLDOC.org)** <br />
-- **[PodUpTi.me](http://PodUpTi.me)** <br />
+- **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P]) <br />
 - **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)** <br />
+- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images) <br />
 - **[Wikipedia.org](http://Wikipedia.org)** <br />
 - **[Wiktionary.org](http://Wiktionary.org)** <br />
-- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** <br />
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
 
 ### Links to section headings
