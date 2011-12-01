@@ -27,14 +27,14 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 <a><table bgcolor="yellow" width="55%" height="111" align="right">
   <tr height="111" >
-    <th bgcolor="yellow" height="111" >[Link][A]</th><th>Name</th><th>Rank</th>
+    <th bgcolor="yellow" height="111"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
   <tr bgcolor="yellow">
-    <td bgcolor="yellow">2</td><td>Albert Einstein</td><td>![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)</td>
+    <td bgcolor="yellow"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)</td>
   </tr>
 </table></a>
 
-
+![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)
 
 ---
 
