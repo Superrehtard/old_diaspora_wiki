@@ -25,12 +25,12 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table bgcolor="yellow" width="55%" height="111" align="right">
-  <tr height="111" >
-    <th bgcolor="yellow" height="111"> [Link][A] </th><th>Name</th><th>Rank</th>
+<a><table bgcolor="yellow" width="55%" height="111" align="right" style="background-color: pink; color: maroon;">
+  <tr height="111" style="background-color: pink; color: maroon;">
+    <th bgcolor="yellow" height="111" style="background-color: pink; color: maroon;"> [Link][A] </th><th>Name</th><th>Rank</th>
   </tr>
-  <tr bgcolor="yellow">
-    <td bgcolor="yellow"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ewe_sheep_black_and_white.jpg/120px-Ewe_sheep_black_and_white.jpg)</td>
+  <tr bgcolor="yellow" style="background-color: pink; color: maroon;">
+    <td bgcolor="yellow" style="background-color: pink; color: maroon;"> [Link][A] </td><td>Albert Einstein</td><td>![WikiMedia](http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ewe_sheep_black_and_white.jpg/120px-Ewe_sheep_black_and_white.jpg)</td>
   </tr>
 </table></a>
 
@@ -65,17 +65,6 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table bgcolor="silver" cellpadding=""0><tr>
-<th>[a]</th><th>[b]</th><th>[c]</th><th>[D]</th><th>[E]</th><th> F </th><th> G </th><th> H </th><th> I </th><th> J </th><th> K </th><th> L </th><th> M </th><th> N </th><th> O </th><th> P </th><th> Q </th><th> R </th><th> S </th><th> T </th><th> U </th><th> V </th><th> W </th><th> X </th><th> Y </th><th> Z </th> 
-</tr></table></a>
-
-<a><table bgcolor="silver" cellpadding=""0><tr>
-<td>[A]</td><td>[b]</td><td>[c]</td><td>[D]</td><td>[E]</td><td> F </td><td> G </td><td> H </td><td> I </td><td> J </td><td> K </td><td> L </td><td> M </td><td> N </td><td> O </td><td> P </td><td> Q </td><td> R </td><td> S </td><td> T </td><td> U </td><td> V </td><td> W </td><td> X </td><td> Y </td><td> Z </td> 
-</tr></table></a>
-
-<a><table bgcolor="silver" cellpadding=""0><tr>
-<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> f </th><th> g </th><th> h </th><th> i </th><th> j </th><th> k </th><th> l </th><th> m </th><th> n </th><th> o </th><th> p </th><th> q </th><th> r </th><th> s </th><th> t </th><th> u </th><th> v </th><th> w </th><th> x </th><th> y </th><th> z </th> 
-</tr></table></a>
 
 
 # <a style="background-color: yellow;"><table><tr>
