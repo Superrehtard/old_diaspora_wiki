@@ -269,7 +269,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 - **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** <br />
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
 
-### Links to headings on this page
+### Links to section headings
 
 - https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
 - https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
