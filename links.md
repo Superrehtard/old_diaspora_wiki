@@ -2,7 +2,7 @@
 
 ### This Page is Under Construction    
 
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Glossary](https://github.com/diaspora/diaspora/wiki/glossary)** page.
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/glossary)** page.
 
 ---
 
