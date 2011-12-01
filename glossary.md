@@ -44,22 +44,22 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 - **Browser**    
     
-- **Bug**    
-    https://github.com/diaspora/diaspora/wiki/Work-on-a-bug    
-    http://wikipedia.org/wiki/Software_bug    
-    http://foldoc.org/bug    
+- **Bug** <br />
+• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
+• http://wikipedia.org/wiki/Software_bug <br />
+• http://foldoc.org/bug <br />
     
 ## <a name="wiki-c">C</a>    
     
 - **Client | Server**    
     https://github.com/diaspora/diaspora/wiki/Client-server-model    
     
-- **Contribute | Volunteer | Donate**   
-    https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web    
-    https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page    
-    https://github.com/diaspora/diaspora/wiki/Become-a-Contributor    
-    https://github.com/diaspora/diaspora/wiki/Work-on-a-bug    
-    https://DiasporaFoundation.org/donate   
+- **Contribute | Volunteer | Donate** <br />   
+• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
+• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
+• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
+• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
+• https://DiasporaFoundation.org/donate
     
 - **Conversation | Message**    
     a private message, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
