@@ -37,6 +37,10 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 </td></tr></table></a>
     
 ## <a name="wiki-b">B</a>    
+
+<a><table align="right" width="9" height="9"><tr><td>
+![Bug](http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marienkaefer04.jpg/120px-Marienkaefer04.jpg)
+</td></tr></table></a>
     
 - **Beta**    
     
