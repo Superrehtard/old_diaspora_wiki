@@ -36,42 +36,45 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 - **Seed**       
     definition of **seed** ...    
     
-- **Serbia** [Pods][P]     
-    [ [DiasporaSerbia.org](https://diasporaserbia.org) ]    
+- **Serbia** [Pods][P] <br />
+   
+[ [DiasporaSerbia.org](https://diasporaserbia.org) ]
+
+- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder) <br />
+
+- **Spain** [Pods][P]
+
+[ [Jaupora.com](https://jauspora.com) ]
+
+- **Spore** <br />
+definition of **spore** ... <br />
+
+- **[Spored.de](http://Spored.de)** <br />
+
+- **Sweden** [Pods][P]
+
+[ [Diaspor.at](https://diaspor.at) ]
     
-- **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)    
-    
-- **Spain** [Pods][P]    
-    
-    [ [Jaupora.com](https://jauspora.com) ]    
-    
-- **Spore**    
-    definition of **spore** ...    
-    
-- **[Spored.de](http://Spored.de)**    
-    
-- **Sweden** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [ [Diaspor.at](https://diaspor.at) ]    
-    
-## <a name="wiki-t">T</a>    
+## <a name="wiki-t">T</a>
 
 - **Linus Torvalds**
+
 - **Tutorial** 
 
 ## <a name="wiki-u">U</a>    
+
+- **United Kingdom** [Pods][P]
+
+[ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]
+
+- **United States** [Pods][P]
     
-- **United Kingdom** [Pods][P]    
-    
-    [ [Diaspora.Compadre.dk](http://diaspora.compadre.dk) **|** [Hello.MJ13.info](https://hello.mj13.info) **|** [LondonDiaspora.org](https://londondiaspora.org) **|** [Pod.Matstace.me.uk](https://pod.matstace.me.uk) ]    
-    
-- **United States** [Pods][P]    
-    
-    [ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.UrbanAbydos.ca](https://diasp.urbanabydos.ca) **|** [Pod.NoCentre.net](https://pod.nocentre.net) **|** [Privit.us](https://privit.us) **|** [Exodus.net.nz](https://exodus.net.nz) **|** [Cryptospora.net](https://www.cryptospora.net) **|** [Diaspora.OCJtech.us](https://diaspora.ocjtech.us) **|** [Failure.net](https://failure.net) ]
+[ [JoinDiaspora.com](https://joindiaspora.com) **|** [Diasp.org](https://diasp.org) **|** [Diasp0ra.ca](https://diasp0ra.ca) **|** [Poddery.com](https://poddery.com) **|** [Diaspora.Encroa.ch](https://diaspora.encroa.ch) **|** [Ser.endipito.us](https://ser.endipito.us) **|** [Group.lt](https://group.lt) **|** [Jogui.org](http://jogui.org) **|** [Diasp.UrbanAbydos.ca](https://diasp.urbanabydos.ca) **|** [Pod.NoCentre.net](https://pod.nocentre.net) **|** [Privit.us](https://privit.us) **|** [Exodus.net.nz](https://exodus.net.nz) **|** [Cryptospora.net](https://www.cryptospora.net) **|** [Diaspora.OCJtech.us](https://diaspora.ocjtech.us) **|** [Failure.net](https://failure.net) ]
 
 - **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
-    
-## <a name="wiki-v">V</a>    
-    
+
+## <a name="wiki-v">V</a>
+
 - **Volunteer | Contribute | Donate** <br />
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
@@ -79,9 +82,9 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
 • https://DiasporaFoundation.org/donate <br />
 
-## <a name="wiki-y">Y</a>    
-    
-- **Yahoo.com**    
+## <a name="wiki-y">Y</a>
+
+- **Yahoo.com**
     
 ## <a name="wiki-w">W</a>
     
