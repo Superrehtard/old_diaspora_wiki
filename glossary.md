@@ -66,9 +66,12 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics       
     https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora    
     https://github.com/diaspora/diaspora/wiki/Message-Formatting    
-    
-- **Copyleft**    
-    
+
+<a><table align="right" width="9" height="60"><tr><td>
+![CopyLeft](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GreenCopyleft.svg/50px-GreenCopyleft.svg.png)
+</td></tr><table></a>
+- **Copyleft**
+
 - **[Cubbi.es](http://Cubbi.es)**    
     
 - **Czech Republic** [Pods](./glossary2#wiki-p)    
