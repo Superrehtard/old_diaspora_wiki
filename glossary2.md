@@ -41,7 +41,7 @@
            
 ## <a name="wiki-m">M</a>    
     
-- **Markdown Text Formatting** by John Gruber & Aaron Swartz
+- **Markdown Text Formatting** by John Gruber & Aaron Swartz <br />
 **Markdown** is a lightweight **markup language**. <br />
 • http://daringfireball.net/projects/markdown/basics <br />
 • http://daringfireball.net/projects/markdown/syntax <br />
