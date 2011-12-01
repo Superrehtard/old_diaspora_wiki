@@ -25,11 +25,11 @@
 
 <a><table width="100%"><tr><td>
 ### Aspect
-An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily. 
+An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four _example aspects_, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily. (**Diasporial.com**)
 
 • http://diasporial.com/tutorials/interface-and-aspects
 
-Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to.
+Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to. <br />
 
 • http://diasporafoundation.org
 </td></tr></table></a>
@@ -112,7 +112,7 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 <a><table width="100%"><tr><td>
 ### Diaspora
 
-a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease. (WhatIsDiaspora.com) <br />
+a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease. (**WhatIsDiaspora.com**) <br />
 <br />
 • http://whatIsDiaspora.com <br />
 • http://wikipedia.org/wiki/Diaspora_(social_network) <br />
@@ -241,7 +241,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 ### History of Diaspora**  	
 
-**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely. (WhatIsDiaspora.com) <br />
+**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely. (**WhatIsDiaspora.com**) <br />
 <br />
 • http://whatIsDiaspora.com
 
