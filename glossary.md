@@ -211,11 +211,18 @@ a software that can be installed on a server by someone that has the knowledge t
     [ [\#newhere](#wiki-h) **|** [\#help](#wiki-h) **|** [\#diaspora](#wiki-h) **|** [\#dev](#wiki-h) **|** [\#hacker](#wiki-h) **|** [\#federation](#wiki-h) **|** [\#meetup](#wiki-h) **|** [\#occupy](#wiki-h) **|** [\#love](#wiki-h) **|** [\#freedom](#wiki-h) **|** [\#opensource](#wiki-h) **|** [\#copyleft](#wiki-h) ]        
     
 - **Handshake**    
-    part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**.     
-       
-- **History of Diaspora**  	
-    **Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.     
-    http://whatIsDiaspora.com
+    part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**.
+
+     
+<a><table width="100%"><tr><td>
+
+### History of Diaspora**  	
+
+**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely.
+
+• http://whatIsDiaspora.com
+
+</td></tr></table></a>
 
 - **HTTP | HTTP Secure**    
     **Hypertext Transfer Protocol** (http://)   
