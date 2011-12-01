@@ -30,9 +30,11 @@ Nav table works — note a-tag enclosure (Nov2011) ...
     <th bgcolor="yellow" height="111" >ID</th><th>Name</th><th>Rank</th>
   </tr>
   <tr bgcolor="yellow">
-    <td bgcolor="yellow">2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+    <td bgcolor="yellow">2</td><td>Albert Einstein</td><td>![WikiMedia](http://commons.wikimedia.org/wiki/Main_Page)</td>
   </tr>
 </table></a>
+
+
 
 ---
 
