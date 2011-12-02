@@ -1,4 +1,4 @@
-Use cases of [[Linked Data]] in Diaspora.
+Use cases for [[Linked Data]] in Diaspora.
 ## Identity aggregator
 Say you have an account (an identity) at identi.ca, Gmail and joindiaspora.com. In each of these communities, you have a different set of contacts, but each of these sets of contacts are equally important to you. When you use other websites, you don't want to identify as just one of these identities, with their associated contacts. You want to identify as _all of them_ - you want to identify as you.
 
