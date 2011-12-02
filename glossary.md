@@ -9,11 +9,9 @@
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
 
-<!-- - - - - - - - - - - A - - - - - - - - - - - - -->
-
-<!-- ![A](http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/RomanA-01.svg/60px-RomanA-01.svg.png) -->
-
 # <a name="wiki-a">A</a>
+
+<!-- - - - - - - - - - - A - - - - - - - - - - - - -->
 
 - **[Android.com](http://Android.com)**    
     https://github.com/diaspora/diaspora/wiki/Android-app-project    
