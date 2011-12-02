@@ -26,7 +26,6 @@ anywhere on the site.
 * [[Logos, Icons, and Visual Art]] - includes wallpaper, fan art, etc.
 * [[Tools to use with Diaspora]] - browser add-ons, share buttons, CMS plugins, etc.
 * [[Related and similar projects|Other projects]]
-* [More Diaspora Links](https://github.com/diaspora/diaspora/wiki/links)
 
 ## Developer Resources
 * [[Installing and Running Diaspora]] &lt;--- click here!
@@ -90,7 +89,6 @@ These are all external links.
 * [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
 * [99translations.com](http://99translations.com/public_projects/show/181) - the service we use to help translate Diaspora
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
-* [More Diaspora Links](https://github.com/diaspora/diaspora/wiki/links)
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics [[(Mailing Lists?)|https://github.com/diaspora/diaspora/wiki/How to use the Mailing Lists (Quick Intro)]]
   * [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development and technical topics
 
