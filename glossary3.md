@@ -6,7 +6,8 @@
 
 ### This Page is Under Construction &nbsp; [1](https://github.com/diaspora/diaspora/wiki/glossary/) [2](https://github.com/diaspora/diaspora/wiki/glossary2/) 3
 
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page.
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
+**Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
 
 ## <a name="wiki-r">R</a>
 
