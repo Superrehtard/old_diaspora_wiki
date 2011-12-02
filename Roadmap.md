@@ -26,7 +26,6 @@ authenticate with each other to pull data in.
 - More standards compliance: for instance, we have a salmon implementation, but it's not tested 
 against the spec yet.  It should be made compliant with the salmon spec.
 - Events
-- Diaspora [Groups & Forums](https://github.com/diaspora/diaspora/wiki/links/#wiki-groups)
 - Photo tagging
 - Mentions and tags should work in comments and captions.
 - Software Update Framework for folks running their own pod.
