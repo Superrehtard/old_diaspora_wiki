@@ -1,6 +1,8 @@
 Here's a page for discussing how [Linked Data](http://en.wikipedia.org/wiki/Linked_Data) might be used in Diaspora.
 
 Diaspora might embed [RDFa](http://en.wikipedia.org/wiki/RDFa) (or [RDFa Lite](http://www.w3.org/2010/02/rdfa/sources/rdfa-lite/)) metadata on relevant pages or they may link to a dedicated RDF document using HTML [LINK](http://www.w3.org/TR/html4/struct/links.html#h-12.3) or similar.
+
+For examples of how this metadata may be used, see [[Linked Data Use Cases]].
 ### Profile pages
 User profile pages might expose [FOAF](http://en.wikipedia.org/wiki/FOAF_%28software%29) data.
 
