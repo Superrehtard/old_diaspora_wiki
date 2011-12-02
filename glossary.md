@@ -47,6 +47,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 - **Bug** <br />
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
+• https://github.com/diaspora/diaspora/issues <br />
 • http://wikipedia.org/wiki/Software_bug <br />
 • http://foldoc.org/bug <br />
     
