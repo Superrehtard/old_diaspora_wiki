@@ -104,3 +104,13 @@ tags डालने के लिए किसी भी शब्द को "#
 3. **Voeg tags toe aan je posts en post ze als Openbaar**: ze zullen te zien zijn in de streams van iedereen die die tags volgt!
 4. **Begin gewoon te delen** en in een vloek en een zucht zal je begrijpen hoe het allemaal werkt!
 5. Wanneer je meer vragen hebt, kijk dan gewoon in de [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) en [tutorials](http://diasporial.com/tutorials) of schrijf een openbare post en tag het met  #question en/of #vraag.
+
+
+## বাংলা
+
+#### স্বাগতম! আপনি যেন দ্রুত এবং সহজে Diaspora উপভোগ করা এবং নতুন নতুন মানুষের সাথে পরিচিত হতে পারেন সেজন্য এখানে কিছু পরামর্শ দেয়া হল!
+1. **আপনার প্রোফাইলে ৫টি ট্যাগ(tag) যোগ করুন** যদি এখনও না করে থাকেন: এতে সমমনা মানুষেরা আপনাকে সহজে খুঁজে পাবেন!
+2. **পছন্দের বিষয়গুলোর #tag অনুসরণ করুন** (সার্চবারে #tag সার্চ করুন এবং অনুসরণ করতে "start following" বাটন চাপুন): অনুসরণকৃত ট্যাগ সম্পর্কিত খবরাখবর আপনার স্টৃমে(Stream) দেখা যাবে এবং এর সাহায্যে আপনার সমমনা মানুষদের খুঁজে পাবেন এবং পছন্দের বিষয়গুলোর খবরাখবর জানতে পারবেন!
+3. **আপনার পোস্টগুলোতে ট্যাগ ব্যবহার করুন এবং সার্বজনীন(Public) করে পোস্ট করুন**: যারা ট্যাগগুলো অনুসরণ করবেন তাদের স্টৃমে এই পোস্টগুলো দেখা যাবে!
+4. **শুধু সবার সাথে শেয়ার করা শুরু করুন** তাহলে আপনি সহজেই বুঝতে পারবেন কিভাবে কি করবেন!
+5. আপনার যদি আরো কিছু জানার থেকে থাকে, তাহলে [প্রাজিপ্র](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)(প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী-FAQ) এবং [টিউটরিয়াল(ইংরেজী)](http://diasporial.com/tutorials) দেখুন অথবা #question ট্যাগ সহকারে একটি সার্বজনীন পোস্ট করুন।
