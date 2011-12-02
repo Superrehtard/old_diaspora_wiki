@@ -28,4 +28,4 @@ User posts might expose [SIOC](http://en.wikipedia.org/wiki/Semantically-Interli
 
 ##Advanced
 ###User-embedded RDFa in posts
-Diaspora might allow users to embed RDFa in their posts, e.g. by adding dedicated tags to Markdown. This would particularly useful for applications: a music application, say, might submit a post on my Diaspora account with the title and artist of the track I am currently playing. If enchanted with RDFa (i.e. made machine-readable), this information could be consumed by other applications. For instance, my friend's music player might pick it up, and automatically add the track to _his_ play queue.
+Diaspora might allow users to embed arbitrary RDFa in their posts, e.g. by adding dedicated tags to Markdown. This would particularly useful for applications: a music application, say, might submit a post on my Diaspora account with the title and artist of the track I am currently playing. If enchanted with RDFa (i.e. made machine-readable), this information could be consumed by other applications. For instance, my friend's music player might pick it up, and automatically add the track to _his_ play queue.
