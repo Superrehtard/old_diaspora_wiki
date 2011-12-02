@@ -40,7 +40,7 @@ Internet **[Protocol](#wiki-p)**
    
 ## <a name="wiki-l">L</a>
      
-- **Like or Unlike**    
+- **Like | Unlike**    
     
 - **Linus Torvalds**   
            
