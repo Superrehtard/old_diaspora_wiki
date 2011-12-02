@@ -14,7 +14,7 @@ This page lists all the major issues and feature requests that the developers ar
 * Migrate an account from one pod to another
 * Comment on public posts from other pods
 * "Mention" in comments
-* Groups (private) — [Groups & Forums](https://github.com/diaspora/diaspora/wiki/links/#wiki-groups)
+* Groups (private)
 * Search for posts
 * API
 * Albums/galleries (photo, video, etc.)
