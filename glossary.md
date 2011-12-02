@@ -46,6 +46,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 - **Browser**    
     
 - **Bug** <br />
+• https://github.com/diaspora/diaspora/wiki/Known-Issues-and-Feature-Requests <br />
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
 • https://github.com/diaspora/diaspora/issues <br />
 • http://wikipedia.org/wiki/Software_bug <br />
