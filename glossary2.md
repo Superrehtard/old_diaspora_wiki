@@ -39,13 +39,13 @@ Internet **[Protocol](#wiki-p)**
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
 ## <a name="wiki-l">L</a>
-     
-- **Like | Unlike**    
-    
-- **Linus Torvalds**   
-           
-## <a name="wiki-m">M</a>    
-    
+
+- **Like | Unlike**
+
+- **Linus Torvalds**
+
+## <a name="wiki-m">M</a>
+
 - **Markdown Text Formatting** by John Gruber & Aaron Swartz <br />
 **Markdown** is a lightweight **markup language**. <br />
 • http://daringfireball.net/projects/markdown/basics <br />
