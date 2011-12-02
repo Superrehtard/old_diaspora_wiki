@@ -47,21 +47,21 @@ Internet **[Protocol](#wiki-p)**
 ## <a name="wiki-m">M</a>    
     
 - **Markdown Text Formatting** by John Gruber & Aaron Swartz <br />
-**Markdown** is a lightweight **markup language**. &nbsp;
-• http://daringfireball.net/projects/markdown/basics &nbsp;
-• http://daringfireball.net/projects/markdown/syntax &nbsp;
-• http://daringfireball.net/projects/markdown/dingus &nbsp;
-• http://daringfireball.net/projects/markdown &nbsp;
-&nbsp;
-**Markdown** Text Formatting &nbsp;
-• http://github.github.com/github-flavored-markdown &nbsp;
-• http://wikipedia.org/wiki/Markdown &nbsp;
-&nbsp;
-**Markdown** text formatting on **Diaspora** &nbsp;
-• https://github.com/diaspora/diaspora/wiki/Message-Formatting &nbsp;
-• http://diasporatest.com/index.php/Markup_to_format_text &nbsp;
+**Markdown** is a lightweight **markup language**. <br />
+• http://daringfireball.net/projects/markdown/basics <br />
+• http://daringfireball.net/projects/markdown/syntax <br />
+• http://daringfireball.net/projects/markdown/dingus <br />
+• http://daringfireball.net/projects/markdown <br />
+<br />
+**Markdown** Text Formatting <br />
+• http://github.github.com/github-flavored-markdown <br />
+• http://wikipedia.org/wiki/Markdown <br />
+<br />
+**Markdown** text formatting on **Diaspora** <br />
+• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
+• http://diasporatest.com/index.php/Markup_to_format_text <br />
 • http://differentcomputers.com/diaspora-text-formatting <br />
-• http://diasporial.com/tutorials/formatting-text &nbsp;
+• http://diasporial.com/tutorials/formatting-text <br />
 
 - **Markup Language** &nbsp;
 high level (human-readable) computer language. &nbsp;
