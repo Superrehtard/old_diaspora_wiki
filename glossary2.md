@@ -93,7 +93,7 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]
 
 - **Netiquette** <br />
-(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community (**Wikipedia**) <br />
+(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community. ([Wikipedia](http://wikipedia.org/wiki/Netiquette)) <br />
 • http://urbandictionary.com/define.php?term=netiquette <br />
 • http://wikipedia.org/wiki/Netiquette <br />
 
@@ -114,7 +114,7 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 <a><table width="99%"><tr><td>
 ### Pod ([Diaspora][D] Server)
 
-**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease. (**WhatIsDiaspora.com**)
+**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease. ([WhatIsDiaspora](http://WhatIsDiaspora.com))
 
 • http://whatIsDiaspora.com <br />
 • [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.<br />
@@ -132,7 +132,7 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 [ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
 
 - **Protocol** ([Network](#wiki-n) Communications) <br />
-a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc. ([FOLDOC]http://foldoc.org/protocol) <br />
+a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.&nbsp; ([FOLDOC](http://foldoc.org/protocol)) <br />
 <br />
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
 • https://github.com/diaspora/diaspora/wiki/SSL-problems <br />
