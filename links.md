@@ -3,6 +3,7 @@
 ### This Page is Under Construction    
 
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/glossary)** page.
+
 This page (Diaspora Wiki Links) will probably be shut down & merged with [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/glossary).
 
 
