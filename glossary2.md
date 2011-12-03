@@ -29,10 +29,11 @@ Internet **[Protocol](#wiki-p)**
       
 ## <a name="wiki-j">J</a>
 
-- **Japan** [Pods](https://github.com/diaspora/diaspora/wiki/glossary2/#wiki-p)    
-    [ [Mispora.net](https://mispora.net) ]    
-    
-- **Javascript** <br />
+- **Japan** [Pods][P]
+   
+[ [Mispora.net](https://mispora.net) ]
+
+- **Javascript** <br>
 • https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <b>
 • http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br>
     
