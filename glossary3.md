@@ -28,14 +28,21 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 • http://rubyonrails.org <br />
 • http://rubyforge.org <br />
 
-- **Ruby on Rails**
-    
-## <a name="wiki-s">S</a>    
-    
-- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)    
-    
-- **Seed**       
-    definition of **seed** ...    
+- **Ruby Development** <br>
+• http://wikipedia.org/wiki/Ruby_(programming_language) <br>
+• http://wikipedia.org/wiki/Ruby_on_Rails <br>
+• http://RubyInstaller.org <br>
+• http://RubyOnRails.org <br>
+• http://Ruby-Forum.com (br)
+• http://Ruby-Lang.org <br>
+• http://Ruby-Doc.org <br>
+
+## <a name="wiki-s">S</a>   
+
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder) (br)
+
+- **Seed** <br>
+definition of **seed** ... <br>
     
 - **Serbia** [Pods][P] <br />
    
