@@ -41,7 +41,7 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 
 ## <a name="wiki-s">S</a>   
 
-- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder) (br)
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder) <br>
 
 - **Seed** <br>
 definition of **seed** ... <br>
