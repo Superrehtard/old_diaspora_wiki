@@ -151,9 +151,10 @@ a set of formal rules describing how to transmit data, especially across a netwo
 
 ### Diaspora Lexicon credits
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
-- **[GitHub.com](https://GitHub.com/diaspora)** <br />
-- **[FOLDOC.org](http://FOLDOC.org)** <br />
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
+- **[Diasporial.com](http://Diasporial.com)**
+- **[GitHub.com](https://GitHub.com/diaspora)**
+- **[FOLDOC.org](http://FOLDOC.org)**
 - **[PodUpTi.me](http://PodUpTi.me)** <br />
 - **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
 - **[Wikipedia.org](http://Wikipedia.org)** <br />
