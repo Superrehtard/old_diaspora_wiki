@@ -6,7 +6,7 @@
 
 ### This Page is Under Construction &nbsp; [1](https://github.com/diaspora/diaspora/wiki/glossary/) 2 [3](https://github.com/diaspora/diaspora/wiki/glossary3/)
 
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
+[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br>
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
 
 # <a name="wiki-i">I</a>
@@ -15,17 +15,17 @@
 ![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
 </td></tr></table>
 
-- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br />
+- **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br>
 http://Wikipedia.org/wiki/Ilya_Zhitomirskiy
 
 -  **IP | IPv4 | IPv6** <br />
 Internet **[Protocol](#wiki-p)**
        
-- **IRC Channels** <br />
-• https://github.com/diaspora/diaspora/wiki/How-we-use-IRC <br />
-• http://webchat.freenode.net/?channels=diaspora-dev <br />
-• http://webchat.freenode.net/?channels=diaspora-de <br />
-• http://webchat.freenode.net/?channels=diaspora <br />
+- **IRC Channels** <br>
+• https://github.com/diaspora/diaspora/wiki/How-we-use-IRC <br>
+• http://webchat.freenode.net/?channels=diaspora-dev <br>
+• http://webchat.freenode.net/?channels=diaspora-de <br>
+• http://webchat.freenode.net/?channels=diaspora <br>
       
 ## <a name="wiki-j">J</a>
 
@@ -33,8 +33,8 @@ Internet **[Protocol](#wiki-p)**
     [ [Mispora.net](https://mispora.net) ]    
     
 - **Javascript** <br />
-• https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <br/>
-• http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br />
+• https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <b>
+• http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br>
     
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**   
    
@@ -46,22 +46,22 @@ Internet **[Protocol](#wiki-p)**
 
 ## <a name="wiki-m">M</a>
 
-- **Markdown Text Formatting** by John Gruber & Aaron Swartz <br />
-**Markdown** is a lightweight **markup language**. <br />
-• http://daringfireball.net/projects/markdown/basics <br />
-• http://daringfireball.net/projects/markdown/syntax <br />
-• http://daringfireball.net/projects/markdown/dingus <br />
-• http://daringfireball.net/projects/markdown <br />
-<br />
-**Markdown** Text Formatting <br />
-• http://github.github.com/github-flavored-markdown <br />
-• http://wikipedia.org/wiki/Markdown <br />
-<br />
-**Markdown** text formatting on **Diaspora** <br />
-• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
-• http://diasporatest.com/index.php/Markup_to_format_text <br />
-• http://differentcomputers.com/diaspora-text-formatting <br />
-• http://diasporial.com/tutorials/formatting-text <br />
+- **Markdown Text Formatting** by John Gruber & Aaron Swartz <br>
+**Markdown** is a lightweight **markup language**. <br>
+• http://daringfireball.net/projects/markdown/basics <br>
+• http://daringfireball.net/projects/markdown/syntax <br>
+• http://daringfireball.net/projects/markdown/dingus <br>
+• http://daringfireball.net/projects/markdown <br>
+<br>
+**Markdown** Text Formatting <br>
+• http://github.github.com/github-flavored-markdown <br>
+• http://wikipedia.org/wiki/Markdown <br>
+<br>
+**Markdown** text formatting on **Diaspora** <br>
+• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br>
+• http://diasporatest.com/index.php/Markup_to_format_text <br>
+• http://differentcomputers.com/diaspora-text-formatting <br>
+• http://diasporial.com/tutorials/formatting-text <br>
 
 - **Markup Language** &nbsp;
 high level (human-readable) computer language. &nbsp;
@@ -72,11 +72,11 @@ high level (human-readable) computer language. &nbsp;
          
 - **Meetup**    
     
-- **Message | Conversation** <br />
-a private **message**, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header. <br />
-• https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics <br />
-• https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora <br />
-• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br />
+- **Message | Conversation** <br>
+a private **message**, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header. <br>
+• https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics <br>
+• https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora <br>
+• https://github.com/diaspora/diaspora/wiki/Message-Formatting <br>
 
 - **Metaphor** <br />
     
@@ -88,14 +88,14 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
       
 ## <a name="wiki-n">N</a> 
   
-- **Netherlands**  [Pods][P] <br />
+- **Netherlands**  [Pods][P] <br>
     
 [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]
 
 - **Netiquette** <br />
-(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community. ([Wikipedia](http://wikipedia.org/wiki/Netiquette)) <br />
-• http://urbandictionary.com/define.php?term=netiquette <br />
-• http://wikipedia.org/wiki/Netiquette <br />
+(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community. ([Wikipedia](http://wikipedia.org/wiki/Netiquette)) <br>
+• http://urbandictionary.com/define.php?term=netiquette <br>
+• http://wikipedia.org/wiki/Netiquette <br>
 
 - **Network**
 
@@ -116,16 +116,16 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 
 **Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease. ([WhatIsDiaspora](http://WhatIsDiaspora.com))
 
-• http://whatIsDiaspora.com <>
+• http://whatIsDiaspora.com <br>
 • [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is. <br>
 • [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org. <br>
-• http://dspr.tk/a <br>
 
 **Community Supported Pods**
 
-This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com). <br />
+This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com). <br>
 
-• https://github.com/diaspora/diaspora/wiki/Community-supported-pods
+• https://github.com/diaspora/diaspora/wiki/Community-supported-pods <br>
+• http://dspr.tk/a <br>
 </td></tr></table></a>
 
 - **Programming Language**
