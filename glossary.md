@@ -320,4 +320,4 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 [Y]: ./glossary3#wiki-y
 [Z]: ./glossary3#wiki-z
 
-###: hey
+###[:blue] hey
