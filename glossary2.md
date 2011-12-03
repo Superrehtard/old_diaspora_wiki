@@ -151,23 +151,23 @@ a set of formal rules describing how to transmit data, especially across a netwo
 
 ### Diaspora Lexicon credits
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
-- **[Diasporial.com](http://Diasporial.com)**
-- **[GitHub.com](https://GitHub.com/diaspora)**
-- **[FOLDOC.org](http://FOLDOC.org)**
-- **[PodUpTi.me](http://PodUpTi.me)** <br />
-- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
-- **[Wikipedia.org](http://Wikipedia.org)** <br />
-- **[Wiktionary.org](http://Wiktionary.org)** <br />
-- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** <br />
-- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br>
+- **[Diasporial.com](http://Diasporial.com)** <br>
+- **[GitHub.com](https://GitHub.com/diaspora)** <br>
+- **[FOLDOC.org](http://FOLDOC.org)** <br>
+- **[PodUpTi.me](http://PodUpTi.me)** <br>
+- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br>
+- **[Wikipedia.org](http://Wikipedia.org)** <br>
+- **[Wiktionary.org](http://Wiktionary.org)** <br>
+- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** <br>
+- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br>
 
 ### Links to section headings
 
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br>
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br>
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br>
+- https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors) <br>
 
 <a name="wiki-a"><table width="99%" bgcolor="silver" border="1" bordercolor="navy"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
