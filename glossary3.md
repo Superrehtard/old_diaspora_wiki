@@ -1,5 +1,4 @@
 # Diaspora Lexicon
-
 ## [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
 
 <a name="wiki-a"><table width="99%" border="1"><tr>
