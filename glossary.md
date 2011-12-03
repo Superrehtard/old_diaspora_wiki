@@ -213,18 +213,18 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 ## <a name="wiki-h">H</a>
 
-- **Hacker**
-
-<a><table width="99"><tr><td>
+- **Hacker** <br>
+<br>
+<a><table width="99%"><tr><td>
 indie **computer programmer, coder, developer or dev**. <br />
 The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
 </td></tr></table></a>
-
-• http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br />
-• http://wikipedia.org/wiki/Hacker_(term) <br />
-• http://wikipedia.org/wiki/Programmer <br />
-• http://foldoc.org/programmer <br />
-• http://foldoc.org/hacker <br />
+<br>
+• http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
+• http://wikipedia.org/wiki/Hacker_(term) <br>
+• http://wikipedia.org/wiki/Programmer <br>
+• http://foldoc.org/programmer <br>
+• http://foldoc.org/hacker <br>
     
 - **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**) <br />
 allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**. <br />
