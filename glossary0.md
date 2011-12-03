@@ -81,10 +81,10 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink"><tr>
-<td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">
-<a><table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink"><tr>
-<td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">
+<a><table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="navy"><tr>
+<td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="purple">
+<a><table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="maroon"><tr>
+<td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="teal">
 999 </td><td>Albert Einstein</td><td>Nearly as awesome</td></tr></table></a>
 </td><td>Albert Einstein</td><td>Nearly as awesome</td></tr></table></a>
 
