@@ -21,7 +21,7 @@
 a dynamic, reflective, general-purpose **object-oriented programming language** that combines syntax inspired by Perl with Smalltalk-like features.&nbsp; Ruby originated in Japan during the mid-1990s and was first developed and designed by Yukihiro "Matz" Matsumoto.&nbsp; It was influenced primarily by Perl, Smalltalk, Eiffel, and Lisp. <br />
 <br>
 **Ruby** supports multiple programming paradigms, including functional, object oriented, imperative and reflective.&nbsp; It also has a dynamic type system and automatic memory management; it is therefore similar in varying respects to Smalltalk, Python, Perl, Lisp, Dylan, Pike, and CLU. <br>
-&nbsp;
+&nbsp; <br>
 The standard 1.8.7 implementation is written in C, as a single-pass interpreted language. <br>
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
