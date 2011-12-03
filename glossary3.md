@@ -32,6 +32,7 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 - **Ruby Development** <br>
 • http://wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://wikipedia.org/wiki/Ruby_on_Rails <br>
+• http://Rubyist.net/~slagell/ruby <br>
 • http://RubyInstaller.org <br>
 • http://RubyOnRails.org <br>
 • http://Ruby-Forum.com <br>
