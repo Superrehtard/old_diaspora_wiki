@@ -74,7 +74,25 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
+<a>
+<table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">
+  <tr>
+    <td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">
 
+<a>
+<table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">
+  <tr>
+    <td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink">2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
+</a>
+
+    </td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
+</a>
+
+--- 
 
 # <a style="background-color: yellow;"><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
