@@ -213,7 +213,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 ## <a name="wiki-h">H</a>
 
-- **Hacker** <br>
+- **Hacker**
 <a><table width="99%"><tr><td>
 indie **computer programmer, coder, developer or dev**. <br />
 The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
