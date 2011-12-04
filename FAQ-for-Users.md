@@ -275,7 +275,7 @@ No, not currently (but see [cubbi.es](http://cubbi.es/)).
 Yes, but this is still not a polished feature and the formatting of the results is still pretty rough (you get raw markdown text, for example).  If you want to try it anyway, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS. 
 
 ***Is there a Diaspora Android-app?***  
-Not yet, it's actually under developement, you can find [here](https://groups.google.com/group/diaspora-android/) some infos about it and [here](https://github.com/geraspora/diaspora-android) the code. You can help developing it simply joining the google group.
+You can find an alpha version of it [here](https://market.android.com/details?id=com.voidcode.diasporawebclient). It still under developement, you can find [here](https://groups.google.com/group/diaspora-android/) some infos about it and [here](https://github.com/geraspora/diaspora-android) the code. You can help developing it simply joining the google group.
 
 ***Is it possible to connect my identi.ca account to diaspora and post my diaspora posts automatically on identi.ca?***     
 Yes, you can make your public diaspora posts to be automatically posted on identi.ca. There are two methods:     
