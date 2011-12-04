@@ -11,4 +11,4 @@ Bob has just acquired an awesome new track from his indy musician friend. He pla
 
 John think Bob has a great taste in music, so he has added Bob's Diaspora account to the music player on his mobile phone. While John is out running, listening to music on his mobile phone, the music player receives the update from Bob's account. It sees that the post contains an embedded link to a document containing title and artist information of a track, as well as an download URL for it. It automatically downloads the track and adds it to John's play queue.
 
-A few minutes later, the awesome new track, which John has never heard before, seamlessly begins playing after the previous track. When he looks at the phone's display to check out what's up with the great sound, title and artist information is properly shown.
+A few minutes later, the awesome new track, which John has never heard before, seamlessly begins playing after the previous track. When he looks at the phone's display to check out what's up with the great sound pouring into his ears, title and artist information is properly shown.
