@@ -85,7 +85,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 <td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="purple">
 <a><table width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="maroon"><tr>
 <td  width="66%" height="33" cellpading="9" cellspacing="9" bgcolor="yellow" style="background-color: pink" bordercolor="teal">
-999 </td><td>Albert Einstein</td><td> <a style="color: orange;"> Nearly as awesome</td></tr></table></a>
+999 </td><td>Albert Einstein</td><td> <a style="color: orange;"> Nearly as awesome </a></td></tr></table></a>
 </td><td>Albert Einstein</td><td>Nearly as awesome</td></tr></table></a>
 
 --- 
