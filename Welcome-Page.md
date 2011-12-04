@@ -46,7 +46,7 @@
 
 #### Ciao!! Ecco qualche piccolo suggerimento per cominciare subito a usare diaspora e conoscere nuovi amici!
 
-1. **Aggiungi 5 tags al tuo profilo** se non lo hai già fatto: questo permetterà a persone simili a te di trovarti più facilmente.
+1. **Aggiungi 5 tag al tuo profilo** se non lo hai già fatto: questo permetterà a persone simili a te di trovarti più facilmente.
 2. **Comincia a seguire qualche #tag** (cercalo nella barra di ricerca e clicca "segui #tag"): i tag che segui appariranno automaticamente nel tuo stream, ti faranno conoscere persone coi tuoi stessi interessi e ti terranno aggiornato sugli argomenti che interessano di più!
 3. **Metti dei tag nei tuoi post e pubblicali come "pubblici"**: appariranno nello stream di chiunque segua quei tag!
 4. **Comincia a condividere**: capirai subito come funziona Diaspora*!
