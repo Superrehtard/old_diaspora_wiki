@@ -104,17 +104,24 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
-- **Diaspora** <br />
-• http://wikipedia.org/wiki/Diaspora_(software) <br />
-• http://urbandictionary.com/define.php?term=diaspora 
+<a><table width="100%"><tr><td>
+### Diaspora*
+** free social network**
+
+• http://urbandictionary.com/define.php?term=diaspora <br> 
+• http://wikipedia.org/wiki/Diaspora_(social_network) <br>
+• http://wikipedia.org/wiki/Diaspora_(software) <br>
+</td></tr></table></a>
 
 <a><table width="100%"><tr><td>
 ### Diaspora
+**free open source software**
 
-a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br />
-<br />
-• http://whatIsDiaspora.com <br />
-• http://wikipedia.org/wiki/Diaspora_(social_network) <br />
+a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br>
+<br>
+• http://wikipedia.org/wiki/Diaspora_(social_network) <br>
+• http://wikipedia.org/wiki/Diaspora_(software) <br>
+• http://whatIsDiaspora.com
 </td></tr></table></a>
 
 <a><table width="100%"><tr><td>
