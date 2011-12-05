@@ -201,14 +201,14 @@ http://diasporial.com/join-the-team
 • http://www.urbandictionary.com/define.php?term=facebook <br />
 • http://wikipedia.org/wiki/Facebook
 
-- **Featured Users**     
-    **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left.    
-    http://diasporial.com/tutorials/follows-and-followers    
+- **Featured Users** <br>
+**Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left. ([Diasporial](http://diasporial.com/tutorials/follows-and-followers)) <br>
+http://diasporial.com/tutorials/follows-and-followers
 
-- **Federation**          
-    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol    
-    http://wikipedia.org/wiki/Federation_(information_technology)    
-    http://foldoc.org/federation     
+- **Federation** <br>
+• https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br>
+• http://wikipedia.org/wiki/Federation_(information_technology) <br>
+• http://foldoc.org/federation <br>
 
 - **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
 
