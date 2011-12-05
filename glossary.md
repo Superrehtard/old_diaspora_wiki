@@ -63,8 +63,8 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br>
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
 • https://github.com/diaspora/diaspora/wiki/Contributors <br>
-• http://diasporial.com/other-documentation <br>
-• https://www.DiasporaFoundation.org/donate
+• https://DiasporaFoundation.org/donate <br>
+• http://diasporial.com/join-the-team <br>
 
 - **Conversation | Message** <br>
 • see **[Message | Conversation][M]**
