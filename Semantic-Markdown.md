@@ -1,4 +1,4 @@
-This is an extension of Markdown which adds tags mapping to RDFa Lite.
+This is an extension of Markdown which adds tags mapping to [RDFa Lite](http://www.w3.org/2010/02/rdfa/sources/rdfa-lite/).
 
 Each semantic markdown _element_ begins with a left-wards curly bracket (`{`). The opening bracket is immediately followed by a list of one or more _attributes_. Each attribute in the list is separated by a space character (` `).
 
