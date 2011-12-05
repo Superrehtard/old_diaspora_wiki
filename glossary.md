@@ -132,8 +132,8 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-- **Donate | [Contribute][C] | Volunteer** <br>
-• see [Contribute][C]
+- **Donate |** **[Contribute][C]** **| Volunteer** <br>
+• see **[Contribute][C]**
 
 ## <a name="wiki-e">E</a>
 
