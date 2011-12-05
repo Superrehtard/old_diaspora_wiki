@@ -341,6 +341,35 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
 - https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
 
+---
+
+<a><table width="99%"><tr><td width="49">
+
+### Diaspora Lexicon credits
+
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
+- **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
+- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing) <br />
+- **[GitHub.com](https://GitHub.com/diaspora)** <br />
+- **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P]) <br />
+- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)** <br />
+- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images) <br />
+- **[Wikipedia.org](http://Wikipedia.org)** <br />
+- **[Wiktionary.org](http://Wiktionary.org)** <br />
+- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
+
+</td><td>
+
+### Links to section headings
+
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
+- https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
+
+</td></tr></table></a>
+
 <a name="wiki-a"><table width="99%" bgcolor="silver" border="1" bordercolor="navy"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
