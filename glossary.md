@@ -170,10 +170,9 @@ a private space where a group of friends or colleagues can discuss issues, colla
     When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**.&nbsp; Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers     
 
-- **Forum or Group**       
-    a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.     
-    http://wikipedia.org/wiki/Internet_forum    
-    
+- **Forum | Group Software** <br />
+• see **[Group | Forum Software][G]**
+
 - **France** [Pods][P]
 
 [ [Diasp.eu.com](https://diasp.eu.com) **|** [Social.Belfalas.org](https://social.belfalas.org) **|** [Free-Beer.ch](https://free-beer.ch) **|** [Diaspora.re](https://diaspora.re) **|** [Diaspora.sjau.ch](https://diaspora.sjau.ch) ]
