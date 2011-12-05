@@ -164,21 +164,7 @@ definition of **spore** ... <br />
 
 # OLD DIASPORA WIKI LINKS PAGE (delete)
 
----
 
-> **Quick Links Index**
-
-> **• [_Diaspora_ Groups & Forums](#wiki-groups") —** Links about Groups & Forums ...
-
-> **• [_Diaspora_ Hyper-Linkage](#wiki-hyper-linkage") —** Pages with lots of links ...
-
-> **• [Formatting Text with _Markdown_](#wiki-markdown") —** Help for **Markdown** mark-up ...
-
-> **• [Getting Help & Answers](#wiki-answers") —** **Diaspora** help resources ...
-
-> **• [github.com](#wiki-github") —** **Diaspora** resources on **github.com** ...      
->     
----
 
 <!-- - - - - - - - - - - - - Groups & Forums Links - - - - - - - - - - - - - - - - -->
 
@@ -199,34 +185,7 @@ Further complicating things are two camps of people.  One gets along just fine w
 ###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
 http://Wikipedia.org/wiki/Margaret_Mead
 
-- **Internet forum** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Internet_forum
 
-- **Comparison of Internet forum software** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
-
-- **Community of interest** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community_of_interest
-
-- **Community structure** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community_structure
-
-- **Community** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community
-
-- **Diaspora Groups & Forums** (DiasporaForums.org)    
-    http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
-
-- **D*Group** (alpha) **Emulator**    
-    http://Diasp.org/u/d_group
-
-- **Diaspora Forums** (groups.Google.com)    
-     http://groups.google.com/group/diaspora-discuss (Regular Folks)    
-     http://groups.google.com/group/diaspora-dev (Devs)     
-   
-- **Setting up a topic account**    
-    http://diasporial.com/tutorials/setting-up-a-topic-account     
-   
 end **_Diaspora_ Groups & Forums** links
 
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
