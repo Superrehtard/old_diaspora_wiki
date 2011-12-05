@@ -347,7 +347,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 ### Diaspora Lexicon credits
 </td><td width="49%">
 ### Links to section headings
-</td></tr><td width="49%"><tr>
+</td></tr><tr><td width="49%">
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
