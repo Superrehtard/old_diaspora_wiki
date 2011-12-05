@@ -203,9 +203,14 @@ web-based hosting service for software development projects that use the Git rev
 
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
 
-- **Group or Forum** <br />
-a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**. <br />
-• http://wikipedia.org/wiki/Internet_forum    
+- **Group | Forum Software** <br />
+a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**. <br>
+<br>
+• http://wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
+• http://wikipedia.org/wiki/List_of_internet_forums <br>
+• http://wikipedia.org/wiki/Virtual_community <br>
+• http://wikipedia.org/wiki/Internet_forum <br>
+• http://forummatrix.org <br>
 
 ## <a name="wiki-h">H</a>
 
