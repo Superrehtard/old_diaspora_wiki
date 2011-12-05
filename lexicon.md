@@ -4,7 +4,7 @@
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
-### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/glossary2/) [3](https://github.com/diaspora/diaspora/wiki/glossary3/)
+### This Page is Under Construction &nbsp; 1 [2](https://github.com/diaspora/diaspora/wiki/lexicon2/) [3](https://github.com/diaspora/diaspora/wiki/lexicon3/)
 
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
@@ -246,7 +246,7 @@ http://diasporial.com/tutorials/follows-and-followers
 web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br />
 • http://Wikipedia.org/wiki/GitHub <br />
 • **This wiki page is on GitHub.com** <br /> 
-• https://GitHub.com/diaspora/diaspora/wiki/glossary <br />    
+• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br />    
 • http://github.github.com/github-flavored-markdown <br />
 
 - **Google.** <br>
@@ -344,13 +344,13 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 </td><td width="49%" valign="top">
 
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a <br>
+- https://github.com/diaspora/diaspora/wiki/lexicon#wiki-a <br>
 (A thru #wiki-h)
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i <br>
+- https://github.com/diaspora/diaspora/wiki/lexicon2#wiki-i <br>
 (I thru #wiki-q)
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r <br>
+- https://github.com/diaspora/diaspora/wiki/lexicon3#wiki-r <br>
 (R thru #wiki-z)
-- https://github.com/diaspora/diaspora/wiki/glossary0 <br>
+- https://github.com/diaspora/diaspora/wiki/lexicon0 <br>
 (notes for wiki editors)
 
 </td></tr><tr><td width="49%" valign="top">
@@ -364,31 +364,31 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 </td></tr></table></a>
 
-[A]: ./glossary#wiki-a
-[B]: ./glossary#wiki-b
-[C]: ./glossary#wiki-c
-[D]: ./glossary#wiki-d
-[E]: ./glossary#wiki-e   
-[F]: ./glossary#wiki-f   
-[G]: ./glossary#wiki-g   
-[H]: ./glossary#wiki-h   
+[A]: ./lexicon#wiki-a
+[B]: ./lexicon#wiki-b
+[C]: ./lexicon#wiki-c
+[D]: ./lexicon#wiki-d
+[E]: ./lexicon#wiki-e   
+[F]: ./lexicon#wiki-f   
+[G]: ./lexicon#wiki-g   
+[H]: ./lexicon#wiki-h   
     
-[I]: ./glossary2#wiki-i
-[J]: ./glossary2#wiki-j
-[K]: ./glossary2#wiki-k
-[L]: ./glossary2#wiki-l
-[M]: ./glossary2#wiki-m
-[N]: ./glossary2#wiki-n
-[O]: ./glossary2#wiki-o
-[P]: ./glossary2#wiki-p
-[Q]: ./glossary2#wiki-q
+[I]: ./lexicon2#wiki-i
+[J]: ./lexicon2#wiki-j
+[K]: ./lexicon2#wiki-k
+[L]: ./lexicon2#wiki-l
+[M]: ./lexicon2#wiki-m
+[N]: ./lexicon2#wiki-n
+[O]: ./lexicon2#wiki-o
+[P]: ./lexicon2#wiki-p
+[Q]: ./lexicon2#wiki-q
     
-[R]: ./glossary3#wiki-r
-[S]: ./glossary3#wiki-s
-[T]: ./glossary3#wiki-t
-[U]: ./glossary3#wiki-u
-[V]: ./glossary3#wiki-v
-[W]: ./glossary3#wiki-w
-[X]: ./glossary3#wiki-x
-[Y]: ./glossary3#wiki-y
-[Z]: ./glossary3#wiki-z
+[R]: ./lexicon3#wiki-r
+[S]: ./lexicon3#wiki-s
+[T]: ./lexicon3#wiki-t
+[U]: ./lexicon3#wiki-u
+[V]: ./lexicon3#wiki-v
+[W]: ./lexicon3#wiki-w
+[X]: ./lexicon3#wiki-x
+[Y]: ./lexicon3#wiki-y
+[Z]: ./lexicon3#wiki-z
