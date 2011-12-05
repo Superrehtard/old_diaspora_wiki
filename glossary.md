@@ -146,15 +146,18 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-- **Diasporial**
+<a><table width="99%"><tr><td>
 
-• http://Diasoporial.com <br>
+### Diasporial
+- http://Diasoporial.com <br>
 • **What's Diaspora?** <br>
 http://diasporial.com/whats-diaspora <br>
+
 <br>
-• **Getting Started**
+• **Getting Started** <br>
 http://diasporial.com/tutorials
 
+</td></tr></table></a>
 
 
 
