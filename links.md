@@ -9,8 +9,6 @@ This page (Diaspora Wiki Links) will probably be shut down & merged with [Diaspo
 
 > **Quick Links Index**
 
-> **• [_Diasporial.com_ links](#wiki-diasporial") —** Links from **Diasporial.com** ...
-
 > **• [_Diaspora_ Groups & Forums](#wiki-groups") —** Links about Groups & Forums ...
 
 > **• [_Diaspora_ Hyper-Linkage](#wiki-hyper-linkage") —** Pages with lots of links ...
@@ -22,58 +20,6 @@ This page (Diaspora Wiki Links) will probably be shut down & merged with [Diaspo
 > **• [github.com](#wiki-github") —** **Diaspora** resources on **github.com** ...      
 >     
 ---
-
-<!-- - - - - - - - - - - - - - - Diasporial Links - - - - - - - - - - - - - - - - -->
-
-<a name="wiki-diasporial">\<wiki-diasporial\></a>
-
-## [Diasporial.com](http://Diasporial.com) links
-### What's Diaspora?
-http://diasporial.com/whats-diaspora
-
-### Getting Started
-http://diasporial.com/tutorials
-
-1. **Part I: Signing up**     
-    http://diasporial.com/tutorials/signing-up
-
-2. **Part II: Interface & Aspects**   
-    http://diasporial.com/tutorials/interface-and-aspects
-
-3. **Part III: Follows & Followers**    
-    http://diasporial.com/tutorials/follows-and-followers
-
-4. **Part IV: Start sharing!**    
-    http://diasporial.com/tutorials/start-sharing
-
-5. **Part V: Conversations**     
-    http://diasporial.com/tutorials/conversations
-
-6. **Part VI: Finishing up**    
-    http://diasporial.com/tutorials/conversations
-
-### Other Tutorials on [Diasporial.com](http://Diasporial.com/tutorials)
-http://diasporial.com/tutorials
-
-- **Connecting Diaspora to other services**    
-    http://diasporial.com/tutorials/connecting-diaspora-to-other-services
-
-- **Tips and Tricks**    
-    http://diasporial.com/tutorials/tips-and-tricks
-
-- **Formatting text**    
-    http://diasporial.com/tutorials/formatting-text
-
-- **Setting up a topic account**    
-    http://diasporial.com/tutorials/setting-up-a-topic-account
-
-### Other Documentation on [Diasporial.com](http://Diasporial.com/other-documentation)
-http://diasporial.com/other-documentation
-
-### Join the Team
-http://diasporial.com/join-the-team
-
-end **[Diasporial.com](http://Diasporial.com)** links
 
 <!-- - - - - - - - - - - - - Groups & Forums Links - - - - - - - - - - - - - - - - -->
 
