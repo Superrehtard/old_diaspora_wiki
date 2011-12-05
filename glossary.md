@@ -155,7 +155,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 - **What's Diaspora?** <br>
 **Diaspora** is the social network that puts you in control of your information. You decide what you’d like to share, and with whom. You retain full ownership of all your information, including friend lists, messages, photos, and profile details. <br>
 <br>
-Share what you want, with whom you want. ([Diasporial](http://diasporial.com/whats-diaspora))
+Share what you want, with whom you want. ([Diasporial](http://diasporial.com/whats-diaspora)) <br>
 http://diasporial.com/whats-diaspora
 
 - **Getting Started** <br>
