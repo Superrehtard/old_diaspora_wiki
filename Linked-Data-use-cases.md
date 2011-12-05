@@ -12,3 +12,10 @@ Bob has just acquired an awesome new track from his indy musician friend, Indy. 
 John think Bob has a great taste in music, so he has added Bob's Diaspora account as a friend to the music player on his mobile phone. While John is out running, listening to music on his mobile phone, the music player receives the update from Bob's account. It sees that the post contains an embedded link to a document containing title and artist information of a track, as well as an download URL for it. The music player automatically downloads the track and adds it to John's play queue.
 
 A few minutes later, the awesome new track, which John has never heard before, seamlessly begins playing after the previous track in his queue. When he looks at the phone's display to check out what's up with the great sound pouring into his ears, title and artist information is properly shown.
+
+## Geolocation
+Dex wants his best friends to know where he is _at all times_. He sets up a location-aware application on his phone to post location updates to his "BFF" aspect on Diaspora.
+
+When the application detects significant changes in Dex's location, it obtains a plain text name of the general area (e.g. city name) from a web service and posts a message to Diaspora: "Dex is now in Carville, LA." The message also contains an embedded representation of the location in the [Geo](http://www.w3.org/2003/01/geo/) vocabulary.
+
+Ella has a similar application on her phone, which is set up to follow Dex's updates. The application receives the update from Dex and parses the embedded location data. Since Ella is also in Carville, it plays a sound to notify her that Dex is nearby.
