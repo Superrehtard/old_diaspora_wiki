@@ -86,18 +86,11 @@ definition of **spore** ... <br />
 
 ## <a name="wiki-v">V</a>
 
-- **Volunteer | [Contribute][C] | Donate** <br>
-• see **[Contribute][C]** <br>
+- Volunteer | [Contribute][C] | **Donate** <br>
+• see [Contribute][C]
 
-- Volunteer | [Contribute][C] | Donate <br>
-• see **[Contribute][C]** <br>
-
-## <a name="wiki-y">Y</a>
-
-- **Yahoo.com**
-    
 ## <a name="wiki-w">W</a>
-    
+
 - **[Wikipedia.org](http://Wikipedia.org)** <br />
 
 - **[Wiktionary.org](http://Wiktionary.org)** <br />
