@@ -70,54 +70,6 @@ http://Wikipedia.org/wiki/Margaret_Mead
    
 end **_Diaspora_ Groups & Forums** links
 
-<!-- - - - - - - - - - - - - - Diaspora Hyper-Linkage - - - - - - - - - - - - - - - - - - -->
-
-<a name="wiki-hyper-linkage">\<wiki-hyper-linkage\></a>
-
-## _Diaspora_ Hyper-Linkage
-
-**These are Pages with Lots of Links to _Diaspora_ Resources**
-
-- **one**
-
-- **two**
-
-- **three**
-
-end **_Diaspora_ Hyper-Linkage** links
-
-<!-- - - - - - - - - - - - - - Formatting Text with Markdown - - - - - - - - - - - - - - - - - - -->
-
-<a name="wiki-markdown">\<wiki-markdown\></a>
-
-## Formatting Text with [Markdown](http://daringfireball.net/projects/markdown)
-
-- **Markdown Text Formatting by John Gruber**    
-    http://daringfireball.net/projects/markdown
-
-- **Markdown: Basics**    
-    http://daringfireball.net/projects/markdown/basics
- 
-- **Markdown: Syntax**    
-    http://daringfireball.net/projects/markdown/syntax   
-
-- **Markdown: Dingus** (cool sandbox for practice-editing **Markdown**)   
-    http://daringfireball.net/projects/markdown/dingus 
-
-- **Markdown Text Formatting** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Markdown
-
-- **Markup to format text** (DiasporaTest.com)    
-    http://diasporatest.com/index.php/Markup_to_format_text
-
-- **Formatting text** (Diasporial.com)    
-    http://diasporial.com/tutorials/formatting-text
-
-- **Formatting Text on Diaspora** (DifferentComputers.com)    
-    http://differentcomputers.com/diaspora-text-formatting
-
-end **Formatting text with Markdown** links
-
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
 
 <a name="wiki-answers">\<wiki-answers\></a>
