@@ -91,7 +91,7 @@ definition of **spore** ... <br />
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
-• https://DiasporaFoundation.org/donate <br />
+• https://www.DiasporaFoundation.org/donate <br />
 
 ## <a name="wiki-y">Y</a>
 
