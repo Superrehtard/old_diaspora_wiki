@@ -344,14 +344,10 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 ---
 
 <a><table width="99%"><tr><td width="49%">
-
 ### Diaspora Lexicon credits
-
-</td><td>
-
+</td><td width="49%">
 ### Links to section headings
-
-</td></tr><td><tr>
+</td></tr><td width="49%"><tr>
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
