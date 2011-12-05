@@ -1,1 +1,3 @@
-# The page you want is here -> **[Diaspora Lexicon](./lexicon)**
+# old Diaspora Lexicon
+
+### The page you want is here -> **[Diaspora Lexicon](./lexicon)**
