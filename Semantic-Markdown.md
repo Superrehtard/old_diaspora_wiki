@@ -16,7 +16,7 @@ The attribute value is an arbitrary string of characters which may be delimited 
 
 If an attribute value is terminated by a colon, the attribute list is also terminated. If an attribute value is terminated by a right-wards curly bracket, both the attribute list and the semantic markdown element is terminated.
 
-If the attribute list is terminated by a colon, a string of element _content _ may follow. The element content is formatted according to the normal rules of Markdown, i.e. it contains arbitrary Markdown data. The element content is terminated by a right-wards curly bracket, which also terminates the semantic markdown element.
+If the attribute list is terminated by a colon, a string of element _content_ may follow. The element content is formatted according to the normal rules of Markdown, i.e. it contains arbitrary Markdown data. The element content is terminated by a right-wards curly bracket, which also terminates the semantic markdown element.
 
 When the semantic markdown element is terminated, it may be converted to HTML as follows:
 
