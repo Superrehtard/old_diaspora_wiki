@@ -150,7 +150,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 <a><table width="99%"><tr><td>
 
 ### Diasporial
-- http://Diasoporial.com <br>
+- http://Diasporial.com <br>
 - **What's Diaspora?** <br>
 http://diasporial.com/whats-diaspora <br>
 <br>
