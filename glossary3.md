@@ -82,12 +82,15 @@ definition of **spore** ... <br />
 
 - **Unike | Like** <br />
 
-- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
+- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br>
 
 ## <a name="wiki-v">V</a>
 
-- **Volunteer | [Contribute][C] | Donate** <br />
-• see **[Contribute][C]**
+- **Volunteer | [Contribute][C] | Donate** <br>
+• see **[Contribute][C]** <br>
+
+- Volunteer | [Contribute][C] | Donate <br>
+• see **[Contribute][C]** <br>
 
 ## <a name="wiki-y">Y</a>
 
