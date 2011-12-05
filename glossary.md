@@ -64,11 +64,8 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
 • https://www.DiasporaFoundation.org/donate
 
-- **Conversation | Message**    
-    a private message, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
-    https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics       
-    https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora    
-    https://github.com/diaspora/diaspora/wiki/Message-Formatting    
+- **Conversation | Message** <br>
+• see **[Message | Conversation][M]**
 
 <a><table align="right" width="9" height="60"><tr><td>
 ![CopyLeft](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GreenCopyleft.svg/50px-GreenCopyleft.svg.png)
