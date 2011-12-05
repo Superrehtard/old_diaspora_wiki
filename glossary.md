@@ -57,13 +57,13 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 - **Client | Server**    
     https://github.com/diaspora/diaspora/wiki/Client-server-model    
     
-- **Contribute | Volunteer | Donate** <br />
-• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
-• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
-• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
-• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
-• https://DiasporaFoundation.org/donate
-    
+- **Contribute | Volunteer | Donate** <br>
+• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br>
+• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br>
+• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br>
+• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
+• https://www.DiasporaFoundation.org/donate
+
 - **Conversation | Message**    
     a private message, shared with one or multiple followers.&nbsp; Please note that **conversations** only work with **mutual followers**! &nbsp; To access this feature, click on the **mail icon** in the header.    
     https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics       
