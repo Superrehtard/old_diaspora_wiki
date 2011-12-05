@@ -108,9 +108,9 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 ### Diaspora\*
 **free, distributed social network**
 
-<table align="right" width="9" height="9"><tr><td> 
+<a><table align="right" width="9" height="9"><tr><td> 
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
-</td></tr></table>
+</td></tr></table></a>
 
 **Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed social network that is based upon the free Diaspora software.&nbsp; As of late 2011, there are more than 200 thousand users connected to the biggest server.&nbsp; The project was founded in 2010 by four students at New York University’s Courant Institute of Mathematical Sciences, Ilya Zhitomirskiy, Dan Grippi, Max Salzberg and Raphael Sofaer. Diaspora consists of a group of independently owned pods which interoperate to form the network.
 
