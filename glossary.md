@@ -67,7 +67,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • http://diasporial.com/join-the-team <br>
 
 - **Conversation | Message** <br>
-• see **[Message | Conversation][M]**
+• **[Message][M]**
 
 <a><table align="right" width="9" height="60"><tr><td>
 ![CopyLeft](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GreenCopyleft.svg/50px-GreenCopyleft.svg.png)
