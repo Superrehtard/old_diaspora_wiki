@@ -129,7 +129,7 @@ a software that can be installed on a server by someone that has the knowledge t
 </td></tr></table></a>
 
 <a><table width="100%"><tr><td>
-### Diaspora Group or Forum
+### Diaspora Group | Forum
 
 a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.
 
@@ -141,7 +141,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-- **Donate |** **[Contribute][C]** **| Volunteer** <br>
+- **Donate | Contribute | Volunteer** <br>
 • see **[Contribute][C]**
 
 ## <a name="wiki-e">E</a>
