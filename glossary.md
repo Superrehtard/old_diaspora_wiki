@@ -128,16 +128,12 @@ a private space where a group of friends or colleagues can discuss issues, colla
 • **[D*Group](https://Diasp.org/u/d_group)**@Diasp.org — **Diaspora** group emulator
 </td></tr></table></a>
 
-- **[DiasporaForum.org](http://DiasporaFoundation.org)**   
+- **[DiasporaForum.org](http://DiasporaFoundation.org)**
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**   
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-- **Donate | Contribute | Volunteer** <br />
-• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
-• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
-• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
-• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
-• https://DiasporaFoundation.org/donate
+- **Donate | [Contribute][C] | Volunteer** <br>
+• see [Contribute][C]
 
 ## <a name="wiki-e">E</a>
 
