@@ -150,12 +150,28 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 ### Diasporial
 - http://Diasoporial.com <br>
-• **What's Diaspora?** <br>
-http://diasporial.com/whats-diaspora <br>
-
+- **What's Diaspora?** <br>
+• http://diasporial.com/whats-diaspora <br>
 <br>
-• **Getting Started** <br>
-http://diasporial.com/tutorials
+- **Getting Started** <br>
+• http://diasporial.com/tutorials <br>
+• Part I: Signing up <br>
+http://diasporial.com/tutorials/signing-up <br>
+<br>
+• Part II: Interface & Aspects <br>
+http://diasporial.com/tutorials/interface-and-aspects <br>
+<br>
+• Part III: Follows & Followers <br>
+http://diasporial.com/tutorials/follows-and-followers <br>
+<br>
+• Part IV: Start sharing! <br>
+http://diasporial.com/tutorials/start-sharing <br>
+<br>
+• Part V: Conversations <br>
+http://diasporial.com/tutorials/conversations
+<br>
+• Part VI: Finishing up <br>
+http://diasporial.com/tutorials/conversations <br>
 
 </td></tr></table></a>
 
