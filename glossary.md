@@ -343,9 +343,15 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 ---
 
-<a><table width="99%"><tr><td width="49">
+<a><table width="99%"><tr><td width="49%">
 
 ### Diaspora Lexicon credits
+
+</td><td>
+
+### Links to section headings
+
+</td></tr><td><tr>
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
@@ -359,9 +365,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 - **[Wiktionary.org](http://Wiktionary.org)** <br />
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
 
-</td><td>
-
-### Links to section headings
+</td><td width="49%">
 
 - https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
 - https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
