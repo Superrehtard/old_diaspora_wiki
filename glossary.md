@@ -194,11 +194,13 @@ web-based hosting service for software development projects that use the Git rev
 • https://GitHub.com/diaspora/diaspora/wiki/glossary <br />    
 • http://github.github.com/github-flavored-markdown <br />
 
-- **Google.com** <br>
-
-- **Google Groups** <br>
+- **Google.** <br>
+• **Google groups** <br>
 • http://groups.google.com/group/diaspora-discuss <br>
 • http://groups.google.com/group/diaspora-dev <br>
+
+- **Google Groups** <br>
+• see **[Google][G]**
 
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
 
