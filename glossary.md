@@ -349,26 +349,27 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 ### Links to section headings
 </td></tr><tr><td width="49%" valign="top" rowspan="3">
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
+- **[Diasporial.com](http://Diasporial.com)**
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
-- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing) <br />
-- **[GitHub.com](https://GitHub.com/diaspora)** <br />
-- **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P]) <br />
-- **[UrbanDictionary.com](http://UrbanDictionary.com)** <br />
-- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)** <br />
-- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images) <br />
-- **[Wikipedia.org](http://Wikipedia.org)** <br />
-- **[Wiktionary.org](http://Wiktionary.org)** <br />
-- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group) <br />
+- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
+- **[GitHub.com](https://GitHub.com/diaspora)**
+- **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P])
+- **[UrbanDictionary.com](http://UrbanDictionary.com)**
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
+- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images)
+- **[Wikipedia.org](http://Wikipedia.org)**
+- **[Wiktionary.org](http://Wiktionary.org)**
+- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)
 
 </td><td width="49%" valign="top">
 
 - https://github.com/diaspora/diaspora/wiki/glossary#wiki-a <br>
-(thru #wiki-h)
+(A thru #wiki-h)
 - https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i <br>
-(thru #wiki-q)
+(I thru #wiki-q)
 - https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r <br>
-(thru #wiki-z)
+(R thru #wiki-z)
 - https://github.com/diaspora/diaspora/wiki/glossary0 <br>
 (notes for wiki editors)
 
