@@ -6,11 +6,11 @@ Each attribute is an _attribute name_ followed by an equal sign (`=`) followed b
 
 The attribute name must be one of the following:
 
-* vocab
-* typeof
-* property
-* about
-* prefix
+* `vocab`
+* `typeof`
+* `property`
+* `about`
+* `prefix`
 
 The attribute value is an arbitrary string of characters which may be delimited by double quotation marks. If the attribute value is not delimited by double quotation marks, it is terminated by a space character or a colon (`:`) or a right-wards curly bracket (`}`), whichever comes first.
 
