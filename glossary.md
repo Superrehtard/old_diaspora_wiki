@@ -105,12 +105,13 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
 <a><table width="100%"><tr><td>
-### Diaspora\*
-**free, distributed social network**
 
 <a><table align="right" width="9" height="9"><tr><td> 
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
 </td></tr></table></a>
+
+### Diaspora\*
+**free, distributed social network**
 
 **Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed social network that is based upon the free Diaspora software.&nbsp; As of late 2011, there are more than 200 thousand users connected to the biggest server.&nbsp; The project was founded in 2010 by four students at New York University’s Courant Institute of Mathematical Sciences, Ilya Zhitomirskiy, Dan Grippi, Max Salzberg and Raphael Sofaer. Diaspora consists of a group of independently owned pods which interoperate to form the network.
 
