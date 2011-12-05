@@ -347,7 +347,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 ### Diaspora Lexicon credits
 </td><td width="49%">
 ### Links to section headings
-</td></tr><tr><td width="49%">
+</td></tr><tr><td width="49%" rowspan="3">
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)** <br />
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
@@ -363,10 +363,23 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 
 </td><td width="49%">
 
-- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a (thru #wiki-h) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i (thru #wiki-q) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r (thru #wiki-z) <br />
-- https://github.com/diaspora/diaspora/wiki/glossary0 (notes for wiki editors)
+- https://github.com/diaspora/diaspora/wiki/glossary#wiki-a <br>
+(thru #wiki-h)
+- https://github.com/diaspora/diaspora/wiki/glossary2#wiki-i <br>
+(thru #wiki-q)
+- https://github.com/diaspora/diaspora/wiki/glossary3#wiki-r <br>
+(thru #wiki-z)
+- https://github.com/diaspora/diaspora/wiki/glossary0 <br>
+(notes for wiki editors)
+
+</td></tr><tr><td width="49%">
+### Something Else
+</td></tr><tr><td width="49%">
+
+- Zero
+- One
+- Two
+- Three
 
 </td></tr></table></a>
 
