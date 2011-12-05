@@ -164,10 +164,18 @@ http://diasporial.com/tutorials/follows-and-followers <br>
 • Part IV: Start sharing! <br>
 http://diasporial.com/tutorials/start-sharing <br>
 • Part V: Conversations <br>
-http://diasporial.com/tutorials/conversations
+http://diasporial.com/tutorials/conversations <br>
 • Part VI: Finishing up <br>
 http://diasporial.com/tutorials/conversations <br>
 
+- **Other Tutorials on [Diasporial.com](http://Diasporial.com)**
+http://diasporial.com/tutorials
+
+- **Other Documentation on [Diasporial.com](http://Diasporial.com)**
+http://diasporial.com/other-documentation
+
+- **Join the Team**
+http://diasporial.com/join-the-team
 </td></tr></table></a>
 
 
