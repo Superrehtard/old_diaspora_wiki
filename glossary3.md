@@ -87,11 +87,7 @@ definition of **spore** ... <br />
 ## <a name="wiki-v">V</a>
 
 - **Volunteer | Contribute | Donate** <br />
-• https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br />
-• https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br />
-• https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br />
-• https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
-• https://www.DiasporaFoundation.org/donate <br />
+• see **[Contribute][C]**
 
 ## <a name="wiki-y">Y</a>
 
