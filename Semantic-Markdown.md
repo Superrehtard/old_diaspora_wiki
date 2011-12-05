@@ -5,6 +5,7 @@ Each semantic markdown _element_ begins with a left-wards curly bracket (`{`). T
 Each attribute is an _attribute name_ followed by an equal sign (`=`) followed by an _attribute value_.
 
 The attribute name must be one of the following:
+
 * vocab
 * typeof
 * property
