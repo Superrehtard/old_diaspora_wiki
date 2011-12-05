@@ -162,16 +162,7 @@ definition of **spore** ... <br />
 [Y]: ./glossary3#wiki-y
 [Z]: ./glossary3#wiki-z
 
----
-
 # OLD DIASPORA WIKI LINKS PAGE (delete)
-
-# Diaspora Wiki Links
-
-### This Page is Under Construction    
-
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/glossary)** page. <br />
-This page (Diaspora Wiki Links) will probably be shut down & merged with [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/glossary).
 
 ---
 
