@@ -389,5 +389,3 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 [X]: ./glossary3#wiki-x
 [Y]: ./glossary3#wiki-y
 [Z]: ./glossary3#wiki-z
-
-###[:blue] hey
