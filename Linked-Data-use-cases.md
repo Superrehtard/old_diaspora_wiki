@@ -16,6 +16,6 @@ A few minutes later, the awesome new track, which John has never heard before, s
 ## Location sharing
 Dex wants his best friends to know where he is _at all times_. He sets up a location-aware application on his phone to post location updates to his "Bros" aspect on Diaspora.
 
-When the application detects significant changes in Dex's location, it obtains a plain text name of the general area (e.g. city name) from a web service and posts a message to Diaspora: "Dex is now in Carville, LA." The message also contains an embedded representation of the location in the [Geo](http://www.w3.org/2003/01/geo/) vocabulary.
+When the mobile application detects significant changes in Dex's location, it obtains a plain text name of the general area (e.g. city name) from a web service and posts a message to Diaspora: "Dex is now in Carville, LA." The message also contains an embedded representation of the location in the [Geo](http://www.w3.org/2003/01/geo/) vocabulary.
 
 Ella has a similar application on her phone, which is set up to follow Dex's updates. The application receives the update from Dex and parses the embedded location data. Since Ella is also in Carville, it plays a sound to notify her that Dex is nearby.
