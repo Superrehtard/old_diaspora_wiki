@@ -62,6 +62,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br>
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br>
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
+• https://github.com/diaspora/diaspora/wiki/Contributors <br>
 • https://www.DiasporaFoundation.org/donate
 
 - **Conversation | Message** <br>
