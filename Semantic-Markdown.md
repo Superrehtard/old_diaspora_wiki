@@ -14,7 +14,7 @@ The attribute name must be one of the following:
 
 The attribute value is an arbitrary string of characters which may be delimited by double quotation marks. If the attribute value is not delimited by double quotation marks, it is terminated by a space character or a colon (`:`) or a right-wards curly bracket (`}`), whichever comes first.
 
-If an attribute value is terminated by a colon, the attribute list is also terminated. If an attribute value is terminated by a right-wards curly bracket, both the attribute list and the semantic markdown element is terminated.
+If an attribute value is terminated by a colon, the attribute list is also terminated. If an attribute value is terminated by a right-wards curly bracket, both the attribute list and the semantic markdown element is also terminated.
 
 If the attribute list is terminated by a colon, a string of element _content_ may follow. The element content is formatted according to the normal rules of Markdown, i.e. it contains arbitrary Markdown data. The element content is terminated by a right-wards curly bracket, which also terminates the semantic markdown element.
 
