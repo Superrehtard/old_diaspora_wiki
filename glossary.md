@@ -82,10 +82,6 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 
 ## <a name="wiki-d">D</a>
 
-<a><table align="right" width="9" height="9"><tr><td> 
-![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
-</td></tr></table></a>
-
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder)    
     
 - **Dev**
