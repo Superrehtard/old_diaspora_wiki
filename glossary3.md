@@ -86,7 +86,7 @@ definition of **spore** ... <br />
 
 ## <a name="wiki-v">V</a>
 
-- Volunteer | [Contribute][C] | **Donate** <br>
+- **Volunteer | [Contribute][C] | Donate** <br>
 • see [Contribute][C]
 
 ## <a name="wiki-w">W</a>
