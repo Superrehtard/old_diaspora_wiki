@@ -50,8 +50,11 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 ## <a name="wiki-c">C</a>    
     
-- **Client | Server**    
-    https://github.com/diaspora/diaspora/wiki/Client-server-model    
+- **Changelog** <br>
+https://github.com/diaspora/diaspora/wiki/Changelog <br>
+
+- **Client | Server** <br>
+https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
     
 - **Contribute | Volunteer | Donate** <br>
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br>
@@ -62,8 +65,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • https://DiasporaFoundation.org/donate <br>
 • http://diasporial.com/join-the-team <br>
 
-- **Conversation | Message** <br>
-• **[Message][M]**
+- **Conversation | [Message][M]**
 
 <a><table align="right" width="9" height="60"><tr><td>
 ![CopyLeft](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GreenCopyleft.svg/50px-GreenCopyleft.svg.png)
