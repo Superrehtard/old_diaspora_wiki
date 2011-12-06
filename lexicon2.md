@@ -43,10 +43,11 @@ web-based hosting service for software development projects that use the Git rev
 
 ---
 
-- **Google.** <br>
+- **Google** <br>
 • **Google groups** <br>
 • http://groups.google.com/group/diaspora-discuss <br>
 • http://groups.google.com/group/diaspora-dev <br>
+• http://wikipedia.org/wiki/Google_Groups <br>
 
 - **Google Groups** <br>
 • see **[Google][G]**
@@ -59,6 +60,8 @@ a private space where a group of friends or colleagues can discuss issues, colla
 • http://wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
 • http://wikipedia.org/wiki/List_of_internet_forums <br>
 • http://wikipedia.org/wiki/Virtual_community <br>
+• http://en.wikipedia.org/wiki/Google_Groups <br>
+• http://en.wikipedia.org/wiki/Yahoo!_Groups <br>
 • http://wikipedia.org/wiki/Internet_forum <br>
 • http://forummatrix.org <br>
 
