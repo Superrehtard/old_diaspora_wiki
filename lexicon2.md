@@ -168,10 +168,51 @@ a set of formal rules describing how to transmit data, especially across a netwo
 - https://github.com/diaspora/diaspora/wiki/lexicon3#wiki-r (thru #wiki-z) <br>
 - https://github.com/diaspora/diaspora/wiki/lexicon0 (notes for wiki editors) <br>
 
-<a name="wiki-a"><table width="99%" bgcolor="silver" border="1" bordercolor="navy"><tr>
+<a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
-    
+
+<a><table width="99%"><tr><td width="49%" valign="top">
+### Diaspora Lexicon credits
+</td><td width="49%">
+### Links to section headings
+</td></tr><tr><td width="49%" valign="top" rowspan="3">
+
+- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
+- **[Diasporial.com](http://Diasporial.com)**
+- **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
+- **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
+- **[GitHub.com](https://GitHub.com/diaspora)**
+- **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P])
+- **[UrbanDictionary.com](http://UrbanDictionary.com)**
+- **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
+- **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images)
+- **[Wikipedia.org](http://Wikipedia.org)**
+- **[Wiktionary.org](http://Wiktionary.org)**
+- [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)
+
+</td><td width="49%" valign="top">
+
+- https://github.com/diaspora/diaspora/wiki/lexicon#wiki-a <br>
+(A thru #wiki-h)
+- https://github.com/diaspora/diaspora/wiki/lexicon2#wiki-i <br>
+(I thru #wiki-q)
+- https://github.com/diaspora/diaspora/wiki/lexicon3#wiki-r <br>
+(R thru #wiki-z)
+- https://github.com/diaspora/diaspora/wiki/lexicon0 <br>
+(notes for wiki editors)
+
+</td></tr><tr><td width="49%" valign="top">
+### Something Else
+</td></tr><tr><td width="49%" valign="top">
+
+- Zero
+- One
+- Two
+- Three
+
+</td></tr></table></a>
+
 [A]: ./lexicon#wiki-a
 [B]: ./lexicon#wiki-b
 [C]: ./lexicon#wiki-c
@@ -187,7 +228,7 @@ a set of formal rules describing how to transmit data, especially across a netwo
 [L]: ./lexicon2#wiki-l
 [M]: ./lexicon2#wiki-m
 [N]: ./lexicon2#wiki-n
-[O]: ./lexicon2#wiki-p
+[O]: ./lexicon2#wiki-o
 [P]: ./lexicon2#wiki-p
 [Q]: ./lexicon2#wiki-q
     
