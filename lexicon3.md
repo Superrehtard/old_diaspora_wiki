@@ -170,59 +170,10 @@ definition of **spore** ... <br />
 
 <a name="wiki-groups">\<wiki-groups\></a>
 
-## _Diaspora_ Groups & Forums 
- 
-**[This section is being re-edited]** ... 
-
-The idea of groups on **Diaspora** is similar to the idea of groups on Facebook, Yahoo groups or Google groups — only without the commercial control.  It would be a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize meetups & other events.  For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.  
- 
-In conceptualizing **Diaspora Groups**, _we_ need to realize up-front the intrinsic vagaries & ambiguities in what _we_ are talking about.  Because, **Diaspora** is already a group of groups (of groups) ... **We** (the conceptualizers) are also a group, trying to build structure & functionality — build communities that work, that are sustainable, meaningful, and fun.
-
-It's complex.  On the _back-end_ it's networking architecture, protocols, security, (federation,) connectivity.  On the _front-end_ it's raw human social interactivity.  The **group** is both a virtual, abstract object and an organic, sentient being.
-
-Further complicating things are two camps of people.  One gets along just fine without **Diaspora Groups** and sees no need for the additional 'features'.  The other regards groups as critical links in the future evolution of **Diaspora**.  Historically, mailing lists, bulletin boards (BBs), chatrooms and other types of group functionality are referred to in **Wikipedia** and elsewhere as **Internet Forums**.  The ___Inter-net___ is itself a network of networks.
-
-###### **Never doubt** _that a small group of committed people can change the world.  Indeed, it is the only thing that ever has._ 
-http://Wikipedia.org/wiki/Margaret_Mead
-
-
-end **_Diaspora_ Groups & Forums** links
-
 <!-- - - - - - - - - - - - - - Getting Help & Answers - - - - - - - - - - - - - - - - - - -->
 
 <a name="wiki-answers">\<wiki-answers\></a>
 
-## Getting Help & Answers
- 
-- **Use the #help hashtag in searching & posting!**
-
-- **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**    
-    https://github.com/diaspora/diaspora/wiki/FAQ-for-Users
-
-- **Community-powered support for Diaspora on [getSatisfaction.com](http://getsatisfaction.com/diaspora)**   
-    http://getSatisfaction.com/diaspora
-
-- **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**    
-    http://wiki.spored.de/w/Hauptseite
-
-- **[DiasporaForum.org](http://diasporaforum.org)**    
-    http://www.diasporaforum.org/forum/forum.php
- 
-- **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**    
-    http://whatIsDiaspora.com/#history   
-    http://whatIsDiaspora.com/#how   
-    http://whatIsDiaspora.com/#why   
-    http://whatIsDiaspora.com/#more   
-    http://whatIsDiaspora.com/#get
-
-- **Diaspora Chat on IRC Channels**   
-    http://webchat.freenode.net/?channels=diaspora (Live Chat)     
-    http://webchat.freenode.net/?channels=diaspora-dev (Devs)    
-    http://webchat.freenode.net/?channels=diaspora-de (German)      
-
-- **Diaspora Forums on** **[Groups.Google.com](http://groups.google.com)**      
-     http://groups.google.com/group/diaspora-discuss (Regular Folks)     
-     http://groups.google.com/group/diaspora-dev (Devs)     
 
 end **Getting Help & Answers** links
 
