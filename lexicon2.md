@@ -15,10 +15,11 @@
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)** <br />
 
-- **[GitHub.com](https://github.com/diaspora/diaspora)** <br />
+- **GitHub** <br>
 web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br>
 • https://github.com/diaspora/diaspora <br>
 • http://Wikipedia.org/wiki/GitHub <br>
+• https://github.com <br />
 <br>
 • **This wiki page is on GitHub.com** <br>
 • https://GitHub.com/diaspora/diaspora/wiki/lexicon <br>
