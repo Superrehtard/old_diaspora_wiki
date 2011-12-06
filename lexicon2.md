@@ -49,9 +49,6 @@ web-based hosting service for software development projects that use the Git rev
 • http://groups.google.com/group/diaspora-dev <br>
 • http://wikipedia.org/wiki/Google_Groups <br>
 
-- **Google Groups** <br>
-• see **[Google][G]**
-
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
 
 - **Group | Forum Software** <br />
