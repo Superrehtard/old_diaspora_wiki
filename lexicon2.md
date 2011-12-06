@@ -20,8 +20,8 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com/diaspora/diaspora <br>
 • http://Wikipedia.org/wiki/GitHub <br>
 <br>
-• **This wiki page is on GitHub.com** <br> 
-• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br>    
+• **This wiki page is on GitHub.com** <br>
+• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br>
 <br>
 • https://github.github.com/github-flavored-markdown <br>
 • https://github.com/diaspora/diaspora/issues <br>
