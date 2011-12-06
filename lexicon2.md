@@ -22,6 +22,7 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com <br />
 <br>
 • **This wiki page is on GitHub.com** <br>
+(Thank you GitHub :)
 • https://GitHub.com/diaspora/diaspora/wiki/lexicon <br>
 <br>
 • https://github.github.com/github-flavored-markdown <br>
