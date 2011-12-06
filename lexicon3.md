@@ -159,11 +159,13 @@ definition of **spore** ... <br />
 • http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
 • http://Wikipedia.org/wiki/Internet_Protocol <br> 
 • http://Wikipedia.org/wiki/Internet_forum <br>
+• http://Wikipedia.org/wiki/Linus_Torvalds <br>
 • http://Wikipedia.org/wiki/Google_Groups <br>
 • http://Wikipedia.org/wiki/Yahoo!_Groups <br>
 • http://Wikipedia.org/wiki/Ruby_on_Rails <br> 
 • http://Wikipedia.org/wiki/Hacker_(term) <br>
 • http://Wikipedia.org/wiki/Software_bug <br> 
+• http://Wikipedia.org/wiki/Like_button <br>
 • http://Wikipedia.org/wiki/HTTP_Secure <br>
 • http://Wikipedia.org/wiki/Handshaking <br>
 • http://Wikipedia.org/wiki/Netiquette <br> 
