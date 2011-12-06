@@ -202,7 +202,7 @@ Internet **[Protocol](#wiki-p)**
 
 - **Like | Unlike**
 
-- **Linus Torvalds**
+- **Linus [Torvalds][T]**
 
 ## <a name="wiki-m">M</a>
 
