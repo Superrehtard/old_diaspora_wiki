@@ -4,11 +4,9 @@
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
-### This Page is Under Construction &nbsp; [1](https://github.com/diaspora/diaspora/wiki/lexicon/) [2](https://github.com/diaspora/diaspora/wiki/lexicon2/) 3
+**Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
-[@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
-**Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
-
+<!-- - - - - - - - - - - - - - - - - - P - - - - - - - - - - - - - - - - - - -->
 ## <a name="wiki-p">P</a>
    
 - **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641) | [PivotalLabs.com](http://pivotallabs.com/what/pivotal_tracker)**
