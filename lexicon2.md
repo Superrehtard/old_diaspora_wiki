@@ -201,7 +201,7 @@ Internet **[Protocol](#wiki-p)**
 ## <a name="wiki-l">L</a>
 
 - **Lexicon** <br>
-_In linguistics, the lexicon (or wordstock) of a language is its vocabulary, including its words and expressions. A lexicon is also a synonym of the word thesaurus._ ([Wikipedia](http://Wikipedia.org/wiki/Lexicon)) <br>
+_In linguistics, the **lexicon** (or wordstock) of a language is its vocabulary, including its words and expressions._ ([Wikipedia](http://Wikipedia.org/wiki/Lexicon)) <br>
 • http://Wikipedia.org/wiki/Lexicon <br>
 
 - **Like | Unlike** <br>
