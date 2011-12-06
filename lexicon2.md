@@ -16,32 +16,19 @@
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)** <br />
 
 - **[GitHub.com](https://github.com/diaspora/diaspora)** <br />
-web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br />
-• http://Wikipedia.org/wiki/GitHub <br />
-• **This wiki page is on GitHub.com** <br /> 
-• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br />    
-• http://github.github.com/github-flavored-markdown <br />
-
----
-
-## [github.com](http://github.com) links
-
-- **github Social Coding**   
-    https://github.com
-
-- **Diaspora on github**    
-    https://github.com/diaspora/diaspora
-
-- **Diaspora Members on github**    
-    https://github.com/diaspora
-
-- **Diaspora Issues on github**    
-    https://github.com/diaspora/diaspora/issues
-
-- **Diaspora Wiki on github**    
-    https://github.com/diaspora/diaspora/wiki
-
----
+web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br>
+• https://github.com/diaspora/diaspora <br>
+• http://Wikipedia.org/wiki/GitHub <br>
+<br>
+• **This wiki page is on GitHub.com** <br> 
+• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br>    
+<br>
+• https://github.github.com/github-flavored-markdown <br>
+• https://github.com/diaspora/diaspora/issues <br>
+• https://github.com/diaspora/diaspora/wiki <br>
+• https://github.com/diaspora/diaspora <br>
+• https://github.com/diaspora <br>
+• https://github.com <br>
 
 - **Google** <br>
 • **Google groups** <br>
