@@ -327,7 +327,6 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 • http://en.wiktionary.org/wiki/handshake <br />
 • http://en.wikipedia.org/wiki/Handshaking <br />
 
-<a><table width="100%"><tr><td>
 
 ---
 
@@ -363,6 +362,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
      http://groups.google.com/group/diaspora-discuss (Regular Folks)     
      http://groups.google.com/group/diaspora-dev (Devs)     
 
+<a><table width="100%"><tr><td>
 
 ### History of Diaspora  	
 
