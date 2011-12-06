@@ -6,6 +6,177 @@
 
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
+<!-- - - - - - - - - - - - - - - - - - G - - - - - - - - - - - - - - - - - - -->
+## <a name="wiki-g">G</a>    
+   
+- **Germany** [Pods][P]
+    
+[ [WK3.org](https://wk3.org) **|** [Diasp.de](https://diasp.de) **|** [Diasp.eu](https://diasp.eu) **|** [Nerdpol.ch](https://nerdpol.ch) **|** [Despora.de](https://despora.de) **|** [My-Seed.com](https://my-seed.com) **|** [Stylr.net](https://stylr.net) **|** [Loofi.de](https://loofi.de) **|** [ILikeFreedom.org](https://ilikefreedom.org) **|** [Diaspora.Subsignal.org](https://diaspora.subsignal.org) **|** [Diaspora.F4N.de](https://diaspora.f4n.de) **|** [Dipod.es](https://dipod.es) **|** [Yaspora.com](https://yaspora.com) **|** [Dipod.org](https://dipod.org) **|** [Diaspora.Death-Head.ch](http://diaspora.death-head.ch) **|** [Pod.Geraspora.de](https://pod.geraspora.de) **|** [Hasst-Euch-Alle.de](https://hasst-euch-alle.de) **|** [SeeYouThere.de](http://SeeYouThere.de) **|** [Pod.Haxxors.com](http://pod.haxxors.com) **|** [Marsoc.de](https://marsoc.de) ]
+
+- **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)** <br />
+
+- **[GitHub.com](https://github.com/diaspora/diaspora)** <br />
+web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br />
+• http://Wikipedia.org/wiki/GitHub <br />
+• **This wiki page is on GitHub.com** <br /> 
+• https://GitHub.com/diaspora/diaspora/wiki/lexicon <br />    
+• http://github.github.com/github-flavored-markdown <br />
+
+---
+
+## [github.com](http://github.com) links
+
+- **github Social Coding**   
+    https://github.com
+
+- **Diaspora on github**    
+    https://github.com/diaspora/diaspora
+
+- **Diaspora Members on github**    
+    https://github.com/diaspora
+
+- **Diaspora Issues on github**    
+    https://github.com/diaspora/diaspora/issues
+
+- **Diaspora Wiki on github**    
+    https://github.com/diaspora/diaspora/wiki
+
+---
+
+- **Google.** <br>
+• **Google groups** <br>
+• http://groups.google.com/group/diaspora-discuss <br>
+• http://groups.google.com/group/diaspora-dev <br>
+
+- **Google Groups** <br>
+• see **[Google][G]**
+
+- **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
+
+- **Group | Forum Software** <br />
+a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**. <br>
+<br>
+• http://wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
+• http://wikipedia.org/wiki/List_of_internet_forums <br>
+• http://wikipedia.org/wiki/Virtual_community <br>
+• http://wikipedia.org/wiki/Internet_forum <br>
+• http://forummatrix.org <br>
+
+- **Internet forum** (Wikipedia.org)    
+    http://wikipedia.org/wiki/Internet_forum
+
+- **Comparison of Internet forum software** (Wikipedia.org)    
+    http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
+
+- **Community of interest** (Wikipedia.org)    
+    http://wikipedia.org/wiki/Community_of_interest
+
+- **Community structure** (Wikipedia.org)    
+    http://wikipedia.org/wiki/Community_structure
+
+- **Community** (Wikipedia.org)    
+    http://wikipedia.org/wiki/Community
+
+- **Diaspora Groups & Forums** (DiasporaForums.org)    
+    http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
+
+- **D*Group** (alpha) **Emulator**    
+    http://Diasp.org/u/d_group
+
+- **Diaspora Forums** (groups.Google.com)    
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)    
+     http://groups.google.com/group/diaspora-dev (Devs)     
+   
+- **Setting up a topic account**    
+    http://diasporial.com/tutorials/setting-up-a-topic-account     
+
+<!-- - - - - - - - - - - - - - - - - - H - - - - - - - - - - - - - - - - - - -->
+## <a name="wiki-h">H</a>
+
+- **Hacker**
+<a><table width="99%"><tr><td>
+indie **computer programmer, coder, developer or dev**. <br />
+The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
+</td></tr></table></a>
+<br>
+• http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
+• http://wikipedia.org/wiki/Hacker_(term) <br>
+• http://wikipedia.org/wiki/Programmer <br>
+• http://foldoc.org/programmer <br>
+• http://foldoc.org/hacker <br>
+    
+- **\#hashtag or \#tag** (usually **lowercase** to be more **search engine friendly**) <br />
+allow you to label and follow your interests.&nbsp; They're also a great way to meet fun and interesting new people on **Diaspora**. <br />
+• http://diasporafoundation.org <br />
+<br />
+**#hashtags** can help you **tag**, search & organize things by categories. <br />
+• http://urbandictionary.com/define.php?term=hashtag <br />
+• http://en.wikipedia.org/wiki/Tag_(metadata)#Hashtags <br />
+• http://en.wiktionary.org/wiki/hashtag <br />
+
+[ [\#newhere][N] **|** [\#help][H] **|** [\#diaspora][D] **|** [\#dev][D] **|** [\#hacker][H] **|** [\#federation][F] **|** [\#meetup][M] **|** [\#occupy][O] **|** [\#love][L] **|** [\#freedom][F] **|** [#d_group][D] **|** [\#opensource][O] **|** [\#copyleft][C] ]
+
+- **Handshake** <br />
+part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**. <br />
+• http://en.wiktionary.org/wiki/handshake <br />
+• http://en.wikipedia.org/wiki/Handshaking <br />
+
+
+---
+
+### Getting Help & Answers
+ 
+- **Use the #help hashtag in searching & posting!**
+
+- **FAQ for Users on [github](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)**    
+    https://github.com/diaspora/diaspora/wiki/FAQ-for-Users
+
+- **Community-powered support for Diaspora on [getSatisfaction.com](http://getsatisfaction.com/diaspora)**   
+    http://getSatisfaction.com/diaspora
+
+- **German Help on [Spored.de](http://wiki.spored.de/w/Hauptseite)**    
+    http://wiki.spored.de/w/Hauptseite
+
+- **[DiasporaForum.org](http://diasporaforum.org)**    
+    http://www.diasporaforum.org/forum/forum.php
+ 
+- **[WhatIsDiaspora.com](http://whatIsDiaspora.com)**    
+    http://whatIsDiaspora.com/#history   
+    http://whatIsDiaspora.com/#how   
+    http://whatIsDiaspora.com/#why   
+    http://whatIsDiaspora.com/#more   
+    http://whatIsDiaspora.com/#get
+
+- **Diaspora Chat on IRC Channels**   
+    http://webchat.freenode.net/?channels=diaspora (Live Chat)     
+    http://webchat.freenode.net/?channels=diaspora-dev (Devs)    
+    http://webchat.freenode.net/?channels=diaspora-de (German)      
+
+- **Diaspora Forums on** **[Groups.Google.com](http://groups.google.com)**      
+     http://groups.google.com/group/diaspora-discuss (Regular Folks)     
+     http://groups.google.com/group/diaspora-dev (Devs)     
+
+<a><table width="100%"><tr><td>
+
+### History of Diaspora  	
+
+**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely. ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br />
+<br />
+• http://whatIsDiaspora.com
+
+</td></tr></table></a>
+
+- **HTTP | HTTP Secure**    
+    **Hypertext Transfer Protocol** (http://)   
+    
+    http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol    
+    http://foldoc.org/http    
+    
+    **Hypertext Transfer Protocol, Secure** (https://)    
+    
+    http://en.wikipedia.org/wiki/HTTP_Secure    
+    http://foldoc.org/https    
+
 <!-- - - - - - - - - - - - - - - - - - I - - - - - - - - - - - - - - - - - - -->
 # <a name="wiki-i">I</a>
 
