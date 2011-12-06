@@ -137,9 +137,10 @@ definition of **spore** ... <br />
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
-- **Wikipedia** <br>
-<br>
-**Wikipedia** is a multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information. <br>
+<a><table width="99%"><tr><td>
+### Wikipedia
+
+multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information. <br>
 <br>
 **Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose. ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About)) <br>
 <a><table align="right" width="9" height="9"><tr><td>
@@ -176,6 +177,7 @@ definition of **spore** ... <br />
 • http://Wikipedia.org/wiki/Markdown <br>
 • http://Wikipedia.org/wiki/Facebook <br>
 • http://Wikipedia.org/wiki/GitHub <br>
+</td></tr></table></a>
 
 - **[Wiktionary.org](http://Wiktionary.org)** <br>
 
