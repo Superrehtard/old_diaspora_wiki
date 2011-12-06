@@ -135,7 +135,7 @@ definition of **spore** ... <br />
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
-- **[Wikipedia] <br>
+- **Wikipedia** <br>
 <br>
 **Wikipedia** is a multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information. <br>
 <br>
