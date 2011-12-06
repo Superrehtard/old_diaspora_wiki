@@ -6,7 +6,7 @@
 
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
-<-- - - - - - - - - - - - - - - - - - A - - - - - - - - - - - - - - - - - - -->
+<!-- - - - - - - - - - - - - - - - - - A - - - - - - - - - - - - - - - - - - -->
 # <a name="wiki-a">A</a>
 
 - **[Android.com](http://Android.com)**    
