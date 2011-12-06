@@ -9,7 +9,43 @@
 [@RichardTE](https://Diasp.org/u/richardte) is also working on a **[Diaspora Wiki Links](https://github.com/diaspora/diaspora/wiki/links)** page. <br />
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; send us feedback !**
 
-## <a name="wiki-r">R</a>
+## <a name="wiki-p">P</a>
+   
+- **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641) | [PivotalLabs.com](http://pivotallabs.com/what/pivotal_tracker)**
+
+<a><table width="99%"><tr><td>
+### Pod ([Diaspora][D] Server)
+
+**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease. ([WhatIsDiaspora](http://WhatIsDiaspora.com))
+
+• http://whatIsDiaspora.com <br>
+• [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is. <br>
+• [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org. <br>
+
+**Community Supported Pods**
+
+This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community members.&nbsp; Remember, when you join one, you always log in to that site. But you can **follow friends on any pod**, including the **pod** run by the project founders at [JoinDiaspora.com](https://JoinDiaspora.com). <br>
+
+• https://github.com/diaspora/diaspora/wiki/Community-supported-pods <br>
+• http://dspr.tk/a <br>
+</td></tr></table></a>
+
+- **Programming Language**
+
+[ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
+
+- **Protocol** ([Network](#wiki-n) Communications) <br />
+a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.&nbsp; ([FOLDOC](http://foldoc.org/protocol)) <br />
+<br />
+• https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
+• https://github.com/diaspora/diaspora/wiki/SSL-problems <br />
+• http://Wikipedia.org/wiki/Communications_protocol <br />
+• http://Wikipedia.org/wiki/Internet_Protocol <br />
+• http://foldoc.org/protocol <br />
+
+[ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
+
+## <a name="wiki-r">R</a> <!-- - - - - - - - - - R - - - - - - - - - - - - -->
 
 <a><table align="right" width="9" height="9"><tr><td>
 ![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png)
