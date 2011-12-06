@@ -14,7 +14,7 @@
 <a><table width="99%"><tr><td>
 ### Pod ([Diaspora][D] Server)
 
-**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease. ([WhatIsDiaspora](http://WhatIsDiaspora.com))
+_**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com))
 
 • http://whatIsDiaspora.com <br>
 • [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is. <br>
@@ -32,9 +32,9 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 
 [ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
 
-- **Protocol** ([Network](#wiki-n) Communications) <br />
-a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, **hand-shaking**, etc.&nbsp; ([FOLDOC](http://foldoc.org/protocol)) <br />
-<br />
+- **Protocol** ([Network](#wiki-n) Communications) <br>
+_a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, [**hand-shaking**], etc._ ([FOLDOC](http://foldoc.org/protocol)) <br>
+<br>
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
 • https://github.com/diaspora/diaspora/wiki/SSL-problems <br />
 • http://Wikipedia.org/wiki/Communications_protocol <br />
