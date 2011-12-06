@@ -45,7 +45,9 @@ a set of formal rules describing how to transmit data, especially across a netwo
 
 [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
 
-## <a name="wiki-r">R</a> <!-- - - - - - - - - - R - - - - - - - - - - - - -->
+<!-- - - - - - - - - - R - - - - - - - - - - - - -->
+
+## <a name="wiki-r">R</a>
 
 <a><table align="right" width="9" height="9"><tr><td>
 ![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png)
@@ -74,6 +76,8 @@ The standard 1.8.7 implementation is written in C, as a single-pass interpreted 
 • http://Ruby-Lang.org <br>
 • http://Ruby-Doc.org <br>
 
+<!-- - - - - - - - - - S - - - - - - - - - - - - -->
+
 ## <a name="wiki-s">S</a>   
 
 - **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder) <br>
@@ -99,12 +103,16 @@ definition of **spore** ... <br />
 - **Sweden** [Pods][P]
 
 [ [Diaspor.at](https://diaspor.at) ]
-    
+
+<!-- - - - - - - - - - T - - - - - - - - - - - - -->
+
 ## <a name="wiki-t">T</a>
 
 - **Linus Torvalds**
 
 - **Tutorial** 
+
+<!-- - - - - - - - - - U - - - - - - - - - - - - -->
 
 ## <a name="wiki-u">U</a>    
 
@@ -120,11 +128,13 @@ definition of **spore** ... <br />
 
 - **[UrbanDictionary.com](http://UrbanDictionary.com)** <br>
 
+<!-- - - - - - - - - - V - - - - - - - - - - - - -->
 ## <a name="wiki-v">V</a>
 
 - **Volunteer |** **[Contribute][C]** **| Donate** <br>
 • see **[Contribute][C]**
 
+<!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
 - **[Wikipedia.org](http://Wikipedia.org)** <br />
@@ -168,6 +178,7 @@ definition of **spore** ... <br />
 
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)** <br />
 
+<!-- - - - - - - - - - Z - - - - - - - - - - - - -->
 ## <a name="wiki-z">Z</a>
 
 <a><table width="9" height="60" align="right"><tr><td valign="middle" align="right">
@@ -177,6 +188,7 @@ definition of **spore** ... <br />
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br>
 • http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
 
+<!-- - - - - - - - - - FOOTER - - - - - - - - - - - - -->
 <a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
