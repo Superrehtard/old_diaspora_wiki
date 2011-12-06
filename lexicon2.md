@@ -200,7 +200,9 @@ Internet **[Protocol](#wiki-p)**
    
 ## <a name="wiki-l">L</a>
 
-- **Like | Unlike**
+- **Like | Unlike** <br>
+A **like button** or **like option** is a feature in communication software such as **social networking** services, **Internet forums** and blogs where the user can express that they like, enjoy or support a certain content.&nbsp; Internet services that feature like buttons usually display the quantity of users that liked each content, and may show a full or partial list of them.&nbsp; This is a quantitative alternative to other methods of expressing reaction to content, like writing a reply text. ([Wikipedia](http://en.wikipedia.org/wiki/Like_button)) <br>
+• http://Wikipedia.org/wiki/Like_button
 
 - **Linus [Torvalds][T]**
 
