@@ -238,9 +238,9 @@ definition of **spore** ... <br />
 [D]: ./lexicon#wiki-d
 [E]: ./lexicon#wiki-e   
 [F]: ./lexicon#wiki-f   
-[G]: ./lexicon#wiki-g   
-[H]: ./lexicon#wiki-h   
-    
+
+[G]: ./lexicon2#wiki-g   
+[H]: ./lexicon2#wiki-h   
 [I]: ./lexicon2#wiki-i
 [J]: ./lexicon2#wiki-j
 [K]: ./lexicon2#wiki-k
@@ -248,9 +248,9 @@ definition of **spore** ... <br />
 [M]: ./lexicon2#wiki-m
 [N]: ./lexicon2#wiki-n
 [O]: ./lexicon2#wiki-o
-[P]: ./lexicon2#wiki-p
-[Q]: ./lexicon2#wiki-q
-    
+
+[P]: ./lexicon3#wiki-p
+[Q]: ./lexicon3#wiki-q
 [R]: ./lexicon3#wiki-r
 [S]: ./lexicon3#wiki-s
 [T]: ./lexicon3#wiki-t
