@@ -249,6 +249,27 @@ web-based hosting service for software development projects that use the Git rev
 • https://GitHub.com/diaspora/diaspora/wiki/lexicon <br />    
 • http://github.github.com/github-flavored-markdown <br />
 
+---
+
+## [github.com](http://github.com) links
+
+- **github Social Coding**   
+    https://github.com
+
+- **Diaspora on github**    
+    https://github.com/diaspora/diaspora
+
+- **Diaspora Members on github**    
+    https://github.com/diaspora
+
+- **Diaspora Issues on github**    
+    https://github.com/diaspora/diaspora/issues
+
+- **Diaspora Wiki on github**    
+    https://github.com/diaspora/diaspora/wiki
+
+---
+
 - **Google.** <br>
 • **Google groups** <br>
 • http://groups.google.com/group/diaspora-discuss <br>
