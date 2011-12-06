@@ -104,7 +104,7 @@ allow you to label and follow your interests.&nbsp; They're also a great way to 
 • http://en.wikipedia.org/wiki/Tag_(metadata)#Hashtags <br />
 • http://en.wiktionary.org/wiki/hashtag <br />
 
-[ [\#newhere][N] **|** [\#help][H] **|** [\#diaspora][D] **|** [\#dev][D] **|** [\#hacker][H] **|** [\#federation][F] **|** [\#meetup][M] **|** [\#occupy][O] **|** [\#love][L] **|** [\#freedom][F] **|** [#d_group][D] **|** [\#opensource][O] **|** [\#copyleft][C] [#commit](##) [#feature](#) [#bug](#) [#question](#)]
+[ [\#asia](#) **|** [\#aussie](#) **|** [\#beach](#) **|** [\#beatles](#) **|** [\#bug](#) **|** [\#cats](#) **|** [\#commit](#) **|** [\#copyleft](#) **|** [\#d_group](#) **|** [\#dev](#) **|** [\#diaspora](#) **|** [\#feature](#) **|** [\#federation](#) **|** [\#freedom](#) **|** [\#fun](#) **|** [\#geek](#) **|** [\#goth](#) **|** [\#hacker](#) **|** [\#help](#) **|** [\#humor](#) **|** [\#humour](#) **|** [\#knitting](#) **|** [\#linux](#) **|** [\#love](#) **|** [\#moscow](#) **|** [\#meetup](#) **|** [\#newhere](#) **|** [\#NYC](#) **|** [\#occupy](#) **|** [\#opensource](#) **|** [\#paris](#) **|** [\#question](#) **|** [\#volunteer](#) ]
 
 - **Handshake** <br />
 part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as a **handshake metaphor**.&nbsp; **Hypertext Transfer Protocol** (http) or **File Transfer Protocol** (FTP) requires a **client** computer & a **server** computer to **shake hands**. <br />
