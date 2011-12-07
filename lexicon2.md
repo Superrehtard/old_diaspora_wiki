@@ -84,7 +84,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 ## <a name="wiki-h">H</a>
 
 - **Hacker**
-<a><table width="99%"><tr><td>
+<a><table width="99%"><tr><td class="blame">
 indie **computer programmer, coder, developer or dev**. <br />
 The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
 </td></tr></table></a>
@@ -146,7 +146,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
      http://groups.google.com/group/diaspora-discuss (Regular Folks)     
      http://groups.google.com/group/diaspora-dev (Devs)     
 
-<a><table width="100%"><tr><td>
+<a><table width="100%"><tr><td class="blame">
 
 ### History of Diaspora  	
 
