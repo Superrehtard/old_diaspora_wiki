@@ -64,6 +64,28 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 <a class="gollum-minibutton" style="color: maroon;">[P]</span><a class="gollum-minibutton" style="color: maroon;">[Q]</apan><a class="gollum-minibutton" style="color: maroon;">[R]</span><a class="gollum-minibutton" style="color: maroon;">[S]</apan>
 
+  ---
+
+### A-tag & Table-tag
+
+<a><table><tr><td>
+<a class="minibutton" style="color: maroon;">[A]</a>
+<a class="minibutton" style="color: maroon;">[B]</a>
+<a class="minibutton" style="color: maroon;">[C]</a>
+</td></tr></table></a>
+
+---
+
+### A-tag
+
+<a class="minibutton" style="color: maroon;">[A]</a><a class="minibutton" style="color: maroon;">[B]</a><a class="minibutton" style="color: maroon;">[C]</a><a class="minibutton" style="color: maroon;">[D]</a>
+
+<a class="gollum-minibutton" style="color: maroon;">[P]</span><a class="gollum-minibutton" style="color: maroon;">[Q]</apan><a class="gollum-minibutton" style="color: maroon;">[R]</span><a class="gollum-minibutton" style="color: maroon;">[S]</apan>
+
+  <a class="minibutton" style="color: maroon;">[B]</a><a class="minibutton" style="color: maroon;">[C]</a><a class="minibutton" style="color: maroon;">[D]</a>
+
+<a class="gollum-minibutton" style="color: maroon;">[P]</span><a class="gollum-minibutton" style="color: maroon;">[Q]</apan><a class="gollum-minibutton" style="color: maroon;">[R]</span><a class="gollum-minibutton" style="color: maroon;">[S]</apan>
+
   
 
 <a><table width="99%" frame="border"><tr>
