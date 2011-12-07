@@ -3,58 +3,64 @@
 
 **New page under development 2011 Dec ...**
 
-## Animals
+### Animals
 
-## Arts
+### Arts
 
-### \#art [\#arts](#) \#music \#photography \#sculpture
-- **\#animation \#dance**
+- **\#art [\#arts](#) \#music \#photography \#sculpture**
+- \#animation \#dance \#artcars \#knitting 
 
-- \#artcars \#knitting 
+### Community Building
 
-## Community Building
+### Computer Programming
 
-## Computer Programming
+### Culture
 
-## Culture
+### Diaspora Development
 
-## Diaspora Development
+### Gaming
 
-## Gaming
+### Gardening
 
-## Gardening
+### Green Living
 
-## Green Living
+### Languages
 
-## Languages
+### Miscellaneous
 
-## Music
+### Music
 
-### [\#music](#) \#dj \#hiphop \#punk \#classicalmusic
+- **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
 
-## Occupy
+### Occupy
 
-## Open Source & Open Content
+### Open Source & Open Content
 
-## Philosophy
+### Philosophy
 
-## Politics
+### Politics
 
-## Privacy, Security & Encryption
+### Privacy, Security & Encryption
 
-## Sexuality & Gender
+### Sexuality & Gender
 
-## Social Media
+### Social Media
 
-## Sociology
+### Sociology
 
-## Spirituality
+### Spirituality
 
-## Sports
+### Sports
 
-## Technology
+### Technology
 
-## Wellness
+### Wellness
+
+---
+
+### Other
+
+---
 
 - \#art () Dec2011 
 - \#asia () Dec2011 
