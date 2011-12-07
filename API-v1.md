@@ -3,6 +3,7 @@
 This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
 
 
+
 **Table of Contents:**
 * Introduction
 ** "General notes":#general_notes
