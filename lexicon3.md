@@ -141,7 +141,7 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
-<a><table width="99%"><tr><td>
+<a><table width="99%"><tr><td class="blame">
 ### Wikipedia
 
 multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information. <br>
