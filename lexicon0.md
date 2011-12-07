@@ -90,11 +90,11 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 --- 
 
-# <a style="background-color: yellow;"><table><tr>
+# <a style="background-color: yellow;" class="gollum-minibutton"><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
 </tr></table></a> <a style="background-color: yellow;"><table><tr>
-<td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
-</tr></table></a> <a style="background-color: yellow;"><table><tr>
+<td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td class="gollum-minibutton"> **D** </td><td> **E** </td>
+</tr class="gollum-minibutton"></table></a> <a style="background-color: yellow;"><table><tr>
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
 </tr></table></a>
 
