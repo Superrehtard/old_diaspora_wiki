@@ -1,5 +1,5 @@
 # Diaspora #hashtags
-## Diaspora Hashtags
+## Diaspora Hashtags | Diaspora Tags
 
 **New page under development 2011 Dec ...**
 
