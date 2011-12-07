@@ -7,11 +7,11 @@
 
 ## Arts
 
-### \#photography \#sculpture \#music
+### \#art \#arts \#music \#photography \#sculpture
 
-- **\#dance \#animation**
+- **\#animation \#dance **
 
-- \#knitting \#artcars
+- \#artcars \#knitting 
 
 ## Community Building
 
