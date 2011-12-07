@@ -28,6 +28,8 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 • http://dspr.tk/a <br>
 </td></tr></table></a>
 
+- **Post | Public | Private | Posting**
+
 - **Programming Language**
 
 [ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
