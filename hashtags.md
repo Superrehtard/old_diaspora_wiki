@@ -7,7 +7,7 @@
 - [\#plain_blue](#) :: **[\#tag](#)** is in common usage
 - **\#bold** :: **[\#tag](#)** has special limited usage
 - \#plain :: **[\#tag](#)** is in rare usage
-- (\#parens) :: **[\#tag](#)** being suggested for future use
+- (\#parens) :: **[\#tag](#)** being suggested for future usage
 
 ## Animals
 
