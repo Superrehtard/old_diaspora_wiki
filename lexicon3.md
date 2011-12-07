@@ -1,6 +1,6 @@
 # Diaspora Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
-<a name="wiki-a"><table width="99%" border="1" class="upgrades"><tr>
+<a name="wiki-a"><table width="99%" border="1"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
@@ -11,7 +11,7 @@
    
 - **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641) | [PivotalLabs.com](http://pivotallabs.com/what/pivotal_tracker)**
 
-<a><table width="99%"><tr><td>
+<a><table width="99%" class="upgrades"><tr><td>
 ### Pod ([Diaspora][D] Server)
 
 _**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com))
