@@ -98,7 +98,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 ### A-tag & Table-tag
 
 <table class="minibutton" cellspacing="0" border="0" height="0" width="333"><tr>
-<td border="0" height="0" width="333"> <a> [A] &nbsp; [B] &nbsp; [C] </a> </td>
+<td border="0" height="0" width="333"> <a> [A] </a> <a> [B] </a> <a> [C] </a> </td>
 </td></tr></table>
 
 ---
