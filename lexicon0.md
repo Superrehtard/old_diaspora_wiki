@@ -49,11 +49,11 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><b class="minibutton" style="color: maroon;">[B]</b>
-<b class="minibutton" style="color: maroon;">[B]</b>
-<b class="minibutton" style="color: maroon;">[B]</b>
-<b class="minibutton">[B]</b>
-<b class="minibutton">[B]</b></a>
+<a><b class="minibutton" style="color: maroon;"> [B] </b>
+<b class="minibutton" style="color: maroon;"> [B] </b>
+<b class="minibutton" style="color: maroon;"> [B] </b>
+<b class="minibutton"> [B] </b>
+<b class="minibutton"> [B] </b></a>
 
 ---
 
