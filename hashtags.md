@@ -49,4 +49,6 @@
 
 ## Sports
 
+## Technology
+
 ## Wellness
