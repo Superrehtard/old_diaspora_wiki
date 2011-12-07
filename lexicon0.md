@@ -39,17 +39,20 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 <td class="gollum-minibutton">[a]</td>  <td class="gollum-minibutton">[b]</td>  <td class="gollum-minibutton">[c]</td>
 </tr></table></a>
 
-<span class="gollum-minibutton">[a]</td>
-<span class="gollum-minibutton">[a]</td>
+<span class="gollum-minibutton" style="color: maroon;">[a]</td>
+<span class="gollum-minibutton" style="color: maroon;">[a]</td>
 
-<span class="minibutton">[a]</span>
-<span class="minibutton">[a]</apan>
+<span class="minibutton" style="color: maroon;">[a]</span>
+<span class="minibutton" style="color: maroon;">[a]</apan>
 
-<p class="minibutton">[a]</p>
-<p class="minibutton">[a]</p>
+<p class="minibutton" style="color: maroon;">[a]</p>
+<p class="minibutton" style="color: maroon;">[a]</p>
 
-<div class="minibutton">[a]</span>
-<div class="minibutton">[a]</apan>
+<div class="minibutton">[d]</span>
+<div class="minibutton">[m]</apan>
+
+<div class="gollum-minibutton" style="color: maroon;">[d]</span>
+<div class="gollum-minibutton" style="color: maroon;">[g]</apan>
 
 
 
