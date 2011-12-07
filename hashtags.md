@@ -21,12 +21,20 @@
 
 ## Open Source & Open Content
 
+## Philosophy
+
 ## Politics
 
 ## Privacy, Security & Encryption
 
+## Sexuality & Gender
+
 ## Social Media
+
+## Sociology
 
 ## Spirituality
 
 ## Sports
+
+## Wellness
