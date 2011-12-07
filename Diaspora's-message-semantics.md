@@ -24,7 +24,7 @@ However, Eve's comment must be sent to Bob over the wire.  Alice should be able 
 
 ### Live updating
 
-If a pod is implemented as a website, it MAY choose to do some form of "live updating".  For example, if Alice and Eve are both logged in to the website, and Eve comments on Alice's post, their pod MAY choose to send some sort of notification to Alice's webserver without waiting for Alice to refresh the page.  In the reference implementation, this is done through websockets.  It may also be done via ajax polling.
+If a pod is implemented as a website, it MAY choose to do some form of "live updating".  For example, if Alice and Eve are both logged in to the website, and Eve comments on Alice's post, their pod MAY choose to send some sort of notification to Alice's browser without waiting for Alice to refresh the page.  In the reference implementation, this is done through websockets.  It may also be done via ajax polling.
 
 ## Relayability
 

@@ -20,4 +20,4 @@ One thing that made many SNs successful is, in my experience, is to be able to e
 As a user of Diaspora you're more likely aware of your data. Which you mean you care about it. We want to build a feature that'll allow you to easily move from one pod to another. The effect is, as soon as it becomes public that company is exploiting the data of the users of its pod, they move away and the company is dead (in that sector). So the product shifts from you being the product to the Software being the product.
 
 ### Distribution
-There's only one who knows all your data in Diaspora that knows all your data and that's your pod maintainer. Which is possibly you.
+There's only one who knows all your data in Diaspora, and that's your pod maintainer. Which is possibly you.

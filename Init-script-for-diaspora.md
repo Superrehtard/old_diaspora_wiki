@@ -20,7 +20,7 @@ The pkg directory contains corresponding scripts  for Fedora and Ubuntu which ha
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 DIASPORA_DIR=/path/to/diapora/root
 if [[ "$DIASPORA_DIR" = /path/to/diapora/root ]]; then
-echo "Please configure this script for your diapora root"
+echo "Please configure this script for your diaspora root"
 fi
 USERNAME="user"
 if [[ "$USERNAME" = user ]]; then

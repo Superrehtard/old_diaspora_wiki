@@ -1,6 +1,9 @@
-Here's a page for discussing how [Linked Data](http://en.wikipedia.org/wiki/Linked_Data) might be used in Diaspora.
+This page is for discussing how [Linked Data](http://en.wikipedia.org/wiki/Linked_Data) might be used in Diaspora.
 
-Diaspora might embed [RDFa](http://en.wikipedia.org/wiki/RDFa) metadata on relevant pages.
+Diaspora might embed [RDFa](http://en.wikipedia.org/wiki/RDFa) (or [RDFa Lite](http://www.w3.org/2010/02/rdfa/sources/rdfa-lite/)) metadata on relevant pages or they may link to a dedicated RDF document using HTML [LINK](http://www.w3.org/TR/html4/struct/links.html#h-12.3) or similar. Currently, [[Diaspora's federation protocol]] provides user profile data as an hCard document, but it may as well provide it as an RDF document (see [issue #2443](https://github.com/diaspora/diaspora/issues/2443)).
+
+For examples of how this metadata may be used, see [[Linked Data use cases]].
+##Basic
 ### Profile pages
 User profile pages might expose [FOAF](http://en.wikipedia.org/wiki/FOAF_%28software%29) data.
 
@@ -22,3 +25,7 @@ User posts might expose [SIOC](http://en.wikipedia.org/wiki/Semantically-Interli
 * The post's creator may be represented by setting its [sioc:has_creator](http://sioc-project.org/ontology#term_has_creator) property to the creator's user profile page.
 * Each of the post's tags may be represented with the [sioc:topic](http://sioc-project.org/ontology#term_topic) property.
 * Each of the post's comments may be represented with the [sioc:has_reply](http://sioc-project.org/ontology#term_has_reply) property.
+
+##Advanced
+###User-embedded RDFa in posts
+Diaspora might allow users to embed arbitrary RDFa in their posts, e.g. by [[adding dedicated tags to Markdown|Semantic Markdown]]. This would be particularly useful for applications: a music application, say, might submit a post on my Diaspora account with the title and artist of the track I am currently playing. If enchanted with RDFa (i.e. made machine-readable), this information could be consumed by other applications. For instance, my friend's music player might pick it up, and automatically add the track to _his_ play queue.

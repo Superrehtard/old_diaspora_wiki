@@ -25,6 +25,7 @@ anywhere on the site.
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
 * [[Logos, Icons, and Visual Art]] - includes wallpaper, fan art, etc.
 * [[Tools to use with Diaspora]] - browser add-ons, share buttons, CMS plugins, etc.
+* [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 * [[Related and similar projects|Other projects]]
 
 ## Developer Resources
@@ -65,7 +66,9 @@ anywhere on the site.
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
+* [[How to Use Pagekite to Link Your Own Domain Name to a Local Network Diaspora Pod|How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
+* [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
   * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.

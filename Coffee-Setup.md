@@ -1,3 +1,5 @@
+NOTE: **Paypal Subscription isn't available in every country for private clients**
+
 To setup the Coffee Donation/Subscription feature.
 
 Login to paypal.com

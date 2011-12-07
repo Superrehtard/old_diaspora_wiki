@@ -154,7 +154,13 @@
 
 ### October
 
+* TFTS, 10.30.2010, [Diaspora Public Alpha Coming Out by Thanksgiving; Facebook, You’ve Been Warned (Diaspora Team Announces Alpha Version of Its Social Network Coming by the End of November)](http://nexus404.com/Blog/2010/10/30/diaspora-public-alpha-coming-out-by-thanksgiving-facebook-you%E2%80%99ve-been-warned-diaspora-team-announces-alpha-version-of-its-social-network-coming-by-the-end-of-november/)
+* SNBZ, 10.29.2010, [Diaspora Pushes Public Alpha To Thanksgiving](http://www.snbz.net/diaspora-pushes-public-alpha-to-thanksgiving/)
+* TechCrunch, 10.29.2010, [With Two Days Left In October, Diaspora Pushes Public Alpha To Thanksgiving](http://techcrunch.com/2010/10/29/diaspora-public-alpha/)
+* SMSEO, 10.19.2010, [Diaspora, The “Privacy Aware”, Open Source Social Network](http://socialmediaseo.net/2010/10/19/diaspora-social-network/)
+* Techie Buzz, 10.06.2010, [Diaspora – Facebook Replacement or Wannabe Fail?](http://techie-buzz.com/social-networking/diaspora-%E2%80%93-facebook-replacement-or-wannabe-fail.html) 
 * WIRED, 10.05.2010, [Diaspora: A First Step Toward Safer Social Networking](http://www.wired.com/geekdad/2010/10/diaspora-a-first-step-toward-safer-social-networking/)
+* NYMag, 10.04.2010, [Defacebook](http://nymag.com/news/features/establishments/68512/index1.html)
 
 ### September
 
@@ -397,6 +403,8 @@
 ## 2011
 
 ### November (Novembre)
+
+* Linkiesta, 11.20.2011 [Se ne sono andati](http://www.linkiesta.it/diaspora)
 * PuntoInformatico, 11.18.2011 [Diaspora compie un anno e ingrana la beta](http://punto-informatico.it/3340322/PI/Interviste/diaspora-compie-un-anno-ingrana-beta.aspx)
 * ZioGeek, 11.16.2011, [Diaspora: Il Giovane Fondatore Ilya Zhitomirskiy è Morto](http://ziogeek.com/diaspora-il-giovane-fondatore-ilya-zhitomirskiy-e-morto/)
 * Programmazione.it, 11.15.2011, [Muore Zhitomirskiy, ma lo sviluppo di Diaspora non si ferma](http://programmazione.it/index.php?entity=eitem&idItem=47953)

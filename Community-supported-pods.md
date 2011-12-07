@@ -102,7 +102,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * HTTPS (only)
     * IPv6 support
     * Operating system: ArchLinux
-    * Comments: Feel free to ask for an invitiation!
+    * Comments: Feel free to ask for an invitation!
 
 * [[http://diaspora.re/]] [[https://diaspora.re/apple-touch-icon.png|height=30px|]]
    * Opened: 01/11/2010
@@ -167,7 +167,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Maintained by: private individual 
        * Contact : olivier@free-beer.ch
     * Operating system: Debian Squeeze 
-    * Comments: public registration open, Twitter and Facebook support, HTTPS available
+    * Comments: public registration open, Twitter, Facebook and Tumblr support, HTTPS available
 
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
@@ -319,3 +319,9 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Maintained by: private individual 
     * Operating system: Linux 
     * Comments: Public and free Diaspora pod.
+
+* [[https://diaspora.danapriesing.net]] [[http://diaspora.danapriesing.net/apple-touch-icon.png|height=30px|]]
+    * Updated: periodically
+    * Maintained by: a private individual
+    * Operating system: Fedora 15 Linux
+    * Comments: Friends-and-family pod.

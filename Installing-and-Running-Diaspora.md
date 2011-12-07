@@ -170,7 +170,7 @@ See [[Using lighttpd as webserver]] for an example configuration.
 ### Configuring SSL
 As noted previously, you will need to configure NGINX to point to your SSL certificate (procured from either <a href="http://startssl.com" target="_blank">StartSSL</a> or <a href="http://www.godaddy.com/ssl/ssl-certificates.aspx?ci=8979">elsewhere</a>).  Configuring NGINX to work with SSL is easy (see: <a href="https://github.com/diaspora/diaspora/blob/master/chef/cookbooks/diaspora/templates/default/nginx.conf.erb#L65">these three lines</a> in our configuration as a reference).
 
-**NOTE:** Certificates issued from StartSSL will probably also require that the StartSSL intermediate certificate be concatenated in order for some pods to communicate properly.
+**NOTE:** Certificates issued from StartSSL will probably also require that the StartSSL intermediate certificate be concatenated in order for some pods to communicate properly. The following link will help you create a properly concatenated certificate for use by NGINX: [StartSSL and NGINX](http://blog.dembowski.net/2010/02/25/startssl-and-nginx/)
 
 Take note: We upgrade all port 80 requests to port 443.  We recommend that you do the same.
 
@@ -240,7 +240,7 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 Jammit compiles all the CSS & JS into fewer minimized files. 
 The advantage is that the page can be served with less requests. 
-Diaspora integration with Jammit is completly optional. 
+Diaspora integration with Jammit is needed for the default production setup, but can be changed to work around it. 
 If you want to use jammit you must install java. 
 Otherwise just ignore the warning issued by ./script/server.
 
