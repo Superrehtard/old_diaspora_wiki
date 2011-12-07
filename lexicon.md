@@ -119,7 +119,7 @@ _The word Diaspora is Greek in origin and refers to a scattered or dispersed pop
 • http://whatIsDiaspora.com
 </td></tr></table></a>
 
-<a><table width="100%"><tr><td>
+<a><table width="100%"><tr><td class="blame">
 ### Diaspora
 **free open source software**
 
@@ -145,7 +145,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-<a><table width="99%"><tr><td>
+<a><table width="99%"><tr><td class="blame">
 
 ### Diasporial
 - http://Diasporial.com
