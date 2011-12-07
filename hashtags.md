@@ -3,11 +3,11 @@
 
 **New page under development 2011 Dec.**
 
-- **[\#bold_blue](#)** :: #hashtag is popular
+- **[\#bold_blue](#)** :: #hashtag is popular, in wide usage
 - [\#plain_blue](#) :: #hashtag is in common usage
-- **\#bold** :: #hashtag has special use
-- **\#plain** :: #hashtag is uncommon
-- (\#parens) :: #hashtag is suggested for future use
+- **\#bold** :: #hashtag has special limited usage
+- \#plain :: #hashtag is uncommon
+- (\#parens) :: #hashtag being suggested for future use
 
 ## Animals
 
