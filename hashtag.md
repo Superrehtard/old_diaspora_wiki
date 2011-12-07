@@ -1,3 +1,3 @@
-# (Diaspora Hashtags)
+# (Diaspora #hashtags)
 
-### The page you want is here&nbsp; ⇒&nbsp; **[Diaspora Hashtags](./hashtags)**
+### The page you want is here&nbsp; ⇒&nbsp; **[Diaspora \#hashtags](./hashtags)**
