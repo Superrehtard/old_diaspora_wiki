@@ -9,7 +9,7 @@
 
 ### \#art \#arts \#music \#photography \#sculpture
 
-- **\#animation \#dance **
+- **\#animation \#dance**
 
 - \#artcars \#knitting 
 
