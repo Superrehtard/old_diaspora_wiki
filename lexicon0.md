@@ -83,6 +83,15 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 <td>[B]</td>
 <td>[C]</td>
 </td></tr></table></a>
+---
+
+### A-tag & Table-tag
+
+<a><table class="gollum-minibutton" cellspacing="0" border="0"><tr>
+<td>[A]</td>
+<td>[B]</td>
+<td>[C]</td>
+</td></tr></table></a>
 
 ---
 
