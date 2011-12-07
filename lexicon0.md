@@ -73,6 +73,17 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
+<ul><li class="minibutton"> <a> [B] </a> <a> [B] </a> <a> [B] </a> <a> [B] </a> </li> </ul>
+
+---
+
+<span class="minibutton" style="color: maroon;"> <a> &nbsp;[B]&nbsp; </a> </span>
+<span class="minibutton" style="color: maroon;"> <a> &nbsp;[B]&nbsp; </a> </span>
+<span class="minibutton"> <a> &nbsp;[B]&nbsp; </a> </span>
+<span class="minibutton"> <a> &nbsp;[B]&nbsp; </a> </span>
+
+---
+
 <a class="minibutton" style="color: maroon;">[a]</a>
 <a class="minibutton" style="color: maroon;">[a]</a>
 <a class="minibutton" style="color: maroon;">[a]</a>
