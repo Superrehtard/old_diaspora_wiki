@@ -24,6 +24,18 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 </tr></table></a>
 
 ---
+
+<a><table><tr>
+<td class="gollum-minibutton">[a]</td>  <td class="gollum-minibutton">[b]</td>  <td class="gollum-minibutton">[c]</td>
+</tr></table></a>
+
+---
+
+<a><table><tr>
+<td class="minibutton">[a]</td>  <td class="minibutton">[b]</td>  <td class="minibutton">[c]</td>
+</tr></table></a>
+
+---
   
 
 <a><table width="99%" frame="border"><tr>
