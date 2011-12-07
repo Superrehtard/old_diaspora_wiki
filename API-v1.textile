@@ -2,7 +2,8 @@
 
 This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
 
-[Discussion on google groups](http://groups.google.com/group/diaspora-dev/browse_thread/thread/eeaf48ac16e35877/1246731e9cf114ba )
+" Here's the main discussion of the API ":http://groups.google.com/group/diaspora-dev/browse_thread/thread/eeaf48ac16e35877/1246731e9cf114ba
+
 ***
 
 **Table of Contents:**
