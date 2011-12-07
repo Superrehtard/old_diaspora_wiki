@@ -18,7 +18,7 @@
     
 [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]
 
-<a><table width="100%"><tr><td>
+<a><table width="100%"><tr><td class="blame">
 ### Aspect
 _An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four example aspects, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily._ ([Diasporial](http://diasporial.com/tutorials/interface-and-aspects))
 
@@ -99,7 +99,7 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
-<a><table width="100%"><tr><td>
+<a><table width="100%"><tr><td class="blame">
 
 <a><table align="right" width="9" height="9"><tr><td> 
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
@@ -132,7 +132,7 @@ _a software that can be installed on a server by someone that has the knowledge 
 • http://whatIsDiaspora.com
 </td></tr></table></a>
 
-<a><table width="100%"><tr><td>
+<a><table width="100%"><tr><td class="blame">
 ### Diaspora Group | Forum
 
 a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.
