@@ -1,6 +1,6 @@
 # Diaspora Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
-<a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
+<a name="wiki-a"><table width="99%" bgcolor="silver" border="1" class="upper_footer"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
@@ -31,7 +31,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 ## <a name="wiki-b">B</a>    
 
-<a><table align="right" width="9" height="9"><tr><td>
+<a><table align="right" width="9" height="9" class="upper_footer"><tr><td>
 ![Bug](http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marienkaefer04.jpg/120px-Marienkaefer04.jpg)
 </td></tr></table></a>
     
