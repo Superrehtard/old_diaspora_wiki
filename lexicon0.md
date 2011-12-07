@@ -20,7 +20,7 @@ Nav table works — note a-tag enclosure & cellspacing="0" (Dev2011) ...
 Nav table works — note a-tag enclosure (Nov2011) ... 
  
 <a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
-<th> [a] </th><th class="gollum-minibutton"> [b] </th><th> [c] </th><th> [d] </th><th class="action-page-history"> [e] </th><th class="counter"> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th class="jaws"> [l] </th><th> [m] </th><th class="wrap"> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th class="selected"> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th class="instapaper_title"> [v] </th><th> [w] </th><th> [x] </th><th class="page"> [y] </th><th> [z] </th>
+<th> [a] </th><th class="gollum-minibutton"> [b] </th><th> [c] </th><th> [d] </th><th class="action-page-history"> [e] </th><th class="counter"> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th class="jaws"> [l] </th><th> [m] </th><th class="wrap"> [n] </th><th class="minibutton"> [o] </th><th> [p] </th><th> [q] </th><th class="selected"> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th class="instapaper_title"> [v] </th><th> [w] </th><th> [x] </th><th class="page"> [y] </th><th> [z] </th>
 </tr></table></a>
 
 ---
