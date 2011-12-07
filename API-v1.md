@@ -1,7 +1,8 @@
-**I ("Dennis Schubert (@denschub)":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
+**I ("Dennis Schubert (@denschub)":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)** 
 
 This is a draft for designing Diaspora's API version 1. This is neither complete nor correct, it's just a collection of ideas.
 
+Here's the discussion http://groups.google.com/group/diaspora-dev/browse_thread/thread/eeaf48ac16e35877/1246731e9cf114ba
 ***
 
 **Table of Contents:**
