@@ -7,7 +7,7 @@
 
 ## Arts
 
-### \#art \#arts \#music \#photography \#sculpture
+### [\#art](#) \#arts \#music \#photography \#sculpture
 
 - **\#animation \#dance**
 
@@ -16,6 +16,8 @@
 ## Community Building
 
 ## Computer Programming
+
+## Culture
 
 ## Diaspora Development
 
