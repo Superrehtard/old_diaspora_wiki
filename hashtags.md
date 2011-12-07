@@ -1,4 +1,5 @@
 # Diaspora #hashtags
+## Diaspora Hashtags
 
 **New page under development 2011 Dec.**
 
@@ -22,7 +23,7 @@
 
 ## Politics
 
-## Privacy & Encryption
+## Privacy, Security & Encryption
 
 ## Social Media
 
