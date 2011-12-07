@@ -3,6 +3,8 @@
 
 **New page under development 2011 Dec.**
 
+## Animals
+
 ## Arts
 
 ## Community Building
@@ -10,6 +12,10 @@
 ## Computer Programming
 
 ## Diaspora Development
+
+## Gaming
+
+## Gardening
 
 ## Green Living
 
