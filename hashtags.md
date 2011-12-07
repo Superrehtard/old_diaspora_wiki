@@ -3,11 +3,11 @@
 
 **New page under development 2011 Dec ...**
 
-- **[\#bold_blue](#)** :: **[\#tag](#)** is popular in wide usage
-- [\#plain_blue](#) :: **[\#tag](#)** is in common usage
-- **\#bold** :: **[\#tag](#)** has special limited usage
-- \#plain :: **[\#tag](#)** is in rare usage
-- (\#parens) :: **[\#tag](#)** being suggested for future usage
+- **[\#bold_blue](#)** :: **[\#tag](#)** is popular in wide usage (\#funny)
+- [\#plain_blue](#) :: **[\#tag](#)** is in common usage (\#volleyball)
+- **\#bold** :: **[\#tag](#)** has special limited usage (\#commit)
+- \#plain :: **[\#tag](#)** is in rare usage (#earthquake)
+- (\#parens) :: **[\#tag](#)** being suggested for future usage (\#randompost)
 
 ## Animals
 
