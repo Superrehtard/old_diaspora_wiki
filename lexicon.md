@@ -1,6 +1,6 @@
 # Diaspora Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
-<a name="wiki-a"><table width="99%" bgcolor="silver" border="1" class="upper_footer site footer_nav"><tr>
+<a name="wiki-a"><table width="99%" bgcolor="silver" border="1"><tr>
 <th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
 </tr></table></a>
 
@@ -18,7 +18,7 @@
     
 [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]
 
-<a><table width="100%" class="lower_footer"><tr><td>
+<a><table width="100%"><tr><td>
 ### Aspect
 _An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four example aspects, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily._ ([Diasporial](http://diasporial.com/tutorials/interface-and-aspects))
 
@@ -31,7 +31,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 ## <a name="wiki-b">B</a>    
 
-<a><table align="right" width="9" height="9" class="upper_footer"><tr><td>
+<a><table align="right" width="9" height="9"><tr><td>
 ![Bug](http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marienkaefer04.jpg/120px-Marienkaefer04.jpg)
 </td></tr></table></a>
     
