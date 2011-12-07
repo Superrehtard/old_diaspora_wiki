@@ -86,6 +86,14 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
+### A-tag & Table-tag
+
+<a><table class="minibutton" cellspacing="0" border="0"><tr>
+<td>[A] [B] [C]</td>
+</td></tr></table></a>
+
+---
+
 ### A-tag
 
 <a class="minibutton" style="color: maroon;">[A]</a><a class="minibutton" style="color: maroon;">[B]</a><a class="minibutton" style="color: maroon;">[C]</a><a class="minibutton" style="color: maroon;">[D]</a>
