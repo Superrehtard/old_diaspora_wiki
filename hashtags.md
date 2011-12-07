@@ -32,6 +32,8 @@
 
 - **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
 
+### Places
+
 ### Occupy
 
 ### Open Source & Open Content
@@ -66,22 +68,24 @@
 
 **Tag (Users) Date**
 
-- \#art () Dec2011 
-- \#asia () Dec2011 
-- \#aussie () Dec2011 
-- \#beach () Dec2011 
-- \#beatles () Dec2011 
-- \#books () Dec2011 
-- \#buddhism () Dec2011 
-- \#bug () Dec2011 
-- \#cars () Dec2011 
-- \#cats () Dec2011 
+- \#art (414) Dec2011 
+- \#asia (3) Dec2011 
+- \#aussie (5) Dec2011 
+- \#beach (13) Dec2011 
+- \#beatles (4) Dec2011 
+- \#birds (6) Dec2011 
+- \#books (185) Dec2011 
+- \#buddhism (26) Dec2011 
+- \#bug (2) Dec2011 
+- \#cars (17) Dec2011 
+- \#cats (91) Dec2011 
 - \#christian () Dec2011 
 - \#commit () Dec2011 
 - \#copyleft () Dec2011 
 - \#d_group () Dec2011 
 - \#dev () Dec2011 
 - \#diaspora () Dec2011 
+- \#dogs (39) Dec2011 
 - \#facebook () Dec2011 
 - \#feature () Dec2011 
 - \#federation () Dec2011 
@@ -98,6 +102,7 @@
 - \#hacker () Dec2011 
 - \#help () Dec2011 
 - \#hiphop () Dec2011 
+- \#horses (10) Dec2011 
 - \#humor () Dec2011 
 - \#humour () Dec2011 
 - \#islam () Dec2011 
