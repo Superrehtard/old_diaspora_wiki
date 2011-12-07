@@ -39,17 +39,20 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 <td class="gollum-minibutton">[a]</td>  <td class="gollum-minibutton">[b]</td>  <td class="gollum-minibutton">[c]</td>
 </tr></table></a>
 
-<span class="gollum-minibutton" style="color: maroon;">[a]</td>
-<span class="gollum-minibutton" style="color: maroon;">[a]</td>
+<span class="gollum-minibutton" style="color: maroon;">[s]</span>
+<span class="gollum-minibutton" style="color: maroon;">[s]</span>
+<span class="gollum-minibutton" style="color: maroon;">[s]</span>
 
-<span class="minibutton" style="color: maroon;">[a]</span>
-<span class="minibutton" style="color: maroon;">[a]</apan>
+<span class="minibutton" style="color: maroon;">[S]</span>
+<span class="minibutton" style="color: maroon;">[S]</apan>
+<span class="minibutton" style="color: maroon;">[S]</span>
 
-<p class="minibutton" style="color: maroon;">[a]</p>
-<p class="minibutton" style="color: maroon;">[a]</p>
+<p class="minibutton" style="color: maroon;">[P]</p>
+<p class="minibutton" style="color: maroon;">[P]</p>
+<p class="minibutton" style="color: maroon;">[P]</p>
 
-<div class="minibutton">[d]</span>
-<div class="minibutton">[m]</apan>
+<div class="minibutton">[d]</div>
+<div class="minibutton">[d]</div>
 
 <div class="gollum-minibutton" style="color: maroon;">[d]</span>
 <div class="gollum-minibutton" style="color: maroon;">[g]</apan>
