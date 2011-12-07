@@ -1,7 +1,7 @@
 # Diaspora #hashtags
 ## Diaspora Hashtags
 
-**New page under development 2011 Dec.**
+**New page under development 2011 Dec ...**
 
 - **[\#bold_blue](#)** :: #hashtag is popular, in wide usage
 - [\#plain_blue](#) :: #hashtag is in common usage
