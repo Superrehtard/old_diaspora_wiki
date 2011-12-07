@@ -7,7 +7,7 @@
 
 ## Arts
 
-### [\#art](#) \#arts \#music \#photography \#sculpture
+### \#art [\#arts](#) \#music \#photography \#sculpture
 
 - **\#animation \#dance**
 
@@ -31,7 +31,7 @@
 
 ## Music
 
-### \#music \#dj \#hiphop \#punk \#classicalmusic
+### [\#music](#) \#dj \#hiphop \#punk \#classicalmusic
 
 ## Occupy
 
