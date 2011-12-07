@@ -31,7 +31,7 @@ Nav table works — note a-tag enclosure (Nov2011) ...
 
 ---
 
-<a><table cellspacing="0" height="9" width="99" border="0" frame="none"><tr>
+<a><table cellspacing="0" height="5" width="5" border="0" frame="none"><tr>
 <td class="minibutton">[a]</td><td class="minibutton">[b]</td><td class="minibutton">[c]</td>
 </tr></table></a>
 
