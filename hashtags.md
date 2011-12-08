@@ -12,9 +12,7 @@
 ---
 
 <a><table width="600" border="1"><tr>
-<th class="not to blame">
-### Animals
-</th><th>
+<th class="not to blame">### Animals </th><th>
 one
 </th><th>
 two
