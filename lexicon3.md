@@ -5,6 +5,17 @@
 </tr></table></a>
 
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
+<a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
+
+### Contributing to or Commenting on this page
+
+Post to **Diaspora** using one of these [#hashtags](#) ...
+
+- **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
+- **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
+- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality.
+
+</td></tr></table></a>
 
 <!-- - - - - - - - - - - - - - - - - - P - - - - - - - - - - - - - - - - - - -->
 ## <a name="wiki-p">P</a>
