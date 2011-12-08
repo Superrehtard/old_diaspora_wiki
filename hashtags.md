@@ -23,8 +23,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **#popular**
-- \#tags
+- **\#cats**
+- \#birds #dogs #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -32,8 +32,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#art [\#arts](#) \#music \#photography \#sculpture**
-- \#animation \#dance \#artcars \#knitting 
+- **\#art #music**
+- \#animation #darts #artcars #knitting #photography #sculpture #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -68,7 +68,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
-- #tags
+- #lgbt #gay #goth #punk #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -77,7 +77,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
-- #tags
+- \#bug #feature #federation #hacker #opensource #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -135,12 +135,12 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-misc"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Misc](#wiki-animals)ellaneous**
+**[Misc](#wiki-animals)ellaneous & Special Tags**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M i s c --> 
 
 - **#popular**
-- #tags
+- \#d_group #d_hashtags #d_lexicon #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -151,22 +151,13 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 - **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Places](#wiki-places)**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
-
-- **#popular**
-- #tags
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
 **[Occupy](#wiki-occupy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
-- **#popular**
-- #tags
+- **\#popular**
+- #occupy #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -184,7 +175,16 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **#popular**
-- #tags
+- #buddhism #feminism 
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Places](#wiki-places)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
+
+- **\#brazil**
+- #nyc #brasil
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -193,7 +193,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **#popular**
-- #tags
+- \#anarchy #feminism #libertarian #occupy #peace #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -211,7 +211,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S e x --> 
 
 - **#popular**
-- #tags
+- \#feminism #lgbt #gay #queer #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -238,7 +238,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **#popular**
-- #tags
+- \#atheism #buddhism #islam #christian #religion
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
