@@ -196,6 +196,7 @@ Dec2011: **#popular** defined as (People+Followers) > 100 or if just 1 > 50.
 - \#islam | 19 | 17 | Dec2011 
 - \#kids | 8 | 7 | Dec2011 
 - \#knitting | 19 | 25 | Dec2011 
+- \#lgbt | | | Dec2011 
 - \#linux | 900 | 700 | Dec2011 
 - \#love | 115 | 92 | Dec2011 
 - \#marketing | 36 | 48 | Dec2011 
@@ -215,6 +216,7 @@ Dec2011: **#popular** defined as (People+Followers) > 100 or if just 1 > 50.
 - \#religion | 14 | | Dec2011 
 - \#running | 34 | 56 | Dec2011 
 - \#ruby | 50 | 70 | Dec2011 
+- \#sex | | | Dec2011 
 - \#socialjustice | 18 | | Dec2011 
 - \#spirituality | 32 | Dec2011 
 - \#sport | 35 | 50 | Dec2011 
@@ -227,6 +229,7 @@ Dec2011: **#popular** defined as (People+Followers) > 100 or if just 1 > 50.
 - \#votediaspora | 1 | | Dec2011 
 - \#wikipedia | 20 | 19 | Dec2011 
 - \#windows | 10 | | Dec2011 
+- \#wine | | | Dec2011 
 - \#womyn | 2 | | Dec2011 
 - \#wtf | 5 | | Dec2011
 
