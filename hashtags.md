@@ -11,7 +11,7 @@
 <!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
-- #tags
+- \#tags
 
 <a name="wiki-arts"><table width="400" border="1"><tr><th class="not to blame"> 
 **[Arts](#wiki-arts)**
