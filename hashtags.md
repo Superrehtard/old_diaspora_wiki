@@ -77,7 +77,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **#linux**
-- \#bug #feature #federation #hacker #mysql #opensource #ruby
+- \#bug #feature #federation #groups #hacker #mysql #opensource #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -104,7 +104,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **#popular**
-- #tags
+- #chess
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -202,7 +202,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
 - **#popular**
-- #tags
+- \#anonymity #encryption #privacy #security 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sex"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -211,7 +211,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S e x --> 
 
 - **#popular**
-- \#feminism #lgbt #gay #queer #womyn 
+- \#feminism #lgbt #gay #gender #kinky #queer #porn #sex #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -237,8 +237,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
-- **#popular**
-- \#atheism #buddhism #islam #christian #religion
+- **\#atheism #atheism** 
+- \#atheism #catholic #christian #buddhism #islam #religion
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
