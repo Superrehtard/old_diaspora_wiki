@@ -32,7 +32,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#art #music**
+- **\#art #books #movies #music**
 - \#animation #darts #artcars #knitting #photography #sculpture #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -50,8 +50,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
-- **\#popular**
-- \#tags
+- **\#cooking**
+- \#beer #vegan #vegetarian
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-programming"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -59,8 +59,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r o g r a m m i n g - - - - - - - - - - - - - - - - - --> 
 
-- **\#android #apple #html5 #microsoft #linux #php**
-- \ #css #html #javascript #ruby #rubyonrails #xml
+- **\#android #apple #hacker #html5 #linux #opensource #php**
+- \ #css #c #cpp #html #javascript #microsoft #programming #ruby #rubyonrails #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -77,8 +77,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
-- **\#diapora #hacker #linux**
-- \#bug #feature #federation #groups #hacker #mysql #opensource #ruby
+- **\#diapora #hacker #linux #opensource**
+- \#bug #feature #federation #groups #hacker #mysql #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -140,8 +140,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M i s c --> 
 
-- **\#popular**
-- \#d_group #d_hashtags #d_lexicon #wtf
+- **\#newhere**
+- \#commit #d_group #d_hashtags #d_lexicon #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -193,7 +193,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
-- **\#popular**
+- **\#freedom**
 - \#anarchy #feminism #libertarian #occupy #peace #ronpaul #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -211,8 +211,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S e x --> 
 
-- **\#popular**
-- \#dating #feminism #lgbt #gay #gender #love #kinky #queer #porn #sex #transgender #womyn 
+- **\#love #queer**
+- \#dating #feminism #lgbt #gay #gender #kinky #porn #sex #transgender #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -238,8 +238,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
-- **\#atheism #atheist** 
-- \#agnostic #atheism #buddhism #catholic #christian #islam #occult #religion #wicca
+- **\#atheism #atheist #christian** 
+- \#agnostic #buddhism #catholic #islam #occult #religion #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
