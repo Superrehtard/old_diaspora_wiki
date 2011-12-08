@@ -5,7 +5,7 @@
 
 ---
 
-<a name="wiki-animals"><table><tr><td>
+<a name="wiki-animals"><table><tr><td class="not to blame">
 ### Animals
 </td></tr></a>
 
