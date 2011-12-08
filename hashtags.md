@@ -96,6 +96,7 @@
 - \#diaspora (400) Dec2011 
 - \#dogs (30) Dec2011 
 - \#drugs (6) Dec2011 
+- \#encryption (3) (10) Dec2011 
 - \#facebook (18) Dec2011 
 - \#fashion (35) Dec2011 
 - \#feature (1) Dec2011 
