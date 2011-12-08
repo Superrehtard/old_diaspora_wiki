@@ -66,70 +66,89 @@
 
 ### Alphabetical list of Diaspora #Hashtags
 
-**Tag (Users) Date**
+**Tag (Users) (Followers) Date**
 
-- \#art (414) Dec2011 
+- \#android (152) (245) Dec2011 
+- \#animation (22) (37) Dec2011 
+- \#anonymity (3) Dec2011 
+- \#apple (61) Dec2011 
+- \#art (400) Dec2011 
 - \#asia (3) Dec2011 
 - \#aussie (5) Dec2011 
-- \#beach (13) Dec2011 
+- \#beach (10) Dec2011 
 - \#beatles (4) Dec2011 
 - \#birds (6) Dec2011 
-- \#books (185) Dec2011 
+- \#books (100) Dec2011 
+- \#brasil (13) (19) Dec2011 
+- \#brazil (11) (16) Dec2011 
 - \#buddhism (26) Dec2011 
 - \#bug (2) Dec2011 
-- \#cars (17) Dec2011 
-- \#cats (91) Dec2011 
-- \#christian () Dec2011 
-- \#commit () Dec2011 
-- \#copyleft () Dec2011 
-- \#d_group () Dec2011 
-- \#dev () Dec2011 
-- \#diaspora () Dec2011 
-- \#dogs (39) Dec2011 
-- \#facebook () Dec2011 
-- \#feature () Dec2011 
-- \#federation () Dec2011 
-- \#feminism () Dec2011 
-- \#freedom () Dec2011 
-- \#fun () Dec2011 
-- \#gardening () Dec2011 
-- \#gay () Dec2011 
-- \#geek () Dec2011 
-- \#gleek () Dec2011 
-- \#god () Dec2011 
-- \#goth () Dec2011 
-- \#green () Dec2011 
-- \#hacker () Dec2011 
-- \#help () Dec2011 
-- \#hiphop () Dec2011 
+- \#cars (10) Dec2011 
+- \#cats (90) Dec2011 
+- \#christian (122) Dec2011 
+- \#commit (1) Dec2011 
+- \#cooking (79) (98) Dec2011 
+- \#copyleft (10) Dec2011 
+- \#d_group (5) Dec2011 
+- \#dev (10) Dec2011 
+- \#diaspora (400) Dec2011 
+- \#dogs (30) Dec2011 
+- \#drugs (6) Dec2011 
+- \#facebook (18) Dec2011 
+- \#fashion (35) Dec2011 
+- \#feature (1) Dec2011 
+- \#federation (1) Dec2011 
+- \#feminism (23) Dec2011 
+- \#fishing (10) (19) Dec2011 
+- \#freedom (132) Dec2011 
+- \#fun (104) Dec2011 
+- \#funny (90) Dec2011 
+- \#gardening (30) (53) Dec2011 
+- \#gay (49) (59) Dec2011 
+- \#geek (722) (130) Dec2011 
+- \#gleek (4) (2) Dec2011 
+- \#god (11) (14) Dec2011 
+- \#goth (13) (18) Dec2011 
+- \#green (30) (22) Dec2011 
+- \#guns (7) Dec2011 
+- \#hacker (68) (21) Dec2011 
+- \#hiphop (19) (39) Dec2011 
 - \#horses (10) Dec2011 
-- \#humor () Dec2011 
-- \#humour () Dec2011 
-- \#islam () Dec2011 
-- \#kids () Dec2011 
-- \#knitting () Dec2011 
-- \#linux () Dec2011 
-- \#love () Dec2011 
-- \#marketing () Dec2011 
-- \#meetup () Dec2011 
-- \#moscow () Dec2011 
-- \#movies () Dec2011 
-- \#music () Dec2011 
-- \#newhere () Dec2011 
-- \#nyc () Dec2011 
-- \#occupy () Dec2011 
-- \#opensource () Dec2011 
-- \#paris () Dec2011 
-- \#philosophy () Dec2011 
-- \#poker () Dec2011 
-- \#question () Dec2011 
-- \#queer () Dec2011 
-- \#running () Dec2011 
-- \#ruby () Dec2011 
-- \#sports () Dec2011 
-- \#tattoos () Dec2011 
-- \#volunteer () Dec2011 
-- \#votediaspora () Dec2011 
-- \#wikipedia () Dec2011 
-- \#womyn () Dec2011 
-- \#wtf () Dec2011
+- \#humor (35) (84) Dec2011 
+- \#humour (24) (31) Dec2011 
+- \#islam (19) (17) Dec2011 
+- \#kids (8) (7) Dec2011 
+- \#knitting (19) (25) Dec2011 
+- \#linux (900) (700) Dec2011 
+- \#love (115) (92) Dec2011 
+- \#marketing (36) (48) Dec2011 
+- \#meetup (0) Dec2011 
+- \#moscow (5) (3) Dec2011 
+- \#movies (700) (900) Dec2011 
+- \#music (1200) (1200) Dec2011 
+- \#newhere (10) (286) Dec2011 
+- \#nyc (11) (18) Dec2011 
+- \#occupy (26) (200) Dec2011 
+- \#opensource (200) (200) Dec2011 
+- \#paris (52) (22) Dec2011 
+- \#philosophy (200) (200) Dec2011 
+- \#poker (10) (11) Dec2011 
+- \#question (1) (66) Dec2011 
+- \#queer (70) (30) Dec2011 
+- \#religion (14) Dec2011 
+- \#running (34) (56) Dec2011 
+- \#ruby (50) (70) Dec2011 
+- \#socialjustice (18) Dec2011 
+- \#spirituality (32) Dec2011 
+- \#sport (35) (50) Dec2011 
+- \#sports (50) (50) Dec2011 
+- \#sustainability (39) (43) Dec2011 
+- \#tattoos (7) (22) Dec2011 
+- \#vegan (100) (100) Dec2011 
+- \#vegetarian (70) (50) Dec2011 
+- \#volunteer (9) (1) Dec2011 
+- \#votediaspora (1) Dec2011 
+- \#wikipedia (20) (19) Dec2011 
+- \#windows (10) Dec2011 
+- \#womyn (2) Dec2011 
+- \#wtf (5) Dec2011
