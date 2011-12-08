@@ -15,7 +15,7 @@ This is for Ubuntu 11.10. There are other steps than just this one:
 
 For both run:
 
-    wget http://mirrors.us.kernel.org/ubuntu//pool/universe/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
 ### Start MySQL (optional, depending on your platform):
 
