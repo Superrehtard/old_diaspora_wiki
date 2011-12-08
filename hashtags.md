@@ -24,14 +24,6 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </td></tr></table></a>
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Top Tags](#wiki-top-tags)**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
-
-- **\#diaspora #music #linux #art**
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
