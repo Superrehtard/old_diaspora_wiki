@@ -14,7 +14,7 @@ Post to **Diaspora** using the #hashtag ...
 - **\#d_lexicon** — to suggest new terms for the **[Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**. <br>
 
 - **\#d_group** — for information regarding **Diaspora Groups** functionality.
-</th></th></tr></table></a>
+</th></tr></table></a>
 
 ---
 
