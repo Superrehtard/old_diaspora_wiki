@@ -5,48 +5,48 @@
 
 ---
 
-### Animals
+### <a name="wiki-animals">Animals</a>
 
 ### <a name="wiki-arts">Arts<a>
 
 - **\#art [\#arts](#) \#music \#photography \#sculpture**
 - \#animation \#dance \#artcars \#knitting 
 
-### Community Building
+### <a name="wiki-community-building">Community Building</a>
 
-### Computer Programming
+### <a name="wiki-computer-programming">Computer Programming</a>
 
 - **#android**
 
-### Culture
+### <a name="wiki-culture">Culture</a>
 
-### Diaspora Development
+### <a name="wiki-diaspora-dev">Diaspora Development</a>
 
-### Fashion & Beauty
+### <a name="wiki-fashion-beauty">Fashion & Beauty</a>
 
-### Gaming
+### <a name="wiki-gaming">Gaming</a>
 
-### Gardening
+### <a name="wiki-gardens-plants">Gardens & Plants</a>
 
-### Green Living
+### <a name="green-sustainability">Green Sustainability</a>
 
-### Languages
+### <a name="wiki-languages">Languages</a>
 
-### Miscellaneous
+### <a name="wiki-misc">Miscellaneous</a>
 
-### Music
+### <a name="wiki-music">Music</a>
 
 - **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
 
-### Places
+### <a name="wiki-places">Places</a>
 
-### Occupy
+### <a name="wiki-occupy">Occupy</a>
 
-### Open Source & Open Content
+### <a name="wiki-open-source-content">Open Source & Open Content
 
-### Philosophy
+### <a name="wiki-philosophy">Philosophy</a>
 
-### Politics
+### <a name="wiki-politics">Politics</a>
 
 ### Privacy, Anonymity, Security & Encryption
 
