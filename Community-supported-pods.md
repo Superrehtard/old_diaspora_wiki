@@ -325,3 +325,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Maintained by: a private individual
     * Operating system: Fedora 15 Linux
     * Comments: Friends-and-family pod.
+
+* [[https://diasp.3towers.de/]]
+   * Opened: 16/11/2011
+   * Updated: regulary
+   * HTTPS only
+   * IPv6-Support
+   * Hosted in german data center
+   * Maintained by: Tim Eberhardt
+       * Contact: tim@3towers.de
+   * Operating system: Gentoo Linux x86_64
+   * Comments: Public and free, over 99% uptime, facebook, twitter and tumblr integration
