@@ -11,7 +11,7 @@
 
 ---
 
-<table width="400" border="1"><tr><th class="not to blame"> 
+<a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
 **Animals**
 </th></th></tr></table>
 
