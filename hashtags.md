@@ -59,8 +59,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r o g r a m m i n g - - - - - - - - - - - - - - - - - --> 
 
-- **\#android #apple #hacker #html5 #linux #opensource #php**
-- \ #css #c #cpp #html #javascript #microsoft #programming #ruby #rubyonrails #xml
+- **\#android #apple #hacker #html5 #java #linux #opensource #php**
+- \#css #c #cpp #html #javascript #microsoft #programming #ruby #rubyonrails #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
