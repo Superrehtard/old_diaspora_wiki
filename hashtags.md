@@ -7,6 +7,10 @@
 
 <a name="wiki-animals"><table><tr><th class="not to blame">
 ### Animals
+</td><td>
+one
+</td><td>
+two
 </td></th></a>
 
 ### <a name="wiki-arts">Arts<a>
