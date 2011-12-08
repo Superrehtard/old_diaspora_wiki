@@ -11,12 +11,9 @@
 
 ---
 
-<a><table width="600" border="1"><tr>
-<th class="not to blame">### Animals </th><th>
-one
-</th><th>
-two
-</th></tr></table></a>
+<a><table width="400" border="1"><tr><th class="not to blame"> 
+**Animals**
+</th></th></tr></table></a>
 
 ### <a name="wiki-arts">Arts<a>
 
