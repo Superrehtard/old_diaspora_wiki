@@ -5,7 +5,9 @@
 
 ---
 
-### <a name="wiki-animals">Animals</a>
+<a name="wiki-animals"><table><tr><td>
+### Animals
+</td></tr></a>
 
 ### <a name="wiki-arts">Arts<a>
 
