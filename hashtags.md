@@ -9,15 +9,16 @@
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
+---
 
 <a><table width="600" border="1"><tr>
 <th class="not to blame">
 ### Animals
-</td><td>
+</th><th>
 one
-</td><td>
+</th><th>
 two
-</td></th></a>
+</th></tr></table></a>
 
 ### <a name="wiki-arts">Arts<a>
 
