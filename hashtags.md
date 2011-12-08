@@ -8,7 +8,7 @@
 <a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
 - \#tags
@@ -16,19 +16,15 @@
 <a name="wiki-arts"><table width="400" border="1"><tr><th class="not to blame"> 
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
-
-- **#popular**
-- #tags
+<!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - **\#art [\#arts](#) \#music \#photography \#sculpture**
 - \#animation \#dance \#artcars \#knitting 
 
-<a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-community"><table width="400" border="1"><tr><th class="not to blame"> 
+**[Animals](#wiki-community) & Building**
 </th></th></tr></table>
-### <a name="wiki-community-building">Community Building</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
 - #tags
