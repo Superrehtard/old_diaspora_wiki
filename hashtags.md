@@ -23,8 +23,6 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 </td></tr></table></a>
 
----
-
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><th class="not to blame"> 
 **[Top Tags](#wiki-top-tags)**
