@@ -67,16 +67,22 @@
 <a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
-### <a name="wiki-fashion-beauty">Fashion & Beauty</a>
 <!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
 - #tags
 
-<a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-entertainment"><table width="400" border="1"><tr><th class="not to blame"> 
+**[Entertainment](#wiki-entertainment)**
 </th></th></tr></table>
-### <a name="wiki-gaming">Gaming</a>
+<!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t - - - - - - - - - - - - - - - - - --> 
+
+- **#popular**
+- #tags
+
+<a name="wiki-gaming"><table width="400" border="1"><tr><th class="not to blame"> 
+**[Gaming](#wiki-gaming)**
+</th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
