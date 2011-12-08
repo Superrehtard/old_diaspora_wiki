@@ -6,9 +6,12 @@
 <a name="wiki-top"><table width="99%" border="1"><tr><th class="not to blame"> 
 ### Contributing to or Commenting on this page
 
-Post to **Diaspora** using the #hashtag ... 
+Post to **Diaspora** using the #hashtag ...
+
 - **\#d_hashtags** — to suggest new #tags or ask a question.
-- **\#d_lexicon** — to suggest new terms for the **[Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
+
+- **\#d_lexicon** — to suggest new terms for the **[Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**. <br>
+
 - **\#d_group** — for information regarding **Diaspora Groups** functionality.
 </th></th></tr></table>
 
