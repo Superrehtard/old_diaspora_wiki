@@ -12,7 +12,7 @@
 ---
 
 <a name="wiki-animals"><table width="400" border="1"><tr><th class="not to blame"> 
-**Animals**
+**[Animals](#wiki-animals)**
 </th></th></tr></table>
 
 ### <a name="wiki-arts">Arts<a>
