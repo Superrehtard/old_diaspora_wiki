@@ -13,7 +13,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
 - **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
-- **[\#d_group](#)** — for talking about the future of **Diaspora Groups** functionality.
+- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality.
 
 </td></tr></table></a>
 
