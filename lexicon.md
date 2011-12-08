@@ -62,6 +62,7 @@ https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br>
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
 • https://github.com/diaspora/diaspora/wiki/Contributors <br>
+• http://blog.diasporafoundation.org/jobs <br>
 • https://DiasporaFoundation.org/donate <br>
 • http://diasporial.com/join-the-team <br>
 
