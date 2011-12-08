@@ -76,8 +76,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
-- **#popular**
-- \#bug #feature #federation #hacker #opensource #ruby
+- **#linux**
+- \#bug #feature #federation #hacker #mysql #opensource #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
