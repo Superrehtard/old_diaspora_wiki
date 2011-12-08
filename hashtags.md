@@ -4,9 +4,9 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 **[Top Tags](#wiki-top-tags)** (searching on these tags will generate the most posts) ...
-</th></th></tr></table>
+</td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
 - **\#diaspora #music #linux #art**
