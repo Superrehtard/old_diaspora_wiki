@@ -93,7 +93,7 @@ definition of **seed** ... <br>
 
 - **Spain** [Pods][P]
 
-[ [Jaupora.com](https://jauspora.com) ]
+[ [Jauspora.com](https://jauspora.com) ]
 
 - **Spore** <br />
 definition of **spore** ... <br />
