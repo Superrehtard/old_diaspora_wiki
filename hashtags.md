@@ -54,10 +54,10 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 - \#beer #vegan #vegetarian
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-programming"><table width="99%" border="1"><tr><th class="not to blame"> 
-**Computer [Programming](#wiki-programming) & Hacking**
+<a name="wiki-code"><table width="99%" border="1"><tr><th class="not to blame"> 
+**Computer Programming & Hacking [Code](#wiki-code)**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - P r o g r a m m i n g - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
 - **\#android #anonymous #apple #hacker #html5 #java #linux #opensource #php**
 - \#css #c #cpp #html #javascript #microsoft #programming #ruby #rubyonrails #xml
@@ -78,7 +78,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **\#diapora #hacker #linux #opensource**
-- \#bug #feature #federation #groups #hacker #mysql #ruby
+- \#bug #feature #federation #groups #lifehacker #mysql #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -123,7 +123,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **\#popular**
-- \#tags
+- \#lifehacker
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -184,8 +184,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
-- **\#brazil**
-- #nyc #brasil
+- **\#popular**
+- \#nyc #beach #brasil #brazil
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="99%" border="1"><tr><th class="not to blame"> 
