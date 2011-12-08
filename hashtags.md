@@ -18,6 +18,8 @@
 
 ### Diaspora Development
 
+### Fashion & Beauty
+
 ### Gaming
 
 ### Gardening
@@ -42,7 +44,7 @@
 
 ### Politics
 
-### Privacy, Security & Encryption
+### Privacy, Anonymity, Security & Encryption
 
 ### Sexuality & Gender
 
