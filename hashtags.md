@@ -10,7 +10,7 @@
 </tr></table></a>
 
 
-<a name="wiki-animals"><table width="600" border="1"><tr>
+<a><table width="600" border="1"><tr>
 <th class="not to blame">
 ### Animals
 </td><td>
