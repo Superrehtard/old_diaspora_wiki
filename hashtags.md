@@ -15,6 +15,9 @@
 **[Animals](#wiki-animals)**
 </th></th></tr></table>
 
+- **#popular**
+- #tags
+
 ### <a name="wiki-arts">Arts<a>
 
 - **\#art [\#arts](#) \#music \#photography \#sculpture**
