@@ -157,120 +157,107 @@
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-open"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Open](#wiki-open) Source & Open Content**
 </th></th></tr></table>
-### <a name="wiki-open-source-content">Open Source & Open Content
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-philosophy"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Philosophy](#wiki-philosophy)**
 </th></th></tr></table>
-### <a name="wiki-philosophy">Philosophy</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-politics"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Politics](#wiki-politics)**
 </th></th></tr></table>
-### <a name="wiki-politics">Politics</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Privacy](#wiki-privacy), Anonymity, Security & Encryption**
 </th></th></tr></table>
-### Privacy, Anonymity, Security & Encryption
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-sex"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Sex](#wiki-sex)uality & Gender**
 </th></th></tr></table>
-### Sexuality & Gender
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - S e x --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Social](#wiki-social) Media**
 </th></th></tr></table>
-### Social Media
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-society"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Society](#wiki-society) & Sociology**
 </th></th></tr></table>
-### Sociology
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - S o c i e t y --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-spirituality"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Spirituality](#wiki-spirituality)**
 </th></th></tr></table>
-### Spirituality
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Sports](#wiki-animals)*
 </th></th></tr></table>
-### Sports
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-tech"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Tech](#wiki-tech)nology**
 </th></th></tr></table>
-### Technology
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
 - **#android**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Wellness](#wiki-wellness) & Pets**
 </th></th></tr></table>
-### Wellness
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
 
 ---
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-other"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Other](#wiki-other)**
 </th></th></tr></table>
-### Other
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
-
+<!-- - - - - - - - - - - - - - - - - - O t h e r --> 
 
 ---
 
