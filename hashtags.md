@@ -5,9 +5,9 @@
 
 ---
 
-<a name="wiki-animals"><table><tr><td class="not to blame">
+<a name="wiki-animals"><table><tr><th class="not to blame">
 ### Animals
-</td></tr></a>
+</td></th></a>
 
 ### <a name="wiki-arts">Arts<a>
 
