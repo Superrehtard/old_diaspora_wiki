@@ -230,7 +230,7 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Sports](#wiki-animals)*
+**[Sports](#wiki-animals)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
@@ -247,7 +247,7 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Wellness](#wiki-wellness) & Pets**
+**[Wellness](#wiki-wellness)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
 
