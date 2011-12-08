@@ -7,7 +7,7 @@
 
 ### Animals
 
-### Arts
+### <a name="wiki-arts">Arts<a>
 
 - **\#art [\#arts](#) \#music \#photography \#sculpture**
 - \#animation \#dance \#artcars \#knitting 
