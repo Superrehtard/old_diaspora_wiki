@@ -51,9 +51,8 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Culture](#wiki-animals)**
+**[Culture](#wiki-culture)**
 </th></th></tr></table>
-### <a name="wiki-culture">Culture</a>
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **#popular**
@@ -123,40 +122,36 @@
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-misc"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Misc](#wiki-animals)ellaneous**
 </th></th></tr></table>
-### <a name="wiki-misc">Miscellaneous</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - M i s c --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Music](#wiki-music)**
 </th></th></tr></table>
-### <a name="wiki-music">Music</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Places](#wiki-places)**
 </th></th></tr></table>
-### <a name="wiki-places">Places</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
 - **#popular**
 - #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+<a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Occupy](#wiki-occupy)**
 </th></th></tr></table>
-### <a name="wiki-occupy">Occupy</a>
-<!-- - - - - - - - - - - - - - - - - - Animals - - - - - - - - - - - - - - - - - --> 
+<!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
 - **#popular**
 - #tags
