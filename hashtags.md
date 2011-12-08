@@ -194,7 +194,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **\#popular**
-- \#anarchy #feminism #libertarian #occupy #peace #socialjustice
+- \#anarchy #feminism #libertarian #occupy #peace #ronpaul #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -212,7 +212,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S e x --> 
 
 - **\#popular**
-- \#dating #feminism #lgbt #gay #gender #love #kinky #queer #porn #sex #womyn 
+- \#dating #feminism #lgbt #gay #gender #love #kinky #queer #porn #sex #transgender #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
