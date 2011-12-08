@@ -7,11 +7,11 @@
 
 ### Contributing to or Commenting on this page
 
-Post to **Diaspora** using the [#hashtags](#) ...
+Post to **Diaspora** using one of these [#hashtags](#) ...
 
-- **[\#d_hashtags](#)** — to suggest new #tags or ask a question.
-- **[\#d_lexicon](#)** — to suggest new terms for the **[Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
-- **[\#d_group](#)** — for information regarding **Diaspora Groups** functionality.
+- **[\#d_hashtags](#)** — to suggest new #tags for **[Diaspora #hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
+- **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspor Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
+- **[\#d_group](#)** — for talking about (future) **Diaspora Groups** functionality.
 
 </td></tr></table></a>
 
