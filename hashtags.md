@@ -5,7 +5,7 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
-**[Top Tags](#wiki-top-tags)** (searching on these tags will generate the most posts) ...
+**[Top Tags](#wiki-top-tags)** &nbsp; (searching on these tags will generate the most posts) ...
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
