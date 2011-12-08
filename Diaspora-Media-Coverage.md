@@ -11,6 +11,10 @@
 
 ## 2011
 
+### December
+
+* WebProNews, 12.07.2011, [Diaspora: First Impressions](http://www.webpronews.com/diaspora-first-impressions-2011-12)
+
 ### November
 
 * ITBusinessEdge, 11.18.2011, [Diaspora Founders Continue Quest for Free and Private Internet](http://www.itbusinessedge.com/cm/blogs/bentley/diaspora-founders-continue-quest-for-free-and-private-internet/?cs=49124)
