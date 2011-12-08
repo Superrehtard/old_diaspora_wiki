@@ -235,7 +235,7 @@ high level (human-readable) computer language. &nbsp;
 
 [ HTML **|** XHTML *|* XML *|* Hypertext **|** [Markdown][M] **|** Text ]     
        
-- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell)** (cofounder)     
+- **[Maxwell Salzberg](https://JoinDiaspora.com/u/maxwell target="_blank")** (cofounder)     
          
 - **Meetup**    
     
