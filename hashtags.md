@@ -59,8 +59,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r o g r a m m i n g - - - - - - - - - - - - - - - - - --> 
 
-- **\#android #apple #css #html5 #microsoft #linux #php**
-- \#html javascript #ruby #rubyonrails #xml
+- **\#android #apple #html5 #microsoft #linux #php**
+- \ #css #html #javascript #ruby #rubyonrails #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -238,8 +238,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
-- **\#atheism #atheism** 
-- \#atheism #catholic #christian #buddhism #islam #religion
+- **\#atheism #atheist** 
+- \#agnostic #atheism #buddhism #catholic #christian #islam #occult #religion #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
