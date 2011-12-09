@@ -143,15 +143,6 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 - \#tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-misc"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Misc](#wiki-animals)ellaneous & Special Tags**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - M i s c --> 
-
-- **\#newhere**
-- \#commit #d_group #d_hashtags #d_lexicon #wtf
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
 **[Music](#wiki-music)**
 </th></th></tr></table>
@@ -231,6 +222,15 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **\#diaspora**
 - \#facebook #flicker #youtube
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-special"><table width="99%" border="1"><tr><th class="not to blame"> 
+**Miscellaneous & [Special](#wiki-special) Tags**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
+
+- **\#newhere**
+- \#commit #d_group #d_hashtags #d_lexicon #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-spirituality"><table width="99%" border="1"><tr><th class="not to blame"> 
