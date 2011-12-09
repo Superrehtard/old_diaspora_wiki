@@ -176,27 +176,27 @@ in the sample ssl.conf file above point to diaspora's public directory, for a ce
 
 Now you want to direct the CNAME you created, diaspora.[yourdomain].net, through your [yourname].pagekite.me kite, to your local computer, where your nginx webserver is listening at ports 80 and 443. Using a text editor, edit your pagekite configuration files as follows.  The file /etc/pagekite.d/10_account.rc should contain the following values:
 
-kitename=diaspora.[yourdomain].net
+     kitename=diaspora.[yourdomain].net
 
-kitesecret=[your account secret from your pagekite account]
+     kitesecret=[your account secret from your pagekite account]
 
 
 The file /etc/pagekite.d/80_httpd.rc should contain the following:
 
-backend=http:[yourname].pagekite.me:localhost:80:@kitesecret
+     backend=http:[yourname].pagekite.me:localhost:80:@kitesecret
 
-backend=https:[yourname].pagekite.me:localhost:443:@kitesecret
+     backend=https:[yourname].pagekite.me:localhost:443:@kitesecret
 
-backend=http:@kitename:localhost:80:@kitesecret
+     backend=http:@kitename:localhost:80:@kitesecret
 
-backend=https:@kitename:localhost:443:@kitesecret
+     backend=https:@kitename:localhost:443:@kitesecret
 
 
 Note: If you're having problems with nginx. While you figure the problem out, you can direct pagekite directly to the thin server listening at localhost:3000 with the following 80_httpd.rc config:
 
-backend=http:[yourname].pagekite.me:localhost:3000:@kitesecret
+     backend=http:[yourname].pagekite.me:localhost:3000:@kitesecret
 
-backend=http:@kitename:localhost:3000:@kitesecret
+     backend=http:@kitename:localhost:3000:@kitesecret
 
 ## 9. Test
 
