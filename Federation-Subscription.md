@@ -11,3 +11,9 @@ Then, whenever public posts are broadcast, the publicsubscription accounts are a
 Not much else needs to change, the system will just queue up the public message as usual, and the message processing code should just continue to work as it does, except we get the new, added benefit of posts federating out to other pods without needing real humans to make cross-pod contact connections.
 
 Because it is a subscription system, a pod cannot be forced to transmit.
+
+**Sarah's comments:**
+
+It seems like the problem we're trying to solve is that when someone installs a pod, they subscribe to some remote users and hashtags, and then ... they wonder why they don't have any posts. This proposal doesn't really solve that problem, because it requires the admins of the bigger pods to change a yaml file and restart the server. It would be a lot more compelling for the admins of the new pods if they could get everything installed, subscribe to some remote users and hashtags, and then subscribing to the hashtag automatically fired off a request to the bigger pod to send them the most recent 10 posts for a that tag. Then they'd start actually getting posts right away (or whenever the job gets to the front of the queue on the big pod). 
+
+If spam is ever a problem, we could add a blacklist on the big pod. Solve that problem when we get there.
