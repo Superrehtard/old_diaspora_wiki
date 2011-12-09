@@ -286,8 +286,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 ### Top Tags on JoinDiaspora.com
 
-**Tag (People+Followers) Date**
-This page searches on JoinDiaspora.com.  Ratings are based on number of 'People' (those who declare a tag as one of their 5 profile tags) PLUS 'Followers' (total people following a particular tag) ...  
+**\#Tag (People+Followers) Date**
+This page searches on JoinDiaspora.com.  Ratings are based on number of 'People' (those who declare a tag as one of their 5 profile tags) PLUS 'Followers' (total number of people following a particular tag) ...  
 
 ---
 
