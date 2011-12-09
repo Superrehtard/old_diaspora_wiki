@@ -264,7 +264,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **\#football #soccer**
-- \#baseball #rockclimbing #rugby #golf #tennis #
+- \#baseball #basketball #hiking #rockclimbing #rugby #golf #tennis #
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="99%" border="1"><tr><th class="not to blame"> 
