@@ -38,7 +38,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#art #books #movies #music**
+- **\#anime #art #books #movies #music**
 - \#animation #darts #artcars #knitting #photography #sculpture #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
