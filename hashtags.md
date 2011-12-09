@@ -31,8 +31,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **Top: #cats #nature**
-- **Tags:** \#birds #dogs #fish #fishing #horses
+- **Top:&nbsp; #cats #nature**
+- **Tags:&nbsp;** \#birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="99%" border="1"><tr><th class="not to blame"> 
