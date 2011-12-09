@@ -5,7 +5,12 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
-**[Top Tags](#wiki-top-tags)** &nbsp; (searching on these [#tags](#) will generate more posts, posting will generate more readers) ...
+**[Top Tags](#wiki-top-tags)** &nbsp; (Searching on these [#tags](#) will find more posts.&nbsp; Posting with these #tags will find more readers) ...
+
+- **More [#hashtags](#) finds more posts!
+- **More [#hashtags](#) finds more readers!
+- **More [#hashtags](#) finds more friends!
+
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
