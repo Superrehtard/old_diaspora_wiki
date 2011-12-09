@@ -129,7 +129,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **\#nature**
-- \#lifehacker 
+- \#lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -157,15 +157,6 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **\#guitar #music #music** 
 - \#dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #piano #punk #rap #rocknroll #classicalmusic
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Studies](#wiki-studies)**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
-
-- **\#education #teacher**
-- #business #economy #fairtrade #feminism #health #marketing #nurse #philosophy
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -210,7 +201,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **\#freedom**
-- \#99percent #anarchy #business #climate #communism #conservative #eco #economy #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice
+- \#99percent #anarchy #business #climate #communism #conservative #eco #economy #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -256,6 +247,15 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **\#football #soccer**
 - \#baseball #basketball #hiking #rockclimbing #rugby #golf #tennis #
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Studies](#wiki-studies)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
+
+- **\#education #teacher**
+- #business #economy #feminism #health #marketing #nurse #philosophy
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="99%" border="1"><tr><th class="not to blame"> 
