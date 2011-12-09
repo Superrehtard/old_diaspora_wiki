@@ -9,7 +9,7 @@
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **\#art #french #diaspora #movies #music #linux
+- **\#art #french #diaspora #movies #music #linux**
 - **More [\#hashtags](#) ⇒** more readers **⇒** more reshares **⇒** more posts **⇒** more connections **⇒** more friends **⇒** more **Diaspora!**
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
