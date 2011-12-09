@@ -294,9 +294,15 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - #movies (10500) Dec2011
 - #art (9000) Dec2011
 - #linux (7300) Dec2011
+- #android (3500) Dec2011
 - #diaspora (2400) Dec2011
+- #books (2400) Dec2011
+- #apple (2300) Dec2011
 - #french (1600) Dec2011
 - #opensource (1600) Dec2011
+- #newhere (1300) Dec2011
+- #guitar (1100) Dec2011
+
 
 ---
 
