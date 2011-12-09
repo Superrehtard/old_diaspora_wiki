@@ -12,7 +12,7 @@ What will you call your pod? This how-to assumes you're going to call it diaspor
 
 ## 3. Install the nginx Web Server Software on Your Computer
 
-Although you can run Diaspora without a web server (and I'll describe how to do so below), this isn't recommended. You won't have SSL, so other pods that require SSL connections won't be able to connect with your pod.
+Although you can run Diaspora without a web server (see Section 8 below), this isn't recommended. You won't have SSL, so other pods that require SSL connections won't be able to connect with your pod.
 
 The preferred web server is nginx. You can get it with yum, rpm or apt, but try to download the latest version, which is 1.0.10-1, because this how-to is based on it. Once you've installed nginx, you should be able to start it right away by typing, as root or sudo, in a teminal:
 
@@ -75,7 +75,7 @@ The next step is to configure how nginx handles calls to port 80 (the standard h
 
 `cd /etc/nginx/conf.d`
 
-You'll see three files there: default.conf, ssl.conf, and virtual.conf. We'll be editing the first two. Let's start with default.conf. It contains the configuration to handle port 80. What we want to do is tell it to redirect port 80 requests to port 443, and we want to tell it where the diaspora pod's public files are located on the computer. Here's my working /etc/nginx/conf.d/default.conf file (comment lines removed)(except I've replaced my pod's name with "diaspora.[yourdomain].net," and my username with "[your username]" as a placeholder for your particular setup's information:
+You'll see three files there: default.conf, ssl.conf, and virtual.conf. We'll be editing the first two. Let's start with default.conf. It contains the configuration to handle port 80. What we want to do is tell it to redirect port 80 requests to port 443, and we want to tell it where the diaspora pod's public files are located on the computer. Here's my working /etc/nginx/conf.d/default.conf file (comment lines removed)(except I've replaced my pod's name with "diaspora.[yourdomain].net," and my username with "[your username]" as a placeholder for your particular setup's information):
 
 
     server {
@@ -102,7 +102,7 @@ You'll see three files there: default.conf, ssl.conf, and virtual.conf. We'll be
     }
 
 
-OK, the next step is to edit the /etc/nginx/conf.d/ssl.conf file, to tell it the server name, tell it the location of your SSL files, tell it to check the upstream server at localhost:3000, and to tell it where the diaspora public files are. Here's my working edited version (comment lines removed) (except I've replaced my pod's name with "diaspora.[yourdomain].net," and my username with "[your username]" as a placeholder for your particular setup's information:
+OK, the next step is to edit the /etc/nginx/conf.d/ssl.conf file, to tell it the server name, tell it the location of your SSL files, tell it to check the upstream server at localhost:3000, and to tell it where the diaspora public files are. Here's my working edited version (comment lines removed) (except I've replaced my pod's name with "diaspora.[yourdomain].net," and my username with "[your username]" as a placeholder for your particular setup's information):
 
      server {
      listen       443;
@@ -152,7 +152,7 @@ But the nginx webserver is not visible to the internet yet, because it is likely
 
 ## 4. Create a Domain Name
 
-Go to GoDaddy, VeriSign, or the like, and register a domain matching what you chose up Step 2 above. For example, [yourdomain].net.
+Go to GoDaddy, VeriSign, or the like, and register a domain matching what you chose in Step 2 above. For example, [yourdomain].net.
 
 ## 5. Create a Pagekite Account
 
@@ -164,7 +164,7 @@ Go back to your domain registrar, log in to your domain name account, and create
 
 ## 7. Get an SSL Cert and SSL Key for Your Subdomain.
 
-For SSL to work for nginx at port 443, you need an SSL cert. You can get one free at [StartSSL.com](http://www.startssl.com/). Many domain registrars can do it for you too. Once you've installed your SSL certificate and key, make sure that the SSL location info lines in /etc/nginx/conf.d/ssl.conf point to the location of the cert and key.  For example, 
+For SSL to work for nginx at port 443, you need an SSL cert. You can get one free at [StartSSL.com](http://www.startssl.com/). Many domain registrars can do it for you too. Make sure it matches the CNAME you've created, e.g., diaspora.[yourdomain].net. Once you've installed your SSL certificate and key, make sure that the SSL location info lines in /etc/nginx/conf.d/ssl.conf point to the location of the cert and key.  For example, 
 
      ssl                  on;
      ssl_certificate      /home/[your username]/diaspora/public/SSL.crt;
