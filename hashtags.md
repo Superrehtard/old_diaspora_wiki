@@ -9,7 +9,7 @@
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **\#music #movies (10500) #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
+- **\#music #movies #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
 
 - **More [\#hashtags](#) ⇒** more readers **⇒** more reshares **⇒** more posts **⇒** more connections **⇒** more friends **⇒** more **Diaspora!**
 
@@ -304,13 +304,9 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - #newhere (1300) Dec2011
 - #guitar (1100) Dec2011
 
-
 ---
 
 ### Alphabetical list of Diaspora #Hashtags
-Dec2011: **#popular** defined as (People+Followers) > 100 or if just 1 > 50. 
-
-**Tag | People | Followers | Date**
 
 - \#android | 152 | 245 | Dec2011 
 - \#animation | 22 | 37 | Dec2011 
