@@ -38,8 +38,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#anime #art #books #movies #music #musica**
-- \#animation #darts #artcars #knitting #photography #sculpture #tattoos
+- **\#anime #art #books #film #movies #music #musica**
+- \#3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -92,8 +92,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
-- **\#popular**
-- \#npr #tv 
+- **\#film**
+- \#flickr #npr #radio #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -102,7 +102,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
 
 - **\#popular**
-- \#tags
+- \#fashion
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gaming"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -156,7 +156,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **\#music #music** 
-- \#dj #hiphop #punk #classicalmusic
+- \#dj #drumming #folkmusic #heavymetal #hiphop #punk #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupations"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -236,8 +236,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
-- **\#popular**
-- \#tags
+- **\#diapora**
+- \#facebook #flicker #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-society"><table width="99%" border="1"><tr><th class="not to blame"> 
