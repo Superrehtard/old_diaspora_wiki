@@ -214,4 +214,4 @@ If you change local network locations (for example, you take the laptop hosting 
 
 `service pagekite restart`
 
-OK? Good luck. Hope to see you on Diaspora.
+OK? Good luck. Hope to see you on Diaspora. (Oh, one last thing: operating a web server may violate your internet service provider's service terms and conditions. If you're concerned about that, review your service agreement.)
