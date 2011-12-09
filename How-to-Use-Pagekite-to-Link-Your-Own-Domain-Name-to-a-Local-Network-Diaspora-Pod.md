@@ -106,7 +106,7 @@ OK, the next step is to edit the /etc/nginx/conf.d/ssl.conf file, to tell it the
 
      server {
      listen       443;
-     server_name  diaspora.[yourdomain].net www.diaspora.[yourdomain].net_;
+     server_name  diaspora.[yourdomain].net www.diaspora.[yourdomain].net;
 
      ssl                  on;
      ssl_certificate      /home/[your username]/diaspora/public/SSL.crt;
