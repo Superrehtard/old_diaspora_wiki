@@ -40,8 +40,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #anime #art #artculture #arts #books #design #film #movies #music #musica #poetry**
-- **Tags:&nbsp;** #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos #typography #writing
+- **Top:&nbsp; #anime #art #artculture #arts #books #design #film #movies #music #musica #poetry #scifi #tattoo #tattoos**
+- **Tags:&nbsp;** #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #graffiti #knitting #multimedia #photography #photoshop #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -67,8 +67,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
-- **Top:&nbsp; #android #anonymous #apple #computers #hacker #html5 #java #linux #logic #opensource #php**
-- **Tags:&nbsp;** #css #c #cpp #gif #html #javascript #microsoft #networking #programming #ruby #rubyonrails #xml
+- **Top:&nbsp; #android #anonymous #apple #computers #freesoftware #hacker #html5 #java #linux #logic #opensource #php #software**
+- **Tags:&nbsp;** #css #c #cpp #gif #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -76,8 +76,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #artculture #burningman #culture #harrypotter #heavymetal #gay #goth #lgbt #meme #memes #punk #tattoos #zeitgeist #zombies
+- **Top:&nbsp;  #tattoo #tattoos**
+- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #lgbt #meme #memes #punk #tattoos #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -86,7 +86,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp; #diapora #hacker #linux #opensource**
-- **Tags:&nbsp;** #bug #commit #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
+- **Tags:&nbsp;** #bug #commit #diy #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -94,8 +94,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
-- **Top:&nbsp; #film**
-- **Tags:&nbsp;** #art #artfilm #arts #burlesque #flickr #film #fun #funny #games #music #npr #radio #tv #youtube
+- **Top:&nbsp;  #art #comedy #film #fun #funny #music #musica #musika #movies #scifi**
+- **Tags:&nbsp;**  #artfilm #arts #burlesque #flickr #film #games #npr #radio #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -139,8 +139,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
-- **Top:&nbsp; #french**
-- **Tags:&nbsp;** #tags #words #usa #english
+- **Top:&nbsp;  #french**
+- **Tags:&nbsp;**   #english #libros #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -149,7 +149,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **Top:&nbsp; #guitar #music #music** 
-- **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #piano #punk #rap #rocknroll #classicalmusic
+- **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -158,7 +158,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
 - **Top:&nbsp; #occupy**
-- **Tags:&nbsp;** #99percent #occupy #occupyla #ows
+- **Tags:&nbsp;** #99percent #occupy #occupymovement #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -175,8 +175,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #communism #buddhism #feminism #life #logic #metaphysics #socialism
+- **Top:&nbsp;  #philosophy**
+- **Tags:&nbsp;**  #communism #buddhism #feminism #life #logic #metaphysics #socialism #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -184,8 +184,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #america #nyc #beach #brasil #brazil #uk #usa 
+- **Top:&nbsp;  #french #travel**
+- **Tags:&nbsp;**  #america #nyc #beach #brasil #brazil #canada earth #israel #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -193,17 +193,17 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
-- **Top:&nbsp; #freedom**
-- **Tags:&nbsp;** #99percent #anarchy #business #climate #communism #conservative #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
+- **Top:&nbsp;  #freedom**
+- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Privacy](#wiki-privacy), Anonymity, Security & Encryption**
+**[Privacy](#wiki-privacy), Anonymity, Security, Encryption & Intellectual Property**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
 - **Top:&nbsp; #anonymous**
-- **Tags:&nbsp;** #anonymity #encryption #privacy #security 
+- **Tags:&nbsp;** #anonymity #censorship #creativecommons #encryption #piracy #privacy #security 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sex"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -220,8 +220,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
-- **Top:&nbsp; #diaspora**
-- **Tags:&nbsp;** #facebook #flicker #youtube
+- **Top:&nbsp;  #diaspora**
+- **Tags:&nbsp;**  #community #diy #facebook #flicker #friendfeed #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -238,8 +238,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
-- **Top:&nbsp; #atheism #atheist #christian** 
-- **Tags:&nbsp;** #agnostic #buddhism #catholic #islam #life #occult #religion #wicca
+- **Top:&nbsp;  #atheism #atheist #christian** 
+- **Tags:&nbsp;**  #agnostic #buddhism #catholic #christmas #islam #judaism #jew #jewish #life #occult #religion #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -247,8 +247,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
-- **Top:&nbsp; #football #soccer**
-- **Tags:&nbsp;** #baseball #basketball #cricket #exercise #hiking #rockclimbing #rugby #golf #sports #tennis #volleyball
+- **Top:&nbsp;  #climbing #football #martialarts #soccer**
+- **Tags:&nbsp;**  #baseball #basketball #cricket #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -256,7 +256,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
-- **Top:&nbsp; #education #teacher**
+- **Top:&nbsp; #astronomy #education #linguistics #science #teacher**
 - **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #nurse #paranormal #philosophy #reading #research #space #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -266,7 +266,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
 - **Top:&nbsp; #android #apple #computers**
-- **Tags:&nbsp;** #eco #climate #solar #technology
+- **Tags:&nbsp;** #eco #climate #solar #technology #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
