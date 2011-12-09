@@ -9,7 +9,7 @@
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **Top:&nbsp; #music #movies #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
+- **Top Tags:&nbsp; #music #movies #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
 
 - **More [\#hashtags](#) ⇒** more readers **⇒** more reshares **⇒** more posts **⇒** more connections **⇒** more friends **⇒** more **Diaspora!**
 
