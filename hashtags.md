@@ -31,8 +31,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **\#cats #nature**
-- \#birds #dogs #fish #fishing #horses
+- **Top: #cats #nature**
+- Tags: \#birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -40,8 +40,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#anime #art #books #film #movies #music #musica #poetry**
-- \#3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
+- **Top: #anime #art #books #film #movies #music #musica #poetry**
+- Tags: #3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
