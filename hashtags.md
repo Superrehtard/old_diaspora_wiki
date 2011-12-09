@@ -159,13 +159,13 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 - \#dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-occupations"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Occupations](#wiki-occupations)**
+<a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Studies](#wiki-studies)**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - O c c u p a t i o n s --> 
+<!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
 - **\#education #teacher**
-- #business #economy #fairtrade #health #marketing #nurse
+- #business #economy #fairtrade #feminism #health #marketing #nurse #philosophy
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -173,7 +173,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
-- **\#popular**
+- **\#occupy**
 - \#99percent #occupy #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -192,7 +192,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **\#popular**
-- #buddhism #feminism #life
+- \#communism #buddhism #feminism #life #socialism
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -210,7 +210,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **\#freedom**
-- \#99percent #anarchy #business #climate #eco #economy #feminism #humanrights #greenpeace #libertarian #occupy #peace #ronpaul #socialjustice
+- \#99percent #anarchy #business #climate #communism #conservative #eco #economy #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -236,17 +236,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
-- **\#diapora**
+- **\#diaspora**
 - \#facebook #flicker #youtube
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-society"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Society](#wiki-society) & Sociology**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - S o c i e t y --> 
-
-- **\#popular**
-- \#tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-spirituality"><table width="99%" border="1"><tr><th class="not to blame"> 
