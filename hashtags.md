@@ -9,10 +9,11 @@
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **\#art #french #diaspora #music #linux #opensource**
-- **More [\#hashtags](#) finds more posts!
-- **More [\#hashtags](#) finds more readers!
-- **More [\#hashtags](#) finds more friends!
+- **\#art #french #diaspora #music #linux #opensource** <br>
+<br>
+- **More [\#hashtags](#) finds more posts!**
+- **More [\#hashtags](#) finds more readers!**
+- **More [\#hashtags](#) finds more friends!**
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
