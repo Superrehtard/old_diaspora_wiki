@@ -180,6 +180,7 @@ kitename=diaspora.[yourdomain].net
 
 kitesecret=[your account secret from your pagekite account]
 
+
 The file /etc/pagekite.d/80_httpd.rc should contain the following:
 
 backend=http:[yourname].pagekite.me:localhost:80:@kitesecret
@@ -190,7 +191,8 @@ backend=http:@kitename:localhost:80:@kitesecret
 
 backend=https:@kitename:localhost:443:@kitesecret
 
-Special note here if you're having problems with nginx. While you figure the problem out, you can direct pagekite directly to the thin server listening at localhost:3000 with the following 80_httpd.rc config:
+
+Note: If you're having problems with nginx. While you figure the problem out, you can direct pagekite directly to the thin server listening at localhost:3000 with the following 80_httpd.rc config:
 
 backend=http:[yourname].pagekite.me:localhost:3000:@kitesecret
 
