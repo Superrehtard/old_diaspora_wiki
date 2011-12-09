@@ -214,4 +214,4 @@ If you change local network locations (for example, you take the laptop hosting 
 
 `service pagekite restart`
 
-OK? Good luck.
+OK? Good luck. Hope to see you on Diaspora.
