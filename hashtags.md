@@ -93,7 +93,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
 - **\#popular**
-- \#tags
+- \#npr #tv 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -159,13 +159,22 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 - \#dj #hiphop #punk #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-occupations"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Occupations](#wiki-occupations)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - O c c u p a t i o n s --> 
+
+- **\#education #teacher**
+- #business #economy #fairtrade #health #marketing #nurse
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
 **[Occupy](#wiki-occupy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
 - **\#popular**
-- #occupy #occupyla #ows
+- \#99percent #occupy #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -201,7 +210,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **\#freedom**
-- \#anarchy #business #economy #feminism #libertarian #occupy #peace #ronpaul #socialjustice
+- \#99percent #anarchy #business #climate #eco #economy #feminism #humanrights #greenpeace #libertarian #occupy #peace #ronpaul #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -264,7 +273,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
 - **\#android**
-- \#technology
+- \#eco #climate #solar #technology
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
