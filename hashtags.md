@@ -30,7 +30,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
 - **\#cats #nature**
-- \#birds #dogs #fishing #horses
+- \#birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -57,7 +57,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
 - **\#cooking**
-- \#beer #vegan #vegetarian
+- \#baking #beer #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -75,7 +75,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **\#popular**
-- #burningman #heavymetal #gay #goth #lgbt #meme #memes #punk #tattoos
+- #burningman #harrypotter #heavymetal #gay #goth #lgbt #meme #memes #punk #tattoos #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -155,8 +155,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
-- **\#music #music** 
-- \#dj #drumming #folkmusic #heavymetal #hiphop #punk #rap #rocknroll #classicalmusic
+- **\#guitar #music #music** 
+- \#dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupations"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -263,8 +263,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
-- **\#popular**
-- \#tags
+- **\#football #soccer**
+- \#baseball #rockclimbing #rugby #golf #tennis #
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="99%" border="1"><tr><th class="not to blame"> 
