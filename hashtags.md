@@ -67,7 +67,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
-- **Top:&nbsp; #android #anonymous #apple #hacker #html5 #java #linux #logic #opensource #php**
+- **Top:&nbsp; #android #anonymous #apple #computers #hacker #html5 #java #linux #logic #opensource #php**
 - **Tags:&nbsp;** #css #c #cpp #gif #html #javascript #microsoft #networking #programming #ruby #rubyonrails #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -265,7 +265,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
-- **Top:&nbsp; #android**
+- **Top:&nbsp; #android #apple #computers**
 - **Tags:&nbsp;** #eco #climate #solar #technology
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
