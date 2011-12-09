@@ -11,9 +11,9 @@
 
 - **\#art #french #diaspora #music #linux #opensource** <br>
 <br>
-- **More [\#hashtags](#) ⇒ more posts!**
-- **More [\#hashtags](#) ⇒ more readers!**
-- **More [\#hashtags](#) ⇒ more friends!**
+- More [\#hashtags](#) ⇒ more posts!
+- More [\#hashtags](#) ⇒ more readers!
+- More [\#hashtags](#) ⇒ more friends!
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
