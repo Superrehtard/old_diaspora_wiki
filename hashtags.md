@@ -38,7 +38,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#anime #art #books #movies #music**
+- **\#anime #art #books #movies #music #musica**
 - \#animation #darts #artcars #knitting #photography #sculpture #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -66,7 +66,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
 - **\#android #anonymous #apple #hacker #html5 #java #linux #opensource #php**
-- \#css #c #cpp #html #javascript #microsoft #programming #ruby #rubyonrails #xml
+- \#css #c #cpp #html #javascript #microsoft #networking #programming #ruby #rubyonrails #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -84,7 +84,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **\#diapora #hacker #linux #opensource**
-- \#bug #feature #federation #groups #lifehacker #mysql #ruby
+- \#bug #feature #federation #groups #lifehacker #mysql #networking #ruby
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -155,7 +155,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
-- **[\#music](#) \#dj \#hiphop \#punk \#classicalmusic**
+- **\#music #music** 
+- \#dj #hiphop #punk #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -200,7 +201,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **\#freedom**
-- \#anarchy #feminism #libertarian #occupy #peace #ronpaul #socialjustice
+- \#anarchy #business #economy #feminism #libertarian #occupy #peace #ronpaul #socialjustice
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -262,7 +263,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
-- **#android**
+- **\#android**
+- \#technology
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
