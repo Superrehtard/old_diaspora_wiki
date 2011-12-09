@@ -6,15 +6,13 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 **[Top Tags](#wiki-top-tags)** &nbsp; (Searching on these [#tags](#) will find more posts.&nbsp; Posting with these #tags will find more readers) ...
-
-- **More [#hashtags](#) finds more posts!
-- **More [#hashtags](#) finds more readers!
-- **More [#hashtags](#) finds more friends!
-
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
 - **\#art #french #diaspora #music #linux #opensource**
+- **More [\#hashtags](#) finds more posts!
+- **More [\#hashtags](#) finds more readers!
+- **More [\#hashtags](#) finds more friends!
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
