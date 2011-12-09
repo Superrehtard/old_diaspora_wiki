@@ -292,17 +292,17 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 ---
 
 - **[\#music](https://JoinDiaspora.com/tags/music)** (15000) Dec2011
-- **[\#movies](https://JoinDiaspora.com/tags/music)** (10500) Dec2011
-- **[\#art](https://JoinDiaspora.com/tags/music)** (9000) Dec2011
-- **[\#linux](https://JoinDiaspora.com/tags/music)** (7300) Dec2011
-- **[\#android](https://JoinDiaspora.com/tags/music)** (3500) Dec2011
-- **[\#diaspora](https://JoinDiaspora.com/tags/music)** (2400) Dec2011
-- **[\#books](https://JoinDiaspora.com/tags/music)** (2400) Dec2011
-- **[\#apple](https://JoinDiaspora.com/tags/music)** (2300) Dec2011
-- **[\#french](https://JoinDiaspora.com/tags/music)** (1600) Dec2011
-- **[\#opensource](https://JoinDiaspora.com/tags/music)** (1600) Dec2011
-- **[\#newhere](https://JoinDiaspora.com/tags/music)** (1300) Dec2011
-- **[\#guitar](https://JoinDiaspora.com/tags/music)** (1100) Dec2011
+- **[\#movies](https://JoinDiaspora.com/tags/movies)** (10500) Dec2011
+- **[\#art](https://JoinDiaspora.com/tags/art)** (9000) Dec2011
+- **[\#linux](https://JoinDiaspora.com/tags/linux)** (7300) Dec2011
+- **[\#android](https://JoinDiaspora.com/tags/android)** (3500) Dec2011
+- **[\#diaspora](https://JoinDiaspora.com/tags/diaspora)** (2400) Dec2011
+- **[\#books](https://JoinDiaspora.com/tags/books)** (2400) Dec2011
+- **[\#apple](https://JoinDiaspora.com/tags/apple)** (2300) Dec2011
+- **[\#french](https://JoinDiaspora.com/tags/french)** (1600) Dec2011
+- **[\#opensource](https://JoinDiaspora.com/tags/opensource)** (1600) Dec2011
+- **[\#newhere](https://JoinDiaspora.com/tags/newhere)** (1300) Dec2011
+- **[\#guitar](https://JoinDiaspora.com/tags/guitar)** (1100) Dec2011
 
 ---
 
