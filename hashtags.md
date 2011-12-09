@@ -9,7 +9,7 @@
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **\#diaspora #music #linux #art**
+- **\#art #diaspora #music #linux #opensource**
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
