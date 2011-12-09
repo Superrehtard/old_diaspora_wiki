@@ -29,7 +29,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **\#cats**
+- **\#cats #nature**
 - \#birds #dogs #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -38,7 +38,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **\#anime #art #books #film #movies #music #musica**
+- **\#anime #art #books #film #movies #music #musica #poetry**
 - \#3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -75,7 +75,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **\#popular**
-- #lgbt #gay #goth #punk #tattoos
+- #burningman #heavymetal #gay #goth #lgbt #meme #memes #punk #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -119,8 +119,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a r d e n s --> 
 
-- **\#popular**
-- \#tags
+- **\#permaculture #nature**
+- \#farming #farmer #gardening #gardener
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-green"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -128,8 +128,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
-- **\#popular**
-- \#lifehacker
+- **\#nature**
+- \#lifehacker 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -156,7 +156,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **\#music #music** 
-- \#dj #drumming #folkmusic #heavymetal #hiphop #punk #rocknroll #classicalmusic
+- \#dj #drumming #folkmusic #heavymetal #hiphop #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupations"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -192,7 +192,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **\#popular**
-- #buddhism #feminism 
+- #buddhism #feminism #life
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -255,7 +255,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **\#atheism #atheist #christian** 
-- \#agnostic #buddhism #catholic #islam #occult #religion #wicca
+- \#agnostic #buddhism #catholic #islam #life #occult #religion #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
