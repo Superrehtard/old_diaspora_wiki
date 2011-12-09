@@ -283,6 +283,23 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 ---
 
+### Top Tags on JoinDiaspora.com
+
+**Tag (People+Followers) Date**
+This page searches on JoinDiaspora.com.  Ratings are based on number of 'People' (those who declare a tag as one of their 5 profile tags) PLUS 'Followers' (total people following a particular tag) ...  
+
+---
+
+#music (15000) Dec2011
+#movies (10500) Dec2011
+#art (9000) Dec2011
+#linux (7300) Dec2011
+#diaspora (2400) Dec2011
+#french (1600) Dec2011
+#opensource (1600) Dec2011
+
+---
+
 ### Alphabetical list of Diaspora #Hashtags
 Dec2011: **#popular** defined as (People+Followers) > 100 or if just 1 > 50. 
 
