@@ -290,13 +290,13 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 
 ---
 
-#music (15000) Dec2011
-#movies (10500) Dec2011
-#art (9000) Dec2011
-#linux (7300) Dec2011
-#diaspora (2400) Dec2011
-#french (1600) Dec2011
-#opensource (1600) Dec2011
+- #music (15000) Dec2011
+- #movies (10500) Dec2011
+- #art (9000) Dec2011
+- #linux (7300) Dec2011
+- #diaspora (2400) Dec2011
+- #french (1600) Dec2011
+- #opensource (1600) Dec2011
 
 ---
 
