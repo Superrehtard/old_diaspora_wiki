@@ -11,7 +11,7 @@
 
 - **Top:&nbsp; #music #movies #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
 
-- **More [\#hashtags](#) ?** more readers **?** more reshares **?** more posts **?** more connections **?** more friends **?** more **Diaspora!**
+- **More [\#hashtags](#) ⇒** more readers **⇒** more reshares **⇒** more posts **⇒** more connections **⇒** more friends **⇒** more **Diaspora!**
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
