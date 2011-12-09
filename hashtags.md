@@ -40,8 +40,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **Top: #anime #art #books #film #movies #music #musica #poetry**
-- Tags: #3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
+- **Top:&nbsp; #anime #art #books #film #movies #music #musica #poetry**
+- **Tags:&nbsp;** #3d #animation #arts #artcars #dance #dancer #graffiti #knitting #photography #photoshop #sculpture #streetart #tattoos
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
