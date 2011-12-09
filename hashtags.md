@@ -291,7 +291,7 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 
 ---
 
-- **Tags:&nbsp;** #music (15000) Dec2011
+- **[#music](https://JoinDiaspora.com/tags/music)** (15000) Dec2011
 - **Tags:&nbsp;** #movies (10500) Dec2011
 - **Tags:&nbsp;** #art (9000) Dec2011
 - **Tags:&nbsp;** #linux (7300) Dec2011
