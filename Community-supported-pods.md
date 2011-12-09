@@ -336,3 +336,10 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
        * Contact: tim@3towers.de
    * Operating system: Gentoo Linux x86_64
    * Comments: Public and free, over 99% uptime, facebook, twitter and tumblr integration
+
+* [[http://d-aspora.ru/]]
+   * Opened: 10/12/2011
+   * Updated: regulary
+   * Maintained by: n@mo.pp.ru
+   * Operating system: Debian GNU/Linux
+   * Comments: First public pod in Russia. Maximum flexibility, feel free to contact owner for any question or ideas.
