@@ -312,6 +312,17 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **[\#opensource](https://JoinDiaspora.com/tags/opensource)** (1600) Dec2011
 - **[\#newhere](https://JoinDiaspora.com/tags/newhere)** (1300) Dec2011
 - **[\#guitar](https://JoinDiaspora.com/tags/guitar)** (1100) Dec2011
+- #musik (950)
+- #cooking (1100)
+- #computers (1400)
+- #php (1500)
+- #film (1800)
+- #philosophy (1500)
+- #science (2800)
+- #travel (3300)
+- #teacher (1200)
+- #apple (2300)
+- #android (3500)
 
 ---
 
