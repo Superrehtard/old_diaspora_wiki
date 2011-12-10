@@ -38,6 +38,14 @@ You can monitor by starting `resque-web` and then visit http://server-ip:5678, b
 
 ### Run resque scheduler
 
+UPDATE: This code was reverted:
+
+commit 6f7c9e9301087f8f84f2b20fbd081d26ac9b3269](https://github.com/diaspora/diaspora/commit/6f7c9e9301087f8f84f2b20fbd081d26ac9b3269)
+
+Author: danielgrippi <danielgrippi@gmail.com>
+
+Date:   Mon Nov 7 12:37:54 2011 -0800
+
 In order to properly retry failed jobs, for example if the receiving end is offline, you need to run another daemon with the following command:
 
      bundle exec rake resque:scheduler
