@@ -305,24 +305,22 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **[\#art](https://JoinDiaspora.com/tags/art)** (9000) Dec2011
 - **[\#linux](https://JoinDiaspora.com/tags/linux)** (7300) Dec2011
 - **[\#android](https://JoinDiaspora.com/tags/android)** (3500) Dec2011
+- **[\#travel](https://JoinDiaspora.com/tags/travel)** (3300)
+- **[\#science](https://JoinDiaspora.com/tags/science)** (2800)
 - **[\#diaspora](https://JoinDiaspora.com/tags/diaspora)** (2400) Dec2011
 - **[\#books](https://JoinDiaspora.com/tags/books)** (2400) Dec2011
 - **[\#apple](https://JoinDiaspora.com/tags/apple)** (2300) Dec2011
+- **[\#film](https://JoinDiaspora.com/tags/film)** (1800)
 - **[\#french](https://JoinDiaspora.com/tags/french)** (1600) Dec2011
 - **[\#opensource](https://JoinDiaspora.com/tags/opensource)** (1600) Dec2011
+- **[\#philosophy](https://JoinDiaspora.com/tags/philosophy)** (1500)
+- **[\#php](https://JoinDiaspora.com/tags/php)** (1500)
+- **[\#computers](https://JoinDiaspora.com/tags/computers)** (1400)
 - **[\#newhere](https://JoinDiaspora.com/tags/newhere)** (1300) Dec2011
+- **[\#teacher](https://JoinDiaspora.com/tags/teagher)** (1200)
 - **[\#guitar](https://JoinDiaspora.com/tags/guitar)** (1100) Dec2011
-- #musik (950)
-- #cooking (1100)
-- #computers (1400)
-- #php (1500)
-- #film (1800)
-- #philosophy (1500)
-- #science (2800)
-- #travel (3300)
-- #teacher (1200)
-- #apple (2300)
-- #android (3500)
+- **[\#cooking](https://JoinDiaspora.com/tags/cooking)** (1100)
+- **[\#musik](https://JoinDiaspora.com/tags/musik)** (950)
 
 ---
 
