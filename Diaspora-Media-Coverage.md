@@ -14,9 +14,15 @@
 ### December
 
 * WebProNews, 12.07.2011, [Diaspora: First Impressions](http://www.webpronews.com/diaspora-first-impressions-2011-12)
+* Flitter, 12.05.2011, [A new social network: Diaspora launches in Alpha](http://justinflitter.co.nz/social-network-diaspora-lunches-alpha)
+* SocialMediaToday, 12.01.2011, [Welcome to the Party Diaspora, I Hope You Brought The Beer](http://socialmediatoday.com/marketmesuite/398795/welcome-party-diaspora-i-hope-you-brought-beer)
 
 ### November
 
+* Business Insider, 11.29.2011, [These 20-Somethings Are Trying To Kill Facebook With A Google+ Clone](http://www.businessinsider.com/diaspora-walkthrough-facebook-google-plus-2011-11)
+* CreateDigitalMusic, 11.29.2011, [Diaspora: On a Fledgling, Open Social Network, Users Gather to Make Noise](http://createdigitalmusic.com/2011/11/diaspora-on-a-fledgling-open-social-network-users-gather-to-make-noise/)
+* Gizmag, 11.28.2011, [Spot the difference: Diaspora vs. Google+](http://www.gizmag.com/diaspora-google-plus-resemblance/20638/)
+* Grabi, 11.19.2011, [Facebook’s Best Alternative is Diaspora Social Network?](http://www.grabi.org/diaspora-social-network-best-alternative-for-facebook-rival/)
 * ITBusinessEdge, 11.18.2011, [Diaspora Founders Continue Quest for Free and Private Internet](http://www.itbusinessedge.com/cm/blogs/bentley/diaspora-founders-continue-quest-for-free-and-private-internet/?cs=49124)
 * SMH, 11.18.2011, [Creator of the anti-Facebook, a social network with privacy](http://www.smh.com.au/technology/technology-news/creator-of-the-antifacebook-a-social-network-with-privacy-20111117-1nl0e.html)
 * Breaking News World, 11.17.2011, [Diaspora’s 21 Year Old Co-Founder Passes Away](http://breakingnewsworld.net/2011/11/diasporas-21-year-old-co-founder-passes-away/)
