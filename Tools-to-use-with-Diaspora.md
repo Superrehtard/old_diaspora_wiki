@@ -37,6 +37,8 @@ _Links to various tools built by the community for use with Diaspora._
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
+*  [Cubbi.es Plus](http://bit.ly/rUbugE) - (Firefox, Chrome) Cubbi.es with ability to add text to images.
+
 
 ### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
 
