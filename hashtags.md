@@ -40,7 +40,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #anime #art #artculture #arts #books #design #film #movies #music #musica #poetry #scifi #tattoo #tattoos**
+- **Top:&nbsp; #anime #art #artculture #arts #books #design #documentaries #film #movies #music #musica #poetry #scifi #tattoo #tattoos**
 - **Tags:&nbsp;** #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #graffiti #knitting #multimedia #photography #photoshop #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -59,7 +59,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp; #cooking**
-- **Tags:&nbsp;** #baking #beer #vegan #vegetarian #wine
+- **Tags:&nbsp;** #baking #beer #cheese #homebrew #homebrewer #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -67,8 +67,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
-- **Top:&nbsp; #android #anonymous #apple #computers #freesoftware #hacker #html5 #java #linux #logic #opensource #php #software**
-- **Tags:&nbsp;** #css #c #cpp #gif #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
+- **Top:&nbsp; #android #anonymous #apple #computers #freesoftware #hacker #html5 #java #gnulinux #linux #logic #opensource #php #software**
+- **Tags:&nbsp;** #css #c #cpp #cryptography #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -149,7 +149,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **Top:&nbsp; #guitar #music #music** 
-- **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #piano #punk #rap #rocknroll #classicalmusic
+- **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #noise #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -176,7 +176,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **Top:&nbsp;  #philosophy**
-- **Tags:&nbsp;**  #communism #buddhism #feminism #life #logic #metaphysics #socialism #ted
+- **Tags:&nbsp;**  #communism #buddhism #feminism #life #logic #metaphysics #socialism #ted #transhumanism
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -194,7 +194,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **Top:&nbsp;  #freedom**
-- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
+- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -239,7 +239,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **Top:&nbsp;  #atheism #atheist #christian** 
-- **Tags:&nbsp;**  #agnostic #buddhism #catholic #christmas #islam #judaism #jew #jewish #life #occult #religion #wicca
+- **Tags:&nbsp;**  #agnostic #buddhism #catholic #christmas #islam #judaism #jew #jewish #life #occult #religion  #transhumanism #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -248,7 +248,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **Top:&nbsp;  #climbing #football #martialarts #soccer**
-- **Tags:&nbsp;**  #baseball #basketball #cricket #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
+- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
@@ -267,6 +267,15 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **Top:&nbsp; #android #apple #computers**
 - **Tags:&nbsp;** #eco #climate #solar #technology #ted
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-toys"><table width="99%" border="1"><tr><th class="not to blame"> 
+**[Toys](#wiki-toys)nology**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - T o y s --> 
+
+- **Top:&nbsp; #android #apple #bikes #cars #computers #motorcycles**
+- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #motorbikes #porsche 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
