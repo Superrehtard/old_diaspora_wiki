@@ -28,7 +28,7 @@ A pod is a server where Diaspora is running. There are lots of different pods. Y
 ***Is there a directory that lists public pods (servers) that I can join?***  
 Yes. For a list of unofficial, community-driven pods/servers, see [podupti.me](http://podupti.me/) and [[Community supported pods]].
 
-***What is a seed?***  All the servers communicate with each others, so no matter where you sign up, you will always be able to communicate with anyone from any pod.
+***What is a seed?***          
 A seed is a profile or an account, and contains all the data of a specific user.  Your seed interacts with the seeds of your friends to keep each other up to date.  You can see it as a package of personal data...which is all yours! Seeds are hosted on servers running the Diaspora software, which are called 'pods'. In the future you will be able to move your seed between pods. For now, you can export a file containing all your information.  "Seed" is a metaphor referring to seeds from a plant, which are contained in pods.
 
 ***How can i join diaspora?***         
