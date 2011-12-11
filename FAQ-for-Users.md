@@ -34,7 +34,7 @@ A seed is a profile or an account, and contains all the data of a specific user.
 ***How can i join diaspora?***         
 You can freely sign up on any of the pod in the [podupti.me list](http://podupti.me/). If you want to sign up on joindiaspora pod (the diaspora developers pod) you need an invitation (because it's the most famous and without invites there would be too much traffic); you can ask for it [here](http://getsatisfaction.com/diaspora/topics/when_will_i_get_invited).
 You can choose your pod basing on the data on podupti.me, you can also check the pod nearest to you [here](http://www.findapod.com/).
-If you don't know where to sign up, diasp.org, is usually known as a good pod, anyway any pod on that list works fine (check ratings too).
+If you don't know where to sign up, [diasp.org](https://diasp.org/) is usually known as a good pod, anyway any pod on that list works fine (check ratings too).
 All the servers communicate with each others, so no matter where you sign up, you will always be able to communicate with anyone from any pod.
 I guess [this page](https://github.com/diaspora/diaspora/wiki/Welcome-Page) could help for starting.
 If once you've signed up you've got any question, just make a public post and tag it as #question
