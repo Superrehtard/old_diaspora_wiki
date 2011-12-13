@@ -210,8 +210,6 @@ If images aren't rendering properly (i.e., if the logo is absent), try setting t
 
 ## 10. Relocating Your Pod
 
-If you change local network locations (for example, you take the laptop hosting your pod to an internet cafe), you'll need to restart Pagekite to update your DNS settings. Simply open a terminal and type, as root or sudo:
-
-`service pagekite restart`
+If you change local network locations (for example, you take the laptop hosting your pod to an internet cafe), Pagekite will update your DNS settings automatically.
 
 OK? Good luck. Hope to see you on Diaspora. (Oh, one last thing: operating a web server may violate your internet service provider's service terms and conditions. If you're concerned about that, review your service agreement.)
