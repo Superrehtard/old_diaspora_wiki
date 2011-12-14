@@ -5,6 +5,15 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
+### Goldilocks & the 3 Smart Hashtags
+
+In thinking about **hashtags**, remeber the words of little **Goldilocks**:&nbsp; Am I using _enough_ #hashtags in my **Diaspora** posts?&nbsp; Am I using too many?&nbsp; What number is _just right_ (in algorithimics, this is known as an _optimization_ problem)?&nbsp; More soon ...  
+
+</td></tr></table>
+<!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 **[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends :) ...
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
