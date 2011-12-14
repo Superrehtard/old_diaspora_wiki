@@ -44,6 +44,7 @@ anywhere on the site.
 * [[iOS App Project]]
 * [[Wordpress post plugin|https://github.com/diaspora/wp-post-to-diaspora]]
 * [[Wordpress profile plugin|http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/]]
+* [[Diaspora in Wordpress plugin|https://github.com/TheBojda/Diaspora-in-Wordpress]]
 
 ## Contributor Resources
 * [[Report a bug|Report a Bug]]
