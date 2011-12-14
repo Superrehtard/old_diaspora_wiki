@@ -7,7 +7,7 @@
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 ### Goldilocks & the 3 Smart Hashtags
 
-In thinking about **hashtags**, remember the words of little **Goldilocks:&nbsp; Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithimics, this is known as an _optimization_ problem) ...  
+In thinking about **hashtags**, remember the words of little **Goldilocks:&nbsp; Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody (except your friends) will see your posts.&nbsp; But, if you use too many hashtags, you will make everybody else miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
@@ -20,13 +20,11 @@ Over time you will learn the optimal best hashtag usage for your purposes.&nbsp;
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
-**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends :) ...
+**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Resist over-hashtagging)!
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **Top Tags:&nbsp; #music #movies #art #linux #android #diaspora #books #apple #french #opensource #newhere #guitar**
-
-- **More [\#hashtags](#) ⇒** more readers **⇒** more reshares **⇒** more posts **⇒** more connections **⇒** more friends **⇒** more **Diaspora!**
+- **Top Tags:&nbsp; #music #movies #art #linux #android #travel #science #diaspora #books #apple #film #french #opensource #philosophy #php #computers #newhere #teacher #guitar #cooking #musik**
 
 <a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
