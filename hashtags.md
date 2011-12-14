@@ -11,7 +11,7 @@ In thinking about **hashtags**, remember the words of little **Goldilocks:&nbsp;
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody (except your friends) will see your posts.&nbsp; But, if you use too many hashtags, you will make everybody else miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
-**The Moral is:**&nbsp; In the beginning, if your **Diaspora** posts contain 3 smart hashtags (plus #newhere) they will be _just right!_ 
+**The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus #newhere)** they will be _just right!_ 
  
 Over time you will learn the optimal best hashtag usage for your purposes.&nbsp; This wiki page can help you to find some of the common hashtags in use on **Diaspora** ...
 
