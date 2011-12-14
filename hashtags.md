@@ -7,7 +7,7 @@
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 ### Goldilocks & the 3 Smart Hashtags
 
-In thinking about **hashtags**, remeber the words of little **Goldilocks**:&nbsp; Am I using _enough_ #hashtags in my **Diaspora** posts?&nbsp; Am I using too many?&nbsp; What number is _just right_ (in algorithimics, this is known as an _optimization_ problem)?&nbsp; More soon ...  
+In thinking about **hashtags**, remember the words of little **Goldilocks**:&nbsp; Am I using **_enough_ #hashtags** in my **Diaspora** posts?&nbsp; Am I using too many?&nbsp; What number is _just right_?&nbsp; (In algorithimics, this is known as an _optimization_ problem)&nbsp; more soon ...  
 
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
