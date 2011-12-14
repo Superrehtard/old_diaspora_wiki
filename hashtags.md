@@ -20,7 +20,7 @@ Over time you will learn the optimal best hashtag usage for your purposes.&nbsp;
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
-**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Resist over-hashtagging)!
+**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Please resist over-hashtagging)!
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
