@@ -7,13 +7,13 @@
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 ### Goldilocks & the 3 Smart Hashtags
 
-In thinking about **hashtags**, remember the words of little **Goldilocks:&nbsp; Am I using _enough_ #hashtags in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithimics, this is known as an _optimization_ problem) ...  
+In thinking about **hashtags**, remember the words of little **Goldilocks:&nbsp; Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithimics, this is known as an _optimization_ problem) ...  
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be miserable because nobody (except your friends) will see your posts.&nbsp; But, if you use too many hashtags, you will make everybody miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
-**The Moral is:**&nbsp; In the beginning, if your posts to **Diaspora** contain 3 smart hashtags (plus #newhere) they will be _just right!_ 
+**The Moral is:**&nbsp; In the beginning, if your **Diaspora** posts contain 3 smart hashtags (plus #newhere) they will be _just right!_ 
  
-Over time you will learn the best usage of hashtags for your purposes.&nbsp; This page can help you find some of the common hashtags in use on **Diaspora** ...
+Over time you will learn the best hashtag usage for your purposes.&nbsp; This page can help you to find some of the common hashtags in use on **Diaspora** ...
 
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
