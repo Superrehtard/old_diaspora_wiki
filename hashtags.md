@@ -283,7 +283,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-toys"><table width="99%" border="1"><tr><th class="not to blame"> 
-**[Toys](#wiki-toys)nology**
+**[Toys](#wiki-toys)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
