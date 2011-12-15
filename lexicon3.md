@@ -20,7 +20,12 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 <!-- - - - - - - - - - - - - - - - - - P - - - - - - - - - - - - - - - - - - -->
 ## <a name="wiki-p">P</a>
    
-- **[PivotalTracker.com](https://www.PivotalTracker.com/projects/61641) | [PivotalLabs.com](http://pivotallabs.com/what/pivotal_tracker)**
+- **Pivotal Tracker | Pivotal Labs**
+
+https://PivotalTracker.com/projects/411181/
+https://PivotalTracker.com/projects/426041/
+http://PivotalTracker.com
+http://PivotalLabs.com
 
 <a><table width="99%"><tr><td class="blame">
 ### Pod ([Diaspora][D] Server)
