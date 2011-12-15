@@ -111,17 +111,17 @@ definition of **spore** ... <br />
 
 - **Software Development**
 
-http://en.wikipedia.org/wiki/Software_development_methodology
-http://en.wikipedia.org/wiki/Software_development_process
-http://en.wikipedia.org/wiki/Computer_programming
-http://en.wikipedia.org/wiki/Software_development
-http://en.wikipedia.org/wiki/Open-source_software
-http://en.wikipedia.org/wiki/Programming_paradigm
-http://en.wikipedia.org/wiki/Computer_software
-http://en.wikipedia.org/wiki/Pivotal_Tracker
-http://en.wikipedia.org/wiki/Git_(software)
-http://en.wikipedia.org/wiki/Open_source
-http://en.wikipedia.org/wiki/Github
+http://en.wikipedia.org/wiki/Software_development_methodology <br>
+http://en.wikipedia.org/wiki/Software_development_process <br>
+http://en.wikipedia.org/wiki/Computer_programming <br>
+http://en.wikipedia.org/wiki/Software_development <br>
+http://en.wikipedia.org/wiki/Open-source_software <br>
+http://en.wikipedia.org/wiki/Programming_paradigm <br>
+http://en.wikipedia.org/wiki/Computer_software <br>
+http://en.wikipedia.org/wiki/Pivotal_Tracker <br>
+http://en.wikipedia.org/wiki/Git_(software) <br>
+http://en.wikipedia.org/wiki/Open_source <br>
+http://en.wikipedia.org/wiki/Github <br>
 
 - **[Spored.de](http://Spored.de)** <br />
 
