@@ -26,7 +26,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **[GetSatisfaction.com](http://getsatisfaction.com/diaspora)** <br />
 
-- **GitHub** <br>
+- **Git | GitHub** <br>
 web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br>
 • https://github.com/diaspora/diaspora <br>
 • http://Wikipedia.org/wiki/GitHub <br>
