@@ -109,6 +109,20 @@ definition of **seed** ... <br>
 - **Spore** <br />
 definition of **spore** ... <br />
 
+- **Software Development**
+
+http://en.wikipedia.org/wiki/Software_development_methodology
+http://en.wikipedia.org/wiki/Software_development_process
+http://en.wikipedia.org/wiki/Computer_programming
+http://en.wikipedia.org/wiki/Software_development
+http://en.wikipedia.org/wiki/Open-source_software
+http://en.wikipedia.org/wiki/Programming_paradigm
+http://en.wikipedia.org/wiki/Computer_software
+http://en.wikipedia.org/wiki/Pivotal_Tracker
+http://en.wikipedia.org/wiki/Git_(software)
+http://en.wikipedia.org/wiki/Open_source
+http://en.wikipedia.org/wiki/Github
+
 - **[Spored.de](http://Spored.de)** <br />
 
 - **Sweden** [Pods][P]
