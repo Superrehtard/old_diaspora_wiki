@@ -22,10 +22,10 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
    
 - **Pivotal Tracker | Pivotal Labs**
 
-https://PivotalTracker.com/projects/411181/
-https://PivotalTracker.com/projects/426041/
-http://PivotalTracker.com
-http://PivotalLabs.com
+https://PivotalTracker.com/projects/411181/ <br>
+https://PivotalTracker.com/projects/426041/ <br>
+http://PivotalTracker.com <br>
+http://PivotalLabs.com <br>
 
 <a><table width="99%"><tr><td class="blame">
 ### Pod ([Diaspora][D] Server)
