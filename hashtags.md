@@ -6,7 +6,7 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 
-<a><table width="20" height="300"><tr><td>
+<a><table width="200" height="20"><tr><td>
 ### Goldilocks & the 3 Smart Hashtags
 </td></tr></table></a>
 
