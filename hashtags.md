@@ -4,9 +4,7 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
-
-<a><table width="300" height="20"><tr><td>
+<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"><a><table width="300" height="20"<<tr><td>
 ### Goldilocks & the 3 Smart Hashtags
 </td></tr></table></a>
 
@@ -14,7 +12,7 @@ In thinking about **hashtags**, remember the words of little Goldilocks:&nbsp; *
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody — except your friends — will see your posts.&nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
-**The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus #newhere)** they will be _just right!_&nbsp; Goldilocks will like you & want to be your friend! 
+**The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus #newhere)** they will be _just right!_&nbsp; Then, Goldilocks will like you & want to be your friend! 
  
 Over time you will learn the optimal best hashtag usage for your needs.&nbsp; This wiki page can help you to find some of the commonly used, popular & special tags on **Diaspora** ...
 
