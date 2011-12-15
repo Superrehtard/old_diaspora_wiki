@@ -14,7 +14,7 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
  
 **The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus #newhere)** they will be _just right!_&nbsp; Then, Goldilocks will like you & want to be your friend! 
  
-Over time you will learn the optimal best hashtag usage for your needs.&nbsp; This wiki page can help you to find some of the commonly used, popular & special tags on **Diaspora** ...
+Over time you will learn the optimal best hashtag usage for your needs.&nbsp; This wiki page can help you to find some of the commonly used, popular & special tags posted on **Diaspora** ...
 
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
