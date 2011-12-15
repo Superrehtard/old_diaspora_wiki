@@ -6,9 +6,9 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
 
-<table width="333" height="33"><tr><td>
+<a><table width="333" height="33"><tr><td>
 ### Goldilocks & the 3 Smart Hashtags
-</td></tr></table>
+</td></tr></table></a>
 
 In thinking about **hashtags**, remember the words of little Goldilocks:&nbsp; **Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
