@@ -185,8 +185,7 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
-<a><table width="99%"><tr><td class="not to blame" colspan="2">
-### Wikipedia
+<a><table width="99%"><tr class="disregard previous highlight"><td class="not to blame" colspan="2">
 
 <a><table align="right" width="9" height="9"><tr><td>
 ![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
