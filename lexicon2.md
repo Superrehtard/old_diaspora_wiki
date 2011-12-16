@@ -12,7 +12,7 @@
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
 - **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
 - **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality. <br>
-[@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
+[@RichardTE](https://JoinDiaspora.com/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
 </td></tr></table></a>
 
