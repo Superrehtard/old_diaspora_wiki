@@ -5,9 +5,9 @@
 </tr></table></a>
 
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
-<a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
+<a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 
-### Contributing to or Commenting on this page
+### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
 Post to **Diaspora** using one of these [#hashtags](#) ...
 
@@ -27,8 +27,9 @@ https://PivotalTracker.com/projects/426041/ <br>
 http://PivotalTracker.com <br>
 http://PivotalLabs.com <br>
 
-<a><table width="99%"><tr><td class="blame">
-### Pod ([Diaspora][D] Server)
+<a><table width="99%"><tr class="disregard previous highlight"><td class="blame">
+
+### <a class="not nn auto_invert"> Pod ([Diaspora][D] Server) </a>
 
 _**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com) 2011)
 
