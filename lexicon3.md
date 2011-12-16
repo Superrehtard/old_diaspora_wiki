@@ -1,6 +1,6 @@
 # Diaspora Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
-<a><table width="99%" border="1"><tr class="highlight">
+<a><table width="99%" border="1" class="highlight"><tr class="highlight">
 <th class="not to blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame gr"> [g] </th><th> [h] </th><th class="blame ss"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame k1"> [m] </th><th> [n] </th><th class="blame kt"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
