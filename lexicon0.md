@@ -1,4 +1,4 @@
-# Diaspora Lexicon — notes for editors 
+# notes for editors 
  
 **Sandbox & editors' note for the Diaspora Wiki Glossary**    
 Not intended for public consumption.      
@@ -217,6 +217,26 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <th class="disregard old highlight"> <a class="not mi reversed"> MI </th><th> Right Cell </th>
 </tr><tr> 
 <th class="disregard old highlight"> <a class="not mo reversed"> MO </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not s4 reversed"> s4 </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not s1 reversed"> s1 </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not ss reversed"> ss </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not vc reversed"> vc </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not il reversed"> il </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
+</tr><tr> 
+<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
 </tr><tr> 
 <th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
 </tr></table></a>
