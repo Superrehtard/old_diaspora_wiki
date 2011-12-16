@@ -168,9 +168,9 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 ### Empty Test Table
 
 <a class="danger"><table width="33%" cellspacing="0" border="1"><tr>
-<th> NW </th><th class="not to blame"> NE </th>
+<th> <a class="not danger">NW</a> </th><th class="not to blame"> NE </th>
 </tr><tr> 
-<th> <a class="danger">SW</a> </th><th> SE </th>
+<th> <a class="not danger">SW</a> </th><th> SE </th>
 </tr></table></a>
 
 ---
