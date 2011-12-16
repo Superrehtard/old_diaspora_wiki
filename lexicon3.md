@@ -192,7 +192,8 @@ _Revision control, also known as version control and source control (and an aspe
 • http://Wikipedia.org/wiki/Distributed_revision_control <br>
 • http://Wikipedia.org/wiki/Software_versioning <br>
 • http://Wikipedia.org/wiki/Revision_control <br>
-
+• https://PivotalTracker.com/projects/61641/ <br>
+• https://GitHub.com/diaspora/ <br>
 
 - **Volunteer |** **[Contribute][C]** **| Donate** <br>
 • see **[Contribute][C]**
