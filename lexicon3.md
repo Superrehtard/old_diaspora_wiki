@@ -124,17 +124,18 @@ _(also known as application development, software design, designing software, so
 _Computer programming (often shortened to programming or coding) is the process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages. The purpose of programming is to create a program that performs specific operations or exhibits a certain desired behavior. The process of writing source code often requires expertise in many different subjects, including knowledge of the application domain, specialized algorithms and formal logic._ [Wikipedia Dec2011](http://en.wikipedia.org/wiki/Computer_programming)
 </td></tr></table></a>
 
-http://en.wikipedia.org/wiki/Software_development_methodology <br>
-http://en.wikipedia.org/wiki/Software_development_process <br>
-http://en.wikipedia.org/wiki/Computer_programming <br>
-http://en.wikipedia.org/wiki/Software_development <br>
-http://en.wikipedia.org/wiki/Open-source_software <br>
-http://en.wikipedia.org/wiki/Programming_paradigm <br>
-http://en.wikipedia.org/wiki/Computer_software <br>
-http://en.wikipedia.org/wiki/Pivotal_Tracker <br>
-http://en.wikipedia.org/wiki/Git_(software) <br>
-http://en.wikipedia.org/wiki/Open_source <br>
-http://en.wikipedia.org/wiki/Github <br>
+- **[Software Development](http://Wikipedia.org/wiki/Software_development)** <br>
+• http://Wikipedia.org/wiki/Software_development_methodology <br>
+• http://Wikipedia.org/wiki/Software_development_process <br>
+• http://Wikipedia.org/wiki/Computer_programming <br>
+• http://Wikipedia.org/wiki/Software_development <br>
+• http://Wikipedia.org/wiki/Open-source_software <br>
+• http://Wikipedia.org/wiki/Programming_paradigm <br>
+• http://Wikipedia.org/wiki/Computer_software <br>
+• http://Wikipedia.org/wiki/Pivotal_Tracker <br>
+• http://Wikipedia.org/wiki/Git_(software) <br>
+• http://Wikipedia.org/wiki/Open_source <br>
+• http://Wikipedia.org/wiki/Github <br>
 
 - **[Spored.de](http://Spored.de)** <br />
 
