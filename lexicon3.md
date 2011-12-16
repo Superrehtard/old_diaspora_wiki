@@ -212,9 +212,9 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 • http://Wikipedia.org/wiki/Virtual_community <br>
 • http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
 • http://Wikipedia.org/wiki/Internet_Protocol <br> 
+• http://Wikipedia.org/wiki/Internet_forum <br>
 </td><td width="39%">
 
-• http://Wikipedia.org/wiki/Internet_forum <br>
 • http://Wikipedia.org/wiki/Linus_Torvalds <br>
 • http://Wikipedia.org/wiki/Google_Groups <br>
 • http://Wikipedia.org/wiki/Yahoo!_Groups <br>
