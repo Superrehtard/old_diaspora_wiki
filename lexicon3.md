@@ -29,7 +29,7 @@ http://PivotalLabs.com <br>
 
 <a><table width="99%"><tr class="disregard previous highlight"><td class="blame">
 
-### <a class="not nn auto_invert"> Pod (</a>[Diaspora][D] <a class="not nn auto_invert">Server)</a> 
+### <a class="not nn auto_invert"> Pod&bnsp; (</a>[Diaspora][D] <a class="not nn auto_invert">Server)</a> 
 
 _**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com) 2011)
 
