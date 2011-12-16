@@ -193,6 +193,7 @@ multilingual, web-based, free-content encyclopedia project based on an openly ed
 **Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose. ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About) 2011) <br>
 <a><table align="right" width="9" height="9"><tr><td>
 ![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
+</td></tr></table></a>
 </td></tr><tr><td>
 • http://Wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
 • http://Wikipedia.org/wiki/Federation_(information_technology) <br> 
