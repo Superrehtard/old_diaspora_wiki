@@ -180,19 +180,45 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <a><table width="33%" cellspacing="0" border="1"><tr>
 <th> NW </th><th> NE </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not gr reversed"> GR </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not gh reversed"> GH </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not go reversed"> GO </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not gp reversed"> GP </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not gt reversed"> GT </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not m reversed"> M </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not nc"> SW </th><th> Right Cell </th>
+<th> <a class="not s reversed"> S </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not na reversed"> NA </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not nb reversed"> SB </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not no reversed"> SO </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not ni reversed"> NI </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not nn reversed"> NN </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not nt reversed"> NT </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not nv reversed"> NV </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not w reversed"> W </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not mf reversed"> MF </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not mh reversed"> MH </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not mi reversed"> MI </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not mo reversed"> MO </th><th> Right Cell </th>
+</tr><tr> 
+<th> <a class="not sb reversed"> SB </th><th> Right Cell </th>
 </tr></table></a>
 
 ---
