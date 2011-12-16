@@ -20,7 +20,7 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </td></tr></table></a>
 
 <!-- - - - - - - - - - - - - - - - - - A - - - - - - - - - - - - - - - - - - -->
-# <a name="wiki-a">A</a>
+## <a name="wiki-a">A</a>
 
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="#" alt=" Diaspora * " title=" Diaspora * ">![Diaspora *](http://gravatar.com/avatar/528d4c94f7e74beff70a3351c7bca33c)</a>
