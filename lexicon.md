@@ -6,7 +6,7 @@
 
 <a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
-![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)
+<a href="https://github.com/diaspora/diaspora/wiki/lexicon2">![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)</a>
 </td></tr></table></a>
 ### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
