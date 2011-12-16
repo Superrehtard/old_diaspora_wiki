@@ -155,7 +155,7 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 
 ---
 
-### Empty Test Table
+### Empty Test Table (DO NOT TOUCH)!
 
 <a><table width="33%" cellspacing="0" border="1"><tr>
 <th> NW </th><th> NE </th>
@@ -168,9 +168,9 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 ### Empty Test Table
 
 <a><table width="33%" cellspacing="0" border="1"><tr>
-<th> NW </th><th> NE </th>
+<th> NW </th><th class="not to blame"> NE </th>
 </tr><tr> 
-<th> SW </th><th class="not to blame"> SE </th>
+<th> SW </th><th> SE </th>
 </tr></table></a>
 
 ---
