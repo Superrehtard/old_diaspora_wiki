@@ -180,19 +180,19 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <a><table width="33%" cellspacing="0" border="1"><tr>
 <th> NW </th><th> NE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="highlight nc"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="nc"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="highlight"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="nc"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="highlight"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="highlight nc"> SW </th><th> SE </th>
 </tr><tr> 
-<th class="highlight nc"> SW </th><th> SE </th>
+<th> <a class="highlight nc"> SW </th><th> SE </th>
 </tr></table></a>
 
 ---
