@@ -184,23 +184,23 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 </tr><tr> 
 <th class="disregard old highlight"> GO </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class=" class="disregard last highlight"><a class="not gt reversed"> GT </a></a> </th><th> Right Cell </th>
+<th> <a class="disregard previous highlight"><a class="gt auto_invert"> GT </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not m reversed highlight"> M </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not m reversed highlight"> M </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not s reversed highlight"> S </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not s reversed highlight"> S </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not ni reversed highlight"> NI </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not ni reversed highlight"> NI </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not nn reversed highlight"> NN </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not nn reversed highlight"> NN </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not nt reversed highlight"> NT </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not nt reversed highlight"> NT </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not nv reversed highlight"> NV </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not nv reversed highlight"> NV </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not ss reversed"> ss </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not ss reversed"> ss </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not vc reversed"> vc </th><th> Right Cell </th>
+<th class="disregard old highlight"> <a class="not vc reversed"> vc </a></a></th><th> Right Cell </th>
 </tr><tr> 
 <th class="disregard old highlight"> <a class="not il reversed"> il </th><th> Right Cell </th>
 </tr><tr> 
