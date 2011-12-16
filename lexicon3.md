@@ -30,7 +30,7 @@ http://PivotalLabs.com <br>
 <a><table width="99%"><tr><td class="blame">
 ### Pod ([Diaspora][D] Server)
 
-_**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com))
+_**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com) 2011)
 
 • http://whatIsDiaspora.com <br>
 • [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is. <br>
@@ -51,7 +51,7 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 [ HTML **|** XHTML **|** XML **|** [Ruby on Rails][R] **|** [Javascript][J] **|** [Java][J] **|** CSS **|** C++ **|** Scripting Language ]
 
 - **Protocol** ([Network](#wiki-n) Communications) <br>
-_a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, [**hand-shaking**,] etc._ ([FOLDOC](http://foldoc.org/protocol)) <br>
+_a set of formal rules describing how to transmit data, especially across a network.&nbsp; Low level protocols define the electrical and physical standards to be observed, bit- and byte-ordering and the transmission and error detection and correction of the bit stream. &nbsp; High level protocols deal with the data formatting, including the syntax of messages, the terminal to computer dialogue, character sets, sequencing of messages, [**hand-shaking**,] etc._ ([FOLDOC](http://foldoc.org/protocol) 2011) <br>
 <br>
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
 • https://github.com/diaspora/diaspora/wiki/SSL-problems <br />
@@ -76,7 +76,7 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 <br>
 _**Ruby** supports multiple programming paradigms, including functional, object oriented, imperative and reflective.&nbsp; It also has a dynamic type system and automatic memory management; it is therefore similar in varying respects to Smalltalk, Python, Perl, Lisp, Dylan, Pike, and CLU._ <br>
 <br>
-_The standard 1.8.7 implementation is written in C, as a single-pass interpreted language._  ([Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language))) <br>
+_The standard 1.8.7 implementation is written in C, as a single-pass interpreted language._  ([Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language) 2011) <br>
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://rubyonrails.org <br>
@@ -189,7 +189,7 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 
 multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information. <br>
 <br>
-**Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose. ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About)) <br>
+**Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose. ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About) 2011) <br>
 <a><table align="right" width="9" height="9"><tr><td>
 ![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
 </td></tr></table></a>
