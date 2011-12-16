@@ -196,7 +196,7 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 ... _multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information._ <br>
 <br>
 _**Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About) 2011) <br>
-</td></tr><tr><td width="49%">
+</td></tr><tr><td width="59%">
 • http://Wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
 • http://Wikipedia.org/wiki/Federation_(information_technology) <br> 
 • http://Wikipedia.org/wiki/List_of_social_networking_websites <br>
@@ -212,7 +212,7 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 • http://Wikipedia.org/wiki/Virtual_community <br>
 • http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
 • http://Wikipedia.org/wiki/Internet_Protocol <br> 
-</td><td width="49%">
+</td><td width="39%">
 
 • http://Wikipedia.org/wiki/Internet_forum <br>
 • http://Wikipedia.org/wiki/Linus_Torvalds <br>
