@@ -153,6 +153,27 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <td> **[A](http://Diasp.org)** </td><td> [B](#) </td><td> [D] </td><td> **D** </td><td> **E** </td>
 </tr></table></a>
 
+---
+
+### Empty Test Table
+
+<a><table width="99%" cellspacing="0" border="1"><tr>
+<th> NW </th><th> NE </th>
+</tr><tr> 
+<th> SW </th><th> SE </th>
+</tr></table></a>
+
+---
+
+### Empty Test Table
+
+<a><table width="99%" cellspacing="0" border="1"><tr>
+<th> NW </th><th> NE </th>
+</tr><tr> 
+<th> SW </th><th> SE </th>
+</tr></table></a>
+
+---
 
 <table width="100%"><tr><td></td></tr></table>
 
