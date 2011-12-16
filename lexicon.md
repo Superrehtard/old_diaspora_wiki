@@ -73,7 +73,7 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 - **Client | Server** <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
-- **Commit | Pull | Fork** <br>
+- **Commit | Fork | Pull | Push | Version Control** <br>
 These are terms used by software developers (**Devs**) when testing & **commiting** new versions of a program. <br>
 • https://JoinDiaspora.com/tags/commit <br>
 • https://JoinDiaspora.com/tags/fork <br>
