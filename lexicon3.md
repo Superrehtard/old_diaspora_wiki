@@ -6,7 +6,7 @@
 
 <a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
-![Printing Press](http://www.datenote.org/diaspora/100x150_printing_press_1830s_woodcut_by_George_Baxter.png)
+<a href="https://github.com/diaspora/diaspora/wiki/lexicon">![Printing Press](http://www.datenote.org/diaspora/100x150_printing_press_1830s_woodcut_by_George_Baxter.png)</a>
 </td></tr></table></a>
 ### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
