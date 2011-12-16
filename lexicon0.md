@@ -175,10 +175,22 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 
 ---
 
-### Empty Test Table (DO NOT TOUCH)!
+### Empty Test Table
 
 <a><table width="33%" cellspacing="0" border="1"><tr>
-<th> <a  class="highlight nc">NW</a> </th><th> NE </th>
+<th> NW </th><th> NE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
 </tr><tr> 
 <th class="highlight nc"> SW </th><th> SE </th>
 </tr></table></a>
