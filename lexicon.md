@@ -4,8 +4,6 @@
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-**Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
-
 <a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 ### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
@@ -13,7 +11,8 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
 - **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
-- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality.
+- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality. <br>
+[@RichardTE](https://JoinDiaspora.com/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
 </td></tr></table></a>
 
