@@ -180,21 +180,21 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <a><table width="33%" cellspacing="0" border="1"><tr>
 <th> NW </th><th> NE </th>
 </tr><tr> 
-<th> <a class="not gr reversed highlight"> GR </th><th> Right Cell </th>
+<th class="not highlight"> <a class="not gr reversed highlight"> GR </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not gh reversed highlight"> GH </th><th> Right Cell </th>
+<th class="not highlight"> <a class="not gh reversed highlight"> GH </th><th> Right Cell </th>
 </tr><tr> 
 <th> <a class="not go reversed highlight"> GO </th><th> Right Cell </th>
 </tr><tr> 
 <th> <a class="not gp reversed highlight"> GP </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not gt reversed highlight"> GT </th><th> Right Cell </th>
+<th class="not highlight"> <a class="not gt reversed"> GT </th><th> Right Cell </th>
 </tr><tr> 
 <th> <a class="not m reversed highlight"> M </th><th> Right Cell </th>
 </tr><tr> 
 <th> <a class="not s reversed highlight"> S </th><th> Right Cell </th>
 </tr><tr> 
-<th> <a class="not na reversed highlight"> NA </th><th> Right Cell </th>
+<th class="not highlight"> <a class="not na reversed highlight"> NA </th><th> Right Cell </th>
 </tr><tr> 
 <th> <a class="not nb reversed highlight"> SB </th><th> Right Cell </th>
 </tr><tr> 
