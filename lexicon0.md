@@ -10,11 +10,16 @@ Not intended for public consumption.
    
 --- 
   
-Nav table works — note a-tag enclosure & cellspacing="0" (Dev2011) ... 
- 
-<a name="wiki-a"><table width="99%" bgcolor="silver" border="1" cellspacing="0"><tr>
-<th> [a] </th><th> [b] </th><th> [c] </th><th> [d] </th><th> [e] </th><th> [f] </th><th> [g] </th><th> [h] </th><th> [i] </th><th> [j] </th><th> [k] </th><th> [l] </th><th> [m] </th><th> [n] </th><th> [o] </th><th> [p] </th><th> [q] </th><th> [r] </th><th> [s] </th><th> [t] </th><th> [u] </th><th> [v] </th><th> [w] </th><th> [x] </th><th> [y] </th><th> [z] </th>
+Nav table works — note a-tag enclosure & border="1" (Dev2011) ... 
+
+<a><table width="99%" cellspacing="0" border="1"><tr>
+<th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
+
+<a><table width="99%" cellspacing="0" border="1"><tr>
+<th class="blame">[a]</th><th>[b]</th><th class="blame">[c]</th><th> [d]</th><th class="blame">[e]</th><th>[f]</th><th class="blame">[g]</th><th>[h]</th><th class="blame">[i]</th><th>[j]</th><th class="blame">[k]</th><th>[l]</th><th class="blame">[m]</th><th>[n]</th><th class="blame">[o]</th><th>[p]</th><th class="blame">[q]</th><th>[r]</th><th class="blame">[s]</th><th>[t]</th><th class="blame">[u]</th><th>[v]</th><th class="blame">[w]</th><th>[x]</th><th class="blame">[y]</th><th>[z]</th>
+</tr></table></a>
+
 --- 
   
 Nav table works — note a-tag enclosure (Nov2011) ... 
