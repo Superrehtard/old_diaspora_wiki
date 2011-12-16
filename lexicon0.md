@@ -175,6 +175,16 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 
 ---
 
+### Empty Test Table (DO NOT TOUCH)!
+
+<a><table width="33%" cellspacing="0" border="1"><tr>
+<th> <a  class="highlight nc">NW</a> </th><th> NE </th>
+</tr><tr> 
+<th class="highlight nc"> SW </th><th> SE </th>
+</tr></table></a>
+
+---
+
 <table width="100%"><tr><td></td></tr></table>
 
 [A]: http://google.com
