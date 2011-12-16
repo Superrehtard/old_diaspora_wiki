@@ -20,8 +20,12 @@ Post to **Diaspora** using one of these [#hashtags](#) ...
 </td></tr></table></a>
 
 <!-- - - - - - - - - - - - - - - - - - G - - - - - - - - - - - - - - - - - - -->
-## <a name="wiki-g">G</a>    
-   
+## <a name="wiki-g">G</a>
+
+<a><table align="right" width="9" height="9"><tr><td>
+<a href="#" alt=" Diaspora * " title=" Diaspora * ">![Diaspora *](http://gravatar.com/avatar/528d4c94f7e74beff70a3351c7bca33c)</a>
+</td></tr></table></a>
+
 - **Germany** [Pods][P]
     
 [ [WK3.org](https://wk3.org) **|** [Diasp.de](https://diasp.de) **|** [Diasp.eu](https://diasp.eu) **|** [Nerdpol.ch](https://nerdpol.ch) **|** [Despora.de](https://despora.de) **|** [My-Seed.com](https://my-seed.com) **|** [Stylr.net](https://stylr.net) **|** [Loofi.de](https://loofi.de) **|** [ILikeFreedom.org](https://ilikefreedom.org) **|** [Diaspora.Subsignal.org](https://diaspora.subsignal.org) **|** [Diaspora.F4N.de](https://diaspora.f4n.de) **|** [Dipod.es](https://dipod.es) **|** [Yaspora.com](https://yaspora.com) **|** [Dipod.org](https://dipod.org) **|** [Diaspora.Death-Head.ch](http://diaspora.death-head.ch) **|** [Pod.Geraspora.de](https://pod.geraspora.de) **|** [Hasst-Euch-Alle.de](https://hasst-euch-alle.de) **|** [SeeYouThere.de](http://SeeYouThere.de) **|** [Pod.Haxxors.com](http://pod.haxxors.com) **|** [Marsoc.de](https://marsoc.de) ]
