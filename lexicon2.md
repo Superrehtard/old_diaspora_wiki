@@ -6,7 +6,7 @@
 
 <a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
-![Alphabet](http://www.datenote.org/diaspora/150x100Ioanne_Arnoldo_1541_alphabet.png)
+<a href="https://github.com/diaspora/diaspora/wiki/lexicon3">![Alphabet](http://www.datenote.org/diaspora/150x100Ioanne_Arnoldo_1541_alphabet.png)</a>
 </td></tr></table></a>
 ### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
