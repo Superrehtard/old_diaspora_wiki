@@ -114,8 +114,8 @@ definition of **seed** ... <br>
 - **Spore** <br />
 definition of **spore** ... <br />
 
-<a><table width="99%"><tr><td class="not to blame">
-### Software Development
+<a><table width="99%"><tr class="disregard previous highlight"><td class="not to blame">
+### <a class=class="not nn auto_invert">Software Development
 _(also known as application development, software design, designing software, software application development, enterprise application development, or platform development) is the development of a software product. The term "software development" may be used to refer to the activity of computer programming, which is the process of writing and maintaining the source code, but in a broader sense of the term it includes all that is involved between the conception of the desired software through to the final manifestation of the software, ideally in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products._ ([Wikipedia](http://en.wikipedia.org/wiki/Software_development) 2011)
 
 </td></tr><tr><td>
