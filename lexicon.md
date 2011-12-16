@@ -1,6 +1,6 @@
 # Diaspora Lexicon
-<a href="#" alt=" Diaspora * " title=" Diaspora * "><table align="right" width="9" height="9"><tr><td>
-![Diaspora *](http://gravatar.com/avatar/528d4c94f7e74beff70a3351c7bca33c)</a>
+<a><table align="right" width="9" height="9"><tr><td>
+<a href="#" alt=" Diaspora * " title=" Diaspora * ">![Diaspora *](http://gravatar.com/avatar/528d4c94f7e74beff70a3351c7bca33c)</a>
 </td></tr></table></a>
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Definition of Diaspora][D]
 <a><table width="99%" border="1"><tr>
