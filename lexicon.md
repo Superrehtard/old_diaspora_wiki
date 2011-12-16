@@ -5,9 +5,9 @@
 </tr></table></a>
 
 **Send Feedback**, suggestions, additions, corrections to:&nbsp; **LEXICON@metaWord.org &nbsp; &larr; give us a shout !** [@RichardTE](https://Diasp.org/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
-<a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
 
-### Contributing to or Commenting on this page
+<a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
+### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
 
 Post to **Diaspora** using one of these [#hashtags](#) ...
 
