@@ -180,31 +180,31 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 <a><table width="33%" cellspacing="0" border="1"><tr>
 <th> NW </th><th> NE </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not gh reversed highlight"> GH </th><th> Right Cell </th>
+<th> <a class="not gh reversed highlight"> GH </th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> GO </th><th> Right Cell </th>
+<th> GO </th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight"> 
-<th> <a class="gt auto_invert"> GT </a></th><th> Right Cell </th>
+<th> GT </a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th> <a class="disregard previous highlight"><a class="M auto_invert"> M </a></a></th><th> Right Cell </th>
+<th><a class="M auto_invert"> M </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not s reversed highlight"> S </a></a></th><th> Right Cell </th>
+<th> <a class="not s reversed highlight"> S </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not ni reversed highlight"> NI </a></a></th><th> Right Cell </th>
+<th> <a class="not ni reversed highlight"> NI </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not nn reversed highlight"> NN </a></a></th><th> Right Cell </th>
+<th> <a class="not nn reversed highlight"> NN </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not nt reversed highlight"> NT </a></a></th><th> Right Cell </th>
+<th> <a class="not nt reversed highlight"> NT </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not nv reversed highlight"> NV </a></a></th><th> Right Cell </th>
+<th> <a class="not nv reversed highlight"> NV </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not ss reversed"> ss </a></a></th><th> Right Cell </th>
+<th> <a class="not ss reversed"> ss </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight"> 
-<th class="disregard old highlight"> <a class="not vc reversed"> vc </a></a></th><th> Right Cell </th>
+<th> <a class="not vc reversed"> vc </a></a></th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not il reversed"> il </th><th> Right Cell </th>
+<th> <a class="not il reversed"> il </th><th> Right Cell </th>
 </tr><tr class="disregard previous highlight">  
-<th class="disregard old highlight"> <a class="not sb reversed"> SB </th><th> Right Cell </th>
+<th> <a class="not sb reversed"> SB </th><th> Right Cell </th>
 </tr></table></a>
 
 ---
