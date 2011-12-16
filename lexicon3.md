@@ -151,7 +151,9 @@ _Computer programming (often shortened to programming or coding) is the process 
 _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a Finnish software engineer and **hacker**, best known for having initiated the development of the **open source** Linux kernel.&nbsp; He later became the chief architect of the Linux kernel, and now acts as the project's coordinator.&nbsp; He also created the revision control system **[Git](G)** as well as the Scuba diving log book software Subsurface._ ([Wikipedia](http://en.wikipedia.org/wiki/Linus_Torvalds)) <br>
 <br>
 • http://wikipedia.org/wiki/Linus_Torvalds <br>
+• http://Wikipedia.org/wiki/Git_(software) <br>
 • http://wikipedia.org/wiki/Linux <br>
+• http://Wikipedia.org/wiki/Github <br>
 
 - **Tutorial**
 
