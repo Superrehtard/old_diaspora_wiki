@@ -186,7 +186,7 @@ Nav table works — note a-tag enclosure & border="1" (Dev2011) ...
 </tr><tr> 
 <th> <a class="disregard previous highlight"><a class="gt auto_invert"> GT </a></a></th><th> Right Cell </th>
 </tr><tr> 
-<th class="disregard old highlight"> <a class="not m reversed highlight"> M </a></a></th><th> Right Cell </th>
+<th> <a class="disregard previous highlight"><a class="M auto_invert"> M </a></a></th><th> Right Cell </th>
 </tr><tr> 
 <th class="disregard old highlight"> <a class="not s reversed highlight"> S </a></a></th><th> Right Cell </th>
 </tr><tr> 
