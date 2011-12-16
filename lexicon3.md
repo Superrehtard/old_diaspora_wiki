@@ -196,7 +196,6 @@ _Revision control, also known as version control and source control (and an aspe
 • https://GitHub.com/diaspora/ <br>
 
 - **Volunteer |** **[Contribute][C]** **| Donate** <br>
-• see **[Contribute][C]**
 
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
