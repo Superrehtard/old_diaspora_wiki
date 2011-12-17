@@ -235,6 +235,9 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://wikipedia.org/wiki/Federation_(information_technology) <br>
 • http://foldoc.org/federation <br>
 
+- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]**
+• http://GitRef.org/basic/#fetch
+
 - **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
 
 - **Follow | Follower | Mutual Follower**    
@@ -246,9 +249,6 @@ http://diasporial.com/tutorials/follows-and-followers
 &nbsp;    
     When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**.&nbsp; Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers     
-
-- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]**
-• http://GitRef.org/basic/#fetch
 
 - **Forum | [Group Software][G]**
 
