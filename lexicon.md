@@ -1,10 +1,10 @@
 # Diaspora* Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Diaspora Lexicon][D] | [Definition of Diaspora][D]
-<a><table width="99%" border="1"><tr>
+<a><table width="100%" border="1"><tr>
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
+<a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="https://github.com/diaspora/diaspora/wiki/lexicon2" alt="Enigma Machine" title="Enigma Machine">![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)</a>
 </td></tr></table></a>
@@ -165,7 +165,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-<a><table width="99%"><tr><td class="blame">
+<a><table width="100%"><tr><td class="blame">
 
 ### Diasporial
 - http://Diasporial.com
@@ -253,11 +253,11 @@ http://diasporial.com/tutorials/follows-and-followers
 
 - **Friend | Unfriend** <br />
       
-<a><table width="99%" border="1"><tr>
+<a><table width="100%" border="1"><tr>
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a><table width="99%"><tr><td width="49%" valign="top">
+<a><table width="100%"><tr><td width="49%" valign="top">
 ### Diaspora Lexicon credits
 </td><td width="49%">
 ### Links to section headings
