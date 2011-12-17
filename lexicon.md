@@ -73,7 +73,9 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 - **Client | Server** <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
-- **Commit | Fork | Pull | Push | [Version Control][V]** <br>
+- **Commit | Fork | Pull | Push | [Version Control][V]**
+
+- **Computer Programming | [Software Development][S]**
     
 - **Contribute | Volunteer | Donate** <br>
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br>
