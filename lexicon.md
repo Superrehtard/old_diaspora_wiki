@@ -235,7 +235,7 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://wikipedia.org/wiki/Federation_(information_technology) <br>
 • http://foldoc.org/federation <br>
 
-- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]**
+- **Fetch | Commit | Fork | Pull | Push | [Version Control][V]** <br>
 • http://GitRef.org/basic/#fetch
 
 - **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
