@@ -37,15 +37,19 @@ In time you will learn the best hashtag usage for your needs.&nbsp; This wiki pa
 
 - **Top Tags:&nbsp; #music #movies #art #linux #android #travel #science #diaspora #books #apple #film #french #opensource #philosophy #php #computers #newhere #teacher #guitar #cooking #musik**
 
-<a name="wiki-top"><table width="99%" border="1"><tr><td class="not to blame"> 
+<a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
+<a><table align="right" width="9" height="9"><tr><td>
+<a href="https://github.com/diaspora/diaspora/wiki/lexicon2" title=" Enigma Machine ">![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)</a>
+</td></tr></table></a>
+### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
-### Contributing to or Commenting on this page
+Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & learn to edit wiki pages in the [**GFM Markdown** language](http://github.github.com/github-flavored-markdown/). <br>
+Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 
-Post to **Diaspora** using one of these [#hashtags](#) ...
-
-- **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora Hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
-- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality.
+- **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
+- **[\#d_group](#)** — for talking about the future of **Diaspora Group** functionality. <br>
+[@RichardTE](https://JoinDiaspora.com/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
 </td></tr></table></a>
 
