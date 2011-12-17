@@ -328,3 +328,9 @@ http://diasporial.com/tutorials/follows-and-followers
 [X]: ./lexicon3#wiki-x
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
+
+<a><table width="100%" border="1" cellspacing="0">
+<tr class="disregard previous highlight">
+<td class="not to blame"> 
+### <a class="not nt auto_invert HERE"> </a>
+</td></tr></table></a>
