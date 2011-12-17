@@ -68,6 +68,8 @@ _a set of formal rules describing how to transmit data, especially across a netw
 
 [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
 
+- **Pull | Push | Commit | Fork | [Version Control][V]** <br>
+
 <!-- - - - - - - - - - R - - - - - - - - - - - - -->
 
 ## <a name="wiki-r">R</a>
