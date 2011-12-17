@@ -329,8 +329,10 @@ http://diasporial.com/tutorials/follows-and-followers
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
 
+<!-- 
 <table width="0%" border="0" cellspacing="0">
 <tr class="disregard previous highlight">
 <td class="not to blame"> 
-<a class="not nt auto_invert HERE"> </a>
+<a class="not nt auto_invert HEAD_HERE WRAP_TABLE_IN_A"> </a>
 </td></tr></table>
+-->
