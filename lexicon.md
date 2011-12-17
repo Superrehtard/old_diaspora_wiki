@@ -8,7 +8,7 @@
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="https://github.com/diaspora/diaspora/wiki/lexicon2" alt="Enigma Machine" title="Enigma Machine">![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)</a>
 </td></tr></table></a>
-### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
+### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
 Post to **Diaspora** using one of these [#hashtags](#) ...
 
