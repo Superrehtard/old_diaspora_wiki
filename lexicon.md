@@ -10,7 +10,7 @@
 </td></tr></table></a>
 ### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
-Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & edit wiki pages using their [**Markdown** language](http://github.github.com/github-flavored-markdown/). <br>
+Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & edit wiki pages using their [**GFM Markdown** language](http://github.github.com/github-flavored-markdown/). <br>
 Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
