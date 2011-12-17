@@ -35,7 +35,7 @@ http://PivotalLabs.com <br>
 
 <a><table width="99%"><tr class="disregard previous highlight"><td class="blame">
 
-### <a class="not nn auto_invert"> Pod&nbsp; (</a>[Diaspora][D] <a class="not nn auto_invert">Server)</a> 
+### <a class="not nt auto_invert"> Pod&nbsp; (</a>[Diaspora][D] <a class="not nt auto_invert">Server)</a> 
 
 _**Diaspora** is a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these **pods** already established across the internet with many users.&nbsp; You register for a free account on a **pod** and you can seamlessly connect with other users on other **pods** the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which **pod** you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own **pod** for your family and or friends.&nbsp; They can in turn connect to family and friends on your **pod** or even other **pods** with ease._ ([WhatIsDiaspora](http://WhatIsDiaspora.com) 2011)
 
@@ -124,13 +124,13 @@ definition of **seed** ... <br>
 definition of **spore** ... <br />
 
 <a><table width="99%"><tr class="disregard previous highlight"><td class="not to blame">
-### <a class="not nn auto_invert">Software Development</a>
+### <a class="not nt auto_invert">Software Development</a>
 
 ... _(also known as application development, software design, designing software, software application development, enterprise application development, or platform development) is the development of a software product. The term "software development" may be used to refer to the activity of computer programming, which is the process of writing and maintaining the source code, but in a broader sense of the term it includes all that is involved between the conception of the desired software through to the final manifestation of the software, ideally in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Software_development) 2011)
 
 </td></tr><tr class="disregard previous highlight"><td>
 
-### <a class="not nn auto_invert">Computer Programming</a>
+### <a class="not nt auto_invert">Computer Programming</a>
 ... _Computer programming (often shortened to programming or coding) is the process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages. The purpose of programming is to create a program that performs specific operations or exhibits a certain desired behavior. The process of writing source code often requires expertise in many different subjects, including knowledge of the application domain, specialized algorithms and formal logic_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Computer_programming) 2011)
 </td></tr></table></a>
 
@@ -208,7 +208,7 @@ _Revision control, also known as version control and source control (and an aspe
 ![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
 </td></tr></table></a>
 
-### <a class="not nn auto_invert">Wikipedia</a>
+### <a class="not nt auto_invert">Wikipedia</a>
 
 ... _multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information._ <br>
 <br>
