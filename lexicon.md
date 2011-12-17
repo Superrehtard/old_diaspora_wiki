@@ -74,7 +74,8 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 - **Client | Server** <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
-- **Commit | Fork | Pull | Push | [Version Control][V]**
+- **Commit | Fetch | Fork | Pull | Push | [Version Control][V]** <br>
+• http://GitRef.org/basic/#commit
 
 - **Computer Programming | [Software Development][S]**
     
