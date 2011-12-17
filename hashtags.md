@@ -5,14 +5,14 @@
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
-
 <a><table width="9" height="9" align="right"><tr><td><a href="#" title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
 </a></td></tr></table></a>
-
 ### <a class="not nt auto_invert">Goldilocks & the 3 Smart Hashtags</a>
 
-In thinking about **hashtags**, remember the words of little Goldilocks:&nbsp; **Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
+In thinking about **hashtags**, remember the words of little **Goldilocks** ...
+
+_Am I using **enough #hashtags** in my Diaspora posts?**&nbsp; Am I using **too many?**&nbsp; What number is **just right?**&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody — except your friends — will see your posts.&nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
