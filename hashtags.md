@@ -4,13 +4,13 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame">
+<a name="wiki-top-tags"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
 
-<a title=" 3 Bears "><table width="9" height="9" align="right"><tr class="disregard previous highlight"><td>
+<a title=" 3 Bears "><table width="9" height="9" align="right"><tr><td>
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
 </td></tr></table></a>
 
-## <a class="not nt auto_invert">Goldilocks & the 3 Smart Hashtags</a>
+### <a class="not nt auto_invert">Goldilocks & the 3 Smart Hashtags</a>
 
 In thinking about **hashtags**, remember the words of little Goldilocks:&nbsp; **Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
