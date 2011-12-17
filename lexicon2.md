@@ -1,10 +1,10 @@
 # Diaspora* Lexicon
 ### [Diaspora Dictionary][D] | [Diaspora Glossary][D] | [Diaspora Lexicon][D] | [Definition of Diaspora][D]
-<a><table width="99%" border="1"><tr>
+<a><table width="100%" border="1"><tr>
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a name="wiki-top"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
+<a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="https://github.com/diaspora/diaspora/wiki/lexicon3" alt="Alphabet" title="Alphabet">![Alphabet](http://www.datenote.org/diaspora/150x100Ioanne_Arnoldo_1541_alphabet.png)</a>
 </td></tr></table></a>
@@ -101,7 +101,7 @@ a private space where a group of friends or colleagues can discuss issues, colla
 ## <a name="wiki-h">H</a>
 
 - **Hacker**
-<a><table width="99%"><tr><td class="blame">
+<a><table width="100%"><tr><td class="blame">
 indie **computer programmer, coder, developer or dev**. <br />
 The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
 </td></tr></table></a>
@@ -291,11 +291,11 @@ _(short for 'network etiquette' or 'Internet etiquette') is a set of social conv
      
 - **Open Content**     
     
-<a><table width="99%" border="1"><tr>
+<a><table width="100%" border="1"><tr>
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a><table width="99%"><tr><td width="49%" valign="top">
+<a><table width="100%"><tr><td width="49%" valign="top">
 ### Diaspora Lexicon credits
 </td><td width="49%">
 ### Links to section headings
