@@ -329,8 +329,6 @@ http://diasporial.com/tutorials/follows-and-followers
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
 
-Ho
-
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - -  
 <a><table width="0%" border="0" cellspacing="0">
 <tr class="disregard previous highlight">
@@ -338,5 +336,3 @@ Ho
 <a class="not nt auto_invert"> Howdy World </a>
 </td></tr></table></a>
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-Ho
