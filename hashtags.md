@@ -39,12 +39,11 @@ In time you will learn the best hashtag usage for your needs.&nbsp; This wiki pa
 
 <a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
-<a href="#" title=" Git ">![Git](http://diasporafoundation.org/images/octocats.png?1319762059)</a>
+<a href="#" title=" Octocats ">![Octocats](http://diasporafoundation.org/images/octocats.png?1319762059)</a>
 </td></tr></table></a>
 ### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
-Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & learn to edit wiki pages in the [**GFM Markdown** language](http://github.github.com/github-flavored-markdown/). <br>
-Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
+Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & learn to edit wiki pages in the [**GFM Markdown** language](http://github.github.com/github-flavored-markdown/).&nbsp; Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 
 - **[\#d_lexicon](#)** — to suggest new terms for the **[Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)**.
 - **[\#d_hashtags](#)** — to suggest new [\#tags](#) for **[Diaspora \#hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)**.
