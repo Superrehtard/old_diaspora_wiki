@@ -6,9 +6,10 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
 
-<a title="3 Bears" href="#"><table width="9" height="9" align="right"><tr><td>
+<a><table width="9" height="9" align="right"><tr><td><a href="#" title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
-</td></tr></table></a>
+
+</a></td></tr></table></a>
 
 ### <a class="not nt auto_invert">Goldilocks & the 3 Smart Hashtags</a>
 
