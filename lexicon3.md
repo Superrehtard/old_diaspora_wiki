@@ -33,7 +33,7 @@ https://PivotalTracker.com/projects/426041/ <br>
 http://PivotalTracker.com <br>
 http://PivotalLabs.com <br>
 
-<a><table width="99%"><tr class="disregard previous highlight"><td class="blame">
+<a><table width="100%"><tr class="disregard previous highlight"><td class="blame">
 
 ### <a class="not nt auto_invert"> Pod&nbsp; (</a>[Diaspora][D] <a class="not nt auto_invert">Server)</a> 
 
@@ -123,7 +123,7 @@ definition of **seed** ... <br>
 - **Spore** <br />
 definition of **spore** ... <br />
 
-<a><table width="99%"><tr class="disregard previous highlight"><td class="not to blame">
+<a><table width="100%"><tr class="disregard previous highlight"><td class="not to blame">
 ### <a class="not nt auto_invert">Software Development</a>
 
 ... _(also known as application development, software design, designing software, software application development, enterprise application development, or platform development) is the development of a software product. The term "software development" may be used to refer to the activity of computer programming, which is the process of writing and maintaining the source code, but in a broader sense of the term it includes all that is involved between the conception of the desired software through to the final manifestation of the software, ideally in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Software_development) 2011)
@@ -202,7 +202,7 @@ _Revision control, also known as version control and source control (and an aspe
 <!-- - - - - - - - - - W - - - - - - - - - - - - -->
 ## <a name="wiki-w">W</a>
 
-<a><table width="99%"><tr class="disregard previous highlight"><td class="not to blame" colspan="2">
+<a><table width="100%"><tr class="disregard previous highlight"><td class="not to blame" colspan="2">
 
 <a><table align="right" width="9" height="9"><tr><td>
 ![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
@@ -270,7 +270,7 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a><table width="99%"><tr><td width="49%" valign="top">
+<a><table width="100%"><tr><td width="49%" valign="top">
 ### Diaspora Lexicon credits
 </td><td width="49%">
 ### Links to section headings
