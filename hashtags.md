@@ -16,8 +16,8 @@ In thinking about **hashtags**, remember the words of little **Goldilocks** ...
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody — except your closest friends — will see your posts.&nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you (as happened to this wiki editor :) ... 
  
-<a><table width="9" height="9" align="left"><tr><td><a href="#" title=" 3 Bears ">
-![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png/81px-New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png)
+<a><table width="9" height="9" align="right"><tr><td><a href="#" title=" Girlfriends ">
+![Girlfriends](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png/81px-New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png)
 </a></td></tr></table></a>
 
 **The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus [#newhere](#))** they will be _just right!_&nbsp; **Goldilocks** will like you & you will be friends forever after!
