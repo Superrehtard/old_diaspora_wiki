@@ -6,7 +6,7 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
 
-<a title=" 3 Bears "><table width="9" height="9" align="right"><tr><td>
+<a title=" 3 Bears " href="#"><table width="9" height="9" align="right"><tr><td>
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
 </td></tr></table></a>
 
