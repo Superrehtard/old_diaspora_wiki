@@ -247,7 +247,8 @@ http://diasporial.com/tutorials/follows-and-followers
     When you and another person are following each other, we talk about mutual followers. This can be compared to being Facebook **friends**.&nbsp; Just like on Twitter, you need to be **mutual followers** in order to use certain features.    
     http://diasporial.com/tutorials/follows-and-followers     
 
-- **Fork | Commit | Pull | Push | [Version Control][V]**
+- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]**
+• http://GitRef.org/basic/#fetch
 
 - **Forum | [Group Software][G]**
 
