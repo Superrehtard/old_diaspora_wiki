@@ -39,7 +39,7 @@ In time you will learn the best hashtag usage for your needs.&nbsp; This wiki pa
 
 <a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
-<a href="https://github.com/diaspora/diaspora/wiki/lexicon2" title=" Enigma Machine ">![Enigma Machine](http://www.datenote.org/diaspora/100x150Bundesarchiv_Bild_183-2007-0705-502_Chiffriermaschine_Enigma.png)</a>
+<a href="#" title=" Git ">![Git](http://diasporafoundation.org/images/octocats.png?1319762059)</a>
 </td></tr></table></a>
 ### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
