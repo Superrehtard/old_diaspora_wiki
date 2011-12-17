@@ -8,7 +8,7 @@
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="https://github.com/diaspora/diaspora/wiki/lexicon3" alt="Alphabet" title="Alphabet">![Alphabet](http://www.datenote.org/diaspora/150x100Ioanne_Arnoldo_1541_alphabet.png)</a>
 </td></tr></table></a>
-### <a class="not nn auto_invert">Contributing to or Commenting on this page</a>
+### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
 Post to **Diaspora** using one of these [#hashtags](#) ...
 
