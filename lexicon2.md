@@ -4,7 +4,7 @@
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
 
-<a name="wiki-top"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame"> 
+<a name="wiki-top"><table width="100%" border="0"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
 <a href="https://github.com/diaspora/diaspora/wiki/lexicon3" title=" Alphabet ">![Alphabet](http://www.datenote.org/diaspora/150x100Ioanne_Arnoldo_1541_alphabet.png)</a>
 </td></tr></table></a>
@@ -165,7 +165,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
      http://groups.google.com/group/diaspora-discuss (Regular Folks)     
      http://groups.google.com/group/diaspora-dev (Devs)     
 
-<a><table width="100%" border="1" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"><a class="not nt auto_invert">
+<a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"><a class="not nt auto_invert">
 ### History of Diaspora 
 </a>
 
