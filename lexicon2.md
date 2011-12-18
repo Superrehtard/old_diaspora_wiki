@@ -220,7 +220,7 @@ Internet **[Protocol](#wiki-p)**
     
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**
 
-- **[Kickstarter.com](http://Kickstarter.com)** 
+- **[Kickstarter.com](http://Kickstarter.com)** <br>
 • http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
 
 ## <a name="wiki-l">L</a>
