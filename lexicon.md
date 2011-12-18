@@ -32,7 +32,7 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
     https://github.com/diaspora/diaspora/wiki/Android-app-project    
     
 - **Alpha | Pre-Alpha | Beta | [Software Release Life Cycle][S]** <br>
-• http://Wikipedia.org/wiki/Software_release_life_cycle#Beta
+• http://Wikipedia.org/wiki/Software_release_life_cycle#Alpha
     
 - **Austria** [Pods][P] <br />
     
