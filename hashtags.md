@@ -21,13 +21,13 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 </a></td></tr></table></a>
 
 &nbsp; &nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your <br>
-&nbsp; &nbsp; whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you.
+&nbsp; &nbsp; posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you.
  
 &nbsp; &nbsp; **The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus [#newhere](#))** <br>
 &nbsp; &nbsp; they will be _just right!_&nbsp; **Goldilocks** will like you & be friends forever after!
 
-&nbsp; &nbsp; **In a short time** you will learn the best hashtag usage for your needs. <br>
-&nbsp; &nbsp; This wiki page can help you to find some of the commonly used, popular & special tags in circulation on **Diaspora** ...
+&nbsp; &nbsp; **In a short time** you will learn the best hashtag usage for your needs.&nbsp; This wiki page can help you <br> 
+&nbsp; &nbsp; to find some of the commonly used, popular & special tags in circulation on **Diaspora** ...
 
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
