@@ -443,10 +443,21 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **Tags:&nbsp;** #womyn | 2 | | Dec2011 
 - **Tags:&nbsp;** #wtf | 5 | | Dec2011
 
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - -  
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - 
+HEADING
+ 
 <a><table width="0%" border="0" cellspacing="0">
 <tr class="disregard previous highlight">
 <td class="not to blame"> 
 <a class="not nt auto_invert"> Howdy World </a>
 </td></tr></table></a>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+IMAGE on RIGHT
+
+<a><table align="right" width="9" height="9"><tr><td>
+<a href="#" title=" Pivotal Labs ">
+![Image](./image.png)
+</a></td></tr></table></a>
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
