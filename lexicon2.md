@@ -168,11 +168,12 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
 <a><table width="100%" border="1" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"> 
 <a class="not nt auto_invert">
 ### History of Diaspora
+
+_**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely_ ... ([WhatIsDiaspora.com](http://whatIsDiaspora.com))
 </a></td></tr></table></a>
 
-_**Diaspora** is a social network created by people like you.&nbsp; In 2010, a few young programmers from NYU’s Courant Institute announced to the world that they wanted to create a new, safer, more privacy-aware social network.&nbsp; They said they would need $10,000 to accomplish the task and instead, 6,479 people like you pledged $200,641.&nbsp; Since then, the young programmers along with many volunteers from around the world have been working to create the next generation of Social Networks to allow you to socialize on the internet more safely_ ... ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) </td></tr></table></a><br>
-<br>
-• http://Wikipedia.org/wiki/Diaspora_%28social_network%29#History
+- **History of Diaspora** <br>
+• http://Wikipedia.org/wiki/Diaspora_%28social_network%29#History <br>
 • http://whatIsDiaspora.com <br>
 
 - **HTTP | HTTP Secure**    
