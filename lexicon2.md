@@ -221,7 +221,7 @@ Internet **[Protocol](#wiki-p)**
 - **[JoinDiaspora.com](http://JoinDiaspora.com)**
 
 <a><table align="right" width="9" height="9"><tr><td>
-<a href="#" title=" Kickstarter ">
+<a href="http://Kickstarter.com" title=" Kickstarter ">
 ![Kickstarter](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kickstarter_logo.png/250px-Kickstarter_logo.png)
 </a></td></tr></table></a>
 
