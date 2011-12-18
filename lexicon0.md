@@ -1,7 +1,9 @@
 # notes for editors 
  
 **Sandbox & editors' note for the Diaspora Wiki Glossary**    
-Not intended for public consumption.      
+Not intended for public consumption.
+
+Check in 3 different browsers!&nbsp; (Firefox, iExplorer & Chrome for Windows) ... 
    
 - **[/ glossary](https://github.com/diaspora/diaspora/wiki/glossary)** (A-H)
 - **[/ glossary1](https://github.com/diaspora/diaspora/wiki/glossary2)** (I-Q)
