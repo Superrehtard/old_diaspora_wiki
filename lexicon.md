@@ -31,7 +31,8 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 - **[Android.com](http://Android.com)**    
     https://github.com/diaspora/diaspora/wiki/Android-app-project    
     
-- **Alpha**    
+- **Alpha | Pre-Alpha | Beta | [Software Release Life Cycle][S]** <br>
+• http://Wikipedia.org/wiki/Software_release_life_cycle#Beta
     
 - **Austria** [Pods][P] <br />
     
@@ -54,7 +55,8 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 ![Bug](http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marienkaefer04.jpg/120px-Marienkaefer04.jpg)
 </td></tr></table></a>
     
-- **Beta**    
+- **Beta | Pre-Alpha | Alpha | [Software Release Life Cycle][S]** <br>
+• http://Wikipedia.org/wiki/Software_release_life_cycle#Beta
     
 - **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**    
     
