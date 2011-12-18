@@ -24,7 +24,7 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 ## <a name="wiki-p">P</a>
 
 <a><table align="right" width="9" height="9"><tr><td>
-<a href="#" alt=" Diaspora * " title=" Diaspora * ">![Diaspora *](http://gravatar.com/avatar/528d4c94f7e74beff70a3351c7bca33c)</a>
+<a href="#" title=" Pivotal Labs * ">![Pivotal Labs](http://pivotallabs.com/images/pivotallabs-logo.png?1322443260)</a>
 </td></tr></table></a>
    
 - **Pivotal Tracker | Pivotal Labs**
