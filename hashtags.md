@@ -4,7 +4,7 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="100%" border="1" cellpadding="6"><tr class="disregard previous highlight"><td class="not to blame">
+<a name="wiki-top-tags"><table width="100%" border="0"><tr class="disregard previous highlight"><td class="not to blame">
 <a><table width="9" height="9" align="right"><tr><td><a href="#" title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
 </a></td></tr></table></a>
