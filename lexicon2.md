@@ -174,6 +174,7 @@ _**Diaspora** is a social network created by people like you.&nbsp; In 2010, a f
 </td></tr></table></a>
 
 - **History of Diaspora** <br>
+• http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
 • http://Wikipedia.org/wiki/Diaspora_%28social_network%29#History <br>
 • http://whatIsDiaspora.com <br>
 
