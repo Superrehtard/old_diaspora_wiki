@@ -54,7 +54,7 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 
 - **Post | Public | Private | Posting**
 
-- **Pre-Alpha | Alpha | Beta | [Software Release Life Cycle](S)** <br>
+- **Pre-Alpha | Alpha | Beta | [Software Release Life Cycle][S]** <br>
 • http://Wikipedia.org/wiki/Software_release_life_cycle#Pre-alpha
 
 - **Programming Language**
