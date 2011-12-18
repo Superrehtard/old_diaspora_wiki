@@ -31,6 +31,7 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
+• https://PivotalTracker.com/public_projects/ <br>
 • http://PivotalTracker.com <br>
 • http://PivotalLabs.com <br>
 
