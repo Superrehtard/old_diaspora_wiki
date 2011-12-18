@@ -4,7 +4,7 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
+<a name="wiki-top-tags"><table width="100%" border="1"><tr class="disregard previous highlight"><td class="not to blame">
 <a><table width="9" height="9" align="right"><tr><td><a href="#" title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
 </a></td></tr></table></a>
@@ -30,7 +30,7 @@ In time you will learn the best hashtag usage for your needs.&nbsp; This wiki pa
 <!-- - - - - - - - - - - - - - - - - - G o l d i l o c k s --> 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="99%" border="1"><tr><td class="not to blame"> 
+<a name="wiki-top-tags"><table width="100%" border="1"><tr><td class="not to blame"> 
 **[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Please resist over-tagging)!
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
@@ -53,7 +53,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </td></tr></table></a>
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-animals"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-animals"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
@@ -62,7 +62,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** \#birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-arts"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-arts"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
@@ -71,7 +71,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #graffiti #knitting #multimedia #photography #photoshop #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-community"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-community"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Community](#wiki-community) Building**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
@@ -80,7 +80,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-cooking"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-cooking"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Cooking](#wiki-cooking), Food & Drink**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
@@ -89,7 +89,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #baking #beer #cheese #homebrew #homebrewer #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-code"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-code"><table width="100%" border="1"><tr><th class="not to blame"> 
 **Computer Programming & Hacking [Code](#wiki-code)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
@@ -98,7 +98,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #css #c #cpp #cryptography #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-culture"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-culture"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Culture](#wiki-culture)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
@@ -107,7 +107,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #lgbt #meme #memes #punk #tattoos #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-dev"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-dev"><table width="100%" border="1"><tr><th class="not to blame"> 
 **Diaspora [Dev](#wiki-dev)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
@@ -116,7 +116,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #bug #commit #diy #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-entertainment"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Entertainment](#wiki-entertainment)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
@@ -125,7 +125,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #artfilm #arts #burlesque #flickr #film #games #npr #radio #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-entertainment"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-entertainment"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Fashion](#wiki-fashion) & Beauty**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
@@ -134,7 +134,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #fashion
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-gaming"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-gaming"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Gaming](#wiki-gaming)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
@@ -143,7 +143,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #chess #games
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-gardens"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-gardens"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Gardens](#wiki-animals) & Plants**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a r d e n s --> 
@@ -152,7 +152,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #farming #farmer #gardening #gardener
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-green"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-green"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Green](#wiki-green) Sustainability**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
@@ -161,7 +161,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-languages"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-languages"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Languages](#wiki-languages) & Nationalities**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
@@ -170,7 +170,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**   #english #libros #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-music"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-music"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Music](#wiki-music)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
@@ -179,7 +179,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #noise #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-occupy"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-occupy"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Occupy](#wiki-occupy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
@@ -188,7 +188,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #99percent #occupy #occupymovement #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-open"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-open"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Open](#wiki-open) Source & Open Content**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
@@ -197,7 +197,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #tags
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-philosophy"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-philosophy"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Philosophy](#wiki-philosophy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
@@ -206,7 +206,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #communism #buddhism #feminism #life #logic #metaphysics #socialism #ted #transhumanism
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-places"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-places"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Places](#wiki-places)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
@@ -215,7 +215,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #america #nyc #beach #brasil #brazil #canada earth #israel #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-politics"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-politics"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Politics](#wiki-politics)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
@@ -224,7 +224,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-privacy"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-privacy"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Privacy](#wiki-privacy), Anonymity, Security, Encryption & Intellectual Property**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
@@ -233,7 +233,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #anonymity #censorship #creativecommons #encryption #piracy #privacy #security 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-sex"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-sex"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Sex](#wiki-sex)uality & Gender**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S e x --> 
@@ -242,7 +242,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #dating #feminism #lgbt #gay #gender #kinky #porn #sex #transgender #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-social"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-social"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Social](#wiki-social) Media**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
@@ -251,7 +251,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #community #diy #facebook #flicker #friendfeed #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-special"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-special"><table width="100%" border="1"><tr><th class="not to blame"> 
 **Miscellaneous & [Special](#wiki-special) Tags**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
@@ -260,7 +260,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #commit #d_group #d_hashtags #d_lexicon #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-spirituality"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-spirituality"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Spirituality](#wiki-spirituality)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
@@ -269,7 +269,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #agnostic #buddhism #catholic #christmas #islam #judaism #jew #jewish #life #occult #religion  #transhumanism #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-sports"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-sports"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Sports](#wiki-animals)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
@@ -278,7 +278,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-studies"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-studies"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Studies](#wiki-studies)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
@@ -287,7 +287,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #nurse #paranormal #philosophy #reading #research #space #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-tech"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-tech"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Tech](#wiki-tech)nology**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
@@ -296,7 +296,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #eco #climate #solar #technology #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-toys"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-toys"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Toys](#wiki-toys)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
@@ -305,7 +305,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #motorbikes #porsche 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-wellness"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-wellness"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Wellness](#wiki-wellness)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
@@ -313,7 +313,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 ---
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-other"><table width="99%" border="1"><tr><th class="not to blame"> 
+<a name="wiki-other"><table width="100%" border="1"><tr><th class="not to blame"> 
 **[Other](#wiki-other)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
