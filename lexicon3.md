@@ -24,7 +24,7 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 ## <a name="wiki-p">P</a>
 
 <a><table align="right" width="9" height="9"><tr><td>
-<a href="https://www.pivotaltracker.com/projects/426041" title=" Pivotal Labs * ">![Pivotal Labs](http://pivotallabs.com/images/pivotallabs-logo.png?1322443260)</a>
+<a href="https://www.pivotaltracker.com/projects/426041" title=" Pivotal Labs ">![Pivotal Labs](http://pivotallabs.com/images/pivotallabs-logo.png?1322443260)</a>
 </td></tr></table></a>
    
 - **Pivotal Tracker | Pivotal Labs**
