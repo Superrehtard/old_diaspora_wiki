@@ -121,13 +121,6 @@ definition of **seed** ... <br>
 
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder) <br />
 
-- **Spain** [Pods][P]
-
-[ [Jauspora.com](https://jauspora.com) ]
-
-- **Spore** <br />
-definition of **spore** ... <br />
-
 <a><table width="100%"><tr class="disregard previous highlight"><td class="not to blame">
 ### <a class="not nt auto_invert">Software Development</a>
 
@@ -151,6 +144,16 @@ definition of **spore** ... <br />
 • http://Wikipedia.org/wiki/Git_(software) <br>
 • http://Wikipedia.org/wiki/Open_source <br>
 • http://Wikipedia.org/wiki/Github <br>
+
+- **Software Release Life Cycle | Pre-Alpha | Alpha | Beta**
+• http://en.wikipedia.org/wiki/Software_release_life_cycle
+
+- **Spain** [Pods][P]
+
+[ [Jauspora.com](https://jauspora.com) ]
+
+- **Spore** <br />
+definition of **spore** ... <br />
 
 - **[Spored.de](http://Spored.de)** <br />
 
