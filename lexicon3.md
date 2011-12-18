@@ -347,11 +347,21 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
 
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - -  
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - 
+HEADING
+ 
 <a><table width="0%" border="0" cellspacing="0">
 <tr class="disregard previous highlight">
 <td class="not to blame"> 
 <a class="not nt auto_invert"> Howdy World </a>
 </td></tr></table></a>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+IMAGE on RIGHT
+
+<a><table align="right" width="9" height="9"><tr><td>
+<a href="#" title=" Pivotal Labs ">
+![Image](./image.png)
+</a></td></tr></table></a>
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
