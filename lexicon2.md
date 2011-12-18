@@ -218,8 +218,11 @@ Internet **[Protocol](#wiki-p)**
 • https://github.com/diaspora/diaspora/wiki/A-collaborative-introduction-to-Diaspora%27s-Javascript-(wip) <br>
 • http://groups.google.com/group/diaspora-dev/browse_thread/thread/24be8040b300bb18  <br>
     
-- **[JoinDiaspora.com](http://JoinDiaspora.com)**   
-   
+- **[JoinDiaspora.com](http://JoinDiaspora.com)**
+
+- **[Kickstarter.com](http://Kickstarter.com)** 
+• http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
+
 ## <a name="wiki-l">L</a>
 
 - **Lexicon** <br>
