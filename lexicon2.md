@@ -165,8 +165,7 @@ part of a **network protocol**.&nbsp; Sometimes a **protocol** is visualized as 
      http://groups.google.com/group/diaspora-discuss (Regular Folks)     
      http://groups.google.com/group/diaspora-dev (Devs)     
 
-<a><table width="100%" border="1" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"> 
-<a class="not nt auto_invert">
+<a><table width="100%" border="1" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"><a class="not nt auto_invert">
 ### History of Diaspora 
 </a>
 
