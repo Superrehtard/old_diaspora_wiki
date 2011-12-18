@@ -95,6 +95,16 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Comments: For development and test purposes, images are uploaded to S3
 
 
+* [[https://diaspora.happeningin.eu]] [[https://diaspora.happeningin.eu/apple-touch-icon.png|height=30px|]]
+    * Opened: 01/11/2011
+    * Updated: Daily
+    * Maintained by Rove Monteux
+        * [[http://twitter.com/monteuxrove]]
+        * [[http://happeningin.eu/]]
+    * Operating system: Linux
+    * Comments: Public and free European Diaspora pod with support for Twitter, Facebook, Tumblr and search engine indexing of public posts.
+
+
 * [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
     * Updated: frequently
