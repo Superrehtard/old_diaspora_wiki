@@ -85,6 +85,7 @@ https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 - **Contribute | Volunteer | Donate** <br>
 • https://github.com/diaspora/diaspora/wiki/Help-us-build-the-future-of-the-social-web <br>
 • https://github.com/diaspora/diaspora/wiki/Alternate-get-involved-page <br>
+• https://github.com/diaspora/diaspora/wiki/Grassroots%20Projects <br>
 • https://github.com/diaspora/diaspora/wiki/Become-a-Contributor <br>
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
 • https://github.com/diaspora/diaspora/wiki/Contributors <br>
