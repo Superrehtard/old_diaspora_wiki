@@ -27,12 +27,12 @@ Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
 <a href="https://www.pivotaltracker.com/projects/426041" title=" Pivotal Labs ">![Pivotal Labs](http://pivotallabs.com/images/pivotallabs-logo.png?1322443260)</a>
 </td></tr></table></a>
    
-- **Pivotal Tracker | Pivotal Labs**
-
-https://PivotalTracker.com/projects/411181/ <br>
-https://PivotalTracker.com/projects/426041/ <br>
-http://PivotalTracker.com <br>
-http://PivotalLabs.com <br>
+- **Pivotal Tracker | Pivotal Labs** <br>
+• https://PivotalTracker.com/projects/61641/ <br>
+• https://PivotalTracker.com/projects/411181/ <br>
+• https://PivotalTracker.com/projects/426041/ <br>
+• http://PivotalTracker.com <br>
+• http://PivotalLabs.com <br>
 
 <a><table width="100%"><tr class="disregard previous highlight"><td class="blame">
 
