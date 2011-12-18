@@ -145,8 +145,9 @@ definition of **seed** ... <br>
 • http://Wikipedia.org/wiki/Open_source <br>
 • http://Wikipedia.org/wiki/Github <br>
 
-- **Software Release Life Cycle | Pre-Alpha | Alpha | Beta**
-• http://en.wikipedia.org/wiki/Software_release_life_cycle
+- **Software Release Life Cycle | Pre-Alpha | Alpha | Beta** <br>
+_refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software ... ([Wikipedia](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
+• http://Wikipedia.org/wiki/Software_release_life_cycle
 
 - **Spain** [Pods][P]
 
