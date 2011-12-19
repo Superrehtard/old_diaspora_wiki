@@ -81,6 +81,8 @@ https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 - **Commit | Fetch | Fork | Pull | Push | [Version Control][V]** <br>
 • http://GitRef.org/basic/#commit
 
+- **Community**
+
 - **Computer Programming | [Software Development][S]**
     
 - **Contribute | Volunteer | Donate** <br>
@@ -207,8 +209,7 @@ http://diasporial.com/join-the-team
 
 </td></tr></table></a>
 
-
-
+- **Diversity**
 
 - **Donate | Contribute | Volunteer** <br>
 • see **[Contribute][C]**
