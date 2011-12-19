@@ -225,6 +225,8 @@ Internet **[Protocol](#wiki-p)**
 ![Kickstarter](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kickstarter_logo.png/250px-Kickstarter_logo.png)
 </a></td></tr></table></a>
 
+- **Join | Sign Up | Login**
+
 - **[Kickstarter.com](http://Kickstarter.com)** <br>
 • http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
 • http://Wikipedia.org/wiki/Kickstarter <br>
