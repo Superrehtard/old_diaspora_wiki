@@ -29,7 +29,7 @@ We are an international movement. If you would like to participate or help organ
 
 ####Translating   
 
-Diaspora is translated into over 45 languages. [Jonne Hass](https://github.com/MrZYX) has been championing managing all of them. For more info: [[How to contribute translations]].
+Diaspora is translated into over 45 languages. [Jonne Haß](https://github.com/MrZYX) has been championing managing all of them. For more info: [[How to contribute translations]].
 
 ####Grassroots Community Projects
 
