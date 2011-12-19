@@ -124,13 +124,17 @@ definition of **seed** ... <br>
 [ [DiasporaSerbia.org](https://diasporaserbia.org) ]
 
 - **Sign Up | Join | Login** <br>
-**Finding a pod** <br>
-<br>
+_**Finding a pod**_ <br>
 _Opposed to other social networking sites, like Facebook and Twitter, we cannot give you a specific link and say:&nbsp; sign up here.&nbsp; Diaspora is different to those sites as it is a decentralised social network.&nbsp; You will have to decide which Diaspora provider you want to sign up to.&nbsp; We call these providers Diaspora pods_ ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
 <br>
-**Registration** <br>
-<br>
+_**Registration**_ <br>
 Once you have found yourself a pod, go find the sign up link! It should be right there on the homepage of the pod.&nbsp; Optionally you could click “log in” and register from the login menu ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
+<br>
+• http://diasporial.com/tutorials/signing-up
+• https://JoinDiaspora.com/users/sign_up
+• https://Diasp.eu/users/sign_up
+• https://Diasp.eu/users/sign_up
+• https://Diasp.eu/users/sign_up
 
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder) <br />
 
