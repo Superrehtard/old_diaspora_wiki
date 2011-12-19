@@ -128,15 +128,15 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
 <a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
-<a><table align="right" width="1" height="1"><tr><td> 
-![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
-</td></tr></table></a>
-
 <a class="not nt auto_invert">
 ### Diaspora\* </a>
 **free, distributed social network**
 
 _**Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed social network that is based upon the free Diaspora software.&nbsp; As of late 2011, there are more than 200 thousand users connected to the biggest server.&nbsp; The project was founded in 2010 by four students at New York University’s Courant Institute of Mathematical Sciences, Ilya Zhitomirskiy, Dan Grippi, Max Salzberg and Raphael Sofaer. Diaspora consists of a group of independently owned pods which interoperate to form the network._
+
+<a><table align="right" width="1" height="1"><tr><td> 
+![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
+</td></tr></table></a>
 
 _The word Diaspora is Greek in origin and refers to a scattered or dispersed population._ ([Wikipedia](http://wikipedia.org/wiki/Diaspora_%28social_network%29))
 
@@ -162,7 +162,7 @@ _a software that can be installed on a server by someone that has the knowledge 
 </td></tr></table></a>
 
 - **Diaspora Group | Forum** <br>
-private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**. <br>
+private or protected space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**. <br>
 • http://wikipedia.org/wiki/Internet_forum <br />
 • **[D*Group](https://Diasp.org/u/d_group)**@Diasp.org — **Diaspora** group emulator
 </td></tr></table></a>
