@@ -180,6 +180,12 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 • http://Wikipedia.org/wiki/Github <br>
 • http://wikipedia.org/wiki/Linux <br>
 
+- **Troll** <br>
+... _someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as an online discussion forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion_ ... ([en.Wikipedia](http://en.wikipedia.org/wiki/Troll_%28Internet%29) 2011) <br>
+<br>
+• http://www.catb.org/jargon/html/T/troll.html <br>
+• http://en.wikipedia.org/wiki/Troll_(Internet) <br>
+
 - **Tutorial**
 
 <!-- - - - - - - - - - U - - - - - - - - - - - - -->
