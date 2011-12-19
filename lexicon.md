@@ -167,12 +167,15 @@ private or protected cyber-space where a group of friends or colleagues can disc
 • https://Diasp.org/u/d_group
 </td></tr></table></a>
 
+- huh?
+
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
-<a><table width="100%"><tr><td class="blame">
+- huh2?
 
+<a><table width="100%"><tr><td class="blame">
 ### Diasporial
 - http://Diasporial.com
 
