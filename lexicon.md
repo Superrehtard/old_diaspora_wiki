@@ -127,13 +127,13 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
-<a><table width="100%"><tr><td class="blame">
-
+<a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
 <a><table align="right" width="9" height="9"><tr><td> 
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
 </td></tr></table></a>
 
-### Diaspora\*
+<a class="not nt auto_invert">
+### Diaspora\* </a>
 **free, distributed social network**
 
 _**Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed social network that is based upon the free Diaspora software.&nbsp; As of late 2011, there are more than 200 thousand users connected to the biggest server.&nbsp; The project was founded in 2010 by four students at New York University’s Courant Institute of Mathematical Sciences, Ilya Zhitomirskiy, Dan Grippi, Max Salzberg and Raphael Sofaer. Diaspora consists of a group of independently owned pods which interoperate to form the network._
@@ -147,8 +147,9 @@ _The word Diaspora is Greek in origin and refers to a scattered or dispersed pop
 • http://whatIsDiaspora.com
 </td></tr></table></a>
 
-<a><table width="100%"><tr><td class="blame">
-### Diaspora
+<a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
+<a class="not nt auto_invert"> 
+### Diaspora </a>
 **free open source software**
 
 _a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease._ ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br>
@@ -160,11 +161,8 @@ _a software that can be installed on a server by someone that has the knowledge 
 • http://whatIsDiaspora.com
 </td></tr></table></a>
 
-<a><table width="100%"><tr><td class="blame">
-### Diaspora Group | Forum
-
-a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**.
-
+- **Diaspora Group | Forum** <br>
+private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**. <br>
 • http://wikipedia.org/wiki/Internet_forum <br />
 • **[D*Group](https://Diasp.org/u/d_group)**@Diasp.org — **Diaspora** group emulator
 </td></tr></table></a>
@@ -341,10 +339,11 @@ http://diasporial.com/tutorials/follows-and-followers
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - 
 HEADING
  
-<a><table width="0%" border="0" cellspacing="0">
+<a><table width="100%" border="0" cellspacing="0">
 <tr class="disregard previous highlight">
 <td class="not to blame"> 
-<a class="not nt auto_invert"> Howdy World </a>
+<a class="not nt auto_invert"> HEADING </a>
+OTHER TEXT
 </td></tr></table></a>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
