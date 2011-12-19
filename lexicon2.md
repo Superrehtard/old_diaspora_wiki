@@ -248,6 +248,8 @@ _A **like button** or **like option** is a feature in communication software suc
 
 - **Linus [Torvalds][T]**
 
+- **Login | Join | [Sign Up][S]**
+
 ## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber & Aaron Swartz <br>
