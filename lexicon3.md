@@ -88,7 +88,11 @@ http://GitRef.org/remotes/#push
 </td></tr></table></a>
 
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder)
+
 - **Rails**
+
+- **Registration | [Sign Up][S] | Join | Login**
+
 - **Ruby** <br />
 _dynamic, reflective, general-purpose **object-oriented programming language** that combines syntax inspired by Perl with Smalltalk-like features.&nbsp; Ruby originated in Japan during the mid-1990s and was first developed and designed by Yukihiro "Matz" Matsumoto.&nbsp; It was influenced primarily by Perl, Smalltalk, Eiffel, and Lisp._ <br />
 <br>
