@@ -253,21 +253,22 @@ _A **like button** or **like option** is a feature in communication software suc
 ## <a name="wiki-m">M</a>
 
 - **Markdown Text Formatting** by John Gruber & Aaron Swartz <br>
-**Markdown** is a lightweight **markup language**. <br>
-• http://daringfireball.net/projects/markdown/basics <br>
-• http://daringfireball.net/projects/markdown/syntax <br>
-• http://daringfireball.net/projects/markdown/dingus <br>
-• http://daringfireball.net/projects/markdown <br>
+_**Introduction**_
+_**Markdown** is a text-to-HTML conversion tool for web writers.&nbsp; **Markdown** allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid **XHTML** (or **HTML**)._ <br>
 <br>
-**Markdown** Text Formatting <br>
-• http://github.github.com/github-flavored-markdown <br>
-• http://wikipedia.org/wiki/Markdown <br>
+_Thus, **Markdown** is two things:&nbsp; (1) a plain text formatting syntax; and (2) a software tool, written in **Perl**, that converts the plain text formatting to **HTML**.&nbsp; See the Syntax page for details pertaining to **Markdown’s** formatting syntax.&nbsp; You can try it out, right now, using the online Dingus._ <br>
 <br>
-**Markdown** text formatting on **Diaspora** <br>
+_The overriding design goal for **Markdown's** formatting syntax is to make it as readable as possible.&nbsp; The idea is that a **Markdown**-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions_ ... ([DaringFireball.net](http://daringfireball.net/projects/markdown/) 2011) <br>
 • https://github.com/diaspora/diaspora/wiki/Message-Formatting <br>
 • http://diasporatest.com/index.php/Markup_to_format_text <br>
 • http://differentcomputers.com/diaspora-text-formatting <br>
+• http://daringfireball.net/projects/markdown/basics <br>
+• http://daringfireball.net/projects/markdown/syntax <br>
+• http://daringfireball.net/projects/markdown/dingus <br>
+• http://github.github.com/github-flavored-markdown <br>
 • http://diasporial.com/tutorials/formatting-text <br>
+• http://daringfireball.net/projects/markdown <br>
+• http://wikipedia.org/wiki/Markdown <br>
 
 - **Markup Language** &nbsp;
 high level (human-readable) computer language. &nbsp;
