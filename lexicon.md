@@ -277,6 +277,7 @@ http://diasporial.com/tutorials/follows-and-followers
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
 - **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
 - **[GitHub.com](https://GitHub.com/diaspora)**
+- **[The Jargon File](http://catb.org/jargon/index.html)**
 - **[PodUpTi.me](http://PodUpTi.me)** ([Pods][P])
 - **[UrbanDictionary.com](http://UrbanDictionary.com)**
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
