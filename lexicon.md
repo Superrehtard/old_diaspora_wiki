@@ -128,7 +128,7 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
 <a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
-<a><table align="right" width="9" height="9"><tr><td> 
+<a><table align="right" width="1" height="1"><tr><td> 
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
 </td></tr></table></a>
 
