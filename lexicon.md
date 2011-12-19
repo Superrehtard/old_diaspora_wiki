@@ -38,8 +38,9 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
     
 [ [Diaspora.Filundschmer.at](https://diaspora.filundschmer.at) ]
 
-<a><table width="100%"><tr><td class="blame">
-### Aspect
+<a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame"><a class="not nt auto_invert"> 
+### Aspect </a>
+
 _An **aspect** would be best described as a list of people, based on their relationship with you. When you have just signed up you have four example aspects, namely **Family, Work, Friends** and **Acquaintances**.&nbsp; These can be found on your left hand.&nbsp; The idea is that you sort your family members and co-workers into their corresponding aspects.&nbsp; This will come in very handy when you start sharing, as you can share a message with a combination of aspects very easily._ ([Diasporial](http://diasporial.com/tutorials/interface-and-aspects))
 
 • http://diasporial.com/tutorials/interface-and-aspects
