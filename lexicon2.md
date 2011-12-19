@@ -62,29 +62,16 @@ web-based hosting service for software development projects that use the Git rev
 
 - **Group | Forum Software** <br />
 a private space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize **meetups** & other events.&nbsp; For now, the technology is not quite in place (late 2011) but many are anxiously anticipating a future populated with **Diaspora Groups**. <br>
-<br>
-• http://wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
-• http://wikipedia.org/wiki/List_of_internet_forums <br>
-• http://wikipedia.org/wiki/Virtual_community <br>
+• http://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
+• http://en.wikipedia.org/wiki/List_of_internet_forums <br>
+• http://en.wikipedia.org/wiki/Community_of_interest <br>
+• http://en.wikipedia.org/wiki/Community_structure <br>
+• http://en.wikipedia.org/wiki/Virtual_community <br>
 • http://en.wikipedia.org/wiki/Google_Groups <br>
 • http://en.wikipedia.org/wiki/Yahoo!_Groups <br>
-• http://wikipedia.org/wiki/Internet_forum <br>
+• http://en.wikipedia.org/wiki/Internet_forum <br>
+• http://en.wikipedia.org/wiki/Community <br>
 • http://forummatrix.org <br>
-
-- **Internet forum** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Internet_forum
-
-- **Comparison of Internet forum software** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Comparison_of_Internet_forum_software
-
-- **Community of interest** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community_of_interest
-
-- **Community structure** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community_structure
-
-- **Community** (Wikipedia.org)    
-    http://wikipedia.org/wiki/Community
 
 - **Diaspora Groups & Forums** (DiasporaForums.org)    
     http://www.diasporaforum.org/forum/showthread.php?380-Diaspora-Groups-amp-Forums
