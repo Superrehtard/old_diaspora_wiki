@@ -229,7 +229,7 @@ Internet **[Protocol](#wiki-p)**
 ![Kickstarter](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kickstarter_logo.png/250px-Kickstarter_logo.png)
 </a></td></tr></table></a>
 
-- **Join | Login | [Sign Up][S]**
+- **Join | Login | Registration | [Sign Up][S]**
 
 - **[Kickstarter.com](http://Kickstarter.com)** <br>
 • http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
@@ -248,7 +248,7 @@ _A **like button** or **like option** is a feature in communication software suc
 
 - **Linus [Torvalds][T]**
 
-- **Login | Join | [Sign Up][S]**
+- **Login | Join | Registration | [Sign Up][S]**
 
 ## <a name="wiki-m">M</a>
 
