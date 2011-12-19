@@ -8,7 +8,7 @@ for us.
 
 ## Channels
 
-We have 3 official IRC channels. Click the link to the join the channel in a new browser 
+We have several IRC channels. Click the link to the join the channel in a new browser 
 window. You can also download and use an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> 
 for OS X or <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
 
