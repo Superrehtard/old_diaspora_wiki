@@ -106,9 +106,13 @@ a private space where a group of friends or colleagues can discuss issues, colla
 <a><table width="100%"><tr><td class="blame">
 indie **computer programmer, coder, developer or dev**. <br />
 The word **hacker** has multiple meanings (good & bad) but in the world of **Diaspora** generally signifies a computer programmer studying & working outside of mainstream or commercial channels.  **Hackers** collaborate with other **hackers** to build **open-source software** projects.
+
+_Hacking might be characterized as 'an appropriate application of ingenuity'.&nbsp; Whether the result is a quick-and-dirty patchwork job or a carefully crafted work of art, you have to admire the cleverness that went into it_ ... ([The Jargon File](http://www.catb.org/jargon/html/meaning-of-hack.html) 2011)
 </td></tr></table></a>
-<br>
+
+- **Hacker**
 • http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
+• http://catb.org/jargon/html/meaning-of-hack.html <br>
 • http://wikipedia.org/wiki/Hacker_(term) <br>
 • http://wikipedia.org/wiki/Programmer <br>
 • http://foldoc.org/programmer <br>
