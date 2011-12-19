@@ -12,7 +12,7 @@ We have 3 official IRC channels. Click the link to the join the channel in a new
 window. You can also download and use an IRC client such as <a href="http://colloquy.info/" target="_blank">Colloquy</a> 
 for OS X or <a href="http://www.mirc.com/" target="_blank">mIRC</a> for Windows.
 
-* <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - **general questions, discussion around Diaspora and help for folks installing it**
+* <a href="http://webchat.freenode.net/?channels=diaspora" target="_blank">#diaspora on irc.freenode.net</a> - **for general questions and discussion around Diaspora and help for folks installing it**
 * <a href="http://webchat.freenode.net/?channels=diaspora-dev" target="_blank">#diaspora-dev on irc.freenode.net</a> - **discussion of the source code and help for new developer contributors**
 * <a href="http://webchat.freenode.net/?channels=diaspora-de" target="_blank">#diaspora-de on irc.freenode.net</a> - **discussion in German.**
 * <a href="http://webchat.freenode.net/?channels=diaspora-es" target=" blank">#diaspora-es on irc.freenode.net</a> - **discussion in Spanish.**
