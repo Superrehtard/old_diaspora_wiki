@@ -165,15 +165,10 @@ _a software that can be installed on a server by someone that has the knowledge 
 private or protected cyber-space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**. <br>
 • http://wikipedia.org/wiki/Internet_forum <br />
 • https://Diasp.org/u/d_group
-</td></tr></table></a>
-
-- huh?
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**
 
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
-
-- huh2?
 
 <a><table width="100%"><tr><td class="blame">
 ### Diasporial
