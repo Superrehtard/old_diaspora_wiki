@@ -129,12 +129,11 @@ _Opposed to other social networking sites, like Facebook and Twitter, we cannot 
 <br>
 _**Registration**_ <br>
 Once you have found yourself a pod, go find the sign up link! It should be right there on the homepage of the pod.&nbsp; Optionally you could click “log in” and register from the login menu ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
-<br>
-• http://diasporial.com/tutorials/signing-up
-• https://JoinDiaspora.com/users/sign_up
-• https://Diasp.eu/users/sign_up
-• https://Diasp.eu/users/sign_up
-• https://Diasp.eu/users/sign_up
+• http://diasporial.com/tutorials/signing-up <br>
+• https://JoinDiaspora.com/users/sign_up <br>
+• https://Diasp.eu/users/sign_up <br>
+• https://Diasp.eu/users/sign_up <br>
+• https://Diasp.eu/users/sign_up <br>
 
 - **[Raphael Sofaer](https://JoinDiaspora.com/u/raphael)** (cofounder) <br />
 
