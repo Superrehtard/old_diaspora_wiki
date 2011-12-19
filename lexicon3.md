@@ -173,7 +173,6 @@ definition of **spore** ... <br />
 - **Linus Torvalds** <br>
 <br>
 _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a Finnish software engineer and **hacker**, best known for having initiated the development of the **open source** Linux kernel. He later became the chief architect of the Linux kernel, and now acts as the project's coordinator. He also created the revision control system_ **[Git](G)** _as well as the Scuba diving log book software Subsurface._ ([Wikipedia](http://en.wikipedia.org/wiki/Linus_Torvalds) 2011) <br>
-<br>
 • http://wikipedia.org/wiki/Linus_Torvalds <br>
 • http://Wikipedia.org/wiki/Git_(software) <br>
 • http://Wikipedia.org/wiki/Open_source <br>
@@ -181,8 +180,7 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 • http://wikipedia.org/wiki/Linux <br>
 
 - **Troll** <br>
-... _someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as an online discussion forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion_ ... ([en.Wikipedia](http://en.wikipedia.org/wiki/Troll_%28Internet%29) 2011) <br>
-<br>
+... _someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as an online discussion forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Troll_%28Internet%29) 2011) <br>
 • http://catb.org/jargon/html/T/troll.html <br>
 • http://en.wikipedia.org/wiki/Troll_(Internet) <br>
 
