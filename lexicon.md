@@ -79,9 +79,11 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
 - **Commit | Fetch | Fork | Pull | Push | [Version Control][V]** <br>
-• http://GitRef.org/basic/#commit
+• http://urbandictionary.com/define.php?term=commit <br>
+• http://GitRef.org/basic/#commit <br>
 
-- **Community**
+- **Community** <br>
+• http://urbandictionary.com/define.php?term=community <br>
 
 - **Computer Programming | [Software Development][S]**
     
