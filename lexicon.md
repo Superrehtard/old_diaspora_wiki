@@ -235,7 +235,7 @@ http://diasporial.com/join-the-team
 • http://wikipedia.org/wiki/Facebook
 
 - **Featured Users** <br>
-**Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left. ([Diasporial](http://diasporial.com/tutorials/follows-and-followers)) <br>
+**Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left. ([Diasporial.com](http://diasporial.com/tutorials/follows-and-followers)) <br>
 http://diasporial.com/tutorials/follows-and-followers
 
 - **Federation** <br>
