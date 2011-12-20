@@ -382,6 +382,7 @@ _(short for 'network etiquette' or 'Internet etiquette') is a set of social conv
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
 
+[diaspora]: ./lexicon#wiki-diaspora
 [dictionary]: ./lexicon#wiki-dictionary
 [glossary]: ./lexicon2#wiki-glossary
 [lexicon]: ./lexicon2#wiki-lexicon
