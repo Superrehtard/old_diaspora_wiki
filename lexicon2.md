@@ -1,5 +1,5 @@
 # Diaspora* Lexicon
-### [Diaspora][D] [Dictionary][D] | [Diaspora][D] [Glossary][G] | [Diaspora][D] [Lexicon][L] | Definition of [Diaspora][D]
+### [Diaspora][D] [Dictionary][D] | [Diaspora][D] [glossary][G] | [Diaspora][D] [Lexicon][L] | Definition of [Diaspora][D]
 <a><table width="100%" border="1"><tr>
 <th class="blame"> [a] </th><th> [b] </th><th class="blame"> [c] </th><th> [d] </th><th class="blame"> [e] </th><th> [f] </th><th class="blame"> [g] </th><th> [h] </th><th class="blame"> [i] </th><th> [j] </th><th class="blame"> [k] </th><th> [l] </th><th class="blame"> [m] </th><th> [n] </th><th class="blame"> [o] </th><th> [p] </th><th class="blame"> [q] </th><th> [r] </th><th class="blame"> [s] </th><th> [t] </th><th class="blame"> [u] </th><th> [v] </th><th class="blame"> [w] </th><th> [x] </th><th class="blame"> [y] </th><th> [z] </th>
 </tr></table></a>
@@ -51,9 +51,7 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com/diaspora <br>
 • https://github.com <br>
 
-<a name="wiki-glossary"> <!-- G l o s s a r y - L i n k --> </a>
-
-- **Glossary** <br>
+- <a name="wiki-glossary"> **Glossary** </a> <br>
 ... _also known as an idioticon, vocabulary, or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.&nbsp; Traditionally, a **glossary** appears at the end of a book and includes terms within that book which are either newly introduced, uncommon or specialized_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Glossary) 2011) <br>
 • http://urbandictionary.com/define.php?term=glossary <br>
 • http://en.wikipedia.org/wiki/Glossary <br>
@@ -231,7 +229,7 @@ Internet **[Protocol](#wiki-p)**
 
 ## <a name="wiki-l">L</a>
 
-- **Lexicon** <br>
+- <a name="wiki-lexicon"> **Lexicon** </a> <br>
 _In linguistics, the **lexicon** (or wordstock) of a language is its vocabulary, including its words and expressions._ ([Wikipedia](http://Wikipedia.org/wiki/Lexicon)) <br>
 • http://urbandictionary.com/define.php?term=lexicon <br>
 • http://Wikipedia.org/wiki/Lexicon <br>
