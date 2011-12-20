@@ -196,8 +196,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #tags
+- **Top:&nbsp; #freesoftware #opensource**
+- **Tags:&nbsp;** #copyleft #free #open #wikipedia
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-philosophy"><table width="100%" border="0"><tr><th class="not to blame"> 
