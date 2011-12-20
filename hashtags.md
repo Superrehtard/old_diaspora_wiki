@@ -267,7 +267,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **Top:&nbsp;  #atheism #atheist #christian** 
-- **Tags:&nbsp;**  #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca
+- **Tags:&nbsp;**  #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #meditation #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca #yoga
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
