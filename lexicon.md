@@ -343,6 +343,7 @@ File synchronization commands in [Git][G]. ([GitRef.org](http://GitRef.org)) <br
 [Y]: ./lexicon3#wiki-y
 [Z]: ./lexicon3#wiki-z
 
+[diaspora]: ./lexicon#wiki-diaspora
 [dictionary]: ./lexicon#wiki-dictionary
 [glossary]: ./lexicon2#wiki-glossary
 [lexicon]: ./lexicon2#wiki-lexicon
