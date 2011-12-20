@@ -52,7 +52,7 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com <br>
 
 - <a name="wiki-glossary">**Glossary**</a> <br>
-_also known as an idioticon, vocabulary, or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.&nbsp; Traditionally, a **glossary** appears at the end of a book and includes terms within that book which are either newly introduced, uncommon or specialized_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Glossary) 2011) <br>
+... _also known as an idioticon, vocabulary, or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms.&nbsp; Traditionally, a **glossary** appears at the end of a book and includes terms within that book which are either newly introduced, uncommon or specialized_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Glossary) 2011) <br>
 • http://urbandictionary.com/define.php?term=glossary <br>
 • http://en.wikipedia.org/wiki/Glossary <br>
 
