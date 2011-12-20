@@ -52,7 +52,8 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com <br>
 
 - **Glossary** <br>
-• http://en.wikipedia.org/wiki/Glossary
+• http://urbandictionary.com/define.php?term=glossary <br>
+• http://en.wikipedia.org/wiki/Glossary <br>
 
 - **Google** <br>
 • **Google groups** <br>
