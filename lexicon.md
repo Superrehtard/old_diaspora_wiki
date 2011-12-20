@@ -143,7 +143,7 @@ _**Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed socia
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
 </td></tr></table></a>
 
-_The word Diaspora is Greek in origin and refers to a scattered or dispersed population._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Diaspora_%28social_network%29))
+_The word Diaspora is Greek in origin and refers to a scattered or dispersed population._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Diaspora_%28social_network%29) 2011)
 
 • http://urbandictionary.com/define.php?term=diaspora <br> 
 • http://en.wikipedia.org/wiki/Diaspora_(social_network) <br>
