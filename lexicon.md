@@ -135,8 +135,7 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
     
 <a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
 <a class="not nt auto_invert">
-### Diaspora\* </a>
-**free, distributed social network**
+### Diaspora\* </a> — free, distributed social network
 
 _**Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed social network that is based upon the free Diaspora software.&nbsp; As of late 2011, there are more than 200 thousand users connected to the biggest server.&nbsp; The project was founded in 2010 by four students at New York University’s Courant Institute of Mathematical Sciences, Ilya Zhitomirskiy, Dan Grippi, Max Salzberg and Raphael Sofaer. Diaspora consists of a group of independently owned pods which interoperate to form the network._
 
@@ -154,8 +153,7 @@ _The word Diaspora is Greek in origin and refers to a scattered or dispersed pop
 
 <a><table width="100%" border="0" cellspacing="0"><tr class="disregard previous highlight"><td class="not to blame">
 <a class="not nt auto_invert"> 
-### Diaspora </a>
-**free open source software**
+### Diaspora </a> — free open source software
 
 _a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease._ ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br>
 <br>
@@ -210,7 +208,7 @@ http://diasporial.com/join-the-team
 
 </td></tr></table></a>
 
-- **Dictionary** <br>
+- <a name="wiki-dictionary"> **Dictionary** </a> <br>
 • http://urbandictionary.com/define.php?term=dictionary <br>
 • http://en.wikipedia.org/wiki/Dictionary <br>
 
