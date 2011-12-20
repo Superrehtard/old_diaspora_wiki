@@ -15,13 +15,11 @@ In thinking about **hashtags**, remember the words of little **<a class="not nt 
 **Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody — except your closest friends — will see your posts.
-
 <a><table width="0" height="0" align="left"><tr><td><a href="#" title=" Girlfriends ">
 ![Girlfriends](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png/81px-New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png)
 </a></td></tr></table></a>
-
-&nbsp; &nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your <br>
-&nbsp; &nbsp; posts, whether they are interested or not.&nbsp; It will stress out the network, and people will start blocking you.
+&nbsp; &nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your posts, <br>
+&nbsp; &nbsp; whether they have any interest or not.&nbsp; It will stress out the network, and people will start blocking you.
  
 &nbsp; &nbsp; **The Moral is:**&nbsp; In the beginning, if your **Diaspora posts contain 3 smart hashtags (plus [#newhere](https://joindiaspora.com/tags/newhere))** <br>
 &nbsp; &nbsp; they will be _just right!_&nbsp; **Goldilocks** will like you & be your friend forever after!
