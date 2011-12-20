@@ -170,7 +170,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
 - **Top:&nbsp;  #canada #canadian #french #german**
-- **Tags:&nbsp;**  #africa #british #dutch #english #hispanic #jewish #libros #portugal #spain #spanish #words #usa
+- **Tags:&nbsp;**  #africa #british #dutch #english #hispanic #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -197,7 +197,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
 - **Top:&nbsp; #freesoftware #opensource**
-- **Tags:&nbsp;** #copyleft #free #open #wikipedia
+- **Tags:&nbsp;** #copyleft #creativecommons #free #open #wikipedia
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-philosophy"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -215,7 +215,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
 - **Top:&nbsp;  #canada #french #travel**
-- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #earth #israel #nyc #newyork #portugal #spain #travel #uk #usa 
+- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #china #earth #israel #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -278,7 +278,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **Top:&nbsp;  #climbing #football #martialarts #soccer**
-- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
+- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #skiing #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-studies"><table width="100%" border="0"><tr><th class="not to blame"> 
