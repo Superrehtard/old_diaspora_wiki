@@ -142,7 +142,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
-- **Top:&nbsp; #popular**
+- **Top:&nbsp; #gaming**
 - **Tags:&nbsp;** #chess #games
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -347,7 +347,8 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **[\#php](https://JoinDiaspora.com/tags/php)** (1500)
 - **[\#computers](https://JoinDiaspora.com/tags/computers)** (1400)
 - **[\#newhere](https://JoinDiaspora.com/tags/newhere)** (1300) Dec2011
-- **[\#teacher](https://JoinDiaspora.com/tags/teagher)** (1200)
+- **[\#gaming](https://JoinDiaspora.com/tags/gaming)** (1200)
+- **[\#teacher](https://JoinDiaspora.com/tags/teacher)** (1200)
 - **[\#guitar](https://JoinDiaspora.com/tags/guitar)** (1100) Dec2011
 - **[\#cooking](https://JoinDiaspora.com/tags/cooking)** (1100)
 - **[\#musik](https://JoinDiaspora.com/tags/musik)** (950)
