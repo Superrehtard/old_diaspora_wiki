@@ -230,8 +230,8 @@ Internet **[Protocol](#wiki-p)**
 
 - **Lexicon** <br>
 _In linguistics, the **lexicon** (or wordstock) of a language is its vocabulary, including its words and expressions._ ([Wikipedia](http://Wikipedia.org/wiki/Lexicon)) <br>
+• http://urbandictionary.com/define.php?term=lexicon <br>
 • http://Wikipedia.org/wiki/Lexicon <br>
-
 
 - **Like | Unlike** &nbsp; ![Heart](http://www.datenote.org/diaspora/heart.png) &nbsp; ![Thumbs Up](http://upload.wikimedia.org/wikipedia/commons/1/13/Facebook_like_thumb.png) <br>
 _A **like button** or **like option** is a feature in communication software such as **social networking** services, **Internet forums** and blogs where the user can express that they like, enjoy or support a certain content.&nbsp; Internet services that feature like buttons usually display the quantity of users that liked each content, and may show a full or partial list of them.&nbsp; This is a quantitative alternative to other methods of expressing reaction to content, like writing a reply text._ ([Wikipedia](http://en.wikipedia.org/wiki/Like_button)) <br>
