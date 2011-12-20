@@ -133,8 +133,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #fashion
+- **Top:&nbsp; #fashion #tattoos**
+- **Tags:&nbsp;** #clothing #hair #makeup #modeling #shoes #textiles
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gaming"><table width="100%" border="0"><tr><th class="not to blame"> 
