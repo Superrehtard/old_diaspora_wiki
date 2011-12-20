@@ -56,7 +56,7 @@ This is a list of **pods** (**Diaspora** servers) run by **Diaspora** community 
 - **Post | Public | Private | Posting**
 
 - **Pre-Alpha | Alpha | Beta | [Software Release Life Cycle][S]** <br>
-• http://Wikipedia.org/wiki/Software_release_life_cycle#Pre-alpha
+• http://en.wikipedia.org/wiki/Software_release_life_cycle#Pre-alpha
 
 - **Programming Language**
 
@@ -67,8 +67,8 @@ _a set of formal rules describing how to transmit data, especially across a netw
 <br>
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br />
 • https://github.com/diaspora/diaspora/wiki/SSL-problems <br />
-• http://Wikipedia.org/wiki/Communications_protocol <br />
-• http://Wikipedia.org/wiki/Internet_Protocol <br />
+• http://en.wikipedia.org/wiki/Communications_protocol <br />
+• http://en.wikipedia.org/wiki/Internet_Protocol <br />
 • http://foldoc.org/protocol <br />
 
 [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
@@ -99,15 +99,15 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 <br>
 _**Ruby** supports multiple programming paradigms, including functional, object oriented, imperative and reflective.&nbsp; It also has a dynamic type system and automatic memory management; it is therefore similar in varying respects to Smalltalk, Python, Perl, Lisp, Dylan, Pike, and CLU._ <br>
 <br>
-_The standard 1.8.7 implementation is written in C, as a single-pass interpreted language._  ([Wikipedia](http://en.wikipedia.org/wiki/Ruby_(programming_language) 2011) <br>
+_The standard 1.8.7 implementation is written in C, as a single-pass interpreted language._  ([Wikipedia.org](http://en.wikipedia.org/wiki/Ruby_(programming_language) 2011) <br>
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://rubyonrails.org <br>
 • http://rubyforge.org <br>
 
 - **Ruby Development** <br>
-• http://wikipedia.org/wiki/Ruby_(programming_language) <br>
-• http://wikipedia.org/wiki/Ruby_on_Rails <br>
+• http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
+• http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://Rubyist.net/~slagell/ruby <br>
 • http://RubyOnRails.org <br>
 • http://Ruby-Forum.com <br>
@@ -144,30 +144,30 @@ _Once you have found yourself a pod, go find the sign up link! It should be righ
 <a><table width="100%"><tr class="disregard previous highlight"><td class="not to blame">
 ### <a class="not nt auto_invert">Software Development</a>
 
-... _(also known as application development, software design, designing software, software application development, enterprise application development, or platform development) is the development of a software product. The term "software development" may be used to refer to the activity of computer programming, which is the process of writing and maintaining the source code, but in a broader sense of the term it includes all that is involved between the conception of the desired software through to the final manifestation of the software, ideally in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Software_development) 2011)
+... _(also known as application development, software design, designing software, software application development, enterprise application development, or platform development) is the development of a software product. The term "software development" may be used to refer to the activity of computer programming, which is the process of writing and maintaining the source code, but in a broader sense of the term it includes all that is involved between the conception of the desired software through to the final manifestation of the software, ideally in a planned and structured process. Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Software_development) 2011)
 
 </td></tr><tr class="disregard previous highlight"><td>
 
 ### <a class="not nt auto_invert">Computer Programming</a>
-... _Computer programming (often shortened to programming or coding) is the process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages. The purpose of programming is to create a program that performs specific operations or exhibits a certain desired behavior. The process of writing source code often requires expertise in many different subjects, including knowledge of the application domain, specialized algorithms and formal logic_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Computer_programming) 2011)
+... _Computer programming (often shortened to programming or coding) is the process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages. The purpose of programming is to create a program that performs specific operations or exhibits a certain desired behavior. The process of writing source code often requires expertise in many different subjects, including knowledge of the application domain, specialized algorithms and formal logic_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Computer_programming) 2011)
 </td></tr></table></a>
 
 - **Software Development | Computer Programming** <br>
-• http://Wikipedia.org/wiki/Software_development_methodology <br>
-• http://Wikipedia.org/wiki/Software_development_process <br>
-• http://Wikipedia.org/wiki/Computer_programming <br>
-• http://Wikipedia.org/wiki/Software_development <br>
-• http://Wikipedia.org/wiki/Open-source_software <br>
-• http://Wikipedia.org/wiki/Programming_paradigm <br>
-• http://Wikipedia.org/wiki/Computer_software <br>
-• http://Wikipedia.org/wiki/Pivotal_Tracker <br>
-• http://Wikipedia.org/wiki/Git_(software) <br>
-• http://Wikipedia.org/wiki/Open_source <br>
-• http://Wikipedia.org/wiki/Github <br>
+• http://en.wikipedia.org/wiki/Software_development_methodology <br>
+• http://en.wikipedia.org/wiki/Software_development_process <br>
+• http://en.wikipedia.org/wiki/Computer_programming <br>
+• http://en.wikipedia.org/wiki/Software_development <br>
+• http://en.wikipedia.org/wiki/Open-source_software <br>
+• http://en.wikipedia.org/wiki/Programming_paradigm <br>
+• http://en.wikipedia.org/wiki/Computer_software <br>
+• http://en.wikipedia.org/wiki/Pivotal_Tracker <br>
+• http://en.wikipedia.org/wiki/Git_(software) <br>
+• http://en.wikipedia.org/wiki/Open_source <br>
+• http://en.wikipedia.org/wiki/Github <br>
 
 - **Software Release Life Cycle | Pre-Alpha | Alpha | Beta** <br>
-_refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
-• http://Wikipedia.org/wiki/Software_release_life_cycle
+_refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
+• http://en.wikipedia.org/wiki/Software_release_life_cycle
 
 - **Spain** [Pods][P]
 
@@ -188,15 +188,15 @@ definition of **spore** ... <br />
 
 - **Linus Torvalds** <br>
 <br>
-_**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a Finnish software engineer and **hacker**, best known for having initiated the development of the **open source** Linux kernel. He later became the chief architect of the Linux kernel, and now acts as the project's coordinator. He also created the revision control system_ **[Git](G)** _as well as the Scuba diving log book software Subsurface._ ([Wikipedia](http://en.wikipedia.org/wiki/Linus_Torvalds) 2011) <br>
-• http://wikipedia.org/wiki/Linus_Torvalds <br>
-• http://Wikipedia.org/wiki/Git_(software) <br>
-• http://Wikipedia.org/wiki/Open_source <br>
-• http://Wikipedia.org/wiki/Github <br>
-• http://wikipedia.org/wiki/Linux <br>
+_**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a Finnish software engineer and **hacker**, best known for having initiated the development of the **open source** Linux kernel. He later became the chief architect of the Linux kernel, and now acts as the project's coordinator. He also created the revision control system_ **[Git](G)** _as well as the Scuba diving log book software Subsurface._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Linus_Torvalds) 2011) <br>
+• http://en.wikipedia.org/wiki/Linus_Torvalds <br>
+• http://en.wikipedia.org/wiki/Git_(software) <br>
+• http://en.wikipedia.org/wiki/Open_source <br>
+• http://en.wikipedia.org/wiki/Github <br>
+• http://en.wikipedia.org/wiki/Linux <br>
 
 - **Troll** <br>
-... _someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as an online discussion forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Troll_%28Internet%29) 2011) <br>
+... _someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as an online discussion forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Troll_%28Internet%29) 2011) <br>
 • http://catb.org/jargon/html/T/troll.html <br>
 • http://en.wikipedia.org/wiki/Troll_(Internet) <br>
 
@@ -222,12 +222,12 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 ## <a name="wiki-v">V</a>
 
 - **Version Control | Commit | Fetch | Fork | Pull | Push** <br>
-_Revision control, also known as version control and source control (and an aspect of software configuration management or SCM), is the management of changes to documents, programs, and other information stored as computer files.  It is most commonly used in software development, where a team of people may change the same files.  Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision".  For example, an initial set of files is "revision 1".  When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change.  Revisions can be compared, restored, and with some types of files, merged_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Revision_control) 2011)<br>
+_Revision control, also known as version control and source control (and an aspect of software configuration management or SCM), is the management of changes to documents, programs, and other information stored as computer files.  It is most commonly used in software development, where a team of people may change the same files.  Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision".  For example, an initial set of files is "revision 1".  When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change.  Revisions can be compared, restored, and with some types of files, merged_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Revision_control) 2011)<br>
 <br>
-• http://Wikipedia.org/wiki/Distributed_revision_control <br>
+• http://en.wikipedia.org/wiki/Distributed_revision_control <br>
 • https://www.PivotalTracker.com/projects/61641/ <br>
-• http://Wikipedia.org/wiki/Software_versioning <br>
-• http://Wikipedia.org/wiki/Revision_control <br>
+• http://en.wikipedia.org/wiki/Software_versioning <br>
+• http://en.wikipedia.org/wiki/Revision_control <br>
 • https://GitHub.com/diaspora/ <br>
 • https://GitHub.com <br>
 • http://GitRef.org <br>
@@ -240,49 +240,49 @@ _Revision control, also known as version control and source control (and an aspe
 <a><table width="100%"><tr class="disregard previous highlight"><td class="not to blame" colspan="2">
 
 <a><table align="right" width="9" height="9"><tr><td>
-![Wikipedia](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
+![Wikipedia.org](http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png)
 </td></tr></table></a>
 
-### <a class="not nt auto_invert">Wikipedia</a>
+### <a class="class_ref13 nt">Wikipedia.org</a>
 
 ... _multilingual, web-based, free-content encyclopedia project based on an openly editable model. The name "Wikipedia" is a portmanteau of the words wiki (a technology for creating collaborative websites, from the Hawaiian word wiki, meaning "quick") and encyclopedia. Wikipedia's articles provide links to guide the user to related pages with additional information._ <br>
 <br>
-_**Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose_ ... ([Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:About) 2011) <br>
+_**Wikipedia** is written collaboratively by largely anonymous Internet volunteers who write without pay. Anyone with Internet access can write and make changes to Wikipedia articles (except in certain cases where editing is restricted to prevent disruption or vandalism). Users can contribute anonymously, under a pseudonym, or with their real identity, if they choose_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Wikipedia:About) 2011) <br>
 </td></tr><tr><td width="59%">
-• http://Wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
-• http://Wikipedia.org/wiki/Federation_(information_technology) <br> 
-• http://Wikipedia.org/wiki/List_of_social_networking_websites <br>
-• http://Wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
-• http://Wikipedia.org/wiki/Hypertext_Transfer_Protocol <br>
-• http://Wikipedia.org/wiki/Ruby_(programming_language) <br>
-• http://Wikipedia.org/wiki/Diaspora_(social_network) <br>
-• http://Wikipedia.org/wiki/Communications_protocol <br>
-• http://Wikipedia.org/wiki/List_of_internet_forums <br>
-• http://Wikipedia.org/wiki/Tag_(metadata)#Hashtags <br> 
-• http://Wikipedia.org/wiki/Community_of_interest <br>
-• http://Wikipedia.org/wiki/Diaspora_(software) <br>
-• http://Wikipedia.org/wiki/Virtual_community <br>
-• http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
-• http://Wikipedia.org/wiki/Internet_Protocol <br> 
-• http://Wikipedia.org/wiki/Internet_forum <br>
+• http://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software <br>
+• http://en.wikipedia.org/wiki/Federation_(information_technology) <br> 
+• http://en.wikipedia.org/wiki/List_of_social_networking_websites <br>
+• http://en.wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
+• http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol <br>
+• http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
+• http://en.wikipedia.org/wiki/Diaspora_(social_network) <br>
+• http://en.wikipedia.org/wiki/Communications_protocol <br>
+• http://en.wikipedia.org/wiki/List_of_internet_forums <br>
+• http://en.wikipedia.org/wiki/Tag_(metadata)#Hashtags <br> 
+• http://en.wikipedia.org/wiki/Community_of_interest <br>
+• http://en.wikipedia.org/wiki/Diaspora_(software) <br>
+• http://en.wikipedia.org/wiki/Virtual_community <br>
+• http://en.wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
+• http://en.wikipedia.org/wiki/Internet_Protocol <br> 
+• http://en.wikipedia.org/wiki/Internet_forum <br>
 </td><td width="39%">
 
-• http://Wikipedia.org/wiki/Linus_Torvalds <br>
-• http://Wikipedia.org/wiki/Google_Groups <br>
-• http://Wikipedia.org/wiki/Yahoo!_Groups <br>
-• http://Wikipedia.org/wiki/Ruby_on_Rails <br> 
-• http://Wikipedia.org/wiki/Hacker_(term) <br>
-• http://Wikipedia.org/wiki/Software_bug <br> 
-• http://Wikipedia.org/wiki/Like_button <br>
-• http://Wikipedia.org/wiki/HTTP_Secure <br>
-• http://Wikipedia.org/wiki/Handshaking <br>
-• http://Wikipedia.org/wiki/Netiquette <br> 
-• http://Wikipedia.org/wiki/Programmer <br> 
-• http://Wikipedia.org/wiki/Community <br>
-• http://Wikipedia.org/wiki/Markdown <br>
-• http://Wikipedia.org/wiki/Facebook <br>
-• http://Wikipedia.org/wiki/GitHub <br>
-• http://wikipedia.org/wiki/Linux <br>
+• http://en.wikipedia.org/wiki/Linus_Torvalds <br>
+• http://en.wikipedia.org/wiki/Google_Groups <br>
+• http://en.wikipedia.org/wiki/Yahoo!_Groups <br>
+• http://en.wikipedia.org/wiki/Ruby_on_Rails <br> 
+• http://en.wikipedia.org/wiki/Hacker_(term) <br>
+• http://en.wikipedia.org/wiki/Software_bug <br> 
+• http://en.wikipedia.org/wiki/Like_button <br>
+• http://en.wikipedia.org/wiki/HTTP_Secure <br>
+• http://en.wikipedia.org/wiki/Handshaking <br>
+• http://en.wikipedia.org/wiki/Netiquette <br> 
+• http://en.wikipedia.org/wiki/Programmer <br> 
+• http://en.wikipedia.org/wiki/Community <br>
+• http://en.wikipedia.org/wiki/Markdown <br>
+• http://en.wikipedia.org/wiki/Facebook <br>
+• http://en.wikipedia.org/wiki/GitHub <br>
+• http://en.wikipedia.org/wiki/Linux <br>
 
 </td></tr></table></a>
 
@@ -298,7 +298,7 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 </td></tr></table>
 
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br>
-• http://Wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
+• http://en.wikipedia.org/wiki/Ilya_Zhitomirskiy <br>
 
 <!-- - - - - - - - - - FOOTER - - - - - - - - - - - - -->
 <a><table width="100%" border="1"><tr>
@@ -322,7 +322,7 @@ _**Wikipedia** is written collaboratively by largely anonymous Internet voluntee
 - **[UrbanDictionary.com](http://UrbanDictionary.com)**
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
 - **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images)
-- **[Wikipedia.org](http://Wikipedia.org)**
+- **[Wikipedia.org](http://en.wikipedia.org)**
 - **[Wiktionary.org](http://Wiktionary.org)**
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)
 
