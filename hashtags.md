@@ -143,7 +143,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **Top:&nbsp; #gaming**
-- **Tags:&nbsp;** #chess #games
+- **Tags:&nbsp;** #chess #games #gambling #portal #poker
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
