@@ -209,6 +209,8 @@ http://diasporial.com/join-the-team
 
 </td></tr></table></a>
 
+- **Dictionary**
+
 - **Diversity**
 
 - **Donate | Contribute | Volunteer** <br>
