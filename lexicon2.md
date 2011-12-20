@@ -36,7 +36,7 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
 - **Git | GitHub** <br>
 web-based hosting service for software development projects that use the Git revision control system. GitHub offers both commercial plans and free accounts for open source projects.&nbsp; According to the Git User's Survey in 2009, GitHub is the most popular Git hosting site. <br>
 • https://GitHub.com/diaspora/diaspora <br>
-• http://Wikipedia.org/wiki/GitHub <br>
+• http://en.wikipedia.org/wiki/GitHub <br>
 • https://GitHub.com <br />
 • http://GitRef.org
 <br>
@@ -61,7 +61,7 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com/diaspora/diaspora/wiki/How%20to%20use%20the%20Mailing%20Lists%20%28Quick%20Intro%29 <br>
 • http://groups.google.com/group/diaspora-discuss <br>
 • http://groups.google.com/group/diaspora-dev <br>
-• http://wikipedia.org/wiki/Google_Groups <br>
+• http://en.wikipedia.org/wiki/Google_Groups <br>
 
 - **[Daniel Grippi](https://JoinDiaspora.com/u/daniel)** (cofounder) <br />
 
@@ -103,10 +103,10 @@ _**Hacking** might be characterized as 'an appropriate application of ingenuity'
 </td></tr></table></a>
 
 - **Hacker** <br>
-• http://wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
+• http://en.wikipedia.org/wiki/Hacker_(programmer_subculture) <br>
 • http://catb.org/jargon/html/meaning-of-hack.html <br>
-• http://wikipedia.org/wiki/Hacker_(term) <br>
-• http://wikipedia.org/wiki/Programmer <br>
+• http://en.wikipedia.org/wiki/Hacker_(term) <br>
+• http://en.wikipedia.org/wiki/Programmer <br>
 • http://foldoc.org/programmer <br>
 • http://foldoc.org/hacker <br>
     
@@ -171,7 +171,7 @@ _**Diaspora** is a social network created by people like you.&nbsp; In 2010, a f
 
 - **History of Diaspora** <br>
 • http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
-• http://Wikipedia.org/wiki/Diaspora_%28social_network%29#History <br>
+• http://en.wikipedia.org/wiki/Diaspora_%28social_network%29#History <br>
 • http://whatIsDiaspora.com <br>
 
 - **HTTP | HTTP Secure**    
@@ -193,7 +193,7 @@ _**Diaspora** is a social network created by people like you.&nbsp; In 2010, a f
 </td></tr></table>
 
 - **[Ilya Zhitomirskiy](https://JoinDiaspora.com/u/ilya) (1989-2011)** (cofounder) <br>
-http://Wikipedia.org/wiki/Ilya_Zhitomirskiy
+http://en.wikipedia.org/wiki/Ilya_Zhitomirskiy
 
 -  **IP | IPv4 | IPv6** <br />
 Internet **[Protocol](#wiki-p)**
@@ -225,18 +225,18 @@ Internet **[Protocol](#wiki-p)**
 
 - **[Kickstarter.com](http://Kickstarter.com)** <br>
 • http://Kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr <br>
-• http://Wikipedia.org/wiki/Kickstarter <br>
+• http://en.wikipedia.org/wiki/Kickstarter <br>
 
 ## <a name="wiki-l">L</a>
 
 - <a name="wiki-lexicon"> **Lexicon** </a> <br>
-_In linguistics, the **lexicon** (or wordstock) of a language is its vocabulary, including its words and expressions._ ([Wikipedia](http://Wikipedia.org/wiki/Lexicon)) <br>
+_In linguistics, the **lexicon** (or wordstock) of a language is its vocabulary, including its words and expressions._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Lexicon)) <br>
 • http://urbandictionary.com/define.php?term=lexicon <br>
-• http://Wikipedia.org/wiki/Lexicon <br>
+• http://en.wikipedia.org/wiki/Lexicon <br>
 
 - **Like | Unlike** &nbsp; ![Heart](http://www.datenote.org/diaspora/heart.png) &nbsp; ![Thumbs Up](http://upload.wikimedia.org/wikipedia/commons/1/13/Facebook_like_thumb.png) <br>
-_A **like button** or **like option** is a feature in communication software such as **social networking** services, **Internet forums** and blogs where the user can express that they like, enjoy or support a certain content.&nbsp; Internet services that feature like buttons usually display the quantity of users that liked each content, and may show a full or partial list of them.&nbsp; This is a quantitative alternative to other methods of expressing reaction to content, like writing a reply text._ ([Wikipedia](http://en.wikipedia.org/wiki/Like_button)) <br>
-• http://Wikipedia.org/wiki/Like_button
+_A **like button** or **like option** is a feature in communication software such as **social networking** services, **Internet forums** and blogs where the user can express that they like, enjoy or support a certain content.&nbsp; Internet services that feature like buttons usually display the quantity of users that liked each content, and may show a full or partial list of them.&nbsp; This is a quantitative alternative to other methods of expressing reaction to content, like writing a reply text._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Like_button)) <br>
+• http://en.wikipedia.org/wiki/Like_button
 
 - **Linus [Torvalds][T]**
 
@@ -260,7 +260,7 @@ _The overriding design goal for **Markdown's** formatting syntax is to make it a
 • http://github.github.com/github-flavored-markdown <br>
 • http://diasporial.com/tutorials/formatting-text <br>
 • http://daringfireball.net/projects/markdown <br>
-• http://wikipedia.org/wiki/Markdown <br>
+• http://en.wikipedia.org/wiki/Markdown <br>
 
 - **Markup Language** &nbsp;
 high level (human-readable) computer language. &nbsp;
@@ -292,9 +292,9 @@ a private **message**, shared with one or multiple followers.&nbsp; Please note 
 [ [Nesc.io](https://Nesc.io) **|** [Social.Mathaba.net](https://Social.Mathaba.net) **|** [Social.SeaWolfSanctuary.com](http://social.seawolfsanctuary.com) **|** [Pod.Orkz.net](https://Pod.Orkz.net) ]
 
 - **Netiquette** <br />
-_(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community._ ([Wikipedia](http://wikipedia.org/wiki/Netiquette)) <br>
+_(short for 'network etiquette' or 'Internet etiquette') is a set of social conventions that facilitate interaction over networks, ranging from Usenet and mailing lists to blogs and forums.&nbsp; These rules were described in IETF RFC 1855.&nbsp; However, like many Internet phenomena, the concept and its application remain in a state of flux, and vary from community to community._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Netiquette)) <br>
 • http://urbandictionary.com/define.php?term=netiquette <br>
-• http://wikipedia.org/wiki/Netiquette <br>
+• http://en.wikipedia.org/wiki/Netiquette <br>
 
 - **Network**
 
@@ -327,7 +327,7 @@ _(short for 'network etiquette' or 'Internet etiquette') is a set of social conv
 - **[UrbanDictionary.com](http://UrbanDictionary.com)**
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
 - **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images)
-- **[Wikipedia.org](http://Wikipedia.org)**
+- **[Wikipedia.org](http://en.wikipedia.org)**
 - **[Wiktionary.org](http://Wiktionary.org)**
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)
 
