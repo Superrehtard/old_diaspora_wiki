@@ -51,6 +51,9 @@ web-based hosting service for software development projects that use the Git rev
 • https://github.com/diaspora <br>
 • https://github.com <br>
 
+- **Glossary** <br>
+• http://en.wikipedia.org/wiki/Glossary
+
 - **Google** <br>
 • **Google groups** <br>
 • https://github.com/diaspora/diaspora/wiki/How%20to%20use%20the%20Mailing%20Lists%20%28Quick%20Intro%29 <br>
