@@ -244,6 +244,8 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://foldoc.org/federation <br>
 
 - **Fetch | Fork | Commit | Pull | Push | [Version Control][V]** <br>
+
+File synchonization commands in <br>
 File synchonization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • http://urbandictionary.com/define.php?term=fetch <br>
 • http://urbandictionary.com/define.php?term=fork <br>
