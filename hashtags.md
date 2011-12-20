@@ -79,8 +79,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #popular**
-- **Tags:&nbsp;** #tags
+- **Top:&nbsp; #community**
+- **Tags:&nbsp;** #discussion
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
