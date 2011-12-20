@@ -171,15 +171,6 @@ private or protected cyber-space where a group of friends or colleagues can disc
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**
 
-
-- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]** <br>
-File synchonization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
-• http://urbandictionary.com/define.php?term=fetch <br>
-• http://urbandictionary.com/define.php?term=fork <br>
-• http://GitRef.org/remotes/#fetch <br>
-
-
-
 - **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
 
 <a><table width="100%"><tr><td class="blame">
@@ -253,7 +244,7 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://foldoc.org/federation <br>
 
 - **Fetch | Fork | Commit | Pull | Push | [Version Control][V]** <br>
-File synchonization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
+File synchronization commands in [Git][G].
 • http://urbandictionary.com/define.php?term=fetch <br>
 • http://urbandictionary.com/define.php?term=fork <br>
 • http://GitRef.org/remotes/#fetch <br>
