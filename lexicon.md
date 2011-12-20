@@ -208,6 +208,7 @@ http://diasporial.com/join-the-team
 </td></tr></table></a>
 
 - <a name="wiki-dictionary"> **Dictionary** </a> <br>
+... _(also called a wordbook, lexicon or vocabulary) is a collection of words in one or more specific languages, often listed alphabetically, with usage information, definitions, etymologies, phonetics, pronunciations, and other information; or a book of words in one language with their equivalents in another, also known as a lexicon_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Dictionary) 2011) <br> 
 • http://urbandictionary.com/define.php?term=dictionary <br>
 • http://en.wikipedia.org/wiki/Dictionary <br>
 
