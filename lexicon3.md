@@ -73,12 +73,11 @@ _a set of formal rules describing how to transmit data, especially across a netw
 
 [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
 
-- **Pull | Commit | Fetch | Fork | Push | [Version Control][V]** <br>
+- **Pull | Push | Commit | Fetch | Fork |** **[Version Control][V]** <br>
+File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
+• http://urbandictionary.com/define.php?term=push <br>
 • http://urbandictionary.com/define.php?term=pull <br>
 • http://GitRef.org/remotes/#fetch <br>
-
-- **Push | Commit | Fetch | Fork | Pull | [Version Control][V]** <br>
-• http://urbandictionary.com/define.php?term=push <br>
 • http://GitRef.org/remotes/#push <br>
 
 <!-- - - - - - - - - - R - - - - - - - - - - - - -->
