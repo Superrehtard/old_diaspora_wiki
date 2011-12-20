@@ -244,7 +244,7 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://foldoc.org/federation <br>
 
 - **Fetch | Fork | Commit | Pull | Push | [Version Control][V]** <br>
-File synchronization commands in [Git][G].
+File synchronization commands in [Git][G]. <br>
 • http://urbandictionary.com/define.php?term=fetch <br>
 • http://urbandictionary.com/define.php?term=fork <br>
 • http://GitRef.org/remotes/#fetch <br>
