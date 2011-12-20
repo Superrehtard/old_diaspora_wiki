@@ -88,8 +88,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #cooking**
-- **Tags:&nbsp;** #baking #beer #cheese #homebrew #homebrewer #vegan #vegetarian #wine
+- **Top:&nbsp; #apple #cooking**
+- **Tags:&nbsp;** #baking #beer #cheese #coffee #homebrew #homebrewer #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -161,7 +161,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **Top:&nbsp; #nature**
-- **Tags:&nbsp;** #climate #eco #lifehacker #fairtrade #sustainability
+- **Tags:&nbsp;** #bicycles #climate #cycling #eco #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -278,7 +278,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **Top:&nbsp;  #climbing #football #martialarts #soccer**
-- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
+- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-studies"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -305,7 +305,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
 - **Top:&nbsp; #android #apple #bikes #cars #computers #motorcycles**
-- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #motorbikes #porsche 
+- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="100%" border="0"><tr><th class="not to blame"> 
