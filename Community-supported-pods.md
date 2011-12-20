@@ -242,8 +242,8 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Updated: daily
     * Maintained by : Wouter Timmermans
         * diaspora : protowouter@ottospora.nl
-    * Operating system: Ubuntu 11.04
-    * Comments: Running in production mode with nginx as proxy/frontend
+    * Operating system: Ubuntu 11.10
+    * Comments: Running in production mode with nginx + phusion passenger
 
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
@@ -253,7 +253,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
         * IRC: [[#diaspora-de@freenode|http://webchat.freenode.net/?channels=diaspora-de]]
         * Twitter: [[@geraspora|http://twitter.com/geraspora]]
     * Operating system: Ubuntu
-    * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but database we'll reset database whenever needed.
+    * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but we'll reset database whenever needed.
 
 
 * [[https://poddery.com]] [[https://poddery.com/apple-touch-icon.png|height=30px]]
