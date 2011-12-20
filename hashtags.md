@@ -169,8 +169,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
-- **Top:&nbsp;  #french**
-- **Tags:&nbsp;**   #english #libros #words #usa
+- **Top:&nbsp;  #canada #canadian #french #german**
+- **Tags:&nbsp;**  #africa #british #dutch #english #hispanic #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -214,8 +214,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
-- **Top:&nbsp;  #french #travel**
-- **Tags:&nbsp;**  #america #nyc #beach #brasil #brazil #canada earth #israel #travel #uk #usa 
+- **Top:&nbsp;  #canada #french #travel**
+- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #earth #israel #nyc #newyork #portugal #spain #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
