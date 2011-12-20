@@ -38,7 +38,7 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **Top Tags:&nbsp; #music #movies #art #linux #android #travel #science #diaspora #books #apple #film #french #opensource #philosophy #php #computers #newhere #teacher #guitar #cooking #musik**
+- **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) [#movies](https://joindiaspora.com/tags/movies) [#art](https://joindiaspora.com/tags/art) [#linux](https://joindiaspora.com/tags/linux) [#android](https://joindiaspora.com/tags/android) [#travel](https://joindiaspora.com/tags/travel) [#science](https://joindiaspora.com/tags/science) [#diaspora](https://joindiaspora.com/tags/diaspora) [#books](https://joindiaspora.com/tags/books) [#apple](https://joindiaspora.com/tags/apple) [#film](https://joindiaspora.com/tags/film) [#french](https://joindiaspora.com/tags/french) [#opensource](https://joindiaspora.com/tags/opensource) [#philosophy](https://joindiaspora.com/tags/philosophy) [#php](https://joindiaspora.com/tags/php) [#computers](https://joindiaspora.com/tags/computers) [#newhere](https://joindiaspora.com/tags/newhere) [#gaming](https://joindiaspora.com/tags/gaming) [#teacher](https://joindiaspora.com/tags/teacher) [#guitar](https://joindiaspora.com/tags/guitar) [#cooking](https://joindiaspora.com/tags/cooking) [#musik](https://joindiaspora.com/tags/musik)**
 
 <a name="wiki-top"><table width="100%" border=""><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
