@@ -243,7 +243,7 @@ http://diasporial.com/tutorials/follows-and-followers
 • http://wikipedia.org/wiki/Federation_(information_technology) <br>
 • http://foldoc.org/federation <br>
 
-- **Fetch | Fork | Commit | Pull | Push | [Version Control][V]** <br>
+- **Fetch | Fork | Commit | Pull | Push |** **[Version Control][V]** <br>
 File synchronization commands in [Git][G]. <br>
 • http://urbandictionary.com/define.php?term=fetch <br>
 • http://urbandictionary.com/define.php?term=fork <br>
