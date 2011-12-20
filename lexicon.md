@@ -209,9 +209,13 @@ http://diasporial.com/join-the-team
 
 </td></tr></table></a>
 
-- **Dictionary**
+- **Dictionary** <br>
+• http://urbandictionary.com/define.php?term=dictionary <br>
+• http://en.wikipedia.org/wiki/Dictionary <br>
 
-- **Diversity**
+- **Diversity** <br>
+• http://urbandictionary.com/define.php?term=diversity <br>
+• http://en.wikipedia.org/wiki/Diversity <br>
 
 - **Donate | Contribute | Volunteer** <br>
 • see **[Contribute][C]**
