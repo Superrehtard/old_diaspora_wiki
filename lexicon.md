@@ -32,7 +32,7 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
     https://github.com/diaspora/diaspora/wiki/Android-app-project    
     
 - **Alpha | Pre-Alpha | Beta | [Software Release Life Cycle][S]** <br>
-• http://Wikipedia.org/wiki/Software_release_life_cycle#Alpha
+• http://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha
     
 - **Austria** [Pods][P] <br />
     
@@ -57,7 +57,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 </td></tr></table></a>
     
 - **Beta | Pre-Alpha | Alpha | [Software Release Life Cycle][S]** <br>
-• http://Wikipedia.org/wiki/Software_release_life_cycle#Beta
+• http://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
     
 - **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**    
     
@@ -67,7 +67,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
 • https://github.com/diaspora/diaspora/wiki/Known-Issues-and-Feature-Requests <br />
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br />
 • https://github.com/diaspora/diaspora/issues <br />
-• http://wikipedia.org/wiki/Software_bug <br />
+• http://en.wikipedia.org/wiki/Software_bug <br />
 • http://foldoc.org/bug <br />
     
 ## <a name="wiki-c">C</a>    
@@ -120,7 +120,7 @@ File synchronization commands in [Git][G]. ([GitRef.org](http://GitRef.org)) <br
 - **Dev**
 abbreviation for **developer, computer programmer, coder or hacker**. <br />
 • http://en.wikipedia.org/wiki/Hacker_(programmer_subculture) <br />
-• http://wikipedia.org/wiki/Programmer <br />
+• http://en.wikipedia.org/wiki/Programmer <br />
 • http://foldoc.org/programmer <br />
 • http://foldoc.org/hacker <br />
 <br /> 
@@ -143,10 +143,10 @@ _**Diaspora** (styled DIASPORA\*) is a non-profit, user-owned, distributed socia
 ![Diaspora*](https://twimg0-a.akamaihd.net/profile_images/1123913741/diaspora_logo.png)
 </td></tr></table></a>
 
-_The word Diaspora is Greek in origin and refers to a scattered or dispersed population._ ([Wikipedia](http://wikipedia.org/wiki/Diaspora_%28social_network%29))
+_The word Diaspora is Greek in origin and refers to a scattered or dispersed population._ ([Wikipedia.org](http://en.wikipedia.org/wiki/Diaspora_%28social_network%29))
 
 • http://urbandictionary.com/define.php?term=diaspora <br> 
-• http://wikipedia.org/wiki/Diaspora_(social_network) <br>
+• http://en.wikipedia.org/wiki/Diaspora_(social_network) <br>
 • http://diasporial.com/whats-diaspora <br>
 • http://whatIsDiaspora.com
 </td></tr></table></a>
@@ -157,14 +157,14 @@ _The word Diaspora is Greek in origin and refers to a scattered or dispersed pop
 _a software that can be installed on a server by someone that has the knowledge to do so.&nbsp; They in turn can allow people to register for an account on what they call their **pod**.&nbsp; There are many of these pods already established across the internet with many users.&nbsp; You register for a free account on a pod and you can seamlessly connect with other users on other pods the same as if you were making someone a friend on other social networking sites.&nbsp; No matter which pod you are on, you are all using **Diaspora**.&nbsp; If you have the technical skills, you can even set up your own pod for your family and or friends.&nbsp; They can in turn connect to family and friends on your pod or even other pods with ease._ ([WhatIsDiaspora.com](http://whatIsDiaspora.com)) <br>
 <br>
 • http://urbandictionary.com/define.php?term=diaspora <br> 
-• http://wikipedia.org/wiki/Diaspora_(software) <br>
+• http://en.wikipedia.org/wiki/Diaspora_(software) <br>
 • http://diasporial.com/whats-diaspora <br>
 • http://whatIsDiaspora.com
 </td></tr></table></a>
 
 - **Diaspora Group | Forum** <br>
 private or protected cyber-space where a group of friends or colleagues can discuss issues, collaborate on projects, share links & images, and organize [meetups][M] & other events.&nbsp; For now, the technology is not quite in place, but many are anticipating a future populated with **Diaspora Groups**. <br>
-• http://wikipedia.org/wiki/Internet_forum <br />
+• http://en.wikipedia.org/wiki/Internet_forum <br />
 • https://Diasp.org/u/d_group
 
 - **[DiasporaForum.org](http://DiasporaFoundation.org)**
@@ -230,7 +230,7 @@ http://diasporial.com/join-the-team
     
 - **Facebook.com** <br />
 • http://www.urbandictionary.com/define.php?term=facebook <br />
-• http://wikipedia.org/wiki/Facebook
+• http://en.wikipedia.org/wiki/Facebook
 
 - **Featured Users** <br>
 **Diaspora** has the coolest strangers short listed for you on the **Featured Users** page, which you can access by clicking the **Contacts** icon in the header and browsing the menu on the left. ([Diasporial.com](http://diasporial.com/tutorials/follows-and-followers)) <br>
@@ -238,7 +238,7 @@ http://diasporial.com/tutorials/follows-and-followers
 
 - **Federation** <br>
 • https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol <br>
-• http://wikipedia.org/wiki/Federation_(information_technology) <br>
+• http://en.wikipedia.org/wiki/Federation_(information_technology) <br>
 • http://foldoc.org/federation <br>
 
 - **Fetch | Fork | Commit | Pull | Push |** **[Version Control][V]** <br>
@@ -288,7 +288,7 @@ File synchronization commands in [Git][G]. ([GitRef.org](http://GitRef.org)) <br
 - **[UrbanDictionary.com](http://UrbanDictionary.com)**
 - **[WhatIsDiaspora.com](http://WhatIsDiaspora.com)**
 - **[Commons.WikiMedia.org](http://Commons.WikiMedia.org)** ([Open Content][O] images)
-- **[Wikipedia.org](http://Wikipedia.org)**
+- **[Wikipedia.org](http://en.wikipedia.org)**
 - **[Wiktionary.org](http://Wiktionary.org)**
 - [@RichardTE](http://Diasp.org/u/richardte) & [@D_Group](http://Diasp.org/u/d_group)
 
