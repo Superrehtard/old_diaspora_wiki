@@ -62,7 +62,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp; ##cats #nature**
-- **Tags:&nbsp;** \#birds #dogs #fish #fishing #horses
+- **Tags:&nbsp;** #birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -161,7 +161,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **Top:&nbsp; #nature**
-- **Tags:&nbsp;** #lifehacker #fairtrade #sustainability
+- **Tags:&nbsp;** #climate #eco #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
