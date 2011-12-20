@@ -87,7 +87,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp; #apple #cooking**
-- **Tags:&nbsp;** #baking #beer #cheese #coffee #homebrew #homebrewer #vegan #vegetarian #wine
+- **Tags:&nbsp;** #baking #beer #cheese #coffee #homebrew #homebrewer #tea #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -105,7 +105,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp;  #tattoo #tattoos**
-- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #lgbt #meme #memes #punk #tattoos #zeitgeist #zombies
+- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #indie #lgbt #meme #memes #punk #steampunk #tattoos #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -141,7 +141,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **Top:&nbsp; #gaming**
-- **Tags:&nbsp;** #chess #games #gambling #portal #poker
+- **Tags:&nbsp;** #chess #games #gambling #portal #poker #pokemon #rpg
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -150,7 +150,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G a r d e n s --> 
 
 - **Top:&nbsp; #permaculture #nature**
-- **Tags:&nbsp;** #farming #farmer #gardening #gardener
+- **Tags:&nbsp;** #farming #farmer #gardening #gardener #trees
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -159,7 +159,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **Top:&nbsp; #nature**
-- **Tags:&nbsp;** #bicycles #climate #cycling #eco #lifehacker #fairtrade #sustainability
+- **Tags:&nbsp;** #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -168,7 +168,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
 - **Top:&nbsp;  #canada #canadian #french #german**
-- **Tags:&nbsp;**  #africa #british #dutch #english #hispanic #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
+- **Tags:&nbsp;**  #africa #british #dutch #english #hispanic #italian #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -213,7 +213,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
 - **Top:&nbsp;  #canada #french #travel**
-- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #china #earth #israel #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
+- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #china #earth #israel #italy #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -267,7 +267,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **Top:&nbsp;  #atheism #atheist #christian** 
-- **Tags:&nbsp;**  #agnostic #buddhism #catholic #christmas #islam #judaism #jew #jewish #life #occult #religion  #transhumanism #wicca
+- **Tags:&nbsp;**  #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -285,7 +285,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
 - **Top:&nbsp; #astronomy #education #linguistics #science #teacher**
-- **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #nurse #paranormal #philosophy #reading #research #space #writing
+- **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #medicine #nurse #paranormal #philosophy #reading #research #space #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -294,7 +294,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
 - **Top:&nbsp; #android #apple #computers**
-- **Tags:&nbsp;** #eco #climate #solar #technology #ted
+- **Tags:&nbsp;** #eco #energy #climate #medicine #robotics #solar #technology #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-toys"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -303,7 +303,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
 - **Top:&nbsp; #android #apple #bikes #cars #computers #motorcycles**
-- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche 
+- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche #robotics
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="100%" border="0"><tr><th class="not to blame"> 
