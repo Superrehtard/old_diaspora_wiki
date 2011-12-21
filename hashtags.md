@@ -145,8 +145,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
-- **Top:&nbsp; #gaming**
-- **Tags:&nbsp;** #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #zelda
+- **#gaming**
+- #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #xbox #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
