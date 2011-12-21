@@ -106,7 +106,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
 - **[#community](https://joindiaspora.com/tags/1)**
-- #burningman #discussion 
+- #burningman #discussion #d_group
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
