@@ -32,6 +32,10 @@ on the mailing list.
 
 **Note** While you can certainly get up and running with your own pod by using a self-signed SSL certificate, your pod may not be able to communicate with all other pods. It is therefore recommended that you use a certificate issued from a trusted Certificate Authority. Unfortunately, this also means that CaCert certificates won't work. They are not (yet) part of most certificate bundles.
 
+## Pointing out the obvious
+
+We frequently see people doing everything as **root**. If you think that's a good idea: **It's not**. It's the worst thing you can do! All programs will either tell you to run them as root or ask you for the password. **Do not start anything as root if it's not explicitly requested by it or this guide.** Just use your normal user or create an own system user for Diaspora.
+
 ## Preparing your system
 
 In order to run Diaspora, you will need to install the following dependencies (specific instructions
