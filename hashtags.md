@@ -181,10 +181,15 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Gender & Sexuality](#wiki-gender)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/rosesmith26" title=" Rose ">
+![Rose](https://diasp.org/uploads/images/thumb_small_75e6488799fd2a5d000d.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - G e n d e r --> 
 
-- **Top:&nbsp; #love #queer**
-- **Tags:&nbsp;** #bi #dating #fangirl #feminism #lgbt #lgbtq #gay #gender #genderqueer #girls #guy #kinky #lover #nsfw #porn #sex #transgender #women #womyn #xxx
+- **[#love](https://joindiaspora.com/tags/love) | [#queer](https://joindiaspora.com/tags/queer)**
+- #bi #dating #fangirl #feminism #lgbt #lgbtq #gay #gender #genderqueer #girls #guy #kinky #lover #men #nsfw #out #porn #sex #straight #transgender #women #womyn #xxx
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
