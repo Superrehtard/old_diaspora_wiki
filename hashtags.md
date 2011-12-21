@@ -241,6 +241,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Occupy Revolution](#wiki-occupy)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/joebraun" title=" Joe ">
+![Joe](https://diasp.org/uploads/images/thumb_small_e28b044098d330b7a34f.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
 - **[#anarchism](https://joindiaspora.com/tags/anarchism) | [#anarchy](https://joindiaspora.com/tags/anarchy) | [#occupy](https://joindiaspora.com/tags/occupy) | [#revolution](https://joindiaspora.com/tags/revolution)**
