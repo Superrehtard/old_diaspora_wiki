@@ -247,3 +247,6 @@ A Windows Firewall dialog will appear in the following situations:
 ### Create an Account
 
 Browse to http://localhost:3000/users/sign_up
+
+## Notes from a developer
+I had to copy `libmysql.dll` to the ruby bin directory, rather than the lib directory. Same for `libcurl.dll`.
