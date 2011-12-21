@@ -128,7 +128,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
 - **#art | #comedy | #film | #fun | #funny | #music | #musica | #musika | #movies | #scifi| #wtf**
-- #artfilm #arts #burlesque #comics #flickr #film #games #npr #radio #sci-fi #startrek #starwars #tv #youtube
+- #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #radio #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -173,7 +173,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
 - **#html5 | #web | #internet**
-- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #sql #twitter #yahoo
+- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #news #sql #twitter #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -246,7 +246,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **Top:&nbsp;  #freedom**
-- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
+- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #news #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -264,7 +264,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
 - **Top:&nbsp;  #diaspora**
-- **Tags:&nbsp;**  #community #diy #facebook #flicker #friendfeed #youtube
+- **Tags:&nbsp;**  #community #diy #facebook #flicker #friendfeed #google #news #twitter #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
