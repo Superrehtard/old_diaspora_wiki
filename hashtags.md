@@ -207,7 +207,12 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Languages](#wiki-languages) & Nationalities**
+
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/36" title=" Kevin ">
+![Kevin](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_bbf70690f434d7f438bd.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
 - **[#canada](https://joindiaspora.com/tags/canada) | [#canadian](https://joindiaspora.com/tags/canadian) | [#french](https://joindiaspora.com/tags/french) | [#german](https://joindiaspora.com/tags/german)**
@@ -341,6 +346,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-studies"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Studies](#wiki-studies)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/xxdelta" title=" Yin ">
+![Yin](https://diasp.org/uploads/images/thumb_small_8da87e3494c0eabffbdd.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
 - **[#arts](https://joindiaspora.com/tags/arts) | [#astronomy](https://joindiaspora.com/tags/astronomy) | [#education](https://joindiaspora.com/tags/education) | [#linguistics](https://joindiaspora.com/tags/linguistics) | [#logic](https://joindiaspora.com/tags/logic) | [#science](https://joindiaspora.com/tags/science) | [#sports](https://joindiaspora.com/tags/sports) | [#teacher](https://joindiaspora.com/tags/teacher)**
