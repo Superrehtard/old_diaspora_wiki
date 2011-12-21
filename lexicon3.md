@@ -80,7 +80,7 @@ File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • http://GitRef.org/remotes/#fetch <br>
 • http://GitRef.org/remotes/#push <br>
 
-<!-- - - - - - - - - - R - - - - - - - - - - - - -->
+<!-- - - - - - - - - - RRR - - - - - - - - - - - - -->
 
 ## <a name="wiki-r">R</a>
 
@@ -99,20 +99,15 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 </td></tr></table></a>
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
-• http://rubyonrails.org <br>
-• http://rubyforge.org <br>
-
-- **Ruby Development** <br>
-• http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
-• http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://Rubyist.net/~slagell/ruby <br>
-• http://RubyOnRails.org <br>
-• http://Ruby-Forum.com <br>
-• http://RubyInstaller.org <br>
-• http://Ruby-Lang.org <br>
-• http://Ruby-Doc.org <br>
+• [RubyInstaller.org]http://RubyInstaller.org <br>
+• [RubyOnRails.org](http://rubyonrails.org) <br>
+• [Ruby-Forum.com]http://Ruby-Forum.com <br>
+• [RubyForge.org]http://rubyforge.org <br>
+• [Ruby-Lang.org]http://Ruby-Lang.org <br>
+• [Ruby-Doc.org]http://Ruby-Doc.org <br>
 
-<!-- - - - - - - - - - S - - - - - - - - - - - - -->
+<!-- - - - - - - - - - SSS - - - - - - - - - - - - -->
 
 ## <a name="wiki-s">S</a>   
 
