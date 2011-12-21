@@ -80,7 +80,7 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 - **Client | Server** <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
-- **Commit | Fetch | Fork | Pull | Push |** **[Version Control][V]** <br>
+- **Commit | Fetch | Fork | Merge | Pull | Push |** **[Version Control][V]** <br>
 File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • http://urbandictionary.com/define.php?term=commit <br>
 • http://GitRef.org/basic/#commit <br>
