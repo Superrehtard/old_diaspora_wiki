@@ -105,7 +105,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp;  #tattoo #tattoos**
-- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #indie #lgbt #meme #memes #punk #steampunk #tattoos #zeitgeist #zombies
+- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #indie #lgbt #lgbtq #meme #memes #punk #queer #steampunk #tattoos #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
