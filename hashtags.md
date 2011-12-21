@@ -130,10 +130,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
 <a href="https://diasp.org/u/miab" title=" Mia ">
 ![Mia](https://diasp.org/uploads/images/thumb_small_61e11773f29b1ee32fe2.jpg)
-</a></td></tr></table></a><!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
+</a></td></tr></table>
+</a><!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
-- **#arts | #gay | #hacker | #queer | #tattoo | #tattoos**
-- **#artculture #burningman #community #culture #cyberpunk #freeculture #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #steampunk #tattoos #vampires #zeitgeist #zombies
+- **[#arts](https://joindiaspora.com/tags/arts) | [#gay](https://joindiaspora.com/tags/gay) | [#hacker](https://joindiaspora.com/tags/hacker) | [#queer](https://joindiaspora.com/tags/queer) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
+- #artculture #burningman #community #culture #cyberpunk #freeculture #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #steampunk #tattoos #vampires #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -146,7 +147,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
-- **#diaspora | #hacker | #linux | #opensource**
+- **[#diaspora](https://joindiaspora.com/tags/diaspora) | [#hacker](https://joindiaspora.com/tags/hacker) | [#linux](https://joindiaspora.com/tags/linux) | [#opensource](https://joindiaspora.com/tags/opensource)**
 - #bug #commit #diy #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -155,7 +156,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
-- **#art | #comedy | #film | #fun | #funny | #music | #musica | #musika | #movies | #scifi| #wtf**
+- **#arts | #comedy | #film | #fun | #funny | #music | #musica | #movies | #scifi| #wtf**
+
+- **[#arts](https://joindiaspora.com/tags/art) | [#comedy](https://joindiaspora.com/tags/comedy) | [#film](https://joindiaspora.com/tags/film) |
+[#fun](https://joindiaspora.com/tags/fun) | [#funny](https://joindiaspora.com/tags/funny) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#movies](https://joindiaspora.com/tags/movies) | [#scifi](https://joindiaspora.com/tags/scifi) | [#wtf](https://joindiaspora.com/tags/wtf)**
 - #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #radio #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -210,7 +214,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Languages](#wiki-languages) & Nationalities**
+**[Languages & Nationalities](#wiki-languages)**
 
 </th></th></tr></table>
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
@@ -220,7 +224,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
 - **[#canada](https://joindiaspora.com/tags/canada) | [#canadian](https://joindiaspora.com/tags/canadian) | [#french](https://joindiaspora.com/tags/french) | [#german](https://joindiaspora.com/tags/german)**
-- **Tags:&nbsp;**  #africa #british #dutch #english #esperanto #hispanic #italian #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
+- #africa #british #dutch #english #esperanto #hispanic #italian #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-music"><table width="100%" border="0"><tr><th class="not to blame"> 
