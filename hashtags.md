@@ -485,8 +485,8 @@ HEADING
 IMAGE on RIGHT
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/7" title=" Ilya ">
-![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
+<a href="#DESTINATION_URL" title=" #POP_UP_TEXT ">
+![NAME](#IMG_SOURCE)
 </a></td></tr></table></a>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
