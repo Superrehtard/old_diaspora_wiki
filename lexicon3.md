@@ -74,7 +74,7 @@ _a set of formal rules describing how to transmit data, especially across a netw
 
 [ [Diaspora][D] **|** [Federation][F] **|** [IP][I] **|** [IPv4][I] **|** [IPv6][I] **|** [HTTP][I] **|** [HTTPS][H] **|** FTP **|** SSL ]
 
-- **Pull | Push | Commit | Fetch | Fork |** **[Version Control][V]** <br>
+- **Pull | Push | Commit | Fetch | Fork | Merge |** **[Version Control][V]** <br>
 File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • http://urbandictionary.com/define.php?term=push <br>
 • http://urbandictionary.com/define.php?term=pull <br>
@@ -215,9 +215,13 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 <!-- - - - - - - - - - V - - - - - - - - - - - - -->
 ## <a name="wiki-v">V</a>
 
-- **Version Control | Commit | Fetch | Fork | Pull | Push** <br>
+- **Version Control | Commit | Fetch | Fork | Merge | Pull | Push** <br>
 _Revision control, also known as version control and source control (and an aspect of software configuration management or SCM), is the management of changes to documents, programs, and other information stored as computer files.  It is most commonly used in software development, where a team of people may change the same files.  Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision".  For example, an initial set of files is "revision 1".  When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change.  Revisions can be compared, restored, and with some types of files, merged_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Revision_control) 2011)<br>
-<br>
+<!-- Versioning img table --> 
+<a><table align="right" width="0" height="0" cellspacing="0" cellpadding="0" border="0"><tr><td>
+![Versioning](http://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Three-way-merge-parallelgram.svg/220px-Three-way-merge-parallelgram.svg.png)
+</td></tr></table></a>
+<!-- /Versioning img table --> 
 • [GitHub][G] | [PivotalTracker][P] | [Software Release Life Cycle][S] <br>
 • http://en.wikipedia.org/wiki/Distributed_revision_control <br>
 • http://en.wikipedia.org/wiki/Software_versioning <br>
