@@ -126,7 +126,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-culture"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Culture](#wiki-culture)**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/miab" title=" Mia ">
+![Mia](https://diasp.org/uploads/images/thumb_small_61e11773f29b1ee32fe2.jpg)
+</a></td></tr></table></a><!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **#arts | #gay | #hacker | #queer | #tattoo | #tattoos**
 - **#artculture #burningman #community #culture #cyberpunk #freeculture #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #steampunk #tattoos #vampires #zeitgeist #zombies
