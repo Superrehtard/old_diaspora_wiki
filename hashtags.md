@@ -74,7 +74,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
-- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
+- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #feminism #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #postmodernism #sci-fi #sculpture #streetart #ted #theatre #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -82,7 +82,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
-- **#community**
+- **[#community](https://joindiaspora.com/tags/1)**
 - #burningman #discussion 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -91,8 +91,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
-- **#beer | #coffee | #cooking | permaculture**
-- #baking #cheese #homebrew #homebrewer #tea #vegan #vegetarian #wine
+- **[#beer](https://joindiaspora.com/tags/beer) | [#coffee](https://joindiaspora.com/tags/coffee) | [#cooking](https://joindiaspora.com/tags/cooking) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
+- #baking #cheese #homebrew #homebrewer #recipes #tea #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -136,7 +136,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
 
-- **#design | #fashion | #tattoos**
+- **[#design](https://joindiaspora.com/tags/design) | [#fashion](https://joindiaspora.com/tags/fashion) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - #clothing #hair #makeup #modeling #shoes #textiles
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -145,7 +145,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
-- **#gaming**
+- **[#gaming](https://joindiaspora.com/tags/gaming)**
 - #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #xbox #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -163,7 +163,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
-- **Top:&nbsp; #nature**
+- **[#nature](https://joindiaspora.com/tags/nature)**
 - **Tags:&nbsp;** #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -199,7 +199,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
-- **#anarchism #anarchy #occupy #revolution**
+- **[#anarchism](https://joindiaspora.com/tags/anarchism) | [#anarchy](https://joindiaspora.com/tags/anarchy) | [#occupy](https://joindiaspora.com/tags/occupy) | [#revolution](https://joindiaspora.com/tags/revolution)**
 - #99percent #arabspring #occupy #occupymovement #occupyla #ows #philosophy #politics
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -208,8 +208,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
-- **Top:&nbsp; #freesoftware #opensource**
-- **Tags:&nbsp;** #copyleft #creativecommons #free #open #wikipedia
+- **[#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#opensource](https://joindiaspora.com/tags/opensource)**
+- #copyleft #creativecommons #free #open #wikipedia
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-philosophy"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -217,8 +217,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
-- **Top:&nbsp;  #philosophy**
-- **Tags:&nbsp;**  #communism #buddhism #feminism #life #logic #metaphysics #socialism #ted #transhumanism
+- **[#philosophy](https://joindiaspora.com/tags/philosophy)**
+- #communism #buddhism #dreamer #feminism #life #logic #metaphysics #optimist #postmodernism #skeptic #socialism #ted #transhumanism
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-places"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -226,8 +226,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
-- **Top:&nbsp;  #canada #french #travel**
-- **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #china #earth #israel #italy #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
+- **[#canada](https://joindiaspora.com/tags/canada) | [#french](https://joindiaspora.com/tags/french) | [#travel](https://joindiaspora.com/tags/travel)**
+- #africa #america #beach #brasil #brazil #canada #china #earth #israel #italy #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -236,8 +236,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - P l a n t s --> 
 
-- **Top:&nbsp; #permaculture #nature**
-- **Tags:&nbsp;** #farming #farmer #gardening #gardener #trees
+- **[#nature](https://joindiaspora.com/tags/nature) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
+- #farming #farmer #gardening #gardener #trees
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -245,8 +245,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
-- **Top:&nbsp;  #freedom**
-- **Tags:&nbsp;**  #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #news #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
+- **[#freedom](https://joindiaspora.com/tags/freedom)**
+- #99percent #anarchy #business #climate #communism #community #conservative #cryptography #eco #economy #equality #fairtrade #feminism #humanrights #greenpeace #liberal #libertarian #news #occupy #peace #progressive #ronpaul #socialism #socialjustice #space
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -254,7 +254,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
-- **#anonymous**
+- **[#anonymous](https://joindiaspora.com/tags/anonymous)**
 - #censorship #copyleft #creativecommons #encryption #freedom #piracy #privacy #security 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -263,8 +263,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
-- **Top:&nbsp;  #diaspora**
-- **Tags:&nbsp;**  #community #diy #facebook #flickr #friendfeed #google #news #twitter #youtube
+- **[#1](https://joindiaspora.com/tags/diaspora)**
+- #community #diy #facebook #flickr #friendfeed #google #news #twitter #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -272,7 +272,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
 
-- **#bug | #feature | #newhere | #question**
+- **[#bug](https://joindiaspora.com/tags/bug) | [#feature](https://joindiaspora.com/tags/feature) | [#question](https://joindiaspora.com/tags/question)**
 - #commit #d_group #d_hashtags #d_lexicon #fail #nsfw #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -281,8 +281,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
-- **Top:&nbsp;  #atheism #atheist #christian** 
-- **Tags:&nbsp;**  #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #meditation #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca #yoga
+- **[#atheism](https://joindiaspora.com/tags/atheism) | [#atheist](https://joindiaspora.com/tags/atheist) | [#christian](https://joindiaspora.com/tags/christian)**
+- #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #meditation #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca #yoga
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -290,7 +290,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
-- **#climbing | #football | #martialarts | #soccer**
+- **[#climbing](https://joindiaspora.com/tags/climbing) | [#football](https://joindiaspora.com/tags/football) | [#martialarts](https://joindiaspora.com/tags/martialarts) | [#soccer](https://joindiaspora.com/tags/soccer)**
 - #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #skiing #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -299,8 +299,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
-- **#arts | #astronomy | #education | #linguistics | #science | #sports | #teacher**
-- **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #medicine #nurse #paranormal #philosophy #reading #research #space #writing
+- **[#arts](https://joindiaspora.com/tags/arts) | [#astronomy](https://joindiaspora.com/tags/astronomy) | [#education](https://joindiaspora.com/tags/education) | [#linguistics](https://joindiaspora.com/tags/linguistics) | [#logic](https://joindiaspora.com/tags/logic) | [#science](https://joindiaspora.com/tags/science) | [#sports](https://joindiaspora.com/tags/sports) | [#teacher](https://joindiaspora.com/tags/teacher)**
+- #anthropology #business #economy #ethics #feminism #health #history #human #learning #marketing #medicine #nurse #paranormal #philosophy #reading #research #space #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -308,8 +308,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
-- **#android | #apple | #computers**
-- #eco #energy #climate #medicine #robotics #solar #technology #ted
+- **[#android](https://joindiaspora.com/tags/android) | [#apple](https://joindiaspora.com/tags/apple) | [#computers](https://joindiaspora.com/tags/computers)**
+- #eco #energy #climate #medicine #robotics #solar #space #technology #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-toys"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -317,7 +317,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
-- **#android | #apple | #bikes | #cars | #computers | #motorcycles**
+- **[#android](https://joindiaspora.com/tags/android) | [#apple](https://joindiaspora.com/tags/apple) | [#bikes](https://joindiaspora.com/tags/bikes) | [#cars](https://joindiaspora.com/tags/cars) | [#computers](https://joindiaspora.com/tags/computers) | [#motorcycles](https://joindiaspora.com/tags/motorcycles)**
 - #guns #bicycle #bicycles #bicycling #bmw #cycling #motorbikes #porsche #robotics #toys
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -326,8 +326,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
 
-- **#health #medicine #cooking**
-- #exercise #meditation #pets #wellness #vegan #vegetarian #yoga
+- **[#health](https://joindiaspora.com/tags/health) | [#medicine](https://joindiaspora.com/tags/medicine) | [#cooking](https://joindiaspora.com/tags/cooking)**
+- #dreamer #exercise #meditation #optimist #pets #wellness #vegan #vegetarian #yoga
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-other"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -335,7 +335,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
 
-- #libros #reddit #wtf 
+- #teens #20s #30s #40s #50s #60s #70s #80s #90s #libros #reddit #wtf 
 
 ---
 
@@ -487,6 +487,10 @@ IMAGE on RIGHT
 LIST of BOLD #TAGS
 
 - **[#1](https://joindiaspora.com/tags/1) | [#2](https://joindiaspora.com/tags/2) | [#3](https://joindiaspora.com/tags/3) | [#4](https://joindiaspora.com/tags/4) | [#5](https://joindiaspora.com/tags/5) | [#6](https://joindiaspora.com/tags/6) | [#7](https://joindiaspora.com/tags/7) | [#8](https://joindiaspora.com/tags/8) | [#9](https://joindiaspora.com/tags/9)** 
+
+(JUST 3 BOLD #TAGS)
+
+[#1](https://joindiaspora.com/tags/1) | [#2](https://joindiaspora.com/tags/2) | [#3](https://joindiaspora.com/tags/3) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
