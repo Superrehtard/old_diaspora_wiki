@@ -58,7 +58,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - / C o n t a c t - U s -->
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-animals"><table width="100%" border=0"><tr><th class="not to blame"> 
-**[Animals](#wiki-animals) & Pets**
+**[Animals & Pets](#wiki-animals)**
 </th></th></tr></table>
 
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
