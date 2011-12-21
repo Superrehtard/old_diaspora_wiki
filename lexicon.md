@@ -58,6 +58,7 @@ Ever wanted to to share something with just a certain group of people?&nbsp; **D
     
 - **Beta | Pre-Alpha | Alpha | [Software Release Life Cycle][S]** <br>
 • http://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
+• [Version Control][V]
     
 - **[Blog.DiasporaFoundation.org](http://Blog.DiasporaFoundation.org)**    
     
@@ -78,8 +79,8 @@ https://github.com/diaspora/diaspora/wiki/Changelog <br>
 - **Client | Server** <br>
 https://github.com/diaspora/diaspora/wiki/Client-server-model <br>
 
-- **Commit | Fetch | Fork | Pull | Push | |** **[Version Control][V]** <br>
-File synchronization commands in [Git][G]. ([GitRef.org](http://GitRef.org)) <br>
+- **Commit | Fetch | Fork | Pull | Push |** **[Version Control][V]** <br>
+File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • http://urbandictionary.com/define.php?term=commit <br>
 • http://GitRef.org/basic/#commit <br>
 
