@@ -239,7 +239,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Occupy Revolution](#wiki-occupy)**
+**[Occupy Together](#wiki-occupy)**
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
