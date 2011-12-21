@@ -84,6 +84,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Code Hacking & Computer Programming](#wiki-code)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/47732" title=" Pistos ">
+![Pistos](https://diasp0ra.ca/uploads/images/thumb_small_8329a80bd04e6f68823f.png)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
 - **[#android](https://joindiaspora.com/tags/android) | [#anonymous](https://joindiaspora.com/tags/anonymous) | [#apple](https://joindiaspora.com/tags/apple) | [#computers](https://joindiaspora.com/tags/computers) | [#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#hacker](https://joindiaspora.com/tags/hacker) | [#html5](https://joindiaspora.com/tags/html5) | [#java](https://joindiaspora.com/tags/java) | [#gnulinux](https://joindiaspora.com/tags/gnulinux) | [#linux](https://joindiaspora.com/tags/linux) | [#logic](https://joindiaspora.com/tags/logic) | [#opensource](https://joindiaspora.com/tags/opensource) | [#php](https://joindiaspora.com/tags/php) | [#software](https://joindiaspora.com/tags/software)** 
@@ -179,6 +184,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Internet](#wiki-green)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="#DESTINATION_URL" title=" #POP_UP_TEXT ">
+![NAME](#IMG_SOURCE)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
 - **#html5 | #web | #internet**
