@@ -177,7 +177,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | [#music](https://joindiaspora.com/tags/music)** 
-- #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #noise #piano #punk #rap #rocknroll #classicalmusic
+-  #classicalmusic #disco #dj #drum #drums #drumming #folkmusic #funk #gosple #heavymetal #hiphop #house #housemusic #livemusic #noise #piano #punk #rap #rocknroll #soul #techno
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
