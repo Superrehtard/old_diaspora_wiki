@@ -231,7 +231,7 @@ _Revision control, also known as version control and source control (and an aspe
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
-• [Software Release Life Cycle][S]
+• [Software Release Life Cycle][S] <br>
 • https://GitHub.com/diaspora/ <br>
 • [PivotalTracker.com](http://PivotalTracker.com) <br>
 • [PivotalLabs.com](http://PivotalLabs.com) <br>
