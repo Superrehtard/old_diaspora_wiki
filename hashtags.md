@@ -86,8 +86,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/47732" title=" Pistos ">
-![Pistos](https://diasp0ra.ca/uploads/images/thumb_small_8329a80bd04e6f68823f.png)
+<a href="https://diasp.org/people/6" title=" Daniel ">
+![Daniel](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_bfef7e6f710f42b3cbba.jpg)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
@@ -100,7 +100,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/u/d_group" title=" D\*Group ">
+<a href="https://diasp.org/u/d_group" title=" D*Group ">
 ![D\*Group](https://diasp.org/uploads/images/thumb_small_d7b9503223c7e696d411.png)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
@@ -186,8 +186,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="#DESTINATION_URL" title=" #POP_UP_TEXT ">
-![NAME](#IMG_SOURCE)
+<a href="https://diasp.org/people/47732" title=" Pistos ">
+![Pistos](https://diasp0ra.ca/uploads/images/thumb_small_8329a80bd04e6f68823f.png)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
