@@ -157,7 +157,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
 - **[#arts](https://joindiaspora.com/tags/art) | [#comedy](https://joindiaspora.com/tags/comedy) | [#film](https://joindiaspora.com/tags/film) | [#fun](https://joindiaspora.com/tags/fun) | [#funny](https://joindiaspora.com/tags/funny) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#movies](https://joindiaspora.com/tags/movies) | [#scifi](https://joindiaspora.com/tags/scifi) | [#wtf](https://joindiaspora.com/tags/wtf)**
-- #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #radio #sci-fi #startrek #starwars #tv #youtube
+- #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #puns #radio #random #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -404,7 +404,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
 
-- #teens #20s #30s #40s #50s #60s #70s #80s #90s #libros #reddit #wtf 
+- #teens #20s #30s #40s #50s #60s #70s #80s #90s #libros #reddit #puns #random #wtf 
 
 ---
 
