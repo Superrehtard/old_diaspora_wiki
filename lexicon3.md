@@ -93,11 +93,10 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 • _**Ruby** supports multiple programming paradigms, including functional, object oriented, imperative and reflective.&nbsp; It also has a dynamic type system and automatic memory management; it is therefore similar in varying respects to Smalltalk, Python, Perl, Lisp, Dylan, Pike, and CLU._ <br>
 • **The standard 1.8.7** implementation is written in C, as a single-pass interpreted language._  ([Wikipedia.org](http://en.wikipedia.org/wiki/Ruby_(programming_language) 2011)
 
-<a><table align="right" width="0" height="0" cellspacing="0" cellpadding="0" border="0"><tr><td>
+- <a><table align="right" width="0" height="0" cellspacing="0" cellpadding="0" border="0"><tr><td>
 ![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png)
 </td></tr></table></a>
 
-<ul>
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://Rubyist.net/~slagell/ruby <br>
@@ -107,7 +106,6 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 • [RubyForge.org](http://rubyforge.org) <br>
 • [Ruby-Lang.org](http://Ruby-Lang.org) <br>
 • [Ruby-Doc.org](http://Ruby-Doc.org) <br>
-</ul>
 
 <!-- - - - - - - - - - SSS - - - - - - - - - - - - -->
 
