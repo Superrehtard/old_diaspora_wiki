@@ -73,7 +73,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
-- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #gif #graffiti #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
+- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -180,8 +180,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
-- **#web | #internet**
-- #diaspora #facebook #google #yahoo
+- **#html5 | #web | #internet**
+- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #sql #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
