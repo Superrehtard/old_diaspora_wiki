@@ -68,7 +68,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #anime #art #artculture #arts #books #design #documentaries #film #movies #music #musica #poetry #scifi #tattoo #tattoos**
+- **](https://joindiaspora.com/tags/dubstep) | [#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - **Tags:&nbsp;** #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #graffiti #knitting #multimedia #photography #photoshop #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -167,7 +167,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
-- **Top:&nbsp;  #canada #canadian #french #german**
+- **[#canada](https://joindiaspora.com/tags/canada) | [#canadian](https://joindiaspora.com/tags/canadian) | [#french](https://joindiaspora.com/tags/french) | [#german](https://joindiaspora.com/tags/german)**
 - **Tags:&nbsp;**  #africa #british #dutch #english #esperanto #hispanic #italian #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -176,8 +176,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
-- **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | #music](https://joindiaspora.com/tags/music)** 
-- **Tags:&nbsp;** #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #noise #piano #punk #rap #rocknroll #classicalmusic
+- **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | [#music](https://joindiaspora.com/tags/music)** 
+- #dj #drum #drums #drumming #folkmusic #heavymetal #hiphop #livemusic #noise #piano #punk #rap #rocknroll #classicalmusic
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
