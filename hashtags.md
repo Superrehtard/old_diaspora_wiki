@@ -80,6 +80,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Community Building](#wiki-community)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/d_group" title=" D\*Group ">
+![D\*Group](https://diasp.org/uploads/images/thumb_small_d7b9503223c7e696d411.png)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
 - **[#community](https://joindiaspora.com/tags/1)**
