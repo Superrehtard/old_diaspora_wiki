@@ -91,8 +91,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
-- **#apple | #cooking**
-- #baking #beer #cheese #coffee #homebrew #homebrewer #tea #vegan #vegetarian #wine
+- **#beer | #coffee | #cooking | permaculture**
+- #baking #cheese #homebrew #homebrewer #tea #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
