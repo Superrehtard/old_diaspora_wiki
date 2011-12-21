@@ -279,6 +279,12 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-spirituality"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Spirituality](#wiki-spirituality)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/7" title=" Ilya ">
+![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
+</a></td></tr></table></a>
+
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **[#atheism](https://joindiaspora.com/tags/atheism) | [#atheist](https://joindiaspora.com/tags/atheist) | [#christian](https://joindiaspora.com/tags/christian)**
@@ -478,9 +484,9 @@ HEADING
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 IMAGE on RIGHT
 
-<a><table align="right" width="9" height="9"><tr><td>
-<a href="#" title=" Pivotal Labs ">
-![Image](./image.png)
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/7" title=" Ilya ">
+![Ilya](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_24848be7297b28b0bcbe.jpeg)
 </a></td></tr></table></a>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
