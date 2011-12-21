@@ -36,7 +36,7 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#design](https://joindiaspora.com/tags/design) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
+- **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#design](https://joindiaspora.com/tags/design) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#web](https://joindiaspora.com/tags/web) | [#internet](https://joindiaspora.com/tags/internet) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
 <!-- - - - - - - - - - - - - - - - - - / T o p - T a g s --> 
 <!-- - - - - - - - - - - - - - - - - - C o n t a c t - U s --> 
 
@@ -60,20 +60,19 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
 
-- **#cats | #nature**
-
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
+- **#cats | #nature**
 - #birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
-- **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
+- **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #gif #graffiti #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -82,8 +81,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #community**
-- **Tags:&nbsp;** #discussion
+- **#community**
+- #burningman #discussion 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -91,8 +90,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #apple #cooking**
-- **Tags:&nbsp;** #baking #beer #cheese #coffee #homebrew #homebrewer #tea #vegan #vegetarian #wine
+- **#apple | #cooking**
+- #baking #beer #cheese #coffee #homebrew #homebrewer #tea #vegan #vegetarian #wine
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -109,8 +108,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
-- **#tattoo | #tattoos**
-- **#artculture #burningman #community #culture #cyberpunk #freeculture #gay #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #queer #steampunk #tattoos #vampires #zeitgeist #zombies
+- **#arts | #gay | #hacker | #queer | #tattoo | #tattoos**
+- **#artculture #burningman #community #culture #cyberpunk #freeculture #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #steampunk #tattoos #vampires #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -150,21 +149,39 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Gardens](#wiki-animals) & Plants**
+**[Plants & Gardens](#wiki-plants)**
 </th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - G a r d e n s --> 
+<!-- - - - - - - - - - - - - - - - - - P l a n t s --> 
 
 - **Top:&nbsp; #permaculture #nature**
 - **Tags:&nbsp;** #farming #farmer #gardening #gardener #trees
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Gender & Sexuality](#wiki-gender)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - G e n d e r --> 
+
+- **Top:&nbsp; #love #queer**
+- **Tags:&nbsp;** #bi #dating #fangirl #feminism #lgbt #lgbtq #gay #gender #genderqueer #girls #guy #kinky #lover #porn #sex #transgender #women #womyn #xxx
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Green](#wiki-green) Sustainability**
+**[Green Sustainability](#wiki-green)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **Top:&nbsp; #nature**
 - **Tags:&nbsp;** #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Internet](#wiki-green)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
+
+- **#web | #internet**
+- #diaspora #facebook #google #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -186,16 +203,16 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Occupy](#wiki-occupy)**
+**[Occupy Revolution](#wiki-occupy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
-- **Top:&nbsp; #occupy**
-- **Tags:&nbsp;** #99percent #occupy #occupymovement #occupyla #ows
+- **#anarchism #anarchy #occupy#revolution**
+- #99percent #arabspring #occupy #occupymovement #occupyla #ows
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Open](#wiki-open) Source & Open Content**
+**[Open Source & Open Content](#wiki-open)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
@@ -237,15 +254,6 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 - **Top:&nbsp; #anonymous**
 - **Tags:&nbsp;** #anonymity #censorship #creativecommons #encryption #piracy #privacy #security 
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Sex](#wiki-sex)uality & Gender**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - S e x --> 
-
-- **Top:&nbsp; #love #queer**
-- **Tags:&nbsp;** #bi #dating #fangirl #feminism #lgbt #lgbtq #gay #gender #genderqueer #girls #guy #kinky #lover #porn #sex #transgender #women #womyn 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -294,7 +302,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-tech"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Tech](#wiki-tech)nology**
+**[Tech](#wiki-tech)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
@@ -347,6 +355,8 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **[\#books](https://JoinDiaspora.com/tags/books)** (2400) Dec2011
 - **[\#apple](https://JoinDiaspora.com/tags/apple)** (2300) Dec2011
 - **[\#film](https://JoinDiaspora.com/tags/film)** (1800)
+- **[\#web](https://JoinDiaspora.com/tags/web)** (1700)
+- **[\#internet](https://JoinDiaspora.com/tags/internet)** (1600)
 - **[\#french](https://JoinDiaspora.com/tags/french)** (1600) Dec2011
 - **[\#opensource](https://JoinDiaspora.com/tags/opensource)** (1600) Dec2011
 - **[\#philosophy](https://JoinDiaspora.com/tags/philosophy)** (1500)
