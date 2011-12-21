@@ -77,6 +77,15 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #feminism #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #postmodernism #sci-fi #sculpture #streetart #ted #theatre #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Code Hacking & Computer Programming](#wiki-code)**
+</th></th></tr></table>
+<!-- - - - - - - - - - - - - - - - - - C o d e --> 
+
+- **[#android](https://joindiaspora.com/tags/android) | [#anonymous](https://joindiaspora.com/tags/anonymous) | [#apple](https://joindiaspora.com/tags/apple) | [#computers](https://joindiaspora.com/tags/computers) | [#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#hacker](https://joindiaspora.com/tags/hacker) | [#html5](https://joindiaspora.com/tags/html5) | [#java](https://joindiaspora.com/tags/java) | [#gnulinux](https://joindiaspora.com/tags/gnulinux) | [#linux](https://joindiaspora.com/tags/linux) | [#logic](https://joindiaspora.com/tags/logic) | [#opensource](https://joindiaspora.com/tags/opensource) | [#php](https://joindiaspora.com/tags/php) | [#software](https://joindiaspora.com/tags/software)** 
+- #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Community Building](#wiki-community)**
 </th></th></tr></table>
@@ -98,15 +107,6 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 - **[#beer](https://joindiaspora.com/tags/beer) | [#coffee](https://joindiaspora.com/tags/coffee) | [#cooking](https://joindiaspora.com/tags/cooking) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
 - #baking #cheese #homebrew #homebrewer #recipes #tea #vegan #vegetarian #wine
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Code Hacking & Computer Programming](#wiki-code)**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - C o d e --> 
-
-- **[#android](https://joindiaspora.com/tags/android) | [#anonymous](https://joindiaspora.com/tags/anonymous) | [#apple](https://joindiaspora.com/tags/apple) | [#computers](https://joindiaspora.com/tags/computers) | [#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#hacker](https://joindiaspora.com/tags/hacker) | [#html5](https://joindiaspora.com/tags/html5) | [#java](https://joindiaspora.com/tags/java) | [#gnulinux](https://joindiaspora.com/tags/gnulinux) | [#linux](https://joindiaspora.com/tags/linux) | [#logic](https://joindiaspora.com/tags/logic) | [#opensource](https://joindiaspora.com/tags/opensource) | [#php](https://joindiaspora.com/tags/php) | [#software](https://joindiaspora.com/tags/software)** 
-- #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="100%" border="0"><tr><th class="not to blame"> 
