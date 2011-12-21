@@ -282,7 +282,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p i r i t u a l i t y --> 
 
 - **[#atheism](https://joindiaspora.com/tags/atheism) | [#atheist](https://joindiaspora.com/tags/atheist) | [#christian](https://joindiaspora.com/tags/christian)**
-- #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #meditation #mormon #muslim #occult #paranormal #religion #tarot #transhumanism #wicca #yoga
+- #agnostic #astrology #bible #buddhism #catholic #christmas #faith #god #islam #judaism #jew #jewish #jesus #life #meditation #mormon #muslim #occult #paranormal #religion #shamanism #subgenius #tarot #transhumanism #wicca #yoga
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
