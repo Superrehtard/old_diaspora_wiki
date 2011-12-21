@@ -250,21 +250,21 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-privacy"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Privacy](#wiki-privacy), Anonymity, Security, Encryption & Intellectual Property**
+**[Privacy, Anonymity, Security, Encryption & Intellectual Property](#wiki-privacy)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
-- **Top:&nbsp; #anonymous**
-- **Tags:&nbsp;** #anonymity #censorship #creativecommons #encryption #piracy #privacy #security 
+- **#anonymous**
+- #censorship #copyleft #creativecommons #encryption #freedom #piracy #privacy #security 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Social](#wiki-social) Media**
+**[Social Media](#wiki-social)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
 - **Top:&nbsp;  #diaspora**
-- **Tags:&nbsp;**  #community #diy #facebook #flicker #friendfeed #google #news #twitter #youtube
+- **Tags:&nbsp;**  #community #diy #facebook #flickr #friendfeed #google #news #twitter #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -290,8 +290,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
-- **Top:&nbsp;  #climbing #football #martialarts #soccer**
-- **Tags:&nbsp;**  #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #skiing #sports #tennis #volleyball
+- **#climbing | #football | #martialarts | #soccer**
+- #archery #baseball #backpacking #basketball #cricket #cycling #exercise #hiking #mountaineering #rockclimbing #rugby #golf #skiing #sports #tennis #volleyball
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-studies"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -299,7 +299,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S t u d i e s --> 
 
-- **Top:&nbsp; #astronomy #education #linguistics #science #teacher**
+- **#arts | #astronomy | #education | #linguistics | #science | #sports | #teacher**
 - **Tags:&nbsp;** #anthropology #business #economy #ethics #feminism #health #history #human #marketing #medicine #nurse #paranormal #philosophy #reading #research #space #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -308,8 +308,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T e c h --> 
 
-- **Top:&nbsp; #android #apple #computers**
-- **Tags:&nbsp;** #eco #energy #climate #medicine #robotics #solar #technology #ted
+- **#android | #apple | #computers**
+- #eco #energy #climate #medicine #robotics #solar #technology #ted
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-toys"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -317,8 +317,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
-- **Top:&nbsp; #android #apple #bikes #cars #computers #motorcycles**
-- **Tags:&nbsp;** #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche #robotics
+- **#android | #apple | #bikes | #cars | #computers | #motorcycles**
+- #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche #robotics #toys
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -326,15 +326,16 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
 
----
+- **#health #medicine #cooking**
+- #exercise #meditation #pets #wellness #vegan #vegetarian #yoga
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-other"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Other](#wiki-other)**
+**[Unfiled or Other](#wiki-other)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
 
-#4chan #bitcoin #facebook #yahoo #google #reddit
+- #libros #reddit #wtf 
 
 ---
 
