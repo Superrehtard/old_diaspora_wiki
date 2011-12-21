@@ -167,7 +167,8 @@ _Once you have found yourself a pod, go find the sign up link! It should be righ
 
 - **Software Release Life Cycle | Pre-Alpha | Alpha | Beta** <br>
 _refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
-• http://en.wikipedia.org/wiki/Software_release_life_cycle
+• http://en.wikipedia.org/wiki/Software_release_life_cycle <br>
+• [Version Control][V]
 
 - **Spain** [Pods][P]
 
@@ -230,6 +231,7 @@ _Revision control, also known as version control and source control (and an aspe
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
+• [Software Release Life Cycle][S]
 • https://GitHub.com/diaspora/ <br>
 • [PivotalTracker.com](http://PivotalTracker.com) <br>
 • [PivotalLabs.com](http://PivotalLabs.com) <br>
