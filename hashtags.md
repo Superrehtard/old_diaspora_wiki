@@ -198,7 +198,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **[#nature](https://joindiaspora.com/tags/nature)**
-- **Tags:&nbsp;** #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
+- #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -211,8 +211,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
-- **#html5 | #web | #internet**
-- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #news #sql #twitter #yahoo
+- **[#html5](https://joindiaspora.com/tags/html5) | [#internet](https://joindiaspora.com/tags/internet) | [#web](https://joindiaspora.com/tags/web)**
+- #cloud #copyleft #creativecommons #bitcoin #diaspora #facebook #google #html5 #mysql #news #sql #twitter #wikipedia #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
