@@ -69,6 +69,7 @@ anywhere on the site.
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
 * [[How to Use Pagekite to Link Your Own Domain Name to a Local Network Diaspora Pod|How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod]]
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
+* [Diaspora Hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)
 * [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 * Various Guides & Resources (probably outdated)
   * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
