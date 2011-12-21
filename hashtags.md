@@ -100,7 +100,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
-- **#android | #anonymous | #apple | #computers | #freesoftware | #hacker | #html5 | #java | #gnulinux | #linux | #logic | #opensource | #php | #software**
+- **[#android](https://joindiaspora.com/tags/android) | [#anonymous](https://joindiaspora.com/tags/anonymous) | [#apple](https://joindiaspora.com/tags/apple) | [#computers](https://joindiaspora.com/tags/computers) | [#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#hacker](https://joindiaspora.com/tags/hacker) | [#html5](https://joindiaspora.com/tags/html5) | [#java](https://joindiaspora.com/tags/java) | [#gnulinux](https://joindiaspora.com/tags/gnulinux) | [#linux](https://joindiaspora.com/tags/linux) | [#logic](https://joindiaspora.com/tags/logic) | [#opensource](https://joindiaspora.com/tags/opensource) | [#php](https://joindiaspora.com/tags/php) | [#software](https://joindiaspora.com/tags/software)** 
 - #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -486,7 +486,7 @@ IMAGE on RIGHT
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 LIST of BOLD #TAGS
 
-- **[1](https://joindiaspora.com/tags/1) | [2](https://joindiaspora.com/tags/2) | [3](https://joindiaspora.com/tags/3) | [4](https://joindiaspora.com/tags/4) | [5](https://joindiaspora.com/tags/5) | [6](https://joindiaspora.com/tags/6) | [7](https://joindiaspora.com/tags/7) | [8](https://joindiaspora.com/tags/8) | [9](https://joindiaspora.com/tags/9)** 
+- **[#1](https://joindiaspora.com/tags/1) | [#2](https://joindiaspora.com/tags/2) | [#3](https://joindiaspora.com/tags/3) | [#4](https://joindiaspora.com/tags/4) | [#5](https://joindiaspora.com/tags/5) | [#6](https://joindiaspora.com/tags/6) | [#7](https://joindiaspora.com/tags/7) | [#8](https://joindiaspora.com/tags/8) | [#9](https://joindiaspora.com/tags/9)** 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
