@@ -130,8 +130,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
 <a href="https://diasp.org/u/miab" title=" Mia ">
 ![Mia](https://diasp.org/uploads/images/thumb_small_61e11773f29b1ee32fe2.jpg)
-</a></td></tr></table>
-</a><!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
+</a></td></tr></table></a> 
+<!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **[#arts](https://joindiaspora.com/tags/arts) | [#gay](https://joindiaspora.com/tags/gay) | [#hacker](https://joindiaspora.com/tags/hacker) | [#queer](https://joindiaspora.com/tags/queer) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - #artculture #burningman #community #culture #cyberpunk #freeculture #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #steampunk #tattoos #vampires #zeitgeist #zombies
@@ -156,10 +156,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
-- **#arts | #comedy | #film | #fun | #funny | #music | #musica | #movies | #scifi| #wtf**
-
-- **[#arts](https://joindiaspora.com/tags/art) | [#comedy](https://joindiaspora.com/tags/comedy) | [#film](https://joindiaspora.com/tags/film) |
-[#fun](https://joindiaspora.com/tags/fun) | [#funny](https://joindiaspora.com/tags/funny) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#movies](https://joindiaspora.com/tags/movies) | [#scifi](https://joindiaspora.com/tags/scifi) | [#wtf](https://joindiaspora.com/tags/wtf)**
+- **[#arts](https://joindiaspora.com/tags/art) | [#comedy](https://joindiaspora.com/tags/comedy) | [#film](https://joindiaspora.com/tags/film) | [#fun](https://joindiaspora.com/tags/fun) | [#funny](https://joindiaspora.com/tags/funny) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#movies](https://joindiaspora.com/tags/movies) | [#scifi](https://joindiaspora.com/tags/scifi) | [#wtf](https://joindiaspora.com/tags/wtf)**
 - #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #radio #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
