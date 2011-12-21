@@ -219,7 +219,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
 - **[#anarchism](https://joindiaspora.com/tags/anarchism) | [#anarchy](https://joindiaspora.com/tags/anarchy) | [#occupy](https://joindiaspora.com/tags/occupy) | [#revolution](https://joindiaspora.com/tags/revolution)**
-- #99percent #arabspring #occupy #occupymovement #occupyla #ows #philosophy #politics
+- #99percent #arabspring #occupy #occupymovement #occupyla #occupytogether #ows #philosophy #politics
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -253,6 +253,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Plants & Gardens](#wiki-plants)**
 </th></th></tr></table>
 
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/gypsum" title=" Gypsum ">
+![Gypsum](https://diasp.org/uploads/images/thumb_small_1129739f608975b7b812.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P l a n t s --> 
 
 - **[#nature](https://joindiaspora.com/tags/nature) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
@@ -271,6 +275,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-privacy"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Privacy, Anonymity, Security, Encryption & Intellectual Property](#wiki-privacy)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/3" title=" fabdo ">
+![fabdo](https://pod.geraspora.de/uploads/images/thumb_small_4f858103634321bf5278.png)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
 - **[#anonymous](https://joindiaspora.com/tags/anonymous)**
