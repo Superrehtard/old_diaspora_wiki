@@ -32,8 +32,10 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
 • https://PivotalTracker.com/public_projects <br>
-• http://PivotalTracker.com <br>
-• http://PivotalLabs.com <br>
+• [SOFTWARE RELEASE LIFE CYCLE][S] <br>
+• [PivotalTracker.com](http://PivotalTracker.com) <br>
+• [PivotalLabs.com]http://PivotalLabs.com <br>
+• [VERSION CONTROL][V] <br>
 
 <a><table width="100%"><tr class="disregard previous highlight"><td class="blame">
 
@@ -158,7 +160,7 @@ _**Registration** — Once you have found yourself a pod, go find the sign up li
 - **Software Release Life Cycle | Pre-Alpha | Alpha | Beta** <br>
 _refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
 • http://en.wikipedia.org/wiki/Software_release_life_cycle <br>
-• **[Version Control][V]**
+• [VERSION CONTROL][V]
 
 - **Spain** [Pods][P]
 
@@ -221,7 +223,7 @@ _Revision control, also known as version control and source control (and an aspe
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
-• **[Software Release Life Cycle][S]** <br>
+• [SOFTWARE RELEASE LIFE CYCLE][S] <br>
 • https://GitHub.com/diaspora/ <br>
 • [PivotalTracker.com](http://PivotalTracker.com) <br>
 • [PivotalLabs.com](http://PivotalLabs.com) <br>
