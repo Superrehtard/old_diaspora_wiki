@@ -63,7 +63,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **#cats | #nature**
+- **[#cats](https://joindiaspora.com/tags/cats) | [#nature](https://joindiaspora.com/tags/nature)** 
 - #birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -199,8 +199,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O c c u p y --> 
 
-- **#anarchism #anarchy #occupy#revolution**
-- #99percent #arabspring #occupy #occupymovement #occupyla #ows
+- **#anarchism #anarchy #occupy #revolution**
+- #99percent #arabspring #occupy #occupymovement #occupyla #ows #philosophy #politics
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-open"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -318,7 +318,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
 - **#android | #apple | #bikes | #cars | #computers | #motorcycles**
-- #guns #bicycle #bicycles #bicycling #cycling #motorbikes #porsche #robotics #toys
+- #guns #bicycle #bicycles #bicycling #bmw #cycling #motorbikes #porsche #robotics #toys
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-wellness"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -483,4 +483,10 @@ IMAGE on RIGHT
 ![Image](./image.png)
 </a></td></tr></table></a>
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LIST of BOLD #TAGS
+
+- **[1](https://joindiaspora.com/tags/1) | [2](https://joindiaspora.com/tags/2) | [3](https://joindiaspora.com/tags/3) | [4](https://joindiaspora.com/tags/4) | [5](https://joindiaspora.com/tags/5) | [6](https://joindiaspora.com/tags/6) | [7](https://joindiaspora.com/tags/7) | [8](https://joindiaspora.com/tags/8) | [9](https://joindiaspora.com/tags/9)** 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
