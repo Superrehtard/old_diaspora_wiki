@@ -112,6 +112,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Cooking, Food & Drink](#wiki-cooking)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/5" title=" Maxwell ">
+![Maxwell](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_7b834a1cdc51c2ab9156.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
 - **[#beer](https://joindiaspora.com/tags/beer) | [#coffee](https://joindiaspora.com/tags/coffee) | [#cooking](https://joindiaspora.com/tags/cooking) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
@@ -130,6 +135,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Diaspora Dev](#wiki-dev)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/8" title=" Sarah ">
+![Sarah](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_73373ec487ea29af7922.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
 - **#diaspora | #hacker | #linux | #opensource**
