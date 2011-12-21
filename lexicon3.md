@@ -33,9 +33,9 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
 • https://PivotalTracker.com/projects/426041/ <br>
 • https://PivotalTracker.com/public_projects <br>
 • [SOFTWARE RELEASE LIFE CYCLE][S] <br>
-• [PivotalTracker.com](http://PivotalTracker.com) <br>
-• [PivotalLabs.com]http://PivotalLabs.com <br>
 • [VERSION CONTROL][V] <br>
+• [PivotalTracker.com](http://PivotalTracker.com) <br>
+• [PivotalLabs.com](http://PivotalLabs.com) <br>
 
 <a><table width="100%"><tr class="disregard previous highlight"><td class="blame">
 
