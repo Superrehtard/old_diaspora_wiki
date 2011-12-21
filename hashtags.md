@@ -61,6 +61,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Animals & Pets](#wiki-animals)**
 </th></th></tr></table>
 
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/ce_anx" title=" Catherine ">
+![Catherine](https://diasp.org/uploads/images/thumb_small_d46d2ee9775789449977.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
 - **[#cats](https://joindiaspora.com/tags/cats) | [#nature](https://joindiaspora.com/tags/nature)** 
@@ -268,7 +272,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
-- **[#1](https://joindiaspora.com/tags/diaspora)**
+- **[#diaspora](https://joindiaspora.com/tags/diaspora)**
 - #community #diy #facebook #flickr #friendfeed #google #news #twitter #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
