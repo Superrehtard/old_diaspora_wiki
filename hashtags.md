@@ -37,6 +37,7 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
 - **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#design](https://joindiaspora.com/tags/design) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#web](https://joindiaspora.com/tags/web) | [#internet](https://joindiaspora.com/tags/internet) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
+
 <!-- - - - - - - - - - - - - - - - - - / T o p - T a g s --> 
 <!-- - - - - - - - - - - - - - - - - - C o n t a c t - U s --> 
 
@@ -148,15 +149,6 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **Tags:&nbsp;** #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Plants & Gardens](#wiki-plants)**
-</th></th></tr></table>
-<!-- - - - - - - - - - - - - - - - - - P l a n t s --> 
-
-- **Top:&nbsp; #permaculture #nature**
-- **Tags:&nbsp;** #farming #farmer #gardening #gardener #trees
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Gender & Sexuality](#wiki-gender)**
 </th></th></tr></table>
@@ -181,7 +173,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
 - **#html5 | #web | #internet**
-- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #sql #yahoo
+- #cloud #bitcoin #diaspora #facebook #google #html5 #mysql #sql #twitter #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -236,6 +228,16 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 - **Top:&nbsp;  #canada #french #travel**
 - **Tags:&nbsp;**  #africa #america #beach #brasil #brazil #canada #china #earth #israel #italy #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Plants & Gardens](#wiki-plants)**
+</th></th></tr></table>
+
+<!-- - - - - - - - - - - - - - - - - - P l a n t s --> 
+
+- **Top:&nbsp; #permaculture #nature**
+- **Tags:&nbsp;** #farming #farmer #gardening #gardener #trees
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
