@@ -34,12 +34,11 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 <a name="wiki-top-tags"><table width="100%" border="0"><tr><td class="not to blame"> 
 **[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Please resist over-tagging)!
 </td></tr></table>
-
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
-- **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
-
+- **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#design](https://joindiaspora.com/tags/design) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
 <!-- - - - - - - - - - - - - - - - - - / T o p - T a g s --> 
+<!-- - - - - - - - - - - - - - - - - - C o n t a c t - U s --> 
 
 <a name="wiki-top"><table width="100%" border=""><tr class="disregard previous highlight"><td class="not to blame"> 
 <a><table align="right" width="9" height="9"><tr><td>
@@ -55,28 +54,27 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 [@RichardTE](https://JoinDiaspora.com/u/richardte) & [@D*Group](https://Diasp.org/u/d_group)
 
 </td></tr></table></a>
-
+<!-- - - - - - - - - - - - - - - - - - / C o n t a c t - U s -->
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-animals"><table width="100%" border=0"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
+- **#cats | #nature**
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
-
-- **Top:&nbsp; ##cats #nature**
-- **Tags:&nbsp;** #birds #dogs #fish #fishing #horses
+- #birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
+- **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
-- **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #gif #graffiti #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Community](#wiki-community) Building**
+**[Community Building](#wiki-community)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o m m u n i t y - - - - - - - - - - - - - - - - - --> 
 
@@ -85,7 +83,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Cooking](#wiki-cooking), Food & Drink**
+**[Cooking, Food & Drink](#wiki-cooking)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
@@ -94,12 +92,12 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
-**Computer Programming & Hacking [Code](#wiki-code)**
+**[Code Hacking & Computer Programming](#wiki-code)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
-- **Top:&nbsp; #android #anonymous #apple #computers #freesoftware #hacker #html5 #java #gnulinux #linux #logic #opensource #php #software**
-- **Tags:&nbsp;** #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
+- **#android | #anonymous | #apple | #computers | #freesoftware | #hacker | #html5 | #java | #gnulinux | #linux | #logic | #opensource | #php | #software**
+- #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -107,17 +105,17 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp;  #tattoo #tattoos**
-- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #queer #steampunk #tattoos #zeitgeist #zombies
+- **#tattoo | #tattoos**
+- **#artculture #burningman #community #culture #cyberpunk #freeculture #gay #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #queer #steampunk #tattoos #vampires #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
-**Diaspora [Dev](#wiki-dev)**
+**[Diaspora Dev](#wiki-dev)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - D e v - - - - - - - - - - - - - - - - - --> 
 
-- **Top:&nbsp; #diapora #hacker #linux #opensource**
-- **Tags:&nbsp;** #bug #commit #diy #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
+- **#diaspora | #hacker | #linux | #opensource**
+- #bug #commit #diy #feature #federation #groups #lifehacker #mysql #networking #ruby #programming #usability #ux
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -125,17 +123,17 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
-- **Top:&nbsp;  #art #comedy #film #fun #funny #music #musica #musika #movies #scifi**
-- **Tags:&nbsp;**  #artfilm #arts #burlesque #comics #flickr #film #games #npr #radio #sci-fi #startrek #starwars #tv #youtube
+- **#art | #comedy | #film | #fun | #funny | #music | #musica | #musika | #movies | #scifi| #wtf**
+- #artfilm #arts #burlesque #comics #flickr #film #games #npr #radio #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Fashion](#wiki-fashion) & Beauty**
+**[Fashion & Beauty](#wiki-fashion)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
 
-- **Top:&nbsp; #fashion #tattoos**
-- **Tags:&nbsp;** #clothing #hair #makeup #modeling #shoes #textiles
+- **#design | #fashion | #tattoos**
+- #clothing #hair #makeup #modeling #shoes #textiles
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gaming"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -337,6 +335,7 @@ This page searches on JoinDiaspora.com.  Ratings are based on number of 'People'
 - **[\#movies](https://JoinDiaspora.com/tags/movies)** (10500) Dec2011
 - **[\#art](https://JoinDiaspora.com/tags/art)** (9000) Dec2011
 - **[\#linux](https://JoinDiaspora.com/tags/linux)** (7300) Dec2011
+- **[\#design](https://JoinDiaspora.com/tags/android)** (4400) Dec2011
 - **[\#android](https://JoinDiaspora.com/tags/android)** (3500) Dec2011
 - **[\#travel](https://JoinDiaspora.com/tags/travel)** (3300)
 - **[\#science](https://JoinDiaspora.com/tags/science)** (2800)
