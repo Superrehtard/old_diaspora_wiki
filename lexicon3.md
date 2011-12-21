@@ -28,13 +28,13 @@ Or post your ideas via **Diaspora** using one of these [#hashtags](#) ...
 </td></tr></table></a>
    
 - **Pivotal Tracker | Pivotal Labs** <br>
+• [Software Release Life Cycle][S] | [Version Control][V] <br>
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
 • https://PivotalTracker.com/public_projects <br>
 • [PivotalTracker.com](http://PivotalTracker.com) <br>
 • [PivotalLabs.com](http://PivotalLabs.com) <br>
-• [Software Release Life Cycle][S] | [Version Control][V] <br>
 
 <a><table width="100%"><tr class="disregard previous highlight"><td class="blame">
 
@@ -160,8 +160,8 @@ _Once you have found yourself a pod, go find the sign up link! It should be righ
 
 - **Software Release Life Cycle | Pre-Alpha | Alpha | Beta** <br>
 _refers to the phases of development and maturity for a piece of computer software—ranging from its initial development, to its eventual release, and updated versions of the released version to help improve software or fix bugs still present in the software_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2011) <br>
+• [Version Control][V] | [GitHub][G] | [PivotalTracker][P]
 • http://en.wikipedia.org/wiki/Software_release_life_cycle <br>
-• [VERSION CONTROL][V]
 
 - **Spain** [Pods][P]
 
@@ -218,13 +218,13 @@ _**Linus Benedict Torvalds** born December 28, 1969 in Helsinki, Finland) is a F
 - **Version Control | Commit | Fetch | Fork | Pull | Push** <br>
 _Revision control, also known as version control and source control (and an aspect of software configuration management or SCM), is the management of changes to documents, programs, and other information stored as computer files.  It is most commonly used in software development, where a team of people may change the same files.  Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision".  For example, an initial set of files is "revision 1".  When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change.  Revisions can be compared, restored, and with some types of files, merged_ ... ([Wikipedia.org](http://en.wikipedia.org/wiki/Revision_control) 2011)<br>
 <br>
+• [GitHub][G] | [PivotalTracker][P] | [Software Release Life Cycle][S]
 • http://en.wikipedia.org/wiki/Distributed_revision_control <br>
 • http://en.wikipedia.org/wiki/Software_versioning <br>
 • http://en.wikipedia.org/wiki/Revision_control <br>
 • https://PivotalTracker.com/projects/61641/ <br>
 • https://PivotalTracker.com/projects/411181/ <br>
 • https://PivotalTracker.com/projects/426041/ <br>
-• [SOFTWARE RELEASE LIFE CYCLE][S] <br>
 • https://GitHub.com/diaspora/ <br>
 • [PivotalTracker.com](http://PivotalTracker.com) <br>
 • [PivotalLabs.com](http://PivotalLabs.com) <br>
