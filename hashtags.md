@@ -69,7 +69,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
-- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #graffiti #knitting #multimedia #photography #photoshop #sculpture #streetart #typography #writing
+- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #gif #graffiti #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-community"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -96,7 +96,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C o d e --> 
 
 - **Top:&nbsp; #android #anonymous #apple #computers #freesoftware #hacker #html5 #java #gnulinux #linux #logic #opensource #php #software**
-- **Tags:&nbsp;** #css #c #cpp #cryptography #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
+- **Tags:&nbsp;** #css #c #cpp #cryptography #geek #gif #gnu #html #javascript #microsoft #networking #programming #ruby #rubyonrails #ted #xml
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-culture"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -105,7 +105,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - C u l t u r e - - - - - - - - - - - - - - - - - --> 
 
 - **Top:&nbsp;  #tattoo #tattoos**
-- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #goth #harrypotter #heavymetal #indie #lgbt #lgbtq #meme #memes #punk #queer #steampunk #tattoos #zeitgeist #zombies
+- **Tags:&nbsp;**  #artculture #burningman #community #culture #freeculture #gay #geek #goth #harrypotter #hipster #heavymetal #indie #lgbt #lgbtq #meme #memes #nerd #punk #queer #steampunk #tattoos #zeitgeist #zombies
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-dev"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -123,7 +123,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
 - **Top:&nbsp;  #art #comedy #film #fun #funny #music #musica #musika #movies #scifi**
-- **Tags:&nbsp;**  #artfilm #arts #burlesque #flickr #film #games #npr #radio #tv #youtube
+- **Tags:&nbsp;**  #artfilm #arts #burlesque #comics #flickr #film #games #npr #radio #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -141,7 +141,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **Top:&nbsp; #gaming**
-- **Tags:&nbsp;** #chess #games #gambling #portal #poker #pokemon #rpg
+- **Tags:&nbsp;** #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -177,7 +177,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | [#music](https://joindiaspora.com/tags/music)** 
--  #classicalmusic #disco #dj #drum #drums #drumming #folkmusic #funk #gosple #heavymetal #hiphop #house #housemusic #livemusic #noise #piano #punk #rap #rocknroll #soul #techno
+-  #classicalmusic #disco #dj #drum #drums #drumming #folkmusic #funk #gosple #heavymetal #hiphop #house #housemusic #indie #livemusic #metal #music-addicted #noise #piano #postrock #punk #rap #remix #rocknroll #soul #techno
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -258,7 +258,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
 
 - **Top:&nbsp; #newhere**
-- **Tags:&nbsp;** #commit #d_group #d_hashtags #d_lexicon #wtf
+- **Tags:&nbsp;** #commit #d_group #d_hashtags #d_lexicon #fail #nsfw #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-spirituality"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -318,6 +318,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Other](#wiki-other)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
+
+#4chan #bitcoin #facebook #yahoo #google #reddit
 
 ---
 
