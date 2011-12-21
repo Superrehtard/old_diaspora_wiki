@@ -17,6 +17,19 @@ For both run:
 
     wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
+### Install RVM (optional but currently recommended)
+
+You can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescueend.com/). This is currently recommended to get the latest Rubygems version.
+
+To install RVM and REE, as your normal user (the one which Diaspora should run under), run
+
+    bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+    echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
+    bash
+    rvm install ree
+    rvm use ree@global
+
+
 ### Start MySQL (optional, depending on your platform):
 
     sudo service mysql start
