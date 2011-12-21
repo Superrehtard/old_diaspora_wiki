@@ -59,8 +59,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-animals"><table width="100%" border=0"><tr><th class="not to blame"> 
 **[Animals](#wiki-animals) & Pets**
 </th></th></tr></table>
+
 - **#cats | #nature**
+
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
+
 - #birds #dogs #fish #fishing #horses
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
@@ -68,6 +71,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
 - **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
+
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #freeculture #gif #graffiti #knitting #multimedia #photo #photography #photoshop #sci-fi #sculpture #streetart #typography #writing
