@@ -100,12 +100,12 @@ _dynamic, reflective, general-purpose **object-oriented programming language** t
 • http://en.wikipedia.org/wiki/Ruby_(programming_language) <br>
 • http://en.wikipedia.org/wiki/Ruby_on_Rails <br>
 • http://Rubyist.net/~slagell/ruby <br>
-• [RubyInstaller.org]http://RubyInstaller.org <br>
+• [RubyInstaller.org](http://RubyInstaller.org) <br>
 • [RubyOnRails.org](http://rubyonrails.org) <br>
-• [Ruby-Forum.com]http://Ruby-Forum.com <br>
-• [RubyForge.org]http://rubyforge.org <br>
-• [Ruby-Lang.org]http://Ruby-Lang.org <br>
-• [Ruby-Doc.org]http://Ruby-Doc.org <br>
+• [Ruby-Forum.com](http://Ruby-Forum.com) <br>
+• [RubyForge.org](http://rubyforge.org) <br>
+• [Ruby-Lang.org](http://Ruby-Lang.org) <br>
+• [Ruby-Doc.org](http://Ruby-Doc.org) <br>
 
 <!-- - - - - - - - - - SSS - - - - - - - - - - - - -->
 
