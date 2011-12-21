@@ -268,12 +268,12 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
-**Miscellaneous & [Special](#wiki-special) Tags**
+**[Special & Misc](#wiki-special)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
 
-- **Top:&nbsp; #newhere**
-- **Tags:&nbsp;** #commit #d_group #d_hashtags #d_lexicon #fail #nsfw #wtf
+- **#bug | #feature | #newhere | #question**
+- #commit #d_group #d_hashtags #d_lexicon #fail #nsfw #wtf
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-spirituality"><table width="100%" border="0"><tr><th class="not to blame"> 
