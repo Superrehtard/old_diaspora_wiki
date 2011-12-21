@@ -129,10 +129,8 @@ definition of **seed** ... <br>
 [ [DiasporaSerbia.org](https://diasporaserbia.org) ]
 
 - **Sign Up | Join | Login | Registration** <br>
-_**Finding a pod**_ <br>
-_Opposed to other social networking sites, like Facebook and Twitter, we cannot give you a specific link and say:&nbsp; sign up here.&nbsp; Diaspora is different to those sites as it is a decentralised social network.&nbsp; You will have to decide which Diaspora provider you want to sign up to.&nbsp; We call these providers Diaspora pods_ ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
-_**Registration**_ <br>
-_Once you have found yourself a pod, go find the sign up link! It should be right there on the homepage of the pod.&nbsp; Optionally you could click “log in” and register from the login menu_ ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
+_**Finding a pod** — Opposed to other social networking sites, like Facebook and Twitter, we cannot give you a specific link and say:&nbsp; sign up here.&nbsp; Diaspora is different to those sites as it is a decentralised social network.&nbsp; You will have to decide which Diaspora provider you want to sign up to.&nbsp; We call these providers Diaspora pods_ ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
+_**Registration** — Once you have found yourself a pod, go find the sign up link! It should be right there on the homepage of the pod.&nbsp; Optionally you could click “log in” and register from the login menu_ ... ([Diasporial](http://diasporial.com/tutorials/signing-up) 2011) <br>
 • http://diasporial.com/tutorials/signing-up <br>
 • https://JoinDiaspora.com/users/sign_up <br>
 • https://Diasp.eu/users/sign_up <br>
