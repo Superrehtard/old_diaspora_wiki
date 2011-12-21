@@ -25,6 +25,7 @@ anywhere on the site.
 * Unofficial Jabber-chatroom: diaspora@conference.jabber.org
 * [[Logos, Icons, and Visual Art]] - includes wallpaper, fan art, etc.
 * [[Tools to use with Diaspora]] - browser add-ons, share buttons, CMS plugins, etc.
+* [Diaspora Hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)
 * [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 * [[Related and similar projects|Other projects]]
 
