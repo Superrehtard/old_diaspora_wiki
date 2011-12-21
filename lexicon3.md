@@ -84,7 +84,7 @@ File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 
 ## <a name="wiki-r">R</a>
 
-<a><table align="right" width="9" height="9"><tr><td>
+<a><table align="right" width="0" height="0" cellspacing="0" cellpadding="0" border="0"><tr><td>
 ![Ruby on Rails](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png)
 </td></tr></table></a>
 
