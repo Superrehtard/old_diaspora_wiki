@@ -255,6 +255,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-open"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Open Source & Open Content](#wiki-open)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/26" title=" Dan ">
+![Dan](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_be790f3ba227d0205652.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - O p e n --> 
 
 - **[#freesoftware](https://joindiaspora.com/tags/freesoftware) | [#opensource](https://joindiaspora.com/tags/opensource)**
