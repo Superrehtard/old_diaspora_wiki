@@ -437,6 +437,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-other"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Unfiled or Other](#wiki-other)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/58776" title=" Peter ">
+![Peter](https://pod.geraspora.de/uploads/images/thumb_small_e6dba5560ae9b0afc3b0.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - O t h e r --> 
 
 - #teens #20s #30s #40s #50s #60s #70s #80s #90s #libros #reddit #puns #random #wtf 
