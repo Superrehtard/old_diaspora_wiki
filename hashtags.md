@@ -322,8 +322,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/3" title=" fabdo ">
-![fabdo](https://pod.geraspora.de/uploads/images/thumb_small_4f858103634321bf5278.png)
+<a href="https://diasp.org/people/77509" title=" fabdo ">
+![fabdo](https://stylr.net/uploads/images/thumb_small_5538e2e675e607e179b6.png)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
