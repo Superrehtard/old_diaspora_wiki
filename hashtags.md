@@ -326,8 +326,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/u/davidmorley" title=" David ">
-![David](https://diasp.org/uploads/images/thumb_small_c9ad74c4b3e69c6dd328.gif)
+<a href="https://diasp.org/u/csolisr" title=" Carlos ">
+![Carlos](https://diasp.org/uploads/images/thumb_small_6f9cac21f46204d7820c.jpg)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
