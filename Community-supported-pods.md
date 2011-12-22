@@ -7,6 +7,7 @@ are choosing which pod to sign up for, you also consider:
 
 * [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.
 * [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.
+* [Pod Ranking](http://diaspora.wk3.org/) - also incorporating encryption and legal details, run by Christophe of wk3.org
 
 If there is an unbroken image next to the pod name in the list below, the pod is probably online at the moment.
 
