@@ -75,10 +75,14 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 **[Arts](#wiki-arts)**
 </th></th></tr></table>
 
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/greyeyedeve" title=" greyeyedeve ">
+![greyeyedeve](https://diasp.org/uploads/images/thumb_small_bf68d1d7facc943f36ba.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - A r t s - - - - - - - - - - - - - - - - - --> 
 
 - **[#anime](https://joindiaspora.com/tags/anime) | [#art](https://joindiaspora.com/tags/art) | [#artculture](https://joindiaspora.com/tags/artculture) | [#arts](https://joindiaspora.com/tags/arts) | [#books](https://joindiaspora.com/tags/books) | [#design](https://joindiaspora.com/tags/design) | [#documentaries](https://joindiaspora.com/tags/documentaries) | [#film](https://joindiaspora.com/tags/film) | [#movies](https://joindiaspora.com/tags/movies) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#musica](https://joindiaspora.com/tags/musik) | [#poetry](https://joindiaspora.com/tags/poetry) | [#scifi](https://joindiaspora.com/tags/scifi) | [#tattoo](https://joindiaspora.com/tags/tattoo) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
-- #3d #animation #arts #artcars #artfilm #burlesque #dance #dancer #feminism #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #postmodernism #sci-fi #sculpture #streetart #ted #theatre #typography #writing
+- #3d #animation #arts #artcars #artfilm #burlesque #craft #crafts #dance #dancer #feminism #flash #freeculture #gif #graffiti #html5 #knitting #multimedia #photo #photography #photoshop #postmodernism #sci-fi #sculpture #streetart #ted #theatre #typography #writing
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-code"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -588,7 +592,7 @@ HEADING
 IMAGE on RIGHT
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="#DESTINATION_URL" title=" #POP_UP_TEXT ">
+<a href="#DESTINATION_URL" title=" #HOVER_TEXT ">
 ![NAME](#IMG_SOURCE)
 </a></td></tr></table></a>
 
