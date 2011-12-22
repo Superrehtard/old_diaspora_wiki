@@ -386,8 +386,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/24071" title=" LunaChick ">
-![LunaChick](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_27318e3d550f45289f6d.jpg)
+<a href="https://diasp.org/people/24071" title=" LunaChik** ">
+![LunaChik\*\*](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_27318e3d550f45289f6d.jpg)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
