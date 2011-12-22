@@ -273,8 +273,6 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-places"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Places](#wiki-places)**
 </th></th></tr></table>
-<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
 <a href="https://diasp.org/people/60892" title=" Silvia ">
