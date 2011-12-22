@@ -384,6 +384,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-toys"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Toys](#wiki-toys)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/people/24071" title=" LunaChick ">
+![LunaChick](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_27318e3d550f45289f6d.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - T o y s --> 
 
 - **[#android](https://joindiaspora.com/tags/android) | [#apple](https://joindiaspora.com/tags/apple) | [#bikes](https://joindiaspora.com/tags/bikes) | [#cars](https://joindiaspora.com/tags/cars) | [#computers](https://joindiaspora.com/tags/computers) | [#motorcycles](https://joindiaspora.com/tags/motorcycles)**
