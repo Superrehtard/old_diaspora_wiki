@@ -33,13 +33,13 @@
 
 ## Español
 
-#### Hola!! Aquí tienes unos rapidos tips para comenzar a disfrutar Diaspora y conocer a muchas personas!
+#### Hola!! Aquí tienes unos rápidos consejos para comenzar a disfrutar Diaspora y conocer a muchas personas!
 
-1. **Agrega 5 tags a tu perfil** si ya no lo hiciste: esto ayudará a personas como tu a encontrarte.
-2. **Comienza siguiendo algunos #tags** (Busca por estos en la barra de busqueda (arriba) y dale click "comenzar a seguir"): los tags seguidos aparecerán en tu stream y te ayudarán a encontrar personas como tu y mantenerte actualizado sobre los topicos o temas de tu interes!
-3. **Agrega tags a tus post y publicalos al mundo**: Se mostrarán en el stream de quien sigue esos tags.
-4. **Solo empieza compartiendo** y poco a poco entenderas como funcionan las cosas!
-5. Si tienes mas preguntas, solo revisa [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) y [tutoriales](http://diasporial.com/tutorials) ó realiza post publico con el tag #question   
+1. **Agrega 5 tags a tu perfil** si aún no lo has hecho: esto ayudará a gente como tú a encontrarte.
+2. **Comienza siguiendo algunas #etiquetas** (búscalos en la barra de busqueda (arriba) y haz clic en "Seguir"): las etiquetas que sigas aparecerán en tu stream y te ayudarán a encontrar personas como tú y mantenerte actualizado sobre tus intereses.
+3. **Usa etiquetas en tus publicaciones y hazlas públicas**: de esta forma se mostrarán en el stream de quien sigue esas etiquetas.
+4. **Empieza a compartir** y poco a poco entenderás cómo funcionan las cosas!
+5. Si tienes más preguntas, echa un vistazo al [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) y a estos [tutoriales](http://diasporial.com/tutorials) o realiza posts públicos con la etiqueta #pregunta.   
 
 
 ## Français
@@ -119,9 +119,9 @@ tags डालने के लिए किसी भी शब्द को "#
 
 ## বাংলা
 
-#### স্বাগতম! আপনি যেন দ্রুত এবং সহজে Diaspora উপভোগ করা এবং নতুন নতুন মানুষের সাথে পরিচিত হতে পারেন সেজন্য এখানে কিছু পরামর্শ দেয়া হল!
+#### স্বাগতম! আপনি যেন দ্রুত এবং সহজে Diaspora উপভোগ করা এবং নতুন নতুন মানুষের সাথে পরিচিত হতে পারেন সেজন্য এখানে কিছু পরামর্শ দেয়া হল!
 1. **আপনার প্রোফাইলে ৫টি ট্যাগ(tag) যোগ করুন** যদি এখনও না করে থাকেন: এতে সমমনা মানুষেরা আপনাকে সহজে খুঁজে পাবেন!
-2. **পছন্দের বিষয়গুলোর #tag অনুসরণ করুন** (সার্চবারে #tag সার্চ করুন এবং অনুসরণ করতে "start following" বাটন চাপুন): অনুসরণকৃত ট্যাগ সম্পর্কিত খবরাখবর আপনার স্টৃমে(Stream) দেখা যাবে এবং এর সাহায্যে আপনার সমমনা মানুষদের খুঁজে পাবেন এবং পছন্দের বিষয়গুলোর খবরাখবর জানতে পারবেন!
+2. **পছন্দের বিষয়গুলোর #tag অনুসরণ করুন** (সার্চবারে #tag সার্চ করুন এবং অনুসরণ করতে "start following" বাটন চাপুন): অনুসরণকৃত ট্যাগ সম্পর্কিত খবরাখবর আপনার স্টৃমে(Stream) দেখা যাবে এবং এর সাহায্যে আপনার সমমনা মানুষদের খুঁজে পাবেন এবং পছন্দের বিষয়গুলোর খবরাখবর জানতে পারবেন!
 3. **আপনার পোস্টগুলোতে ট্যাগ ব্যবহার করুন এবং সার্বজনীন(Public) করে পোস্ট করুন**: যারা ট্যাগগুলো অনুসরণ করবেন তাদের স্টৃমে এই পোস্টগুলো দেখা যাবে!
-4. **শুধু সবার সাথে শেয়ার করা শুরু করুন** তাহলে আপনি সহজেই বুঝতে পারবেন কিভাবে কি করবেন!
-5. আপনার যদি আরো কিছু জানার থেকে থাকে, তাহলে [প্রাজিপ্র](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)(প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী-FAQ) এবং [টিউটরিয়াল(ইংরেজী)](http://diasporial.com/tutorials) দেখুন অথবা #question ট্যাগ সহকারে একটি সার্বজনীন পোস্ট করুন।
+4. **শুধু সবার সাথে শেয়ার করা শুরু করুন** তাহলে আপনি সহজেই বুঝতে পারবেন কিভাবে কি করবেন!
+5. আপনার যদি আরো কিছু জানার থেকে থাকে, তাহলে [প্রাজিপ্র](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)(প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী-FAQ) এবং [টিউটরিয়াল(ইংরেজী)](http://diasporial.com/tutorials) দেখুন অথবা #question ট্যাগ সহকারে একটি সার্বজনীন পোস্ট করুন।
