@@ -273,6 +273,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-places"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Places](#wiki-places)**
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+
+<a href="https://diasp.org/people/60892" title=" Silvia ">
+![Silvia](https://social.mathaba.net/uploads/images/thumb_small_833ca9e222391e8f0477.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
 - **[#canada](https://joindiaspora.com/tags/canada) | [#french](https://joindiaspora.com/tags/french) | [#travel](https://joindiaspora.com/tags/travel)**
@@ -398,6 +403,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-wellness"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Wellness](#wiki-wellness)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/pfizerdiamonds" title=" Joseph ">
+![Joseph](https://diasp.org/uploads/images/thumb_small_717fd5b1fa6eb623716c.jpeg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - W e l l n e s s --> 
 
 - **[#health](https://joindiaspora.com/tags/health) | [#medicine](https://joindiaspora.com/tags/medicine) | [#cooking](https://joindiaspora.com/tags/cooking)**
