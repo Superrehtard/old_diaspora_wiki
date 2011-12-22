@@ -35,7 +35,7 @@
 
 #### Hola!! Aquí tienes unos rápidos consejos para comenzar a disfrutar Diaspora y conocer a muchas personas!
 
-1. **Agrega 5 tags a tu perfil** si aún no lo has hecho: esto ayudará a gente como tú a encontrarte.
+1. **Agrega 5 etiquetas a tu perfil** si aún no lo has hecho: esto ayudará a gente como tú a encontrarte.
 2. **Comienza siguiendo algunas #etiquetas** (búscalos en la barra de busqueda (arriba) y haz clic en "Seguir"): las etiquetas que sigas aparecerán en tu stream y te ayudarán a encontrar personas como tú y mantenerte actualizado sobre tus intereses.
 3. **Usa etiquetas en tus publicaciones y hazlas públicas**: de esta forma se mostrarán en el stream de quien sigue esas etiquetas.
 4. **Empieza a compartir** y poco a poco entenderás cómo funcionan las cosas!
