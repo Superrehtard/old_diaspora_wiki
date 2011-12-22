@@ -306,6 +306,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-politics"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Politics](#wiki-politics)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/cia_marie" title=" Cia ">
+![Cia](https://diasp.org/uploads/images/thumb_small_899106539539348af3f3.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P o l i t i c s --> 
 
 - **[#freedom](https://joindiaspora.com/tags/freedom)**
