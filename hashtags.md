@@ -275,6 +275,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </th></th></tr></table>
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
 
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
 <a href="https://diasp.org/people/60892" title=" Silvia ">
 ![Silvia](https://social.mathaba.net/uploads/images/thumb_small_833ca9e222391e8f0477.jpg)
 </a></td></tr></table></a>
@@ -357,6 +359,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Sports](#wiki-animals)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/zulu" title=" Zulu ">
+![Zulu](https://diasp.org/uploads/images/thumb_small_fafe24f8238308d0928e.JPG)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - S p o r t s --> 
 
 - **[#climbing](https://joindiaspora.com/tags/climbing) | [#football](https://joindiaspora.com/tags/football) | [#martialarts](https://joindiaspora.com/tags/martialarts) | [#soccer](https://joindiaspora.com/tags/soccer)**
