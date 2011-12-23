@@ -1,5 +1,5 @@
 # Diaspora* Hashtags
-## Diaspora #hashtags | Diaspora #tags
+## Diaspora [#hashtags](https://joindiaspora.com/tags/hashtags) | Diaspora [#tags](https://joindiaspora.com/tags/tags)
 
 **New page under development 2011 Dec ...**
 
