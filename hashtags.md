@@ -179,7 +179,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **[#gaming](https://joindiaspora.com/tags/gaming)**
-- #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #rpg #skyrim #steam #valve #worldofwarcraft #xbox #zelda
+- #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #ps3 #rpg #skyrim #steam #valve #worldofwarcraft #xbox #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
