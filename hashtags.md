@@ -158,6 +158,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Entertainment](#wiki-entertainment)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://joindiaspora.com/u/consensus" title=" Consensus ">
+![Consensus](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_32589690329987fced5d.png)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - E n t e r t a i n m e n t --> 
 
 - **[#arts](https://joindiaspora.com/tags/art) | [#comedy](https://joindiaspora.com/tags/comedy) | [#film](https://joindiaspora.com/tags/film) | [#fun](https://joindiaspora.com/tags/fun) | [#funny](https://joindiaspora.com/tags/funny) | [#music](https://joindiaspora.com/tags/music) | [#musica](https://joindiaspora.com/tags/musica) | [#movies](https://joindiaspora.com/tags/movies) | [#scifi](https://joindiaspora.com/tags/scifi) | [#wtf](https://joindiaspora.com/tags/wtf)**
