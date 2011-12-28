@@ -169,7 +169,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - #artfilm #arts #burlesque #comics #flickr #film #games #news #npr #puns #radio #random #sci-fi #startrek #starwars #tv #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-entertainment"><table width="100%" border="0"><tr><th class="not to blame"> 
+<a name="wiki-fashion"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Fashion & Beauty](#wiki-fashion)**
 </th></th></tr></table>
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
@@ -187,7 +187,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - #chess #games #gambling #leagueoflegends #minecraft #pc-gamer #portal #poker #pokemon #ps3 #rpg #skyrim #steam #valve #worldofwarcraft #xbox #zelda
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-sex"><table width="100%" border="0"><tr><th class="not to blame"> 
+<a name="wiki-gender"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Gender & Sexuality](#wiki-gender)**
 </th></th></tr></table>
 
@@ -210,8 +210,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - #bicycles #climate #cycling #eco #energy #lifehacker #fairtrade #sustainability
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Internet](#wiki-green)**
+<a name="wiki-internet"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Internet](#wiki-internet)**
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
@@ -303,7 +303,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - #africa #america #beach #brasil #brazil #canada #china #earth #israel #italy #japan #nyc #newyork #portugal #sanfrancisco #space #spain #travel #uk #usa 
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-gardens"><table width="100%" border="0"><tr><th class="not to blame"> 
+<a name="wiki-plants"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Plants & Gardens](#wiki-plants)**
 </th></th></tr></table>
 
@@ -384,7 +384,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-sports"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Sports](#wiki-animals)**
+**[Sports](#wiki-sports)**
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
