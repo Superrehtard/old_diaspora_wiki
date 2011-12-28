@@ -278,6 +278,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-philosophy"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Philosophy](#wiki-philosophy)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://joindiaspora.com/u/madamephilosophe" title=" madame philosophe** ">
+![madame philosophe**](https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_edeb97d68e95d6d0ae06.jpg)
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P h i l o s o p h y --> 
 
 - **[#philosophy](https://joindiaspora.com/tags/philosophy)**
