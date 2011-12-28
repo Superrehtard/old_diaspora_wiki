@@ -351,7 +351,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
 - **[#diaspora](https://joindiaspora.com/tags/diaspora)**
-- #community #diy #facebook #flickr #friendfeed #google #news #twitter #youtube
+- #community #diy #facebook #flickr #friendfeed #friendica #google #news #twitter #youtube
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
