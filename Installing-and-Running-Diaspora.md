@@ -226,13 +226,11 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 
 ## Running Diaspora
 
-To turn on the server use the command `./script/server`. This will start Thin, Redis, a Resque worker and the Websocket server. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
+To turn on the server use the command `./script/server`. This will start Thin, a Resque worker and the Websocket server. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
 
-Note: When `./script/server` starts redis, it reads the `config/redis.yml` file. Make sure that you have write permissons to the log file, which is specified on the line starting with the word `logfile` in `config/redis.conf`.
-On some systems, you may have to create the full path to the logfile (for example, in Ubuntu, the log file is written in : /var/log/diaspora/redis.log. But because the /var/log/diaspora folder doesn't exist, you need to create it and then give the access rights so redis can write in it)
+Note: Ensure your database servers (Redis and MySQL or PostgreSQL) are running before trying to start the server.
 
-
-If you want to run an app server other than Thin or have more control over it, you must run the appserver, Redis, a Resque worker, and the Websocket server separately.
+If you want to run an app server other than Thin or have more control over it, you must run the appserver, a Resque worker, and the Websocket server separately.
 
 Here are instructions to [[Run Diaspora's components|Run Diasporas Components]]
 
