@@ -67,8 +67,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - A n i m a l s - - - - - - - - - - - - - - - - - --> 
 
-- **[#cats](https://joindiaspora.com/tags/cats) | [#nature](https://joindiaspora.com/tags/nature)** 
-- #birds #dogs #fish #fishing #horses
+- **[#animals](https://joindiaspora.com/tags/animals) | [#cats](https://joindiaspora.com/tags/cats) | [#nature](https://joindiaspora.com/tags/nature)** 
+- #animalrights #birds #dogs #fish #fishing #horses #pets
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-arts"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -243,7 +243,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-nature"><table width="100%" border="0"><tr><th class="not to blame"> 
-**[Music](#wiki-nature)**
+**[Nature](#wiki-nature)**
 </th></th></tr></table>
 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
@@ -252,8 +252,8 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - N a t u r e --> 
 
-- **[#nature](https://joindiaspora.com/tags/nature) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
-- #vegan #vegetarian
+- **[#animals](https://joindiaspora.com/tags/animals) | [#nature](https://joindiaspora.com/tags/nature) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
+- #animalrights #pets #vegan #vegetarian
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
