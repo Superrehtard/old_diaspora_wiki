@@ -116,11 +116,6 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-cooking"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Cooking, Food & Drink](#wiki-cooking)**
 </th></th></tr></table>
-
-<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/u/shivawolfe" title=" Shiva** ">
-![Shiva**](https://diasp.org/uploads/images/thumb_small_44ef4bf230ab82e1aca1.jpg)
-</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - C o o k i n g - - - - - - - - - - - - - - - - - --> 
 
 - **[#beer](https://joindiaspora.com/tags/beer) | [#coffee](https://joindiaspora.com/tags/coffee) | [#cooking](https://joindiaspora.com/tags/cooking) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
@@ -245,6 +240,20 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 - **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | [#music](https://joindiaspora.com/tags/music)** 
 -  #classicalmusic #disco #dj #drum #drums #drumming #folkmusic #funk #gosple #heavymetal #hiphop #house #housemusic #indie #livemusic #metal #music-addicted #noise #piano #postrock #punk #rap #remix #rocknroll #soul #techno
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-nature"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Music](#wiki-nature)**
+</th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="https://diasp.org/u/shivawolfe" title=" Shiva** ">
+![Shiva**](https://diasp.org/uploads/images/thumb_small_44ef4bf230ab82e1aca1.jpg)
+</a></td></tr></table></a>
+<!-- - - - - - - - - - - - - - - - - - N a t u r e --> 
+
+- **[#nature](https://joindiaspora.com/tags/nature) | [#permaculture](https://joindiaspora.com/tags/permaculture)**
+- #vegan #vegetarian
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-occupy"><table width="100%" border="0"><tr><th class="not to blame"> 
