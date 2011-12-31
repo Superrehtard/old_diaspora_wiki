@@ -198,7 +198,7 @@ Remember to always post simple, full links: no shortened links, no https; and re
 ***What is the character limit for posts shared through a connected service (Twitter, Facebook, Tumblr) with a smaller character count?***  
 In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  You can still post to these services if your post is longer than their limit, but the text is truncated on those services.
 
-***My stream is full of posts from people i don't know and i don't share with, why are they in my stream? Ho can i remove them?***                 
+***My stream is full of posts from people i don't know and i don't share with, why are they in my stream? How can i remove them?***                 
 Your stream is made up of:   
 1. Public posts by people you are sharing with.    
 2. Limited posts by people you are sharing with and who are sharing with you and posted the message to the aspect they put you in.   
