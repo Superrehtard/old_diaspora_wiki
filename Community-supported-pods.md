@@ -22,6 +22,17 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
 
 ## Diaspora pods
 
+* [[https://calispora.org/]] [[https://calispora.org/apple-touch-icon.png|height=30px]]
+   * Opened: 15-Dec-2011
+   * Updated: often, usually daily
+   * HTTPS only
+   * IPv4 only
+   * Maintained by a private individual
+       * diaspora: davey@calispora.org
+       * Contact: [[http://twitter.com/calispora]]
+   * Operating system: Linux (Ubuntu 10.10)
+   * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.
+
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: daily
