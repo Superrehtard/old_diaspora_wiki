@@ -23,6 +23,8 @@ _Links to various tools built by the community for use with Diaspora._
     
 *   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
 
+*  [Cubbi.es Plus](http://bit.ly/rUbugE) - (Firefox, Chrome) Cubbi.es with ability to add text to images.
+
 
 #### More cool stuff (add ons to make your diaspora experience smarter)
 *  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
@@ -36,8 +38,6 @@ _Links to various tools built by the community for use with Diaspora._
 *   [D* Stop Animated Gif](http://bit.ly/tCHIAG) - (Firefox, Chrome, Safari, Opera) Stop animated gif in your stream and play them on mouseover.
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
-
-*  [Cubbi.es Plus](http://bit.ly/rUbugE) - (Firefox, Chrome) Cubbi.es with ability to add text to images.
 
 
 ### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
