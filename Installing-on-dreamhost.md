@@ -82,7 +82,7 @@ Note: See top of this page about restrictions about running background processes
 
 or if you still want to go with background processes, create script/dreamhost and make it executable (chmod +x script/dreamhost)
 
-        RAILS_ENV=production nohup ~/.gems/bin/bundle exec  ~/redis/bin/redis-server &
+        nohup ~/.gems/bin/bundle exec  ~/redis/bin/redis-server &
         sleep 10
         RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
         sleep 10
