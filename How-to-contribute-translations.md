@@ -56,7 +56,6 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * [[gl|http://trasno.net/]]
-* [[ml (Malayalam)|http://wiki.smc.org.in/Diaspora_Localization]]
 
 ### Uploading locales to 99translations
 Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  The reasons are:
