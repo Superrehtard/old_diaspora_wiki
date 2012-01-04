@@ -27,12 +27,12 @@ To install Bundler, run the following:
 
 To install Redis follow these steps (you can skip this step if you are going to use single_process_mode):
 
-        $ wget http://redis.googlecode.com/files/redis-2.2.11.tar.gz
-        $ tar -zxvf redis-2.2.11.tar.gz
-        $ cd redis-2.2.11
+        $ wget http://redis.googlecode.com/files/redis-2.4.5.tar.gz
+        $ tar -zxvf redis-2.4.5.tar.gz
+        $ cd redis-2.4.5
         $ cd src; make PREFIX=$HOME/redis
         $ make PREFIX=$HOME/redis install
-        $ RAILS_ENV=production nohup $HOME/redis/bin/redis-server  &
+        $ nohup $HOME/redis/bin/redis-server  &
 
 Follow remaining steps from [[main installation article | Installing-and-Running-Diaspora]]. Just check the notes below for dreamhost specific quirks.
 
