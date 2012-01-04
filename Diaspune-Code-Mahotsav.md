@@ -19,7 +19,6 @@ If you know Ruby on Rails or diaspora, add your name as a mentor
 If you are interested to participate, add your name and a way of contacting you.
 ####Batch 1
    1. [[Muneeb Shaikh|https://joindiaspora.com/public/iammuneeb]]
-   2. Mayank Jain - firesofmay@gmail.com
    3. [[AbdulKarim Memon|https://joindiaspora.com/public/techmaniack]]
    4. [[Arnav Sonara|https://joindiaspora.com/public/sonara_arnav]]
    5. [[Akshay Mankar|https://joindiaspora.com/public/akshaymankar]]
