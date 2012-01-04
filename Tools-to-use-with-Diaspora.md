@@ -33,7 +33,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), Chrome) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. 
 
-*   [Speech to Text](http://bit.ly/vbzjvr) - (Chrome/Chromium) Diaspora* with Google Chrome HTML5 speech to text input.
+*   [D* Stop Animated Gif](http://bit.ly/tCHIAG) - (Firefox, Chrome, Safari, Opera) Stop animated gif in your stream and play them on mouseover.
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
