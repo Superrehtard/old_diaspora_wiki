@@ -47,6 +47,7 @@
       Choices on export:
         * keep pictures on old pod (pod maintainer can disable that feature)
         * download them (give the approx filesize of the resulting download, and the remind the user that he needs to upload that too).
+        * Give out a download link that the user can enter on the new pod.
         * throw them away
     * All conversations
 
