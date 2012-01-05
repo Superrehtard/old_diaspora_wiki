@@ -1,9 +1,10 @@
-# UX
-## On the old pod 
+# Seed migration proposal
+## UX
+### On the old pod 
 * User requests his backup/data/move/seed archive (however you call it)
 * User is forced to enter a password to protect it
 
-## On the new pod
+### On the new pod
 * User signs up at new pod (or has an invite from it) and is offered two options
 ** create a new account
 ** import existing account
@@ -20,8 +21,8 @@
 ** a failed move because $otherThingsThatCanGoWrong
 * User is able to sign in at the new pod at nothing except the ID changed.
 
-# Implementation
-## The archive
+## Implementation
+### The archive
 * The archive consists of two files:
 ** Another password protected archive containing the actual data
 ** A hash of the the other archive to verify it's integrity
@@ -42,7 +43,7 @@
 *** throw them away
 ** All conversations
 
-##Happenings on import
+### Happenings on import
 * After the upload is successful queue a job for it, everything below happens in this job
 * Generate a new keypair
 * Generate move notices for all contacts
@@ -53,7 +54,7 @@
 * Send success mail
 
 
-# Open questions
+## Open questions
 * What to do with pending invites?
 * What's a good value for $acception_rate? Should it already fail by one explicit reject (so timeouts do not count)?
 * What if the user has to close his account manually? Refederate posts? Probably not since all contacts already wouldn't accept the retractions because of the new public key. (?)
