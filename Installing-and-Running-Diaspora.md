@@ -104,7 +104,7 @@ Depending on the database you want to use, add either `DB="mysql"` for MySQL or 
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-        bundle install --without development test
+        bundle install --without development test heroku
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
