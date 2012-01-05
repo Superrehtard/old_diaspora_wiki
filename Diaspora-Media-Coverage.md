@@ -13,6 +13,9 @@
 
 ### December
 
+* Helping Hands, 12.23.2011, [Diaspora Alpha : Another Social Network to explore](http://helpinghandreviews.blogspot.com/2011/12/diaspora-alpha-another-social-network.html) 
+* MadWonderland, 12.19.2011, [Cloak n Dagger via Diaspora](http://madwonderland.com/2011/12/19/cloak-n-dagger-via-diaspora/)
+* HypeBot.com, 12.13.2011, [Diaspora's Early Adopters Launch The Diaspora Noise Project](http://www.hypebot.com/hypebot/2011/12/diasporas-early-adopters-launch-the-diaspora-noise-project.html)
 * WebProNews, 12.07.2011, [Diaspora: First Impressions](http://www.webpronews.com/diaspora-first-impressions-2011-12)
 * Flitter, 12.05.2011, [A new social network: Diaspora launches in Alpha](http://justinflitter.co.nz/social-network-diaspora-lunches-alpha)
 * SocialMediaToday, 12.01.2011, [Welcome to the Party Diaspora, I Hope You Brought The Beer](http://socialmediatoday.com/marketmesuite/398795/welcome-party-diaspora-i-hope-you-brought-beer)
