@@ -10,8 +10,8 @@
 ### On the new pod
 
 * User signs up at new pod (or has an invite from it) and is offered two options
-** create a new account
-** import existing account
+    * create a new account
+    * import existing account
 * User chooses to import an existing account and is asked to upload his archive
 * Archive may be be invalid -> abort or retry upload?
 * User is asked to enter the password for his archive
@@ -20,9 +20,9 @@
 * User is informed that the move is in progress and will be notified once it's done
 * User tries to sign in while the move isn't finished and gets same message again
 * User gets email about
-** successful move
-** a failed move because the move was already done
-** a failed move because $otherThingsThatCanGoWrong
+    * successful move
+    * a failed move because the move was already done
+    * a failed move because $otherThingsThatCanGoWrong
 * User is able to sign in at the new pod at nothing except the ID changed.
 
 ## Implementation
@@ -30,32 +30,33 @@
 ### The archive
 
 * The archive consists of two files:
-** Another password protected archive containing the actual data
-** A hash of the the other archive to verify it's integrity
+    * Another password protected archive containing the actual data
+    * A hash of the the other archive to verify it's integrity
 * The actual data archive contains
-** The private and public key pair
-** A list of contacts
-*** A list of followers
-*** A list of blocked users
-*** A list of followings
-** The profile
-** The settings
-** All posts with all comments and likes
-** Tag followings
-** The last 30 notifications (?)
-** The users pictures. This requires some thought as this could blow the package up quite enormously. Choices on export:
-*** keep pictures on old pod (pod maintainer can disable that feature)
-*** download them (give the approx filesize of the resulting download, and the remind the user that he needs to upload that too).
-*** throw them away
-** All conversations
+    * The private and public key pair
+    * A list of contacts
+        * A list of followers
+        * A list of blocked users
+        * A list of followings
+    * The profile
+    * The settings
+    * All posts with all comments and likes
+    * Tag followings
+    * The last 30 notifications (?)
+    * The users pictures. This requires some thought as this could blow the package up quite enormously. 
+      Choices on export:
+        * keep pictures on old pod (pod maintainer can disable that feature)
+        * download them (give the approx filesize of the resulting download, and the remind the user that he needs to upload that too).
+        * throw them away
+    * All conversations
 
 ### Happenings on import
 
 * After the upload is successful queue a job for it, everything below happens in this job
 * Generate a new keypair
 * Generate move notices for all contacts
-** include the new public key and sign them with the old private key
-** A backchannel is needed if the move notice was accepted, if it's not accepted by $acception_rate abort and notify the user
+    * include the new public key and sign them with the old private key
+    * A backchannel is needed if the move notice was accepted, if it's not accepted by $acception_rate abort and notify the user
 * Generate a revocation for the old pod and send it, backchannel is required here too to confirm deletion on old pod, if it fails do not abort but inform the user to close his old account manually.
 * Import other data
 * Send success mail
