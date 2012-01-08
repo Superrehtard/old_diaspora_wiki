@@ -1,7 +1,5 @@
-COMING SOON...
-
-
-Name      |Summary             |Description                                                                     
+Name       | Summary              | Description                                                                     
+---------- | -------------------- | --------------------------------------------------------------------------------
 POpen4-0.1.4.gemspec|Open4 cross-platform|
 Platform-0.4.0.gemspec|Hopefully robust platform sensing|
 SystemTimer-1.2.3.gemspec|Set a Timeout based on signals, which are more reliable than Timeout. Timeout is based on green threads.|
