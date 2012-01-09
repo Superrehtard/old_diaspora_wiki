@@ -15,8 +15,7 @@ activerecord-3.0.11.gemspec|Object-relational mapper framework (part of Rails).|
 activerecord-import-0.2.8.gemspec|Bulk-loading extension for ActiveRecord|Extraction of the ActiveRecord::Base#import functionality from ar-extensions for Rails 3 and beyond
 activeresource-3.0.11.gemspec|REST modeling framework (part of Rails).|REST on Rails. Wrap your RESTful web app with Ruby classes and work with them like Active Record mode
 activesupport-3.0.11.gemspec|A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.|A toolkit of support libraries and Ruby core extensions extracted from the Rails framework. Rich supp
-addressable-2.2.4.gemspec|URI Implementation|Addressable is a replacement for the URI implementation that is part of
-Ruby's standard library. It m
+addressable-2.2.4.gemspec|URI Implementation|Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It m
 albino-1.3.3.gemspec|Ruby wrapper for pygmentize.|Ruby wrapper for pygmentize.
 alias-0.2.2.gemspec|Creates, manages and saves aliases for class methods, instance methods, constants, delegated methods and more.|Creates aliases for class methods, instance methods, constants, delegated methods and more. Aliases c
 arel-2.0.10.gemspec|Arel is a Relational Algebra for Ruby|Arel is a Relational Algebra for Ruby. It 1) simplifies the generation complex of SQL queries and it 
