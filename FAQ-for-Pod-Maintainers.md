@@ -15,10 +15,11 @@ this page, in general.
 
 * Your server must be on either port 80 for HTTP or 443 for HTTPS. You must forward that port to 3000. Otherwise friend requests may cause lockups on other servers. See the command-line switches below.
 
-* Your server should also have 8080 available for websockets. <a href="http://en.wikipedia.org/wiki/WebSockets" target="_blank">Websockets</a> 
+* Your server should also have 8080 available for websockets. [Websockets](https://en.wikipedia.org/wiki/WebSocket)
 are how the browser talks in 'real time' to the server. They are not required for basic pod 
 operation, nor for inter-pod communication. Since many hosting providers don't allow you to 
-open 8080, you may consider them a nice-to-have.
+open 8080, you may consider them a nice-to-have.<br>
+**NOTICE:** the use of websockets has been temporarily suspended
 
 * Due to a bug, your server must block, not just filter out (->timeout), port 443.
 
