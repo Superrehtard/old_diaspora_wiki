@@ -240,11 +240,7 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 ### Jammit
 
-Jammit compiles all the CSS & JS into fewer minimized files. 
-The advantage is that the page can be served with less requests. 
-Diaspora integration with Jammit is needed for the default production setup, but can be changed to work around it. 
-If you want to use jammit you must install java. 
-Otherwise just ignore the warning issued by ./script/server.
+Diaspora requires Jammit for the default production setup, and Jammit in turn requires a working install of java. Jammit compiles all the CSS & JS into fewer minimized files. The advantage is that the page can be served with less requests.
 
 ## Updating Diaspora
 
@@ -284,7 +280,7 @@ for PostgreSQL.
 
 Now start Diaspora again.
 
-If you once used Jammit, now after each update, after the first request to the page run it again:
+If you use Jammit, after each update and after the first request to a page run it again:
 
         DB="mysql" bundle exec jammit / DB="postgresql" bundle exec jammit
 
