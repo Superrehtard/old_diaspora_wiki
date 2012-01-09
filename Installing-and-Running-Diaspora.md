@@ -186,6 +186,8 @@ Take note: We upgrade all port 80 requests to port 443.  We recommend that you d
 ### Configuring WebSockets
 WebSockets is required to have instant notifications and similar services, but you can completely live without it. If you fancy it see [[this page|WebSockets]].
 
+**NOTE:** the use of WebSockets has been suspended for now
+
 ### Load-balancing with a Thin cluster and Nginx
 
 To improve the performance on large-scale pods, it makes sense to run many thin servers and cluster them for load-balancing. Add the parameters `--servers n -R config.ru` to the list of `default_thin_args` in `config/script_server.yml`, where *n* is the number of thin servers you like to cluster:
