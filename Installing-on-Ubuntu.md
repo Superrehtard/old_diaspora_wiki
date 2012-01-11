@@ -15,7 +15,7 @@ This is for Ubuntu 11.10. There are other steps than just this one:
 
 For both run:
 
-    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.10-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.12-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
 ### Install RVM (optional but currently recommended)
 
@@ -40,7 +40,7 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
 
 To install Bundler, run the following:
 
-    sudo gem install bundler --no-ri --no-rdoc 
+    gem install bundler --no-ri --no-rdoc 
 
 To get bundle to work (**bundle install** step later), you might need to make a symbolic link:
 
