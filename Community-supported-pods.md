@@ -86,7 +86,7 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Maintained by: Pistos
    * Operating system: Gentoo Linux
 
-* [[http://diaspora.cloudid.net]] [[http://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
+* [[https://diaspora.cloudid.net]] [[https://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
     * Opened: 12/01/2012
     * Updated: Every week
     * Maintainer : web|crofting ltd
