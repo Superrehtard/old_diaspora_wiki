@@ -86,6 +86,14 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
    * Maintained by: Pistos
    * Operating system: Gentoo Linux
 
+* [[http://diaspora.cloudid.net]] [[http://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
+    * Opened: 12/01/2012
+    * Updated: Every week
+    * Maintainer : web|crofting ltd
+        * christoph@web.crofting.com
+        * [[http://twitter.com/cloud_id]]
+    * Operating system: Linux (Ubuntu 10.04 - Turnkey Linux 11.2)
+    * Comments: Look for more exiting cloud services on [[http://cloudid.net]] 
 
 * [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
     * Opened: 30/12/2010
