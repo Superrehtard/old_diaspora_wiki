@@ -39,7 +39,7 @@ You still need a system Ruby so run:
 
 To install RVM and REE, as your normal user (the one which Diaspora should run under), run
 
-    bash < <(curl -sk https://rvm.beginrescueend.com/install/rvm)
+    bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
     echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
     bash
     rvm install ree
