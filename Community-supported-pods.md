@@ -115,6 +115,17 @@ management console. [10/08/2011: Adding new pods to the list does not seem to wo
     * Comments: For development and test purposes, images are uploaded to S3
 
 
+* [[https://diaspora.eigenlab.org]] [[https://diaspora.eigenlab.org/apple-touch-icon.png|height=30px|]]
+    * Opened: 11/02/2011
+    * Updated: About every 3 days
+    * IPv6 support
+    * Maintained by student group "eigenLab" and Vittorio Cuculo
+        * http://eigenlab.org
+        * info@eigenlab.tk
+    * Operating system: Gentoo Linux
+    * Comments: The first pod in Italy. Open pod.
+
+
 * [[https://diaspora.happeningin.eu]] [[https://diaspora.happeningin.eu/apple-touch-icon.png|height=30px|]]
     * Opened: 01/11/2011
     * Updated: Daily
