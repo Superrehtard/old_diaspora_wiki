@@ -15,3 +15,8 @@ Here's how to report a bug on Github:
 clarification and/or more information to the **existing** bug.
 
 3. If not, create a new bug via the "new issue" tab once you've logged in.
+
+If you wish to contact us privately about any exploits in Diaspora you may
+find, you can email
+[exploits@joindiaspora.com](mailto:exploits@joindiaspora.com), [corresponding public key (keyID: 77485064)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xCC6CAED977485064).
+
