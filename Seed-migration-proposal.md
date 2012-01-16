@@ -29,9 +29,11 @@
 
 ### The archive
 
-* The archive consists of two files:
+* The archive consists of the following:
     * Another password protected archive containing the actual data
     * A hash of the the other archive to verify it's integrity
+    * The hash or something else should be signed with the private key of the user
+    * The old ID of the user to let the new pod fetch the old profile via the classical webfinger mechanism
 * The actual data archive contains
     * The private and public key pair
     * A list of contacts
