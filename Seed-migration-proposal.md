@@ -72,6 +72,6 @@
 * What if the user has to close his account manually? Refederate posts? Probably not since all contacts already wouldn't accept the retractions because of the new public key. (?)
 
 
-## Protocol
+## Protocol (by @stfw)
 * The diasporan system is dependent on the honor of the pod admins. The main tool to fight this is the ability to leave a pod easily, so this ability has to be preserved at all times. I think attention should be paid to the xml(?) format the data is downloaded in with special care as to maintaining backwards compatibility since in the real world there will be many pods running many version of the software.
 * supporting this feature should be a requirement of the license
