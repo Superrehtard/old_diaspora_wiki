@@ -1,3 +1,8 @@
+Current draft: http://pad.spored.de/p/api_requirements?noColors=true
+Implementation: https://github.com/MrZYX/diaspora/tree/mobile_api
+
+***
+
 **I ("Dennis Schubert (@denschub)":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
 "must be a long day ;)" ~eferdi
 
