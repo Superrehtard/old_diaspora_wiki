@@ -254,11 +254,11 @@ Change into the Diaspora root folder and run
 
 If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
-        DB="mysql" bundle install --without development,test
+        DB="mysql" bundle install --without development test heroku
 
 or for PostgreSQL:
 
-        DB="postgresql" bundle install --without development test
+        DB="postgresql" bundle install --without development test heroku
 
 In order to apply any new schema always run
 
