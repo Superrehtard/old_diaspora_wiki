@@ -2,7 +2,7 @@
 
 1) Add Friendster(*your favorite service*) support to omniauth: [[http://github.com/intridea/omniauth]], if its not there already . 
 
-1.5) Add the example for the keys: [[http://github.com/diaspora/diaspora/blob/master/config/oauth_keys.yml.example]]
+1.5) Add the example for the keys: [[http://github.com/diaspora/diaspora/blob/master/config/application.example]]
 and one line in the initializer:
 [[http://github.com/diaspora/diaspora/blob/master/config/initializers/omniauth.rb]]
 
