@@ -5,7 +5,6 @@
 You can try a tutorial:
 
 *  [Diasporial](http://diasporial.com/tutorials) (blog, tutorials, tips)
-*  [Diasporatest](http://www.diasporatest.com/index.php/HowToTutorial) (wiki, tutorials, tips)   
 *  [Diaspora Wiki](https://github.com/diaspora/diaspora/wiki) (here on Github)   
 *  [Spored](http://wiki.spored.de/) (wiki, help) (german)    
 *  [Guide du parfait débutant](http://fr.wikibooks.org/wiki/Diaspora_:_Le_guide_du_parfait_débutant) (french)    
