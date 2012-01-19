@@ -152,7 +152,7 @@ But the nginx webserver is not visible to the internet yet, because it is likely
 
 ## 4. Create a Domain Name
 
-Go to GoDaddy, VeriSign, or the like, and register a domain matching what you chose in Step 2 above. For example, [yourdomain].net.
+Go to verisign.com, register.com, or the like, and register a domain matching what you chose in Step 2 above. For example, [yourdomain].net.
 
 ## 5. Create a Pagekite Account
 
