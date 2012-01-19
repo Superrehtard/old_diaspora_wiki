@@ -75,10 +75,7 @@ anywhere on the site.
 * [[Diaspora Trademark Guidelines|Trademark Guidelines]]
 * [Diaspora Hashtags](https://github.com/diaspora/diaspora/wiki/hashtags)
 * [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
-* Various Guides & Resources (probably outdated)
-  * [[Installing on Ubuntu Apache]] - Using Apache as opposed to Thin webserver
-  * [[Installing on CentOS/Fedora]] - Compiling Ruby and Rubygems and getting MySQL and git from non-standard repositories.
-  * [[init script for diaspora]] - a first attempt at an init script for starting and stopping the thin server
+
 
 ## Grassroots Organizing Community Resources
 
