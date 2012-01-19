@@ -13,15 +13,7 @@ this page, in general.
 
 ***What ports does Diaspora need open for communication?***  
 
-* Your server must be on either port 80 for HTTP or 443 for HTTPS. You must forward that port to 3000. Otherwise friend requests may cause lockups on other servers. See the command-line switches below.
-
-* Your server should also have 8080 available for websockets. [Websockets](https://en.wikipedia.org/wiki/WebSocket)
-are how the browser talks in 'real time' to the server. They are not required for basic pod 
-operation, nor for inter-pod communication. Since many hosting providers don't allow you to 
-open 8080, you may consider them a nice-to-have.<br>
-**NOTICE:** the use of websockets has been temporarily suspended
-
-* Due to a bug, your server must block, not just filter out (->timeout), port 443.
+* Your server must be on port 443 for HTTPS. You must forward that port to 3000. Otherwise friend requests may cause lockups on other servers. See the command-line switches below.
 
 ***Can I use Apache to run Diaspora?***  
 Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache2](http://blog.fejes.ca/?p=41) guide.
@@ -30,9 +22,6 @@ Yes. See [[Installing on Ubuntu Apache]] or the [Unofficial Diaspora with Apache
 There are a couple of helpful command line options for setting the address and port for thin:
 
     bundle exec thin -a <address> -p <port> start
-
-*Note:* If you are running Diaspora on port 80, the command above needs to be executed as root - i.e., with su or sudo in front of it. 
-For example, on Ubuntu, Arch et al. do <code>sudo bundle exec thin -p 80 start</code>
 
 Use <code>-D</code> to turn on debug mode.  Run <code>thin -h</code> to see a complete list.
 
@@ -44,7 +33,7 @@ and some guides to install it manually:
 [Unofficial guide for Arch Linux installation 2](http://www.diederickdevries.net/blog/2010/09/16/diaspora-on-arch/)<br>
 
 ***I've got my pod running. How do I disable outside logins?***   
-Change <code>registrations_closed</code> in config/app_config.yml from false to true, and then
+Change <code>registrations_closed</code> in config/application.yml from false to true, and then
 restart the server.
 
 ***I'm getting SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: unknown protocol!***  
