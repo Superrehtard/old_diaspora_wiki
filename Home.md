@@ -66,6 +66,7 @@ anywhere on the site.
 
 ## Pod Maintainer Resources
 * [[Installing and Running Diaspora]] <--- click here!
+* [[Nginx Configuration]]
 * [[FAQ for Pod Maintainers]]
 * [[How to customize the splash page|Customize your splash page]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
