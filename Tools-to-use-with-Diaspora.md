@@ -39,6 +39,8 @@ _Links to various tools built by the community for use with Diaspora._
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
+*  [dia.so](http://dia.so) - A profile shortener so people on other pods get you on their pod and A url shortener all pod admins can use.
+
 
 ### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
 
