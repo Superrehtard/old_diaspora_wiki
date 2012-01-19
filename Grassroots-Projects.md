@@ -14,7 +14,6 @@ Visit our [IRC chat channel](http://webchat.freenode.net/?channels=diaspora) to 
 
 
 ##Projects that could use more volunteers
-*To help with these projects, join the [grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots) and inquire there. Or send email to "people" [at] "joindiaspora" [dot] com.*
 
 **Beta Launch**  
 Will need meetup organizers, designers, and writers.
@@ -28,14 +27,8 @@ Need meetup organizers.  http://www.meetup.com/Diaspora/
 **Pod Uptime**  
 Need designers to help make Pod Uptime (the great directory of Diaspora* pods) even more awesome.  http://podupti.me/
 
-**Media Team**  
-Need more bloggers/writers to join our [media outreach group](https://mailman.stanford.edu/mailman/listinfo/diaspora-media).
-
 **Diasporial**  
 Could use more writers, and especially, translators. http://diasporial.com/
-
-**GetSatisfaction**  
-Could use more help running this forum, responding to questions, problems, etc. http://getsatisfaction.com/diaspora
 
 **Translations**  
 Translators needed for our [grassroots translations group](http://99translations.com/public_projects/show/181).  We'd like to try to translate Diaspora into all world languages. 
