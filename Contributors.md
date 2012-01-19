@@ -4,6 +4,7 @@ The four co-founders of the project work on it full time in San Francisco.
 * [[Maxwell Salzberg|https://github.com/maxwell]]
 * [[Raphael Sofaer|https://github.com/rsofaer]]
 * [[Ilya Zhitomirskiy|https://github.com/zhitomirskiyi]] (Deceased)
+* [[Dennis Collinson|https://github.com/denniscollective]]
 
 Over 100 other people have contributed to the codebase. You can see the [[full list of developer contributors|https://github.com/diaspora/diaspora/contributors]], ordered by number of commits. Major contributors to the code base include:
 
