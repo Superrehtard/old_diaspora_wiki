@@ -5,7 +5,6 @@ the pod run by the project founders at joindiaspora.com.
 **This list is rather static.** While it can be used as a reference, we recommend that when you
 are choosing which pod to sign up for, you also consider:
 
-* [PodUp](http://podup.sargodarya.de) - sorts pods by uptime and will give you an idea of how stable a given pod is.
 * [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.
 * [Pod Ranking](http://diaspora.wk3.org/) - also incorporating encryption and legal details, run by Christophe of wk3.org
 
@@ -15,9 +14,7 @@ Pod maintainers:
 
 * To add your pod to the list, please edit this page, adding details along the same 
 pattern as the existing data. Pods are listed in alphabetical order by pod name.
-* Please consider adding yourself to [the PodUp list](http://podup.sargodarya.de) as well. 
-It's free, people will notice your pod, and you can track how your pod performs in the 
-management console. [10/08/2011: Adding new pods to the list does not seem to work.]
+
 
 
 ## Diaspora pods
