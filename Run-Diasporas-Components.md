@@ -18,14 +18,9 @@ If you compiled redis from source run `redis-server` to start redis on the defau
 ### Run the app server
 
 Run `bundle exec thin start` from the root Diaspora directory.  This will start the app server.
-It will run on port 3000 by default. If you want it to be available on port 80, either run it on port 80 directly (probably unwise), or use your webserver of choice (we use nginx) to proxy port 80 at your domain name to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf and config/thin.yml in the repo for an example thin config and nginx server stanza.
-This is absolutly needed unless you want to use a different appserver like mod_passenger for example.
+It will run on port 3000 by default. If you want it to be available on port 80, either run it on port 80 directly (probably unwise), or use your webserver of choice (we use nginx) to proxy port 443 at your domain name to thin at port 3000 or over a socket.  See config/sprinkle/conf/nginx.conf and config/thin.yml in the repo for an example thin config and nginx server stanza.
+This is absolutely needed unless you want to use a different appserver like mod_passenger for example.
 
-
-### Run the websocket server
-
-Run `bundle exec ruby script/websocket_server.rb` to start websockets on port 8080. Change port in config/application.yml.
-The websocket server is not essential and only provides the [[live updates to the webfrontend|WebSockets]]. It has nothing to do with federation.
 
 ### Run the resque worker
 
@@ -33,21 +28,8 @@ To start the resque worker run the following command:
 
         QUEUE=* bundle exec rake resque:work
 
-This is also essential unless you turn on single_process_mode in config/application.yml which is absolutly unrecommended for production environments. Resque is used for time intensive jobs like sending mail, sending and receiving messages from other pods etc.
-You can monitor by starting `resque-web` and then visit http://server-ip:5678, but don't keep it running open since it's a debugging tool. By default it's also mounted in Diaspora and accessible for admins only. You can disable that by turning "mount_resque_web" to false in your application.yml.
+This is also essential unless you turn on single_process_mode in config/application.yml which is absolutely unrecommended for production environments. Resque is used for time intensive jobs like sending mail, sending and receiving messages from other pods etc.
+You can disable that by turning "mount_resque_web" to false in your application.yml.
 
-### Run resque scheduler
-
-UPDATE: This code was reverted:
-
-commit 6f7c9e9301087f8f84f2b20fbd081d26ac9b3269](https://github.com/diaspora/diaspora/commit/6f7c9e9301087f8f84f2b20fbd081d26ac9b3269)
-
-Author: danielgrippi <danielgrippi@gmail.com>
-
-Date:   Mon Nov 7 12:37:54 2011 -0800
-
-In order to properly retry failed jobs, for example if the receiving end is offline, you need to run another daemon with the following command:
-
-     bundle exec rake resque:scheduler
 
 
