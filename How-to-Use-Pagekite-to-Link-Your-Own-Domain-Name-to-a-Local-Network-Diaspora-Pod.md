@@ -164,7 +164,7 @@ Go back to your domain registrar, log in to your domain name account, and create
 
 ## 7. Get an SSL Cert and SSL Key for Your Subdomain.
 
-For SSL to work for nginx at port 443, you need an SSL cert. You can get one free at [StartSSL.com](http://www.startssl.com/). Many domain registrars can do it for you too. Make sure it matches the CNAME you've created, e.g., diaspora.[yourdomain].net. Once you've installed your SSL certificate and key, make sure that the SSL location info lines in /etc/nginx/conf.d/ssl.conf point to the location of the cert and key.  For example, 
+For SSL to work for nginx at port 443, you need an SSL cert. You can get one free at [StartSSL.com](http://www.startssl.com/). Many domain registrars can do it for you too. Make sure it matches the CNAME you've created, e.g., diaspora.[yourdomain].net. Once you've installed your SSL certificate and key, and any intermediate CA certs you need, make sure that the SSL location info lines in /etc/nginx/conf.d/ssl.conf point to the location of the cert and key.  For example, 
 
      ssl                  on;
      ssl_certificate      /home/[your username]/diaspora/public/SSL.crt;
@@ -204,7 +204,7 @@ Provided Diaspora and nginx are running, you can now start pagekite, by typing, 
 
 `service pagekite start`
 
-After a minute or so, you should be able to find your Diaspora login screen in a browser window at https://diaspora.[yourdomain].net. No you can create an account, or log in if you already have one.
+After a minute or so, you should be able to find your Diaspora login screen in a browser window at https://diaspora.[yourdomain].net. Now you can create an account, or log in if you already have one.
 
 If images aren't rendering properly (i.e., if the logo is absent), try setting the serve static assets variable to "true" in ../diaspora/config/environments/production.rb (or development.rb if that's what you have).
 
