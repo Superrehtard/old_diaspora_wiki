@@ -1,6 +1,6 @@
-How to get things set up to copy edit the websites (diasporafoundation.org and joindiaspora.com).
+How to get things set up to copy edit the websites (diasporaproject.org and joindiaspora.com).
 
-##diasporafoundation.org
+##diasporaproject.org
 
 The foundation site is a simple Rails 3 application managed through GitHub. You will need a Github account, with SSH keys set up, and access to the repo.  Feel free to ask for help with Rails if needed.
 
