@@ -51,4 +51,4 @@ Need user documentation writers. https://github.com/diaspora/diaspora/wiki
 A creative collective a la [Mozilla](http://creative.mozilla.org/) to have a place for everyone to come together to develop great fan art, and then enable Diaspora users to create t-shirts, mugs, etc from the fan art via something like [Zazzle](http://www.zazzle.com/).  
   
 **Diaspora Project Website**  
-www.diasporafoundation.org 
+www.diasporaproject.org 
