@@ -48,7 +48,7 @@ _An **aspect** would be best described as a list of people, based on their relat
 
 Ever wanted to to share something with just a certain group of people?&nbsp; **Diaspora** pioneered **Aspects**, the original system for sharing things with just the people you want.&nbsp; Of course, you can still tell the whole world too, if you want to. <br>
 
-• http://diasporafoundation.org
+• http://diasporaproject.org
 </td></tr></table></a>
     
 ## <a name="wiki-b">B</a>    
@@ -98,7 +98,7 @@ File synchronization commands in [Git][G] ([GitRef.org](http://GitRef.org)) <br>
 • https://github.com/diaspora/diaspora/wiki/Work-on-a-bug <br>
 • https://github.com/diaspora/diaspora/wiki/Contributors <br>
 • http://blog.diasporafoundation.org/jobs <br>
-• https://DiasporaFoundation.org/donate <br>
+• https://diaspora-project-site.heroku.com/donate <br>
 • http://diasporial.com/join-the-team <br>
 
 - **Conversation | [Message][M]**
@@ -131,7 +131,7 @@ abbreviation for **developer, computer programmer, coder or hacker**. <br />
 • https://github.com/diaspora/diaspora/wiki/Contributors <br />
 • http://diasporafoundation.org/get_involved <br />
 
-[ [Hackers](http://diasporafoundation.org/get_involved) **|** [Community Members](http://diasporafoundation.org/get_involved) **|** [Painters](http://diasporafoundation.org/get_involved) ]
+[ [Hackers](http://diasporaproject.org/get_involved) **|** [Community Members](http://diasporaproject.org/get_involved) **|** [Painters](http://diasporaproject.org/get_involved) ]
 
 - **[Diasp.be](http://Diasp.be) | [Diasp.de](http://Diasp.de) | [Diasp.eu](http://Diasp.eu) | [Diasp.org]    (http://Diasp.org)**    
     
@@ -169,9 +169,9 @@ private or protected cyber-space where a group of friends or colleagues can disc
 • http://en.wikipedia.org/wiki/Internet_forum <br />
 • https://Diasp.org/u/d_group
 
-- **[DiasporaForum.org](http://DiasporaFoundation.org)**
+- **[DiasporaForum.org](http://DiasporaForum.org)**
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
+- **[DiasporaProject.org](http://Diasporaproject.org)**
 
 <a><table width="100%"><tr><td class="blame">
 ### Diasporial
@@ -280,7 +280,7 @@ File synchronization commands in [Git][G]. ([GitRef.org](http://GitRef.org)) <br
 ### Links to section headings
 </td></tr><tr><td width="49%" valign="top" rowspan="3">
 
-- **[DiasporaFoundation.org](http://DiasporaFoundation.org)**
+- **[Diasporaproject.org](http://DiasporaProject.org)**
 - **[Diasporial.com](http://Diasporial.com)**
 - **[daringFireball.net](http://daringfireball.net/projects/markdown)** ([Markdown][M])
 - **[FOLDOC.org](http://FOLDOC.org)** (Free Online Dictionary Of Computing)
