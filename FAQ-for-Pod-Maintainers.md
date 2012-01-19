@@ -40,11 +40,6 @@ Close the port, make it do connection refused, not timeout.
 (Disclaimer: hopefully this doesn't screw up anyone)  
 <james_> On Ubuntu: sudo ufw enable, sudo ufw reject 443 (, sudo reboot?)
 
-***But I have Apache running already and I want no passengers!***  
-(Disclaimer: Apache noob advice)  
-Apache config:  
-http://codepaste.net/yzkngy
-
 ***How do I back up the database?***  
 From the command line type:  
     mysqldump -u <mysql username> -p diaspora_development > backup.sql
