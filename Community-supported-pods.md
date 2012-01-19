@@ -199,13 +199,13 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Comments: public registration open, Twitter and Facebook support, HTTPS available
 
 
-* [[http://free-beer.ch]] [[https://free-beer.ch/apple-touch-icon.png|height=30px]]
+* [[https://free-beer.ch]] [[https://free-beer.ch/apple-touch-icon.png|height=30px]]
     * Opened: 05/11/2011
     * Updated: regularly
     * Maintained by: private individual 
        * Contact : olivier@free-beer.ch
     * Operating system: Debian Squeeze 
-    * Comments: public registration open, Twitter, Facebook and Tumblr support, HTTPS available
+    * Comments: public registration open, Twitter, Facebook and Tumblr support, HTTPS and IPv6 available
 
 * [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
    * Opened: 1/2/2011
