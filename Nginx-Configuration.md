@@ -18,7 +18,6 @@ http {
 
   include       mime.types;
   default_type  application/octet-stream;
-  access_log /usr/local/nginx/logs/access.log;
   sendfile on;
   keepalive_timeout  65;
   gzip              on;
@@ -48,9 +47,6 @@ server {
   }
 }
 
-#
-# FIXME: specify correct value(s) for `server_name` directive below
-#
 
 #
 # FIXME: specify correct value(s) for `server_name` directive and
@@ -69,6 +65,7 @@ server {
 server {
   listen       443;
   server_name  example.com  www.example.com;
+  ## make sure you change location if you did clone into /usr/local/app
   root         /usr/local/app/diaspora/public;
 
   ssl on;
