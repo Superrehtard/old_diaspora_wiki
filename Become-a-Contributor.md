@@ -53,7 +53,6 @@ See the list of [grassroots community projects](Grassroots Projects).
 These are just a few ideas, and we love people who want to donate their skills to make our community more amazing.
 
 ## How to get started
-Come talk to us. The best ways to get in touch in realtime are <a href="https://convore.com/diaspora" target="_blank">our Convore group</a>, 
-or [[IRC|How-we-use-IRC]]. Tell us what you're interested in working on - code, tutorials,
+Come talk to us. The best ways to get in touch in realtime is [[IRC|How-we-use-IRC]]. Tell us what you're interested in working on - code, tutorials,
 feature ideas, mockups, running a pod, helping with the wiki, other - and we can help you
 figure out how to get going.
