@@ -360,9 +360,9 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 * [[https://diaspora.danapriesing.net]] [[http://diaspora.danapriesing.net/apple-touch-icon.png|height=30px|]]
     * Updated: periodically
-    * Maintained by: a private individual
-    * Operating system: Fedora 15 Linux
-    * Comments: Friends-and-family pod.
+    * Maintained by: dana@diaspora.danapriesing.net
+    * Operating system: Fedora 16 Linux
+    * Comments: A little friends-and-family pod.
 
 * [[https://diasp.3towers.de/]]
    * Opened: 16/11/2011
