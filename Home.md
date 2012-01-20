@@ -79,9 +79,6 @@ anywhere on the site.
 
 ## Grassroots Organizing Community Resources
 
-* [Grassroots mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-grassroots)
-* [Grassroots media team mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-media)
-* [Grassroots design team mailing list](https://mailman.stanford.edu/mailman/listinfo/diaspora-design)
 * [[Grassroots projects list|Grassroots Projects]]
 * [[Support Hashtags]] - #question, #bug, #feature
 * [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)

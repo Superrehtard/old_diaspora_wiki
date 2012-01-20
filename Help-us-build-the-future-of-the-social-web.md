@@ -6,7 +6,7 @@ DIASPORA*. We need your help – please pick a role you like from the list below
 * Answer new user's questions on the official help tags on your pod
   (examples: [#help](https://joindiaspora.com/tags/help), [#feature](https://joindiaspora.com/tags/feature), [#question](https://joindiaspora.com/tags/question))
 * File a bug on [GitHub](https://github.com/diaspora/diaspora/issues), or answer a question on [GetSatisfaction](https://getsatisfaction.com/).
-* Dive in deeper on the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss), [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) or [Diaspora Grassroots](https://mailman.stanford.edu/pipermail/diaspora-grassroots/) mailing lists.
+* Dive in deeper on the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss) and [Diaspora-dev](https://groups.google.com/forum/#!forum/diaspora-dev) mailing lists.
 * [Make a tutorial](http://diasporial.com/) showing off your favorite Diaspora features.
 * Run your [own pod](https://diasp.org) for yourself, your friends and family, or the community.
 * [Translate](https://github.com/diaspora/diaspora/wiki/How-to-contribute-translations) Diaspora* in your favorite language.

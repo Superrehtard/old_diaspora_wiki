@@ -12,7 +12,6 @@ Help answer questions and assist new Diaspora members. http://www.diasporaforum.
 Visit our [IRC chat channel](http://webchat.freenode.net/?channels=diaspora) to answer questions, discuss bugs, new feature suggestions, etc.  
 
 
-
 ##Projects that could use more volunteers
 
 **Beta Launch**  

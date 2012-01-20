@@ -75,13 +75,10 @@ become a Diaspora contributor.
 ### If you have a couple of hours
 *as a user*
 
-* make a turorital(written or video)
+* make a tutorial (written or video)
 * confirm bugs
 * come up with new feature requests
-* join Diaspora Grassroots and find out more about how to expand the
-  Diaspora community to the world.
-* Learn to code!  Diaspora is a great way to get your feet wet
-  programming!
+* Learn to code!  Diaspora is a great way to get your feet wet programming!
 
 *as a hacker*
 
@@ -114,22 +111,12 @@ become a Diaspora contributor.
 ## Places we talk about Diaspora
 
 Diaspora User stuff
-* GetSatisfaction
-* 
-
+* Diaspora Discuss google group
 
 Diaspora Development
-* Diaspora Discuss
+* Github issues
+* Diaspora Dev google group
 * IRC
-* GitHub
-
-Diaspora Grassroots
-* Teambox 
-* Email List
-
-
-
-
 
 
 ## Diaspora in your community!
