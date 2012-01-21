@@ -1,3 +1,9 @@
+# 2012
+
+### January
+* Pods run via SSL by default 
+* Stream rewrite with Backbone.js and client side Markdown rendering for faster UX
+
 # 2011
 
 ### November
