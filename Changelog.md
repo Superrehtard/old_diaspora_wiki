@@ -2,7 +2,7 @@
 
 ### January
 * Pods run via SSL by default 
-* Stream rewrite with Backbone.js and client side Markdown rendering for faster UX
+* Stream rewrite with Backbone.js and client side Markdown rendering for faster UX and 400x better garbage collection server side
 
 # 2011
 
