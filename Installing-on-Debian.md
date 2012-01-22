@@ -42,8 +42,8 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
     bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
     echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
     bash
-    rvm install ree
-    rvm use ree@global
+    rvm install ree-1.8.7-2011.03
+    rvm use ree-1.8.7-2011.03@global
 
 
 For Debian 6.0 users who wish to install ree(ruby enterprise edition)(or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
