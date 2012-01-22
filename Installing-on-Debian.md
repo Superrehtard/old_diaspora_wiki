@@ -49,8 +49,8 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
 For Debian 6.0 users who wish to install ree(ruby enterprise edition)(or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
 
     rvm pkg install openssl
-    rvm remove ree #just in case
-    rvm install ree --with-openssl-dir=$rvm_path/usr
+    rvm remove ree-1.8.7-2011.03 #just in case
+    rvm install ree-1.8.7-2011.03 --with-openssl-dir=$rvm_path/usr
 
 #### System Ruby
 Alternatively, to install Ruby 1.8.7 on **Debian 6.0**, run the following command:
