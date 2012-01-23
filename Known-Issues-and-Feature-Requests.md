@@ -1,4 +1,4 @@
-This page lists all the major issues and feature requests that the developers are already aware of.  Some of these are already being worked on.  There is no need to use your time to report these issues or ask for these features again.  If you think you could contribute new thoughts, feel free to comment on the existing discussions in the [issues list](https://github.com/diaspora/diaspora/issues) or [feedback site](http://getsatisfaction.com/diaspora/).
+This page lists all the major issues and feature requests that the developers are already aware of.  Some of these are already being worked on.  There is no need to use your time to report these issues or ask for these features again.  If you think you could contribute new thoughts, feel free to comment on the existing discussions in the [issues list](https://github.com/diaspora/diaspora/issues).
 
 ## Known Issues
 
