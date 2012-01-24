@@ -53,8 +53,8 @@ As a guide, here's my working, edited /etc/nginx/nginx.conf file:
        gzip_comp_level   2;
        gzip_proxied      any;
        gzip_buffers      16 8k;
-       gzip_types        text/plain text/css application/x-javascript text/xml application/xml+rss
- text/javascript;
+       gzip_types        text/plain text/css application/x-javascript text/xml application
+           /xml+rss text/javascript;
        gzip_disable      "MSIE [1-6]\.(?!.*SV1)";
 
     server { 
