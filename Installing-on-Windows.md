@@ -9,11 +9,11 @@ These instructions are for creating a local development instance on Windows XP P
 
 ### Ruby
 
-Download [RubyInstaller 1.9.2](http://rubyinstaller.org/downloads/).  This also includes RubyGems.
+Download [RubyInstaller 1.9.3](http://rubyinstaller.org/downloads/).  This also includes RubyGems.
 
 When running the installer check "Add Ruby executables to your PATH."
 
-Add `C:\Ruby192\lib` to your system path.  You can temporarily set this by running `set PATH=%PATH%;C:\Ruby192\lib` in a command-line window.
+Add `C:\Ruby193\lib` to your system path.  You can temporarily set this by running `set PATH=%PATH%;C:\Ruby193\lib` in a command-line window.
 
 ### Ruby Development Kit
 
