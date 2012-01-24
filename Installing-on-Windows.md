@@ -30,6 +30,13 @@ Enter these commands.
 
         cd "C:\Progra~1\RubyDevKit"
         ruby dk.rb init
+
+This generates config.yml. Make sure that config.yml points to the root of Ruby installation:
+
+    - C:/Ruby193
+
+After this run:
+
         ruby dk.rb install
 
 Close the command prompt window.
