@@ -40,7 +40,7 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
 
 To install Bundler, run the following:
 
-    gem install bundler --no-ri --no-rdoc 
+    sudo gem install bundler --no-ri --no-rdoc 
 
 To get bundle to work (**bundle install** step later), you might need to make a symbolic link:
 
