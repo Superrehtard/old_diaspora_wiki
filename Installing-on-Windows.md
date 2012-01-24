@@ -84,6 +84,8 @@ Open a Command Prompt window and type:
 
     copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby192\lib
 
+If during the further steps libmysql.dll is not found, copy it also to C:\Ruby192\bin
+
 ### ImageMagick
 
 Download and install the Win32 dynamic at 16 bits-per-pixel binary from [ImageMagick.org](http://www.imagemagick.org/script/binary-releases.php#windows).
