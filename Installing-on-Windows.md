@@ -82,9 +82,11 @@ Note:  If you do run the Server Instance Configuration Wizard again you will nee
 
 Open a Command Prompt window and type:
 
-    copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby192\lib
+    copy "C:\PROGRA~1\MySQL\MySQL Server 5.5\lib\libmysql.dll" C:\Ruby193\lib
 
-If during the further steps libmysql.dll is not found, copy it also to C:\Ruby192\bin
+If during the further steps libmysql.dll is not found, copy it also to C:\Ruby193\bin
+
+During the further steps you may get notification that you need a new version of libmysql.dll (MySQL C connector). In this case go to [mysql.com](http://www.mysql.com/downloads/connector/c/), download zip. From the zip you only need libmysql.dll
 
 ### ImageMagick
 
