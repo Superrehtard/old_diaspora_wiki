@@ -125,12 +125,12 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 * [[https://diaspora.happeningin.eu]] [[https://diaspora.happeningin.eu/apple-touch-icon.png|height=30px|]]
     * Opened: 01/11/2011
-    * Updated: Daily
+    * Updated: Out of sync with main branch, running own programmed branch
     * Maintained by Rove Monteux
-        * [[http://twitter.com/monteuxrove]]
-        * [[http://happeningin.eu/]]
+        * [[http://rovemonteux.net]]
+        * [[http://pirate.is/rovemonteux/]]
     * Operating system: Linux
-    * Comments: Public and free European Diaspora pod with support for Twitter, Facebook, Tumblr and search engine indexing of public posts.
+    * Comments: Public and free European Diaspora pod.
 
 
 * [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
