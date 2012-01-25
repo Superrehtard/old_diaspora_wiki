@@ -26,8 +26,8 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
     bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
     echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
     bash
-    rvm install ree
-    rvm use ree@global
+    rvm install ree-1.8.7-2011.03
+    rvm use ree-1.8.7-2011.03@global
 
 
 ### Start MySQL (optional, depending on your platform):
@@ -38,11 +38,11 @@ To install RVM and REE, as your normal user (the one which Diaspora should run u
 
 ### Bundler
 
-To install Bundler, run the following:
+To install Bundler, run the following, if you aren't using RVM you need to do it as root (prepend it with `sudo`):
 
-    sudo gem install bundler --no-ri --no-rdoc 
+    gem install bundler --no-ri --no-rdoc 
 
-To get bundle to work (**bundle install** step later), you might need to make a symbolic link:
+To get bundle to work (**bundle install** step later), you might need to make a symbolic link if you aren't using RVM:
 
     sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
 
