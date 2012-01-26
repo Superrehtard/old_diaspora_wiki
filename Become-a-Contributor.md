@@ -16,16 +16,13 @@ Diaspora needs all sort of help, way more than just code!
 
 ####Reporting Bugs  
 
-Currently, there are two outlets for this: [GetSatisfaction](https://getsatisfaction.com/) and [GitHub Issues](https://github.com/diaspora/diaspora/issues).
+Currently, there are two outlets for this: [GitHub Issues](https://github.com/diaspora/diaspora/issues) and in case you don't have a Github account (and don't want to create one) you can make a public post on Diaspora with the #bug hashtag.
 
-[GetSatisfaction](https://getsatisfaction.com/) should be used for user feedback, feature requests, ideas, and questions. 
-On the other hand, [GitHub Issues](https://github.com/diaspora/diaspora/issues) works better for bugs/issues/features involving source code/logs/UI elements. 
-
-With both of these tools, it's helpful to provide as much information as possible.
+Please, always try to specify as much information as possible, when reporting a bug (e.g. pod URL, screenshot, public post URL,...)
 
 ####Starting Meetups  
 
-We are an international movement. If you would like to participate or help organize one in your area join us at [Meetup](https://meetup.com/Diaspora).
+We are an international movement. If you would like to participate or help organize one in your area join us at [Meetup](http://meetup.com/Diaspora).
 
 ####Translating   
 
@@ -36,19 +33,17 @@ Diaspora is translated into over 45 languages. [Jonne Haß](https://github.com/M
 See the list of [grassroots community projects](Grassroots Projects).
 
 ####More Ways to Get Involved:  
-* Doing UI mockups
 * Spreading the Word
 * Participating in Weekly community meetings
 * Blogging about Diaspora
 * Writing copy
-* Writing documentaion
-* Making How-to guides/videos
-* Design/User Interface work
-* Donating
-* Running a pod
-* Helping others installing pods
-* Running Diaspora for your company or community
-* Making Fan Art
+* Writing documentaion (this wiki)
+* [Making How-to guides/videos](http://diasporial.com/)
+* Design/User Interface work/mockups
+* [Donating](http://diasporaproject.org/donate)
+* [[Running your own Diaspora pod for your community or company|Installing and Running Diaspora]]
+* [[Helping others installing pods|How-we-use-IRC]]
+* [[Making Fan Art|Logos, Icons, and Visual Art]]
 
 These are just a few ideas, and we love people who want to donate their skills to make our community more amazing.
 
