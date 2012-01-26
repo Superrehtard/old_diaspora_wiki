@@ -1,10 +1,12 @@
-# 2012
+# Changelog
+
+## 2012
 
 ### January
 * Pods run via SSL by default 
 * Stream rewrite with Backbone.js and client side Markdown rendering for faster UX and 400x better garbage collection server side
 
-# 2011
+## 2011
 
 ### November
 * Ignore user
@@ -87,7 +89,7 @@
 * Added a mobile interface
 * Added ability to post to multiple aspects from the header
 
-# 2010
+## 2010
 
 ### December
 
