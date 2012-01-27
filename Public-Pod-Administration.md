@@ -1,4 +1,6 @@
 # Public Pod Administration
+# FAQ
+[[faq|FAQ for Pod Maintainers]]
 
 # Manage your server
 ## Choose infrastructure
@@ -57,5 +59,3 @@ TBD
 TBD
 ## Check Resque worker
 TBD
-# FAQ
-[[faq|FAQ for Pod Maintainers]]
