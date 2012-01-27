@@ -1,6 +1,6 @@
 # Public Pod Administration
 # FAQ
-[[faq|FAQ for Pod Maintainers]]
+[[Server Maintainer FAQ|FAQ for Pod Maintainers]]
 
 # Manage your server
 ## Choose infrastructure
