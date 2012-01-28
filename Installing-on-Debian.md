@@ -14,7 +14,7 @@ You need to install the dev headers.
 
 To install them, run the following:
 
-    sudo apt-get install curl libcurl4-gnutls-dev
+    sudo apt-get install curl libcurl4-openssl-dev
 
 ### Git
 
