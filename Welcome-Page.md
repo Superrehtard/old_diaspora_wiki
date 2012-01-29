@@ -9,17 +9,6 @@
 5. If you have more questions, just check [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) and [tutorials](http://diasporial.com/tutorials) or post a public post and tag it as #question       
 
 
-## Português
-
-#### Olá!! Aqui estão algumas dicas para começar a aproveitar o diaspora e conhecer novas pessoas!
-
-1. **Adicione 5 tags ao seu perfil** se você ainda não o fez: isso irá tornar mais fácil ser encontrado por pessoas como você.
-2. **Comece a seguir algumas #tags** (procure pela barra de busca e clique em "start following"): as tags sendo seguidas irão aparecer no seu stream, vão lhe ajudar a encontrar pessoas como você e te deixar atualizado nos tópicos de seu interesse!
-3. **Adicione tags aos seus posts e poste eles com escopo público**: eles aparecerão no stream de todos que seguem essas tags!
-4. **Comece a compartilhar** e você irá entender rapidamente como funciona!
-5. Caso hajam dúvidas, dê uma olhada no [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) e nos [tutoriais](http://diasporial.com/tutorials) ou poste um post público com a tag #question       
-
-
 ## Deutsch
 
 #### Hallo!! Hier sind einige kurze Tipps für einen guten Anfang bei Diaspora und um neue Leute zu treffen!
@@ -62,6 +51,17 @@
 3. **Metti dei tag nei tuoi post e pubblicali come "pubblici"**: appariranno nello stream di chiunque segua quei tag!
 4. **Comincia a condividere**: capirai subito come funziona Diaspora*!
 5. Se hai qualche dubbio, domanda o semplicemente vuoi saperne di più, da' un'occhiata alle [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) e hai [tutorials](http://diasporial.com/tutorials) oppure fai un post pubblico col tag #domanda!      
+
+
+## Português
+
+#### Olá!! Aqui estão algumas dicas para começar a aproveitar o diaspora e conhecer novas pessoas!
+
+1. **Adicione 5 tags ao seu perfil** se você ainda não o fez: isso irá tornar mais fácil ser encontrado por pessoas como você.
+2. **Comece a seguir algumas #tags** (procure pela barra de busca e clique em "start following"): as tags sendo seguidas irão aparecer no seu stream, vão lhe ajudar a encontrar pessoas como você e te deixar atualizado nos tópicos de seu interesse!
+3. **Adicione tags aos seus posts e poste eles com escopo público**: eles aparecerão no stream de todos que seguem essas tags!
+4. **Comece a compartilhar** e você irá entender rapidamente como funciona!
+5. Caso hajam dúvidas, dê uma olhada no [FAQ](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users) e nos [tutoriais](http://diasporial.com/tutorials) ou poste um post público com a tag #question       
 
 
 ## हिन्दी
