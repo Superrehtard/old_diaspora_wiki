@@ -24,11 +24,10 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescue
 To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run
 
     bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
-    echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
-    bash
+    echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bash_profile
+    . ~/.bash_profile
     rvm install ruby-1.9.2-p290
     rvm use ruby-1.9.2-p290@global
-
 
 ### Start MySQL (optional, depending on your platform):
 
