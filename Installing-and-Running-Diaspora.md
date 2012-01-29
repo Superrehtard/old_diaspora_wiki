@@ -254,7 +254,7 @@ If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
 or for PostgreSQL:
 
-        DB="postgresql" bundle install --without development test heroku
+        DB="postgres" bundle install --without development test heroku
 
 In order to apply any new schema always run
 
