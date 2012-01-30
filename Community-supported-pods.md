@@ -125,7 +125,8 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 * [[https://diaspora.happeningin.eu]] [[https://diaspora.happeningin.eu/apple-touch-icon.png|height=30px|]]
     * Opened: 01/11/2011
-    * Updated: Out of sync with main branch, running own programmed branch
+    * Updated: Out of sync with main repository, running own fork
+    * Source code: [[https://github.com/rovemonteux/happeningineu]]
     * Maintained by Rove Monteux
         * [[http://rovemonteux.net]]
         * [[http://pirate.is/rovemonteux/]]
