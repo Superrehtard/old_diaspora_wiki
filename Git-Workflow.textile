@@ -260,4 +260,4 @@ p. It's as if you had just started your branch. One immediate advantage you get 
 p. So when you're ready to send the new plugin upstream, you do one last rebase, test, and then merge (which is really no merge at all) and send out your pull request. Then in most cases, Gina has a simple fast forward on her end (or at worst a very small rebase or merge) and over time that adds up to a simpler tree.
 
 p. More info on the git man page here: 
-"Git rebase: man page":http://www.kernel.org/pub/software/scm/git/docs/git-rebase.html
+"Git rebase: man page":http://schacon.github.com/git/git-rebase.html
