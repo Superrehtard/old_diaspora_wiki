@@ -387,7 +387,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 * [[https://diaspora.erchache2000.es]]
    * Updated: regulary
    * HTTPS only
-   * IPv4 only
+   * IPv6 Support
    * Maintained by Alejandro Sánchez
        * email: erchache2000@gmail.com
        * Contact: [[http://twitter.com/erchache2000]]
