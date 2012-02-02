@@ -382,3 +382,14 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Maintained by: n@mo.pp.ru
    * Operating system: Debian GNU/Linux
    * Comments: First public pod in Russia. Maximum flexibility, feel free to contact owner for any question or ideas.
+
+
+* [[https://diaspora.erchache2000.es]]
+   * Updated: regulary
+   * HTTPS only
+   * IPv4 only
+   * Maintained by Alejandro Sánchez
+       * email: erchache2000@gmail.com
+       * Contact: [[http://twitter.com/erchache2000]]
+   * Operating system: Linux (Ubuntu 10.4)
+   * Comments: Pod Abierto. Conexión con Facebook y twitter. Español.
