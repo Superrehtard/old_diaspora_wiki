@@ -172,7 +172,7 @@ As noted previously, you will need to configure NGINX to point to your SSL certi
 
 **NOTE:** Certificates issued from StartSSL will probably also require that the StartSSL intermediate certificate be concatenated in order for some pods to communicate properly. The following link will help you create a properly concatenated certificate for use by NGINX: [StartSSL and NGINX](http://blog.dembowski.net/2010/02/25/startssl-and-nginx/)
 
-**NOTE:** If you are serving through a reverse proxy, you will need to set the X_FORWARDED_PROTO header to https on your reverse proxy server.  The NGINX and apache example configurations show how to do this.
+**NOTE:** If you are serving through a reverse proxy, you will need to set the X_FORWARDED_PROTO header to https on your reverse proxy server.  The NGINX and apache example configurations show how to do this.  Failure to set this header will lead to a redirect loop.
 
 Take note: We upgrade all port 80 requests to port 443.  We recommend that you do the same.
 
