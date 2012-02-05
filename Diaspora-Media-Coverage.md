@@ -295,6 +295,15 @@
 
 # German (Deutsch)
 
+## 2012
+
+### January
+
+* DRadio Wissen, 01.24.2012, [Dezentrale Netzwerke für mehr Sicherheit](http://wissen.dradio.de/internet-dezentrale-netzwerke-fuer-mehr-sicherheit.36.de.html?dram:article_id=14661)
+* Netzpolitik, 01.23.2012, [Dradio Wissen: Dezentrale Soziale Netzwerke](http://netzpolitik.org/2012/dradio-wissen-dezentrale-soziale-netzwerke/)
+* VDI nachrichten, 01.20.2012, [Im Schatten von Facebook etablieren sich Mitbewerber](http://www.vdi-nachrichten.com/artikel/Im-Schatten-von-Facebook-etablieren-sich-Mitbewerber/56930/2)
+* Welt Kompakt, 01.10.2012, [Immer noch Diaspora](http://www.welt.de/print/welt_kompakt/webwelt/article13806844/Immer-noch-Diaspora.html)
+
 ## 2011
 
 ### November
