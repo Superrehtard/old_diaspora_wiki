@@ -24,7 +24,7 @@ Internet Explorer, though support is planned in the future.
 2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">Thin</a> 
 as our application server and <a href="http://wiki.nginx.org/Main" target="_blank">Nginx</a> as 
 our web server. You can use another application server (Passenger, Mongrel...), or another web 
-server (Apache, Unicorn...), but the core team may not have the expertise to help you set it up. Same goes for the database, currently we use MySQL but we're close to support PostgreSQL as well, it might work already.
+server (Apache, Unicorn...), but the core team may not have the expertise to help you set it up. Same goes for the database, currently we use MySQL but we're close to supporting PostgreSQL as well, it might work already.
 There are folks in the community who do run Diaspora this way though, so ask around in the IRC and 
 on the mailing list.
 
