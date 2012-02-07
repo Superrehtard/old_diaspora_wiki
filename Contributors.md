@@ -1,4 +1,4 @@
-The four co-founders of the project work on it full time in San Francisco.
+The current cast of people who work on Diaspora* it full time in San Francisco.
 
 * [[Daniel Grippi|https://github.com/danielgrippi]]
 * [[Maxwell Salzberg|https://github.com/maxwell]]
