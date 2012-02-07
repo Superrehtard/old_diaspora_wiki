@@ -21,7 +21,7 @@ We have dozens of non-developer contributors as well.  Amongst other activities,
 * Put together end-user tutorials
 * [[Translate the interface|How to contribute translations]] into other languages
 * Evangelize Diaspora in various places online
-* Discuss feature ideas on <a href="http://getsatisfaction.com/diaspora" target="_blank">GetSatisfaction</a>
+
 
 We'd love to have YOU as a contributor too! Come and talk to us in [[IRC|How-we-use-IRC]] and we can help you get started. 
 
