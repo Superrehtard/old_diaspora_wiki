@@ -11,13 +11,11 @@ anywhere on the site.
 ## General Resources
 * **[[Frequently Asked Questions (FAQ for Users)|FAQ for Users]]** <--- start here!
    * See also [[FAQ for Pod Maintainers]] and [[FAQ for Developers]]
-   * [[Why don't you encrypt everything in the browser?|Why client side encryption is a bad idea]]
 * [[Known Issues and Feature Requests]]
 * [[So, you want an invite?|Invitations]]
 * [[We need help!|Become-a-Contributor]]
 * [[Report a bug or suggest a feature|Report a Bug]]
 * [[What's new?|Changelog]]
-* [[Project roadmap|Roadmap]]
 * [[Community-supported Diaspora servers|Community-supported pods]]
 * [[Meet the team|Contributors]]
 * [[Community Meetups|Meetups]]
