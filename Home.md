@@ -77,9 +77,8 @@ anywhere on the site.
 * [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 
 
-## Grassroots Organizing Community Resources
+## Community Resources
 
-* [[Grassroots projects list|Grassroots Projects]]
 * [[Support Hashtags]] - #question, #bug, #feature
 * [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 
