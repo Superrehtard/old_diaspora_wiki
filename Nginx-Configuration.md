@@ -36,17 +36,6 @@ upstream thin_cluster {
   server          localhost:3000;
 }
 
-server {
-  listen       843;
-  location / {
-    rewrite ^(.*)$ /crossdomain.xml;
-  }
-  error_page 400  /crossdomain.xml;
-  location = /crossdomain.xml {
-    root html;
-  }
-}
-
 
 #
 # FIXME: specify correct value(s) for `server_name` directive and
