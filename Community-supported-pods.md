@@ -178,6 +178,15 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Ubuntu Server LTS 
     * Comments: Public Community Pod. Various People from German Hackerspaces aboard. SSL Cert is now Comodo, to properly interact with other pods. 
 
+* [[https://diaspora.urbanabydos.ca]] [[https://diaspora.urbanabydos.ca/images/asterisk.png|height=30px|]]
+    * Opened: 2011-05-31
+    * Updated: for stable, major changes
+    * HTTPS only
+    * Maintained by a private person
+        * sean@urbanabydos.ca
+    * Operating system: Ubuntu Server
+    * Comments: proudly Canadian (despite the IP geo-location!). Invitations on request.
+
 * [[https://dipod.org]] [[https://dipod.org/apple-touch-icon.png|height=30px]]
     * Opened: 01/11/2011
     * Updated: major changes
