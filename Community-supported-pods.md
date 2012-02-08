@@ -274,6 +274,14 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Linux (Debian Squeeze)
    * Comments: Public and free Diaspora pod
 
+* [[https://www.nomed.de/]] [[https://www.nomed.de/apple-touch-icon.png|height=30px|]]
+   * Opened: 05/02/2012
+   * Updated: ~weekly
+   * Maintained by a private person
+      * [Clear Air Turbulence](https://www.nomed.de/u/claitu)
+   * Operating system: FreeBSD 8.2-RELEASE
+   * Comments: Public and free Diaspora pod, Logging disabled, [rss-bot](https://github.com/spkdev/diaspora-rss-bot) installed, Facebook, Twitter disabled
+   * Configuration: lighttpd, thin
 
 * [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
     * Opened: 4/03/2011
