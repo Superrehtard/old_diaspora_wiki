@@ -45,7 +45,7 @@ Consider the situation where Alice and Eve live on the same pod, but Bob lives o
 
 Each comment is given a GUID.
 
-Now, Bob wraps up two salmon slaps in order to send the message:  One encrypted with Alice's RSA public key and one with Eve's.  But he sends them both to the same pod.  Pods MAY store their users' RSA private keys and decrypt messages on behalf of its users, and MAY store messages in cleartext.  In fact, this is what the reference implementation does.
+Now, Bob wraps up two salmon slaps in order to send the message:  One encrypted with Alice's RSA public key and one with Eve's.  But he sends them both to the same pod.  Pods MAY store their own users' RSA private keys and decrypt messages on behalf of its users, and MAY store messages in cleartext.  In fact, this is what the reference implementation does. Note that a user's private key is only stored on her own pod.
 
 So, when Alice receives her copy of Bob's original message, Alice's pod stores the cleartext in the database.  Later, when Eve's copy of the message comes in, Alice's pod notices that the GUID of the new message matches one that already exists in the database.  Thus, when Eve's copy of the message comes in, Eve's pod does not choose to store a second copy of it.  Instead, it just makes a note in a local visibility-permission table, noting that Eve should be able to see the message.
 
