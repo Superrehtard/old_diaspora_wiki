@@ -5,16 +5,18 @@
 Projects in the same broad technology space as Diaspora.
 
 * <a href="http://ostatus.org" target="_blank">OStatus</a>
-  * <a href="http://rstat.us" target="_blank">rstat.us</a>
-  * <a href="http://status.net" target="_blank">StatusNet</a>
-  * <a href="http://identi.ca" target="_blank">Identi.ca</a>
-* <a href="http://friendika.com" target="_blank">Friendika</a> using the <a href="http://info.dfrn.org/?page_id=2" target="_blank">Distributed Friends and Relations Network</a> protocol
+  * <a href="http://rstat.us" target="_blank">rstat.us</a> <strong>Ruby</strong>
+  * <a href="http://status.net" target="_blank">StatusNet</a> (biggest node: <a href="http://identi.ca" target="_blank">Identi.ca</a>) <strong>PHP</strong>
+  * <a href="http://lorea.org" target="_blank">Lorea</a> (biggest node: <a href="http://n-1.cc" target="_blank">n-1</a>) <strong>PHP (Elgg)</strong>
+* <a href="http://friendika.com" target="_blank">Friendika</a> <strong>PHP</strong> using the <a href="http://info.dfrn.org/?page_id=2" target="_blank">Distributed Friends and Relations Network</a> protocol
 * <a href="http://www.gnu.org/software/social/" target="_blank">GNU social</a>
   * <a href="http://daisycha.in/" target="_blank">daisycha.in</a>
 * <a href="http://opensource.appleseedproject.org/" target="_blank">Appleseed</a>
-* <a href="http://open.buddycloud.com" target="_blank">buddycloud channels</a>
-* <a href="http://onesocialweb.com" target="_blank">One Social Web</a>
-* <a href="http://movim.eu" target="_blank">movim.eu</a>
+* XMPP
+ * <a href="http://open.buddycloud.com" target="_blank">buddycloud channels</a>
+ * <a href="http://onesocialweb.com" target="_blank">One Social Web</a>
+ * <a href="http://movim.eu" target="_blank">movim.eu</a>
+ * <a href="http://lorea.org" target="_blank">Lorea</a>
   
 ## FreedomBox Foundation
 
