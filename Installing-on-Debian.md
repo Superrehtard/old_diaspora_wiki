@@ -24,7 +24,7 @@ To install Git on **Debian 6.0**, run the following:
 
 To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and install it. Instructions: http://backports.debian.org/Instructions/
 
-    sudo apt-get install -t squeeze-backports git-core
+    sudo apt-get install -t lenny-backports git-core
 
 
 ### Ruby
