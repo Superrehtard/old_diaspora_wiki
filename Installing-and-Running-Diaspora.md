@@ -236,7 +236,7 @@ Here are instructions to [[Run Diaspora's components|Run Diasporas Components]]
 
 Once Diaspora is running, just open it up in a web browser and sign up for an account.  
 
-**Note** If you are running a 'production' installation and requests to the /assets directory return a HTTP 404 error to your client, run `RAILS_ENV=production bundle exec jammit` after the first request to the page after each git pull
+**Note** If you are running a 'production' installation and requests to the /assets directory return a HTTP 404 error to your client, run `RAILS_ENV=production DB="mysql" bundle exec jammit` for MySQL or `RAILS_ENV=production DB="postgres" bundle exec jammit` for PostgreSQL after the first request to the page after each git pull
 
 **Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set to True the variable "serve_static_assets" in the config/environments/production.rb file.
 
