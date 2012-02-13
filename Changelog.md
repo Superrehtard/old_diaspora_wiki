@@ -2,6 +2,11 @@
 
 ## 2012
 
+### February
+* Participate and Explore streams implemented.
+* Status updates can now be "Pinned" rather than "Liked"
+* Layout adapted to better fit "Conversation-Centric" design.
+
 ### January
 * Pods run via SSL by default 
 * Stream rewrite with Backbone.js and client side Markdown rendering for faster UX and 400x better garbage collection server side
