@@ -2,6 +2,8 @@ Nginx is a lightweight webserver that is a easy front end for Diaspora*
 
 This is a basic configuration for a standard pod install, you will need to scale it up if you grow.
 
+NOTE: If you're using a StartSSL Cert and got Problems with your chain cert, check out this  
+https://gist.github.com/1825744
 
 ```
 worker_processes 1;
