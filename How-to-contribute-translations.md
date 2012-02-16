@@ -30,7 +30,7 @@ Examples:
 * fr_informal for the informal one
 
 ## Pull request
-**Note:** If you want to take the responsibility for you language this way is fine, however using both methods at a time is too much work, so please provide constant updates if you want to do it this way. Keep in mind that you have to watch for changes yourself, there's no automatism that updates anything with this way. Also get sure to be the person to contact about it in your local community and add a way to contact you/contribute to the translation to the *Languages handled outside of 99translations* section below.
+**Note:** If you want to take the responsibility for you language this way is fine, however using both methods at a time is too much work, so please provide constant updates if you want to do it this way. Keep in mind that you have to watch for changes yourself, there's no automatism that updates anything with this way. Also get sure to be the person to contact about it in your local community and add a way to contact you/contribute to the translation to the *Languages handled outside of Web translate it* section below.
 
 First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 
