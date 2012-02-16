@@ -5,6 +5,10 @@ Code chat is a bi-weekly community discussion held by the Diaspora core developm
 
 Code Chat is every other Thursday at 10am PST. (For example, the first code chat was on February 16th, so the one following it would be on March 1st.) Of course, we'll always have reminders before a Code Chat starts in case any newcomers want to join in.
 
+## Where is it?
+
+Code Chat takes place on irc.freenode.net on the #diaspora-discuss channel. You could also just click this link here: http://bit.ly/diaspora-meeting
+
 ## What if I miss it?
 
 Code Chats are logged so that anyone that misses out can still tune in and see what's going on. We don't want anybody in our community to miss the chance to get in the know as to what's going on with the project, so logs will constantly be published and linked to below.
