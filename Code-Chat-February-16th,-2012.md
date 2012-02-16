@@ -1,5 +1,3 @@
-chaitanya left the chat room. (Quit: Leaving)
-[5:52pm] dq joined the chat room.
 [5:53pm] msalzberg: rawr so who is all here!
 [5:53pm] msalzberg: show yourself!
 [5:53pm] dns|CostaRica: RAWR!!!!
