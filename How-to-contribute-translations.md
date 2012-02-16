@@ -62,14 +62,20 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 First go to  [[Web translate it|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
 
 Then go to [[diaspora's project site|https://webtranslateit.com/en/projects/3020-Diaspora]] and join the team.
+
 [[https://mrzyx.de/transtut/wti_1.png|width=550px]]
 
 Choose your language or suggest a new one and request an invitation.
+
 [[https://mrzyx.de/transtut/wti_2.png|width=550px]]
+
 You'lll receive an email containing a link to accept your invitation. Note that this can take one or two days since I have to manually approve your request ;)
 Once you got the mail and clicked on the link you'll see something like this:
+
 [[https://mrzyx.de/transtut/wti_3.png|width=550px]]
 
 After you accepted it you can click on the "Translations" tab and start translating:
+
 [[https://mrzyx.de/transtut/wti_4.png|width=550px]]
+
 Thank you for contributing!
