@@ -1,0 +1,10 @@
+## What is it?
+Code chat is a bi-weekly community discussion held by the Diaspora core development team. The user and developer community is welcome to join in, ask questions, and get updates on where the project is heading.
+
+## When is it?
+
+Code Chat is every other Thursday at 10am PST. (For example, the first code chat was on February 16th, so the one following it would be on March 1st.) Of course, we'll always have reminders before a Code Chat starts in case any newcomers want to join in.
+
+## What if I miss it?
+
+Code Chats are logged so that anyone that misses out can still tune in and see what's going on. We don't want anybody in our community to miss the chance to get in the know as to what's going on with the project, so logs will constantly be published and linked to below.
