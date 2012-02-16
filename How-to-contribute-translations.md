@@ -1,6 +1,6 @@
 # How to contribute translations
 
-There are two ways you can contribute a translation: with a pull request or at [[99translations.com|http://99translations.com]].
+There are two ways you can contribute a translation: with a pull request or at [[Web translate it|https://webtranslateit.com]].
 But lets start with some....
 
 ## General Notes
@@ -50,47 +50,26 @@ If you want to fix an untranslatable strings or something feel free, but only ad
 
 If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX, E-Mail: diaspora@mrzyx.de) and give me the URL to a Git Repository and I'll do regular pulls in my update workflow.
 
-## 99translations.com
+## Web translate it
 
-### Languages handled outside of 99translations
+### Languages handled outside of Web translate it
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * [[gl|http://trasno.net/]]
 
-### Uploading locales to 99translations
-Please do not try to upload translations to 99translations.com after you've downloaded them to edit them in a texteditor.  The reasons are:
+### Translating with Web translate it
 
-* If you made syntax errors that made the YAML file invalid, 99translations is terrible at informing you about that
-* If someone else made changes while you're editing the file, they would be overwritten by yours.
-* If you leave English strings in the file, 99transaltions would treat them as complete translations.
+First go to  [[Web translate it|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
 
-You can instead send them to diaspora@mrzyx.de and I'll see how I can add them. But if you do so please try to provide as complete translations as possible, I don't have the time to do every minor upload. If you want to provide constant updates, you can choose one of the methods above or upload them by yourself, but get really sure to avoid the mentioned issues.
+Then go to [[diaspora's project site|https://webtranslateit.com/en/projects/3020-Diaspora]] and join the team.
+[[https://mrzyx.de/transtut/wti_1.png|width=550px]]
 
-### Translating with 99translations
+Choose your language or suggest a new one and request an invitation.
+[[https://mrzyx.de/transtut/wti_2.png|width=550px]]
+You'lll receive an email containing a link to accept your invitation. Note that this can take one or two days since I have to manually approve your request ;)
+Once you got the mail and clicked on the link you'll see something like this:
+[[https://mrzyx.de/transtut/wti_3.png|width=550px]]
 
-First go to  [[99translations.com|http://99translations.com]] and create/sign-in to your account.
-
-Then go to [[diaspora's project site|http://99translations.com/public_projects/show/181]] and join the team.
-
-After that choose a file you want to work on [[here|http://99translations.com/projects/181]].
-
-
-
-Choose your language or click "Create Translation" to create a new one. In the "Locale" field enter your language code (**don't use 99translations.com's select boxes. To choose the correct language code see above.**).
-
-You then will be presented the following view:
-
-[[https://mrzyx.de/transtut/transtut1.png|width=550px]]
-
-* At the "New" tab you can translate untranslated strings
-* At the "Modified" tab you can retranslate strings that got updated in the master translation (the English one).
-* At the "All" or the "Up-to-date" tab you can optimize already translated strings
-
-When you click on "Edit" you will see the following:
-
-[[https://mrzyx.de/transtut/transtut2.png|width=550px]]
-
-* You can see the original text from the master file (the English translation file).
-* You can enter the translation in the textbox
-* **Note:** have a look at the key (under "Edit Translation"). It can help you with the context, especially for gender specific translations.
-* And then click "Save and continue" to get to the next translation (Or skip this one with "Next").
+After you accepted it you can click on the "Translations" tab and start translating:
+[[https://mrzyx.de/transtut/wti_4.png|width=550px]]
+Thank you for contributing!
