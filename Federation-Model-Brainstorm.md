@@ -63,3 +63,5 @@ Whereas the current situation is, I believe:
 That means all the posts need to be stored locally before they can be displayed. That needs a workaround. The central index could just take the search term and spit out a list of references, then move on to the next search term.
 
 **Perfect decentralisation allows you to view as much content as possible, while keeping storage and traffic as low as possible.**
+
+Edit: or lets call it the Diasporaverse. :P
