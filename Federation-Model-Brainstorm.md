@@ -16,10 +16,10 @@ Diaspora tries to do both "meeting people" as well as "decentralisation". Combin
 
 ### The Monster
 
-Within model 1, allow users to authorize The Monster. When authorised, The Monster will pull all records of your public posts with hashtags into a centralised monolithic database to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow The Monster to pull your posts (to avoid dilemma's).
+Within model 2, allow users to authorize The Monster. When authorised, The Monster will pull all records of your public posts with hashtags into a centralised monolithic database to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow The Monster to pull your posts (to avoid dilemma's).
 
-The Monster only pulls and provides tagged public posts. He does nothing else. He does not host them, just indexes them for reference. From within model 1, we could tell the monster to "forget our posts", clearing the index, or "forget after x days". We control The Monster ourselves.
+The Monster only pulls and provides tagged public posts. He does nothing else. He does not host them, just indexes them for reference. From within model 2, we could tell the monster to "forget our posts", clearing the index, or "forget after x days". We control The Monster ourselves.
 
-The Monster does not see any private messages or friend relations (as opposed to Facebook). Because The Monster is completely separated from model 1, it is possible to completely block The Monster. Therefore people can choose between a fully decentralised network and a semi-decentralised network. The Monster may be evil; he's still a lot less evil than Facebook because he's missing lots of context.
+The Monster does not see any private messages or friend relations (as opposed to Facebook). Because The Monster is completely separated from model 2, it is possible to completely block The Monster. Therefore people can choose between a fully decentralised network and a semi-decentralised network. The Monster may be evil; he's still a lot less evil than Facebook because he's missing lots of context.
 
 TL;DR: decentralise all that can be decentralised and that needs protection, provide all other services through a centralised, user-controlled system.
