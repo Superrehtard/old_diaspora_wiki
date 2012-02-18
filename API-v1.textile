@@ -1,6 +1,8 @@
 Current draft: "http://pad.spored.de/ro/r.qWmvhSZg7rk4OQam":http://pad.spored.de/ro/r.qWmvhSZg7rk4OQam
 Implementation: "https://github.com/MrZYX/diaspora/tree/mobile_api":https://github.com/MrZYX/diaspora/tree/mobile_api
+WIP docs: "https://gist.github.com/01c93096c30dc44caf71":https://gist.github.com/01c93096c30dc44caf71
 
+# Old Info
 ***
 
 **I ("Dennis Schubert (@denschub)":https://github.com/denschub) am working at this document right now. Please wait until I've fully inserted my drafts - should be done until the end of the day. :-)**
