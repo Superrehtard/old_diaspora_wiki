@@ -2,11 +2,13 @@ Here's my brainstorm for a more focused federation model.
 
 **There's two flavours of networks:**
 
-1. Meeting new people -> "Gather interesting people **from the pool**" -> Through hashtags -> Small pods fail to deliver because of small pool -> Leads to centralisation. This is happening.
+1. Meeting new people 
+-> "Gather interesting people **from the pool**" -> Through hashtags -> Small pods fail to deliver because of small pool -> Leads to centralisation. This is happening.
 
-2. Stay in contact with friends -> "Direct connecting" -> Pods for individuals work perfectly ->  Decentralisation
+2. Stay in contact with friends 
+-> "Direct connecting" -> Pods for individuals work perfectly ->  Decentralisation
 
-Diaspora tries to do both "meeting people" as well as "decentralisation". Combination leads to architectural/traffic problems. Current model automatically leads to centralisation as small pods fail to deliver.
+Diaspora tries to do both "meeting people" as well as "decentralisation". This combination leads to architectural/traffic problems. The current model automatically leads to centralisation as small pods fail to deliver.
 
 ### Separate the processes!
 
