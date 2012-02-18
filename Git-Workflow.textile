@@ -145,7 +145,7 @@ p. You'll see upstream listed there.
 
 h2(#gitrebase). Rebase Your Development Branch on the Latest Upstream
 
-p. To keep your development branch up to date, rebase your changes on top of the current state of the upstream master. See the *<a href="#gitrebase1">What's git-rebase?</a>* section below to learn more about rebasing.
+p. To keep your development branch up to date, rebase your changes on top of the current state of the upstream master. Check out *<a href="#gitrebase1">What's git-rebase?</a>* below to learn more about rebasing.
 
 p. If you've set up an upstream branch as detailed above, and a development branch called 100-retweet-bugfix, you'd update upstream, update your local master, and rebase your branch from it like so:
 
