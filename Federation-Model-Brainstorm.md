@@ -47,6 +47,7 @@ If you want to decentralise this system, you need big pods and these will be kee
 If for some reason the central index will ever go BOOM!, then everything will continue to work, except for worldwide hashtag searching. That's all. The rest of the network would not be touched. All that's decentralised will work independently. If Diaspora matters enough, then there will always be support to keep the central index going. Pretty sure people like those from the Piratebay would get involved in restoring the index.
 
 The system really can be as simple as:
+
 - I want "#cats"
 - Request "#cats" from index
 - Get 100 "#cats" references
@@ -54,6 +55,7 @@ The system really can be as simple as:
 - Display cuteness.
 
 Whereas the current situation is, I believe:
+
 - I want "#cats"
 - Search for "#cats" in index of locally stored public posts
 - Display the latest 10 posts
