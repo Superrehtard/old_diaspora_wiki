@@ -12,16 +12,16 @@ To sum this up: Since Diaspora focuses a lot on meeting new people, pods require
 
 1. Go by model 1 for your decentralisation goals. This model protects privacy and ownership of all your private content by safely sharing it directly to your friends. Also hosts public posts, which are shared with friends and _can_ be accessed by others. Does exactly what Kickstarters donated their money for. Everyone their own **equal** pod. Low traffic, simple install.
 
-2. Build an index that provides model 2 as an **add-on** service for Diaspora, globally. In other words: move the hashtag index out of the big pods, into a centralised index. Lets call it "Evilspora".
+2. Build an index that provides model 2 as an **add-on** service for Diaspora, globally. In other words: move the hashtag index out of the big pods, into a centralised index. Lets call it "The Diasporaverse".
 
-### Evilspora
+### Diasporaverse
 
-Within model 1, allow users to optionally authorize Evilspora. When authorised, Evilspora will pull the "tag,postid,location,date" of your public posts with hashtags into a centralised index to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow Evilspora to pull your posts (to avoid dilemma's).
+Within model 1, allow users to optionally authorize Diasporaverse. When authorised, Diasporaverse will pull the "tag,postid,location,date" of your public posts with hashtags into a centralised index to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow Diasporaverse to pull your posts (to avoid dilemma's). Optionally, we could do the same for finding contacts by name, as you may not be connected to the right pods.
 
 ### Why centralisation is not hurtful
-Evilspora only pulls and provides **references to** tagged public posts. It does nothing else. It does not host posts, just indexes them for reference. From within model 1, we could even tell Evilspora to "forget our posts", clearing the index, or "forget after x days". We control Evilspora ourselves. It's a centralised system controlled by a decentralised system. Like a cloud synch platform. Also, when we delete a post from our pod (data ownership), Evilspora will only have a dead link. Control remains decentralised.
+Diasporaverse only pulls and provides **references to** tagged public posts. It does nothing else. It does not host posts, it just indexes them for reference. From within model 1, we could even tell Diasporaverse to "forget our posts", clearing the index, or "forget after x days". We control Diasporaverse ourselves. It's a centralised system controlled by a decentralised system. Like a cloud sync platform. Also, when we delete a post from our pod (data ownership), Diasporaverse will only have a dead link. Control therefore remains decentralised.
 
-Evilspora does not see any private messages or friend relations (as opposed to Facebook) and because Evilspora is completely separated from model 1, it is possible to completely block and work around Evilspora. 
+Diasporaverse does not see any private messages or friend relations (as opposed to Facebook) and because Diasporaverse is completely separated from model 1, it is possible to completely block and work around Diasporaverse. It can never become a powerful database like the current monolithic social networks.
 
 **People can choose between a fully decentralised network and a semi-decentralised network**, whereas the current trend is working towards an almost-centralised network.
 
@@ -63,5 +63,3 @@ Whereas the current situation is, I believe:
 That means all the posts need to be stored locally before they can be displayed. That needs a workaround. The central index could just take the search term and spit out a list of references, then move on to the next search term.
 
 **Perfect decentralisation allows you to view as much content as possible, while keeping storage and traffic as low as possible.**
-
-Edit: or lets call it the Diasporaverse. :P
