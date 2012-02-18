@@ -10,7 +10,7 @@ Diaspora tries to do both "meeting people" as well as "decentralisation". Combin
 
 Separate the processes!
 
-1. Go by model 2 for your decentralisation fix. Protect privacy and ownership for all _private_ content. This is a self-sustainable model for connecting to people you know. Does exactly what Kickstarters donated their money for. Saves the planet. No evil at all. Low traffic, simple system!
+1. Go by model 2 for your decentralisation fix. Protect privacy and ownership for all _private_ content. Does exactly what Kickstarters donated their money for. No evil at all. Everyone their own pod. Low traffic, simple system! 
 
 2. Build a central index that provides model 1 as an add-on for Diaspora. This will contain Diaspora's "evil" part. Lets call it "The Monster".
 
