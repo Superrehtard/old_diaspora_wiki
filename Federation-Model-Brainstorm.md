@@ -1,6 +1,6 @@
 **There's two models:**
 
-1. Stay in touch with friends -> direct connection between seeds -> works smooth for small pods ->  Leads to **Decentralisation**. This is the original goal.
+1. Stay in touch with friends -> direct connection between seeds -> works smooth for small pods ->  Leads to **Decentralisation**. This is the original goal. Works like e-mail.
 
 2. **Meeting new people** -> requires: gathering interesting people from "the pool" -> Small pods: small pools -> they fail to deliver -> Leads to centralisation. This is happening.
 
