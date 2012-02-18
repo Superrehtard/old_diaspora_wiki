@@ -2,7 +2,7 @@ Here's my brainstorm for a more focused federation model.
 
 **There's two flavours of networks:**
 
-1. Meeting new people -> "Gather interesting people from _the pool_" -> Through hashtags -> Small pods fail to deliver because of small pool -> Leads to centralisation
+1. Meeting new people -> "Gather interesting people from _the pool_" -> Through hashtags -> Small pods fail to deliver because of small pool -> Leads to centralisation. This is happening.
 
 2. Stay in contact with friends -> "Direct connecting" -> Pods for individuals work perfectly ->  Decentralisation
 
