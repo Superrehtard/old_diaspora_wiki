@@ -3,7 +3,7 @@ Implementation: "https://github.com/MrZYX/diaspora/tree/mobile_api":https://gith
 WIP docs: "https://gist.github.com/01c93096c30dc44caf71":https://gist.github.com/01c93096c30dc44caf71
 
 
-h1 Old Info
+h1. Old Info
 
 ***
 
