@@ -8,13 +8,13 @@ Here's my brainstorm for a more focused federation model.
 
 Diaspora tries to do both "meeting people" as well as "decentralisation". Combination leads to architectural/traffic problems. Current model automatically leads to centralisation as small pods fail to deliver.
 
-## Separate the processes!
+### Separate the processes!
 
 1. Go by model 2 for your decentralisation fix. Protect privacy and ownership for all _private_ content. Does exactly what Kickstarters donated their money for. No evil at all. Everyone their own pod. Low traffic, simple system! 
 
 2. Build a central index that provides model 1 as an add-on for Diaspora. This will contain Diaspora's "evil" part. Lets call it "The Monster".
 
-## The Monster
+### The Monster
 
 Within model 1, allow users to authorize The Monster. When authorised, The Monster will pull all records of your public posts with hashtags into a centralised monolithic database to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow The Monster to pull your posts (to avoid dilemma's).
 
