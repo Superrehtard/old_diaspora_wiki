@@ -34,3 +34,30 @@ The central system that delegates hashtags will only have to list the hashtag, i
 So, it's apparent that this is kind of a problem. We want to utilize decentralization, but our community in and of itself is centralized as a concept (not particularly between servers so to speak, but the community hub itself is a cultural epicenter on the platform. The very idea of community is central, and so this illusion of centralization ought to be pulled off on a decentralized network)
 
 Kevin's idea with a background process is interesting, but I'll go one step further: put something together in a pod configuration so that it can federate and pull in tags as a user follows them. The pods to pull from could be easily added or switched off in a config script. The only real heavy-lifting required may be that the pod might be told that public tagged content needs to be federated, and fetched as needed (rather than downloading the whole bulk catalog). This may require changes to the current federation implementation.
+
+### Kevin -> Sean
+If you list pods to pull from in a configuration file, the system will rely on these pods only to gather all references to public tagged content. Therefore, it will only work when over 90% of users/content are on these big pods, e.g. JD, Diasp, Geraspora, otherwise too much content may not be found and the system will be lacking. And the big pods is what we would want to move away from. Indirectly, this is how the system currently works.
+
+You could also apply this to all the pods (all2all) but then things become too heavy and complex. Imagine drawing lines between all these dots. That's a no-go as well. A huge problem is that all the small pods will have to host all the references created on the network, in other to provide a valuable list to their neighbouring pods. Indexes would never be able to be completed by small pods and eventually the whole network would collapse.
+
+That's why I believe it would be better if all pods would push to a single index (albeit hosted by a handful of synchronised servers, for stability). **The actual data will be federated** but the locations will be archived in a central place for easy reference. The pod can then fetch the data from the several pods, present it to the user and throw away the results after a certain period of time. This will consume some bandwidth but it wouldn't require small pods to hoard the data/references. The references only exist once.
+
+If you want to decentralise this system, you need big pods and these will be keeping the same records, which really clogs everything up and causes problems. A centralised reference index will enable small pods to have an incredible reach without blowing up the server.
+
+If for some reason the central index will ever go BOOM!, then everything will continue to work, except for worldwide hashtag searching. That's all. The rest of the network would not be touched. All that's decentralised will work independently. If Diaspora matters enough, then there will always be support to keep the central index going. Pretty sure people like those from the Piratebay would get involved in restoring the index.
+
+The system really can be as simple as:
+- I want "#cats"
+- Request "#cats" from index
+- Get 100 "#cats" references
+- Fetch the 10 latest posts from other pods
+- Display cuteness.
+
+Whereas the current situation is, I believe:
+- I want "#cats"
+- Search for "#cats" in index of locally stored public posts
+- Display the latest 10 posts
+
+That means all the posts need to be stored locally before they can be displayed. That needs a workaround. The central index could just take the search term and spit out a list of references, then move on to the next search term.
+
+**Perfect decentralisation allows you to view as much content as possible, while keeping storage and traffic as low as possible.**
