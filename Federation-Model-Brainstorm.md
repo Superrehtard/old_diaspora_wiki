@@ -22,4 +22,7 @@ The Monster only pulls and provides tagged public posts. He does nothing else. H
 
 The Monster does not see any private messages or friend relations (as opposed to Facebook). Because The Monster is completely separated from model 2, it is possible to completely block The Monster. Therefore people can choose between a fully decentralised network and a semi-decentralised network. The Monster may be evil; he's still a lot less evil than Facebook because he's missing lots of context.
 
-TL;DR: decentralise all that can be decentralised and that needs protection, provide all other services through a centralised, user-controlled system.
+### TL;DR
+Focus on perfect befriended federation between millions of one-man pods, while making hashtag search pod-independent. Currently, because JoinDiaspora provides an awesome hashtag experience, people choose to all join the same pod which centralises the network and causes a lot of scaling problems for JD. By moving the hashtag experience away from JD, the network becomes more equally decentralised as there will then be less downsides to self-hosting (poor reach or high traffic). It massively changes the relationship between big and small pods, for the better.
+
+The central system that delegates hashtags will only have to list the hashtag, its location and its date. The pods can then look up a tag and pull in the locations of the latest dates, then connecting to the locations to get the content. The central system therefore wouldn't have to download the actual content.
