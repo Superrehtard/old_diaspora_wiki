@@ -10,17 +10,20 @@ To sum this up: Since Diaspora focuses a lot on meeting new people, pods require
 
 ### Fix: Separate the processes!
 
-1. Go by model 1 for your decentralisation goals. This model protects privacy and ownership of all private content. Does exactly what Kickstarters donated their money for. Everyone their own equal pod. Low traffic, simple install.
+1. Go by model 1 for your decentralisation goals. This model protects privacy and ownership of all your private content by safely sharing it directly to your friends. Also hosts public posts, which are shared with friends and _can_ be accessed by others. Does exactly what Kickstarters donated their money for. Everyone their own **equal** pod. Low traffic, simple install.
 
-2. Build a central index that provides model 2 as an **add-on** for Diaspora, globally. In other words: move the hashtag index out of the big pods, into a centralised index. Lets call the central index "Evilspora".
+2. Build an index that provides model 2 as an **add-on** service for Diaspora, globally. In other words: move the hashtag index out of the big pods, into a centralised index. Lets call it "Evilspora".
 
 ### Evilspora
 
-Within model 1, allow users to authorize Evilspora. When authorised, Evilspora will pull all records of your public posts with hashtags into a centralised monolithic database to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow Evilspora to pull your posts (to avoid dilemma's).
+Within model 1, allow users to optionally authorize Evilspora. When authorised, Evilspora will pull the "tag,postid,location,date" of your public posts with hashtags into a centralised index to provide a perfect hashtag search system by delivering results back to model 1 servers. You can search these posts even when you do not allow Evilspora to pull your posts (to avoid dilemma's).
 
-Evilspora only pulls and provides tagged public posts. It does nothing else. It does not host posts, just indexes them for reference. From within model 1, we could tell Evilspora to "forget our posts", clearing the index, or "forget after x days". We control Evilspora ourselves.
+### Why centralisation is not hurtful
+Evilspora only pulls and provides **references to** tagged public posts. It does nothing else. It does not host posts, just indexes them for reference. From within model 1, we could even tell Evilspora to "forget our posts", clearing the index, or "forget after x days". We control Evilspora ourselves. It's a centralised system controlled by a decentralised system. Like a cloud synch platform. Also, when we delete a post from our pod (data ownership), Evilspora will only have a dead link. Control remains decentralised.
 
-Evilspora does not see any private messages or friend relations (as opposed to Facebook). Because Evilspora is completely separated from model 1, it is possible to completely block and work around Evilspora. People can choose between a fully decentralised network and a semi-decentralised network. Evilspora may be evil; its still a lot less evil than Facebook because its missing lots of context, which is hosted on the pods themselves.
+Evilspora does not see any private messages or friend relations (as opposed to Facebook) and because Evilspora is completely separated from model 1, it is possible to completely block and work around Evilspora. 
+
+**People can choose between a fully decentralised network and a semi-decentralised network**, whereas the current trend is working towards an almost-centralised network.
 
 ### TL;DR
 Focus on perfect befriended federation between millions of one-man pods, while making hashtag search pod-independent. Currently, because JoinDiaspora provides an awesome hashtag experience, people choose to all join the same pod which centralises the network and causes a lot of scaling problems for JD. By moving the hashtag experience away from JD, the network becomes more equally decentralised as there will then be less downsides to self-hosting (poor reach or high traffic). It massively changes the relationship between big and small pods, for the better.
