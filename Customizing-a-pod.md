@@ -1,5 +1,5 @@
 from this thread:
-http://groups.google.com/group/diaspora-dev/browse_thread/thread/6137f5e84159511
+http://groups.google.com/group/diaspora-dev/browse_thread/thread/6137f5e84159511 (how to customize pods without breaking interoperability?)
 
 Excerpts from Pistos's message of 2011-12-02 21:35:45 +0000:
 
