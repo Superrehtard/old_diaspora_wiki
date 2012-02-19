@@ -67,6 +67,7 @@ anywhere on the site.
 * [[Nginx Configuration]]
 * [[FAQ for Pod Maintainers]]
 * [[How to customize the splash page|Customize your splash page]]
+* [[Customizing a pod]]
 * [[How to set up Twitter/FB/Tumblr integration|Howto-setup-services]]
 * [[Paypal Subscription Button Setup|Coffee-Setup]]
 * [[How to Use Pagekite to Link Your Own Domain Name to a Local Network Diaspora Pod|How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod]]
