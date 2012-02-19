@@ -14,4 +14,4 @@ A restructuring and cleanup of documentation is necessary. Furthermore, we have 
 
 ## Who should the feedback go to?
 
-Right now, [Sean Tilley](https://joindiaspora.com/u/deadsuperhero) is probing for feedback and ideas, so you're welcome to send him a private message, shoot him [an email](mailto: sean@joindiaspora.com), or leave a comment. Feedback will be compiled to figure out what needs the most attention first.
+Right now, [Sean Tilley](https://joindiaspora.com/u/deadsuperhero) is probing for feedback and ideas, so you're welcome to send him a private message, shoot him [an email](mailto: sean@joindiaspora.com), or leave a comment. Feedback will be compiled to figure out what needs the most attention first. Alternatively, you can also hit up [this thread](http://groups.google.com/group/diaspora-dev/browse_thread/thread/ca87e2bc02068338) for the sake of presenting some public conversation that everybody can look at and think about.
