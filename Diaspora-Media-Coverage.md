@@ -9,6 +9,12 @@
 
 # English
 
+## 2012
+
+### Febuary
+
+* The Village Voice, 02.15.2012, [Rise of the Facebook-Killers](http://www.villagevoice.com/2012-02-15/news/the-facebook-killers/)
+
 ## 2011
 
 ### December
