@@ -6,6 +6,9 @@
 * Participate and Explore streams implemented.
 * Status updates can now be "Pinned" rather than "Liked"
 * Layout adapted to better fit "Conversation-Centric" design.
+* Links now open in a new window by default
+* Publisher/Bookmarklet now works as intended
+* Messages now retain navigation when opened in new tab
 
 ### January
 * Pods run via SSL by default 
