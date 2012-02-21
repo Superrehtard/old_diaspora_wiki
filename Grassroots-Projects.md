@@ -30,7 +30,7 @@ Need designers to help make Pod Uptime (the great directory of Diaspora* pods) e
 Could use more writers, and especially, translators. http://diasporial.com/
 
 **Translations**  
-Translators needed for our [grassroots translations group](http://99translations.com/public_projects/show/181).  We'd like to try to translate Diaspora into all world languages. 
+Translators needed for our [translations group](https://webtranslateit.com/en/projects/3020-Diaspora).  We'd like to try to translate Diaspora into all world languages. 
    
 **Wiki on Github**  
 Need user documentation writers. https://github.com/diaspora/diaspora/wiki
