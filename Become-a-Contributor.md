@@ -18,7 +18,7 @@ Diaspora needs all sort of help, way more than just code!
 
 Currently, there are two outlets for this: [GitHub Issues](https://github.com/diaspora/diaspora/issues) and in case you don't have a Github account (and don't want to create one) you can make a public post on Diaspora with the #bug hashtag.
 
-Please, always try to specify as much information as possible, when reporting a bug (e.g. pod URL, screenshot, public post URL,...)
+Please, always try to specify as much information as possible, when reporting a bug (e.g. pod URL, screenshot, public post URL,...). You can find more detailed instructions [[here|Report a bug]].
 
 ####Starting Meetups  
 
