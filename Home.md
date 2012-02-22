@@ -34,6 +34,7 @@ anywhere on the site.
 * [[Report a bug|Report a Bug]]
 * [[Work on a bug|Work on a Bug]]
 * [[How to contribute with Git|Git Workflow]]
+* [[Testing workflow]]
 * [[Adding your favorite service to Diaspora]]
 * [[An Introduction to the Diaspora Source]]
 * [[Overview of required gems]]
