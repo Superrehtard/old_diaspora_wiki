@@ -8,7 +8,7 @@ Name       | Summary              | Description
 POpen4-0.1.4.gemspec|Open4 cross-platform|
 Platform-0.4.0.gemspec|Hopefully robust platform sensing|
 SystemTimer-1.2.3.gemspec|Set a Timeout based on signals, which are more reliable than Timeout. Timeout is based on green threads.|
-abstract-1.0.0.gemspec|a library which enable you to define abstract:" method in Ruby|'abstract.rb' is a library which enable you to define abstract method in Ruby.
+abstract-1.0.0.gemspec|a library which enable you to define abstract:" method in Ruby|'abstract.rb' is a library which enable you to define abstract method in Ruby.y
 actionmailer-3.0.11.gemspec|Email composition, delivery, and receiving framework (part of Rails).|Email on Rails. Compose, deliver, receive, and test emails using the familiar controller/view pattern
 actionpack-3.0.11.gemspec|Web-flow and rendering framework putting the VC in MVC (part of Rails).|Web apps on Rails. Simple, battle-tested conventions for building and testing MVC web applications. W
 activemodel-3.0.11.gemspec|A toolkit for building modeling frameworks (part of Rails).|A toolkit for building modeling frameworks like Active Record and Active Resource. Rich support for a
@@ -42,44 +42,34 @@ client_side_validations-3.1.3.gemspec|Client Side Validations|Client Side Valida
 clipboard-0.9.9.gemspec|Access the clipboard on Linux, MacOS and Windows.|Access the clipboard on Linux, MacOS and Windows (Clipboard.copy & Clipboard.paste).
 cloudfiles-1.4.10.gemspec|A Ruby API into Rackspace Cloud Files|A Ruby version of the Rackspace Cloud Files API.
 coderay-1.0.5.gemspec|Fast syntax highlighting for selected languages.|Fast and easy syntax highlighting for selected languages, written in Ruby. Comes with RedCloth integr
-columnize-0.3.5.gemspec|Module to format an Array as an Array of String aligned in columns|
-In showing a long lists, sometimes one would prefer to see the value
-arranged aligned in columns. So
+columnize-0.3.5.gemspec|Module to format an Array as an Array of String aligned in columns|In showing a long lists, sometimes one would prefer to see the value arranged aligned in columns.
 crack-0.3.1.gemspec|Really simple JSON and XML parsing, ripped from Merb and Rails.|
 cucumber-1.1.3.gemspec|cucumber-1.1.3|Behaviour Driven Development with elegance and joy
-cucumber-api-steps-0.6.gemspec|Cucumber steps to easily test REST-based XML and JSON APIs|Cucumber steps to easily test REST-based XML and JSON APIs
+cucumber-api-steps-0.6.gemspec|Cucumber steps to easily test REST-based XML and JSON APIs|Cucumber steps to ?easily test REST-based XML and JSON APIs
 cucumber-rails-1.2.1.gemspec|cucumber-rails-1.2.1|Cucumber Generator and Runtime for Rails
 daemon_controller-0.2.6.gemspec|A library for implementing daemon management capabilities|A library for robust daemon management.
 daemons-1.1.4.gemspec|A toolkit to create and control daemons in different ways|Daemons provides an easy way to wrap existing ruby scripts (for example a self-written server)  to be
 database_cleaner-0.7.0.gemspec|Strategies for cleaning databases.  Can be used to ensure a clean state for testing.|Strategies for cleaning databases.  Can be used to ensure a clean state for testing.
 devise-1.3.4.gemspec|Flexible authentication solution for Rails with Warden|Flexible authentication solution for Rails with Warden
 devise_invitable-0.5.0.gemspec|An invitation strategy for Devise|It adds support for send invitations by email (it requires to be authenticated) and accept the invita
-diff-lcs-1.1.3.gemspec|Diff::LCS is a port of Perl's Algorithm::Diff that uses the McIlroy-Hunt longest common subsequence (LCS) algorithm to compute intelligent differences between two sequenced enumerable containers|Diff::LCS is a port of Perl's Algorithm::Diff that uses the McIlroy-Hunt
-longest common subsequence (
+diff-lcs-1.1.3.gemspec|Diff::LCS is a port of Perl's Algorithm::Diff that uses the McIlroy-Hunt longest common subsequence (LCS) algorithm to compute intelligent differences between two sequenced enumerable containers|Diff::LCS is a port of Perl's Algorithm::Diff that uses the McIlroy-Hunt longest common subsequence
 em-websocket-0.3.5.gemspec|EventMachine based WebSocket server|EventMachine based WebSocket server
-erubis-2.6.6.gemspec|a fast and extensible eRuby implementation which supports multi-language|  Erubis is an implementation of eRuby and has the following features:
-
-  * Very fast, almost three t
-eventmachine-0.12.10.gemspec|Ruby/EventMachine library|EventMachine implements a fast, single-threaded engine for arbitrary network
-communications. It's ext
+erubis-2.6.6.gemspec|a fast and extensible eRuby implementation which supports multi-language|  Erubis is an implementation of eRuby.
+eventmachine-0.12.10.gemspec|Ruby/EventMachine library|EventMachine implements a fast, single-threaded engine for arbitrary network communications. It's ext
 every_day_irb-1.1.1.gemspec|every_day_irb defines some helper methods that might be useful in irb.|every_day_irb defines some helper methods that might be useful in every-day irb usage, e.g.: ls, cat,
 excon-0.7.12.gemspec|speed, persistence, http(s)|EXtended http(s) CONnections
 extlib-0.9.15.gemspec|Support library for DataMapper and Merb|Support library for DataMapper and Merb
-factory_girl-2.3.2.gemspec|factory_girl provides a framework and DSL for defining and using model instance factories.|factory_girl provides a framework and DSL for defining and
-                       using factories - l
-factory_girl_rails-1.4.0.gemspec|factory_girl_rails provides integration between factory_girl and rails 3|factory_girl_rails provides integration between
-    factory_girl and rails 3 (currently just automati
+factory_girl-2.3.2.gemspec|factory_girl provides a framework and DSL for defining and using model instance factories.|factory_girl provides a framework and DSL for defining and  using factories
+factory_girl_rails-1.4.0.gemspec|factory_girl_rails provides integration between factory_girl and rails 3|factory_girl_rails provides integration between factory_girl and rails 3 (currently just automati
 fancy_irb-0.7.2.gemspec|FancyIrb patches your IRB to create a smooth output experience.|FancyIrb patches your IRB to create a smooth output experience. You can colorize the prompts, irb err
 faraday-0.7.0.gemspec|HTTP/REST API client library.|HTTP/REST API client library.
 faraday-stack-0.1.3.gemspec|Great Faraday stack for consuming all kinds of APIs|
-fastercsv-1.5.4.gemspec|FasterCSV is CSV, but faster, smaller, and cleaner.|FasterCSV is intended as a complete replacement to the CSV standard library. It
-is significantly fast
+fastercsv-1.5.4.gemspec|FasterCSV is CSV, but faster, smaller, and cleaner.|FasterCSV is intended as a complete replacement to the CSV standard library. It is significantly fast.
 fastthread-1.0.7.gemspec|Optimized replacement for thread.rb primitives|Optimized replacement for thread.rb primitives
-ffi-1.0.11.gemspec|Ruby-FFI is a ruby extension for programmatically loading dynamic libraries, binding functions within them, and calling those functions from Ruby code|Ruby-FFI is a ruby extension for programmatically loading dynamic
-libraries, binding functions within
+ffi-1.0.11.gemspec|Ruby-FFI is a ruby extension for programmatically loading dynamic libraries, binding functions within them, and calling those functions from Ruby code|Ruby-FFI is a ruby extension for programmatically loading dynamic libraries, binding functions within
 fixture_builder-0.3.1.gemspec|Build YAML fixtures using object factories|FixtureBuilder allows testers to use their existing factories, like FactoryGirl, to generate high per
 fog-1.1.1.gemspec|brings clouds to you|The Ruby cloud services library. Supports all major cloud providers including AWS, Rackspace, Linode,
-foreigner-1.1.1.gemspec|Foreign Keys for Rails|Adds helpers to migrations and dumps foreign keys to schema.rb
+foreigner-1.1.1.gemspec|Foreign Keys for Rails|Adds helpers to migrations and dumps foreign keys to schema.rb"
 foreigner-0.9.1.gemspec|Foreign keys for Rails|Adds helpers to migrations and correctly dumps foreign keys to schema.rb
 foreman-0.27.0.gemspec|Process manager for applications with multiple components|Process manager for applications with multiple components
 formatador-0.2.1.gemspec|Ruby STDOUT text formatting|STDOUT text formatting
@@ -88,11 +78,9 @@ fuubar-0.0.5.gemspec|the instafailing RSpec progress bar formatter|the instafail
 g-1.5.0.gemspec|The Kernel.g|It works like Kernel.p with growl :)
 gem_plugin-0.2.3.gemspec|A plugin system based on rubygems that uses dependencies only|A plugin system based on rubygems that uses dependencies only
 gherkin-2.6.9.gemspec|gherkin-2.6.9|A fast Gherkin lexer/parser based on the Ragel State Machine Compiler.
-haml-3.1.4.gemspec|An elegant, structured XHTML/XML templating engine.|      Haml (HTML Abstraction Markup Language) is a layer on top of XHTML or XML
-      that's designed
+haml-3.1.4.gemspec|An elegant, structured XHTML/XML templating engine.|      Haml (HTML Abstraction Markup Language) is a layer on top of XHTML or XML that's designed
 hashie-1.2.0.gemspec|Your friendly neighborhood hash toolkit.|Hashie is a small collection of tools that make hashes more powerful. Currently includes Mash (Mockin
-highline-1.6.8.gemspec|HighLine is a high-level command-line IO library.|A high-level IO library that provides validation, type conversion, and more for
-command-line interfac
+highline-1.6.8.gemspec|HighLine is a high-level command-line IO library.|A high-level IO library that provides validation, type conversion, and more for command-line interfac
 hirb-0.5.0.gemspec|A mini view framework for console/irb that's easy to use, even while under its influence.|Hirb provides a mini view framework for console applications and uses it to improve ripl(irb)'s defau
 hoptoad_notifier-2.4.11.gemspec|Send your application errors to our hosted service and reclaim your inbox.|
 i18n-0.5.0.gemspec|New wave Internationalization support for Ruby|New wave Internationalization support for Ruby.
@@ -100,8 +88,7 @@ i18n-inflector-2.6.3.gemspec|Simple inflection module for I18n|Enhances simple I
 i18n-inflector-rails-1.0.6.gemspec|I18n Inflector bindings for Rails|Plug-in that provides I18n Inflector module integration with Rails.
 interactive_editor-0.0.10.gemspec|Interactive editing in irb.|Use vim (or any other text editor) from inside irb to quickly test & write new code.
 irbtools-1.1.1.gemspec|irbtools is a "meta gem" that installs a bunch of useful irb gems and configures them for you.|irbtools is a "meta gem" that installs a bnuch of useful irb gems and configures them for you. Simply
-jammit-0.6.5.gemspec|Industrial Strength Asset Packaging for Rails|    Jammit is an industrial strength asset packaging library for Rails,
-    providing both the CSS an
+jammit-0.6.5.gemspec|Industrial Strength Asset Packaging for Rails|    Jammit is an industrial strength asset packaging library for Rails,  providing both the CSS an
 jasmine-1.1.2.gemspec|JavaScript BDD framework|Test your JavaScript without any framework dependencies, in any environment, and with a nice descript
 jasmine-1.1.0.rc3.gemspec|JavaScript BDD framework|Test your JavaScript without any framework dependencies, in any environment, and with a nice descript
 jasmine-core-1.1.0.gemspec|JavaScript BDD framework|Test your JavaScript without any framework dependencies, in any environment, and with a nice descript
@@ -109,8 +96,7 @@ json-1.5.2.gemspec|JSON Implementation for Ruby|This is a JSON implementation as
 json-1.4.6.gemspec|JSON Implementation for Ruby|This is a JSON implementation as a Ruby extension in C.
 jsonpath-0.4.2.gemspec|Ruby implementation of http://goessner.net/articles/JsonPath/|Ruby implementation of http://goessner.net/articles/JsonPath/.
 jwt-0.1.3.gemspec|JSON Web Token implementation in Ruby|JSON Web Token implementation in Ruby
-linecache-0.46.gemspec|Read file with caching|LineCache is a module for reading and caching lines. This may be useful for
-example in a debugger whe
+linecache-0.46.gemspec|Read file with caching|LineCache is a module for reading and caching lines. This may be useful for example in a debugger whe
 linecache-0.43.gemspec|Read file with caching|LineCache is a module for reading and caching lines. This may be useful for example in a debugger whe
 looksee-1.0.3.gemspec|Supercharged method introspection in IRB.|
 mail-2.2.19.gemspec|Mail provides a nice Ruby DSL for making, sending and reading emails.|A really Ruby Mail handler.
@@ -119,8 +105,7 @@ messagebus_ruby_api-0.4.8.gemspec|Send email through Messagebus service|Allows y
 method_locator-0.0.4.gemspec|method_locator provides a way to traverse an object's method lookup path to find all places where a method may be defined.|method_locator provides a way to traverse an object's method lookup path to find all places where a m
 method_source-0.7.0.gemspec|retrieve the sourcecode for a method|retrieve the sourcecode for a method
 methodfinder-1.2.5.gemspec|A Smalltalk-like Method Finder for Ruby|
-mime-types-1.17.2.gemspec|This library allows for the identification of a file's likely MIME content type|This library allows for the identification of a file's likely MIME content
-type. This is release 1.17
+mime-types-1.17.2.gemspec|This library allows for the identification of a file's likely MIME content type|This library allows for the identification of a file's likely MIME content type. This is release 1.17
 mini_magick-3.3.gemspec|Manipulate images with minimal use of memory via ImageMagick / GraphicsMagick|
 mixlib-authentication-1.1.4.gemspec|Mixes in simple per-request authentication|Mixes in simple per-request authentication
 mixlib-cli-1.2.2.gemspec|A simple mixin for CLI interfaces, including option parsing|A simple mixin for CLI interfaces, including option parsing
@@ -139,10 +124,8 @@ net-ssh-2.2.1.gemspec|Net::SSH: a pure-Ruby implementation of the SSH2 client pr
 net-ssh-2.1.4.gemspec|Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.|Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.
 net-ssh-gateway-1.1.0.gemspec|A simple library to assist in establishing tunneled Net::SSH connections|A simple library to assist in establishing tunneled Net::SSH connections
 net-ssh-multi-1.1.gemspec|Control multiple Net::SSH connections via a single interface.|Control multiple Net::SSH connections via a single interface.
-newrelic_rpm-3.3.0.gemspec|New Relic Ruby Agent|New Relic is a performance management system, developed by New Relic,
-Inc (http://www.newrelic.com). 
-nokogiri-1.5.0.gemspec|Nokogiri (é¸) is an HTML, XML, SAX, and Reader parser|Nokogiri (é¸) is an HTML, XML, SAX, and Reader parser.  Among Nokogiri's
-many features is the abilit
+newrelic_rpm-3.3.0.gemspec|New Relic Ruby Agent|New Relic is a performance management system, developed by New Relic, Inc (http://www.newrelic.com). 
+nokogiri-1.5.0.gemspec|Nokogiri (é¸) is an HTML, XML, SAX, and Reader parser|Nokogiri (é¸) is an HTML, XML, SAX, and Reader parser.  Among Nokogiri's many features is the abilit
 oauth-0.4.5.gemspec|OAuth Core Ruby implementation|OAuth Core Ruby implementation
 oauth2-0.5.0.gemspec|A Ruby wrapper for the OAuth 2.0 protocol.|A Ruby wrapper for the OAuth 2.0 protocol built with a similar style to the original OAuth gem.
 oauth2-provider-0.0.19.gemspec|OAuth2 Provider, extracted from api.hashblue.com|OAuth2 Provider, extracted from api.hashblue.com
