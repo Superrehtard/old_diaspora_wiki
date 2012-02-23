@@ -146,16 +146,12 @@ parallel-0.5.11.gemspec|Run any kind of code in parallel processes|
 parallel-0.5.9.gemspec|Run any kind of code in parallel processes|
 parallel_tests-0.6.11.gemspec|Run tests / specs / features in parallel|
 passenger-3.0.11.gemspec|Easy and robust Ruby web application deployment|Easy and robust Ruby web application deployment.
-polyglot-0.3.3.gemspec|Augment 'require' to load non-Ruby file types|
-The Polyglot library allows a Ruby module to register a loader
-for the file type associated with a f
+polyglot-0.3.3.gemspec|Augment 'require' to load non-Ruby file types|The Polyglot library allows a Ruby module to register a loader for the file type associated with a f
 posix-spawn-0.3.6.gemspec|posix_spawnp(2) for ruby|posix-spawn uses posix_spawnp(2) for faster process spawning
 pygments.rb-0.2.4.gemspec|pygments wrapper for ruby|pygments.rb exposes the pygments syntax highlighter via embedded python
-rack-1.2.4.gemspec|a modular Ruby webserver interface|Rack provides minimal, modular and adaptable interface for developing
-web applications in Ruby.  By w
-rack-mobile-detect-0.3.0.gemspec|Rack middleware for ruby webapps to detect mobile devices.|Rack::MobileDetect detects mobile devices and adds an
-    X_MOBILE_DEVICE header to the request if a 
-rack-mount-0.6.14.gemspec|Stackable dynamic tree based Rack router|    A stackable dynamic tree based Rack router.
+rack-1.2.4.gemspec|a modular Ruby webserver interface|Rack provides minimal, modular and adaptable interface for developing web applications in Ruby.  By w
+rack-mobile-detect-0.3.0.gemspec|Rack middleware for ruby webapps to detect mobile devices.|Rack::MobileDetect detects mobile devices and adds an X_MOBILE_DEVICE header to the request if a 
+rack-mount-0.6.14.gemspec|Stackable dynamic tree based Rack router|A stackable dynamic tree based Rack router.
 rack-pygmentize-1.0.1.gemspec|Rack middleware to pygmentize your code blocks|Rack middleware used to automagically format your code blocks using pygmentize
 rack-test-0.5.7.gemspec|Simple testing API built on Rack|Rack::Test is a small, simple testing API for Rack apps. It can be used on its
 own or as a reusable s
