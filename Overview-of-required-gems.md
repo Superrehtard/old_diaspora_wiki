@@ -8,7 +8,7 @@ Name       | Summary              | Description
 POpen4-0.1.4.gemspec|Open4 cross-platform|
 Platform-0.4.0.gemspec|Hopefully robust platform sensing|
 SystemTimer-1.2.3.gemspec|Set a Timeout based on signals, which are more reliable than Timeout. Timeout is based on green threads.|
-abstract-1.0.0.gemspec|a library which enable you to define abstract method in Ruby|'abstract.rb' is a library which enable you to define abstract method in Ruby.
+abstract-1.0.0.gemspec|a library which enable you to define abstract:" method in Ruby|'abstract.rb' is a library which enable you to define abstract method in Ruby.
 actionmailer-3.0.11.gemspec|Email composition, delivery, and receiving framework (part of Rails).|Email on Rails. Compose, deliver, receive, and test emails using the familiar controller/view pattern
 actionpack-3.0.11.gemspec|Web-flow and rendering framework putting the VC in MVC (part of Rails).|Web apps on Rails. Simple, battle-tested conventions for building and testing MVC web applications. W
 activemodel-3.0.11.gemspec|A toolkit for building modeling frameworks (part of Rails).|A toolkit for building modeling frameworks like Active Record and Active Resource. Rich support for a
@@ -22,7 +22,6 @@ alias-0.2.2.gemspec|Creates, manages and saves aliases for class methods, instan
 arel-2.0.10.gemspec|Arel is a Relational Algebra for Ruby|Arel is a Relational Algebra for Ruby. It 1) simplifies the generation complex of SQL queries and it 
 awesome_print-0.4.0.gemspec|Pretty print Ruby objects with proper indentation and colors.|Great Ruby dubugging companion: pretty print Ruby objects to visualize their structure. Supports Rail
 bcrypt-ruby-2.1.4.gemspec|OpenBSD's bcrypt() password hashing algorithm.|    bcrypt() is a sophisticated and secure hash algorithm designed by The OpenBSD project
-    for has
 blankslate-2.1.2.4.gemspec|BlankSlate extracted from Builder.|
 boson-0.3.4.gemspec|A command/task framework similar to rake and thor that opens your ruby universe to the commandline and irb.|Boson is a command/task framework with the power to turn any ruby method into a full-fledged executab
 builder-2.1.2.gemspec|Builders for MarkUp.|Builder provides a number of builder objects that make creating structured data simple to do.  Curren
