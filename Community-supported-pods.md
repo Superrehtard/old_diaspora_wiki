@@ -122,18 +122,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Gentoo Linux
     * Comments: The first pod in Italy. Open pod.
 
-
-* [[https://diaspora.happeningin.eu]] [[https://diaspora.happeningin.eu/apple-touch-icon.png|height=30px|]]
-    * Opened: 01/11/2011
-    * Updated: Out of sync with main repository, running own fork
-    * Source code: [[https://github.com/rovemonteux/happeningineu]]
-    * Maintained by Rove Monteux
-        * [[http://rovemonteux.net]]
-        * [[http://pirate.is/rovemonteux/]]
-    * Operating system: Linux
-    * Comments: Public and free European Diaspora pod.
-
-
 * [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
     * Updated: frequently
