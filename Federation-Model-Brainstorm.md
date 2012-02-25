@@ -1,1 +1,0 @@
-This is not a relevant conversation to fixing our current federation model or documenting how it works today.  Feel free to talk about this on the mailing list, but this is out of scope for the documentation wiki.
