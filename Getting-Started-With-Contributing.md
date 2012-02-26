@@ -6,7 +6,7 @@ All of Diaspora's code is hosted on [GitHub](http://github.com), a social coding
 
 ### All About Bugs
 
-There are some different things about bugs that you ought to know, specifically, how to [report a bug](), and [how to claim and fix a bug](https://github.com/diaspora/diaspora/wiki/Report-a-bug). Both incorporate well into our GitHub-based workflow, and is designed to make the process of fixing bugs easier for everybody.
+There are some different things about bugs that you ought to know, specifically, how to [report a bug](https://github.com/diaspora/diaspora/wiki/Report-a-bug), and [how to claim and fix a bug](https://github.com/diaspora/diaspora/wiki/Work-on-a-bug). Both incorporate well into our GitHub-based workflow, and is designed to make the process of fixing bugs easier for everybody.
 
 ### How to Contribute the Right Way
 
