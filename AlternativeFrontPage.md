@@ -4,3 +4,12 @@ Below will be a simplified, restructured front page that will eventually be put 
 
 ## Welcome!
 Looking for information about Diaspora? This is the official community-maintained repository of information and documentation, with a particular emphasis on developer resources. Information is regularly updated to signify changes in things like code implementation and design.
+
+## [Developers]()
+For everything regarding development.
+
+## [Community]()
+For everything pertaining to our community developers and policies.
+
+## [Resources]()
+Things like FAQ's (This section may be re-worked entirely)
