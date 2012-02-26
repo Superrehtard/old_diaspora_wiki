@@ -9,7 +9,7 @@ Looking for information about Diaspora? This is the official community-maintaine
 For everything regarding development.
 
 ## [Community]()
-For everything pertaining to our community developers and policies.
+For everything pertaining to our community, how we communicate, and how we can work together.
 
-## [Resources]()
-Things like FAQ's (This section may be re-worked entirely)
+## [Guidelines and Policies]()
+Things like FAQ's and Community Guidelines
