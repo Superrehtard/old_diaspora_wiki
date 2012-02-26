@@ -13,7 +13,7 @@
 
 ### Febuary
 
-* Modern Luxury, 02.17.2012, [Dark side of the boom](http://www.modernluxury.com/san-francisco/story/dark-side-of-the-boom) - [Sarah Mei's answer](https://www.joindiaspora.com/posts/1346824)
+* Modern Luxury, 02.17.2012, [Dark side of the boom](http://www.modernluxury.com/san-francisco/story/dark-side-of-the-boom) - Don't forget to read [Sarah Mei's answer](https://www.joindiaspora.com/posts/1346824).
 * The Village Voice, 02.15.2012, [Rise of the Facebook-Killers](http://www.villagevoice.com/2012-02-15/news/the-facebook-killers/)
 
 ## 2011
