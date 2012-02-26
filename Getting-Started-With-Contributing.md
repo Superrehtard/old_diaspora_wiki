@@ -19,8 +19,8 @@ Diaspora's development tries its very best to stick to a set of guidelines when 
 
 Below are some helpful relevant links to other parts of the wiki. We're currently restructuring everything, so the below links may be subject to change.
 
-[How to work with Pull Requests](https://github.com/diaspora/diaspora/wiki/Merging-Pull-Requests)
-[An Overview of Required Ruby Gems](https://github.com/diaspora/diaspora/wiki/Overview-of-required-gems)
-[How to get a dev environment set up](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora)
-[How to Report a Bug](https://github.com/diaspora/diaspora/wiki/Report-a-bug)
-[A Detailed Introduction to the Source Code](https://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
+* [How to work with Pull Requests](https://github.com/diaspora/diaspora/wiki/Merging-Pull-Requests)
+* [An Overview of Required Ruby Gems](https://github.com/diaspora/diaspora/wiki/Overview-of-required-gems)
+* [How to get a dev environment set up](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora)
+* [How to Report a Bug](https://github.com/diaspora/diaspora/wiki/Report-a-bug)
+* [A Detailed Introduction to the Source Code](https://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
