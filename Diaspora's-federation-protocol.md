@@ -310,7 +310,7 @@ You must now construct the salmon magic envelope that we will post to Bob, the r
   <me:env xmlns:me="http://salmon-protocol.org/ns/magic-env">
     <me:encoding>base64url</me:encoding>
     <me:alg>RSA-SHA256</me:alg>
-    <me:data type="application/atom+xml">((base64url-encoded prepared payload message))</me:data>
+    <me:data type="application/xml">((base64url-encoded prepared payload message))</me:data>
     <me:sig>((the RSA-SHA256 signature of the above data))</me:sig>
   </me:env>
 </entry>
@@ -322,11 +322,10 @@ The signature (`<me:sig>` element) is constructed as specified in the [Magic Env
 
 To construct the base string, concatenate the following elements, separated by periods (.).
 
-1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url).
-Next, depending on your platform you may need to remove all linefeeds and whitespace from this string and then insert linefeed characters ('\n' or ascii 0x0a) after every 60 characters to precisely duplicate the line folding of Ruby's base64 implementation. Add a linefeed to the end if the string is not an exact multiple of 60 characters and does not end with a linefeed. 
-2. The base64url-encoding of the "data-type" parameter.  In this case, 'application/atom+xml' is base64-encoded and then concatenated with a linefeed character '\n'.  Thus, the base64url-encoded string is `YXBwbGljYXRpb24vYXRvbSt4bWw=\n` (note the linefeed character at the end (\n or ascii 0x0a); this is _not_ the literal string `application/atom+xml`.  This should probably be considered a bug in the reference implementation of Diaspora.  However, it is currently necessary for interaction).
-3. The base64url-encoding of the "encoding" parameter, which is the literal string `base64url`, base64-encoded and then concatenated with a linefeed.  Thus, the base64url-encoded string is `YmFzZTY0dXJs\n` (note the linefeed at the end (\n or ascii 0x0a); this is _not_ the literal string `base64url`).
-4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256`, base64-encoded and then concatenated with a linefeed character '\n'.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ng==\n` (note the linefeed at the end (\n or ascii 0x0a); this is _not_ the literal string `RSA-SHA256`).
+1. The contents of the `<me:data>` field.  That is the base64url-encoded prepared payload message (remember, the original payload message has now been base64-encoded twice.  Once with regular base64, and once with base64url). _Note: In previous versions this was then required to be re-padded with linefeeds.  This should no longer be done.  This is now the actual contents of the `<me:data>` field.  As-is._
+2. The base64url-encoding of the "data-type" parameter.  In this case, 'application/atom' is base64-encoded.  Thus, the base64url-encoded string is `YXBwbGljYXRpb24veG1s` _Note: Linefeed character should no longer be included_
+3. The base64url-encoding of the "encoding" parameter, which is the literal string `base64url`, base64-encoded.  Thus, the base64url-encoded string is `YmFzZTY0dXJs` _Note: Linefeed character should no longer be included_
+4. The base64url-encoding of the "alg" parameter, which is the literal string `RSA-SHA256`, base64-encoded.  Thus, the base64url-encoded string is `UlNBLVNIQTI1Ng==` _Note: Linefeed character should no longer be included_
 
 Sign the base string with your (Alice's) private RSA key and base64url-encode the results.
 
