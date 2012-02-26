@@ -8,6 +8,8 @@ It's a wiki, so when you come across something outdated or wrong, we encourage y
 As long as you're logged in to your Github account, feel free to click that "Edit Page" button
 anywhere on the site.
 
+### This wiki is currently restructuring, please bear with us.
+
 ## General Resources
 * **[[Frequently Asked Questions (FAQ for Users)|FAQ for Users]]** <--- start here!
    * See also [[FAQ for Pod Maintainers]] and [[FAQ for Developers]]
