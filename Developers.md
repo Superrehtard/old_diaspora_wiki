@@ -5,3 +5,9 @@ Everything you need to know about getting started. This is a great little resour
 
 ## [Contributor License Agreement](https://github.com/diaspora/diaspora/wiki/New-CLA--12-13-10)
 The Diaspora CLA is a helpful agreement between Diaspora Inc, the core developers, and any community contributors. It states the scope of community open-source licenses used within the project, and the nature of the relationship between the core developers and community contributors  [You can sign it here](https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ)
+
+## [Message Semantics](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics)
+This gives an in-depth explanation of how messages are passed on the Diaspora platform from one pod to another. Specifically, it dives into the semantics of what all goes in to a single status update, comment, or private message.
+
+## [Federation Protocol](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol)
+With Diaspora, understanding the way our pods federate and work together is essential for getting a better idea of how the system works, and how the DIASPORA* network works as a whole.
