@@ -121,6 +121,11 @@ NOTE: If you do any other rails development on your machine, you will probably
 want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
 directory to avoid conflicts with your existing environment, or use an [RVM](https://rvm.beginrescueend.com) gemset.
 
+NOTE: Under debian, running the command gem update --system fails to execute. If you try to update from Debian repo via apt-get, this will probably get a new version, but not the newest. Some gems needed the newest gem version. In this case update your gems with rubygems-update.
+
+        gem install rubygems-update
+        cd /var/lib/gems/1.8/bin
+        ./update_rubygems
 
 ### Configure Diaspora
 
