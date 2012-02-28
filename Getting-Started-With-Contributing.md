@@ -2,7 +2,7 @@ A lot of new contributors that want to dive in to helping fix bugs and develop n
 
 ### Getting started with GitHub
 
-All of Diaspora's code is hosted on [GitHub](http://github.com), a social coding platform that leverages [Git](http://en.wikipedia.org/git) for many different Free and Open Source projects. You can use any operating system to contribute with GitHub, all you need is an account and to follow GitHub's [guide](http://help.github.com/linux-set-up-git/) for setting up your account from the command line and learning to use the commands. Git is supported on all major platforms.
+All of Diaspora's code is hosted on [GitHub](http://github.com), a social coding platform that leverages [Git](http://en.wikipedia.org/git) for many different Free and Open Source projects. You can use any operating system to contribute with GitHub, all you need is an account and to follow GitHub's easy and helpful [guide](http://help.github.com/linux-set-up-git/) for setting up your account from the command line and learning to use the commands. Git is supported on all major platforms.
 
 ### All About Bugs
 
