@@ -13,5 +13,5 @@ Code Chat takes place on irc.freenode.net on the #diaspora-discuss channel. You 
 
 Code Chats are logged so that anyone that misses out can still tune in and see what's going on. We don't want anybody in our community to miss the chance to get in the know as to what's going on with the project, so logs will constantly be published and linked to below.
 
-[February 16th, 2012](http://pastebin.com/z1rkBCUN)
-[March 1st, 2012] (http://pastebin.com/BFzBegVD)
+* [February 16th, 2012](http://pastebin.com/z1rkBCUN)
+* [March 1st, 2012] (http://pastebin.com/BFzBegVD)
