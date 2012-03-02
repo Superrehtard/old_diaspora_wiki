@@ -6,6 +6,7 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 
 ## [Community Discussion]()
 
+## [Other Ways to Contribute](https://github.com/diaspora/diaspora/wiki/Other-Ways-to-Contribute)
 
 ## Other Resources
 These are all external links.
