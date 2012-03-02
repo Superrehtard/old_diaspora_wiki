@@ -20,3 +20,6 @@ With Diaspora, understanding the way our pods federate and work together is esse
 
 ## [Required Ruby Gems](https://github.com/diaspora/diaspora/wiki/Overview-of-required-gems)
 This is a helpful overview for what Ruby Gems are important for getting Diaspora up and running.
+
+## [Mobile/Third Party App Developer Resources]()
+This is a collection of resources containing information about mobile clients, and plugins for different Content Management Systems.
