@@ -1,0 +1,1 @@
+The following are some developer resources pertaining to the semantics behind how Diaspora works.
