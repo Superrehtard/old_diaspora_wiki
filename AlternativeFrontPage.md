@@ -14,5 +14,5 @@ For everything pertaining to our community, how we communicate, and how we can w
 ## [Podmin Resources](https://github.com/diaspora/diaspora/wiki/Podmin-Resources)
 Collected installation guides, so that **YOU** can get DIASPORA* up and running in no time.
 
-## [Guidelines and Policies]()
+## [Guidelines and Policies](https://github.com/diaspora/diaspora/wiki/Guidelines-and-Policies)
 Things like FAQ's and Community Guidelines
