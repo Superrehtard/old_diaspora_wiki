@@ -2,6 +2,9 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 
+## [Community Code Chat](https://github.com/diaspora/diaspora/wiki/Code-Chat)
+The Diaspora core team holds a community chat every other week to tell the community at large about what's going on with the project, future goals, and where they're at. This link also keeps copies of logs from previous chat sessions.
+
 ## [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 
 ## [Community Discussion]()
