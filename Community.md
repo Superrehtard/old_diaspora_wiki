@@ -1,15 +1,19 @@
 One of Diaspora's greatest assets is its community. We have a broad network of people that are dedicated to our cause and use Diaspora everyday to express themselves. Many of our users love helping out with the project. If you want to pitch in, feel free to take a look at the categories below!
 
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
+Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
 
 ## [Community Code Chat](https://github.com/diaspora/diaspora/wiki/Code-Chat)
 The Diaspora core team holds a community chat every other week to tell the community at large about what's going on with the project, future goals, and where they're at. This link also keeps copies of logs from previous chat sessions.
 
 ## [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
+Some helpful terms and information.
 
 ## [Community Discussion]()
+There are several ways to get involved with talking to the community.
 
 ## [Other Ways to Contribute](https://github.com/diaspora/diaspora/wiki/Other-Ways-to-Contribute)
+Even if you're not a coder, there are still tons of other ways to help the project!
 
 ## Other Resources
 These are all external links.
