@@ -3,6 +3,9 @@ Below is an index of Developer-centric pages and resources. Keep in mind that th
 ## [Contributor License Agreement](https://github.com/diaspora/diaspora/wiki/New-CLA--12-13-10)
 The Diaspora CLA is a helpful agreement between Diaspora Inc, the core developers, and any community contributors. It states the scope of community open-source licenses used within the project, and the nature of the relationship between the core developers and community contributors  [You can sign it here](https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ)
 
+## [FAQ for Developers](https://github.com/diaspora/diaspora/wiki/FAQ-for-Developers)
+Answers to some common questions asked by developers interested in getting started with working with the Diaspora platform.
+
 ## [Getting Started](https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing)
 Everything you need to know about getting started. This is a great little resource hub for people who are just starting out, and just about to contribute to the DIASPORA* project for the very first time.
 
