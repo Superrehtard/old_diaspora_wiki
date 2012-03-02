@@ -2,8 +2,6 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 
-## [Support Hashtags](https://github.com/diaspora/diaspora/wiki/Support-Hashtags)
-
 ## [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 
 ## [Community Discussion]()
