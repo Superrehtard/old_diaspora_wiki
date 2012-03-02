@@ -1,3 +1,5 @@
+So, you've decided to take the plunge and install Diaspora yourself. Great! Here are some must-have resources dealing with how to set things up and get everything going.
+
 ## [Installing and Running Diaspora](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora)
 A useful comprehensive guide to getting Diaspora up and running.
 
