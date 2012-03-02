@@ -9,9 +9,6 @@ Answers to some common questions asked by developers interested in getting start
 ## [Getting Started](https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing)
 Everything you need to know about getting started. This is a great little resource hub for people who are just starting out, and just about to contribute to the DIASPORA* project for the very first time.
 
-## [An Introduction to the Diaspora Source](https://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
-This is an overview of the different working parts of the DIASPORA* platform. It explains some of the models and semantics.
-
 ## [Diaspora Technical Resources](https://github.com/diaspora/diaspora/wiki/Technical-Details)
 This page contains some of the more advanced semantic information pertaining to how Diaspora works as a platform, with overviews to the different working parts.
 
