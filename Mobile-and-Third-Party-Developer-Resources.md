@@ -1,3 +1,5 @@
+Below are some related third-party projects. It's worth noting that at this time, Diaspora does not officially support the items below, although it is possible to get the CMS plugins working in theory. Diaspora's codebase is rapidly changing and updating, and it will be easier to support third-party clients once we stabilize further.
+
 ## [Android App Project](https://github.com/diaspora/diaspora/wiki/Android-app-project)
 All about the work being put towards an Android client.
 
