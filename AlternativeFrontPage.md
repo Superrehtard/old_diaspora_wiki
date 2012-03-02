@@ -11,7 +11,7 @@ For everything regarding development.
 ## [Community]()
 For everything pertaining to our community, how we communicate, and how we can work together.
 
-## [Podmin Resources](https://github.com/diaspora/diaspora/wiki/Installation-Guides)
+## [Podmin Resources](https://github.com/diaspora/diaspora/wiki/Podmin-Resources)
 Collected installation guides, so that **YOU** can get DIASPORA* up and running in no time.
 
 ## [Guidelines and Policies]()
