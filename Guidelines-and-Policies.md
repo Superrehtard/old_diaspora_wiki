@@ -3,3 +3,4 @@ To contribute to Diaspora, we have a couple of simple protocols for doing things
 ## [Trademark Guidelines](https://github.com/diaspora/diaspora/wiki/Trademark-guidelines)
 
 ## [Pull Request Guidelines](https://github.com/diaspora/diaspora/wiki/Pull-Request-Guidelines)
+These are some helpful things to keep in mind when making a pull request, especially in regards to feature development.
