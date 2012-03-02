@@ -8,7 +8,7 @@ Looking for information about Diaspora? This is the official community-maintaine
 ## [Developers](https://github.com/diaspora/diaspora/wiki/Developers)
 For everything regarding development.
 
-## [Community]()
+## [Community](https://github.com/diaspora/diaspora/wiki/Community)
 For everything pertaining to our community, how we communicate, and how we can work together.
 
 ## [Podmin Resources](https://github.com/diaspora/diaspora/wiki/Podmin-Resources)
