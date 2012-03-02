@@ -12,14 +12,8 @@ Everything you need to know about getting started. This is a great little resour
 ## [An Introduction to the Diaspora Source](https://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
 This is an overview of the different working parts of the DIASPORA* platform. It explains some of the models and semantics.
 
-## [Message Semantics](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics)
-This gives an in-depth explanation of how messages are passed on the Diaspora platform from one pod to another. Specifically, it dives into the semantics of what all goes in to a single status update, comment, or private message.
-
-## [Federation Protocol](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-federation-protocol)
-With Diaspora, understanding the way our pods federate and work together is essential for getting a better idea of how the system works, and how the DIASPORA* network works as a whole.
-
-## [Required Ruby Gems](https://github.com/diaspora/diaspora/wiki/Overview-of-required-gems)
-This is a helpful overview for what Ruby Gems are important for getting Diaspora up and running.
+## [Diaspora Technical Resources](https://github.com/diaspora/diaspora/wiki/Technical-Details)
+This page contains some of the more advanced semantic information pertaining to how Diaspora works as a platform, with overviews to the different working parts.
 
 ## [Mobile/Third Party App Developer Resources]()
 This is a collection of resources containing information about mobile clients, and plugins for different Content Management Systems.
