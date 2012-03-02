@@ -10,6 +10,9 @@ A useful comprehensive guide to getting Diaspora up and running.
 ### [DreamHost](https://github.com/diaspora/diaspora/wiki/Installing-on-dreamhost)
 How to set Diaspora up with a DreamHost Private Server.
 
+### [PageKite](https://github.com/diaspora/diaspora/wiki/How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod)
+In case you're a [PageKite](http://pagekite.net/) user, you can set up the service to point to your own locally-hosted pod.
+
 ### OS/Distribution Specific
 
 Below are some existing guides to getting a Diaspora pod set up on your system of choice. This is particularly useful for setting up a testing environment.
