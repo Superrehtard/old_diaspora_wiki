@@ -14,3 +14,6 @@ This is a helpful overview for what Ruby Gems are important for getting Diaspora
 
 ## [Adding Additional Social Services](https://github.com/diaspora/diaspora/wiki/Adding-your-favorite-service-to-Diaspora)
 A quick guide to creating new connectors for different social services. Specifically, this guide pertains to how one could theoretically write additional services that a user can post to from the Publisher.
+
+## [Conceptual Details](https://github.com/diaspora/diaspora/wiki/Conceptual-Details)
+Some interesting past discussions about different implementations and ideas. It's worth noting that some of these ideas are deprecated, and that actual feature discussion should happen on the [Diaspora-Discuss mailing list](https://groups.google.com/group/diaspora-discuss).
