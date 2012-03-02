@@ -12,5 +12,5 @@ Everything you need to know about getting started. This is a great little resour
 ## [Diaspora Technical Resources](https://github.com/diaspora/diaspora/wiki/Technical-Details)
 This page contains some of the more advanced semantic information pertaining to how Diaspora works as a platform, with overviews to the different working parts.
 
-## [Mobile/Third Party App Developer Resources]()
+## [Mobile/Third Party App Developer Resources](https://github.com/diaspora/diaspora/wiki/Mobile-and-Third-Party-Developer-Resources)
 This is a collection of resources containing information about mobile clients, and plugins for different Content Management Systems.
