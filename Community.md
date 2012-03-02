@@ -7,3 +7,14 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 ## [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
 
 ## [Community Discussion]()
+
+
+## Other Resources
+These are all external links.
+
+* [Diaspora bug tracker](https://github.com/diaspora/diaspora/issues) - issue and bug tracking.
+* [Continuous Integration](http://travis-ci.org/diaspora/diaspora)
+* [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
+* [Web translate it](https://webtranslateit.com/en/projects/3020-Diaspora) - the service we use to help translate Diaspora
+* [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
+
