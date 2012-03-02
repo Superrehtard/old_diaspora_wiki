@@ -14,6 +14,6 @@ Some features take a lot of time and discussion to determine how we can fit it i
 
 ### 4. Is it a feature that currently fits into our design?
 
-Occasionally, someone will make a really great pull request for something, and it might not be something we're sure about including right away. Sometimes there are privacy implications that we have to think about, and other times we have to consider how a new feature would interact with the stream. Occasionally, we'll get a pull request that we don't think really fits into the main codebase because of problems that would arise from this. 
+Occasionally, someone will make a really great pull request for something, and it might not be something we're sure about including right away. Sometimes there are privacy implications that we have to think about, and other times we have to consider how a new feature would interact with the stream or other parts of the system. Occasionally, we'll get a pull request that we don't think really fits into the main codebase because of problems that would arise from this. 
 
 That doesn't mean that we don't think your feature is great, or that you shouldn't continue developing it. It just means that perhaps your feature isn't something we can incorporate at the very moment. To be clear: just because we reject a pull request once doesn't mean that we won't ever consider it in the future.
