@@ -1,0 +1,2 @@
+## [Installation Guides](https://github.com/diaspora/diaspora/wiki/Installation-Guides)
+Your first step in setting up a pod is to prepare your system and install the Diaspora platform. Here's some collected guides on getting the system going.
