@@ -11,3 +11,6 @@ With Diaspora, understanding the way our pods federate and work together is esse
 
 ## [Required Ruby Gems](https://github.com/diaspora/diaspora/wiki/Overview-of-required-gems)
 This is a helpful overview for what Ruby Gems are important for getting Diaspora up and running.
+
+## [Adding Additional Social Services](https://github.com/diaspora/diaspora/wiki/Adding-your-favorite-service-to-Diaspora)
+A quick guide to creating new connectors for different social services. Specifically, this guide pertains to how one could theoretically write additional services that a user can post to from the Publisher.
