@@ -62,22 +62,7 @@ will need to download the Diaspora source code from GitHub.
 use via <a href="https://github.com/defunkt/resque" target="_blank">Resque</a> for background 
 job processing.
 
-It looks like a big list, but really, it's not too bad. To get started, pick your operating system 
-from this list:
-
-- [[Installing Diaspora dependencies on Ubuntu|Installing on Ubuntu]]
-- [[Installing Diaspora dependencies on Debian|Installing on Debian]]
-- [[Installing Diaspora dependencies on Fedora|Installing on Fedora]]
-- [[Installing Diaspora dependencies on OS X|Installing on Mac OS X]]
-- [Installing Diaspora on Archlinux](https://wiki.archlinux.org/index.php/Diaspora)
-- [[Installing Diaspora on Windows|Installing on Windows]]
-
-
-or select your hosting provider from this list:
-
-- [[Installing Diaspora dependencies on Dreamhost|Installing on Dreamhost]]
-
-If you don't see your system on here, don't give up. It should work similarly on most distributions. If you figure it out we'd love it when you add a guide here, even a "do the same as for xy" would help.
+Feel free to take a look at the [distributions and services](https://github.com/diaspora/diaspora/wiki/Installation-Guides) listed for OS-specific/service-specific instructions to prepare your system.
 
 After you're done following those instructions, come back here and move on to:
 
