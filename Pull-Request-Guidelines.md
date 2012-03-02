@@ -10,7 +10,7 @@ The main repository is updated on a near-daily basis, and lots of fixes and modi
 
 ### 3. Is your feature a really big feature?
 
-Some features take a lot of time and discussion to determine how we can fit it into our current system's design and use case. Adding really big features without consulting the team about implementation can occasionally lead to some problems, as that puts the requirement on the core team to help maintain new code while they develop the rest of the system. Additionally, some really big features require changing the way the system works to accommodate it. Communication is key here.
+Some features take a lot of time and discussion to determine how we can fit it into our current system's design and use case. Adding really big features without consulting the team about implementation can occasionally lead to some problems, as that puts the requirement on the core team to help maintain new code while they develop the rest of the system. Additionally, some really big features require changing the way the system works to accommodate it. Communication is key here, so just talk to us.
 
 ### 4. Is it a feature that currently fits into our design?
 
