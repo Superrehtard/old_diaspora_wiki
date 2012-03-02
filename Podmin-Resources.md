@@ -13,6 +13,9 @@ One of the great parts about decentralization is the fact that you can customize
 ## [Customizing a Pod](https://github.com/diaspora/diaspora/wiki/Customizing-a-pod)
 Sometimes, a podmin will want to go the extra mile and really customize everything about their pod. That's great! Here's some details about how Pistos, one of our community fork maintainers, does that.
 
+## [Copy Editing](https://github.com/diaspora/diaspora/wiki/Website-Copy-Editing)
+How to get things set up to copy edit the websites (diasporaproject.org and joindiaspora.com).
+
 ## [Integrating Other Social Networks](https://github.com/diaspora/diaspora/wiki/Howto-setup-services)
 How to plug in to existing social networking API's to support cross-posting.
 
