@@ -23,4 +23,5 @@ These are all external links.
 * [isitoktoupdatemydiaspora.tk](http://isitoktoupdatemydiaspora.tk/)
 * [Web translate it](https://webtranslateit.com/en/projects/3020-Diaspora) - the service we use to help translate Diaspora
 * [Pivotal Tracker project](https://www.pivotaltracker.com/projects/61641) - what the core team is working on in the next few weeks
-
+* [Diaspora discussion google groups] (https://groups.google.com/forum/?fromgroups#!forum/diaspora-discuss) - a place to discuss diaspora http://www.joindiaspora.com (non-technical)
+* [Diaspora dev google groups] (https://groups.google.com/forum/?fromgroups#!forum/diaspora-dev) - a group for participating the development of Diaspora http://www.joindiaspora.com
