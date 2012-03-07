@@ -2,7 +2,7 @@
 
 ## The Next Few Weeks
 
-You can see what the core team is currently working on in <a href="http://www.pivotaltracker.com/projects/61641" target="_blank">Diaspora’s Pivotal Tracker project</a>. 
+You can see what the core team is currently working on in <a href="https://www.pivotaltracker.com/projects/449535" target="_blank">Diaspora’s Pivotal Tracker project</a>. 
 Tracker is where we keep our most immediate priorities, and it's a good indication of what we 
 are going to be working on in the next 2 or 3 weeks.
 
