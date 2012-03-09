@@ -8,6 +8,10 @@ According to our [CLA](https://github.com/diaspora/diaspora/wiki/New-CLA--12-13-
 
 The main repository is updated on a near-daily basis, and lots of fixes and modifications are pulled in constantly. Occasionally, this means that some things will break. If you're working on something that is updated quite constantly (such as application.sass, which deals with all of the CSS of the application), then it's important that you check it daily to ensure that you don't cause any regressions.
 
+### 4. Does your pull requests have tests?
+
+We take testing very seriously. It's important for maintaining long-term stability in a codebase, and it keeps unnecessary bugs from popping up. As a general rule of thumb, we usually don't accept pull requests for features and fixes if there aren't associated tests that come with them. "TEST EVERYTHING" is a great mentality to have for contributing code to the project. Keep in mind, pull requests for obviously simple fixes like SASS/HAML corrections usually don't need tests, but things that involve Javascript and heavy changes to underlying Ruby code certainly do. Here's a [great guide](https://github.com/diaspora/diaspora/wiki/Testing-workflow) for getting started on that.
+
 ### 3. Is your feature a really big feature?
 
 Some features take a lot of time and discussion to determine how we can fit it into our current system's design and use case. Adding really big features without consulting the team about implementation can occasionally lead to some problems, as that puts the requirement on the core team to help maintain new code while they develop the rest of the system. Additionally, some really big features require changing the way the system works to accommodate it. Communication is key here, so just talk to us.
