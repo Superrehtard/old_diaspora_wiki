@@ -1,7 +1,5 @@
 ##Resources
 
-* [[Code|https://github.com/dev-mush/diaspora-ios]]
-* [[Mailing list|https://groups.google.com/group/diaspora-ios]]
 * [[Pre Registration Diagram|https://github.com/diaspora/diaspora-client/wiki/Pre-Registration]]
 
 ##IRC Logs
