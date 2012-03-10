@@ -1,6 +1,8 @@
 # Changelog
 
 ## 2012
+### March
+* Update Bundler version to 1.1.0
 
 ### February
 * Participate and Explore streams implemented.
