@@ -72,8 +72,8 @@ Our code is hosted at GitHub (which also hosts the wiki page you're reading). Ou
 
 To get a copy of the Diaspora source, use the following command:
 
-        git clone git://github.com/diaspora/diaspora.git
-        cd diaspora
+    git clone git://github.com/diaspora/diaspora.git
+    cd diaspora
 
 If you have never used GitHub before, their <a href="http://help.github.com/" target="_blank">help desk</a> 
 has a pretty awesome guide for getting set up.
@@ -89,7 +89,7 @@ Depending on the database you want to use, add either `DB="mysql"` for MySQL or 
 To start the app server for the first time, you need to use Bundler to install
 Diaspora's gem depencencies.  Run (from Diaspora's root directory):
 
-        bundle install --without development test heroku
+    bundle install --without development test heroku
 
 Bundler will also warn you if there is a new dependency and you
 need to bundle install again.
@@ -126,18 +126,20 @@ keep the defaults.  However, if you plan to actually host a pod choose productio
 If you want to run production mode:
 
 * Edit rails_env in the script_server section in config/script_server.yml
-* Change the "serve_static_assets" setting to "true" in the config/environments/production.rb file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to leave "serve_static_assets" set to "false" and instead install a true webserver such as Apache or Nginx alongside Diaspora and modify that webserver's configuration to serve the static content itself:
+* Change the "serve_static_assets" setting to "true" in the config/environments/production.rb file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to leave "serve_static_assets" set to "false" and instead install a true webserver such as Apache or Nginx alongside Diaspora and modify that webserver’s configuration to serve the static content itself:
 
 #### Apache 2
 
-    <VirtualHost *:80>
-      ServerName diaspora.mydomain.com
-      DocumentRoot /diaspora_root/public
-      <Directory /diaspora_root/public>
-          Allow from all
-          Options -MultiViews
-      </Directory>
-    </VirtualHost>
+```apache
+<VirtualHost *:80>
+  ServerName diaspora.mydomain.com
+  DocumentRoot /diaspora_root/public
+  <Directory /diaspora_root/public>
+      Allow from all
+      Options -MultiViews
+  </Directory>
+</VirtualHost>
+```
 
 For a more advanced configuration have a look at this Gist: https://gist.github.com/719014
 
@@ -174,18 +176,21 @@ WebSockets is required to have instant notifications and similar services, but y
 
 To improve the performance on large-scale pods, it makes sense to run many thin servers and cluster them for load-balancing. Add the parameters `--servers n -R config.ru` to the list of `default_thin_args` in `config/script_server.yml`, where *n* is the number of thin servers you like to cluster:
 
-     default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV"
+```yaml
+default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV"
+```
 
 This will instruct the `./script/server` script to run thin instances on $THIN_PORT and the next *n-1* ports. Make sure that your Nginx configuration knows about these servers by adding them to the list of upstream servers. E.g.: if the thin port is 3000 and you want to cluster five servers, the upstream section of your Nginx configuration should look like this:
 
-    upstream diaspora_thin_cluster {
-        server localhost:3000;
-        server localhost:3001;
-        server localhost:3002;
-        server localhost:3003;
-        server localhost:3004;
-    }
-
+```nginx
+upstream diaspora_thin_cluster {
+    server localhost:3000;
+    server localhost:3001;
+    server localhost:3002;
+    server localhost:3003;
+    server localhost:3004;
+}
+```
 
 ### Set up the database
 
@@ -234,33 +239,33 @@ First, kill your running Diaspora instance.
 
 Change into the Diaspora root folder and run
 
-        git pull origin master
+    git pull origin master
 
 If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
-        DB="mysql" bundle install --without development test heroku
+    DB="mysql" bundle install --without development test heroku
 
 or for PostgreSQL:
 
-        DB="postgres" bundle install --without development test heroku
+    DB="postgres" bundle install --without development test heroku
 
 In order to apply any new schema always run
 
-        DB="mysql" bundle exec rake db:migrate
+    DB="mysql" bundle exec rake db:migrate
 
 for MySQL, or
 
-        DB="postgres" bundle exec rake db:migrate
+    DB="postgres" bundle exec rake db:migrate
 
 for PostgreSQL.
 
 Or if you you run in production mode
 
-        RAILS_ENV="production" DB="mysql" bundle exec rake db:migrate
+    RAILS_ENV="production" DB="mysql" bundle exec rake db:migrate
 
 for MySQL, or
 
-        RAILS_ENV="production" DB="postgres" bundle exec rake db:migrate
+    RAILS_ENV="production" DB="postgres" bundle exec rake db:migrate
 
 for PostgreSQL.
 
@@ -268,7 +273,7 @@ Now start Diaspora again.
 
 If you use Jammit, after each update and after the first request to a page run it again:
 
-        DB="mysql" bundle exec jammit / DB="postgresql" bundle exec jammit
+    DB="mysql" bundle exec jammit / DB="postgresql" bundle exec jammit
 
 ## Appendix
 
@@ -276,7 +281,7 @@ If you use Jammit, after each update and after the first request to a page run i
 
 Normally you don't need this if you aren't developing for Diaspora, just skip it :)
 
-Diaspora's test suite uses [Rspec](http://rspec.info/), a behavior driven testing framework. To run all tests execute: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
+Diaspora’s test suite uses [Rspec](http://rspec.info/), a behavior driven testing framework. To run all tests execute: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
 
 ### Read-only installation
 
@@ -286,12 +291,12 @@ Some of Diaspora's web content in the public/ folder  is generated at runtime. I
 
 Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
 
-        bundle exec thin -d --pid log/thin.pid start
-        wget http://localhost:3000; rm index.html
-        bundle exec thin --pid log/thin.pid stop
+    bundle exec thin -d --pid log/thin.pid start
+    wget http://localhost:3000; rm index.html
+    bundle exec thin --pid log/thin.pid stop
 
 Run jammit and precache public/assets/*gz files:
 
-        bundle exec jammit
+    bundle exec jammit
 
 After these commands  also the *public/* folder  can be read-only (although *public/uploads* need to be writable, see above).
