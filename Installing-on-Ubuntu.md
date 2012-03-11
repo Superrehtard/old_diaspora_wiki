@@ -13,7 +13,7 @@ This is for Ubuntu 11.10. There are other steps than just this one:
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline-gplv2-dev openjdk-7-jre
 
-For both run:
+For both run this if you are not going to use RVM:
 
     wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.15-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
@@ -23,11 +23,13 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescue
 
 To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run
 
-    bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
-    echo ''[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
-    source ~/.bashrc
-    rvm install ruby-1.9.2-p290
-    rvm use ruby-1.9.2-p290@global
+```bash
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+echo ''[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
+source ~/.bashrc
+rvm install ruby-1.9.2-p290
+rvm use ruby-1.9.2-p290@global
+```
 
 ### Start MySQL (optional, depending on your platform):
 
