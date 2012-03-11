@@ -25,7 +25,7 @@ To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora shoul
 
 ```bash
 bash <(wget -qO- https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer) stable
-echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
+echo "[[ -s '$rvm_path/scripts/rvm' ]] && . '$rvm_path/scripts/rvm' # Load RVM function" >> ~/.bashrc
 source ~/.bashrc
 rvm install ruby-1.9.2-p290
 rvm use ruby-1.9.2-p290@global
