@@ -10,7 +10,7 @@ To install build tools, run the following (includes the gcc and xml parsing depe
 
 ### CURL
 
-You need to install the dev headers.
+You need to install the "dev" headers.
 
 To install them, run the following:
 
@@ -39,18 +39,21 @@ You still need a system Ruby so run:
 
 To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run (I was getting an error so I had to run curl -k which told me to "echo insecure >> ~/.curlrc")
 
-    bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
-    echo "'[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\"  # This loads RVM into a shell session." >> ~/.bashrc
-    source ~/.bashrc
-    rvm install ruby-1.9.2-p290
-    rvm use ruby-1.9.2-p290@global
-
+```bash
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session.' >> ~/.bashrc
+source ~/.bashrc
+rvm install ruby-1.9.2-p290
+rvm use ruby-1.9.2-p290@global
+```
 
 For Debian 6.0 users who wish to install Ruby 1.9.2 (or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
 
-    rvm pkg install openssl
-    rvm remove ruby-1.9.2-p290 #just in case
-    rvm install ruby-1.9.2-p290 --with-openssl-dir=$rvm_path/usr
+```bash
+rvm pkg install openssl
+rvm remove ruby-1.9.2-p290 #just in case
+rvm install ruby-1.9.2-p290 --with-openssl-dir=$rvm_path/usr
+```
 
 #### System Ruby
 Alternatively, to install Ruby 1.8.7 on **Debian 6.0**, run the following command:
@@ -59,14 +62,15 @@ Alternatively, to install Ruby 1.8.7 on **Debian 6.0**, run the following comman
 
 To install Ruby 1.8.7 (There are known bugs if you use Ruby 1.9.x, see [Bug #998](http://bugs.joindiaspora.com/issues/998)) on **Debian 5.0** from source, run the following commands:
 
-    cd /tmp
-    wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
-    tar xzf ruby-1.8.7-p334.tar.gz
-    cd ruby-1.8.7-p334
-    ./configure --prefix=/usr
-    make
-    make install
-
+```bash
+cd /tmp
+wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
+tar xzf ruby-1.8.7-p334.tar.gz
+cd ruby-1.8.7-p334
+./configure --prefix=/usr
+make
+make install
+```
 Alternatively if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
 
 ### MySQL
