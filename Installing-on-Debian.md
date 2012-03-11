@@ -40,7 +40,7 @@ You still need a system Ruby so run:
 To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run (I was getting an error so I had to run curl -k which told me to "echo insecure >> ~/.curlrc")
 
 ```bash
-bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+bash <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer) stable
 echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell session.' >> ~/.bashrc
 source ~/.bashrc
 rvm install ruby-1.9.2-p290
