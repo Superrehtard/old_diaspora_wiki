@@ -2,7 +2,7 @@ So, you've decided to take the plunge and install Diaspora yourself. Great! Here
 
 If you don't see your system on here, don't give up. It should work similarly on most distributions. If you figure it out we'd love it when you add a guide here, even a "do the same as for xy" would help.
 
-## [Notes On Installing and Running Diaspora](https://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora)
+## [Notes On Installing and Running Diaspora](https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-Diaspora)
 A useful comprehensive guide to getting Diaspora up and running.
 
 ### Service Specific
