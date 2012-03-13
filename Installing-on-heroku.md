@@ -68,6 +68,7 @@ $ cp config/heroku.yml.example config/heroku.yml
 $ cp config/oauth_keys.yml.example config/oauth_keys.yml
 $ cp config/script_server.yml.example config/script_server.yml
 $ bundle install
+$ bundle exec jammit
 ```
 
 The last two might not be necessary, but I copied them over anyway. The `heroku.yml` is only necessary if you want to use the built-in Rake tasks for deployment, if so you'll want to configure it accordingly (I didn't use it, just copied over the default file).
