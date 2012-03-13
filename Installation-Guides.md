@@ -10,6 +10,9 @@ A useful comprehensive guide to getting Diaspora up and running.
 ### [DreamHost](https://github.com/diaspora/diaspora/wiki/Installing-on-dreamhost)
 How to set Diaspora up with a DreamHost Private Server.
 
+### [Heroku](https://github.com/diaspora/diaspora/wiki/Installing-on-heroku)
+How to set up Diaspora on a single Heroku dyno. Useful for running a personal pod for free (or nearly free), or scaling up and running a public pod.
+
 ### [PageKite](https://github.com/diaspora/diaspora/wiki/How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod)
 In case you're a [PageKite](http://pagekite.net/) user, you can set up the service to point to your own locally-hosted pod.
 
