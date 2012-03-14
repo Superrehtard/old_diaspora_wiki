@@ -1,5 +1,8 @@
 One of Diaspora's greatest assets is its community. We have a broad network of people that are dedicated to our cause and use Diaspora everyday to express themselves. Many of our users love helping out with the project. If you want to pitch in, feel free to take a look at the categories below!
 
+## [FAQ For Users](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)
+Some frequently asked questions for end users.
+
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
 
