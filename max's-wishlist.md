@@ -10,4 +10,6 @@ here are thing that would be so cool if people did for D*
 
 5. Add a "who runs this" page which would be easy to configure from the interface or settings.
 
-6. 
+6. Clean up our cucumber.  See any of our newer features for a better way to write steps, where you are writing mostly capybara, and basically calling out to it from specific steps
+
+7.
