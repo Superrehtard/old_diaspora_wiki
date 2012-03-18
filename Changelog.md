@@ -2,6 +2,9 @@
 
 ## 2012
 ### March
+* [Invitations](https://groups.google.com/d/msg/diaspora-dev/e6IOYMlwwbE/S2HcZpqpKIEJ) are now done by sharing a user-specific link, the amount of invites on that link is configurable
+* Youtu.be and Vimeo embedding is now possible
+* oEmbed video content is now shown as thumbnail instead of directly embedding the player in the stream
 * Update Bundler version to 1.1.0
 
 ### February
