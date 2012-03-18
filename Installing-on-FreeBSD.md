@@ -1,6 +1,6 @@
 ## Work In Progress
 
-This guide has not yet been tested from scratch, but includes the basic steps.  USE AT YOUR OWN RISK.
+This guide has not yet been tested from scratch, but includes the basic steps.  **USE AT YOUR OWN RISK.**
 
 ### Caveat
 
@@ -23,63 +23,63 @@ Use of the `portmaster` ports management tool is assumed.
 It is assumed that you have a fresh install of FreeBSD 9.0 with ports tree installed and you are running from the non-root user that you intend to run Diaspora* under.  
 
 Packages/ports up and running should include:
-- bash
-- sudo
-- curl
-- ca_nss_root
+* bash
+* sudo
+* curl
+* ca_nss_root
 
 ### The Basics
 
 Install required libraries:
-    sudo pkg_add -r libxml2 libxslt
+        sudo pkg_add -r libxml2 libxslt
 
 
 ### PostgreSQL 
 
 To install Postgresql as your database, run the following:
 
-	sudo pkg_add -r postgresql91-server
-	sudo echo 'postgresql_enable="YES"' >> /etc/rc.conf
-    sudo /usr/local/etc/postgresql initdb
+        sudo pkg_add -r postgresql91-server
+        sudo echo 'postgresql_enable="YES"' >> /etc/rc.conf
+        sudo /usr/local/etc/postgresql initdb
     
 Set it up to run as your user (diaspora for example):
 
-    sudo su pgsql
-    createuser -srdP diaspora
-    exit
+        sudo su pgsql
+        createuser -srdP diaspora
+        exit
 
 ### ImageMagick
 
 To install ImageMagick, run the following:
 
-    sudo pkg_add -r ImageMagick-nox11
+        sudo pkg_add -r ImageMagick-nox11
 
 ### Git
 
 To install Git, run the following:
 
-    sudo pkg_add -r git
+        sudo pkg_add -r git
 
 ### Redis
 
 To install Redis, run the following:
 
-    sudo pkg_add -r redis
+        sudo pkg_add -r redis
 
 
 ### To install Ruby (1.9), run the following:
 
-    sudo echo 'RUBY_DEFAULT_VER=1.9' >> /etc/make.conf
-    sudo cd /usr/ports/lang/ruby19 && make install clean
+        sudo echo 'RUBY_DEFAULT_VER=1.9' >> /etc/make.conf
+        sudo cd /usr/ports/lang/ruby19 && make install clean
     
     
 ### To install RubyGems, run the following:
 
-    sudo cd /usr/ports/devel/ruby-gems/ && make install clean
+        sudo cd /usr/ports/devel/ruby-gems/ && make install clean
     
 ### Recompile everything to synchronize dependencies and add required ports (optional? time-consuming step):
 
-    sudo portmaster -a
+        sudo portmaster -a
     
 ### Bundler
 
