@@ -4,7 +4,7 @@ This guide has not yet been tested from scratch, but includes the basic steps.  
 
 ### Caveat
 
-Installation on FreeBSD is a more involved and variable process than on some (all?) of the Linux distros.  This guide is intended for experienced FreeBSD admins. It uses a combination of ports and packages and takes a while (hours) to get everything compiled and running properly.
+Installation on FreeBSD is a more involved and variable process than on some (all?) of the Linux distros.  This guide is intended for experienced FreeBSD admins. It uses a combination of ports and packages and takes a while to get everything compiled and running properly.
 
 This is not intended as in introduction to FreeBSD.
 
@@ -54,6 +54,12 @@ To install ImageMagick, run the following:
 
         sudo pkg_add -r ImageMagick-nox11
 
+### SQLite3
+
+To install sqlite3, run the following:
+
+        sudo pkg_add -r sqlite3
+
 ### Git
 
 To install Git, run the following:
@@ -87,4 +93,4 @@ To install Bundler, run the following:
 
         sudo gem install bundler 
 
-## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+## Congrats! You have all your dependencies installed. Go back to [[Notes On Installing and Running Diaspora]].
