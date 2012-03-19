@@ -78,13 +78,15 @@ To install Redis, run the following:
 And add `redis_enable="YES"` to /etc/rc.conf
 
 
-### To install Ruby (1.9), add `RUBY_DEFAULT_VER=1.9` to /etc/make.conf and then run:
+### To install Ruby (1.9):
+
+Add `RUBY_DEFAULT_VER=1.9` to /etc/make.conf and then run:
 
         sudo cd /usr/ports/lang/ruby19 && make install clean
       
 ### To install RubyGems, run the following:
 
-        sudo cd /usr/ports/devel/ruby-gems/ && make install clean
+        cd /usr/ports/devel/ruby-gems/ && sudo make install clean
     
 ### Recompile everything to synchronize dependencies and add required ports (optional? time-consuming step):
 
