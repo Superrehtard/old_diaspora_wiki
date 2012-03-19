@@ -39,7 +39,9 @@ Install required libraries:
 To install Postgresql as your database, run the following:
 
         sudo pkg_add -r postgresql91-server
-        sudo echo 'postgresql_enable="YES"' >> /etc/rc.conf
+ 
+Add `postgresql_enable="YES"` to /etc/rc.conf, then:
+
         sudo /usr/local/etc/postgresql initdb
     
 Set it up to run as your user (diaspora for example):
