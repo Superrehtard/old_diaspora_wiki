@@ -82,7 +82,7 @@ And add `redis_enable="YES"` to /etc/rc.conf
 
 Add `RUBY_DEFAULT_VER=1.9` to /etc/make.conf and then run:
 
-        sudo cd /usr/ports/lang/ruby19 && make install clean
+        cd /usr/ports/lang/ruby19 && sudo make install clean
       
 ### To install RubyGems, run the following:
 
