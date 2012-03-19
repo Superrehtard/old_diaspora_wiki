@@ -49,7 +49,7 @@ Set it up to run as your user (diaspora for example):
 
         sudo su pgsql
         createuser -srdP diaspora
-        Ctrl-D to exit
+        exit
 
 ### ImageMagick
 
