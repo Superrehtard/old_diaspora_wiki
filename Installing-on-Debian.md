@@ -55,23 +55,6 @@ rvm remove ruby-1.9.2-p290 #just in case
 rvm install ruby-1.9.2-p290 --with-openssl-dir=$rvm_path/usr
 ```
 
-#### System Ruby
-Alternatively, to install Ruby 1.8.7 on **Debian 6.0**, run the following command:
-
-    sudo apt-get install ruby-full
-
-To install Ruby 1.8.7 (There are known bugs if you use Ruby 1.9.x, see [Bug #998](http://bugs.joindiaspora.com/issues/998)) on **Debian 5.0** from source, run the following commands:
-
-```bash
-cd /tmp
-wget ftp://ftp.ruby-lang.org//pub/ruby/ruby-1.8.7-p334.tar.gz
-tar xzf ruby-1.8.7-p334.tar.gz
-cd ruby-1.8.7-p334
-./configure --prefix=/usr
-make
-make install
-```
-Alternatively if you have it installed you can use "checkinstall" instead of "make install" to install ruby in a more debian friendly way.
 
 ### MySQL
 
