@@ -1,7 +1,3 @@
-## Work In Progress
-
-This guide has not yet been tested from scratch, but includes the basic steps.  **USE AT YOUR OWN RISK.**
-
 ### Caveat
 
 Installation on FreeBSD is a more involved and variable process than on some (all?) of the Linux distros.  This guide is intended for experienced FreeBSD admins. It uses a combination of ports and packages and takes a while to get everything compiled and running properly.
@@ -88,7 +84,9 @@ Add `RUBY_DEFAULT_VER=1.9` to /etc/make.conf and then run:
 
         cd /usr/ports/devel/ruby-gems/ && sudo make install clean
     
-### Recompile everything to synchronize dependencies and add required ports (optional? time-consuming step):
+### Recompile everything to synchronize dependencies and add required ports
+
+This is step is optional and very time-consuming:
 
         sudo portmaster -a
     
