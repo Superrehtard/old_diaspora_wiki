@@ -25,4 +25,5 @@ Below are some existing guides to getting a Diaspora pod set up on your system o
 ### [Ubuntu](https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu)
 ### [Debian](https://github.com/diaspora/diaspora/wiki/Installing-on-Debian)
 ### [Fedora](https://github.com/diaspora/diaspora/wiki/Installing-on-Fedora)
+### [FreeBSD](https://github.com/diaspora/diaspora/wiki/Installing-on-FreeBSD)
 ### [Arch](https://wiki.archlinux.org/index.php/Diaspora)
