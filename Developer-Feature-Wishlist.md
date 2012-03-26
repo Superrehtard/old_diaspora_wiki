@@ -16,23 +16,30 @@ Many projects have a script which makes it trivial to get a development envirome
    8) virtual Box Setup(we can host the final box)
 
 
-6) Refactor Cucumber:  See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.feature)?  Now see how much worse this is?( https://github.com/diaspora/diaspora/blob/master/features/edits_profile.feature) 
+**6) Refactor Cucumber**:  
+See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.feature)?  Now see how much worse this is?( https://github.com/diaspora/diaspora/blob/master/features/edits_profile.feature) 
 It would be awesome if someone could refactor some of our test suite to relay less on the bad built in pre-defined Cucumber steps, and work towards making a set of steps and helpers which reflect Diaspora’s domain language.
 
-7) Refactor controllers - There are a bunch of things a seasoned Rails dev would want to do here.  Utilize more rescue_froms to reduce branching, breaking really big actions into objects that are delegated to, to just improving and backfilling tests.  This is not the most glamorous of things on this list, but it would be much appreciated.
+**7) Refactor controllers** 
+There are a bunch of things a seasoned Rails dev would want to do here.  Utilize more rescue_froms to reduce branching, breaking really big actions into objects that are delegated to, to just improving and backfilling tests.  This is not the most glamorous of things on this list, but it would be much appreciated.
 
-8) Improve admin interface:  I already have rails admin running in a branch (link). It might still need some configuration tweaking. I am pretty sure we could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
+**8) Improve admin interface**  
+We already have rails admin running in a branch (link). It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
 
-9) Branding pack.  Make it really easy and well understood what assets can/need to be changed if you want to throw up your own customized pod.(focus on minimum needed right now, rather than a full blown theme framework as of yet)
+**9) Branding pack.**  
+Make it really easy and well understood what assets can/need to be changed if you want to throw up your own customized pod.(focus on minimum needed right now, rather than a full blown theme framework as of yet)
 
-10) Save image dimensions with every image file <= needs to upgrade carrier-wave, and include a hack in the carrierwave wiki.
+**10) Save image dimensions with every image file** 
+<= needs to upgrade carrier-wave, and include a hack in the carrierwave wiki.
 
-	10b) related, fixed delayed image processing BS.  Ask Max for more info.
+	**10b) related, fixed delayed image processing BS.**  Ask Max for more info.
 
-11) Welcome email (after a user has signed up, email them with helpful information)
+**11) Welcome email** 
+After a user has signed up, email them with helpful information.
 
-12) Update all references to bootstrap to be unified (use a gem?)
+**12) Update all references to bootstrap to be unified (use a gem?)**
 	- rails 3.1 means we can include this stuff via asset pipeline and get code out of the main repo
 	- this means slaying the two(or three?) different versions we are using across getting started, mobile, and the show pages.
 
-13) Upgrade ActsasTaggable to be inline with master, plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings.
+**13) Upgrade ActsasTaggable to be inline with master**
+ plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings.
