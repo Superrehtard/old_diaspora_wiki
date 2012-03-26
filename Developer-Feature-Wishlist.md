@@ -1,6 +1,6 @@
 Below is a feature wishlist of things we'd love to have some help with for the Diaspora project. Community developers are more than welcome to dive in and work on these at any time, please contact the mailing list about any of the items listed below that you'd like to help with. "Claimed" items will be linked with a thread to Google groups, so as to encourage collaboration and avoid duplicating effort.
 
-**1) Fix and refactor emails. ** 
+**1) Fix and refactor emails.** 
 There are tons of duplication, lack of a sane simple email template, and the divide between HTML and text is huge.  We should strip them down to a more basic single template and remove much of the ugly HTML stuff in the invite et. all we were including. Also, it would be awesome to give some due dillegence to figuring out what kinds of data we link in each email, and make it consistent across the board.
 
 **3) Refactor AppConfig and EnviromentConfiguration.**
