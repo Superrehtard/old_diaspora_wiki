@@ -14,3 +14,6 @@ This page contains some of the more advanced semantic information pertaining to 
 
 ## [Mobile/Third Party App Developer Resources](https://github.com/diaspora/diaspora/wiki/Mobile-and-Third-Party-Developer-Resources)
 This is a collection of resources containing information about mobile clients, and plugins for different Content Management Systems.
+
+## [Development Team Wishlist](https://github.com/diaspora/diaspora/wiki/Developer-Feature-Wishlist)
+A wishlist of features we'd like help with working on. Feel free to pick one and join in.
