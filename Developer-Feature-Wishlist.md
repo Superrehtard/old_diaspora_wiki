@@ -46,6 +46,3 @@ After a user has signed up, email them with helpful information.
 
 **13) Upgrade ActsasTaggable to be inline with master**
  plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings.
-
-**14) A Unicorn**
-No, we're not talking about the application server, we're talking about the magical creature.
