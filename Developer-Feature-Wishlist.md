@@ -32,7 +32,7 @@ Make it really easy and well understood what assets can/need to be changed if yo
 **10) Save image dimensions with every image file** 
 needs to upgrade carrier-wave, and include a hack in the carrierwave wiki.
 
-	**10b) related, fixed delayed image processing BS.**  Ask Max for more info.
+**10b) related, fixed delayed image processing BS.**  Ask Max for more info.
 
 **11) Welcome email** 
 After a user has signed up, email them with helpful information.
