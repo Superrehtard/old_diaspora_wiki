@@ -4,15 +4,14 @@ Heroku runs your application in a virtual machine known as a "dyno" running a cu
 
 ### Creating your Heroku application
 
-Install Bundler, the Heroku client and Heroku Labs plugin (note: in Linux or Mac OSX you may need to use sudo to install gems, depending on your Ruby installation).
+Install Bundler and the Heroku client (note: in Linux or Mac OSX you may need to use sudo to install gems, depending on your Ruby installation). As of version 2.23.0 of the Heroku client, the Heroku Labs functionality is built-in and the plugin is no longer needed.
 
 ```
 $ gem install bundler
 $ gem install heroku
-$ heroku plugins:install http://github.com/heroku/heroku-labs.git
 ```
 
-Create your own private fork of the Diaspora code and be sure to keep a backup somewhere private, such as a flash drive, a private github reposotory or a DropBox account. Do _not_ put it in a public repository, this will be the copy you deploy to Heroku and may contain some sensitive configuration info.
+Create your own private fork of the Diaspora code and be sure to keep a backup somewhere private, such as a flash drive, a private github reposotory or a Dropbox account. Do _not_ put it in a public repository, this will be the copy you deploy to Heroku and may contain some sensitive configuration info.
 
 For illustration purposes, we'll use `mypod` as the name of the new Heroku app we're creating. Since `mypod` is already in use, you'll need to come up with a name before you go any further or use the random name Heroku assigns. We'll also assume you're using Heroku's shared SSL and a domain like `mypod.herokuapp.com` but it is also possible to use your own domain and SSL certificate.
 
@@ -22,13 +21,18 @@ Now that you've come up with a unique name for your pod, run the following comma
 $ heroku create mypod --stack cedar
 $ heroku config:add DB=mysql
 $ heroku labs:enable user_env_compile
+$ heroku labs:enable sigterm-all
 $ heroku addons:add ssl:piggyback
 $ heroku addons:add redistogo:nano
 ```
 
+Two Heroku Labs experimental features are used here. The `user_env_compile` feature makes your Heroku config variables available during slug compilation, which (in Rails 3.1+) makes your database available during asset precompilation. The `sigterm-all` sends SIGTERM to all processes in a dyno rather than just the master process, this makes it easier for your Resque background workers to clean up after themselves.
+
 ### MySQL
 
-You will need a remotely hosted MySQL server. It is recommended to use a MySQL server that is hosted on Amazon EC2, since that's where your Heroku app lives. Amazon RDS is a good option, and is in use by joindiaspora.com and possibly other pods. You can also deploy a MySQL database on [DotCloud](http://www.dotcloud.com) and use it with your Heroku app. Be sure to write down the full URL to your database, you'll need it later, it should be in the form of `mysql2://user:password@domain.com/dbname`.
+(Update: This may be outdated, recent changes to Diaspora have fixed some of the issues with PostgreSQL. Your mileage may vary.)
+
+You will need a remotely hosted MySQL server. It is recommended to use a MySQL server that is hosted on Amazon EC2, since that's where your Heroku app lives. Amazon RDS is a good option, and is in use by joindiaspora.com and possibly other pods. Heroku also makes several third-party MySQL databases available as add-ons, including ClearDB and Xeround. You can also deploy a MySQL database on [DotCloud](http://www.dotcloud.com) and use it with your Heroku app, but this is a slightly more advanced option. Whichever you choose, be sure to write down the full URL to your database, you'll need it later, it should be in the form of `mysql2://user:password@domain.com/dbname`.
 
 Important: Make sure to use `mysql2://` and _not_ `mysql://` or Heroku will not initialize your app's database settings properly.
 
@@ -54,10 +58,9 @@ config/deploy_config.yml
 config/database.yml
 public/stylesheets/*.css
 public/diaspora
-public/assets/*
 ```
 
-That's a lot to remove from your `.gitignore` but, unlike more traditional hosting, these files need to exist in your git repo when you deploy to Heroku.
+That's a lot to remove from your `.gitignore` but, unlike more traditional hosting, these files need to exist in your git repository when you deploy to Heroku.
 
 Now you're ready to create the default configuration files, so you'll need to execute these commands:
 
@@ -90,7 +93,7 @@ slow_worker: env QUEUES=socket_webfinger,photos,http_service,dispatch,receive_lo
 priority_worker: env QUEUES=socket_webfinger,photos,http_service,dispatch,mail,delete_account bundle exec rake resque:work
 ```
 
-Note that we're not running a Redis server here, that's provided by the RedisToGo addon. I mentioned in the beginning that this would be a single dyno app, so unless you choose to scale up your Resque workers only the `web:` process will need to be running.
+Note that we're not running a Redis server here, that's provided by the RedisToGo add-on. I mentioned in the beginning that this could be run as a single dyno app, so unless you choose to scale up your Resque workers only the `web:` process will need to be running.
 
 Finally, since you will need at least one Resque worker, let's edit `config/unicorn.rb` to look like this (yes, we're running the worker as a background process in the `web:` dyno):
 
@@ -125,6 +128,8 @@ before_fork do |server, worker|
   ActiveRecord::Base.connection.disconnect!
 
   if !AppConfig.single_process_mode?
+    # Clean up Resque workers killed by previous deploys/restarts
+    Resque.workers.each { |w| w.unregister_worker }
     @resque_pid ||= spawn('bundle exec rake resque:work QUEUES=*')
   end
 
@@ -181,6 +186,8 @@ If you run `heroku config` you'll see that Heroku has given you a shared Postgre
 heroku config:add DATABASE_URL=mysql2://user:password@domain.com/dbname
 ```
 
+Note that if you used one of the MySQL databases available as a Heroku add-on, this step may or may not have already been done for you, depending on the add-on. You should be able to verify this by running `heroku config`.
+
 ### Database Migrations and signing up
 
 This is the easy part. Assuming you followed all the steps above (and assuming I haven't left anything out.. if I have, please contact me), you should be able to run the following commands:
@@ -201,9 +208,15 @@ Edit your `config/application.yml` and make the `admins` section look like this,
     - 'yourusername'
 ```
 
+In the same file, set the `admin_account` file to look like this:
+
+```
+  admin_account: 'yourusername'
+```
+
 While you're at it, if you want a private pod, be sure to set `registrations_closed` to `true`.
 
-If you'd like to customize the home page (the page that shows up when you visit your pod, before signing in), create a file called `app/views/home/_show.html.haml` and edit it however you'd like. This is a HAML file, refer to the other views or the [official HAML website](http://haml-lang.com) for more information on creating or editing this file.
+If you'd like to customize the splash page (the page that shows up when you visit your pod, before signing in), create a file called `app/views/home/_show.html.haml` and edit it however you'd like. This is a HAML file, refer to the other views or the [official HAML website](http://haml-lang.com) for more information on creating or editing this file.
 
 ### Push your changes
 
@@ -216,4 +229,4 @@ $ git push heroku master
 $ heroku open
 ```
 
-That's it. Assuming you or I didn't make any mistakes here, you should have a fully functioning pod.
+That's it. Assuming you or I didn't make any mistakes here, you should have a fully functioning pod. Please note that while federation works with this configuration, it may take a couple days to start seeing posts from other pods (and, currently, you will only see posts from pods where at least one user is sharing with you).
