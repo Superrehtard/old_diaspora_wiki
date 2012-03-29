@@ -2,6 +2,7 @@
 
 ## 2012
 ### March
+* Allow non-ascii characters in links
 * Notifications on mobile web app
 * [Invitations](https://groups.google.com/d/msg/diaspora-dev/e6IOYMlwwbE/S2HcZpqpKIEJ) are now done by sharing a user-specific link, the amount of invites on that link is configurable
 * Youtu.be and Vimeo embedding is now possible
