@@ -44,5 +44,5 @@ After a user has signed up, email them with helpful information.
 	- rails 3.1 means we can include this stuff via asset pipeline and get code out of the main repo
 	- this means slaying the two(or three?) different versions we are using across getting started, mobile, and the show pages.
 
-**13) Upgrade ActsasTaggable to be inline with master**
- plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings.
+**13) Upgrade [ActsasTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) to be inline with master**
+ plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings. Currently, the [forked repo](https://github.com/diaspora/acts-as-taggable-on) of the same is in use.
