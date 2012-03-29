@@ -20,7 +20,7 @@ Many projects have a script which makes it trivial to get a development envirome
    8) virtual Box Setup(we can host the final box)
 
 
-**6) Refactor Cucumber**:  
+**6) Refactor Cucumber Features**:  
 See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.feature)?  Now see how much worse this is?( https://github.com/diaspora/diaspora/blob/master/features/edits_profile.feature) 
 It would be awesome if someone could refactor some of our test suite to relay less on the bad built in pre-defined Cucumber steps, and work towards making a set of steps and helpers which reflect Diaspora’s domain language.
 
