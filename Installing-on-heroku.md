@@ -4,7 +4,7 @@ Heroku runs your application in a virtual machine known as a "dyno" running a cu
 
 ### Creating your Heroku application
 
-Install Bundler and the Heroku client (note: in Linux or Mac OSX you may need to use sudo to install gems, depending on your Ruby installation). As of version 2.23.0 of the Heroku client, the Heroku Labs functionality is built-in and the plugin is no longer needed.
+Install Bundler and the Heroku client (note: in Linux or Mac OSX you may need to use sudo to install gems, depending on your Ruby installation). As of version 2.22.0 of the Heroku client, the Heroku Labs functionality is built-in and the plugin is no longer needed.
 
 ```
 $ gem install bundler
