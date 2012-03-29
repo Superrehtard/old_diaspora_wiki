@@ -10,7 +10,7 @@ There are tons of duplication, lack of a sane simple email template, and the div
 **3) [Refactor AppConfig and EnviromentConfiguration.(In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/XcWTJn-IsUY)**
 AppConfig is the current class that handles loading Diaspora’s settings from application.yml.  It has grown into a bit of beast, worring about bootstate, data munging, and a few related helpers.  The time to clean it up is now!  We should move all logic out of AppConfig, and let it just be a SettingsLogic class.  Then, we should access everything via EnviromentConfiguration, delegating applicable keys and to AppConfig.
 
-**4) Get [Spork](https://github.com/sporkrb/spork)  running with our test suite** 
+**4) Get [Spork](https://github.com/sporkrb/spork)  running with our test suite (Pull Request Pending)** 
 +1 if you also get guard running in OSX and linux too.
 
 **5) Help make things easier for other developers**
