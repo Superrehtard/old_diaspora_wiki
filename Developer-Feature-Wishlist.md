@@ -21,8 +21,7 @@ Many projects have a script which makes it trivial to get a development envirome
 
 
 **6) Refactor Cucumber Features**:  
-See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.feature)?  Now see how much worse this is?( https://github.com/diaspora/diaspora/blob/master/features/edits_profile.feature) 
-It would be awesome if someone could refactor some of our test suite to relay less on the bad built in pre-defined Cucumber steps, and work towards making a set of steps and helpers which reflect Diaspora’s domain language.
+See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.feature)?  Now see how much worse this is?( https://github.com/diaspora/diaspora/blob/master/features/edits_profile.feature). A lot of our cukes are messy, it'd be great if someone with a great sense of code clarity were to step up to the plate and refactor some of the features. If you want to go the extra mile, work with dennis and Identify tests that would be better in jasmine, or unit tests to shave some time off the suite as well.
 
 **7) Refactor controllers** 
 There are a bunch of things a seasoned Rails dev would want to do here.  Utilize more rescue_froms to reduce branching, breaking really big actions into objects that are delegated to, to just improving and backfilling tests.  This is not the most glamorous of things on this list, but it would be much appreciated.
