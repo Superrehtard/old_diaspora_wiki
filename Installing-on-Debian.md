@@ -93,12 +93,12 @@ Debian 6.0 stable repositories have an older version of Redis.  If you are runni
 
 Otherwise, if you're running Stable, you should get the newest version directly.  If you're running a 64-bit system, run:
 
-    wget  http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.8-1_amd64.deb -O redis-server.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.4.8-1_amd64.deb -O redis-server.deb
     wget http://ftp.us.debian.org/debian/pool/main/j/jemalloc/libjemalloc1_2.2.5-1_amd64.deb -O libjemalloc1.deb
 
 If you're running a 32-bit system, run:
 
-    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.2.8-1_i386.deb -O redis-server.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.4.8-1_i386.deb -O redis-server.deb
     wget http://ftp.us.debian.org/debian/pool/main/j/jemalloc/libjemalloc1_2.2.5-1_i386.deb -O libjemalloc1.deb
 
 Then install the corresponding package
