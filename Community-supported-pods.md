@@ -236,15 +236,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Ubuntu 10.04
    * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
 
-
-* [[https://mispora.net/]] [[https://mispora.net/apple-touch-icon.png|height=30px]]
-   * Opened: 18/10/2011
-   * Updated: Frequently
-   * Maintainer: [Jaiden Mispy](http://mispora.net/u/jaiden) 
-   * Location: Tokyo, Japan
-   * Comments: First public pod hosted in the Asia Pacific region! HTTPS, Facebook & Twitter, high uptime.
-
-
 * [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-08-20
     * Updated: irregularly
