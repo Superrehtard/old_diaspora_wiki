@@ -10,7 +10,7 @@ There are tons of duplication, lack of a sane simple email template, and the div
 **3) [Refactor AppConfig and EnviromentConfiguration.(In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/XcWTJn-IsUY)**
 AppConfig is the current class that handles loading Diaspora’s settings from application.yml.  It has grown into a bit of beast, worring about bootstate, data munging, and a few related helpers.  The time to clean it up is now!  We should move all logic out of AppConfig, and let it just be a SettingsLogic class.  Then, we should access everything via EnviromentConfiguration, delegating applicable keys and to AppConfig.
 
-**4) Get [Spork](https://github.com/sporkrb/spork)  running with our test suite (Pull Request Pending)** 
+**4) Get [Spork](https://github.com/sporkrb/spork)  running with our test suite (Done!)** 
 +1 if you also get guard running in OSX and linux too.
 
 **5) Help make things easier for other developers**
@@ -29,7 +29,7 @@ There are a bunch of things a seasoned Rails dev would want to do here.  Utilize
 **8) Improve admin interface**  
 We already have rails admin running in a branch (link). It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
 
-[**9) Branding pack (In Progress)**](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/pP0LTD2Fpms).**  
+[**9) Branding pack (Stage One Complete)**](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/pP0LTD2Fpms).**  
 Make it really easy and well understood what assets can/need to be changed if you want to throw up your own customized pod.(focus on minimum needed right now, rather than a full blown theme framework as of yet)
 
 **10) Save image dimensions with every image file** 
