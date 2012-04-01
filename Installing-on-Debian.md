@@ -120,6 +120,11 @@ To install Bundler, run the following, skip the sudo for a RVM installation:
 
     sudo gem install bundler 
 
+If you installed via RVM and gem is not found, run the following
+
+    bash -l
+    rvm use ruby-1.9.2-p290@global
+
 To get bundle to work with the system Ruby, you might need to make a symbolic link:
 
     sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
