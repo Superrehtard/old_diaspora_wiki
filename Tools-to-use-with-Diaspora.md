@@ -23,7 +23,7 @@ _Links to various tools built by the community for use with Diaspora._
     
 *   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
 
-*  [Cubbi.es Plus](http://bit.ly/rUbugE) - (Firefox, Chrome) Cubbi.es with ability to add text to images.
+*  [wnc](http://bit.ly/HR6wwt) - (Firefox, Chrome) Adding text to images and cubbies.
 
 
 #### More cool stuff (add ons to make your diaspora experience smarter)
@@ -62,6 +62,5 @@ _Links to various tools built by the community for use with Diaspora._
 *  [Webfinger Profile Plugin for 'Join me' widget](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora, [more info](http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/)
 
 *   [Wordpress plugin: wp-post-to-diaspora](https://github.com/diaspora/wp-post-to-diaspora) when you make a new blog post, this plugin will post a link to it to your diaspora account
-
 
 
