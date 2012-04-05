@@ -281,9 +281,9 @@ for PostgreSQL.
 
 Now start Diaspora again.
 
-If you use Jammit, after each update and after the first request to a page run it again:
+After each update and after the first request to a page run it again:
 
-    DB="mysql" bundle exec jammit / DB="postgresql" bundle exec jammit
+    DB="mysql" bundle exec rake assets:precompile / DB="postgresql" bundle exec rake assets:precompile
 
 ## Appendix
 
@@ -305,8 +305,8 @@ Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.cs
     wget http://localhost:3000; rm index.html
     bundle exec thin --pid log/thin.pid stop
 
-Run jammit and precache public/assets/*gz files:
+Precache public/assets/*gz files:
 
-    bundle exec jammit
+    bundle exec rake assets:precompile
 
 After these commands  also the *public/* folder  can be read-only (although *public/uploads* need to be writable, see above).
