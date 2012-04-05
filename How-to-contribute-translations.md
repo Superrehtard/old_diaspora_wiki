@@ -48,7 +48,7 @@ If you want to fix an untranslatable strings or something feel free, but only ad
 
 ### "Permanent Pull Requst"
 
-If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX, E-Mail: diaspora@mrzyx.de) and give me the URL to a Git Repository and I'll do regular pulls in my update workflow.
+If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX, E-Mail: me@mrzyx.de) and give me the URL to a Git Repository and I'll do regular pulls in my update workflow.
 
 ## Web translate it
 
@@ -57,6 +57,7 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * [[gl|http://trasno.net/]]
 * [[sq|https://github.com/ujdhesa]]
+
 ### Translating with Web translate it
 
 First go to  [[Web translate it|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
