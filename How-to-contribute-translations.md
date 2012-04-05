@@ -56,7 +56,7 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * [[gl|http://trasno.net/]]
-
+* [[sq|https://github.com/ujdhesa]]
 ### Translating with Web translate it
 
 First go to  [[Web translate it|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
