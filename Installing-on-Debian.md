@@ -144,5 +144,13 @@ and try the step again.
 
     sudo apt-get install libsqlite3-dev
 
-
 ## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+
+### Post install JavaScript runtime Error
+
+After following the above steps I found I would get the following error when I attempted to visit my pod...
+
+    Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes.
+    (in /var/diaspora/diaspora/app/assets/javascripts/ie.js)
+
+NodeJS was needed but is currently not available in Debian (except in sid/unstable). The following website helped install this to Debian 6: http://sekati.com/etc/install-nodejs-on-debian-squeeze
