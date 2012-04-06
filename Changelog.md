@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2012
+### April
+* Update to Rails 3.1 + new asset pipeline
+
 ### March
 * Allow non-ascii characters in links
 * Notifications on mobile web app
