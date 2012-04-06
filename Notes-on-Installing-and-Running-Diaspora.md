@@ -141,7 +141,7 @@ If you want to run production mode:
 </VirtualHost>
 ```
 
-For a more advanced configuration have a look at this Gist: https://gist.github.com/719014
+For a more advanced configuration have a look at this Gist: [https://gist.github.com/719014](https://gist.github.com/719014)
 
 **OSX Server Note** If you wish to use Apache built into OSX Server, use Server Admin to create a site on port 443.  A file should be created in the directory `/etc/apache2/sites/` with a name like "000X_any_443_domain.com.conf".  The above proxy settings will allow you to continue to use your existing web services alongside the Diaspora installation.
 
