@@ -26,8 +26,8 @@ There are a bunch of things a seasoned Rails dev would want to do here.  Utilize
 **8) Improve admin interface**  
 We already have rails admin running in a branch (link). It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
 
-[**9) Branding pack (Stage One Complete)**](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/pP0LTD2Fpms).**  
-Make it really easy and well understood what assets can/need to be changed if you want to throw up your own customized pod.(focus on minimum needed right now, rather than a full blown theme framework as of yet)
+[**9) Pod Customization (In Progress)**](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/i4_wvLQaZJ8).**  
+We're discussing how to turn some variables into strings to make pod customization easier for podmins without needing to fork from the main codebase. It's a great starting point for figuring out how further to customize a pod.
 
 **10) Save image dimensions with every image file** 
 needs to upgrade carrier-wave, and include a hack in the carrierwave wiki.
