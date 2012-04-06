@@ -43,3 +43,7 @@ After a user has signed up, email them with helpful information.
 
 **13) Upgrade [ActsasTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) to be inline with master**
  plus rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings. Currently, the [forked repo](https://github.com/diaspora/acts-as-taggable-on) of the same is in use.
+
+**14) Clean out Images folder** There's a lot of unused images in there that we don't need, so it kind of makes for a waste of space.
+
+**15) Carrier-Wave Improvements** Make Carrier-Wave upload to a /tmp directory for tests, and clean up when done. 
