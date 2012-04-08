@@ -229,10 +229,6 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 **Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set to True the variable "serve_static_assets" in the config/environments/production.rb file.
 
-### Jammit
-
-Diaspora requires Jammit for the default production setup, and Jammit in turn requires a working install of java. Jammit compiles all the CSS & JS into fewer minimized files. The advantage is that the page can be served with less requests.
-
 ## Updating Diaspora
 
 First, kill your running Diaspora instance.
