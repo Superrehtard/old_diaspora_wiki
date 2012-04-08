@@ -241,16 +241,6 @@ Change into the Diaspora root folder and run
 
     git pull origin master
 
-__Attention for production pods:__ Since there are problems with the asset-pipeline (~ since March 29th 2012) production pods should not use the head of the branch master.They should checkout the tag __"pre-asset-pipeline"__ which can be done with theese commands:
-
-    git pull origin master
-    git fetch --tags
-    git checkout pre-asset-pipeline
-
-To see which tags are available you could use:
-    git tag -l
-
-
 If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 
     DB="mysql" bundle install --without development test heroku
