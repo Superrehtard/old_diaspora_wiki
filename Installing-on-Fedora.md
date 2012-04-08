@@ -12,21 +12,11 @@ To install build tools, run the following:
 
 #### RVM
 
-You can install Ruby on a clean per user basis via [RVM](https://rvm.beginrescueend.com/). This is currently recommended to get the latest Rubygems version.
+You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version.
 
 You still need a system Ruby so run:
 
     sudo apt-get install ruby-devel
-
-To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run (I was getting an error so I had to run curl -k which told me to "echo insecure >> ~/.curlrc")
-
-```bash
-bash <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer) stable
-echo "[[ -s '$rvm_path/scripts/rvm' ]] && . '$rvm_path/scripts/rvm' # Load RVM function" >> ~/.bashrc
-source ~/.bashrc
-rvm install ruby-1.9.2-p290
-rvm use ruby-1.9.2-p290@global
-```
 
 ### MySQL
 
