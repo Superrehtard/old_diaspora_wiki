@@ -10,4 +10,7 @@ It's a great way to launch discussions on the developer side of things because b
 ### Discussing Conceptual Feature Requests
 But for those of you that aren't coders, don't worry. There are still ways to propose a feature and garner a discussion around it. The absolute best place to push a new idea and get discussion going is to submit an email to our [Discussion Mailing List](https://groups.google.com/group/diaspora-discuss), with "[Feature Discussion]" appended to the front of the message. Don't worry, you don't need a Google account to join the mailing list.
 
-There are a lot of people subscribed to the discuss list, and getting your idea to the forefront rather than putting it in a place where only community developers and the core team would read it is a great way to put an idea out there. 
+There are a lot of people subscribed to the discuss list, and getting your idea to the forefront rather than putting it in a place where only community developers and the core team would read it is a great way to put an idea out there.
+
+### Feature Wishlist
+There's also a [Feature Wishlist](https://github.com/diaspora/diaspora/wiki/Developer-Feature-Wishlist), the name is self-explanatory ;)
