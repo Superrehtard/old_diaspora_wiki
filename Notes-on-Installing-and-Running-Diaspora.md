@@ -167,10 +167,6 @@ Take note: We upgrade all port 80 requests to port 443.  We recommend that you d
 
 **Different certificates** Make sure that your top level domain (e.g. example.com if your pod is pod.example.com) hands out the _same_ certificate as your actual pod URL. The communication with other pods (or applications, like [cubbi.es](http://www.cubbi.es)) might not work otherwise.
 
-### Configuring WebSockets
-WebSockets is required to have instant notifications and similar services, but you can completely live without it. If you fancy it see [[this page|WebSockets]].
-
-**NOTE:** the use of WebSockets has been suspended for now
 
 ### Load-balancing with a Thin cluster and Nginx
 
