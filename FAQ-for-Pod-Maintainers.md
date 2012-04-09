@@ -88,9 +88,13 @@ Then you also need to roll those back separately. You need to do this BEFORE you
 
 Also be aware that database rollbacks can fail - they depend on the migration author writing the correct code to roll back. And if they didn't right the correct code to roll forward... :)  So really, the best thing you can do to avoid this is check [Travis](http://travis-ci.org/diaspora/diaspora) (as described above) before doing an update.
 
-*** What do I do about all these PGErrors, like disconnects and SSL problems?
+***What do I do about all these PGErrors, like disconnects and SSL problems?***
 
 If you are running Diaspora with PostgreSQL, beware that having [the ssl setting](http://www.postgresql.org/docs/9.1/interactive/runtime-config-connection.html#GUC-SSL) turned on in the PostgreSQL config has been causing problems for several people.  We recommend turning it off unless you know what you're doing.
+
+***What's up with assets/jammit/js-runtime?***
+
+The recent update to Rails 3.1 made it possible for us to use the included asset compilation mechanism and therefore drop the requirement for jammit and a Java environment. The new method requires a JavaScript runtime like [Node.js](http://nodejs.org/) or [TheRubyRacer](https://github.com/cowboyd/therubyracer) to be installed, though. See the [specific distribution guides](Installation-Guides) for how to install them. After it has been installed, you can compile the assets by running `bundle exec rake assets:precompile`. See the [installation guide](Notes-on-Installing-and-Running-Diaspora) for more detailed instructions.
 
 ## What if my question isn't answered here?
 
