@@ -150,8 +150,9 @@ You will also need nodejs. Currently this is not available in the stable release
 
 These instructions are from [[http://sekati.com/etc/install-nodejs-on-debian-squeeze]]
 
-Last of all, you need to install the execjs gem.
+Last of all, you need to install the execjs gem
 
-   sudo gem install execjs
+    sudo gem install execjs
+
 
 ## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
