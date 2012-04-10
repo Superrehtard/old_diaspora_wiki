@@ -74,4 +74,8 @@ To install Bundler, run the following:
 
         su -c  'gem install bundler'
 
+#### Node.js
+
+Follow the instructions on [Installing-Node.js-via-package-manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager) for Fedora to install the Node.js package from their repository
+
 ## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
