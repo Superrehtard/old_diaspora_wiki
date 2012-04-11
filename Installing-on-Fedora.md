@@ -16,7 +16,7 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This 
 
 You still need a system Ruby so run:
 
-    sudo apt-get install ruby-devel
+    sudo yum install ruby-devel
 
 ### MySQL
 
