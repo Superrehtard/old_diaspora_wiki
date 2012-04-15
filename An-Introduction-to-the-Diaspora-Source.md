@@ -1,18 +1,41 @@
 ##Framework and Tools:
 
-Diaspora is written in Ruby on Rails, a web framework for Ruby.  If you’ve never looked at a Rails project, you may want to check out a [Rails guide like this one](http://guides.rubyonrails.org/getting_started.html).
+Diaspora is written in **[Ruby on Rails][ror]**, a web framework for Ruby.  
+If you’ve never looked at a Rails project, you may want to check out a [Rails guide like this one][ror-getting-started].
 
 There are a few tools we’re using that aren’t in every rails project: 
 
-Our views are written in HAML, a templating language.  The HAML docs are [here](http://haml-lang.com/docs.html).
+* **Haml**  
+  Our views are written in HAML, a templating language.  The HAML docs are [here][haml]. 
+  You can find them under `app/views`.
+* **Sass**  
+  Our CSS is written in [SASS], which generates CSS.
+  The syntax is inspired by HAML, and quite similar. If you want to edit the stylesheets, 
+  look in `app/assets/stylesheets/sass/`.  
+  ***Note:*** Both HAML and SASS are whitespace sensitive.
+* **Backbone.js & Handlebars.js**  
+  The client-side functionality and rendering is mostly done with [Backbone.js][backbone], 
+  which communicates [REST]-fully with the server and triggers the rendering of the 
+  [Handlebars.js][handlebars] templates. The logic is found in `app/assets/javascripts/app` and the 
+  templates are located in `app/assets/templates`
 
-Our CSS is written in [SASS](http://sass-lang.com/docs.html), which generates CSS.  The syntax is inspired by HAML, and quite similar.  If you want to edit the stylesheets, look in public/stylesheets/sass/.
-
-Both HAML and SASS are whitespace sensitive.
+[ror]: http://rubyonrails.org/
+[ror-getting-started]: http://guides.rubyonrails.org/getting_started.html
+[haml]: http://haml-lang.com/docs.html
+[sass]: http://sass-lang.com/docs.html
+[backbone]: http://documentcloud.github.com/backbone/
+[rest]: https://en.wikipedia.org/wiki/Representational_state_transfer
+[handlebars]: http://handlebarsjs.com/
 
 ##Testing:
 
-*Please test your patches.*  If you find a bug, exposing it with a test is awesome.  We write our unit tests in [Rspec](http://blog.davidchelimsky.net/2007/05/14/an-introduction-to-rspec-part-i/), and integration tests in [Cucumber](http://rubylearning.com/blog/2010/10/05/outside-in-development/).  We need more integration tests!  Specs are in spec/, and Cucumber features are in features/.
+Our goal is to test *everything*. If you find a bug, you first expose it by writing a tests that fails because of the bug. Only then you start fixing the actual code. This is called [Test Driven Delopment][tdd] (TDD).  
+We write our unit tests for ruby code in [Rspec], the JavaScript test are in [Jasmine] and integration tests in [Cucumber]. Specs are in `spec`, and Cucumber features are in `features`. For more details see our page on [[Testing workflow]].
+
+[tdd]: https://en.wikipedia.org/wiki/Test-driven_development
+[rspec]: http://blog.davidchelimsky.net/2007/05/14/an-introduction-to-rspec-part-i/
+[jasmine]: http://pivotal.github.com/jasmine/
+[cucumber]: http://rubylearning.com/blog/2010/10/05/outside-in-development/
 
 ##The Models:
 
