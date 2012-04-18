@@ -36,13 +36,12 @@ become a Diaspora contributor.
 
 * Answer a new user's question on the offical help tags on your pod
   (examples: #help, #feature, #question)
-* File a bug on [GitHub](https://github.com/diaspora/diaspora/bugs)
-* Answer a question on [GetSatisfaction](https://getsatisfaction.com/) 
+* File a bug on [GitHub](Report-a-bug)
 * [Tweet about Diaspora](http://twitter.com/home?status=Wow%2C%20the%20%23diaspora%20community%20is%20amazing!%20http%3A%2F%2Fbit.ly%2FeT7lzY)
 * Invite a friend
 * [Edit this wiki]()
 * join the [Diaspora Discuss](https://groups.google.com/forum/#!forum/diaspora-discuss) mailing list
-* [Donate to Diaspora](http://bit.ly/nSSfvr)
+* [Donate to Diaspora](https://diasporaproject.org/donate)
 
 
 *as a hacker*
@@ -58,18 +57,18 @@ become a Diaspora contributor.
 
 * write a blog post about Diaspora
 * make some fan art
-* come chat with us in Diaspora on IRC
+* [come chat with us](How-we-use-IRC) in Diaspora on IRC
 * contribute a translation in your favorite language
 
 *as a hacker*
 
 * give a code review to a recent commit
 * fix a 'quickfix' bug 
-* come hang out with us on #diaspora-dev
+* come hang out with us on [#diaspora-dev](How-we-use-IRC)
 * document some code to get a better idea of how the code works
 * add posting to your favorite service to Diaspora\*
 * backfill tests
-* get your development enviroment set up
+* get your [development enviroment set up](Installation-Guides)
 
 
 ### If you have a couple of hours
@@ -82,7 +81,7 @@ become a Diaspora contributor.
 
 *as a hacker*
 
-* Build a new feature
+* [Build a new feature](Getting-Started-With-Contributing)
 * Write a paper on Diaspora's federation or authentication protocols
 * Refactor and improve code
 
