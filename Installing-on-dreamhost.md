@@ -60,10 +60,6 @@ Passenger equivalent to restart is
 
         $ touch tmp/restart.txt
 
-You have to run jammit to have the layout come properly
-
-        $ RAILS_ENV=production ~/.gems/bin/bundle exec jammit
-
 Starting resque (you can skip this step if you are going to use single_process_mode)
 
         $ RAILS_ENV=production QUEUE=* nohup ~/.gems/bin/bundle exec rake resque:work &
