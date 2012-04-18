@@ -45,4 +45,10 @@ Plus Rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhil
 There's a lot of unused images in there that we don't need, so it kind of makes for a waste of space.
 
 ### 12) Carrier-Wave Improvements 
-Make Carrier-Wave upload to a /tmp directory for tests, and clean up when done. 
+Make Carrier-Wave upload to a /tmp directory for tests, and clean up when done.
+
+### 13) Improve Mobile Site
+Currently, our mobile site is relatively simplistic, and could use some tweaking to be made more accessible. A discussion needs to happen to figure out what new features would be desirable.
+
+### 14) Add Tests to [This Pull Request](https://github.com/diaspora/diaspora/tree/xray7224-adds-lang-url-param)
+This was contributed to us by a user. It's a relatively simple fix, but the contributor was unable to write tests for it. Let's help this person out and make sure that we can get it merged in!
