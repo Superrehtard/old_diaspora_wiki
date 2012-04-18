@@ -9,7 +9,7 @@ to IRC channels and mailing lists are at the bottom of this page.**
 
 ***How do I get debug information?***  
 You can use the command  
-    tail -f log/development.log
+    `tail -f log/development.log`  
 to watch the log in development mode.
 
 ***How do I get the latest source?***
