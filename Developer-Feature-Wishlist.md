@@ -26,7 +26,7 @@ There are a bunch of things a seasoned Rails dev would want to do here.  Utilize
 ### 6) Improve admin interface  
 We already have rails admin running in a branch (link). It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
 
-### 7) Pod Customization (In Progress)**](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/i4_wvLQaZJ8). 
+### 7) Pod Customization (In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/i4_wvLQaZJ8). 
 We're discussing how to turn some variables into strings to make pod customization easier for podmins without needing to fork from the main codebase. It's a great starting point for figuring out how further to customize a pod.
 
 ### 8) Save image dimensions with every image file 
