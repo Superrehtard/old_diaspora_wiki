@@ -17,3 +17,4 @@ Code Chats are logged so that anyone that misses out can still tune in and see w
 * [March 1st, 2012] (http://pastebin.com/BFzBegVD)
 * [March 15th, 2012](http://pastebin.com/v38rU3pJ)
 * [March 29th, 2012](http://pastebin.com/tAxt6zE7)
+* [April 19th, 2012](http://pastebin.com/Nx8DnpMn)
