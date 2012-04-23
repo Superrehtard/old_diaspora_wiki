@@ -1,0 +1,1 @@
+This page has moved! Please check [here](https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-Diaspora)
