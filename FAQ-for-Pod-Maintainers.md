@@ -65,6 +65,14 @@ If you're missing your images in the production environment, change serve_static
 1. Help, why are there no images on my pod?
 You are most likely in production mode, or your apache/nginx is not serving static assets.  If you want to just run your server from your thin on port 3000, you can set ruby to servce static assets by changing %{the setting}
 
+  _When deploying to heroku:_
+  Be sure to check that the serve_static_assets is set to true in the production block of your  config/application.yml file.
+
+        config/application.yml
+        production:
+          <<: *defaults
+          serve_static_assets: true
+
 
 2.  Webfinger does not seem to be working!
  Is your resque worker running?   Can you see the error in resque web? Does your SSL cert check out?(link for cert checker)  We do not support self signed certs, but you can get a free one here and here
