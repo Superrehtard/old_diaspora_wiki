@@ -229,3 +229,21 @@ $ heroku open
 ```
 
 That's it. Assuming you or I didn't make any mistakes here, you should have a fully functioning pod. Please note that while federation works with this configuration, it may take a couple days to start seeing posts from other pods (and, currently, you will only see posts from pods where at least one user is sharing with you).
+
+## Troubleshooting
+
+### Assets
+
+If your assets are not showing after a successful deployment make sure of that the `serve_static_assets` flag is set to `true` in both:
+
+    config/environments/production.rb
+    # Disable Rails's static asset server
+    # In production, Apache or nginx will already do this
+    config.serve_static_assets = true
+
+and in
+
+    config/application.yml
+    production:
+      <<: *defaults
+        serve_static_assets: true
