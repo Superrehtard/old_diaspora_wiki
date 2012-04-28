@@ -9,10 +9,14 @@ to IRC channels and mailing lists are at the bottom of this page.**
 
 ***How do I get the latest source?***
 
-Pull the latest from github:
+Pull the latest from github.
+
     git pull
+
 Install any updates to gems:
+
     bundle install
+
     
 ***How do I reset the database to a totally clean state?***
 
@@ -21,8 +25,11 @@ Install any updates to gems:
     rake db:migrate
 
 ***How do I get debug information?***  
+
 You can use the command  
-    `tail -f log/development.log`  
+
+    tail -f log/development.log
+
 to watch the log in development mode.    
 
 ## What if my question isn't answered here?
