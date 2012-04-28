@@ -7,11 +7,6 @@ to IRC channels and mailing lists are at the bottom of this page.**
 
 ##Developer FAQ
 
-***How do I get debug information?***  
-You can use the command  
-    `tail -f log/development.log`  
-to watch the log in development mode.
-
 ***How do I get the latest source?***
 
 Pull the latest from github:
@@ -24,7 +19,11 @@ Install any updates to gems:
     rake db:drop
     rake db:create
     rake db:migrate
-    
+
+***How do I get debug information?***  
+You can use the command  
+    `tail -f log/development.log`  
+to watch the log in development mode.    
 
 ## What if my question isn't answered here?
 
