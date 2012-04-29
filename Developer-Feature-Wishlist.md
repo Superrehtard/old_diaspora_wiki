@@ -38,10 +38,10 @@ Ask Max for more info.
 ### 9) Welcome email 
 After a user has signed up, email them with helpful information.
 
-### 10) Upgrade [ActsasTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) to be inline with master
-Plus Rafi’s fixes to get rid of deprecation warnings.  Raphael forked it awhile back, but we want to try and get our small amount of fixes up to date with the latest gem release to remove deprecation warnings. Currently, the [forked repo](https://github.com/diaspora/acts-as-taggable-on) of the same is in use.
+### 10) [JavaScript to add tags](https://groups.google.com/forum/?fromgroups#!searchin/diaspora-dev/ktkaushik/diaspora-dev/hGBWPxwAEQQ/HjpwIK-KYlwJ)
+Adding a tag under the ``/followed_tags`` should be using JavaScript to do so. It would be cool to have that feature. Also, considering the fact that deleting a tag is already using one, we think it should be in symmetry. 
 
-### 11) Clean out Images folder [In Progress](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/GkZTsDyTZCw) 
+### 11) [Clean out Images folder (In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/GkZTsDyTZCw) 
 There's a lot of unused images in there that we don't need, so it kind of makes for a waste of space.
 
 ### 12) Carrier-Wave Improvements 
@@ -52,3 +52,6 @@ Currently, our mobile site is relatively simplistic, and could use some tweaking
 
 ### 14) Add Tests to [This Pull Request](https://github.com/diaspora/diaspora/tree/xray7224-adds-lang-url-param)
 This was contributed to us by a user. It's a relatively simple fix, but the contributor was unable to write tests for it. Let's help this person out and make sure that we can get it merged in!
+
+### 15) Document the code.
+Please document the existing code and also consider documenting your code as much as you can when you send us a pull request. It helps others who fork the repository to understand and work on it.
