@@ -2,6 +2,8 @@
 
 ## 2012
 ### April
+* New quick-setup script to get started with a dev-installation
+* Bootstrap is now unified into one version
 * Update to Rails 3.1 + new asset pipeline
 
 ### March
