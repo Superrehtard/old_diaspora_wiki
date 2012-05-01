@@ -1,4 +1,4 @@
-# Become a part of the Diaspora Commuintiy 
+# Become a part of the Diaspora community 
 
 Diaspora\* is an eclectic community.  We have
 artists, teachers, moms, children, designers, hackers, and activists
