@@ -11,6 +11,7 @@ A restructuring and cleanup of documentation is necessary. Furthermore, we have 
 3. What snags have you run into in trying to run your own pod, and what would you like documented about those problems?
 4. Is there anything in the documentation that just plain doesn't make sense to you?
 5. Do you feel that the GitHub wiki serves its purpose well, or do you think a different solution would be necessary in the future? (MediaWiki, MoinMoin, Tiddlywiki, etc.)
+6. Have you found a page that isn't directly relevant to technical documentation, community guidelines, or a guide?
 
 ## Who should the feedback go to?
 
