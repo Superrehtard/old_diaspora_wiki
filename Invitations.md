@@ -29,7 +29,3 @@ for details.
 2. There is also an Identi.ca group called <a href="http://identi.ca/group/diasporainvites">!diasporainvites</a> to which you can post to request an invitation.
 
 3. There is also a <a href="http://www.reddit.com/r/technology/comments/g9pw5/the_diaspora_invite_diaspora/?sort=new">diaspora invite party on reddit.com</a>. You can post a comment with your email or pm someone who has invites.
-
-4. There is a <a href="http://getsatisfaction.com/diaspora/topics/when_will_i_get_invited">thread on Getsatisfaction.com</a> (feedback system used by diaspora) for getting invites.
-
-5. There is a <a href="https://profiles.google.com/anivar.aravind/posts/39DatXEBaUm">Diaspora invite party on Google Buzz</a>. It is in Malayalam, but you can post your request in English.
