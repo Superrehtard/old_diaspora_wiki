@@ -1,1 +1,0 @@
-The contents of this page have been moved to the [[FAQ for Users]].
