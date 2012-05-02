@@ -8,3 +8,9 @@ A discussion over a possible client-server model.
 
 ## [Linked Data](https://github.com/diaspora/diaspora/wiki/Linked-Data)
 This is a discussion on whether it would be beneficial to make use of Linked Data in Diaspora, and some ideas about a general implementation.
+
+## [Message Semantics](https://github.com/diaspora/diaspora/wiki/Diaspora's-message-semantics)
+This document describes the semantics of each type of message that Diaspora pods send to one another. Together, they constitute the semantics of Diaspora's federation.
+
+## [Message Passing](https://github.com/diaspora/diaspora/wiki/Message-passing-in-Diaspora)
+An explanation of how encrypted messages are passed between Diaspora pods
