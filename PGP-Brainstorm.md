@@ -1,4 +1,4 @@
-Pretty Good Diaspora brainstorm
+Diaspora PGP Brainstorm
 ====================
 
 
