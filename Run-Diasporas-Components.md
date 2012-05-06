@@ -26,10 +26,7 @@ This is absolutely needed unless you want to use a different appserver like mod_
 
 To start the resque worker run the following command:
 
-        QUEUE=* bundle exec rake resque:work
+    QUEUE=* bundle exec rake resque:work
 
 This is also essential unless you turn on single_process_mode in config/application.yml which is absolutely unrecommended for production environments. Resque is used for time intensive jobs like sending mail, sending and receiving messages from other pods etc.
 You can disable that by turning "mount_resque_web" to false in your application.yml.
-
-
-
