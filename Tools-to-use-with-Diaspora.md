@@ -12,6 +12,8 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
 
+*   [Diaspora* Advanced Sharer](https://addons.mozilla.org/en-US/firefox/addon/diaspora-advanced-sharer/) - (Firefox) share current page using [Diaspora* Advanced Sharer](http://sharetodiaspora.github.com/about/) service to any pod
+
 
 #### Cubbi.es extensions 
     
@@ -41,8 +43,6 @@ _Links to various tools built by the community for use with Diaspora._
 
 
 ### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
-
-*   [Diaspora* Sharing Service (DSS)](http://www.basshero.org/page/show/dss) working for every pod, on wordpress.com, self-hosted wordpress, blogger and any page where you can embed HTML and JavaScript 
 
 *   [German Data Protection Act Button](http://blog.pgs-info.de/index.php/2011/08/24/social-media-buttons-datenschutzkonform) with regard to German Data Protection Act (German only ATM)
 
