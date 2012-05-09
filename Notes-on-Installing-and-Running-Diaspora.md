@@ -112,7 +112,7 @@ Diaspora needs to know what host it's running on. Copy config/application.yml.ex
 to config/application.yml, put your external url into the pod_url field, and make any other
 needed configuration changes.
 
-To use `./script/server` copy config/script_server.yml.example to config/script_server.yml and edit it properly.
+To run as a rails app, copy config/script_server.yml.example to config/script_server.yml and edit it properly.
 
 
 ### Background
@@ -176,7 +176,7 @@ To improve the performance on large-scale pods, it makes sense to run many thin 
 default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV"
 ```
 
-This will instruct the `./script/server` script to run thin instances on $THIN_PORT and the next *n-1* ports. Make sure that your Nginx configuration knows about these servers by adding them to the list of upstream servers. E.g.: if the thin port is 3000 and you want to cluster five servers, the upstream section of your Nginx configuration should look like this:
+This will instruct the script to run thin instances on $THIN_PORT and the next *n-1* ports. Make sure that your Nginx configuration knows about these servers by adding them to the list of upstream servers. E.g.: if the thin port is 3000 and you want to cluster five servers, the upstream section of your Nginx configuration should look like this:
 
 ```nginx
 upstream diaspora_thin_cluster {
@@ -211,7 +211,9 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 
 ## Running Diaspora
 
-To turn on the server use the command `./script/server`. This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
+To turn on the server use the command `rails s` from the working directory. 
+
+This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
 
 Note: Ensure your database servers (Redis and MySQL or PostgreSQL) are running before trying to start the server.
 
