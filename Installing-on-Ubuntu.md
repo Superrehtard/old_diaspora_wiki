@@ -47,7 +47,7 @@ To get bundle to work (**bundle install** step later), you might need to make a 
 
 ## Done
 
-Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+Congrats! You have all your dependencies installed. Go back to [Installing and Running Diaspora](https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-Diaspora).
 
 
 
