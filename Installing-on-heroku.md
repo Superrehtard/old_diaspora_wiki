@@ -1,6 +1,6 @@
 Notice: This is a work in progress, it covers the author's own experience deploying to Heroku and may or may not be the "best" way (but it worked for me). I have specifically not covered getting file uploads working because I haven't gotten that far yet. Most people will use Amazon S3 or RackSpace Cloud for hosting uploaded files and I believe that is explained thoroughly enough in other installation guides and/or the application's config files. If you have any questions or suggestions or you notice something I left out, please contact me, @stevenh512 here on github or stevenh512@diasp.org on D* (or feel free to edit this page, it is a wiki afterall). I'm not part of the core team, but I did volunteer to write this up so I'll take responsibility for any errors or omissions. :)
 
-Heroku runs your application in a virtual machine known as a "dyno" running a customized version of Ubuntu Server. A single-dyno app is free, the biggest drawbacks are the read-only filesystem and the requirement to use an external MySQL database.
+Heroku runs your application in a virtual machine known as a "dyno" running a customized version of Ubuntu Server. A single-dyno app is free, the biggest drawbacks are the read-only filesystem and the requirement to use an external MySQL database. Fortunately, Diaspora can be run as a single-dyno app on Heroku with a little bit of work.
 
 ### Creating your Heroku application
 
@@ -11,7 +11,7 @@ $ gem install bundler
 $ gem install heroku
 ```
 
-Create your own private fork of the Diaspora code and be sure to keep a backup somewhere private, such as a flash drive, a private github reposotory or a Dropbox account. Do _not_ put it in a public repository, this will be the copy you deploy to Heroku and may contain some sensitive configuration info.
+Create your own private fork of the Diaspora code and be sure to keep a backup somewhere private, such as a flash drive, a private GitHub reposotory or a Dropbox account. Do _not_ put it in a public repository, this will be the copy you deploy to Heroku and may contain some sensitive configuration info.
 
 For illustration purposes, we'll use `mypod` as the name of the new Heroku app we're creating. Since `mypod` is already in use, you'll need to come up with a name before you go any further or use the random name Heroku assigns. We'll also assume you're using Heroku's shared SSL and a domain like `mypod.herokuapp.com` but it is also possible to use your own domain and SSL certificate.
 
@@ -22,7 +22,6 @@ $ heroku create mypod --stack cedar
 $ heroku config:add DB=mysql
 $ heroku labs:enable user_env_compile
 $ heroku labs:enable sigterm-all
-$ heroku addons:add ssl:piggyback
 $ heroku addons:add redistogo:nano
 ```
 
@@ -167,7 +166,7 @@ after_fork do |server, worker|
 end
 ```
 
-The important lines here are the ones that start with `@resque_pid`, this causes Unicorn to spawn your Resque worker process in the background before it forks and starts the server.
+The important lines here are the ones that start with `@resque_pid`, this causes Unicorn to spawn your Resque worker process in the background before it forks and starts the server. If you're deploying a public pod and expect to have a lot of traffic you'll probably want to skip this step and scale your `catchall_worker` process as needed.
 
 Now you're ready to push your code to Heroku, execute the following commands:
 
@@ -226,6 +225,13 @@ $ git add .
 $ git commit -am 'Admin user and customizations'
 $ git push heroku master
 $ heroku open
+```
+
+You should also type `heroku run console` and run the following in the Rails console:
+
+```
+Role.load_admins
+Role.load_spotlight
 ```
 
 That's it. Assuming you or I didn't make any mistakes here, you should have a fully functioning pod. Please note that while federation works with this configuration, it may take a couple days to start seeing posts from other pods (and, currently, you will only see posts from pods where at least one user is sharing with you).
