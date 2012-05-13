@@ -211,7 +211,7 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 
 ## Running Diaspora
 
-To turn on the server use the command `rails s` from the working directory. 
+To turn on the server use the command `./script/server` from the working directory. 
 
 This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
 
