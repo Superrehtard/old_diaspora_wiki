@@ -1,6 +1,6 @@
 Below is a curated feature wishlist of things **the core team** love to have some help with for the Diaspora project. 
 
-**If you choose one these features, a core team member will help you get your pull request merged**
+**If you choose one these features, a core team member will help you get your pull request merged**.  It is a fast track way to get involved with the Diaspora* codebase.
 
 **Community developers are more than welcome to dive in and work on these at any time, please [contact the mailing list](https://groups.google.com/forum/?fromgroups#!forum/diaspora-dev) about any of the items listed below that you'd like to help with. Also, don't be afraid to join in and help out other developers with existing projects**
 
