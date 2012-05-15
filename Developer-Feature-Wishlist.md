@@ -4,9 +4,6 @@ Below is a feature wishlist of things we'd love to have some help with for the D
 
 "In Development" items will be linked with a thread to Google groups, so as to encourage collaboration and avoid duplicating effort.
 
-### 1) [Fix and refactor emails (in Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/Zk-3RIYGVag) 
-There are tons of duplication, lack of a sane simple email template, and the divide between HTML and text is huge.  We should strip them down to a more basic single template and remove much of the ugly HTML stuff in the invite et. all we were including. Also, it would be awesome to give some due dillegence to figuring out what kinds of data we link in each email, and make it consistent across the board.
-
 ### 2) [Refactor AppConfig and EnviromentConfiguration.(In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/XcWTJn-IsUY)
 AppConfig is the current class that handles loading Diaspora’s settings from application.yml.  It has grown into a bit of beast, worring about bootstate, data munging, and a few related helpers.  The time to clean it up is now!  We should move all logic out of AppConfig, and let it just be a SettingsLogic class.  Then, we should access everything via EnviromentConfiguration, delegating applicable keys and to AppConfig.
 
