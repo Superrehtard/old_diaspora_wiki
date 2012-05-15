@@ -4,6 +4,9 @@ Below is a feature wishlist of things we'd love to have some help with for the D
 
 "In Development" items will be linked with a thread to Google groups, so as to encourage collaboration and avoid duplicating effort.
 
+### 0) Document the code.
+Please document the existing code and also consider documenting your code as much as you can when you send us a pull request. It helps others who fork the repository to understand and work on it.
+
 ### 1) [Fix and refactor emails (in Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/Zk-3RIYGVag) 
 There are tons of duplication, lack of a sane simple email template, and the divide between HTML and text is huge.  We should strip them down to a more basic single template and remove much of the ugly HTML stuff in the invite et. all we were including. Also, it would be awesome to give some due dillegence to figuring out what kinds of data we link in each email, and make it consistent across the board.
 
@@ -53,5 +56,4 @@ Currently, our mobile site is relatively simplistic, and could use some tweaking
 ### 14) Add Tests to [This Pull Request](https://github.com/diaspora/diaspora/tree/xray7224-adds-lang-url-param)
 This was contributed to us by a user. It's a relatively simple fix, but the contributor was unable to write tests for it. Let's help this person out and make sure that we can get it merged in!
 
-### 15) Document the code.
-Please document the existing code and also consider documenting your code as much as you can when you send us a pull request. It helps others who fork the repository to understand and work on it.
+### 15) Improve interoperability with the [Friendica](http://friendica.com) network
