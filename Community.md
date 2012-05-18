@@ -9,9 +9,6 @@ Community engagement is one of the most important tools to getting new users acc
 ## [Community Code Chat](https://github.com/diaspora/diaspora/wiki/Code-Chat)
 The Diaspora core team holds a community chat every other week to tell the community at large about what's going on with the project, future goals, and where they're at. This link also keeps copies of logs from previous chat sessions.
 
-## [Diaspora Lexicon](https://github.com/diaspora/diaspora/wiki/lexicon)
-Some helpful terms and information.
-
 ## [Community Discussion]()
 There are several ways to get involved with talking to the community.
 
