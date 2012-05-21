@@ -13,6 +13,10 @@ This is for Ubuntu 11.10. There are other steps than just this one:
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline-gplv2-dev openjdk-7-jre
 
+This is for Ubuntu 12.04. There are other steps than just this one:
+
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5 openjdk-7-jre
+
 For both run this if you are not going to use RVM:
 
     wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.15-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
@@ -24,8 +28,8 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This 
 To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run
 
 ```bash
-rvm install ruby-1.9.2-p290
-rvm use ruby-1.9.2-p290@global
+rvm install ruby-1.9.3-p194
+rvm use ruby-1.9.3-p194@global
 ```
 
 ### Start MySQL (optional, depending on your platform):
@@ -104,7 +108,7 @@ To install ImageMagick, run the following:
 
     sudo apt-get install imagemagick libmagick9-dev
 
-If you're on **Ubuntu 10.10** use the following instead:
+If you're on **Ubuntu 10.10 or 12.04** use the following instead:
 
     sudo apt-get install imagemagick libmagickwand-dev
 
