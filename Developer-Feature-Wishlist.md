@@ -23,7 +23,7 @@ See these(https://github.com/diaspora/diaspora/blob/master/features/post_viewer.
 There are a bunch of things a seasoned Rails dev would want to do here.  Utilize more rescue_froms to reduce branching, breaking really big actions into objects that are delegated to, to just improving and backfilling tests.  This is not the most glamorous of things on this list, but it would be much appreciated.
 
 ### 6) Improve admin interface  
-We already have rails admin running in a branch (link). It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
+We already have rails admin running. It might still need some configuration tweaking. We could make a couple of static pages, and move some of our custom functionality to the rails_admin side of things. Other ideas are basic webfingering other pod dev tools, showing the list of connected pods, and adding links to things like resque status etc etc.
 
 ### 7) Pod Customization [(In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/i4_wvLQaZJ8). 
 We're discussing how to turn some variables into strings to make pod customization easier for podmins without needing to fork from the main codebase. It's a great starting point for figuring out how further to customize a pod.
