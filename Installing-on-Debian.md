@@ -100,8 +100,10 @@ Then install the corresponding package
 
 #### Note about libjemalloc1 on Debian Squeeze
 If you have problems getting the required lib multiarch-support installed, try installing it with aptitude and reinstall redis-server:
+
     sudo aptitude install multiarch-support
     sudo aptitude install redis-server
+
 ### RubyGems
 
 Not needed for a RVM installation.
