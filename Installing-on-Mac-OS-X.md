@@ -62,4 +62,4 @@ To install Bundler, run the following:
 
         sudo gem install bundler 
 
-## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+## Congrats! You have all your dependencies installed. Go back to [[Notes on Installing and Running Diaspora]].
