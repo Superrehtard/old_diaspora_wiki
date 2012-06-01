@@ -1,1 +1,1 @@
-#REDIRECT [[Notes-on-Installing-and-Running-Diaspora]]
+This page has moved to: [[Notes-on-Installing-and-Running-Diaspora]]
