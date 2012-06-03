@@ -10,6 +10,8 @@ A very basic example of this "_show.html.haml" file would be something like:
     %h2 Welcome to my pod!
 ```
 
+You should also delete the "index.html" or "default.html" (or whatever default files your web server may use) in the app/public directory, if any, as rails gives precedence to static content before serving dynamic content.
+
 That should do it. If needed examine the "routes.rb" to ensure the section below exists in the file.
 
 The file config/routes.rb lists the mapping between requests and controllers. The lines concerning the splash screen are:
@@ -17,5 +19,3 @@ The file config/routes.rb lists the mapping between requests and controllers. Th
   # Startpage
   root :to => 'home#show'
 ```
-
-You must delete the index.html or default.html (or whatever file your web server may use) in the app/public directory, if any, as rails gives precedence to static content before serving dynamic content.
