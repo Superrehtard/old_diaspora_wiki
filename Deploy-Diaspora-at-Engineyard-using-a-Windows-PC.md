@@ -1,4 +1,4 @@
-**Using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to Enginyard.**
+**Using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to Engineyard.**
 
 For a few reasons this environment i recommend only for testing.
  - it is a service intended for developers 
