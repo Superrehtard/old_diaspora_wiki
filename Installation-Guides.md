@@ -18,7 +18,7 @@ In case you're a [PageKite](http://pagekite.net/) user, you can set up the servi
 
 ### [EngineYard] (https://github.com/diaspora/diaspora/wiki/Deploy-Diaspora-at-Engineyard-using-a-Windows-PC)
 
-Using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to Enginyard.
+Using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to Engineyard.
 
 
 ### OS/Distribution Specific
