@@ -16,7 +16,7 @@ How to set up Diaspora on a single Heroku dyno. Useful for running a personal po
 ### [PageKite](https://github.com/diaspora/diaspora/wiki/How-to-Use-Pagekite-to-Link-Your-Own-Domain-Name-to-a-Local-Network-Diaspora-Pod)
 In case you're a [PageKite](http://pagekite.net/) user, you can set up the service to point to your own locally-hosted pod.
 
-### [EngineYard] (https://github.com/diaspora/diaspora/wiki/Deploy-Diaspora-at-Engineyard-using-a-Windows-PC)
+### [EngineYard] (https://github.com/diaspora/diaspora/wiki/Deploy-Diaspora-to-Engineyard-using-a-Windows-PC)
 Deploy Diaspora to EngineYard using a Windows PC. This wiki explains using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to EngineYard.
 
 
