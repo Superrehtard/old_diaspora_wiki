@@ -13,7 +13,7 @@ The Diaspora core team holds a community chat every other week to tell the commu
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
 
-## [Documentation Team]()
+## [Documentation Team](https://github.com/diaspora/diaspora/wiki/Documentation-Team)
 There are several ways to get involved with talking to the community.
 
 ## [Other Ways to Contribute](https://github.com/diaspora/diaspora/wiki/Other-Ways-to-Contribute)
