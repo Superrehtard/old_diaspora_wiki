@@ -21,7 +21,7 @@ Boot the services with default values and use the one click install to install a
 
 **4)** Go to https://github.com/diaspora/diaspora and make your own "fork" of the Diaspora code at GitHub. A fork is just your own copy of the code with version dependencies attached. Then use the [Clone] button to copy your forked repository to your local PC.
 
-**5)** DEPLOY KEYS. When you create a git application at engineyard and specify the github address it will walk you through the produce of creating and returning a deploy key for github. When things get confusing you can always nuke everything and start again... carry on... have fun...
+**5)** DEPLOY KEYS. When you create a git application at engineyard and specify the github address it will walk you through the process of creating and returning a deploy key from github. When things get confusing you can always nuke everything and start again... carry on... have fun...
 
 **6)** Before you deploy there are just a few files that need to be created to configure your default Diaspora code to your engineyard cloud environment. They are "_application.yml_" and "_database.yml_" which are NOT found in the "_config_" directory as part of the git package. 
 
@@ -31,12 +31,12 @@ Do the same with _database.yml._ No changes need to be made to the default file 
 
 **7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
 
-**8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to search for and display members on remote pods.
+**8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to find and display known members of remote pods by handle _name@pod.com_ from the search box.
 
 If that works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features.
 
 **9)** You probably ran into some problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. :)
 
-MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find errors or missing information or useful tips or links please add them here! Explore, pull updates, make changes and redeploy your forked code! If you find bugs or have suggestions please contribute!
+MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find errors or missing information or useful tips or links please add them here! Explore code, pull updates, make changes and redeploy your fork! If you find bugs or have suggestions please contribute!
 
 https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing
