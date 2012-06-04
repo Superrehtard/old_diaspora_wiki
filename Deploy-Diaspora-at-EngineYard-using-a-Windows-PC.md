@@ -15,7 +15,9 @@ http://www.github.com
 http://windows.github.com/
 Any Git for Windows will do, but GitHub for Windows is pre-configured for GitHub.
 
-**3)** Sign up for the EngineYard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values. Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
+**3)** Sign up for the EngineYard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values.
+
+Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
 
 **4)** Go to https://github.com/diaspora/diaspora and make your own "fork" of the Diaspora code at GitHub. A fork is just your own copy of the code with version dependencies attached. Then use the [Clone] button to copy your forked repository to your local PC.
 
@@ -23,14 +25,16 @@ Any Git for Windows will do, but GitHub for Windows is pre-configured for GitHub
 
 **6)** Before you deploy there are just a few files that need to be created to configure your default Diaspora code to your engineyard cloud environment. They are "_application.yml_" and "_database.yml_" which are NOT found in the "_config_" directory as part of the git package. 
 
-To create them, make SURE that Git for Windows is running, use it to open an explore to your repository. Open the provided _application.yml.example_ file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension. Do the same with _database.yml._ No changes need to be made to the default file _database.yml_ in this case. Then "commit" and "sync" as needed in Git for windows. Make sure it shows up as 'in sync' before you continue.
+To create them, make SURE that Git for Windows is running, use it to open an explore to your repository. Open the provided _application.yml.example_ file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension.
+
+Do the same with _database.yml._ No changes need to be made to the default file _database.yml_ in this case. Then "commit" and "sync" as needed in Git for windows. Make sure it shows up as 'in sync' before you continue.
 
 **7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
 
 **8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to search for and display members on remote pods.
 
-If this works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features.
+If that works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features.
 
 **9)** You probably ran into some problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. :)
 
-MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find information or useful tips or links please add them here! If you find bugs please contribute to the code!
+MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find errors or missing information or useful tips or links please add them here! Explore, pull updates, make changes and redeploy to your forked code! If you find bugs please contribute to the code!
