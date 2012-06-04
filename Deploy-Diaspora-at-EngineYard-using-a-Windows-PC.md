@@ -38,3 +38,5 @@ If that works then you can install a free Class 1 SSL cert from various provider
 **9)** You probably ran into some problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. :)
 
 MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find errors or missing information or useful tips or links please add them here! Explore, pull updates, make changes and redeploy your forked code! If you find bugs or have suggestions please contribute!
+
+https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing
