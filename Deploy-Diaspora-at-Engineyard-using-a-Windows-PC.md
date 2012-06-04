@@ -14,7 +14,7 @@ http://www.github.com
 
 http://git-scm.com/downloads
 
-**3)** Sign up for the Enginyard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values. Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
+**3)** Sign up for the Engineyard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values. Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
 
 **4)** Go to https://github.com/diaspora/diaspora and make your own "fork" of the Diaspora code at GitHub. A fork is just your own copy of the code with version dependencies attached. Then use the "clone" button to copy your forked repository to your local PC.
 
