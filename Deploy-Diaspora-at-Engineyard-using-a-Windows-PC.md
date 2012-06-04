@@ -10,7 +10,7 @@ For a few reasons this environment i recommend only for testing.
 **1)** First setup a free account at GitHub (git and github can be confusing at first, don't worry, keep going.)
 http://www.github.com
 
-**2)** Then download and install the latest version stable of GitHub for Windows. At the time of writing it is 1.7.10.4
+**2)** Then download and install the latest version stable of GitHub for Windows. At the time of writing it is 1.0.7
 
 http://windows.github.com/
 
@@ -22,9 +22,9 @@ http://windows.github.com/
 
 **6)** Before you deploy there are just a few files that need to be created to configure your default Diaspora code to your engineyard cloud environment. They are "application.yml" and "database.yml" which are NOT found in the 'config' directory as part of the git package. 
 
-To create them, make SURE that Git for windows is running, use it to open an explore to your repository. Open the provided application.yml.example file, make the changes to the URL and Pod Name then save them without the .example extension. Then "commit" and "sync" in Git for windows.
+To create them, make SURE that Git for windows is running, use it to open an explore to your repository. Open the provided application.yml.example file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension. Do the same with database.yml. No changes need to be made to the default file database.yml in this case. Then "commit" and "sync" in Git for windows.
 
-**7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create a empty database for the app.
+**7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
 
 Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to search for and display members on remote pods.
 
