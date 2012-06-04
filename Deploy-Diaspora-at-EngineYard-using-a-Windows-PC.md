@@ -23,7 +23,7 @@ Any Git for Windows will do, but GitHub for Windows is pre-configured for GitHub
 
 **6)** Before you deploy there are just a few files that need to be created to configure your default Diaspora code to your engineyard cloud environment. They are "_application.yml_" and "_database.yml_" which are NOT found in the "_config_" directory as part of the git package. 
 
-To create them, make SURE that Git for Windows is running, use it to open an explore to your repository. Open the provided _application.yml.example_ file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension. Do the same with _database.yml._ No changes need to be made to the default file _database.yml_ in this case. Then "commit" and "sync" in Git for windows.
+To create them, make SURE that Git for Windows is running, use it to open an explore to your repository. Open the provided _application.yml.example_ file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension. Do the same with _database.yml._ No changes need to be made to the default file _database.yml_ in this case. Then "commit" and "sync" as needed in Git for windows. Make sure it shows up as 'in sync' before you continue.
 
 **7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
 
