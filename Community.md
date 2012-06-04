@@ -3,19 +3,23 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 ## [FAQ For Users](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)
 Some frequently asked questions for end users.
 
-## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
-Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
+# Events
 
 ## [Community Code Chat](https://github.com/diaspora/diaspora/wiki/Code-Chat)
 The Diaspora core team holds a community chat every other week to tell the community at large about what's going on with the project, future goals, and where they're at. This link also keeps copies of logs from previous chat sessions.
 
-## [Community Discussion]()
+# Teams
+
+## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
+Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
+
+## [Documentation Team]()
 There are several ways to get involved with talking to the community.
 
 ## [Other Ways to Contribute](https://github.com/diaspora/diaspora/wiki/Other-Ways-to-Contribute)
 Even if you're not a coder, there are still tons of other ways to help the project!
 
-## Other Resources
+# Other Resources
 These are all external links.
 
 * [Diaspora bug tracker](https://github.com/diaspora/diaspora/issues) - issue and bug tracking.
