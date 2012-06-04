@@ -28,7 +28,7 @@ To create them, make SURE that Git for windows is running, use it to open an exp
 
 **8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to search for and display members on remote pods.
 
-If this works then you can install a free Class 1 SSL cert from various providers such as  http://www.startssl.com/ for a more complete testing of Diaspora's features.
+If this works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features. [None of the Class 1 solutions are right for production. StartSSL with nginx seems to be functional for testing with work around. http://blog.dembowski.net/2010/02/25/startssl-and-nginx/]
 
 **9)** You probably ran into problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. :)
 
