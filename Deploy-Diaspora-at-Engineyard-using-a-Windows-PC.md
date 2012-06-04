@@ -10,9 +10,9 @@ For a few reasons this environment i recommend only for testing.
 **1)** First setup a free account at GitHub (git and github can be confusing at first, don't worry, keep going.)
 http://www.github.com
 
-**2)** Then download and install the latest version stable of Git for Windows. At the time of writing it is 1.7.10.4
+**2)** Then download and install the latest version stable of GitHub for Windows. At the time of writing it is 1.7.10.4
 
-http://git-scm.com/downloads
+http://windows.github.com/
 
 **3)** Sign up for the Engineyard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values. Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
 
