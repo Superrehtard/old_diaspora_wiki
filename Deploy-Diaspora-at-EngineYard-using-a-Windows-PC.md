@@ -15,7 +15,7 @@ http://www.github.com
 http://windows.github.com/
 Any Git for Windows will do, but GitHub for Windows is pre-configured for GitHub.
 
-**3)** Sign up for the EngineYard Cloud Free trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values.
+**3)** Sign up for the EngineYard Cloud Free (Ruby) trial at http://www.engineyard.com/. Create your virtual server environment and application instance using default values.
 
 Boot the services with default values and use the one click install to install a self signed SSL certificate for testing. START by installing and testing the provided ToDo application and make sure that all works.
 
