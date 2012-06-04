@@ -1,4 +1,4 @@
-**Using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to EngineYard.**
+** This wiki explains using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to EngineYard.**
 
 For a few reasons this environment i recommend only for testing.
  - it is a service intended for developers 
@@ -31,7 +31,7 @@ Do the same with _database.yml._ No changes need to be made to the default file 
 
 **7)** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
 
-**8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to find and display known members of remote pods by handle _name@pod.com_ from the search box.
+**8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to find and display known members of remote pods by handle `name@pod.com` from the search box.
 
 If that works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features.
 
