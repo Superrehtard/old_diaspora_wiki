@@ -35,7 +35,7 @@ Any Git for Windows will do, but GitHub for Windows is pre-configured for GitHub
 **8)** Go to your URL or IP address and you should see a working Diaspora application. You may have some browser warnings about SSL and some problems with connecting to other pods due to the self signed certificate. But you should be able to find and display known members of remote pods by handle `name@pod.com` from the search box. If that works then you can install a free Class 1 SSL cert from various providers (such as  http://www.startssl.com/ or http://www.sslshopper.com/ just for example) for a more complete testing of Diaspora's features.
 <br><br>
 
-**9)** You probably ran into some problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. :)
+**9)** You probably ran into some problem along the way... that's normal... nuke everything... do it again... and again... and again... cause it will work in the end. It's a great free way to get familiar with the ropes. When your ready you can setup for deployment of a small pod on your own linux box, or even the deployment of a tier pod on a production host. Good luck! :)
 <br><br>
 
 **10)** MAKE SOMETHING! Keep up to date with code changes on GitHub by following the project members. If you find errors or missing information or useful tips or links please add them here! Explore code, pull updates, make changes and redeploy your fork! If you find bugs or have suggestions please contribute!
