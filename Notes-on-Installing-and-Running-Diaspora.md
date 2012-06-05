@@ -10,7 +10,7 @@ be one run by a friend, your university, or the official pod, run by the project
 <a href="http://joindiaspora.com" target="_blank">joindiaspora.com</a>. All of the Diaspora pods 
 communicate and make up the Diaspora Network.
 
-If you still want to run your own pod...we salute you. Read on.
+If you still want to run your own pod... we salute you. Read on.
 
 For OS-Specific and service-specific guides, check out [this page](https://github.com/diaspora/diaspora/wiki/Installation-Guides).
 
