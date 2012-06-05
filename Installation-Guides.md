@@ -30,3 +30,4 @@ Below are some existing guides to getting a Diaspora pod set up on your system o
 ### [Fedora](https://github.com/diaspora/diaspora/wiki/Installing-on-Fedora)
 ### [FreeBSD](https://github.com/diaspora/diaspora/wiki/Installing-on-FreeBSD)
 ### [Arch](https://wiki.archlinux.org/index.php/Diaspora)
+### [Windows](https://github.com/diaspora/diaspora/wiki/Diaspora-on-a-Windows-Box)
