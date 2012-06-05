@@ -1,4 +1,4 @@
-This wiki explains using "Git for Windows" to deploy your Diaspora test "fork" from GitHub to EngineYard.
+This wiki explains using "Git for Windows" to deploy your Diaspora test "fork" to EngineYard.
 <br>
 
 For a few reasons this environment i recommend only for testing.
