@@ -35,7 +35,6 @@ You can freely sign up on any of the pod in the [podupti.me list](http://podupti
 You can choose your pod basing on the data on podupti.me, you can also check the pod nearest to you [here](http://www.findapod.com/).         
 If you don't know where to sign up, [diasp.org](https://diasp.org/) is usually known as a good pod, anyway any pod on that list works fine (check ratings too).       
 All the servers communicate with each others, so no matter where you sign up, you will always be able to communicate with anyone from any pod.           
-I guess [this page](https://github.com/diaspora/diaspora/wiki/Welcome-Page) could help for starting.     
 If once you've signed up you've got any question, just make a public post and tag it as #question.
 
 ***I just joined a pod, how can I find people to share with?***  
