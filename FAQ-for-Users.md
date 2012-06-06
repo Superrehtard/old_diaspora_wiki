@@ -196,20 +196,22 @@ Remember to always post simple, full links: no shortened links, no https; and re
 ***What is the character limit for posts shared through a connected service (Twitter, Facebook, Tumblr) with a smaller character count?***  
 In that case your post is limited to the smaller character count, and the number of characters you have left to use is displayed.  You can still post to these services if your post is longer than their limit, but the text is truncated on those services.
 
-***My stream is full of posts from people i don't know and i don't share with, why are they in my stream? How can i remove them?***                 
-Your stream is made up of:   
-1. Public posts by people you are sharing with.    
-2. Limited posts by people you are sharing with and who are sharing with you and posted the message to the aspect they put you in.   
-3. Public posts with the tags you follow    
-4. Public Posts by people in the community spotlight.  
-How to remove them from your stream:    
-1. Stop sharing with the person.    
-2. Stop sharing with the person.    
-3. Stop following the tag.    
-4. Go to Settings and on the account tab uncheck the option Show Community Spotlight in Stream under Stream Preferences    
+***My stream is full of posts from people I don't know and I don't share with -- why are they in my stream? How can I remove them?***
 
+Your stream is made up of 3 types of posts:
 
+1. Posts by people you are sharing with, which come in two types:
+ * Public posts.
+ * Limited posts to an aspect that has been shared with you.
 
+ To remove them from your stream, simply stop sharing with the person.
+1. Public posts containing one of the tags that you follow.
+ 
+ To remove these, stop following the tag.
+
+1. Public posts by people listed in the Community Spotlight.
+
+ These can be removed by unchecking the "Show Community Spotlight in Stream?" option listed under "Stream Preferences" in the Account tab of your Settings.
 
 ###TAGS  
 
