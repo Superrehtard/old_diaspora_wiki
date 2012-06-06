@@ -54,3 +54,5 @@ This was contributed to us by a user. It's a relatively simple fix, but the cont
 
 ### 15) Document the code.
 Please document the existing code and also consider documenting your code as much as you can when you send us a pull request. It helps others who fork the repository to understand and work on it.
+
+### 16) I second the above. Document the code. There is not much in line documentation at all. Perhaps it would make a good test for the workflow to ensure that the code additions include some sort of in line notes.
