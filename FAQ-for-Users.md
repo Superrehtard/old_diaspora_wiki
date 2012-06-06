@@ -227,9 +227,8 @@ After searching for a tag you can click the button at the top of the tag's page 
 ***Who are the people on the left hand side of a tag page?***  
 They are people who have listed that tag in their public profile.  
 
-**How can i filter/exclude some tags (eg #newhere or #nsfw) from my stream?**       
-If you use Firefox, you can try the Tag Filter add on you can find [here](https://github.com/diaspora/diaspora/wiki/Tools-to-use-with-Diaspora).
-
+**How can I filter/exclude some tags (eg #newhere or #nsfw) from my stream?**       
+This is not (yet) available directly through Dispora, but some [third-party tools](Tools-to-use-with-Diaspora) have been written that might provide this.
 
 ###MENTIONS  
 
@@ -290,10 +289,6 @@ Yes, you can make your public diaspora posts to be automatically posted on ident
 * Add your profile atom feed ( *yourpod*/public/*yournickname*.atom) to identica.
 You can subscribe to a feed on identi.ca going to http://identi.ca/settings/mirror and set the infos     
 * Follow this french (anyway clear) [tutorial](http://ubunblox.servhome.org/diaspora-et-identi-ca.html)
-
-
-
- 
 
 ## What if my question isn't answered here?
 
