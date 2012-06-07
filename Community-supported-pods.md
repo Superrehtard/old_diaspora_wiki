@@ -390,7 +390,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Linux (Ubuntu 10.4)
    * Comments: Pod Abierto. Conexión con Facebook y twitter. Español.
 
-* [[http://www.cryptospora.net]] ]
+* [[https://www.cryptospora.net]]
     * Updated: Every periodically
     * Maintainer : Todamont@cryptospora.net
     * Operating system: Linux (Ubuntu 10.04)
