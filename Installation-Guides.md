@@ -24,10 +24,10 @@ Deploy Diaspora to EngineYard using a Windows PC. This wiki explains using "Git 
 
 Below are some existing guides to getting a Diaspora pod set up on your system of choice. This is particularly useful for setting up a testing environment.
 
+### [Windows](https://github.com/diaspora/diaspora/wiki/Diaspora-on-a-Windows-Box)
 ### [MacOSX](https://github.com/diaspora/diaspora/wiki/Installing-on-Mac-OS-X)
 ### [Ubuntu](https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu)
 ### [Debian](https://github.com/diaspora/diaspora/wiki/Installing-on-Debian)
 ### [Fedora](https://github.com/diaspora/diaspora/wiki/Installing-on-Fedora)
 ### [FreeBSD](https://github.com/diaspora/diaspora/wiki/Installing-on-FreeBSD)
 ### [Arch](https://wiki.archlinux.org/index.php/Diaspora)
-### [Windows](https://github.com/diaspora/diaspora/wiki/Diaspora-on-a-Windows-Box)
