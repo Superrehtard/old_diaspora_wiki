@@ -392,6 +392,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 * [[https://www.cryptospora.net]]
     * Updated: Every periodically
-    * Diaspora handle: Todamont@cryptospora.net
+    * Maintained by Ryan Molecke
+       * Diaspora handle: Todamont@cryptospora.net
     * Operating system: Linux (Ubuntu 10.04)
     * Comments: Caters to cryptocurrency and computational science enthusiasts.
