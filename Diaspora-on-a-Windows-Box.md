@@ -15,6 +15,8 @@ A friendly install for Windows would go a long way toward the growth of the prog
 Some Related Links:
 - https://github.com/typhoeus/typhoeus
   [update 6/8/12: the typhoeus gem requirement for native c extensions has been removed, as of typhoeus [version 0.4.0] there is no problem with native c extensions for typhoeus on Windows, they do not exist]
+- https://github.com/typhoeus/typhoeus/issues/172
 - https://github.com/bagder/curl
+- https://github.com/eventmachine/eventmachine/issues/307
 - Out Dated http://blog.srmklive.com/2010/09/21/how-to-install-diaspora-on-windows/
 - Out Dated http://tom.net.nz/2010/09/installing-diaspora-on-windows/
