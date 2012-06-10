@@ -1,8 +1,8 @@
 This is a list of the gems i use on my beat up Windows 7 box to bundle and install Diaspora, June 2012.
 
-I had to source some odd ball pre-compiled binaries and run pre-release versions of some gems. Many of the gems, especially those with extensions, where a real **** to install! I am using ruby 1.9.3p194 with i386-mingw32.
+I had to source some odd ball pre-compiled binaries and run pre-release versions of some gems. Many of the gems, especially those with extensions, where a real **** to install! I am using ruby 1.9.3p194 with i386-mingw32, webrick.
 
-It seems to work only in development mode.
+It seems to load in development mode with many problems. Mods required to call to OleInitialize immediately when win32ole is required from a sub thread on windows to prevent exceptions from the incomplete wingmw32 for example.
 
 It is much preferable to run Rails apps on a dedicated linux box, or even a virtual Ubuntu box under Windows.
 
