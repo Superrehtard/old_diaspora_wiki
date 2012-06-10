@@ -48,7 +48,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [German Data Protection Act Button](http://blog.pgs-info.de/index.php/2011/08/24/social-media-buttons-datenschutzkonform) with regard to German Data Protection Act (German only ATM)
 
-*   [HTML5 animated button](http://bit.ly/nUM4c0) with embedded image, Modernizr to check html5 support and localStorage to save the address of your pod
+*   [Share on Diaspora* Animated Buttons](http://bit.ly/KY7UDT) for any pod
 
 *   [Burnman’s Diaspora Button](http://theburnman.com/wordpress-plugins/burnmans-diaspora-button/) for Wordpress
 
@@ -62,5 +62,4 @@ _Links to various tools built by the community for use with Diaspora._
 *  [Webfinger Profile Plugin for 'Join me' widget](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora, [more info](http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/)
 
 *   [Wordpress plugin: wp-post-to-diaspora](https://github.com/diaspora/wp-post-to-diaspora) when you make a new blog post, this plugin will post a link to it to your diaspora account
-
 
