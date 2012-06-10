@@ -13,6 +13,7 @@ A friendly install for Windows would go a long way toward the growth of the prog
 [Getting Started With Contributing](https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing)
 
 Some Related Links:
+- https://github.com/djberg96/win32-mmap
 - https://github.com/typhoeus/typhoeus
   [update 6/8/12: the typhoeus gem requirement for native c extensions has been removed, as of typhoeus [version 0.4.0] there is no problem with native c extensions for typhoeus on Windows, they do not exist]
 - https://github.com/typhoeus/typhoeus/issues/172
