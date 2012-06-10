@@ -4,7 +4,7 @@ I had to source some odd ball pre-compiled binaries and run pre-release versions
 
 It seems to load in development mode but with many problems. Mods required to call to OleInitialize immediately when win32ole is required from a sub thread on windows to prevent exceptions from the incomplete wingmw32 for example.
 
-It is much preferable to run Rails apps on a dedicated linux box, or even a virtual Ubuntu box under Windows.
+It is much preferable to run Rails apps on a dedicated linux box.
 
 E:\ruby193\_diaspora_ [master +3 ~4 -0 !]> bundle list
 Gems included by the bundle:
