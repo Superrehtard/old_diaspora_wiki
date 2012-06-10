@@ -13,6 +13,7 @@ A friendly install for Windows would go a long way toward the growth of the prog
 [Getting Started With Contributing](https://github.com/diaspora/diaspora/wiki/Getting-Started-With-Contributing)
 
 Some Related Links:
+- http://www.engineyard.com/blog/2011/ruby-on-windows-the-last-frontier
 - https://github.com/oneclick/rubyinstaller
 - https://github.com/bpmcd/win32ole
 - https://github.com/djberg96/win32-mmap
