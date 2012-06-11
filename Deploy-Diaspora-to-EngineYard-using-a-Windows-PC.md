@@ -26,6 +26,8 @@ http://windows.github.com/. Any Git for Windows will do, but GitHub for Windows 
 <br><br>
 
 **6)** **Customize:** Before you deploy there are just a few files that need to be created to configure your default Diaspora code to your engineyard cloud environment. They are "_application.yml_" and "_database.yml_" which are NOT found in the "_config_" directory as part of the git package.  To create them, make SURE that Git for Windows is running, use it to open an explore to your repository. Open the provided _application.yml.example_ file, make the needed changes to the URL and Pod Name etc, then save the file  without the ".example" extension. Do the same with _database.yml._ No changes need to be made to the default file _database.yml_ in this case. Then "commit" and "sync" as needed in Git for windows. Make sure it shows up as 'in sync' before you continue.
+
+For image re-sizing to work properly on EngineYard you must set single_process_mode: true in your config/application.yml. Otherwise thumb nail images will retain the original data size, which is not good. EngineYard does not seem to run background task in a separate process. You must run the re-size task within the request cycle, but performance by the cloud services seems good enough for testing without.
 <br><br>
 
 **7)** **Deploy:** At engineyard you should now be able to use the [DEPLOY] button and run Diaspora in "development mode" on your booted application instance. Check the box that says to Rake and Migrate the DB. This will create an empty database for the app.
