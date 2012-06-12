@@ -18,3 +18,7 @@ Hans Fase has [created a mindmap](https://github.com/hfase01/diaspwiki-mindmap) 
 * Developers
 * Guidelines and Policies
 * Podmin Resources
+
+### Volunteer!
+
+The doc team is an open volunteer group, and is more than happy to have some extra help. Feel free to hit up [this thread](https://groups.google.com/forum/?fromgroups#!topic/diaspora-discuss/5h6-4RaPwEM) and tell us what you'd like to help with.
