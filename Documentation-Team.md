@@ -8,4 +8,13 @@ This space exists as a discussion area for thoughts about improving how our wiki
 * What resources can one podmin with their own set of experiences give to other podmins?
 * How can we better describe the different moving parts?
 
+## Stage One: Layout
 
+![diagram](https://github.com/hfase01/diaspwiki-mindmap/raw/master/Diaspora-Wiki.jpg)
+
+Hans Fase has [created a mindmap](https://github.com/hfase01/diaspwiki-mindmap) of a proposal to move the existing information into directories related to these four sections:
+
+* Community
+* Developers
+* Guidelines and Policies
+* Podmin Resources
