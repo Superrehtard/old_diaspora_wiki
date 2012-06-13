@@ -1,6 +1,6 @@
 Diaspora on a Windows Box
 
-It is technically possible to run Diaspora on a Windows box. [Example](https://github.com/diaspora/diaspora/wiki/Win32-Gem-List). It is a Rails application. You can use Rails Server for development, and you can even run it on IIS/SQL through CGI. But i don't recommend it at this time.
+It is technically possible to run Diaspora on a Windows box. It is my experience and has no affiliation with the Diaspora project. [Example](https://github.com/diaspora/diaspora/wiki/Win32-Gem-List). It is a Rails application. You can use Rails Server for development, and you can even run it on IIS/SQL through CGI. But i don't recommend it at this time.
 
 The configuration is not well documented and it requires advanced knowledge of both Windows and Linux environments. Future program changes could easily break it. Best bet is to wait for future developments.
 
