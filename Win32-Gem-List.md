@@ -1,4 +1,4 @@
-This is a list of the gems i use on my beat up Windows 7 box to bundle and install Diaspora, June 2012.
+This is a list of the gems i use on my beat up Windows 7 box to bundle and install Diaspora, June 2012. It is my experience and has no affiliation with the Diaspora project.
 
 I had to source some odd ball pre-compiled binaries and run pre-release versions of some gems. Many of the gems, especially those with extensions, where a real **** to install! I am using tcs ruby 1.9.3p231 with some variant of i386-mingw32 and webrick.
 
