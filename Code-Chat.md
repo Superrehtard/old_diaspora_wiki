@@ -20,3 +20,4 @@ Code Chats are logged so that anyone that misses out can still tune in and see w
 * [April 19th, 2012](http://pastebin.com/Nx8DnpMn)
 * [May 3rd, 2012](http://pastebin.com/mAxqWeFC)
 * [May 17th, 2012](http://pastebin.com/QULKNbiz)
+* [June 14th, 2012](http://pastebin.com/ytaFpxD5)
