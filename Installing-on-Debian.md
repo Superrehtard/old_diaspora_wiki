@@ -33,6 +33,11 @@ To install Git 1.7 on **Debian 5.0**, add Debian Backports repository and instal
 
 You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version.
 
+    curl -L https://get.rvm.io | bash -s stable
+    # load rvm here - search the output of previous command
+    rvm install 1.9.3-p125 # install correct ruby version
+These instructions are from [[https://rvm.io/rvm/install/]].
+
 You still need a system Ruby so run:
 
     sudo apt-get install ruby-full
