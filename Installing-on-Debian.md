@@ -123,7 +123,7 @@ To install Bundler, run the following, skip the sudo for a RVM installation:
 If you installed via RVM and gem is not found, run the following
 
     bash -l
-    rvm use ruby-1.9.2-p290@global
+    rvm use ruby-1.9.3-p125@global
 
 To get bundle to work with the system Ruby, you might need to make a symbolic link:
 
