@@ -43,8 +43,8 @@ For Debian 6.0 users who wish to install Ruby 1.9.2 (or any edition for that mat
 
 ```bash
 rvm pkg install openssl
-rvm remove ruby-1.9.2-p290 #just in case
-rvm install ruby-1.9.2-p290 --with-openssl-dir=$rvm_path/usr
+rvm remove ruby-1.9.3-p125 #just in case
+rvm install ruby-1.9.3-p125 --with-openssl-dir=$rvm_path/usr
 ```
 
 
