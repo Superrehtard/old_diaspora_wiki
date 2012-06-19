@@ -79,7 +79,7 @@ Note that libmagick9-dev is provided through libmagickwand-dev.
 
 ### Redis
 
-**NOTE:** I have Diaspora running with the Debian 6 stable repositories version of redis-server, without any problems - anatoly (jd.com user)
+**NOTE:** I have Diaspora running with the Debian 6 stable repositories version of redis-server, without any problems - joaomlneto (jd.com user: anatoly)
 
 Debian 6.0 stable repositories have an older version of Redis.  If you are running Debian Testing, you can use the repository:
 
