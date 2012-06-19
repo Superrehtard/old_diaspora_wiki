@@ -113,7 +113,7 @@ If you have problems getting the required lib multiarch-support installed, try i
 
 ### RubyGems
 
-Not needed for a RVM installation.
+**Not needed for a RVM installation.**
 To install RubyGems, run the following:
 
     wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.15-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
@@ -121,7 +121,7 @@ To install RubyGems, run the following:
 
 ### Bundler
 
-To install Bundler, run the following, skip the sudo for a RVM installation:
+To install Bundler, run the following, **(skip the sudo for a RVM installation)**:
 
     sudo gem install bundler 
 
