@@ -37,9 +37,9 @@ You still need a system Ruby so run:
 
     sudo apt-get install ruby-full
 
-To install RVM and Ruby 1.9.2, as your normal user (the one which Diaspora should run under), run (I was getting an error so I had to run curl -k which told me to "echo insecure >> ~/.curlrc")
+To install RVM and Ruby 1.9.3, as your normal user (the one which Diaspora should run under), run (I was getting an error so I had to run curl -k which told me to "echo insecure >> ~/.curlrc")
 
-For Debian 6.0 users who wish to install Ruby 1.9.2 (or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
+For Debian 6.0 users who wish to install Ruby 1.9.3 (or any edition for that matter) on RVM, compile may [fail](https://rvm.beginrescueend.com/packages/openssl/) due to openssl version higher than 1.0.0. For that, run:
 
 ```bash
 rvm pkg install openssl
