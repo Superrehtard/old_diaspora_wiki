@@ -5,6 +5,17 @@ You will need to make sure that your username is on the sudo authorized list loc
 
 ### Install everything from APT (more info in the Appendix):
 
+_It is recommended that you install rvm from source since Ubuntu's version is lagging._
+
+To install rvm from source, execute the following command:
+
+    curl -L get.rvm.io | bash -s stable --auto
+
+If you're going through a proxy, add the following to the ~/.curlrc file:
+
+    proxy=host:port
+    proxy-user=username:password
+
 This is for Ubuntu 10.10. There are other steps than just this one:
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5-dev
