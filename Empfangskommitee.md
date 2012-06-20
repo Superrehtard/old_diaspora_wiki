@@ -1,0 +1,1 @@
+Die Community ist der Bestandteil des Diaspora Projekts schlechthin, wir können dies zeigen indem wir alle Neuankömmlinge freundlich begrüssen unnd auf ihren #NeuHier posts antworten. Diese Seite soll als Anleitung dienen, wie man am besten einen neuen Benutzer auf Diaspora* begrüsst. 
