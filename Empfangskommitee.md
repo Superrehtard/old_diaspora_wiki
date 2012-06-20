@@ -3,3 +3,5 @@ Die Community ist der Bestandteil des Diaspora Projekts schlechthin, wir können
 ## Wie begrüßen wir?
 
 Am besten richten wir unsere Nachrichten stets persönlich an den Neuling, damit grenzen wir uns deutlich von Bots ab. Die Leute sind es nicht gewohnt, rasch von realen Personen wilkommen geheissen zu werden. Sie sind sich bislang nicht sicher gewesen ob wir Freunde oder nur freundlich klingende Bots sind. Wir können dies nur erreichen, wenn wir unsere Begrüßungen so freundlich wie möglich halten. 
+
+* Beziehe dich in deiner Begrüßung auf dessen Interessen (z.B. "Hey, fellow #art fanatic!"  oder, "Cool, I verfolge auch #android Entwicklungen")
