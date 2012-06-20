@@ -280,6 +280,16 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Ubuntu
     * Comments: Free, public Diaspora-Pod for german users. Should run very stable, but we'll reset database whenever needed.
 
+* [[https://pod.orkz.net]] [[https://pod.orkz.net/apple-touch-icon.png|height=30px]]
+    * Opened: 2011-11-01
+    * Updated: daily
+    * Maintainer : Noncommercial group of 3 persons
+        * IRC: [[#diaspora@freenode|http://webchat.freenode.net/?channels=diaspora]]
+        * Twitter: [[@orxnet|http://twitter.com/orxnet]]
+        * Web: [[ORXNet|http://twitter.com/orxnet]]
+        * Web2: [[Hosted at the Oude RKZ Groningen|http://www.orkz.nl]]
+    * Operating system: Debian 6
+    * Comments: Free, public Diaspora-Pod for all users. Should run very stable and fast over a dedicated Fibre-optic internetcable.
 
 * [[https://poddery.com]] [[https://poddery.com/apple-touch-icon.png|height=30px]]
     * Opened: 2010-12-11
