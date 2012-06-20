@@ -286,7 +286,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Maintainer : Noncommercial group of 3 persons
         * IRC: [[#diaspora@freenode|http://webchat.freenode.net/?channels=diaspora]]
         * Twitter: [[@orxnet|http://twitter.com/orxnet]]
-        * Web: [[ORXNet|http://twitter.com/orxnet]]
+        * Web: [[ORXNet|http://www.orxnet.org]]
         * Web2: [[Hosted at the Oude RKZ Groningen|http://www.orkz.nl]]
     * Operating system: Debian 6
     * Comments: Free, public Diaspora-Pod for all users. Should run very stable and fast over a dedicated Fibre-optic internetcable.
