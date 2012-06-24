@@ -47,10 +47,9 @@ Now, we're going to start the servers. By running the following command you shou
 
 After everything has started up, you can open two browsers (yes, either two different ones, or two windows of the same, with one in the 'incognito' mode. That's because you need two different sessions...), and open them on `http://localhost:3001/` and `http://localhost:3002/` and register a new user on each of them ... you will have to remember which user is on which server. When that is done, you can search the user from one server with the user on the other server and connect them by adding them to each others aspects.
 
-This alone should have already triggered our federation logger. You can check it out by looking at the logfiles. (It's best if you run those commands in separate console windows.)
+This alone should have already triggered our federation logger. You can check it out by looking at the logfile.
 
-    $ tail -f log/integration1_federation.log
-    $ tail -f log/integration2_federation.log
+    $ tail -f log/federation_logger.log
 
 ## Party
 
