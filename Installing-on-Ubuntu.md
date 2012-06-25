@@ -39,8 +39,8 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This 
 To install RVM and Ruby 1.9.3, as your normal user (the one which Diaspora should run under), run
 
 ```bash
-rvm install ruby-1.9.3-p194
-rvm use ruby-1.9.3-p194@global
+rvm install ruby-1.9.3-p125
+rvm use ruby-1.9.3-p125@global
 ```
 
 ### Start MySQL (optional, depending on your platform):
