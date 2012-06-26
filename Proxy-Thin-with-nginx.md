@@ -4,30 +4,6 @@ This is a configuration example wo thin can be proxied with thin, it's just an c
 Just copy it to /etc/nginx/conf.d/diaspora.conf and set the right paths.
 
 ```
-
-server {
-   listen       843;
-   location / {
-    rewrite ^(.*)$ /crossdomain.xml;
-   }
-   error_page 400  /crossdomain.xml;
-   location = /crossdomain.xml {
-    root /dir/to/diaspora/public;
-   }
- }
-
- server {
-   listen  7894;
-   server_name  domain.com *.domain.com;
-   ssl on;
-   ssl_certificate      /dir/to/ssl.crt;
-   ssl_certificate_key  /dir/to/ssl.key;
-   location / {
-      proxy_set_header Host $http_host;
-      proxy_pass http://localhost:5678;
-   }
-  }
-
   server {
    listen       80;
    server_name  domain.com *.domain.com;
@@ -62,6 +38,7 @@ server {
    location  @diaspora {
     proxy_set_header X-Real-IP $remote_addr;
     proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto https;
     proxy_set_header Host $http_host;
     proxy_redirect off;
     client_max_body_size 4M;
@@ -93,4 +70,3 @@ server {
 
 
 ```
-
