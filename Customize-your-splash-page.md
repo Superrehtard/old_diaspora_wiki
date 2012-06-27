@@ -9,8 +9,10 @@ A very basic example of this "_show.html.haml" file would be something like:
   .center
     %h2 Welcome to my pod!
 ```
-A more complete example using the Twitter Bootstrap "Hero" template would look like the following. More examples can be found [here.](https://github.com/czarneckid/twitter-bootstrap-examples-haml/tree/master/views)
-(Linked JS files need to be added yourself.)
+A more complete example using the Twitter Bootstrap "Hero" template would look like the following.
+Diaspora already uses [Bootstrap](http://twitter.github.com/bootstrap/) CSS so no need to add it yourself, and examples of use are readily available in the previous link.
+More examples can be found [here.](https://github.com/czarneckid/twitter-bootstrap-examples-haml/tree/master/views) but will need to be tweaked similar to the one below.
+(Linked JS files need to be added yourself. download [here.](http://twitter.github.com/bootstrap/))
 ```haml
 .navbar.navbar-fixed-top
   .navbar-inner
@@ -28,7 +30,7 @@ A more complete example using the Twitter Bootstrap "Hero" template would look l
           %li
             %a{:href => "/privacy.html"} Privacy
           %li
-            %a{:href => "/terms"} Terms
+            %a{:href => "/terms.html"} Terms
       %span.st_fblike_hcount.pull-right
       %span.st_plusone_hcount.pull-right{:style => "padding-top: 3px;"} 
 
