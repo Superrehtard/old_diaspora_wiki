@@ -263,10 +263,25 @@ I had success with using these instructions for creating a free personal pod and
 
 The shared heroku database seems to work "well enough" for a private pod. There are delays at times and i'm not sure of the security implications, but it works.
 
-The problems with the use of PostgreSQL seem to have been corrected. Just selecting the option in the database config file seems to work fine.
-
-The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the key names and the two key values into the application config file.
-
+The problems with the use of PostgreSQL seem to have been corrected. Just selecting the option in the config/database.yml file seems to work fine.
+```
+# Comment the the mysql line and uncomment the postgres line
+# if you want to use postgres
+common: &common
+  # Choose one of the following
+  # <<: *mysql
+  <<: *postgres
+```
+The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the key name and the two key values into the config/application.yml file.
+```
+  ## Use Amazon S3 instead of your local filesystem
+  ## to handle uploaded pictures.
+  # s3 config - if set, carrierwave will store your photos on s3. Otherwise they're on the filesystem.
+  s3_key: 'plublickeyhere'
+  s3_secret: 'secretkeyhere'
+  s3_bucket: 'bucketnamehere'
+  s3_region: 'us-east-1'
+```
 For a free personal pod (using a single dyno) i found it easier to just run in development mode all the time by setting the heroku environment at the console.
 
 `$ heroku config:add RACK_ENV=development`
