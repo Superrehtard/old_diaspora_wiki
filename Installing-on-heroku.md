@@ -268,3 +268,15 @@ The problems with the use of PostgreSQL seem to have been corrected. Just select
 The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the key names and the two key values into the application config file.
 
 For a free personal pod (using a single dyno) i found it easier to just run in development mode all the time by setting the heroku environment at the console.
+
+`$ heroku config:add RACK_ENV=development`
+
+The assignment of users to admin and community spotlight roles is no longer handled by the config files, and the Role.load functions did not work for me. You may need to use the specific role commands at the heroku console similar to this.
+
+`u = User.find_by_email("name@email.com")`
+
+`Role.add_admin(u.person) `
+
+`Role.add_spotlight(u.person) `
+
+***
