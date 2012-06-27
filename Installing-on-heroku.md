@@ -256,10 +256,12 @@ and in
 
 
 
-***
-Tester comments. 6/27/12
 
-I had success with using these instructions for creating a free personal pod and wanted to add a few comments. Hope that is okay. :)
+## Tester Comments
+
+6/27/12
+
+I had success using these instructions for creating a free personal pod and wanted to add a few comments. Hope that is okay. :)
 
 The shared heroku database seems to work "well enough" for a private pod. There are delays at times and i'm not sure of the security implications, but it works.
 
@@ -272,7 +274,7 @@ common: &common
   # <<: *mysql
   <<: *postgres
 ```
-The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the key name and the two key values into the config/application.yml file.
+The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the bucket name and the two key values into the config/application.yml file.
 ```
   ## Use Amazon S3 instead of your local filesystem
   ## to handle uploaded pictures.
