@@ -31,8 +31,6 @@ More examples can be found [here.](https://github.com/czarneckid/twitter-bootstr
             %a{:href => "/privacy.html"} Privacy
           %li
             %a{:href => "/terms.html"} Terms
-      %span.st_fblike_hcount.pull-right
-      %span.st_plusone_hcount.pull-right{:style => "padding-top: 3px;"} 
 
   .subnav
     %ul.nav.nav-pills
