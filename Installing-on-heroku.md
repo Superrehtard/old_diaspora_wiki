@@ -253,3 +253,18 @@ and in
     production:
       <<: *defaults
         serve_static_assets: true
+
+
+
+***
+Tester comments. 6/27/12
+
+I had success with using these instructions for creating a free personal pod and wanted to add a few comments. Hope that is okay. :)
+
+The shared heroku database seems to work "well enough" for a private pod. There are delays at times and i'm not sure of the security implications, but it works.
+
+The problems with the use of PostgreSQL seem to have been corrected. Just selecting the option in the database config file seems to work fine.
+
+The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the key names and the two key values into the application config file.
+
+For a free personal pod (using a single dyno) i found it easier to just run in development mode all the time by setting the heroku environment at the console.
