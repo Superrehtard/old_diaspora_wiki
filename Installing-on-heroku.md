@@ -263,7 +263,9 @@ and in
 
 I had success using these instructions for creating a free personal pod and wanted to add a few comments. Hope that is okay. :)
 
-The shared heroku database seems to work "well enough" for a private pod. There are delays at times and i'm not sure of the security implications, but it works.
+<br>
+
+<b>The shared heroku database</b> seems to work "well enough" for a private pod. There are delays at times and i'm not sure of the security implications, but it works.
 
 The problems with the use of PostgreSQL seem to have been corrected. Just selecting the option in the config/database.yml file seems to work fine.
 ```
@@ -274,7 +276,10 @@ common: &common
   # <<: *mysql
   <<: *postgres
 ```
-The configuration of Amazon S3 is very simple, just sign up for the S3 service, create your bucket and copy and paste the bucket name and the two key values into the config/application.yml file.
+
+<br>
+
+<b>The configuration of Amazon S3</b> is very simple, just sign up for the S3 service, create your bucket and copy and paste the bucket name and the two key values into the config/application.yml file.
 ```
   ## Use Amazon S3 instead of your local filesystem
   ## to handle uploaded pictures.
@@ -284,11 +289,16 @@ The configuration of Amazon S3 is very simple, just sign up for the S3 service, 
   s3_bucket: 'bucketnamehere'
   s3_region: 'us-east-1'
 ```
-For a free personal pod (using a single dyno) i found it easier to just run in development mode all the time by setting the heroku environment at the console.
+
+<br>
+
+<b>For a free personal pod (using a single dyno)</b> i found it easier to just run in development mode all the time by setting the heroku environment at the console. It has some drawbacks, but hey, it's free! :)
 
 `$ heroku config:add RACK_ENV=development`
 
-The assignment of users to admin and community spotlight roles is no longer handled by the config files, and the Role.load functions did not work for me. You may need to use the specific role commands at the heroku console similar to this.
+<br>
+
+<b>The assignment of users to admin and community spotlight roles</b> is no longer handled by the config files, and the Role.load functions did not work for me. You may need to use the specific role commands at the heroku console similar to this.
 
 `u = User.find_by_email("name@email.com")`
 
@@ -296,4 +306,11 @@ The assignment of users to admin and community spotlight roles is no longer hand
 
 `Role.add_spotlight(u.person) `
 
+<br>
+
+<b>The heroku platform with the new cedar stack includes wildcard SSL</b> and the certificate is pre installed on your application. For example `https://pod12345.herokuapp.com` should work perfectly well with the federation protocol. Simply set the URL in the config/application.yml file to match the file system environment. In this case the line would be `ca_file: '/etc/ssl/certs/ca-certificates.crt'` and you're good to go.
+
+There is no reason to register a domain or acquire a certificate from an authority unless you feel the need to have a specific resource locator.
+
+ 
 ***
