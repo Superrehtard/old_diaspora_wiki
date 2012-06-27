@@ -75,7 +75,7 @@ A more complete example using the Twitter Bootstrap "Hero" template would look l
   %script{:src => "/js/bootstrap.js"}
 ```
 
-Notice the examples above do not include the "<head>" & "<html>" elements, those are rendered by Diaspora. For your landing page you just need to provide the body section, and anything else you chose to include.
+Notice the examples above do not include the "head" & "html" elements, those are rendered by Diaspora. For your landing page you just need to provide the body section, and anything else you chose to include.
 
 You should also delete the "index.html" or "default.html" (or whatever default files your web server may use) in the app/public directory, if any, as rails gives precedence to static content before serving dynamic content.
 
