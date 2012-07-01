@@ -24,6 +24,16 @@ This installs MySQL, you also need the mysql-devel package:
 
         su -c 'yum install mysql-server mysql-devel'
 
+Make sure you set UTF8 as default encoding for database, to do so in file /etc/my.cnf in section [mysqld] add following lines:
+
+        [mysqld]
+        ...
+        # Set UTF8 by default
+        default-character-set = utf8
+        collation-server = utf8_unicode_ci
+        init-connect='SET NAMES utf8'
+        character-set-server = utf8
+
 To start MySQL run
 
         su -c 'service mysqld start'
