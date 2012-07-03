@@ -100,7 +100,7 @@ It may be important to know to always run the rspec tests first if you are plann
 
 ## Jasmine
 
-The [Jasmine tests][jasmine] for JavaScript are located inside the `spec/javascripts/` directory. They are split up in a similar manner to how the JavaScript files are structured in `public/javascripts/`.
+The [Jasmine tests][jasmine] for JavaScript are located inside the `spec/javascripts/` directory. They are split up in a similar manner to how the JavaScript files are structured in `app/assets/javascripts/`.
 
 Jasmine tests try to resemble rspec tests in both structure and nomenclature of available helper methods, and we are using factories here, too. You can read this [nice introduction][jasmine_tut] if you never worked with it before to get a general idea of what it's all about and what it should be used for.
 
