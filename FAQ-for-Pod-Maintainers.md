@@ -51,24 +51,31 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 ***I installed Diaspora on my machine, but when I load the site there are no images and the layout looks horrible!***  
 If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
-1. Help, why are there no images on my pod?
-You are most likely in production mode, or your apache/nginx is not serving static assets.  If you want to just run your server from your thin on port 3000, you can set ruby to servce static assets by changing %{the setting}
+***There are no images on my pod***  
+You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `serve_static_assets` to `true` in your `config/application.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
+*When deploying to heroku:*  
+Be sure to check that the `serve_static_assets` is set to true in the production block of your `config/application.yml` file.
 
-  _When deploying to heroku:_
-  Be sure to check that the serve_static_assets is set to true in the production block of your  config/application.yml file.
-
-        config/application.yml
         production:
           <<: *defaults
           serve_static_assets: true
 
+***Webfinger does not seem to be working***  
+Is your _resque_ worker running? Can you see the error in resque web? Does your SSL cert check out? (try a [ssl cert checker][ssl-check]).  
+We do not support self signed certs, but you can get a free one [from StartSSL](https://www.startssl.com/).
 
-2.  Webfinger does not seem to be working!
- Is your resque worker running?   Can you see the error in resque web? Does your SSL cert check out?(link for cert checker)  We do not support self signed certs, but you can get a free one here and here
+***I am receiving posts, but nobody is receiving mine...***  
+[Check your ssl certs][ssl-check]!
 
+***I'm getting the warning "... in production without Resque workers"***  
+[Resque](https://github.com/defunkt/resque) is the backend we use for processing background jobs. Normally, resque is spawned as a separate process, but in this case you have configured Diaspora to run the jobs in the same process as the application. This is normally used for development or testing purposes, but if used in production, it can bring major performance penalties. Thus you should always run resque in its own process, by setting `single_process_mode` to `false` in your `config/application.yml` and starting the resque process with
 
-3.  Help, I am receiving posts, but nobody is receiving mine!
-Check your ssl certs!
+    RAILS_ENV=production DB=mysql QUEUE=* bundle exec rake resque:work  # or
+    RAILS_ENV=production DB=postgres QUEUE=* bundle exec rake resque:work
+
+(In case you are using `script/server` to start Diapora, then you don't have to manually start the workers. This is already done by the script.)
+
+[ssl-check]: https://www.sslshopper.com/ssl-checker.html
 
 ### Upgrading
 
