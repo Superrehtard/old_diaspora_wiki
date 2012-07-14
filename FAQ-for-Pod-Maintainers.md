@@ -112,6 +112,10 @@ Replace \_development with \_production if you're running the production environ
 ***What's up with assets/jammit/js-runtime?***  
 The recent update to Rails 3.1 made it possible for us to use the included asset compilation mechanism and therefore drop the requirement for jammit and a Java environment. The new method requires a JavaScript runtime like [Node.js](http://nodejs.org/) or [TheRubyRacer](https://github.com/cowboyd/therubyracer) to be installed, though. See the [specific distribution guides](Installation-Guides) for how to install them. After it has been installed, you can compile the assets by running `bundle exec rake assets:precompile`. See the [installation guide](Notes-on-Installing-and-Running-Diaspora) for more detailed instructions.
 
+***I am on PPC (e.g. old iMac) and want to use it for serving Diaspora, but there is no ExecJS compatible JS runtime***  
+One thing you could do, assuming you have another PC that will run Node. Precompile your assets on that machine (using `bundle exec rake assets:precompile`) and then check them into git before you deploy to the PPC box. The Javascript runtime is only really needed for precompiling assets and shouldn't be loaded at all in the actual production environment. You may need to use `git add public/assets -f` to force git to check them in, since I think that directory is in .gitignore.  
+(_from [#3429](https://github.com/diaspora/diaspora/issues/3429)_)
+
 ***What are roles and how do I use them?***  
 We switched from statically configured 'special' user accounts in the config file to a role system, which lets us change role assignments without having to restart the server.  
 In order to convert your current config to the new roles you can import them by going to the rails console in the production environment by running the following command in your diaspora directory:
