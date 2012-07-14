@@ -311,6 +311,7 @@ common: &common
 <b>The heroku platform with the new cedar stack includes wildcard SSL</b> and the certificate is pre installed on your application. For example `https://pod12345.herokuapp.com` should work perfectly well with the federation protocol. Simply set the URL in the config/application.yml file to match the file system environment. In this case the line would be `ca_file: '/etc/ssl/certs/ca-certificates.crt'` and you're good to go.
 
 There is no reason to register a domain or acquire a certificate from an authority unless you feel the need to have a specific resource locator.
-
- 
 ***
+
+> **Note:** If you're about to setup a pod that has non-english users, you might need to look into the collation encoding of the database. Default setup is to use utf8_bin which lacks support for non-english characters. For such support, you might need to change it to utf8_unicode_ci in the file config/database.yml.
+> See more in the documentation for [Installing on Fedora](https://github.com/diaspora/diaspora/wiki/Installing-on-Fedora) and read the header MySQL.
