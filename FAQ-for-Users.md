@@ -276,7 +276,7 @@ Once you are sharing with someone on another pod, any posts you share with them 
 Yes.  After scrolling down a page, click on the grey arrow that appears in the bottom right corner of your browser window.    
 
 ***Are there photo or video albums?***  
-No, not currently (but see [cubbi.es](http://cubbi.es/)).  
+No, not currently. However by clicking a users picture on their "profile" or "user page" you can view a stream of their uploaded pictures.  
 
 ***Can I subscribe to someone's public posts with a feed reader?***  
 Yes, but this is still not a polished feature and the formatting of the results is still pretty rough (you get raw markdown text, for example).  If you want to try it anyway, go to someone's profile page and click the feed button in your browser, or you can copy the profile URL (i.e. https://joindiaspora.com/people/somenumber), and paste it into a feed reader. The resulting feed address looks like this: https://joindiaspora.com/public/username.atom  Diaspora uses Atom rather than RSS. 
