@@ -304,6 +304,10 @@
 
 ## 2012
 
+### July
+
+* ZEIT Wissen, Nr. 5 (August/September), Das neue Internet: Genervt von Facebook und Google? Es gibt gute Alternativen
+
 ### January
 
 * DRadio Wissen, 01.24.2012, [Dezentrale Netzwerke für mehr Sicherheit](http://wissen.dradio.de/internet-dezentrale-netzwerke-fuer-mehr-sicherheit.36.de.html?dram:article_id=14661)
