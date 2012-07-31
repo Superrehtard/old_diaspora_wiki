@@ -1,26 +1,29 @@
 ##Framework and Tools:
 
-Diaspora is written in **[Ruby on Rails][ror]**, a web framework for Ruby.  
+Diaspora is written in **[Ruby on Rails][ror]**, a web framework for the [Ruby programming language][ruby].  
 If you’ve never looked at a Rails project, you may want to check out a [Rails guide like this one][ror-getting-started].
 
 There are a few tools we’re using that aren’t in every rails project: 
 
 * **Haml**  
-  Our views are written in HAML, a templating language.  The HAML docs are [here][haml]. 
-  You can find them under `app/views`.
+  Our view templates are written in HAML (a templating language) instead of the default ERB (HTML with inline Ruby code).  
+  The HAML docs can be found [here][haml]. The corresponding files under `app/views`.
 * **Sass**  
-  Our CSS is written in [SASS], which generates CSS.
-  The syntax is inspired by HAML, and quite similar. If you want to edit the stylesheets, 
-  look in `app/assets/stylesheets/sass/`.  
+  Our CSS is written in [SASS] (specifically, the 'scss' dialect), which generates the actual CSS 
+  via the [Rails asset pipeline][asset-pipeline].
+  The syntax is inspired by CSS, and quite similar, but it offers some additional features like nesting and variables.
+  If you want to edit the stylesheets, have a look in `app/assets/stylesheets/`.  
   ***Note:*** Both HAML and SASS are whitespace sensitive.
 * **Backbone.js & Handlebars.js**  
-  The client-side functionality and rendering is mostly done with [Backbone.js][backbone], 
-  which communicates [REST]-fully with the server and triggers the rendering of the 
-  [Handlebars.js][handlebars] templates. The logic is found in `app/assets/javascripts/app` and the 
+  The client-side functionality and rendering is mostly coordinated with [Backbone.js][backbone], 
+  which communicates [REST]-fully with the server with JSON and triggers the rendering of the 
+  [Handlebars.js][handlebars] templates. The logic is found in `app/assets/javascripts/app` and the Handlebars
   templates are located in `app/assets/templates`
 
+[ruby]: http://www.ruby-lang.org
 [ror]: http://rubyonrails.org/
 [ror-getting-started]: http://guides.rubyonrails.org/getting_started.html
+[asset-pipeline]: http://guides.rubyonrails.org/asset_pipeline.html
 [haml]: http://haml-lang.com/docs.html
 [sass]: http://sass-lang.com/docs.html
 [backbone]: http://documentcloud.github.com/backbone/
@@ -39,7 +42,7 @@ We write our unit tests for ruby code in [Rspec], the JavaScript test are in [Ja
 
 ##The Models:
 
-Our Models can be found in the app/models folder:
+Our Models can be found in the `app/models` folder:
 
 User – Users, of course, come first.   A User object represents the private information and capabilities of a user on that server.  The user object is able to friend people, post updates, and update his profile.  A User has a Person.
 
