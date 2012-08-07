@@ -1,10 +1,42 @@
 # Changelog
 
+This page contains a list of some of the more notable changes that happened in our codebase.  
+For a full list of changes, please see the [git commit log](https://github.com/diaspora/diaspora/commits/master).
+
 ## 2012
+### August
+
+
+### July
+* Update jQuery MentionsInput plugin to latest upstream version
+* Mobile toggle now works with desktop browsers, too
+* Flash messages are visible again (CSS fix)
+
+### June
+* Upgrade to Rails 3.2.6
+* New error page indicating a limited post being accessed when not logged in
+* Uploaded images are rotated correctly based on Exif data
+* Visual improvements to the oembed overlay
+* [SECURITY] fix vulnerability to malicious federated messages
+
+### May
+* 'Back-to-top' button comeback
+* Performance improvements for new post show pages
+* Beta profiles now feature background images
+* Refactoring of email generation and templating
+* Upgrade to rails_admin 0.0.3
+* Rake task for fixing mixed-case hashtags
+
 ### April
 * New quick-setup script to get started with a dev-installation
 * Bootstrap is now unified into one version
 * Update to Rails 3.1 + new asset pipeline
+* Update Backbone.js to 0.9
+* Major refactoring in the JS view templates and the config file
+* Photo stream comeback - fully Backbone-ified
+* Improvements in embedding 'rails_admin'
+* New 404 'Not found' page
+* First appearance of the role system
 
 ### March
 * Allow non-ascii characters in links
