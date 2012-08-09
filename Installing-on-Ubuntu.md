@@ -30,7 +30,7 @@ This is for Ubuntu 12.04. There are other steps than just this one:
 
 For all three ubuntu releases run this if you are not going to use RVM:
 
-    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.15-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.24-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
 
 ### Install RVM (optional but currently recommended)
 
@@ -148,4 +148,4 @@ and try the step again.
 
 To install RubyGems run
 
-    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.15-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
+    wget http://ftp.us.debian.org/debian/pool/main/r/rubygems/rubygems_1.8.24-1_all.deb -O rubygems.deb && sudo dpkg -i rubygems.deb
