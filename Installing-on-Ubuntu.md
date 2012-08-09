@@ -36,11 +36,11 @@ For all three ubuntu releases run this if you are not going to use RVM:
 
 You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version.
 
-To install RVM and Ruby 1.9.3, as your normal user (the one which Diaspora should run under), run
+To install RVM and Ruby 1.8.7, as your normal user (the one which Diaspora should run under), run
 
 ```bash
-rvm install ruby-1.9.3-p125
-rvm use ruby-1.9.3-p125@global
+rvm install ruby-1.8.7-p370
+rvm use ruby-1.8.7-p370@global
 ```
 
 ### Start MySQL (optional, depending on your platform):
