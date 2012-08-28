@@ -1,5 +1,8 @@
 Below is an index of Developer-centric pages and resources. Keep in mind that this is still being re-worked, and will be further cleaned up in due time.
 
+## [[Developer Workflows]]
+These are guidelines that show how the different tools in the community are used. As we're a Community-Driven project now, it's important to follow these.
+
 ## [Contributor License Agreement](New-CLA--12-13-10)
 The Diaspora CLA is a helpful agreement between Diaspora Inc, the core developers, and any community contributors. It states the scope of community open-source licenses used within the project, and the nature of the relationship between the core developers and community contributors  [You can sign it here](https://spreadsheets.google.com/a/joindiaspora.com/spreadsheet/viewform?formkey=dFdRTnY0TGtfaklKQXZNUndsMlJ2eGc6MQ)
 
