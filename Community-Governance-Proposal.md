@@ -25,4 +25,9 @@ The logical next step is to gear up on our documentation. Our docs could cover d
 
 ### Stage 2
 
-To be written.
+Stage 2 is where we begin to get our hands dirty.
+
+* Start up Bug Mash Monday again. The point of BMM is to provide some low-hanging fruit to beginners that want to learn more about working with D*.
+* Developers will be encouraged to work with one another on features in teams. Features will be discussed openly on Diaspora-Dev, and community members are welcome to join a team and offer whatever help they can.
+* When a developer makes an announcement to begin work on a new feature, their announcement will be shared out through DiasporaHQ. 
+* Community devs will be able to work on whatever they want to, so long as they keep in mind the needs of the other teams. Communication between these teams is absolutely crucial.
