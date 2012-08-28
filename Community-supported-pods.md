@@ -365,12 +365,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux 
     * Comments: Public and free Diaspora pod.
 
-* [[https://diaspora.danapriesing.net]] [[http://diaspora.danapriesing.net/apple-touch-icon.png|height=30px|]]
-    * Updated: periodically
-    * Maintained by: private individual
-    * Operating system: Fedora 16 Linux
-    * Comments: A little friends-and-family pod.
-
 * [[https://diasp.3towers.de/]]
    * Opened: 16/11/2011
    * Updated: regulary
