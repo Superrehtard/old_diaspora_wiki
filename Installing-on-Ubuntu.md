@@ -10,6 +10,18 @@ If you're going through a proxy, add the following to the ~/.curlrc file:
     proxy=host:port
     proxy-user=username:password
 
+This is for Ubuntu 10.04. There are other steps than just this one:
+
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5-dev
+
+NodeJS needs to be built from source on 10.04.
+
+    git clone git://github.com/ry/node.git
+    cd node
+    ./configure
+    make
+    sudo make install
+
 This is for Ubuntu 10.10. There are other steps than just this one:
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 ruby-full mysql-server libmysqlclient-dev libmysql-ruby libssl-dev libopenssl-ruby libcurl4-openssl-dev imagemagick libmagickwand-dev git-core redis-server libffi-dev libffi-ruby rubygems libsqlite3-dev libpq-dev libreadline5-dev nodejs
