@@ -23,7 +23,7 @@ The logical next step is to gear up on our documentation. Our docs could cover d
 * New developers will be pointed to specific pieces of the docs to help directly answer their questions, and better serve their needs.
 * A new workflow will be established to make it easier for Podmins to report their problems to the community, along with updating docs and better reporting of bugs.
 
-### Stage 2
+## Stage 2
 
 Stage 2 is where we begin to get our hands dirty.
 
@@ -32,7 +32,7 @@ Stage 2 is where we begin to get our hands dirty.
 * When a developer makes an announcement to begin work on a new feature, their announcement will be shared out through DiasporaHQ. 
 * Community devs will be able to work on whatever they want to, so long as they keep in mind the needs of the other teams. Communication between these teams is absolutely crucial.
 
-### Stage 3
+## Stage 3
 
 Eventually, these teams will gain more members, senior members will have seniority in their respective teams. Some infrastructure might need to be put in at some point for teams to be able to effectively communicate. Maybe we could just encourage them to talk on the mailing lists with group tags in messages.
 
@@ -42,10 +42,10 @@ Eventually, these teams will gain more members, senior members will have seniori
 * These people will ultimately make the bigger decisions for the things that they work on, but will also hold discussions with their team members and other teams to better direct feature direction and collaborate on needs.
 * A better roadmap will be hammered out by these people to help steer their respective teams to work more closely together.
 
-### Stage 4
+## Stage 4
 
 Once these teams are actively giving PR with good tests, start holding discussions on a more community-centric version of the Diaspora frontend. Figure out what features are wanted, and collaborate with a Design Team to make a default UI that looks great, and works well with the existing featureset.
 
-### Stage 5
+## Stage 5
 
 After there are enough active contributors and development spans multiple teams that have contributed much to Diaspora, have the community council run their first official election. Council positions will be temporary ones in which members can be reelected, with elections happening once a year.
