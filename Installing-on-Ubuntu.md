@@ -5,12 +5,6 @@ You will need to make sure that your username is on the sudo authorized list loc
 
 ### Install everything from APT (more info in the Appendix):
 
-_It is recommended that you install rvm from source since Ubuntu's version is lagging._
-
-To install rvm from source, execute the following command:
-
-    curl -L get.rvm.io | bash -s stable --auto
-
 If you're going through a proxy, add the following to the ~/.curlrc file:
 
     proxy=host:port
@@ -37,6 +31,12 @@ For all three ubuntu releases run this if you are not going to use RVM:
 You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version.
 
 To install RVM and Ruby 1.8.7, as your normal user (the one which Diaspora should run under), run
+
+_It is recommended that you install rvm from source since Ubuntu's version is lagging._
+
+To install rvm from source, execute the following command:
+
+    curl -L get.rvm.io | bash -s stable --auto
 
 ```bash
 rvm install ruby-1.8.7-p370
