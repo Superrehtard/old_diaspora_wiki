@@ -2,7 +2,7 @@
 
 This document is not intended to explicity show work workflow; it is an overreaching proposal for how the community can work together to emerge into a much more democratic, community-driven project. 
 
-For Workflow-specific topics, check out our [[Community Workflows]].
+For Workflow-specific topics, check out our [[Developer Workflows]].
 
 The goal of this initiative is to turn Diaspora into the fully community-centric project that it was intended to be.
 
