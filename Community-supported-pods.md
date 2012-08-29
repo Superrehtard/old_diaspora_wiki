@@ -412,7 +412,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux (Ubuntu 10.04)
     * Comments: Caters to cryptocurrency and computational science enthusiasts.
 
-* [[https://hfase.com]]
+* [[https://hfase.com]] [[http://hfase.com/apple-touch-icon.png|height=30px]]
     * Updated: Often
     * Maintained by Hans Fase
        * Diaspora handle: hans@hfase.com
