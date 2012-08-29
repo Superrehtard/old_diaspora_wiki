@@ -1,6 +1,6 @@
 ### The current working stage is referred to as "Stage 1". 
 
-This document is not intended to explicity show work workflow; it is an overreaching proposal for how the community can work together to emerge into a much more democratic, community-driven project. 
+This document is not intended to explicity show a workflow; it is an overreaching proposal for how the community can work together to emerge into a much more democratic, community-driven project. 
 
 For Workflow-specific topics, check out our [[Developer Workflows]].
 
