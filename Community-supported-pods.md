@@ -411,3 +411,10 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
        * Diaspora handle: Todamont@cryptospora.net
     * Operating system: Linux (Ubuntu 10.04)
     * Comments: Caters to cryptocurrency and computational science enthusiasts.
+
+* [[https://hfase.com]]
+    * Updated: Often
+    * Maintained by Hans Fase
+       * Diaspora handle: hans@hfase.com
+    * Operating system: Linux (Ubuntu 12.04)
+    * Comments: Hosted from my-own server.
