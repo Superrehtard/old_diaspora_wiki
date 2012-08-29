@@ -30,6 +30,17 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Linux (Ubuntu 10.10)
    * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.
 
+* [[https://de.public-pod.net/]] [[https://de.public-pod.net/apple-touch-icon.png|height=30px]]
+   * Opened: 01/09/2012
+   * Updated: daily
+   * HTTPS only
+   * IPv6-Support
+   * Maintained by: Marco Fischer
+       * diaspora: meemarco@de.public-pod.net
+       * Contact: mfischer@meeyulabs.de
+   * Operating system: Centos
+   * Comments: Public and free Diaspora pod. Over 100% uptime, 8 cores, 24GB ram, facebook, twitter integration, targeting german-speaking users
+
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: daily
