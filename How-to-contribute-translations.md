@@ -55,6 +55,7 @@ If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX,
 ### Languages handled outside of Web translate it
 
 * [[ca|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
+* [[es-VE|https://github.com/ruby-ve]]
 * [[gl|http://trasno.net/]]
 * [[sq|https://github.com/ujdhesa]]
 
