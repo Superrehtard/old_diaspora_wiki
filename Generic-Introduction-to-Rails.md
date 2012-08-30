@@ -1,7 +1,7 @@
 Introduction to Rails Application
 ====================
 
-WIP!! This page is very rough! I hope to abbreviate it some and add more links & details soon.. 
+WIP!! This page is very rough! I hope to abbreviate it, proof-read, and add more links & details soon.. 
 ---------------------
 
 Diaspora is built using the Ruby-on-Rails application platform. In this page you will find the most basic information to help you understand Rails and successfully configure and run the Diaspora Rails application.
