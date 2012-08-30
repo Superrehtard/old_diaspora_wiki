@@ -7,8 +7,7 @@ to IRC channels and mailing lists are at the bottom of this page.**
 
 ##Developer FAQ
 
-***How do I get the latest source?***
-
+***How do I get the latest source?***  
 Pull the latest from github.
 
     git pull
@@ -25,15 +24,17 @@ Install any updates to gems:
     rake db:migrate
 
 ***How do I get debug information?***  
-
 You can use the command  
 
     tail -f log/development.log
 
 to watch the log in development mode.    
 
-***How do I get the latest beta features aka. "New Hotness"***
+***I have found an issue with federation, how can I debug it?***  
+We actually provide a special configuration for testing server-to-server communication, which produces logs that contain only the events around federation. It involves spinning up two Diaspora* instances which you can use to recreate realistic circumstances and the logs of both sides are recorded into a single file.  
+See [[Federation Logger]]
 
+***How do I get the latest beta features aka. "New Hotness"***  
 In order to enable feature-flagged code you have to start your app server with the `NEW_HOTNESS` envrionment variable set.
 
     export NEW_HOTNESS=yesplze
