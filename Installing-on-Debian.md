@@ -168,4 +168,4 @@ Last of all, you need to install the execjs gem
     sudo gem install execjs
 
 
-## Congrats! You have all your dependencies installed. Go back to [[Installing and Running Diaspora]].
+## Congrats! You have all your dependencies installed. Proceed to [[Notes on Installing and Running Diaspora]].
