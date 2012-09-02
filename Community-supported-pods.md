@@ -419,7 +419,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux (Ubuntu 12.04)
     * Comments: Hosted from my-own server.
 
-* [[https://Diaspora.PermutationsOfChaos.com/]]
+* [[https://Diaspora.PermutationsOfChaos.com/]] [[https://diaspora.permutationsofchaos.com/apple-touch-icon.png|height=30px|]]
    * Opened: 9/1/2011
    * Updated: semi-regularly
    * HTTPS only
