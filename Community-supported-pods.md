@@ -418,3 +418,13 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
        * Diaspora handle: hans@hfase.com
     * Operating system: Linux (Ubuntu 12.04)
     * Comments: Hosted from my-own server.
+
+* [[https://Diaspora.PermutationsOfChaos.com/]]
+   * Opened: 9/1/2011
+   * Updated: semi-regularly
+   * HTTPS only
+   * Hosted by Linode
+   * Maintained by: Jed Hobbs
+       * Contact: webadmin@permutationsofchaos.com
+   * Operating system: Debian Linux 6.0
+   * Comments: Public and free, twitter integration. If you join the pod add me.
