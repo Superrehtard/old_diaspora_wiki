@@ -227,6 +227,13 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
    * Configuration: Nginx proxying multiple thin via sockets
 
+* [[https://kosmospora.net/]]
+   * Opened: Feb-2012
+   * Updated: running almost last pistos code 
+   * HTTPS only
+   * Maintained by a private individual: groovehunter@kosmospora.net
+   * Operating system: Linux Ubuntu
+   * Comments: Open pod twitter integration, germany-based.
 
 * [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
     * Opened: 31/12/2010
