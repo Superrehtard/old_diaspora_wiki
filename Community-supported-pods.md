@@ -434,4 +434,5 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Maintained by: Jed Hobbs
        * Contact: webadmin@permutationsofchaos.com
    * Operating system: Debian Linux 6.0
-   * Comments: Public and free, twitter integration. If you join the pod add me.
+   * Comments: Public, Free, Twitter & FB integration. If you join the pod add me.
+   * Notification of planned pod downtime/maintenance/updates.
