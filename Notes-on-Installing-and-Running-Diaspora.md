@@ -202,8 +202,9 @@ to create the needed database (or you could instead create the database manually
 If you want to create it manually make sure you choose utf8 as charset and utf8_bin as collation.
 
 Now you need to create the necessary tables. To do so run 
-`bundle exec rake db:migrate` for development mode or
-`RAILS_ENV=production bundle exec rake db:migrate` for production mode.
+`bundle exec rake db:schema:load` for development mode or
+`RAILS_ENV=production bundle exec rake db:schema:load` for production mode.
+*Warning:* This will empty your database, on update use `db:migrate` instead of `db:schema:load`!
 
 ### Set up services
 

@@ -21,7 +21,7 @@ Install any updates to gems:
 
     rake db:drop
     rake db:create
-    rake db:migrate
+    rake db:schema:load
 
 ***How do I get debug information?***  
 You can use the command  
