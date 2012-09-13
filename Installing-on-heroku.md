@@ -21,11 +21,10 @@ Now that you've come up with a unique name for your pod, run the following comma
 $ heroku create mypod --stack cedar
 $ heroku config:add DB=mysql
 $ heroku labs:enable user_env_compile
-$ heroku labs:enable sigterm-all
 $ heroku addons:add redistogo:nano
 ```
 
-Two Heroku Labs experimental features are used here. The `user_env_compile` feature makes your Heroku config variables available during slug compilation, which (in Rails 3.1+) makes your database available during asset precompilation. The `sigterm-all` sends SIGTERM to all processes in a dyno rather than just the master process, this makes it easier for your Resque background workers to clean up after themselves.
+Two Heroku Labs experimental features are used here. The `user_env_compile` feature makes your Heroku config variables available during slug compilation, which (in Rails 3.1+) makes your database available during asset precompilation.
 
 ### MySQL
 
