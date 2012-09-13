@@ -12,7 +12,7 @@ communicate and make up the Diaspora Network.
 
 If you still want to run your own pod... we salute you. Read on.
 
-For OS-Specific and service-specific guides, check out [this page](https://github.com/diaspora/diaspora/wiki/Installation-Guides).
+**For OS-Specific and service-specific guides, check out [this page](https://github.com/diaspora/diaspora/wiki/Installation-Guides).**
 
 ## Things To Know
 
