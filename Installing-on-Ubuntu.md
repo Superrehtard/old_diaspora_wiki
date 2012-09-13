@@ -51,8 +51,8 @@ To install rvm from source, execute the following command:
     curl -L get.rvm.io | bash -s stable --auto
 
 ```bash
-rvm install ruby-1.9.3-p125
-rvm use ruby-1.9.3-p125@global
+rvm install ruby-1.9.3-p194
+rvm use ruby-1.9.3-p194@global
 ```
 
 ### Start MySQL (optional, depending on your platform):
