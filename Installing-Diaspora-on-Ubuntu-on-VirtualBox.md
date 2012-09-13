@@ -60,7 +60,7 @@ should get response
 
 should get an ip address in eth1, mine is: 192.168.56.103
 	
-open http://192.168.56.103 in your browser.
+open http://YOUR.IP.ADDRESS/ in your browser.
 if it does not say 'it works', then your network is messed up and I am sorry.
 
 ## SSH into the box
@@ -97,7 +97,7 @@ run:
 	sudo /etc/init.d/apache2 restart
 
 Go here and proceed through ssl errors:
-https://192.168.56.103/
+https://YOUR.IP.ADDRESS/
 It should say: "it works".
 
 ## Installing Diaspora's Ruby Environment:
@@ -193,8 +193,8 @@ Add apache mods and restart:
 	sudo a2enmod proxy proxy_balancer proxy_http headers
 	sudo /etc/init.d/apache2 restart
 
-https://192.168.56.103/ = SERVICE UNAVAILABLE
+https://YOUR.IP.ADDRESS/ = SERVICE UNAVAILABLE
 
 	./script/server
 
-https://192.168.56.103/ = Diaspora!
+https://YOUR.IP.ADDRESS/ = Diaspora!
