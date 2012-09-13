@@ -40,10 +40,8 @@ Important: Make sure to use `mysql2://` and _not_ `mysql://` or Heroku will not 
 The first thing you're going to want to do is edit the `.gitignore` file in your private fork. Remove or comment out (by placing a `#` in front of them) the following lines:
 
 ```
-app/views/home/_show.html.haml
-app/views/home/_show.mobile.haml
-public/images/ball_small.png
-public/images/ball.png
+app/views/home/_show.*
+app/assets/images/custom/*
 config/app_config.yml
 config/app.yml
 config/application.yml
