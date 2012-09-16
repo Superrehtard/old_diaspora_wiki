@@ -43,14 +43,13 @@ Note! Do not do `git flow feature finish` for your branch. Submit the whole feat
 
 # Step-by-step (the long version)
 
-**[TODO] Long version update TBD - please note anything below has not been updated according to the new branching model yet - update soon! (16th Sep 2012)**
-
 If you're new to git and GitHub, here's the longer version of these instructions.
 
 ## Install git and git-flow
 
-1. [Install Git for your platform](http://git-scm.com/downloads).
-2. [Install git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) IF available for your platform.
+1. [Install Git for your platform](http://git-scm.com/downloads)
+2. [Install git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) IF available for your platform
+3. (Optional but highly recommended) [Install git-flow completion](https://github.com/bobthecow/git-flow-completion) for some bash auto-complete magic
 
 ## Create an account on GitHub and fork the Diaspora repository.
 
@@ -102,17 +101,17 @@ $ rake spec
 
 Maybe you have a feature addition in mind, but if not, check out our [issue tracker](https://github.com/diaspora/diaspora/issues), or come ask in IRC what needs doing.
 
-## Create an Issue-Specific Development Branch
+## Create an Issue-Specific Feature Branch
 
-************* Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable, if there's no issue just skip it) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
+Before you start working on a new feature or bugfix, create a new feature branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable, if there's no issue just skip it) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
 
 ~~~
-$ git checkout -b 359-aspect-names
+$ git flow feature start 359-aspect-names
 ~~~
 
 ## Write awesome code
 
-You must write unit tests for all bugfixes, no matter how small. We can help you! 
+You must write unit tests for all bug fixes, no matter how small. We can help you! 
 
 Edit and test the files on your development machine. When you've got something the way you want and established that it works, commit the changes to your branch on your development server's git repo.
 
@@ -126,10 +125,10 @@ You'll need to use git add for each file that you created or modified. There are
 Then, you can push your new branch to GitHub, like this (replace 359-aspect-names with your branch name):
 
 ~~~
-$ git push origin 359-aspect-names
+$ git flow feature publish 359-aspect-names
 ~~~
 
-You should be able to log into your GitHub account, switch to the branch, and see that your changes have been committed. Then click the Pull button to request that your commits get merged into the Diapsora development trunk.  
+You should be able to log into your GitHub account, switch to the branch, and see that your changes have been committed. Then click the Pull button to request that your commits get merged into the Diaspora development trunk.  
 
 ## Keep Your Repository Up to Date
 
@@ -155,15 +154,15 @@ If you've set up an upstream branch as detailed above, and a development branch 
 
 ```
 $ git fetch upstream
-$ git checkout master
-$ git rebase upstream/master
-$ git checkout 100-retweet-bugfix
+$ git checkout develop
+$ git pull upstream develop
+$ git flow feature checkout 100-retweet-bugfix
 [make sure all is committed as necessary in branch]
-$ git rebase master
+$ git rebase develop
 ```
 You may need to resolve conflicts that occur when a file on the development trunk and one of your files have both been changed. Edit each file to resolve the differences, then commit the fixes to your development server repo and test. Each file will need to be "added" before running a "commit." 
 
-p. Conflicts are clearly marked in the code files. Make sure to take time in determining what version of the conflict you want to keep and what you want to discard. 
+Conflicts are clearly marked in the code files. Make sure to take time in determining what version of the conflict you want to keep and what you want to discard. 
 
 ```
 $ git add <filename>
@@ -173,10 +172,10 @@ $ git commit
 To push the updates to your GitHub repo, replace 100-retweet-bugfix with your branch name and run:
 
 ```
-$ git push origin 100-retweet-bugfix
+$ git flow feature publish 100-retweet-bugfix
 ```
 
-## Send Diaspora a pull request on github
+## Send Diaspora a pull request on GitHub
 
 Github will notify us and we'll review your patch and either pull it in or comment on it
 
@@ -204,14 +203,14 @@ $ git commit -a
 
 ## <a name='wiki-gitrebase1'></a> What's git-rebase?
 
-Using `git-rebase` helps create clean commit trees and makes keeping your code up-to-date with the current state of the upstream master easy. Here's how it works.
+Using `git-rebase` helps create clean commit trees and makes keeping your code up-to-date with the current state of upstream easy. Here's how it works.
 
 Let's say you're working on Issue #212 a new plugin in your own branch and you start with something like this:
 
 ```
           1---2---3 #212-my-new-plugin
          /
-    A---B #master
+    A---B #develop
 ```
 
 You keep coding for a few days and then pull the latest upstream stuff and you end up like this:
@@ -219,7 +218,7 @@ You keep coding for a few days and then pull the latest upstream stuff and you e
 ```
           1---2---3 #212-my-new-plugin
          /
-    A---B--C--D--E--F #master
+    A---B--C--D--E--F #develop
 ```
 
 So all these new things (C,D,..F) have happened since you started. Normally you would just keep going (let's say you're not finished with the plugin yet) and then deal with a merge later on, which becomes a commit, which get moved upstream and ends up grafted on the tree forever.
@@ -227,7 +226,7 @@ So all these new things (C,D,..F) have happened since you started. Normally you 
 A cleaner way to do this is to use rebase to essentially rewrite your commits as if you had started at point F instead of point B. So just do:
 
 ```
-git rebase master 212-my-new-plugin
+git rebase develop 212-my-new-plugin
 ```
 
 git will rewrite your commits like this:
@@ -235,12 +234,12 @@ git will rewrite your commits like this:
 ```
                       1---2---3 #212-my-new-plugin
                      /
-    A---B--C--D--E--F #master
+    A---B--C--D--E--F #develop
 ```
 
 It's as if you had just started your branch. One immediate advantage you get is that you can test your branch now to see if C, D, E, or F had any impact on your code (you don't need to wait until you're finished with your plugin and merge to find this out). And, since you can keep doing this over and over again as you develop your plugin, at the end your merge will just be a fast-forward (in other words no merge at all).
 
-So when you're ready to send the new plugin upstream, you do one last rebase, test, and then merge (which is really no merge at all) and send out your pull request. Then in most cases, Gina has a simple fast forward on her end (or at worst a very small rebase or merge) and over time that adds up to a simpler tree.
+So when you're ready to send the new plugin upstream, you do one last rebase, test, and then merge (which is really no merge at all) and send out your pull request. Then in most cases, a reviewer has a simple fast forward on her end (or at worst a very small rebase or merge) and over time that adds up to a simpler tree.
 
 More info on the git man page here: 
 [Git rebase: man page](http://schacon.github.com/git/git-rebase.html)
