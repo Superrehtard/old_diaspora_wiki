@@ -8,6 +8,8 @@ To make following this model easier we use [git-flow](https://github.com/nvie/gi
 
 Please note that the usage of git-flow extensions for Diaspora* does not stop the usage of vanilla git commands! If you are not able to use git-flow or do not feel comfortable with using it, please feel free to use normal git commands. But we do enforce the branching model so please read the branching model post carefully and follow the guidelines closely.
 
+Discussion on improving this branching model happens on [Loom.io](http://loom.io/discussions/628).
+
 # Quickfire Do's and Don't's
 
 If you're familiar with git and GitHub, here's the short version of what you need to know. Once you fork and clone the Diaspora code:
