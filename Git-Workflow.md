@@ -1,14 +1,24 @@
-If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into the master branch, here's how.  Thanks to [ThinkUp](https://github.com/ginatrapani/ThinkUp) for their awesome developer guide, which inspired ours.
+If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into core Diaspora* code, here's how.  Thanks to [ThinkUp](https://github.com/ginatrapani/ThinkUp) for their awesome developer guide, which inspired ours.
+
+# Branching model
+
+Firstly the most important part, the branching model that Diaspora follows. Our branching model is based on [a post on Git branching models](http://nvie.com/posts/a-successful-git-branching-model/) by [nvie](http://nvie.com/about/).
+
+To make following this model easier we use [git-flow](https://github.com/nvie/gitflow) which contains high level extensions for this Git branching model. Please start by [installing the git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) as per installation instructions on their project page. There is also [a blog post](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/) explaining in short how git-flow basics work.
+
+Please note that the usage of git-flow extensions for Diaspora* does not stop the usage of vanilla git commands! If you are not able to use git-flow or do not feel comfortable with using it, please feel free to use normal git commands. But we do enforce the branching model so please read the branching model post carefully and follow the guidelines closely.
 
 # Quickfire Do's and Don't's
 
 If you're familiar with git and GitHub, here's the short version of what you need to know. Once you fork and clone the Diaspora code:
 
-*  **Don't develop on the master branch.** Always create a development branch specific to [the issue](https://github.com/diaspora/diaspora/issues) you're working on. Name it by issue # and description. For example, if you're working on Issue #359, an aspect naming fix, your development branch should be called 359-aspect-names. If you decide to work on another issue mid-stream, create a new branch for that issue--don't work on both in one branch.
+*  **Never, ever, do anything in master branch. The branch develop is the head of development, master is for stable releases!**
 
-* **Do not merge** the upstream master with your development branch; **rebase** your branch on top of the upstream master.
+*  **Don't develop on the develop branch.** Always create a feature branch specific to [the issue](https://github.com/diaspora/diaspora/issues) you're working on. Name it by issue # and description. For example, if you're working on Issue #359, an aspect naming fix, your feature branch should be called 359-aspect-names. If you decide to work on another issue mid-stream, create a new branch for that issue--don't work on both in one branch.
 
-* **A single development branch should represent changes related to a single issue.** If you decide to work on another issue, create another branch.
+* **Do not merge** the upstream develop with your feature branch; **rebase** your branch on top of the upstream develop.
+
+* **A single feature branch should represent changes related to a single issue.** If you decide to work on another issue, create another feature branch from develop.
 
 # Step-by-step (the short version)
 
@@ -16,19 +26,27 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 2. Clone to computer (`$ git clone git@github.com:you/diaspora.git`)
 3. Don't forget to cd into your repo: (`$ cd diaspora/`)
 4. Set up remote upstream (`$ git remote add upstream git://github.com/diaspora/diaspora.git`)
-5. Create a branch for new issue (`$ git checkout -b 100-new-feature`, if you don't have a bug report no worries just skip the number) 
-6. Develop on issue branch. _[Time passes, the main Diaspora repository accumulates new commits]_
-7. Commit changes to issue branch. (`$ git add . ; git commit -m 'commit message'`)
-8. Fetch upstream (`$ git fetch upstream`)
-9. Update local master (`$ git checkout master; git pull upstream master`)
-10. Repeat steps 5-8 till dev is complete
-11. Rebase issue branch (`$ git checkout 100-new-feature; git rebase master`)
-12. Push branch to GitHub (`$ git push origin 100-new-feature`)
-13. Issue pull request (Click Pull Request button) 
+5. Start working on a new issue or feature (`$ git flow feature start 100-new-feature`, for issues, if you don't have a bug report no worries just skip the number)
+6. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
+7. Fetch upstream (`$ git fetch upstream`)
+8. Update local develop (`$ git checkout develop; git pull upstream develop`)
+9. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
+10. Repeat steps 6-9 till dev is complete
+11. Rebase develop in to feature branch (`$ git rebase develop feature/100-new-feature`)
+12. Finish feature (`$ git flow feature finish 100-new-feature`)
+13. Push branch to GitHub (`$ git flow feature publish 100-new-feature`)
+14. Issue pull request (Click Pull Request button) 
 
 # Step-by-step (the long version)
 
+**[TODO] Long version update TBD - please note anything below has not been updated according to the new branching model yet - update soon! (16th Sep 2012)**
+
 If you're new to git and GitHub, here's the longer version of these instructions.
+
+## Install git and git-flow
+
+1. [Install Git for your platform](http://git-scm.com/downloads).
+2. [Install git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) IF available for your platform.
 
 ## Create an account on GitHub and fork the Diaspora repository.
 
@@ -82,7 +100,7 @@ Maybe you have a feature addition in mind, but if not, check out our [issue trac
 
 ## Create an Issue-Specific Development Branch
 
-Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable, if there's no issue just skip it) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
+************* Before you start working on a new feature or bugfix, create a new branch in your local repository that's dedicated to that one change. Name it by issue number (if applicable, if there's no issue just skip it) and description. For example, if you're working on issue #359, a aspect naming bugfix, create a new branch called 359-aspect-names, like this:
 
 ~~~
 $ git checkout -b 359-aspect-names
