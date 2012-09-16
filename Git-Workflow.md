@@ -30,15 +30,14 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 4. Set up remote upstream (`$ git remote add upstream git://github.com/diaspora/diaspora.git`)
 5. Start working on a new issue or feature (`$ git flow feature start 100-new-feature`, for issues, if you don't have a bug report no worries just skip the number)
 6. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
-7. Push branch to GitHub (`$ git flow feature publish 100-new-feature`)
+7. Push branch to GitHub (`$ git flow feature publish 100-new-feature`, just to stop you losing local changes on the event of hardware failure)
 8. Fetch upstream (`$ git fetch upstream`)
 9. Update local develop (`$ git checkout develop; git pull upstream develop`)
 10. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
 11. Repeat steps 6-9 till dev is complete
 12. Rebase develop in to feature branch (`$ git rebase develop feature/100-new-feature`)
-13. Push branch to GitHub (`$ git flow feature publish 100-new-feature`)
-14. (optional, will merge to local develop branch) Finish feature (`$ git flow feature finish 100-new-feature`)
-15. Issue pull request (Click Pull Request button) 
+13. Finish feature (`$ git flow feature finish 100-new-feature`)
+14. Issue pull request for develop branch (Click Pull Request button) 
 
 # Step-by-step (the long version)
 
