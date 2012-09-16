@@ -34,18 +34,6 @@ to watch the log in development mode.
 We actually provide a special configuration for testing server-to-server communication, which produces logs that contain only the events around federation. It involves spinning up two Diaspora* instances which you can use to recreate realistic circumstances and the logs of both sides are recorded into a single file.  
 See [[Federation Logger]]
 
-***How do I get the latest beta features aka. "New Hotness"***  
-In order to enable feature-flagged code you have to start your app server with the `NEW_HOTNESS` envrionment variable set.
-
-    export NEW_HOTNESS=yesplze
-    script/server &   # (or whatever you use to start the app server)
-
-Now the latest and greatest stuff should be available to you as admin. If you want to present them to a user who isn't an admin, you can add the beta-role to his profile. 
-
-    user@host$ rails c
-    1.9.2p290 :001 > u = User.find_by_email("user@email.com")
-    1.9.2p290 :001 > Role.add_beta(u.person)
-
 ## What if my question isn't answered here?
 
 ### IRC Channels
