@@ -4,6 +4,9 @@ If you're a developer who wants to work on the Diaspora source code and submit y
 
 Firstly the most important part, the branching model that Diaspora follows. Our branching model is based on [a post on Git branching models](http://nvie.com/posts/a-successful-git-branching-model/) by [nvie](http://nvie.com/about/).
 
+In short, the model is explained nicely in this picture:
+![nvie git branching model](http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png)
+
 To make following this model easier we use [git-flow](https://github.com/nvie/gitflow) which contains high level extensions for this Git branching model. Please start by [installing the git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) as per installation instructions on their project page. There is also [a blog post](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/) explaining in short how git-flow basics work.
 
 Please note that the usage of git-flow extensions for Diaspora* does not stop the usage of vanilla git commands! If you are not able to use git-flow or do not feel comfortable with using it, please feel free to use normal git commands. But we do enforce the branching model so please read the branching model post carefully and follow the guidelines closely.
