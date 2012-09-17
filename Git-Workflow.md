@@ -31,16 +31,17 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 2. Clone to computer (`$ git clone git@github.com:you/diaspora.git`)
 3. Don't forget to cd into your repo: (`$ cd diaspora/`)
 4. Set up remote upstream (`$ git remote add upstream git://github.com/diaspora/diaspora.git`)
-5. Start working on a new issue or feature (`$ git flow feature start 100-description`, naming convention is *issuenumber-description*, if you don't have a bug report no worries just skip the number)
-6. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
-7. Push branch to GitHub (`$ git flow feature publish 100-description`, just to stop you losing local changes on the event of hardware failure)
-8. Fetch upstream (`$ git fetch upstream`)
-9. Update local develop (`$ git checkout develop; git pull upstream develop`)
-10. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
-11. Repeat steps 6-9 till dev is complete
-12. Rebase develop in to feature branch (`$ git rebase develop feature/100-description`)
-13. Publish feature branch to Github (`$ git flow feature publish 100-description`)
-14. Issue pull request for develop branch (Click Pull Request button) 
+5. If you use git-flow initialize it: `git flow init -d`
+6. Start working on a new issue or feature (`$ git flow feature start 100-description`, naming convention is *issuenumber-description*, if you don't have a bug report no worries just skip the number)
+7. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
+8. Push branch to GitHub (`$ git flow feature publish 100-description`, just to stop you losing local changes on the event of hardware failure)
+9. Fetch upstream (`$ git fetch upstream`)
+10. Update local develop (`$ git checkout develop; git pull upstream develop`)
+11. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
+12. Repeat steps 6-9 till dev is complete
+13. Rebase develop in to feature branch (`$ git rebase develop feature/100-description`)
+14. Publish feature branch to Github (`$ git flow feature publish 100-description`)
+15. Issue pull request for develop branch (Click Pull Request button) 
 
 Note! Do not do `git flow feature finish` for your branch. Submit the whole feature branch as a pull request instead without finishing it. It will be merged to _develop_ by a reviewer.
 
@@ -89,6 +90,12 @@ $ git clone git@github.com:you/diaspora.git
 ~~~
 
 That downloads your copy of Diaspora to a git repository on your development machine. Change directory into the new diaspora directory.
+
+Check that you have [git-flow](https://github.com/nvie/gitflow) installed and run
+
+~~~
+$ git flow init -d 
+~~~
 
 Now you need to install everything you need to run it - which is quite a lot of stuff. We have a guide to [installing and running Diaspora](http://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora) which should help. Pop into #diaspora on IRC (freenode) if you have problems.
 
