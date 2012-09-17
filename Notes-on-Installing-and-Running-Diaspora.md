@@ -70,14 +70,18 @@ After you're done following those instructions, come back here and move on to:
 
 ## Getting Diaspora Source
 
-Our code is hosted at GitHub (which also hosts the wiki page you're reading). Our test suite is run at <a href="http://travis-ci.org/#!/diaspora/diaspora" target="_blank">Travis CI</a>, you should check build status and verify your Ruby/DB combo are green and pass all tests before you pull code.
+Our code is hosted at GitHub (which also hosts the wiki page you're reading). Our test suite is run at <a href="http://travis-ci.org/#!/diaspora/diaspora" target="_blank">Travis CI</a>, you should check build status and verify your Ruby/DB combo are green in the master branch and pass all tests before you pull code.
 
-To get a copy of the Diaspora source, use the following command:
+To get a copy of the Diaspora source from the master branch, use the following command:
 
-    git clone git://github.com/diaspora/diaspora.git && cd diaspora
+    git clone -b master git://github.com/diaspora/diaspora.git && cd diaspora
 
 If you have never used GitHub before, their <a href="http://help.github.com/" target="_blank">help desk</a> 
 has a pretty awesome guide for getting set up.
+
+If you already cloned the repository get sure to checkout the master branch with 
+
+    git checkout master
 
 ## Installing Diaspora
 

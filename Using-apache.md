@@ -66,7 +66,7 @@ passenger-install-apache2-module. For me, this was:
      su - diaspora
      mkdir -p /usr/share/diaspora
      chmod 755 .
-     git clone http://github.com/diaspora/diaspora.git master
+     git clone -b master http://github.com/diaspora/diaspora.git master
      cd master
      bundle install --deployment
      mkdir tmp

@@ -121,7 +121,7 @@ press 'q' to continue...
 ## Installing Diaspora:
 FROM: https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-Diaspora
 
-	git clone git://github.com/diaspora/diaspora.git && cd diaspora
+	git clone -b master git://github.com/diaspora/diaspora.git && cd diaspora
 	Do you wish to trust this .rvmrc file? 
 	y [enter]
 
