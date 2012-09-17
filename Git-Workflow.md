@@ -31,7 +31,7 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 2. Clone to computer (`$ git clone git@github.com:you/diaspora.git`)
 3. Don't forget to cd into your repo: (`$ cd diaspora/`)
 4. Set up remote upstream (`$ git remote add upstream git://github.com/diaspora/diaspora.git`)
-5. If you use git-flow initialize it: `git flow init -d`
+5. If you use git-flow initialize it: `git checkout master && git flow init -d && git checkout develop`
 6. Start working on a new issue or feature (`$ git flow feature start 100-description`, naming convention is *issuenumber-description*, if you don't have a bug report no worries just skip the number)
 7. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
 8. Push branch to GitHub (`$ git flow feature publish 100-description`, just to stop you losing local changes on the event of hardware failure)
@@ -94,7 +94,9 @@ That downloads your copy of Diaspora to a git repository on your development mac
 Check that you have [git-flow](https://github.com/nvie/gitflow) installed and run
 
 ~~~
+$ git checkout master
 $ git flow init -d 
+$ git checkout develop
 ~~~
 
 Now you need to install everything you need to run it - which is quite a lot of stuff. We have a guide to [installing and running Diaspora](http://github.com/diaspora/diaspora/wiki/Installing-and-Running-Diaspora) which should help. Pop into #diaspora on IRC (freenode) if you have problems.
