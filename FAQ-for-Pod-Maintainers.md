@@ -38,7 +38,7 @@ Close the port, make it do connection refused, not timeout.
 ***I installed Diaspora on my machine, went to http://localhost:3000 and signed up. But my friends can't add me!***  
 You signed up with "localhost" which is not a valid external address. You first need an
 externally-accessible address - either a domain name or an IP address. Once you have that
-working, you need to clear your database and re-register coming in on the outside URL.
+working, you need to clear your database (`$ bundle exec rake db:migrate:reset`) and re-register coming in on the outside URL.
 
 ***bundle install >>> command not found ?***  
 sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/local/bin/bundle
