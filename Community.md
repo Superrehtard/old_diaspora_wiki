@@ -3,6 +3,12 @@ One of Diaspora's greatest assets is its community. We have a broad network of p
 ## [FAQ For Users](https://github.com/diaspora/diaspora/wiki/FAQ-for-Users)
 Some frequently asked questions for end users.
 
+## Proposals and blueprints
+
+[Loom.io](http://loom.io/groups/194) is the tool used to vote on stuff. Under here community members can add detailed descriptions of their proposals. On these pages collaborative editing can be used to fine tune the proposal/blueprint and then subject it to voting.
+
+Status for proposals (votes, resolution, where documented after implementation) should be updated to pages.
+
 # Events
 
 ## [Community Code Chat](https://github.com/diaspora/diaspora/wiki/Code-Chat)
