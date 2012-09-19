@@ -1,0 +1,1 @@
+Here is a page giving a walk-through of the Diaspora* git code.
