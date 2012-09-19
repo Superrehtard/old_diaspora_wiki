@@ -15,6 +15,9 @@ Everything you need to know about getting started. This is a great little resour
 ## [Diaspora Technical Resources](Technical-Details)
 This page contains some of the more advanced semantic information pertaining to how Diaspora works as a platform, with overviews to the different working parts.
 
+## [API Documentation](API-Documentation)
+For those interested in contributing through code, here's documentation on the Rails repository.
+
 ## [Federation Logger](Federation-Logger)
 Here you'll find how to set up and use the federation logger to help us debug communication issues and improve our server protocols.
 
