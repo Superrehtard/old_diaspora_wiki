@@ -13,7 +13,7 @@ $ gem install heroku
 
 Create your own private fork of the Diaspora code and be sure to keep a backup somewhere private, such as a flash drive, a private GitHub repository or a Dropbox account. Do _not_ put it in a public repository, this will be the copy you deploy to Heroku and may contain some sensitive configuration info.
 
-For illustration purposes, we'll use `mypod` as the name of the new Heroku app we're creating. Since `mypod` is already in use, you'll need to come up with a name before you go any further or use the random name Heroku assigns. We'll also assume you're using Heroku's shared SSL and a domain like `mypod.herokuapp.com` but it is also possible to use your own domain and SSL certificate.
+For illustration purposes, we'll use `mypod` as the name of the new Heroku app we're creating. Since `mypod` is already in use, you'll need to come up with a name before you go any further or use the random name Heroku assigns. We'll also assume you're using Heroku's shared SSL and a domain like `mypod.herokuapp.com` but it is also possible to use your own domain and SSL certificate (though this will set you back $20/month).
 
 Now that you've come up with a unique name for your pod, run the following commands from your private fork of the Diaspora code. Be sure to replace `mypod` with your actual pod name.
 
