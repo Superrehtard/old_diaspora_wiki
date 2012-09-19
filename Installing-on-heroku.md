@@ -24,7 +24,7 @@ $ heroku labs:enable user_env_compile
 $ heroku addons:add redistogo:nano
 ```
 
-Two Heroku Labs experimental features are used here. The `user_env_compile` feature makes your Heroku config variables available during slug compilation, which (in Rails 3.1+) makes your database available during asset precompilation.
+The `user_env_compile` feature makes your Heroku config variables available during slug compilation, which (in Rails 3.1+) makes your database available during asset precompilation.
 
 ### MySQL
 
@@ -78,6 +78,12 @@ Now edit your config/application.yml to fit your needs. At the very least, you'l
 ```
 
 You'll also want to make sure, at least for now, that your `registrations_closed` line is set to `false`. Don't worry, you can change this later if you want a private pod, but for now you need a way to sign up.
+
+Workers need to run so we need to set single_process_mode to false:
+
+```
+single_process_mode: false
+```
 
 Next, you'll want to edit your `Procfile` to look like this:
 
