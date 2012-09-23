@@ -176,6 +176,7 @@ Now you're ready to push your code to Heroku, execute the following commands:
 ```
 $ git add .
 $ git commit -am 'Initial deployment'
+$ git branch -m master
 $ git push heroku master
 ```
 
