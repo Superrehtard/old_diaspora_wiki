@@ -1,1 +1,1 @@
-If you haven't branched off and retrieved a git repository, please follow the directions under the documentation section [[Git-Workflow#wiki-step-by-step-short]]
+If you haven't branched off and retrieved a git repository, please follow the directions under the documentation section [[Git-Workflow#wiki-step-by-step-short|Git Workflow: Step-by-step (Short version)]].  Although, it's recommended to read the entire page.
