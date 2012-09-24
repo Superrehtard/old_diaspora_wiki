@@ -1,6 +1,6 @@
 If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into core Diaspora* code, here's how.  Thanks to [ThinkUp](https://github.com/ginatrapani/ThinkUp) for their awesome developer guide, which inspired ours.
 
-# Branching model
+# [Branching model] (#branching-model) <a name="branching-model">
 
 Firstly the most important part, the branching model that Diaspora follows. Our branching model is based on [a post on Git branching models](http://nvie.com/posts/a-successful-git-branching-model/) by [nvie](http://nvie.com/about/).
 
@@ -13,7 +13,7 @@ Please note that the usage of git-flow extensions for Diaspora* does not stop th
 
 Discussion on improving this branching model happens on [Loom.io](http://loom.io/discussions/628).
 
-# Quickfire Do's and Don't's
+# [Quickfire Do's and Don't's] (#dos-and-donts) <a name="dos-and-donts">
 
 If you're familiar with git and GitHub, here's the short version of what you need to know. Once you fork and clone the Diaspora code:
 
@@ -25,7 +25,7 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 
 * **A single feature branch should represent changes related to a single issue.** If you decide to work on another issue, create another feature branch from develop.
 
-# Step-by-step (the short version)
+# [Step-by-step (the short version)] (#step-by-step-short) <a name="step-by-step-short">
 
 1. Fork on GitHub (click Fork button)
 2. Clone to computer (`$ git clone git@github.com:you/diaspora.git`)
@@ -45,11 +45,11 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 
 Note! Do not do `git flow feature finish` for your branch. Submit the whole feature branch as a pull request instead without finishing it. It will be merged to _develop_ by a reviewer.
 
-# Step-by-step (the long version)
+# [Step-by-step (the long version)] (#step-by-step-long) <a name="step-by-step-long">
 
 If you're new to git and GitHub, here's the longer version of these instructions.
 
-## Install git and git-flow
+## [Install git and git-flow] (#install-git-and-git-flow) <a name="install-git-and-git-flow">
 
 1. [Install Git for your platform](http://git-scm.com/downloads)
 2. [Install git-flow extensions](https://github.com/nvie/gitflow/wiki/Installation) IF available for your platform
