@@ -54,3 +54,56 @@ This was contributed to us by a user. It's a relatively simple fix, but the cont
 
 ### 15) Document the code.
 Please document the existing code and also consider documenting your code as much as you can when you send us a pull request. It helps others who fork the repository to understand and work on it.
+
+
+
+
+## New things to  be worked on
+
+things needed to be fixed at hand.. started from a conversation between @raven24 and @maxwell
+
+evil query
+.... use the scope_operators from makrio
+https://github.com/makrio/makrio/blob/master/config/initializers/scope_operators.rb
+(btw. the amount of inline code comments is probably not TOO DAMN HIGH# enough - I think we really want to get the wisdom inside/next to the source, rdoc for (most of) the code might be helpful for new devs...)
+get some SQL wisdom in there (... what else did I do those two Database-courses for?)
+
+→ so, maybe a walk-through of the evil query parts might help (soon-ish)
+
+
+Batch stuff
+using find_each more
+http://apidock.com/rails/ActiveRecord/Batches/ClassMethods/find_each
+-> possibly together with resque/sidekiq switch
+- receive loop
+- sending loop
+
+
+Federation and stuff
+make receive be runnable again and again
+encapsulate into objects and separate into layers
+(throw a HTTP request at the “federation layer” and out comes normalized XML/JSON - or the other way around)
+notifications.... de-fuckify them
+- don’t try to use more magic than we actually can handle. better more verbose code than a mess that causes problems 
+- completely decouple them from federation state.
+move federation to json?  Maybe start over?  general theme of trying to think of discrete phases?
+- decouple database layout from the protocol messages structure
+object serialization.
+	- be liberal in making multiple ruby classes
+	- serialize to an in-memory presenter, which dumps to an ORM object
+	- allow db state to reach across in memory objects
+
+1. receive message
+2. validate envelope, parse json, put in queue	 => return actual response
+...
+
+
+Background Processing
+resque => sidekiq
+advantage: Threads instead of Processes, less memory more fun
+potential job for junior-devs, API looks similar
+
+
+Rails upgrade
+- gems
+- security!
