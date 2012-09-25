@@ -328,23 +328,23 @@ We start with building a minimal pod entirely hosted on Heroku.
 It's good to have an RVM installation locally to leave your local system clean(er).
  
 Fork Diaspora and clone your fork to your local machine.
-There checkout a custom branch for your pod, we'll name it  "heroku" here.
+There checkout a custom branch for your pod, we'll name it  `heroku` here.
  
     cd diaspora
     git checkout -b heroku origin/master 
 
-To update your Gemfile.lock run
+To update your `Gemfile.lock` run
 
     DB=postgres bundle --without development test heroku production assets
     git add Gemfile.lock
     git commit -m "switch Gemfile.lock to pg exclusivly"
 
-Install the heroku gem:
+Install the `heroku` gem:
 
     gem install heroku
 
 
-Create an app, you must exchange diasporadev here and in all following cases with something unique:
+Create an app, you must exchange `diasporadev` here and in all following cases with something unique:
 
     heroku apps:create diasporadev
 
@@ -354,15 +354,15 @@ Enable required the addons:
     heroku addons:add redistogo:nano
     heroku addons:add heroku-postgresql
 
-And make the database available, replace the REPLACEME with corresponding part of HEROKU_POSTGRESQL_REPLACEME_URL that the last command gave you (or look it up with `heroku config`):
+And make the database available, replace the `REPLACEME` with corresponding part of `HEROKU_POSTGRESQL_REPLACEME_URL` that the last command gave you (or look it up with `heroku config`):
 
     heroku pg:promote HEROKU_POSTGRESQL_REPLACEME
 
-Set some basic configuration, remember to replace diasporadev:
+Set some basic configuration, remember to replace `diasporadev`:
 
     heroku config:add HEROKU=true  DB=postgres ENVIRONMENT_URL=https://diasporadev.herokuapp.com/ ENVIRONMENT_ASSETS_SERVE=true ENVIRONMENT_UNICORN_EMBED_RESQUE_WORKER=true  ENVIRONMENT_CERTIFICATE_AUTHORITIES=/usr/lib/ssl/certs/ca-certificates.crt
 
-You can now already go through config/diaspora.yml.example and add the settings you want to differ from the defaults (config/defaults.yml), converting them to environment variables as described at the top of the file.
+You can now already go through `config/diaspora.yml.example` and add the settings you want to differ from the defaults (`config/defaults.yml`), converting them to environment variables as described at the top of the file.
 
 Set a secure token:
 
@@ -385,13 +385,13 @@ That should give you a basic pod, to open it in your browser run
 
     heroku open
 
-Custom landing page
+# Custom landing page
 
-Edit .gitignore and remove the following line:
+Edit `.gitignore` and remove the following line:
 
     app/views/home/_show.*
 
-Create your landing page as described in [Custom splash page]. Add it to your branch:
+Create your landing page as described in [[Custom splash page]]. Add it to your branch:
 
     git add app/views/home/
     git commit -m "custom landing page"
