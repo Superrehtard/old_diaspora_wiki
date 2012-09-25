@@ -391,7 +391,7 @@ Edit `.gitignore` and remove the following line:
 
     app/views/home/_show.*
 
-Create your landing page as described in [[Customize-your-splash-page]]. Add it to your branch:
+Create your landing page as described in [[Customize your splash page]]. Add it to your branch:
 
     git add app/views/home/
     git commit -m "custom landing page"
