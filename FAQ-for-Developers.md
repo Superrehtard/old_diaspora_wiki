@@ -52,5 +52,5 @@ browser window. You can also download and use an IRC client such as
 We have two mailing lists, both Google groups. They tend to have a slightly different audience than
 the IRC channels, so if you can't get your question answered in IRC, you can try here.
 
-* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
-* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of installation, source code, and other technical topics
+* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics and for installation and troubleshooting help
+* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of development, source code, and other technical topics
