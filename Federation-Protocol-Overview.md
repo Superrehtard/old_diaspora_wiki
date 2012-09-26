@@ -1,4 +1,4 @@
-The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
+The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation. You can also check out the format of [[messages sent between Diaspora pods|Federation Message Semantics]]
 
 # Asymmetric Sharing
 
