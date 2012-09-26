@@ -1,4 +1,4 @@
-The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation. You can also check out the format of [[messages sent between Diaspora pods|Federation Message Semantics]]
+The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
 
 # Asymmetric Sharing
 
@@ -26,7 +26,7 @@ Diaspora servers communicate with one another in a variety of situations:
     * Retractions of posts
     * Retractions of likes/comments
 
-This document does not cover the semantics of each of the messages listed above.  For a discussion of these semantics, see [[Diaspora's Message Semantics]].
+This document does not cover the semantics of each of the messages listed above.  For a discussion of these semantics, see [[Diaspora's Message Semantics|Federation Message Semantics]].
 
 ## Discovery
 
