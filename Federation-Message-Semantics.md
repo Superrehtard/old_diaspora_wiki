@@ -1,6 +1,6 @@
 This document describes the semantics of each type of message that Diaspora pods send to one another.  Together, they constitute the semantics of Diaspora's federation.
 
-When Alice wants to send a message to Bob, she will construct one of these messages detailed below, and she will wrap it up and send it out using [[Diaspora's federation protocol]].
+When Alice wants to send a message to Bob, she will construct one of these messages detailed below, and she will wrap it up and send it out using [[Diaspora's Federation Protocol|Federation Protocol Overview]].
 
 # Basic concepts
 
@@ -78,7 +78,7 @@ Nevertheless, this document will describe the messages as they were at the time 
 
 ## Sharing Notifications
 
-Remember that Diaspora uses an [[asymmetric model|Diaspora's federation protocol#Asymmetric Sharing]] of sharing.  That is, Alice can choose to start sharing with Bob, and Bob need not approve this action, and Bob need not reciprocate.  However, Bob's pod SHOULD NOT show Alice's original posts in the main location unless Bob is also sharing with Alice.  Alice's responses to Bob's posts SHOULD be shown with the rest of the responses.  However, since Bob, in this scenario, is not sharing with Alice, Alice will only be able to respond to Bob's _public_ posts.  
+Remember that Diaspora uses an [[asymmetric model|Federation Protocol Overview#Asymmetric Sharing]] of sharing.  That is, Alice can choose to start sharing with Bob, and Bob need not approve this action, and Bob need not reciprocate.  However, Bob's pod SHOULD NOT show Alice's original posts in the main location unless Bob is also sharing with Alice.  Alice's responses to Bob's posts SHOULD be shown with the rest of the responses.  However, since Bob, in this scenario, is not sharing with Alice, Alice will only be able to respond to Bob's _public_ posts.  
 If Bob is sharing with Diego, and Diego is sharing with Bob, and Diego is also sharing with Alice, then Alice will see Diego's posts and be able to respond to them.  Bob should see Alice's responses to Diego's posts with the rest of the responses.
 
 The above is just a little refresher on the asymmetric semantics of Diaspora's sharing model.  But this section deals with the actual messages that are sent over the wire.
@@ -98,9 +98,9 @@ A Sharing Notification looks like this:
 </XML>
 ```
 
-(where alice@alice.diaspora.example.com is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]]) and bob@bob.diaspora.example.com is Bob's.
+(where alice@alice.diaspora.example.com is Alice's [[Webfinger address|Federation Protocol Overview#Discovery]]) and bob@bob.diaspora.example.com is Bob's.
 
-Alice will then wrap this up as a salmon slap and send it to Bob according to the methods described in [[Diaspora's federation protocol]].
+Alice will then wrap this up as a salmon slap and send it to Bob according to the methods described in [[Diaspora's federation protocol|Federation Protocol Overview]].
 
 ## Unsharing notification
 
@@ -156,12 +156,12 @@ Alice will serialize the message like this:
 
 * `<raw_message>` is the text of the message that Alice wants to send out.  Note that the text of this message must be made suitable for XML using any appropriate escaping scheme.  For example, unsafe characters like `<` and `>` could be translated into their corresponding XML entities like `&lt;` and `&gt;`.  Or the CDATA method could be used.  (See the [XML specification](http://www.w3.org/TR/2006/REC-xml11-20060816/#syntax))
 * `<guid>` is a string of 16 hexadecimal digits.  Alice's pod MUST choose a new GUID for each status message, and MUST retain the guid, to receive responses to the post.
-* `<diaspora_handle>` is Alice's [[Webfinger address|Diaspora's federation protocol#Discovery]].
-* `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alip as a _separate_ salmon slap for _each_ of the intended recipients and send it to each recipient according to the methods described in [[Diaspora's federation protocol]].  Note that if Alice is sending the message to Bob and Diego, she MUST send separate salmon slaps for each recipient, even if Bob and Diego live on the same pod.  This is because the slap MUST be encrypted separately for each recipient (encrypted according to the rules in [[Diaspora's federation protocol]]).
+* `<diaspora_handle>` is Alice's [[Webfinger address|Federation Protocol Overview#Discovery]].
+* `<public>` is the string "true" or "false".  If it is set to "true", then Bob MAY share Alice's post with others.  If the string is "false", then Bob SHOULD NOT share the post with others. (although Alip as a _separate_ salmon slap for _each_ of the intended recipients and send it to each recipient according to the methods described in [[Diaspora's federation protocol|Federation Protocol Overview]].  Note that if Alice is sending the message to Bob and Diego, she MUST send separate salmon slaps for each recipient, even if Bob and Diego live on the same pod.  This is because the slap MUST be encrypted separately for each recipient (encrypted according to the rules in [[Diaspora's federation protocol|Federation Protocol Overview]]).
 
 ### Public status updates
 
-If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[ActivityStream|Diaspora's federation protocol#ActivityStream of public posts]].
+If Alice wants her post to be public, she MAY choose to share her post on other systems or services.  For example, the reference implementation allows Alice to mark a post as public.  The post is then be available to the world on an [[ActivityStream|Federation Protocol Overview#ActivityStream of public posts]].
 
 However, even if the post is made public, Alice MUST encrypt the salmon slaps that she sends to the specifically-intended recipients.
 
