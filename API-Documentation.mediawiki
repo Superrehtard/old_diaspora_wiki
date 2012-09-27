@@ -1,1 +1,14 @@
 If you haven't branched off and retrieved a git repository, please follow the directions under the documentation section [[Git-Workflow#wiki-step-by-step-short|Git Workflow: Step-by-step (Short version)]].  Although, it's recommended to read the entire page.
+
+The documentation is divided into documentation from the perspective of a guest (a user not logged in) and a user (a user who is logged in).
+=Guest=
+#[[Welcome]]
+#[[Log-in]]
+#[[Password]]
+#[[Sign-Up]]
+=User=
+#[[Notification bar]]
+#[[Aspects Control]] (left side bar)
+#[[Status Update]]
+#[[Stream]]
+#[[Other Links]]
