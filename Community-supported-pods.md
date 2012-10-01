@@ -355,6 +355,15 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
 
+* [[https://spyurk.am]]
+    * Opened: 29/09/2012
+    * Updated: regulary
+    * Maintained by: private individual
+                * norayr[at]arnet.am
+    * HTTPS (only)
+    * IPv6 support
+    * Operating system: Funtoo
+    * Comments: Registration is open by invites only yet. Twitter support. First Armenian pod.
 
 * [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
    * Opened: 20/12/2010
