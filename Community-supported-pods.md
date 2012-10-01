@@ -354,8 +354,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * IPv6 support
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
-
-
+<br>
 * [[https://spyurk.am]]
     * Opened: 29/09/2012
     * Updated: regulary
