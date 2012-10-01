@@ -354,7 +354,10 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * IPv6 support
     * Operating system: FreeBSD
     * Comments: Public and free Diaspora pod. Facebook support.
-<br>
+
+
+
+
 * [[https://spyurk.am]]
     * Opened: 29/09/2012
     * Updated: regulary
@@ -363,7 +366,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * HTTPS (only)
     * IPv6 support
     * Operating system: Funtoo
-    * Comments: Registration is open by invites only yet. Twitter support. First Armenian pod.
+    * Comments: Registration is open by invites only yet. Twitter support. First Armenian pod. Spyurk means Diaspora in Armenian.
 
 * [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
    * Opened: 20/12/2010
