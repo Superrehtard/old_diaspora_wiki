@@ -39,11 +39,13 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 10. Update local develop (`$ git checkout develop; git pull --rebase upstream develop`)
 11. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
 12. Repeat steps 6-9 till dev is complete
-13. Rebase develop in to feature branch (`$ git rebase develop feature/100-description`)
+13. Rebase develop in to feature branch (`$ git flow feature rebase 100-description`)
 14. Publish feature branch to Github (`$ git flow feature publish 100-description`)
 15. Issue pull request for develop branch (Click Pull Request button) 
 
 Note! Do not do `git flow feature finish` for your branch. Submit the whole feature branch as a pull request instead without finishing it. It will be merged to _develop_ by a reviewer.
+
+Note! If you feel this feature should instead be a hotfix, do it still as a feature but mention in the pull request that this pull request would be good as a hotfix directly to master. Don't forget to explain why! :)
 
 # [Step-by-step (the long version)] (#step-by-step-long) <a name="step-by-step-long">
 
