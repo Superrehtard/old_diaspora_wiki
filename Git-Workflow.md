@@ -36,7 +36,7 @@ If you're familiar with git and GitHub, here's the short version of what you nee
 7. Develop on feature. (`$ git add . ; git commit -m 'commit message'`)
 8. Push branch to GitHub (`$ git flow feature publish 100-description`, just to stop you losing local changes on the event of hardware failure)
 9. Fetch upstream (`$ git fetch upstream`)
-10. Update local develop (`$ git checkout develop; git pull upstream develop`)
+10. Update local develop (`$ git checkout develop; git pull --rebase upstream develop`)
 11. Switch back to feature (`$ git flow feature checkout 100-new-feature ; git rebase develop`)
 12. Repeat steps 6-9 till dev is complete
 13. Rebase develop in to feature branch (`$ git rebase develop feature/100-description`)
