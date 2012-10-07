@@ -49,26 +49,22 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 (replacing *yourdiasporainstance.com* with the the host name of your pod).
 
 ***I installed Diaspora on my machine, but when I load the site there are no images and the layout looks horrible!***  
-If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
+If you're missing your images in the production environment, change `environment.assets.serve` in `config/diaspora.yml` to `true` and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
 ***There are no images on my pod***  
-You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `serve_static_assets` to `true` in your `config/diaspora.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
-*When deploying to heroku:*  
-Be sure to check that the `serve_static_assets` is set to true in the production block of your `config/diaspora.yml` file.
+You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `environment.assets.serve` to `true` in your `config/diaspora.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
+*When deploying to heroku:*
+Be sure to check that the `ENVIRONMENT_ASSETS_SERVE` is set to `true` in your `heroku config`.
 
-        production:
-          <<: *defaults
-          serve_static_assets: true
-
-***Webfinger does not seem to be working***  
-Is your _resque_ worker running? Can you see the error in resque web? Does your SSL cert check out? (try a [ssl cert checker][ssl-check]).  
+***Webfinger does not seem to be working***
+Is your _resque_ worker running? Can you see the error in resque web? Does your SSL cert check out? (try a [ssl cert checker][ssl-check]).
 We do not support self signed certs, but you can get a free one [from StartSSL](https://www.startssl.com/).
 
 ***I am receiving posts, but nobody is receiving mine...***  
 [Check your ssl certs][ssl-check]!
 
 ***I'm getting the warning "... in production without Resque workers"***  
-[Resque](https://github.com/defunkt/resque) is the backend we use for processing background jobs. Normally, resque is spawned as a separate process, but in this case you have configured Diaspora to run the jobs in the same process as the application. This is normally used for development or testing purposes, but if used in production, it can bring major performance penalties. Thus you should always run resque in its own process, by setting `single_process_mode` to `false` in your `config/diaspora.yml` and starting the resque process with
+[Resque](https://github.com/defunkt/resque) is the backend we use for processing background jobs. Normally, resque is spawned as a separate process, but in this case you have configured Diaspora to run the jobs in the same process as the application. This is normally used for development or testing purposes, but if used in production, it can bring major performance penalties. Thus you should always run resque in its own process, by setting `environment.single_process_mode` to `false` in your `config/diaspora.yml` and starting the resque process with
 
     RAILS_ENV=production DB=mysql QUEUE=* bundle exec rake resque:work  # or
     RAILS_ENV=production DB=postgres QUEUE=* bundle exec rake resque:work
@@ -80,7 +76,7 @@ We do not support self signed certs, but you can get a free one [from StartSSL](
 ### Upgrading
 
 ***Is there anything I should do before upgrading my installation?***  
-We have a service (Travis) that builds all our code for each ruby version/database combination that we support. Before you update your Diaspora installation, you should check here to see if your combination is green: http://travis-ci.org/diaspora/diaspora  If it's not green, wait to do the update. (Note: Travis is having issues with their SSL cert, so you may get a warning, but it is safe to proceed.)
+We have a service (Travis) that builds all our code for each ruby version/database combination that we support. Before you update your Diaspora installation, you should check here to see if your combination is green on the master branch: http://travis-ci.org/diaspora/diaspora  If it's not green, wait to do the update. (Note: Travis is having issues with their SSL cert, so you may get a warning, but it is safe to proceed.). Also read the `Changelog.md` file in the projects root.
 
 ***How do I roll back my installation if an update breaks it?***  
 Just do:  `git checkout [ref]`  Where [ref] is the identifier of the commit to go back to. It's a long guid-like string of letters and numbers. You can find the ref by doing a git log, eyeballing the commit dates, and figuring out where you were before you pulled. Of course it's best if you keep track of that ref before you update. :)
@@ -100,7 +96,7 @@ Currently no, there are no retries, though we'd like to add that at some point.
 If you are running Diaspora with PostgreSQL, beware that having [the ssl setting](http://www.postgresql.org/docs/9.1/interactive/runtime-config-connection.html#GUC-SSL) turned on in the PostgreSQL config has been causing problems for several people.  We recommend turning it off unless you know what you're doing.
 
 ***I've got my pod running. How do I disable outside logins?***   
-Change <code>registrations_closed</code> in config/diaspora.yml from false to true, and then
+Change <code>settings.enable_registrations</code> in config/diaspora.yml from true to false, and then
 restart the server.
 
 ***How do I back up the database?***  
@@ -156,5 +152,5 @@ browser window. You can also download and use an IRC client such as
 We have two mailing lists, both Google groups. They tend to have a slightly different audience than
 the IRC channels, so if you can't get your question answered in IRC, you can try here.
 
-* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
-* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of installation, source code, and other technical topics
+* [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of installation and non-technical topics
+* [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of source code, and other technical topics

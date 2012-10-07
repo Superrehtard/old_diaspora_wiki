@@ -6,9 +6,6 @@ Below is a curated feature wishlist of things **the core team** love to have som
 
 "In Development" items will be linked with a thread to Google groups, so as to encourage collaboration and avoid duplicating effort.
 
-### 2) [Refactor AppConfig and EnviromentConfiguration.(In Progress)](https://groups.google.com/forum/?fromgroups#!topic/diaspora-dev/XcWTJn-IsUY)
-AppConfig is the current class that handles loading Diaspora’s settings from diaspora.yml.  It has grown into a bit of beast, worring about bootstate, data munging, and a few related helpers.  The time to clean it up is now!  We should move all logic out of AppConfig, and let it just be a SettingsLogic class.  Then, we should access everything via EnviromentConfiguration, delegating applicable keys and to AppConfig.
-
 ### 3) Help make things easier for other developers
 Many projects have a script which makes it trivial to get a development enviroment running.  It would be awesome to have a script that bootstraped the minimum enviroment needed to run the entire test suite. That way, it would be easy for new developers to clone the repo, run the script, and run the tests, all in one swoop.  As a start, which should make this process seamless for the following three enviroments(then we can work on something more general.
    5) mac os x
