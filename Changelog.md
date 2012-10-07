@@ -3,9 +3,9 @@
 This page contains a list of some of the more notable changes that happened in our codebase.  
 For a full list of changes, please see the [git commit log](https://github.com/diaspora/diaspora/commits/master).
 
-## 2012
-### August
+### For a summary of all our other latest and greatest changes, see the [Changelog file](https://github.com/diaspora/diaspora/blob/master/Changelog.md). Please go there for a more recent overview.
 
+## 2012
 
 ### July
 * Update jQuery MentionsInput plugin to latest upstream version
