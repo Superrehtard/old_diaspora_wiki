@@ -138,7 +138,7 @@ Edit: ./config/script_server.yml
 
 Edit ./config/diaspora.yml
 
-	ca_file: '/etc/apache2/server.crt'
+	certificate_authorities: '/etc/apache2/server.crt'
 
 
 	

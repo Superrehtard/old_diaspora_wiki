@@ -113,8 +113,8 @@ directory to avoid conflicts with your existing environment, or use an [RVM](htt
 
 ### Configure Diaspora
 
-Diaspora needs to know what host it's running on. Copy config/diaspora.yml.example
-to config/diaspora.yml, put your external url into the pod_url field, and make any other
+Diaspora needs to know what host it's running on. Copy `config/diaspora.yml.example`
+to `config/diaspora.yml`, put your external url into the `environment.url` field, and make any other
 needed configuration changes.
 
 To run as a rails app, copy config/script_server.yml.example to config/script_server.yml and edit it properly.
@@ -131,7 +131,7 @@ keep the defaults.  However, if you plan to actually host a pod choose productio
 If you want to run production mode:
 
 * Edit rails_env in the script_server section in config/script_server.yml
-* Change the "serve_static_assets" setting to "true" in the config/environments/production.rb file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to leave "serve_static_assets" set to "false" and instead install a true webserver such as Apache or Nginx alongside Diaspora and modify that webserver’s configuration to serve the static content itself:
+* Change the `environment.assets.serve` setting to `true` in the `config/diaspora.yml` file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to leave `environment.assets.serve` set to `false` and instead install a true webserver such as Apache or Nginx alongside Diaspora and modify that webserver’s configuration to serve the static content itself:
 
 #### Apache 2
 
@@ -163,7 +163,7 @@ As noted previously, you will need to configure NGINX to point to your SSL certi
 
 **NOTE:** Certificates issued from StartSSL will probably also require that the StartSSL intermediate certificate be concatenated in order for some pods to communicate properly. The following link will help you create a properly concatenated certificate for use by NGINX: [StartSSL and NGINX](http://blog.dembowski.net/2010/02/25/startssl-and-nginx/)
 
-**NOTE:** If you are serving through a reverse proxy, you will need to set the X_FORWARDED_PROTO header to https on your reverse proxy server.  The NGINX and apache example configurations show how to do this.  Failure to set this header will lead to a redirect loop.
+**NOTE:** If you are serving through a reverse proxy, you will need to set the `X_FORWARDED_PROTO` header to `https` on your reverse proxy server.  The NGINX and Apache example configurations show how to do this.  Failure to set this header will lead to a redirect loop.
 
 Take note: We upgrade all port 80 requests to port 443.  We recommend that you do the same.
 
@@ -231,11 +231,11 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 **Note** If you are running a 'production' installation and requests to the /assets directory return a HTTP 404 error to your client, run `RAILS_ENV=production DB="mysql" bundle exec rake assets:precompile` for MySQL or `RAILS_ENV=production DB="postgres" bundle exec rake assets:precompile` for PostgreSQL after each git pull. If you get a 500 page installation try restarting Diaspora after that.
 
-**Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set your `serve_static_assets` setting turned to `true` everywhere in your `diaspora.yml`.
+**Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that your reverse proxy is serving them. If you sure you don't want to setup a reverse proxy ensure that you have set your `environment.assets.serve` setting turned to `true` everywhere in your `diaspora.yml`.
 
 ## Updating Diaspora
 
-First, kill your running Diaspora instance.
+Read the Changelog!
 
 Change into the Diaspora root folder and run
 
@@ -248,6 +248,8 @@ If the update changes the Gemfile or Gemfile.lock files, for MySQL run
 or for PostgreSQL:
 
     DB="postgres" bundle install --without development test heroku
+
+Now kill your running Diaspora instance.
 
 In order to apply any new schema always run
 
@@ -271,7 +273,7 @@ for PostgreSQL.
 
 Now start Diaspora again.
 
-After each update and after the first request to a page run it again:
+After each update run:
 
     DB="mysql" bundle exec rake assets:precompile / DB="postgresql" bundle exec rake assets:precompile
 
