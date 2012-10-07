@@ -2,7 +2,7 @@
 
 ## General
 
-Keys will be entered into your config/application.yml
+Keys will be entered into your config/diaspora.yml
 
 ## Twitter
 
@@ -19,7 +19,7 @@ Keys will be entered into your config/application.yml
     * Set default access type to "Read & Write"
     * There is a Captcha  ;)
     * Click "Register application"
-* You now can see your consumer key and your consumer secret, copy them to the right places in config/application.yml   
+* You now can see your consumer key and your consumer secret, copy them to the right places in config/diaspora.yml   
 [[https://mrzyx.de/diaspora/services_twitter_3.png|width=500px]]
 * Restart Diaspora on your sever (you can skip that when you want to also add support for more services) 
 * You're done. It's now possible to post to Twitter from your pod :)
@@ -36,7 +36,7 @@ Keys will be entered into your config/application.yml
     * **Important:** Set the "Default callback URL" to your pod_url (including http/https)+ /auth/tumblr/callback So if your pod is located at http://example.org enter http://example.org/auth/tumblr/callback
     * You can upload an icon but that's optional
     * Click register
-* You'll be redirected to [[http://www.tumblr.com/oauth/apps]] where you can see your consumer key. After a click on "Show secret key" you can see your consumer secret. Add both to the right places in config/application.yml
+* You'll be redirected to [[http://www.tumblr.com/oauth/apps]] where you can see your consumer key. After a click on "Show secret key" you can see your consumer secret. Add both to the right places in config/diaspora.yml
 * Restart Diaspora on your sever (you can skip that when you want to also add support for more services) 
 * You're done. It's now possible to post to Tumblr from your pod :)
 
@@ -49,7 +49,7 @@ Keys will be entered into your config/application.yml
 * Choose a language
 * Click on **+ Create New App**
 * Fill the Captcha
-* It will now give you your app id and your app_secret which you have to set in your config/application.yml
+* It will now give you your app id and your app_secret which you have to set in your config/diaspora.yml
 * Go to https://developers.facebook.com/apps/app_id/summary
 * Under Basic Services > App Domain fill the domain of your pod (**without** http://)
 * Click Website and fill in your pod's Site URL, then click Save Changes.

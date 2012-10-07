@@ -14,4 +14,4 @@ Setup the 3 options to match the defaults (if you want others you will need to e
 
 All other defaults are ok.
 
-Save your button and add the button ID to your application.yml by following the example in application.yml.example
+Save your button and add the button ID to your diaspora.yml by following the example in diaspora.yml.example

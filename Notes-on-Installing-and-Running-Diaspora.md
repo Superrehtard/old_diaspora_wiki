@@ -113,8 +113,8 @@ directory to avoid conflicts with your existing environment, or use an [RVM](htt
 
 ### Configure Diaspora
 
-Diaspora needs to know what host it's running on. Copy config/application.yml.example
-to config/application.yml, put your external url into the pod_url field, and make any other
+Diaspora needs to know what host it's running on. Copy config/diaspora.yml.example
+to config/diaspora.yml, put your external url into the pod_url field, and make any other
 needed configuration changes.
 
 To run as a rails app, copy config/script_server.yml.example to config/script_server.yml and edit it properly.
@@ -231,7 +231,7 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 **Note** If you are running a 'production' installation and requests to the /assets directory return a HTTP 404 error to your client, run `RAILS_ENV=production DB="mysql" bundle exec rake assets:precompile` for MySQL or `RAILS_ENV=production DB="postgres" bundle exec rake assets:precompile` for PostgreSQL after each git pull. If you get a 500 page installation try restarting Diaspora after that.
 
-**Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set your `serve_static_assets` setting turned to `true` everywhere in your `application.yml`.
+**Note** If you are running a 'production' installation and you do not see any images hosted, but the content loads fine, ensure that you have set your `serve_static_assets` setting turned to `true` everywhere in your `diaspora.yml`.
 
 ## Updating Diaspora
 

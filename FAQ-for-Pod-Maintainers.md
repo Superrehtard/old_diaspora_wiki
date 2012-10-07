@@ -52,9 +52,9 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 If you're missing your images in the production environment, change serve_static_assets in config/environments/production.rb to true and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
 ***There are no images on my pod***  
-You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `serve_static_assets` to `true` in your `config/application.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
+You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `serve_static_assets` to `true` in your `config/diaspora.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
 *When deploying to heroku:*  
-Be sure to check that the `serve_static_assets` is set to true in the production block of your `config/application.yml` file.
+Be sure to check that the `serve_static_assets` is set to true in the production block of your `config/diaspora.yml` file.
 
         production:
           <<: *defaults
@@ -68,7 +68,7 @@ We do not support self signed certs, but you can get a free one [from StartSSL](
 [Check your ssl certs][ssl-check]!
 
 ***I'm getting the warning "... in production without Resque workers"***  
-[Resque](https://github.com/defunkt/resque) is the backend we use for processing background jobs. Normally, resque is spawned as a separate process, but in this case you have configured Diaspora to run the jobs in the same process as the application. This is normally used for development or testing purposes, but if used in production, it can bring major performance penalties. Thus you should always run resque in its own process, by setting `single_process_mode` to `false` in your `config/application.yml` and starting the resque process with
+[Resque](https://github.com/defunkt/resque) is the backend we use for processing background jobs. Normally, resque is spawned as a separate process, but in this case you have configured Diaspora to run the jobs in the same process as the application. This is normally used for development or testing purposes, but if used in production, it can bring major performance penalties. Thus you should always run resque in its own process, by setting `single_process_mode` to `false` in your `config/diaspora.yml` and starting the resque process with
 
     RAILS_ENV=production DB=mysql QUEUE=* bundle exec rake resque:work  # or
     RAILS_ENV=production DB=postgres QUEUE=* bundle exec rake resque:work
@@ -100,7 +100,7 @@ Currently no, there are no retries, though we'd like to add that at some point.
 If you are running Diaspora with PostgreSQL, beware that having [the ssl setting](http://www.postgresql.org/docs/9.1/interactive/runtime-config-connection.html#GUC-SSL) turned on in the PostgreSQL config has been causing problems for several people.  We recommend turning it off unless you know what you're doing.
 
 ***I've got my pod running. How do I disable outside logins?***   
-Change <code>registrations_closed</code> in config/application.yml from false to true, and then
+Change <code>registrations_closed</code> in config/diaspora.yml from false to true, and then
 restart the server.
 
 ***How do I back up the database?***  

@@ -8,7 +8,7 @@ Diaspora* try to verify all certificates against the known certificate chains, a
 == SSL setup can be tricky ==
 
 * ssl setup requires a globally verifiable crt, self signed won't do
-* application.yml contains most of the setup
+* diaspora.yml contains most of the setup
 ** pod_url should contain https:// and proper PODURL address
 ** set up proper proxying in webserver (forward tcp/443 to localhost:3000)
 ** ca_file should be able to verify your cert:

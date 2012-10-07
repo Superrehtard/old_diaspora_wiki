@@ -128,7 +128,7 @@ FROM: https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-
 	bundle install
 
 	cp ./config/script_server.yml.example ./config/script_server.yml
-	cp ./config/application.yml.example ./config/application.yml
+	cp ./config/diaspora.yml.example ./config/diaspora.yml
 	cp ./config/database.yml.example ./config/database.yml
 
 Edit: ./config/script_server.yml
@@ -136,7 +136,7 @@ Edit: ./config/script_server.yml
 	rails_env: "development"
 
 
-Edit ./config/application.yml
+Edit ./config/diaspora.yml
 
 	ca_file: '/etc/apache2/server.crt'
 

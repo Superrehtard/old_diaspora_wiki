@@ -6,7 +6,7 @@ There is also a [screencast], if you prefer to listen instead of reading ;)
 
 (All commands assume you are running them in the diaspora root directory.)
 
-To get the federation test environment set up, you have to copy the blocks containing the configuration in `config/database.yml.example` and `config/application.yml.example` to your actual config files in `config/database.yml` and `config/application.yml`. Just paste the snippets at the bottom of the corresponding file.
+To get the federation test environment set up, you have to copy the blocks containing the configuration in `config/database.yml.example` and `config/diaspora.yml.example` to your actual config files in `config/database.yml` and `config/diaspora.yml`. Just paste the snippets at the bottom of the corresponding file.
 
 #### config/database.yml
 ```yaml
@@ -18,7 +18,7 @@ integration2:
   database: diaspora_integration2
 ```
 
-#### config/application.yml
+#### config/diaspora.yml
 ```yaml
 integration1:
   <<: *defaults
