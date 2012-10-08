@@ -50,6 +50,8 @@ To install rvm from source, execute the following command:
 
     curl -L get.rvm.io | bash -s stable --auto
 
+Now read `rvm requirements` and ensure `libyaml-dev` is installed.
+
 ```bash
 rvm install ruby-1.9.3-p194
 rvm use ruby-1.9.3-p194@global
