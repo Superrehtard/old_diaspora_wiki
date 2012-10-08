@@ -35,7 +35,11 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This 
 
     curl -L https://get.rvm.io | bash -s stable
     # load rvm here - search the output of previous command
+
+Read `rvm requirements` and ensure `libyaml-dev` is installed. Then install Ruby with:
+
     rvm install 1.9.3-p194 # install correct ruby version
+
 These instructions are from [[https://rvm.io/rvm/install/]].
 
 You still need a system Ruby so run:
