@@ -12,6 +12,7 @@ To update your `Gemfile.lock` run
     DB=postgres bundle --without development test heroku production assets
     git add Gemfile.lock
     git commit -m "switch Gemfile.lock to pg exclusivly"
+[Tester comment 10/12/2012 from a Windows PC user. Heroku writes gem file dynamically at compile time and uses a deploy mode that insists Gemfile.lock be in version control. This can be a pickle with conditional gems, if you deploy on a system that is not fitted with ruby development tools. To edit Gemfile (as is often needed), it is necessary to run bundle install locally and create a matching Gemfile.lock. Something which is poorly supported at this time on native Windows systems.  To deploy your Rails apps more easily, either run a virtual box under Windows or find an old PC and load Linux on it. ]
 
 Install the `heroku` gem:
 
