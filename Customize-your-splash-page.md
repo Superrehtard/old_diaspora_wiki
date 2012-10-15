@@ -1,4 +1,4 @@
-All you have to do is define a view as  `app/views/home/_show.html.haml` to define your own splash page for your Diaspora pod.  Or `app/views/home/_show.html.erb` if you prefer to write plain HTML instead of [HAML](http://haml-lang.com/).
+All you have to do is to create a `app/views/home/_show.html.haml` to define your own splash page for your Diaspora pod.  Or `app/views/home/_show.html.erb` if you prefer to write plain HTML instead of [HAML](http://haml-lang.com/). Do not copy or overwrite `app/views/home/show.html.haml` (note the missing underscore)!
 
 A very basic example a `_show.html.haml` file would be something like:  
 
@@ -75,4 +75,4 @@ More examples can be found [here.](https://github.com/czarneckid/twitter-bootstr
 
 Notice the examples above do not include the "head" & "html" elements, those are rendered by Diaspora. For your landing page you just need to provide the body section, and anything else you chose to include.
 
-Ensure that `public/` doesn't contain any `index.html` or another file that would be used as index file by your webserver. If such a file exists it's given precedence by your Webserver and can break the log in.
+Ensure that `public/` doesn't contain any `index.html` or another file that would be used as index file by your Webserver. If such a file exists it's given precedence by your Webserver and can break the log in.
