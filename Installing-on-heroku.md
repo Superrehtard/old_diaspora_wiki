@@ -25,7 +25,7 @@ Create an app, you must exchange `diasporadev` here and in all following cases w
 
 Enable required the addons:
 
-    heroku labs:enable user_env_compile
+    heroku labs:enable user-env-compile
     heroku addons:add redistogo:nano
     heroku addons:add heroku-postgresql
 
