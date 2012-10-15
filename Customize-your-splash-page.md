@@ -1,16 +1,14 @@
 All you have to do is to create a `app/views/home/_show.html.haml` to define your own splash page for your Diaspora pod.  Or `app/views/home/_show.html.erb` if you prefer to write plain HTML instead of [HAML](http://haml-lang.com/). Do not copy or overwrite `app/views/home/show.html.haml` (note the missing underscore)!
 
-A very basic example a `_show.html.haml` file would be something like:  
+A very basic example of a `_show.html.haml` would be something like:  
 
 ```haml
 #content
   .center
     %h2 Welcome to my pod!
 ```
-A more complete example using the Twitter Bootstrap "Hero" template would look like the following.
-Diaspora already uses [Bootstrap](http://twitter.github.com/bootstrap/) CSS so no need to add it yourself, and examples of use are readily available in the previous link.
-More examples can be found [here.](https://github.com/czarneckid/twitter-bootstrap-examples-haml/tree/master/views) but will need to be tweaked similar to the one below.
-(Linked JS files need to be added yourself. download [here.](http://twitter.github.com/bootstrap/))
+A more complete example using the Twitter Bootstrap "Hero" template would look like the following:
+
 ```haml
 .navbar.navbar-fixed-top
   .navbar-inner
@@ -72,6 +70,10 @@ More examples can be found [here.](https://github.com/czarneckid/twitter-bootstr
   %script{:src => "/js/jquery.js"}
   %script{:src => "/js/bootstrap.js"}
 ```
+
+Diaspora already uses [Bootstrap](http://twitter.github.com/bootstrap/) CSS so no need to add it yourself, and examples of use are readily available in the previous link.
+More examples can be found [here.](https://github.com/czarneckid/twitter-bootstrap-examples-haml/tree/master/views) but will need to be tweaked similar to the one below.
+(Linked JS files need to be added yourself. download [here.](http://twitter.github.com/bootstrap/))
 
 Notice the examples above do not include the "head" & "html" elements, those are rendered by Diaspora. For your landing page you just need to provide the body section, and anything else you chose to include.
 
