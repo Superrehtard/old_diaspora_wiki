@@ -6,7 +6,7 @@ These instructions are for Debian Lenny 5.0 or Squeeze 6.0.  You will need to ma
 
 To install build tools, run the following (includes the gcc and xml parsing dependencies):
 
-    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev
+    sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev libyaml-dev
 
 ### CURL
 
