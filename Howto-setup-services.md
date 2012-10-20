@@ -43,14 +43,15 @@ Keys will be entered into your config/diaspora.yml
 ## Facebook
 
 * Goto [[http://developers.facebook.com/setup/]]
-* Choose a name, for example "Diaspora at example.org"
-* Set the site address to your pod URL including a trailing /, for example http://example.org/
-* Choose a language
-* Click on **+ Create New App**
-* Fill the Captcha
-* It will now give you your app id and your app_secret which you have to set in your config/diaspora.yml
-* Go to https://developers.facebook.com/apps/app_id/summary
-* Under Basic Services > App Domain fill the domain of your pod (**without** http://)
-* Click Website and fill in your pod's Site URL, then click Save Changes.
+* Choose a name, for example "Diaspora at social.example.org", choose a namespace. Set the namespace in your `config/diaspora.yml` [[https://mrzyx.de/diaspora/facebook1.png|700px]]
+* Fill the captcha
+* If you don't see your new app reload the page and select it.
+* Copy your App ID and your App Secret to your `config/diaspora.yml`.
+* Click Edit App
+* Add your domain to App Domains.
+* Check "Website with Facebook Login" and fill in the URL to your pod.
+* Hit save.
+* Click on Open Graph on the right side.
+* Fill in the fields to say "People can make a post" and click "Get Started". Just confirm the next two pages. [[https://mrzyx.de/diaspora/facebook2.png|700px]]
 * Restart Diaspora on your server
 * You're done. It's now possible to post to Facebook from your pod :)
