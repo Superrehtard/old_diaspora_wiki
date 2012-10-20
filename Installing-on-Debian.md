@@ -88,32 +88,11 @@ Note that libmagick9-dev is provided through libmagickwand-dev.
 
 ### Redis
 
-**NOTE:** I have Diaspora running with the Debian 6 stable repositories version of redis-server, without any problems - joaomlneto (jd.com user: anatoly)
-
 Debian 6.0 stable repositories have an older version of Redis.  If you are running Debian Testing, you can use the repository:
 
     sudo apt-get install redis-server
 
-Otherwise, if you're running Stable, you should get the newest version directly.  If you're running a 64-bit system, run:
-
-    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.4.17-1_amd64.deb -O redis-server.deb
-    wget http://ftp.us.debian.org/debian/pool/main/j/jemalloc/libjemalloc1_3.0.0-3_amd64.deb -O libjemalloc1.deb
-
-If you're running a 32-bit system, run:
-
-    wget http://ftp.us.debian.org/debian/pool/main/r/redis/redis-server_2.4.17-1_i386.deb -O redis-server.deb
-    wget http://ftp.us.debian.org/debian/pool/main/j/jemalloc/libjemalloc1_3.0.0-3_i386.deb -O libjemalloc1.deb
-
-Then install the corresponding package
- 
-    sudo dpkg -i libjemalloc1.deb
-    sudo dpkg -i redis-server.deb
-
-#### Note about libjemalloc1 on Debian Squeeze
-If you have problems getting the required lib multiarch-support installed, try installing it with aptitude and reinstall redis-server:
-
-    sudo aptitude install multiarch-support
-    sudo aptitude install redis-server
+Otherwise, if you're running Stable, use the version from the backports (<http://packages.debian.org/squeeze-backports/redis-server>). Read up on how to do that here: <http://backports-master.debian.org/Instructions/>.
 
 ### RubyGems
 
