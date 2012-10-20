@@ -10,7 +10,7 @@ Keys will be entered into your config/diaspora.yml
 * Click on 'Create an app'
   [[https://mrzyx.de/diaspora/twitter1.png|width=500px]]
 * Register your app
-  [[https://mrzyx.de/diaspora/services_twitter_2.png|width=500px]]
+  [[https://mrzyx.de/diaspora/twitter2.png|width=500px]]
     * Give it a name.  For example "Diaspora at example.org"
     * Give it a description
     * Set the application website to your pod URL or a page that describes what Diaspora is and what your pod has to do with it
