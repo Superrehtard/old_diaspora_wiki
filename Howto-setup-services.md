@@ -7,20 +7,19 @@ Keys will be entered into your config/diaspora.yml
 ## Twitter
 
 * Go to [[http://dev.twitter.com]] and sign in
-* Click on 'Create an app' (previously called 'Register an app')
-  [[https://mrzyx.de/diaspora/services_twitter_1.png|width=500px]]
+* Click on 'Create an app'
+  [[https://mrzyx.de/diaspora/twitter1.png|width=500px]]
 * Register your app
   [[https://mrzyx.de/diaspora/services_twitter_2.png|width=500px]]
     * Give it a name.  For example "Diaspora at example.org"
     * Give it a description
     * Set the application website to your pod URL or a page that describes what Diaspora is and what your pod has to do with it
-    * Leave the application type at Browser
-    * **Important:** Set the callback URL to the domain under which your pod is running (including http:// or https://)
-    * Set default access type to "Read & Write"
+    * **Important:** Set the callback URL to https://your_pod/auth/twitter/callback, replacing your_pod of course.
+    * There's a ToS to accept
     * There is a Captcha  ;)
-    * Click "Register application"
-* You now can see your consumer key and your consumer secret, copy them to the right places in config/diaspora.yml   
-[[https://mrzyx.de/diaspora/services_twitter_3.png|width=500px]]
+    * Click "Create Twitter application"
+* You now can see your consumer key and your consumer secret, copy them to the right places in config/diaspora.yml
+* Go to Settings and change the "Application Type" to "Read and Write".
 * Restart Diaspora on your sever (you can skip that when you want to also add support for more services) 
 * You're done. It's now possible to post to Twitter from your pod :)
 
