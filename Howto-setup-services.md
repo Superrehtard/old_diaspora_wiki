@@ -52,6 +52,6 @@ Keys will be entered into your config/diaspora.yml
 * Check "Website with Facebook Login" and fill in the URL to your pod.
 * Hit save.
 * Click on Open Graph on the right side.
-* Fill in the fields to say "People can make a post" and click "Get Started". Just confirm the next two pages. [[https://mrzyx.de/diaspora/facebook2.png|700px]]
+* Fill in the fields to say "People can make a post" and click "Get Started". Just confirm the next three pages. [[https://mrzyx.de/diaspora/facebook2.png|700px]]
 * Restart Diaspora on your server
 * You're done. It's now possible to post to Facebook from your pod :)
