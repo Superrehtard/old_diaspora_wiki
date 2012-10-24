@@ -114,20 +114,14 @@ One thing you could do, assuming you have another PC that will run Node. Precomp
 
 ***What are roles and how do I use them?***  
 We switched from statically configured 'special' user accounts in the config file to a role system, which lets us change role assignments without having to restart the server.  
-In order to convert your current config to the new roles you can import them by going to the rails console in the production environment by running the following command in your diaspora directory:
+In order to assign roles to users you need to start the rails console in the production environment by running the following command in your diaspora directory:
 
     $ RAILS_ENV=production rails c
 
-There you can run the functions that will convert the config values to database entries:
-
-    > Role.load_admins
-    > Role.load_spotlight
-
-In case you want to assign roles to other users, you can do so by running these commands:
+Now if you want to assign roles to users, you can do so by running these commands:
 
     > u = User.find_by_email("user@email.com")
     > Role.add_admin(u.person)      # to add as admin, or
-    > Role.add_beta(u.person)       # to add as 'beta' user, or
     > Role.add_spotlight(u.person)  # to add as 'community spotlight'
 
 When you are done, you can exit the console with
