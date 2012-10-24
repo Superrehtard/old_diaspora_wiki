@@ -13,8 +13,8 @@ The Diaspora core team holds a community chat every other week to tell the commu
 
 # Teams
 
-## Community members skill list
-Please add your info here: http://www.editgrid.com/user/groovehunter/diaspora-community-users - (This awesome list was started on this pad https://framapad.org/diaspora-community-users , but for better overview was transfered to a spreadsheet)
+## [Community members skill list](http://www.editgrid.com/user/groovehunter/diaspora-community-users)
+Please add your info here if you wish to participate!
 
 ## [Welcoming Committee](https://github.com/diaspora/diaspora/wiki/Welcoming-Committee)
 Community engagement is one of the most important tools to getting new users accommodated. It's a great way for them to make new friends and get comfortable on the platform. 
