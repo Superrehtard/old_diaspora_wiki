@@ -54,7 +54,7 @@ Keys will be entered into your config/diaspora.yml
 * Restart Diaspora on your server
 * You're done. It's now possible to post private posts to Facebook from your pod :)
 
-## To allow public posts to be posted
+### To allow public posts to be posted
 
 * Edit your "App Details" application and set the "Primary Icons", both have to be set.
 * Click on Open Graph on the right side.
