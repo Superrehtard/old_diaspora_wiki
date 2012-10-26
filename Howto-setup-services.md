@@ -56,7 +56,7 @@ Keys will be entered into your config/diaspora.yml
 
 ### To allow public posts to be posted
 
-* Edit your "App Details" application and set the "Primary Icons", both have to be set.
+* Edit your "App Details" and set the "Primary Icons", both have to be set.
 * Click on Open Graph on the right side.
 * Fill in the fields to say "People can make a post" and click "Get Started".[[https://mrzyx.de/diaspora/facebook2.png|700px]]
 * Replace the "Making" stuff with "Posting" one. [[https://mrzyx.de/diaspora/facebook3.png|700px]]
