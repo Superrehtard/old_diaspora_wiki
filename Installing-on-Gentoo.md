@@ -48,7 +48,7 @@ When mysqld is up and running, don't forget to add it to default runlevel:
 
     rc-update add mysql default 
 
-## Step 7: start Redis
+## Step 6: start Redis
 
 Start Redis:
     
@@ -60,7 +60,7 @@ and add it to the default runlevel:
     
 It is recommended to disable connections to redis from outside localhost. This is default configuration which can be validated by checking **netstat -l** output.
 
-## Step 6: create system user to run Dispora
+## Step 7: create system user to run Dispora
 
 Create system user to run Diaspora:
 
