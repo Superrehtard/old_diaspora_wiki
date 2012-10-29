@@ -8,6 +8,10 @@ Then emerge the needed components:
 
     emerge mysql git libxslt ruby rubygems redis
 
+Imagemagick is used by Diaspora to process image uploads. Make sure that imagemagick is built with the following use flags:
+
+    media-gfx/imagemagick autotrace bzip2 corefonts fftw fontconfig hdri jbig jpeg jpeg2k lcms lzma openexr pango png postscript raw svg tiff truetype wmf xml zlib
+
 ## Step 2: set UTF-8 locale
 
 UTF-8 locale is needed for Diaspora build (specifically, command **bundle install --without development test heroku**) to be successful. Make sure the LANG variable is set to **en_US.UTF-8** (tested value but it looks like any UTF8 locale is OK).
