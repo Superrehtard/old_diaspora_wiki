@@ -1,12 +1,12 @@
 ## Step 1: emerge the required ebuilds
 
-     emerge nodejs mysql git libxslt ruby rubygems redis
+    emerge nodejs mysql git libxslt ruby rubygems redis
 
 ## Step 2: install rails and bundler through ruby gems 
 
-     gem update --system 
-     gem install rails 
-     gem install bundler
+    gem update --system 
+    gem install rails 
+    gem install bundler
 
 ## Step 3: configure and start mysql database 
 
@@ -18,4 +18,4 @@ In the further steps we'll refer to this MySQL database (where Disapora meta dat
 
 When mysqld is up and running, don't forget to add it to default runlevel:
 
-      rc-update add mysql default
+    rc-update add mysql default
