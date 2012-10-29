@@ -6,7 +6,7 @@ Diaspora requires threads support in ruby. Make sure that ruby ebuild is emerged
 
 Then emerge the needed components:
 
-    emerge nodejs mysql git libxslt ruby rubygems redis
+    emerge mysql git libxslt ruby rubygems redis
 
 ## Step 2: set UTF-8 locale
 
