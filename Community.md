@@ -25,6 +25,9 @@ Community engagement is one of the most important tools to getting new users acc
 ## [Documentation Team](https://github.com/diaspora/diaspora/wiki/Documentation-Team)
 There are several ways to get involved with talking to the community.
 
+## [Translate Diaspora*](https://github.com/diaspora/diaspora/wiki/How-to-contribute-translations)
+Help translate Diaspora* in to all the languages in the world!
+
 ## [Other Ways to Contribute](https://github.com/diaspora/diaspora/wiki/Other-Ways-to-Contribute)
 Even if you're not a coder, there are still tons of other ways to help the project!
 
