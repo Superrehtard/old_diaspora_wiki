@@ -15,3 +15,7 @@ Configure and start mysqld. Create database needed for diaspora and the user whi
 Don't forget to run **/usr/bin/mysql_secure_installation** if this is fresh install of mysql server. It is recommended to disable connections to mysqld from outside localhost. This is default configuration which can be validated by checking **netstat -l** output. 
 
 In the further steps we'll refer to this MySQL database (where Disapora meta data is stored) as **pod**  and the corresponding MySQL user as **pod**.
+
+When mysqld is up and running, don't forget to add it to default runlevel:
+
+      rc-update add mysql default
