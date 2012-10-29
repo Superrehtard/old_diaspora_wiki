@@ -18,7 +18,7 @@ Can be done by adding the follwing line into **/etc/env.d/02locale**
 
 Then **env-update** and **source /etc/profile** commands should be launched. 
 
-## Step 3: Select ruby19 profile
+## Step 3: select ruby19 profile
 
 Check what ruby profiles are installed at your system 
 
@@ -47,6 +47,18 @@ Later Diaspora config (config/database.yml) shoudl point to the database name yo
 When mysqld is up and running, don't forget to add it to default runlevel:
 
     rc-update add mysql default 
+
+## Step 7: start Redis
+
+Start Redis:
+    
+    /etc/init.d/redis start
+
+and add it to the default runlevel:
+       
+    rc-update add redis default
+    
+It is recommended to disable connections to redis from outside localhost. This is default configuration which can be validated by checking **netstat -l** output.
 
 ## Step 6: create system user to run Dispora
 
