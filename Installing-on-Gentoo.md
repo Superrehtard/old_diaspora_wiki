@@ -10,7 +10,7 @@ Imagemagick is used by Diaspora to process image uploads. Make sure that imagema
 
 Then emerge the needed components:
 
-    emerge imagemagick mysql git libxslt ruby rubygems redis
+    emerge nodejs imagemagick mysql git libxslt ruby rubygems redis
 
 ## Step 2: set UTF-8 locale
 
@@ -69,3 +69,9 @@ It is recommended to disable connections to redis from outside localhost. This i
 Create system user to run Diaspora:
 
     useradd -m diaspora
+
+## Step 8: Deploy Diaspora
+
+Distribution-specific preparation are done. Login as diaspora user and deploy Diaspora according to generic installation instructions.
+
+## Congrats! You have all your dependencies installed. Proceed to [[Notes on Installing and Running Diaspora]]
