@@ -36,16 +36,20 @@ Make sure ruby19 is used as system profile (**eselect ruby set**)
 
 Configure and start mysqld. Create database needed for diaspora and the user which has full access to the database. [Gentoo MySQL Startup Guide](http://www.gentoo.org/doc/en/mysql-howto.xml) can help a lot if you have never deployed MySQL database on Gentoo.
 
-Don't forget to run **/usr/bin/mysql_secure_installation** if this is fresh install of mysql server. It is recommended to disable connections to mysqld from outside localhost. This is default configuration which can be validated by checking **netstat -l** output. 
+Don't forget to run **/usr/bin/mysql_secure_installation** if this is fresh install of mysql server. It is recommended to disable connections to mysqld from outside localhost. This is default configuration which can be validated by checking **netstat -l** output.
+
+Make sure that database is created with utf8 as charset and utf8_bin as collation:
+
+    CREATE DATABASE `pod` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_bin`;
+
+Later Diaspora config (config/database.yml) shoudl point to the database name you have created.
+ 
+When mysqld is up and running, don't forget to add it to default runlevel:
+
+    rc-update add mysql default 
 
 ## Step 6: create system user to run Dispora
 
 Create system user to run Diaspora:
 
     useradd -m diaspora
-
-In the further steps we'll refer to this MySQL database (where Disapora meta data is stored) as **pod**  and the corresponding MySQL user as **pod**.
-
-When mysqld is up and running, don't forget to add it to default runlevel:
-
-    rc-update add mysql default
