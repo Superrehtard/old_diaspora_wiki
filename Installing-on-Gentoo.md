@@ -4,13 +4,13 @@ Diaspora requires threads support in ruby. Make sure that ruby ebuild is emerged
 
     dev-lang/ruby threads
 
-Then emerge the needed components:
-
-    emerge mysql git libxslt ruby rubygems redis
-
 Imagemagick is used by Diaspora to process image uploads. Make sure that imagemagick is built with the following use flags:
 
     media-gfx/imagemagick autotrace bzip2 corefonts fftw fontconfig hdri jbig jpeg jpeg2k lcms lzma openexr pango png postscript raw svg tiff truetype wmf xml zlib
+
+Then emerge the needed components:
+
+    emerge imagemagick mysql git libxslt ruby rubygems redis
 
 ## Step 2: set UTF-8 locale
 
