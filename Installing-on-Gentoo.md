@@ -46,7 +46,7 @@ Make sure that database is created with utf8 as charset and utf8_bin as collatio
 
     CREATE DATABASE `pod` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_bin`;
 
-Later Diaspora config (config/database.yml) shoudl point to the database name you have created.
+Later Diaspora config (config/database.yml) should point to the database name you have created.
  
 When mysqld is up and running, don't forget to add it to default runlevel:
 
