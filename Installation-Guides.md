@@ -26,6 +26,7 @@ Below are some existing guides to getting a Diaspora pod set up on your system o
 
 ### [Windows](https://github.com/diaspora/diaspora/wiki/Diaspora-on-a-Windows-Box)
 ### [MacOSX](https://github.com/diaspora/diaspora/wiki/Installing-on-Mac-OS-X)
+### [Gentoo](https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu)
 ### [Ubuntu](https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu)
 ### [Debian](https://github.com/diaspora/diaspora/wiki/Installing-on-Debian)
 ### [Fedora](https://github.com/diaspora/diaspora/wiki/Installing-on-Fedora)
