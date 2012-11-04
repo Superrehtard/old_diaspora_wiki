@@ -1,9 +1,12 @@
 
-
 Note: If any of the steps don't work, don't force it.  You probably skipped a step or something.  Do not use sudo unless mentioned.
 Note: If you have issue, try here: https://github.com/diaspora/diaspora/wiki/How-we-use-IRC
 
 # THIS IS ONLY FOR DEV SETUP OR FOR JUST TRYING IT OUT
+
+# THIS GUIDE HAS SOME FLAWS AND IS CONFUSING, IF SOMEBODY WANTS TO REWORK IT.... IN THE MEAN TIME JUST GET A VM, INSTALL UBUNTU AND THROW THE QUICK START AGAINST IT: https://github.com/diaspora/diaspora#quick-start
+
+# WEIRD GUIDE STARTS HERE
 
 ## VirtualBox Setup:
 
