@@ -6,16 +6,13 @@ You can try a tutorial:
 
 *  [Diasporial](http://diasporial.com/tutorials) (blog, tutorials, tips)
 *  [Diaspora Wiki](https://github.com/diaspora/diaspora/wiki) (here on Github)   
-*  [Spored](http://wiki.spored.de/) (wiki, help) (german)    
 *  [Guide du parfait débutant](http://fr.wikibooks.org/wiki/Diaspora_:_Le_guide_du_parfait_débutant) (french)    
 
 Or ask your specific question:
 
 *  In a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
-*  On [Diaspora Forum](http://www.diasporaforum.org/) 
-*  On [GetSatisfaction](http://getsatisfaction.com/diaspora) 
 *  On [IRC](http://webchat.freenode.net/?channels=diaspora-dev)  (Live support)
-*  On [Spored](http://wiki.spored.de/) (wiki, help) (german)
+*  On [diaspora-users](https://groups.google.com/forum/#!forum/diaspora-users) mailing list
 
 For more technical questions about maintaining pods or development/coding see the [[FAQ for Pod Maintainers]] and the [[FAQ for Developers]].
 
