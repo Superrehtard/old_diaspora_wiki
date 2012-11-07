@@ -12,7 +12,6 @@ Or ask your specific question:
 
 *  In a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
 *  On [IRC](http://webchat.freenode.net/?channels=diaspora-dev)  (Live support)
-*  On [diaspora-users](https://groups.google.com/forum/#!forum/diaspora-users) mailing list
 
 For more technical questions about maintaining pods or development/coding see the [[FAQ for Pod Maintainers]] and the [[FAQ for Developers]].
 
