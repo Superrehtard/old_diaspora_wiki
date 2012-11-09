@@ -251,7 +251,9 @@ or for PostgreSQL:
 
 Now kill your running Diaspora instance.
 
-In order to apply any new schema always run
+In order to apply any new schema always run  
+
+[Tester Comment: It is very useful to run the migrate and precompile commands with the --trace switch. For example, DB="mysql" bundle exec rake db:migrate --trace. They are fairly quiet functions.  ]
 
     DB="mysql" bundle exec rake db:migrate
 
