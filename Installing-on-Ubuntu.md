@@ -57,7 +57,7 @@ rvm install ruby-1.9.3-p194
 rvm use ruby-1.9.3-p194@global
 ```
 
-[Tester comment: After installing RVM it is important to make sure the script is sourced in your .bashrc file. <code>source ~/.rvm/scripts/rvm</code>. When successful the command <code >type rvm | head -n 1 </code> will return "rvm is a funtion". This line may not always be added by the install script."
+[Tester comment: After installing RVM it is important to make sure the script is sourced in your .bashrc file. <code>source ~/.rvm/scripts/rvm</code>. When successful the command <code >type rvm | head -n 1 </code> will return "rvm is a function". This line may not always be added by the install script."
 
 ### Start MySQL (optional, depending on your platform):
 
