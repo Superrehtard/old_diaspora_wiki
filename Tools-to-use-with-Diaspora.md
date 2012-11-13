@@ -27,7 +27,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 
 #### More cool stuff (add ons to make your diaspora experience smarter)
-*  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview 
+*  [D* Hide Images](http://bit.ly/pWcCYN) - (Firefox, Chrome, Safari, Opera) hides images in your stream until you choose to show them, hover to preview. (Discontinued)
 
 *   <s>[Diaspora Tagfilter](https://www.userscripts.org/scripts/show/117102) - ( Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) ) GreaseMonkey script to filter postings in your diaspora-stream by tags. It also can replace all inline-images (except avatars) by links to those images.</s> (Broken as of May 2012)
     
@@ -35,7 +35,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *   [Diaspora Translate](http://userscripts.org/scripts/show/91276) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), Chrome) GreaseMonkey script to translate posts in your stream, also offers hiding non-ssl images. 
 
-*   [D* Stop Animated Gif](http://bit.ly/tCHIAG) - (Firefox, Chrome, Safari, Opera) Stop animated gif in your stream and play them on mouseover.
+*   [Diaspora* GIF Toggler](https://chrome.google.com/webstore/detail/diaspora-gif-toggler/dnlohoiofpckikpfjepegcadpgbcailf) - (Chrome) Stop animated gif in your stream and toggle by clicking.
 
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
