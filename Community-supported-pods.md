@@ -30,16 +30,32 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Linux (Ubuntu 10.10)
    * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.
 
-* [[https://de.public-pod.net/]] [[https://de.public-pod.net/apple-touch-icon.png|height=30px]]
-   * Opened: 01/09/2012
-   * Updated: daily
+
+  
+* [[https://calispora.org/]] [[https://calispora.org/apple-touch-icon.png|height=30px]]
+   * Opened: 15-Dec-2011
+   * Updated: often, usually daily
    * HTTPS only
-   * IPv6-Support
-   * Maintained by: Marco Fischer
-       * diaspora: meemarco@de.public-pod.net
-       * Contact: mfischer@meeyulabs.de
-   * Operating system: Centos
-   * Comments: Public and free Diaspora pod. Over 100% uptime, 8 cores, 24GB ram, facebook, twitter integration, targeting german-speaking users
+   * IPv4 only
+   * Maintained by a private individual
+       * diaspora: davey@calispora.org
+       * Contact: [[http://twitter.com/calispora]]
+   * Operating system: Linux (Ubuntu 10.10)
+   * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.  
+
+
+* [[https://diapod.net/]] [[https://diapod.net/icon_128.gif|height=30px]]
+   * Opened: early September, 2012
+   * Update: frequent pulls of the develop branch
+   * Indexed @ [[http://podupti.me]] 
+   * HTTPS only, HTTP redirects active 
+   * IPv4 Only
+   * Maintained by: aj
+       * Diaspora handles: [aj @ diapod .net] are
+       * Email addressed : [aj @ diapod .net]
+   * Operating system: Latest Ubuntu LTS, NGINX, MySQL, RVM, Unicorn or Thin as needed
+   * Server Location: Nova Scotia, Canada
+   * Comments: Personal Pod, Self Hosted, Social and development interests.
 
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
