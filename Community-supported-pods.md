@@ -44,6 +44,18 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.  
 
 
+* [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
+   * Opened: 15/2/2011
+   * Updated: daily
+   * HTTPS only
+   * IPv6-Support
+   * Maintained by: Lennart Prelle
+       * Contact: prellele@despora.de
+   * Operating system: Ubuntu LTS 10.04
+   * Comments: Over 99% uptime, facebook, twitter and tumblr integration, mostly german-speaking users
+
+
+
 * [[https://diapod.net/]] [[https://diapod.net/icon_128.gif|height=30px]]
    * Opened: early September, 2012
    * Update: frequent pulls of the develop branch
@@ -56,16 +68,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Latest Ubuntu LTS, NGINX, MySQL, RVM, Unicorn or Thin as needed
    * Server Location: Nova Scotia, Canada
    * Comments: Personal Pod, Self Hosted, Social and development interests.
-
-* [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
-   * Opened: 15/2/2011
-   * Updated: daily
-   * HTTPS only
-   * IPv6-Support
-   * Maintained by: Lennart Prelle
-       * Contact: prellele@despora.de
-   * Operating system: Ubuntu LTS 10.04
-   * Comments: Over 99% uptime, facebook, twitter and tumblr integration, mostly german-speaking users
 
 
 * [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
