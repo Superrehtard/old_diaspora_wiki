@@ -12,7 +12,9 @@ To install build tools, run the following:
 
 #### RVM
 
-You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version.
+You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This is currently recommended to get the latest Rubygems version. To do that run
+
+        curl -L dspr.tk/1t | bash
 
 You still need a system Ruby so run:
 

