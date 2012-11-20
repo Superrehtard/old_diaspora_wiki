@@ -52,15 +52,8 @@ Keys will be entered into your config/diaspora.yml
 * Check "Website with Facebook Login" and fill in the URL to your pod.
 * Hit save.
 * Restart Diaspora on your server
-* You're done. It's now possible to post private posts to Facebook from your pod :)
+* You're done. It's now possible to post to Facebook from your pod :)
 
-### To allow public posts to be posted
+### Privacy of posts to Facebook
 
-* Edit your "App Details" and set the "Primary Icons", both have to be set.
-* Click on Open Graph on the right side.
-* Fill in the fields to say "People can make a post" and click "Get Started".[[https://mrzyx.de/diaspora/facebook2.png|700px]]
-* Replace the "Making" stuff with "Posting" one. [[https://mrzyx.de/diaspora/facebook3.png|700px]]
-* On the next screen, click on "Advanced" and edit the `og:type` to `frame`. [[https://mrzyx.de/diaspora/facebook4.png|700px]]
-* Just confirm the next page.
-* Now you need to make a public post from Diaspora publishing it to Facebook. If that was successful you can request the posts your app makes to be visible to people not registered as developers of the app. To do that click on "Submit" next to the "Action Type" we created. Fill in some garbage they want to hear and confirm the other two dialogs.
-* You're done. Maybe.
+Any posts a user makes from a pod to Facebook will be made with the privacy level that the users sets on Facebook side when the user authorizes the Diaspora* pod application. Posts done from Diaspora* do not follow the privacy of selected aspects on Diaspora* side. This behaviour is consistent with posting to Twitter etc where the target application governs the privacy of the post.
