@@ -127,7 +127,6 @@ keep the defaults.  However, if you plan to actually host a pod choose productio
 
 If you want to run production mode:
 
-* Edit rails_env in the script_server section in config/script_server.yml
 * Change the `environment.assets.serve` setting to `true` in the `config/diaspora.yml` file. With this setting enabled Diaspora can take advantage of Rails' ability to serve static content like images and .css files from the application's /public directory. However, Rails is not a webserver, so a better option would be to leave `environment.assets.serve` set to `false` and instead install a true webserver such as Apache or Nginx alongside Diaspora and modify that webserver’s configuration to serve the static content itself:
 
 #### Apache 2
@@ -216,7 +215,7 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 
 To turn on the server use the command `./script/server` from the working directory. 
 
-This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/script_server.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
+This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/diaspora.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
 
 Note: Ensure your database servers (Redis and MySQL or PostgreSQL) are running before trying to start the server.
 
