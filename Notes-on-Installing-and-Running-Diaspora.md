@@ -117,9 +117,6 @@ Diaspora needs to know what host it's running on. Copy `config/diaspora.yml.exam
 to `config/diaspora.yml`, put your external url into the `environment.url` field, and make any other
 needed configuration changes.
 
-To run as a rails app, copy config/script_server.yml.example to config/script_server.yml and edit it properly.
-
-
 ### Background
 
 Diaspora is a Rails-app and as such it has different running modes.
