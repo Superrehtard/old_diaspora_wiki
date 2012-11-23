@@ -213,10 +213,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-internet"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Internet](#wiki-internet)**
 </th></th></tr></table>
-
+<!-- contact was missing here so i assumed it, please feel free to correct if this is yours, aj@diapod.net --> 
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/47732" title=" Pistos ">
-![Pistos](https://diasp0ra.ca/uploads/images/thumb_small_8329a80bd04e6f68823f.png)
+<a href="https://diapod.net/people/3a2a29de8ed62961" title=" aj@diapod.net">
+![Pistos](https://diapod.net/uploads/images/thumb_small_d6c92d5deb1ae790d7a0.jpg)
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
@@ -634,4 +634,3 @@ LIST of BOLD #TAGS
 [#1](https://joindiaspora.com/tags/1) | [#2](https://joindiaspora.com/tags/2) | [#3](https://joindiaspora.com/tags/3) |
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
