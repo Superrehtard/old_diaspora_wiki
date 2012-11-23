@@ -220,8 +220,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - I n t e r n e t --> 
 
-- **[#html5](https://joindiaspora.com/tags/html5) | [#internet](https://joindiaspora.com/tags/internet) | [#web](https://joindiaspora.com/tags/web)**
-- #cloud #copyleft #creativecommons #bitcoin #diaspora #facebook #google #html5 #mysql #news #sql #twitter #wikipedia #yahoo
+-  **[#apache](https://joindiaspora.com/tags/apache) | [#browser](https://joindiaspora.com/tags/browser) |  [#chrome](https://joindiaspora.com/tags/chrome) | [#chromium](https://joindiaspora.com/tags/chromium) |  [#firefox](https://joindiaspora.com/tags/firefox) | [#html5](https://joindiaspora.com/tags/html5) | [#internet](https://joindiaspora.com/tags/internet) | [#mozilla](https://joindiaspora.com/tags/mozilla)  | [#nginx](https://joindiaspora.com/tags/nginx) | [#web](https://joindiaspora.com/tags/web) | [#webserver](https://joindiaspora.com/tags/webserver)**
+
+
+-  #cloud #copyleft #creativecommons #bitcoin #diaspora #facebook #google #html5 #mysql #news #sql #twitter #wikipedia #yahoo
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-languages"><table width="100%" border="0"><tr><th class="not to blame"> 
@@ -234,7 +236,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - L a n g u a g e s --> 
 
-- **[#canada](https://joindiaspora.com/tags/canada) | [#canadian](https://joindiaspora.com/tags/canadian) | [#french](https://joindiaspora.com/tags/french) | [#german](https://joindiaspora.com/tags/german)**
+- **[#canada](https://joindiaspora.com/tags/canada) | [#canadian](https://joindiaspora.com/tags/canadian) | [#french](https://joindiaspora.com/tags/french) | [#german](https://joindiaspora.com/tags/german)**  
 - #africa #british #dutch #english #esperanto #hispanic #italian #japan #japanese #jewish #libros #portugal #spain #spanish #words #usa
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
