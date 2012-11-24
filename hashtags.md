@@ -4,10 +4,21 @@
 **New page under development 2011 Dec ...**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-top-tags"><table width="100%" border="0"><tr class="disregard previous highlight"><td class="not to blame">
-<a><table width="9" height="9" align="right"><tr><td><a href="#" title=" 3 Bears ">
+<a name="wiki-top-tags"><table width="100%" border="0">
+ <tr class="disregard previous highlight">
+  <td class="not to blame">
+   <a>
+    <table align="right">
+     <tr>
+      <td>
+       <a href="#" title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
-</a></td></tr></table></a>
+       </a>
+      </td>
+     </tr>
+    </table>
+   </a>
+
 ### <a class="not nt auto_invert">Goldilocks & the 3 smart #hashtags</a>
 
 In thinking about **hashtags**, remember the words of little **<a class="not nt auto_invert">Goldilocks</a>** ...
@@ -41,10 +52,21 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 <!-- - - - - - - - - - - - - - - - - - / T o p - T a g s --> 
 <!-- - - - - - - - - - - - - - - - - - C o n t a c t - U s --> 
 
-<a name="wiki-top"><table width="100%" border=""><tr class="disregard previous highlight"><td class="not to blame"> 
-<a><table align="right" width="9" height="9"><tr><td>
-<a href="#" title=" Octocats ">![Octocats](http://diasporafoundation.org/images/octocats.png?1319762059)</a>
-</td></tr></table></a>
+<a name="wiki-top">
+ <table width="100%" border="">
+  <tr class="disregard previous highlight">
+   <td class="not to blame"> 
+    <a>
+      <table align="right" >
+       <tr>
+        <td>
+           <a href="#" title=" Octocats ">![Octocats](http://upload.wikimedia.org/wikipedia/commons/8/89/Notepad_icon.png)
+           </a>
+        </td>
+       </tr>
+      </table>
+    </a>
+
 ### <a class="not nt auto_invert">Contributing to or Commenting on this page</a>
 
 Anyone can sign up for a [free **GitHub** account](https://github.com/signup/free) & learn to edit wiki pages in the [**GFM Markdown** language](http://github.github.com/github-flavored-markdown/).&nbsp; Or post your ideas on **Diaspora** using one of these [#hashtags](#) ...
