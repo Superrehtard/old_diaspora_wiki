@@ -50,6 +50,23 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 - **Top Tags:&nbsp; [#music](https://joindiaspora.com/tags/music) | [#movies](https://joindiaspora.com/tags/movies) | [#art](https://joindiaspora.com/tags/art) | [#linux](https://joindiaspora.com/tags/linux) | [#design](https://joindiaspora.com/tags/design) | [#android](https://joindiaspora.com/tags/android) | [#travel](https://joindiaspora.com/tags/travel) | [#science](https://joindiaspora.com/tags/science) | [#diaspora](https://joindiaspora.com/tags/diaspora) | [#books](https://joindiaspora.com/tags/books) | [#apple](https://joindiaspora.com/tags/apple) | [#film](https://joindiaspora.com/tags/film) | [#web](https://joindiaspora.com/tags/web) | [#internet](https://joindiaspora.com/tags/internet) | [#french](https://joindiaspora.com/tags/french) | [#opensource](https://joindiaspora.com/tags/opensource) | [#philosophy](https://joindiaspora.com/tags/philosophy) | [#php](https://joindiaspora.com/tags/php) | [#computers](https://joindiaspora.com/tags/computers) | [#newhere](https://joindiaspora.com/tags/newhere) | [#gaming](https://joindiaspora.com/tags/gaming) | [#teacher](https://joindiaspora.com/tags/teacher) | [#guitar](https://joindiaspora.com/tags/guitar) | [#cooking](https://joindiaspora.com/tags/cooking) | [#musik](https://joindiaspora.com/tags/musik)**
 
 <!-- - - - - - - - - - - - - - - - - - / T o p - T a g s --> 
+
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
+<a name="wiki-tag-clouds">
+<a name="wiki-tag-lists"><table width="100%" border="0"><tr><td class="not to blame"> 
+**[Clouds](#wiki-tag-clouds) & [Lists](#wiki-tag-lists)** &nbsp; 
+ **⇨** &nbsp; [#TagClouds](https://joindiaspora.com/tags/TagClouds) and [#TagLists](https://joindiaspora.com/tags/TagLists) maintained by [#podmins](https://joindiaspora.com/tags/podmins)
+([#pod](https://joindiaspora.com/tags/pod)
+administrators).
+</td></tr></table>
+<!-- - - - - - - - - - - - - - - - - - T a g - C l o u d s --> 
+- **Cloud:&nbsp; [diasp.eu](https://diasp.eu/popular_tags)** 
+
+<!-- - - - - - - - - - - - - - - - - - / T a g - C l o u d s --> 
+
+
+
 <!-- - - - - - - - - - - - - - - - - - C o n t a c t - U s --> 
 
 <a name="wiki-top">
