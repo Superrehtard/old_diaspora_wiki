@@ -421,6 +421,23 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 - **[#anonymous](https://joindiaspora.com/tags/anonymous)**
 - #censorship #copyleft #creativecommons #encryption #freedom #piracy #privacy #security 
 
+
+<a name="wiki-science"><table width="100%" border="0"><tr><th class="not to blame"> 
+**[Sciences](#wiki-science)**
+</th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
+<!-- - - - - - - - - - - - - - - - - - S c i e n c e s --> 
+
+- **[#astronomy](https://joindiaspora.com/tags/astronomy)** | 
+ **[#aviation](https://joindiaspora.com/tags/aviation)** | 
+ **[#biology](https://joindiaspora.com/tags/biology)** | 
+ **[#chemistry](https://joindiaspora.com/tags/chemistry)** | **[#fractal](https://joindiaspora.com/tags/fractal)** | **[#math](https://joindiaspora.com/tags/math)** | **[#science](https://joindiaspora.com/tags/science)** | **[#space](https://joindiaspora.com/tags/space)** | **[#TED](https://joindiaspora.com/tags/TED)** 
+-  #Escher #Newton #Einstein #Galileo #NASA #mathematics #quantum
+
+
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-social"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Social Media](#wiki-social)**
