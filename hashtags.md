@@ -95,6 +95,7 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 </td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - / C o n t a c t - U s -->
+
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-animals"><table width="100%" border=0"><tr><th class="not to blame"> 
 **[Animals & Pets](#wiki-animals)**
@@ -211,15 +212,25 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-fashion"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Fashion & Beauty](#wiki-fashion)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
+
 <!-- - - - - - - - - - - - - - - - - - F a s h i o n --> 
 
 - **[#design](https://joindiaspora.com/tags/design) | [#fashion](https://joindiaspora.com/tags/fashion) | [#tattoos](https://joindiaspora.com/tags/tattoos)**
 - #clothing #hair #makeup #modeling #shoes #textiles
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
-<a name="wiki-gaming"><table width="100%" border="0"><tr><th class="not to blame"> 
+<a name="wiki-gaming"><table width="100%" border="0"><tr><th class="not to blame">
 **[Gaming](#wiki-gaming)**
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed."> Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - G a m i n g --> 
 
 - **[#gaming](https://joindiaspora.com/tags/gaming)**
@@ -243,6 +254,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-green"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Green Sustainability](#wiki-green)**
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - G r e e n --> 
 
 - **[#nature](https://joindiaspora.com/tags/nature)**
@@ -282,6 +297,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-music"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Music](#wiki-music)**
 </th></th></tr></table>
+
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - M u s i c --> 
 
 - **[#dubstep](https://joindiaspora.com/tags/dubstep) | [#guitar](https://joindiaspora.com/tags/guitar) | [#music](https://joindiaspora.com/tags/music)** 
@@ -347,11 +367,12 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-places"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Places](#wiki-places)**
 </th></th></tr></table>
-
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/60892" title=" Silvia ">
-![Silvia](https://social.mathaba.net/uploads/images/thumb_small_833ca9e222391e8f0477.jpg)
+
+<!-- contact broken, participation needed <a href="https://diasp.org/people/60892" title=" Silvia "> -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
 </a></td></tr></table></a>
+
 <!-- - - - - - - - - - - - - - - - - - P l a c e s --> 
 
 - **[#canada](https://joindiaspora.com/tags/canada) | [#french](https://joindiaspora.com/tags/french) | [#travel](https://joindiaspora.com/tags/travel)**
@@ -389,10 +410,11 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-privacy"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Privacy, Anonymity, Security, Encryption & Intellectual Property](#wiki-privacy)**
 </th></th></tr></table>
-
 <a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
-<a href="https://diasp.org/people/77509" title=" fabdo ">
-![fabdo](https://stylr.net/uploads/images/thumb_small_5538e2e675e607e179b6.png)
+
+<!-- contact broken, participation needed <a href="https://diasp.org/people/77509" title=" fabdo "> -->
+
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
 </a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - P r i v a c y --> 
 
@@ -403,6 +425,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-social"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Social Media](#wiki-social)**
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png) 
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - S o c i a l --> 
 
 - **[#diaspora](https://joindiaspora.com/tags/diaspora)**
@@ -412,6 +438,10 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 <a name="wiki-special"><table width="100%" border="0"><tr><th class="not to blame"> 
 **[Special, Misc & Metatags?](#wiki-special)**
 </th></th></tr></table>
+<a><table align="right" width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<!-- no contact, participation needed  -->
+<a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title="Participation needed.">Edit ![](http://upload.wikimedia.org/wikipedia/commons/e/ea/Pencil.png)  
+</a></td></tr></table></a>
 <!-- - - - - - - - - - - - - - - - - - S p e c i a l --> 
 
 - **[#bug](https://joindiaspora.com/tags/bug) | [#feature](https://joindiaspora.com/tags/feature) | [#question](https://joindiaspora.com/tags/question)**
