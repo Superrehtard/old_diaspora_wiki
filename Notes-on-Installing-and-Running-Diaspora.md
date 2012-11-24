@@ -231,7 +231,7 @@ Once Diaspora is running, just open it up in a web browser and sign up for an ac
 
 ## Updating Diaspora
 
-Read the Changelog!
+Read the Changelog! [tester comment: Its good to make a branch or other backup of your current repository before updates. `git branch <my backup branch name>`. Then use `git status`, `git add`, and `git commit` as needed to make sure all of your active work is saved in your working repository before the merge with origins. This will ensure that you are informed of merge conflicts and don't overwrite your own changes with the pull.]
 
 Change into the Diaspora root folder and run
 
