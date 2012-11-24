@@ -1,7 +1,7 @@
 # Diaspora* Hashtags
 ## Diaspora [#hashtags](https://joindiaspora.com/tags/hashtags) | Diaspora [#tags](https://joindiaspora.com/tags/tags)
 
-**New page under development 2011 Dec ...**
+**Page under development.**
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="100%" border="0">
