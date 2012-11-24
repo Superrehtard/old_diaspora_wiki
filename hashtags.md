@@ -11,7 +11,7 @@
     <table align="right">
      <tr>
       <td>
-       <a href="#" title=" 3 Bears ">
+       <a title=" 3 Bears ">
 ![3 Bears](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Page_96_illustration_in_English_Fairy_Tales.png/120px-Page_96_illustration_in_English_Fairy_Tales.png)
        </a>
       </td>
@@ -26,7 +26,7 @@ In thinking about **hashtags**, remember the words of little **<a class="not nt 
 **Am I using _enough #hashtags_ in my Diaspora posts?**&nbsp; Am I using _too many?_&nbsp; What number is _just right?_&nbsp; (In algorithmics, this is known as an _optimization_ problem) ...  
 
 If you don't use any hashtags on **Diaspora** (or too few), you will be lonely & miserable because nobody — except your closest friends — will see your posts.
-<a><table width="0" height="0" align="left"><tr><td><a href="#" title=" Girlfriends ">
+<a><table width="0" height="0" align="left"><tr><td><a title=" Girlfriends ">
 ![Girlfriends](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png/81px-New_York_City_school_children._2_girls_with_shining_faces%2C_opening_day.png)
 </a></td></tr></table></a>
 &nbsp; &nbsp; But, if you use _too many_ hashtags, you will make everybody else miserable because everybody will see your posts, <br>
@@ -43,7 +43,7 @@ If you don't use any hashtags on **Diaspora** (or too few), you will be lonely &
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --> 
 <a name="wiki-top-tags"><table width="100%" border="0"><tr><td class="not to blame"> 
-**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Please resist over-tagging)!
+**[Top Tags](#wiki-top-tags)** &nbsp; (Following popular [#tags](#) will find more posts.&nbsp; Posting popular [#tags](#) will find more friends.&nbsp; Please resist over-tagging!)
 </td></tr></table>
 <!-- - - - - - - - - - - - - - - - - - T o p - T a g s --> 
 
@@ -77,7 +77,7 @@ administrators).
       <table align="right" >
        <tr>
         <td>
-           <a href="#" title=" Octocats ">![Octocats](http://upload.wikimedia.org/wikipedia/commons/8/89/Notepad_icon.png)
+           <a href="https://github.com/diaspora/diaspora/wiki/hashtags/_edit" title=" Contribute">![Contribute](http://upload.wikimedia.org/wikipedia/commons/8/89/Notepad_icon.png)
            </a>
         </td>
        </tr>
