@@ -433,8 +433,14 @@ Anyone can sign up for a [free **GitHub** account](https://github.com/signup/fre
 
 - **[#astronomy](https://joindiaspora.com/tags/astronomy)** | 
  **[#aviation](https://joindiaspora.com/tags/aviation)** | 
- **[#biology](https://joindiaspora.com/tags/biology)** | 
- **[#chemistry](https://joindiaspora.com/tags/chemistry)** | **[#fractal](https://joindiaspora.com/tags/fractal)** | **[#math](https://joindiaspora.com/tags/math)** | **[#science](https://joindiaspora.com/tags/science)** | **[#space](https://joindiaspora.com/tags/space)** | **[#TED](https://joindiaspora.com/tags/TED)** 
+ **[#biology](https://joindiaspora.com/tags/biology)** |
+ **[#chemistry](https://joindiaspora.com/tags/chemistry)** |
+ **[#fractal](https://joindiaspora.com/tags/fractal)** |
+ **[#math](https://joindiaspora.com/tags/math)** |
+ **[#physics](https://joindiaspora.com/tags/physics)** |
+ **[#science](https://joindiaspora.com/tags/science)** |
+ **[#space](https://joindiaspora.com/tags/space)** |
+ **[#TED](https://joindiaspora.com/tags/TED)** 
 -  #Escher #Newton #Einstein #Galileo #NASA #mathematics #quantum
 
 
