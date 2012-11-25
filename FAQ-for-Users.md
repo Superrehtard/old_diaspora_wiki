@@ -11,7 +11,7 @@ You can try a tutorial:
 Or ask your specific question:
 
 *  In a public post on Diaspora using the [#question](http://dia.so/question) hashtag.
-*  In the Diaspora section on Fora http://fora.org.uk/diaspora
+*  In the Diaspora forum http://fora.org.uk/diaspora
 *  On [IRC](http://webchat.freenode.net/?channels=diaspora-dev)  (Live support)
 
 For more technical questions about maintaining pods or development/coding see the [[FAQ for Pod Maintainers]] and the [[FAQ for Developers]].
