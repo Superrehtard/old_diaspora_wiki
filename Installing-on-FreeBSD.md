@@ -65,6 +65,10 @@ To install Git, run the following:
 
         sudo pkg_add -r git
 
+Or if you got errors during "sudo pkg_add -r git" try:
+
+cd /usr/ports/devel/git && sudo make install clean
+
 ### Redis
 
 To install Redis, run the following:
