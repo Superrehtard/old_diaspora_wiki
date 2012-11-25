@@ -38,8 +38,8 @@ To install Postgresql as your database, run the following:
  
 Add `postgresql_enable="YES"` to /etc/rc.conf, then:
 
-        sudo /usr/local/etc/postgresql initdb
-        sudo /usr/local/etc/postgresql start
+        sudo /usr/local/etc/rc.d/postgresql initdb
+        sudo /usr/local/etc/rc.d/postgresql start
     
 Set it up to run as your user (diaspora for example):
 
