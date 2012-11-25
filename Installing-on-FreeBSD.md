@@ -67,7 +67,7 @@ To install Git, run the following:
 
 Or if you got errors during "sudo pkg_add -r git" try:
 
-cd /usr/ports/devel/git && sudo make install clean
+        cd /usr/ports/devel/git && sudo make install clean
 
 ### Redis
 
