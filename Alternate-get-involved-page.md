@@ -4,10 +4,10 @@ Diaspora\* is an eclectic community.  We have
 artists, teachers, moms, children, designers, hackers, and activists
 from all over the world.  This is important because if we are going to
 build an innovative way to communitcate online, we need to think very
-differently than our predicessors, both Open Source and propriety.
+differently than our predecessors, both Open Source and proprietary.
 
 
-There is only three requirements to join the Diaspora community.
+There are only three requirements to join the Diaspora community.
 
   1. ***Be excellent to each other.***  
      We all are here to make the internet a better place to share with people on the web.
@@ -15,7 +15,7 @@ There is only three requirements to join the Diaspora community.
      The core devs started this in their free time because it sounded entertaining (and hard).
      If we can't have a good time together, shouldn't you be doing something else?
   3. ***Learn something.***  
-     Diaspora is not a simple endevor, and our mission is not something we can complete in a day, 
+     Diaspora is not a simple endeavor, and our mission is not something we can complete in a day, 
      a year, or maybe even a lifetime.  That also means it is a constantly evolving, dynamic project
      with lots of hard problems, all of which require different types of
      expertise. Every one of our contributors is an expert in something, even you!
@@ -87,7 +87,7 @@ become a Diaspora contributor.
 *as a user*
 
   * throw a Diaspora party
-  * help organizing a [meetup]
+  * help organize a [meetup]
 
 *as a hacker*
 
@@ -115,7 +115,7 @@ We are an international movement. If you would like to participate or help organ
 
 ## Any questions?
 
-Come talk to us. The best ways to get in touch in realtime in [[IRC|How-we-use-IRC]]. Tell us what you're interested in working on - code, tutorials, feature ideas, mockups, running a pod, helping with the wiki, other - and we can help you
+Come talk to us. The best ways to get in touch in realtime is [[IRC|How-we-use-IRC]]. Tell us what you're interested in working on - code, tutorials, feature ideas, mockups, running a pod, helping with the wiki, or something else - and we can help you
 figure out how to get going.
 
 
