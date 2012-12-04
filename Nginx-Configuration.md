@@ -36,10 +36,14 @@ http {
 # FIXME: If using thin app server, specify correct number of thin servers
 #        below, otherwise comment out and replace with your own solution
 #
+# In case of unicorn - master opens a unix domain socket
+#upstream unicorn {
+#    server unix:/var/run/sockets/unicorn.sock;
+#}
+
 upstream thin_cluster {
   server          localhost:3000;
 }
-
 
 #
 # FIXME: specify correct value(s) for `server_name` directive and
