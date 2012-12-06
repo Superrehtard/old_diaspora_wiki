@@ -334,7 +334,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Facebook, Twitter, Tumblr integration. Nginx with passenger.
 
 * [[https://socializer.cc/]] [[https://socializer.cc/apple-touch-icon.png|height=30px]]
-   * Opened: 31/03/2011
+   * Opened: 30/07/2012
    * Updated: regularly
    * Maintainer: private person
        * contact: nico@socializer.cc
