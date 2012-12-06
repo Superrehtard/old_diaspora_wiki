@@ -333,6 +333,15 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Ubuntu 10.04
    * Facebook, Twitter, Tumblr integration. Nginx with passenger.
 
+* [[https://socializer.cc/]] [[https://socializer.cc/apple-touch-icon.png|height=30px]]
+   * Opened: 31/03/2011
+   * Updated: regularly
+   * Maintainer: private person
+       * contact: nico@socializer.cc
+   * HTTPS only, HTTP redirects active 
+   * IPv4 and IPv6
+   * Operating system: Debian
+   * Comments: open registration, ssl, twitter and facebook integration
 
 * [[https://soc.ragriz.net/]] [[http://soc.ragriz.net/apple-touch-icon.png|height=30px]]
    * Opened: 31/03/2011
