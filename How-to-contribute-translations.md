@@ -1,13 +1,13 @@
 # How to contribute translations
 
-There are two ways you can contribute a translation: with a pull request or at [[Web translate it|https://webtranslateit.com]].
+There are two ways you can contribute a translation: with a pull request or at [[WebTranslateIt|https://webtranslateit.com]].
 But lets start with some....
 
 ## General Notes
 
 ### Languages with high inflection and grammar different to English
 
-We integrated the awesome extensions @siefca made for the [i18n Gem](https://github.com/svenfuchs/i18n) and for Rails: [i18n-inflector](https://github.com/siefca/i18n-inflector) and [i18n-inflector-rails](https://github.com/siefca/i18n-inflector-rails). Based on what the user has written into the gender field and our [definitions](https://github.com/diaspora/diaspora/tree/master/config/locales/inflections) the gender is guessed. Look at the readme of i18n-inflector for more documentation and how to use them. You can use the ``named patterns`` easily via [Web translate it](https://webtranslateit.com) if you want to do so. However if you want to contribute a definition please make a [pull request](https://github.com/diaspora/diaspora/wiki/Git-Workflow).
+We integrated the awesome extensions @siefca made for the [i18n Gem](https://github.com/svenfuchs/i18n) and for Rails: [i18n-inflector](https://github.com/siefca/i18n-inflector) and [i18n-inflector-rails](https://github.com/siefca/i18n-inflector-rails). Based on what the user has written into the gender field and our [definitions](https://github.com/diaspora/diaspora/tree/master/config/locales/inflections) the gender is guessed. Look at the readme of i18n-inflector for more documentation and how to use them. You can use the ``named patterns`` easily via [WebTranslateIt](https://webtranslateit.com) if you want to do so. However if you want to contribute a definition please make a [pull request](https://github.com/diaspora/diaspora/wiki/Git-Workflow).
 
 ### Choose the correct language code
 
@@ -30,7 +30,7 @@ Examples:
 * ``fr_informal`` for the informal one
 
 ## Pull request
-**Note:** If you want to take the responsibility for your language then it's completely fine, however using both methods at a time is too much work, so please provide constant updates if you want to do it this way. Do keep in mind that you have to watch for changes yourself, there's no automatism that updates everything in this way. Also be sure that you are the person to be contacted about it in your local community and add a way to contact you/contribute to the translation to the *Languages handled outside of Web translate it* section below.
+**Note:** If you want to take the responsibility for your language then it's completely fine, however using both methods at a time is too much work, so please provide constant updates if you want to do it this way. Do keep in mind that you have to watch for changes yourself, there's no automatism that updates everything in this way. Also be sure that you are the person to be contacted about it in your local community and add a way to contact you/contribute to the translation to the *Languages handled outside of WebTranslateIt* section below.
 
 First read and follow [[Contributing to Diaspora: Using git|Git-Workflow]].
 
@@ -50,18 +50,18 @@ If you want to fix an untranslatable strings or something feel free, but only ad
 
 If you want to give constant updates you can also notify me (@MrZYX, IRC: MrZYX, E-Mail: me@mrzyx.de) and give me the URL to a Git Repository and I'll do regular pulls in my update workflow.
 
-## Web translate it
+## WebTranslateIt
 
-### Languages handled _outside_ of Web translate it
+### Languages handled _outside_ of WebTranslateIt
 
 * ca [[repository|https://gitorious.org/diaspora-l10n-ca/diaspora-l10n-ca]]
 * es-VE [[team|https://github.com/ruby-ve]]
 * gl [[team|http://trasno.net/]]
 * sq [[maintainer|https://github.com/ujdhesa]]
 
-### Translating with Web translate it
+### Translating with WebTranslateIt
 
-First go to  [[Web translate it|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
+First go to  [[WebTranslateIt|https://webtranslateit.com/en/sign_up]] and create/sign-in to your account.
 
 Then go to [[diaspora's project site|https://webtranslateit.com/en/projects/3020-Diaspora]] and join the team.
 
