@@ -52,7 +52,7 @@ To create a new account, go to http://yourdiasporainstance.com/users/sign_up
 If you're missing your images in the production environment, change `environment.assets.serve` in `config/diaspora.yml` to `true` and restart Diaspora. Or set up a reverse proxy to serve the files directly under public/.
 
 ***There are no images on my pod***  
-You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to servce static assets by changing `environment.assets.serve` to `true` in your `config/diaspora.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
+You are most likely in production mode and/or your apache/nginx is not serving static assets.  If you just want to run your server directly from thin on port 3000, you can set ruby to serve static assets by changing `environment.assets.serve` to `true` in your `config/diaspora.yml`. Please note, that it is faster if apache/nginx is set up to serve the files from the `public/` directory, since that's what it's build to do - serve files over http.  
 *When deploying to heroku:*
 Be sure to check that the `ENVIRONMENT_ASSETS_SERVE` is set to `true` in your `heroku config`.
 
