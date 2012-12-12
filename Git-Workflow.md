@@ -66,7 +66,7 @@ If you're new to git and GitHub, here's the longer version of these instructions
 
 ## Establish connectivity between your GitHub account and your development machine.
 
-1. Generate an SSH key on your development machine. Here's a "good guide":http://help.github.com/key-setup-redirect that gives you specific directions for whatever OS you're accessing the page with.
+1. Generate an SSH key on your development machine. Here's a [good guide](http://help.github.com/key-setup-redirect) that gives you specific directions for whatever OS you're accessing the page with.
 2. Make sure you've got an SSH public key on your machine and recorded in your GitHub account. You can see your SSH Public Keys on the Account Overview section of your GitHub account.
 ![](http://img.skitch.com/20101018-nayqmm1ne8qdyafpjb7tib4fi4.png)
 3. To test the GitHub authentication run:
