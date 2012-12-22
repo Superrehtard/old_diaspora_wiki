@@ -64,3 +64,5 @@ _Links to various tools built by the community for use with Diaspora._
 *  [Webfinger Profile Plugin for 'Join me' widget](http://wordpress.org/extend/plugins/webfinger-profile/) - display a widget on your WordPress blog with your profile information from Diaspora, [more info](http://blog.duthied.com/2011/08/30/webfinger-profile-plugin/)
 
 *   [Wordpress plugin: wp-post-to-diaspora](https://github.com/diaspora/wp-post-to-diaspora) when you make a new blog post, this plugin will post a link to it to your diaspora account
+
+*   [Sociable](http://gattonero.me/1041CdI) - a WordPress plugin customized for share content also on Diaspora*
