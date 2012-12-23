@@ -1,3 +1,5 @@
+[moved]
+
 # Become a part of the Diaspora community 
 
 Diaspora\* is an eclectic community.  We have
