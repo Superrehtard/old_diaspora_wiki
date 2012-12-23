@@ -1,3 +1,5 @@
+[moved]
+
 0) Read the git workflow guide: [[https://github.com/diaspora/diaspora/wiki/Git-Workflow]]
 
 1) Add Friendster(*your favorite service*) support to omniauth: [[http://github.com/intridea/omniauth]], if its not there already . 
