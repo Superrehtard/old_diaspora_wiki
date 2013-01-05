@@ -44,7 +44,7 @@ In order to run Diaspora, you will need to install the following dependencies (s
 follow):
 
 - Build tools - Packages needed to compile the components that follow.
-- <a href="http://www.ruby-lang.org" target="_blank">Ruby</a> - The Ruby programming language.  (**1.9.2** or later).
+- <a href="http://www.ruby-lang.org" target="_blank">Ruby</a> - The Ruby programming language.  ( **1.9.2** or later).
 - <a href="http://rubygems.org/" target="_blank">RubyGems</a> - A package manager for Ruby code 
 that we use to download libraries ("gems") that Diaspora uses.
 - <a href="http://gembundler.com/" target="_blank">Bundler</a> - A gem management tool for Ruby 
