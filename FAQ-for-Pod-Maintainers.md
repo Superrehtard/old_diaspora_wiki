@@ -8,7 +8,7 @@ to IRC channels and mailing lists are at the bottom of this page.**
 ### Installation
 
 ***Do you have a detailed install guide?***  
-Yes. [[Check it out!|Installing and Running Diaspora]] It will probably be more up-to-date than
+Yes. [[Check it out!|Installation Guides]] It will probably be more up-to-date than
 this page, in general. Also, feel free to look at the [collected guides](https://github.com/diaspora/diaspora/wiki/Installation-Guides) page for OS-specific/service-specific help.
 
 ***What ports does Diaspora need open for communication?***  
