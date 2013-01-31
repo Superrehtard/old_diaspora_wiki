@@ -213,7 +213,8 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Updated: irregularly
     * Maintainer: TeRRY LeIFeSTe (private individual) 
         * slacker@failure.net (email and diaspora)
-        * phliktid@failure.net (diaspora) / [[http://twitter.com/phliKtid]] (twitter)
+        * [[http://twitter.com/phliKtid]] (twitter)
+        * [[https://failure.net/u/phliktid]] (diaspora - for failure.net pod info/updates)
     * Operating system: Linux 
     * Features: public registration open, Twitter and Facebook support, HTTPS only.
     * Comments: with a domain name like that, what do you expect?
