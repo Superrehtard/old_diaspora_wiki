@@ -207,6 +207,18 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux 
     * Comments: Public and free Diaspora pod.
 
+
+* [[https://failure.net]] [[https://failure.net/icon_128.gif|height=30px]]
+    * Opened: april 2011
+    * Updated: irregularly
+    * Maintainer: TeRRY LeIFeSTe (private individual) 
+        * slacker@failure.net (email and diaspora)
+        * phliktid@failure.net (diaspora) / [[http://twitter.com/phliKtid]] (twitter)
+    * Operating system: Linux 
+    * Features: public registration open, Twitter and Facebook support, HTTPS only.
+    * Comments: with a domain name like that, what do you expect?
+
+
 * [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
     * Opened: 09/05/2010
     * Updated: irregularly
