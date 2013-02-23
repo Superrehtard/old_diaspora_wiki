@@ -62,6 +62,8 @@ will need to download the Diaspora source code from GitHub.
 - <a href="http://redis.io/" target="_blank">Redis</a> - A persistent key-value store that we 
 use via <a href="https://github.com/defunkt/resque" target="_blank">Resque</a> for background 
 job processing.
+- one of the Javascript runtimes on
+<a href="https://github.com/sstephenson/execjs">execjs's supported list</a>.
 
 Feel free to take a look at the [distributions and services](https://github.com/diaspora/diaspora/wiki/Installation-Guides) listed for OS-specific/service-specific instructions to prepare your system.
 
