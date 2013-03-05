@@ -149,6 +149,17 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: ArchLinux
     * Comments: Feel free to ask for an invitation!
 
+* [[https://thearchnoob.net/]] [[https://thearchnoob.net/apple-touch-icon.png|height=30px]]
+   * Opened: 04-March-2013
+   * Updated: Important / Frequent
+   * HTTPS only
+   * IPv4/IPv6
+   * Maintained by a private individual
+       * diaspora: info@thearchnoob.net
+       * Contact: [[http://twitter.com/TheArchnoob]]
+   * Operating system: Linux (Debian 6.0.6)
+   * Comments: Open pod, focused on security, join today! Facebook and twitter integration, EU-based.
+
 * [[http://diaspora.re/]] [[https://diaspora.re/apple-touch-icon.png|height=30px|]]
    * Opened: 01/11/2010
    * Updated: regularly
