@@ -115,11 +115,11 @@ From: https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu
 	curl -L dspr.tk/1t | bash
 	source /home/dan/.rvm/scripts/rvm
 	
-	rvm install 1.9.3-p327
+	rvm install 1.9.3-p385
 
 press 'q' to continue...
 	
-	rvm use 1.9.3-p327@global
+	rvm use 1.9.3-p385@global
 
 ## Installing Diaspora:
 FROM: https://github.com/diaspora/diaspora/wiki/Notes-on-Installing-and-Running-Diaspora
