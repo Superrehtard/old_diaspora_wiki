@@ -1,3 +1,12 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diaspora-project.org/wiki/Grassroots_Projects
+
+----
+
 This is a list of projects that members of the Diaspora grassroots community are working on.  They are all great ways to help out and get involved with Diaspora.  Please let us know if there are any projects that should also be listed here, other projects we should work on, or any questions/feedback you may have.  
 
 ##Simple ways everyone can help
