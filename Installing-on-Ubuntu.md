@@ -53,8 +53,8 @@ To install rvm from source, execute the following command:
 Now read `rvm requirements` and ensure `libyaml-dev` is installed. Then install Ruby via RVM:
 
 ```bash
-rvm install 1.9.3
-rvm use 1.9.3@global
+rvm install 1.9.3-p385
+rvm use 1.9.3-385@global
 ```
 
 [Tester comment: After installing RVM it is important to make sure the script is sourced in your .bashrc file. <code>source ~/.rvm/scripts/rvm</code>. When successful the command <code >type rvm | head -n 1 </code> will return "rvm is a function". This line may not always be added by the install script."
