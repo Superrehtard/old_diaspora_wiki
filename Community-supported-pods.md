@@ -7,6 +7,7 @@ are choosing which pod to sign up for, you also consider:
 
 * [Podupti.me](http://podupti.me/) - similar service to PodUp, run by the fine folks at diasp.org.
 * [Pod Ranking](http://diaspora.wk3.org/) - also incorporating encryption and legal details, run by Christophe of wk3.org
+* [Active Pods](https://diapod.net/active/) - A listing based on analysis of server access logs rather than performance metrics. 
 
 If there is an unbroken image next to the pod name in the list below, the pod is probably online at the moment.
 
@@ -86,20 +87,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Europe
 
-
-* [[http://diasp.org/]] [[https://diasp.org/apple-touch-icon.png|height=30px|]]
-   * Opened: 01/11/2010
-   * Updated: Once a day @ noon
-   * Maintained by: [[http://www.diasp.org]]
-   * Operating system: Fedora 15
-   * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
-
-
-* [[https://diasp0ra.ca/]] [[https://diasp0ra.ca/apple-touch-icon.png|height=30px|]]
-   * Opened: 2011-10-27
-   * Updated: Every stable update to the code
-   * Maintained by: Pistos
-   * Operating system: Gentoo Linux
 
 * [[https://diaspora.cloudid.net]] [[https://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
     * Opened: 12/01/2012
@@ -205,12 +192,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Ubuntu Server
     * Comments: proudly Canadian (despite the IP geo-location!). Invitations on request.
 
-* [[https://dipod.org]] [[https://dipod.org/apple-touch-icon.png|height=30px]]
-    * Opened: 01/11/2011
-    * Updated: major changes
-    * Maintained by: private individual 
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod.
 
 * [[https://dipod.es]] [[https://dipod.es/apple-touch-icon.png|height=30px]]
     * Opened: 01/11/2011
@@ -267,14 +248,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Linux Ubuntu
    * Comments: Open pod twitter integration, germany-based.
 
-* [[http://li-la.de:3000]] [[http://li-la.de:3000/apple-touch-icon.png|height=30px]]
-    * Opened: 31/12/2010
-    * updated every couple of days
-    * located in germany
-    * Maintainer: Frank Boehm <frank@thor.baldar.de>
-    * Operating system: Slackware 12.2
-    * Comments: Following master branch. Free, public Diaspora pod. Will try to keep database intact, only reset if needed by updates. 
-
 
 * [[https://londondiaspora.org/]] [[https://londondiaspora.org/apple-touch-icon.png|height=30px]]
    * Opened: 17/05/2011
@@ -311,14 +284,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: FreeBSD 8.2-RELEASE
    * Comments: Public and free Diaspora pod, Logging disabled, [rss-bot](https://github.com/spkdev/diaspora-rss-bot) installed, Facebook, Twitter disabled
    * Configuration: lighttpd, thin
-
-* [[https://ottospora.nl]] [[https://ottospora.nl/apple-touch-icon.png|height=30px|]]
-    * Opened: 4/03/2011
-    * Updated: daily
-    * Maintained by : Wouter Timmermans
-        * diaspora : protowouter@ottospora.nl
-    * Operating system: Ubuntu 11.10
-    * Comments: Running in production mode with nginx + phusion passenger
 
 
 * [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
