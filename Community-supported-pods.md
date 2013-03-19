@@ -133,7 +133,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://diaspora.podzimek.org]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px]]
+* [[https://diaspora.podzimek.org]] [[https://diaspora.podzimek.org/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
     * Updated: frequently
     * Maintained by: Andrej Podzimek <andrej@podzimek.org>
@@ -300,7 +300,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[http://pod.geraspora.de]] [[http://pod.geraspora.de/apple-touch-icon.png|height=30px]]
+* [[http://pod.geraspora.de]] [[https://pod.geraspora.de/images/gerasporaStar.png|height=30px]]
     * Opened: 2010-11-01
     * Updated: daily
     * Maintainer : Noncommercial group of 3 persons
@@ -455,7 +455,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://hfase.com]] [[http://hfase.com/apple-touch-icon.png|height=30px]]
+* [[https://hfase.com]] [[https://hfase.com/apple-touch-icon.png|height=30px]]
     * Updated: Often
     * Maintained by Hans Fase
        * Diaspora handle: hans@hfase.com
