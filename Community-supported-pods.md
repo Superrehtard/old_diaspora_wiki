@@ -87,6 +87,14 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * Operating system: Linux
     * Comments: Public and free Diaspora pod for Europe
 
+ 	
+* [[http://diasp.org/]] [[https://diasp.org/apple-touch-icon.png|height=30px|]] 	
+   * Opened: 01/11/2010 	
+   * Updated: Once a day @ noon	 	
+   * Maintained by: [[http://www.diasp.org]]	 	
+   * Operating system: Fedora 15	 	
+   * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
+
 
 * [[https://diaspora.cloudid.net]] [[https://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
     * Opened: 12/01/2012
