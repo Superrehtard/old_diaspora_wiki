@@ -14,6 +14,8 @@ To update your `Gemfile.lock` run
     git commit -m "switch Gemfile.lock to pg exclusivly"
 [Tester comment, Oct 12 2012 from a Windows user: Heroku writes Gemfile dynamically at compile time and uses a deploy mode that insists Gemfile.lock be in version control. If you deploy from a system that is not outfitted with ruby development tools, this can cause a pickle with conditional gems. To change Gemfile on Heroku it is necessary to run bundle locally and create a matching Gemfile.lock. Bundle, however, is not well supported at this time on native Windows systems. So, to deploy your Rails apps to Heroku more easily, either run a virtual Linux box under Windows or find an old PC and load Linux on it. ]
 
+[OSX 10.8.3, Apr 8 2013 - Install XCode CLI [Command Line Tools](http://stackoverflow.com/questions/11703030/why-wont-bundler-install-the-json-1-7-4-gem-on-os-x-10-8) (go to XCode Preferences > Downloads) - this should solve the issue in "Installing json (1.7.7)"]
+
 Install the  [Heroku toolbelt](https://toolbelt.heroku.com/).
 
 Create an app, you must exchange `diasporadev` here and in all following cases with something unique:
