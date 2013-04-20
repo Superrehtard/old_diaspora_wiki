@@ -34,7 +34,7 @@ And make the database available, replace the `REPLACEME` with corresponding part
 
 Set some basic configuration, remember to replace `diasporadev`:
 
-    heroku config:add HEROKU=true  DB=postgres ENVIRONMENT_URL=https://diasporadev.herokuapp.com/ ENVIRONMENT_ASSETS_SERVE=true ENVIRONMENT_UNICORN_EMBED_RESQUE_WORKER=true  ENVIRONMENT_CERTIFICATE_AUTHORITIES=/usr/lib/ssl/certs/ca-certificates.crt
+    heroku config:add HEROKU=true  DB=postgres ENVIRONMENT_URL=https://diasporadev.herokuapp.com/ ENVIRONMENT_ASSETS_SERVE=true SERVER_EMBED_RESQUE_WORKER=true  ENVIRONMENT_CERTIFICATE_AUTHORITIES=/usr/lib/ssl/certs/ca-certificates.crt
 
 You can now already go through `config/diaspora.yml.example` and add the settings you want to differ from the defaults (`config/defaults.yml`), converting them to environment variables as described at the top of the file.
 
