@@ -38,7 +38,7 @@ You can install Ruby on a clean per user basis via [RVM](https://rvm.io/). This 
 
 Read `rvm requirements` and ensure `libyaml-dev` is installed. Then install Ruby with:
 
-    rvm install 1.9.3-p385 # install correct ruby version
+    rvm install 1.9.3-p429 # install correct ruby version
 
 These instructions are from [[https://rvm.io/rvm/install/]].
 
@@ -52,8 +52,8 @@ For Debian 6.0 users who wish to install Ruby 1.9.3 (or any edition for that mat
 
 ```bash
 rvm pkg install openssl
-rvm remove 1.9.3-p385 #just in case
-rvm install 1.9.3-p385 --with-openssl-dir=$rvm_path/usr
+rvm remove 1.9.3-p429 #just in case
+rvm install 1.9.3-p429 --with-openssl-dir=$rvm_path/usr
 ```
 
 
@@ -111,7 +111,7 @@ To install Bundler, run the following, **(skip the sudo for a RVM installation)*
 If you installed via RVM and gem is not found, run the following
 
     bash -l
-    rvm use 1.9.3-p385@global
+    rvm use 1.9.3-p429@global
 
 To get bundle to work with the system Ruby, you might need to make a symbolic link:
 
