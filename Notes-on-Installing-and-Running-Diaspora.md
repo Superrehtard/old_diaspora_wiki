@@ -53,7 +53,7 @@ library we use to resize uploaded photos.
 will need to download the Diaspora source code from GitHub.
 - <a href="http://redis.io/" target="_blank">Redis</a> - A persistent key-value store that we 
 use via <a href="https://github.com/mperham/sidekiq" target="_blank">Sidekiq</a> for background 
-job processing. (**2.0** or later)
+job processing. ( **2.0** or later)
 - one of the Javascript runtimes on
 <a href="https://github.com/sstephenson/execjs">execjs's supported list</a>.
 
