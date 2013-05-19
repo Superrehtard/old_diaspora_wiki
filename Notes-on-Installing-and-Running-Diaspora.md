@@ -44,7 +44,6 @@ that we use to download libraries ("gems") that Diaspora uses.
 projects.
 - <a href="http://www.mysql.com" target="_blank">MySQL</a> - Backend storage engine.
 - Or: <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> - Backend storage engine.
-- <a href="http://www.sqlite.org" target="_blank">SQLite3</a> - Relational database management system
 - <a href="http://www.openssl.org/" target="_blank">OpenSSL</a> - An encryption library.
 - <a href="http://curl.haxx.se/" target="_blank">libcurl</a> - A library to make HTTP requests 
 (and much more).
