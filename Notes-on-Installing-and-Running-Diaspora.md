@@ -23,14 +23,7 @@ in [[IRC|How we use IRC]], on Freenode.**
 Firefox, Opera, Chrome or Safari to the newest version. We do not currently support any version of 
 Internet Explorer, though support is planned in the future.
 
-2. On joindiaspora.com, we run the application using <a href="http://code.macournoyer.com/thin/" target="_blank">Thin</a> 
-as our application server and <a href="http://wiki.nginx.org/Main" target="_blank">Nginx</a> as 
-our web server. You can use another application server (Passenger, Mongrel...), or another web 
-server (Apache, Unicorn...), but the core team may not have the expertise to help you set it up. Same goes for the database, currently we use MySQL but we're close to supporting PostgreSQL as well, it might work already.
-There are folks in the community who do run Diaspora this way though, so ask around in the IRC and 
-on the mailing list.
-
-3. **Diaspora mandates HTTPS**, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
+2. **Diaspora mandates HTTPS**, as it uses OAuth2 flows to connect to apps.  You can get a free SSL certificate from <a href="http://www.startssl.com/" target="_blank">StartSSL</a>.  You'll need to reference the certificate you get from StartSSL in your NGINX/Apache configuration file.
 
 **Note** While you can certainly get up and running with your own pod by using a self-signed SSL certificate, your pod may not be able to communicate with all other pods. It is therefore recommended that you use a certificate issued from a trusted Certificate Authority. Unfortunately, this also means that CaCert certificates won't work. They are not (yet) part of most certificate bundles.
 
@@ -44,7 +37,7 @@ In order to run Diaspora, you will need to install the following dependencies (s
 follow):
 
 - Build tools - Packages needed to compile the components that follow.
-- <a href="http://www.ruby-lang.org" target="_blank">Ruby</a> - The Ruby programming language.  ( **1.9.2** or later).
+- <a href="http://www.ruby-lang.org" target="_blank">Ruby</a> - The Ruby programming language.  ( **1.9.2-p290** or later).
 - <a href="http://rubygems.org/" target="_blank">RubyGems</a> - A package manager for Ruby code 
 that we use to download libraries ("gems") that Diaspora uses.
 - <a href="http://gembundler.com/" target="_blank">Bundler</a> - A gem management tool for Ruby 
@@ -60,8 +53,8 @@ library we use to resize uploaded photos.
 - <a href="http://git-scm.com/" target="_blank">Git</a> - A version control system, which you 
 will need to download the Diaspora source code from GitHub.
 - <a href="http://redis.io/" target="_blank">Redis</a> - A persistent key-value store that we 
-use via <a href="https://github.com/defunkt/resque" target="_blank">Resque</a> for background 
-job processing.
+use via <a href="https://github.com/mperham/sidekiq" target="_blank">Sidekiq</a> for background 
+job processing. (**2.0** or later)
 - one of the Javascript runtimes on
 <a href="https://github.com/sstephenson/execjs">execjs's supported list</a>.
 
@@ -108,7 +101,7 @@ NOTE: If you are on Ruby 1.9.2 and get an error such as "invalid byte sequence i
 
 NOTE: If you get "Could not get Gemfile" make sure you are in the diaspora directory (`cd diaspora`) you just cloned.
 
-NOTE: If you do any other rails development on your machine, you will probably
+NOTE: If you do any other Rails development on your machine, you will probably
 want to either run `bundle install --path vendor` instead to install the gems in your local diaspora
 directory to avoid conflicts with your existing environment, or use an [RVM](https://rvm.beginrescueend.com) gemset.
 
@@ -169,27 +162,6 @@ Take note: We upgrade all port 80 requests to port 443.  We recommend that you d
 
 **Different certificates** Make sure that your top level domain (e.g. example.com if your pod is pod.example.com) hands out the _same_ certificate as your actual pod URL. The communication with other pods (or applications, like [cubbi.es](http://www.cubbi.es)) might not work otherwise.
 
-
-### Load-balancing with a Thin cluster and Nginx
-
-To improve the performance on large-scale pods, it makes sense to run many thin servers and cluster them for load-balancing. Add the parameters `--servers n -R config.ru` to the list of `default_thin_args` in `config/script_server.yml`, where *n* is the number of thin servers you like to cluster:
-
-```yaml
-default_thin_args: "--servers 5 -R config.ru -p $THIN_PORT -e $RAILS_ENV"
-```
-
-This will instruct the script to run thin instances on $THIN_PORT and the next *n-1* ports. Make sure that your Nginx configuration knows about these servers by adding them to the list of upstream servers. E.g.: if the thin port is 3000 and you want to cluster five servers, the upstream section of your Nginx configuration should look like this:
-
-```nginx
-upstream diaspora_thin_cluster {
-    server localhost:3000;
-    server localhost:3001;
-    server localhost:3002;
-    server localhost:3003;
-    server localhost:3004;
-}
-```
-
 ### Set up the database
 
 *Note for PostgreSQL users*: If you are running Diaspora with PostgreSQL, beware that having [the ssl setting](http://www.postgresql.org/docs/9.1/interactive/runtime-config-connection.html#GUC-SSL) turned on in the PostgreSQL config has been causing problems for several people.  We recommend turning it off unless you know what you're doing.
@@ -216,11 +188,11 @@ If you want to connect your pod to other services like Twitter, Tumblr or Facebo
 
 To turn on the server use the command `./script/server` from the working directory. 
 
-This will start Thin and a Resque worker. The application is then available at http://your_pod:3000. You can change the port by either editing thin_port in config/diaspora.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
+This will start Unicorn and a Sidekiq worker. The application is then available at http://your_pod:3000. You can change the port by either editing config/diaspora.yml or by setting up a reverse proxy (see above) if you want to run Diaspora at a subdomain or use HTTPS more easily.
 
 Note: Ensure your database servers (Redis and MySQL or PostgreSQL) are running before trying to start the server.
 
-If you want to run an app server other than Thin or have more control over it, you must run the appserver, a Resque worker, and the Websocket server separately.
+If you want to run an app server other than Unicorn or have more control over it, you must run the appserver and a Sidekiq worker separately.
 
 Here are instructions to [[Run Diaspora's components|Run Diasporas Components]]
 
@@ -283,21 +255,3 @@ After each update run:
 Normally you don't need this if you aren't developing for Diaspora, just skip it :)
 
 Diaspora’s test suite uses [Rspec](http://rspec.info/), a behavior driven testing framework. To run all tests execute: `rake`. Note that some of our tests require a display to be attached; if you just want to run the command-line tests, do `rake spec`.
-
-### Read-only installation
-
-The directories *tmp*, *public/uploads* and *log* must be writable by the user running Diaspora even in a read-only installation.
-
-Some of Diaspora's web content in the public/ folder  is generated at runtime. In order to create a read-only installation, this content must be generated at install time instead.
-
-Run sass/haml and create e. g.,  public/stylesheets/{application,ui,sessions}.css:
-
-    bundle exec thin -d --pid log/thin.pid start
-    wget http://localhost:3000; rm index.html
-    bundle exec thin --pid log/thin.pid stop
-
-Precache public/assets/*gz files:
-
-    bundle exec rake assets:precompile
-
-After these commands  also the *public/* folder  can be read-only (although *public/uploads* need to be writable, see above).
