@@ -8,7 +8,7 @@ To install build tools, run the following (includes the gcc and xml parsing depe
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev libyaml-dev
 
-***NOTE:*** On Debian 7 Wheezy, the `libreadline5-dev` package has been replaced by `libreadline-gplv2-dev`.
+***NOTE:*** On **Debian 7.0**, the `libreadline5-dev` package has been replaced by `libreadline-gplv2-dev`.
 
 ### CURL
 
@@ -20,7 +20,7 @@ To install them, run the following:
 
 ### Git
 
-To install Git on **Debian 6.0**, run the following:
+To install Git on **Debian 6.0** and **7.0**, run the following:
 
     sudo apt-get install git-core
 
