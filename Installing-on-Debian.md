@@ -1,12 +1,14 @@
 ### Versions
 
-These instructions are for Debian Lenny 5.0 or Squeeze 6.0.  You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
+These instructions are for Debian Lenny 5.0 or Squeeze 6.0, with some notes on Wheezy 7.0.  You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
 
 ### Build Tools
 
 To install build tools, run the following (includes the gcc and xml parsing dependencies):
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev libyaml-dev
+
+***NOTE:*** On Debian 7 Wheezy, the `libreadline5-dev` package has been replaced by `libreadline-gplv2-dev`.
 
 ### CURL
 
