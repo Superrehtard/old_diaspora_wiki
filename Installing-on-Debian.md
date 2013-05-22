@@ -136,7 +136,11 @@ and try the step again.
 
 ### NodeJS
 
-You will also need nodejs. Currently this is not available in the stable release of debian 6 so here are instructions on installing from source.
+You will also need nodejs. In **Debian 7.0**, simple run
+
+   sudo apt-get install nodejs
+
+Currently this is not available in the stable release of **Debian 6.0** so here are instructions on installing from source.
 
     git clone https://github.com/joyent/node.git
     cd node
@@ -147,6 +151,8 @@ You will also need nodejs. Currently this is not available in the stable release
     sudo make install
 
 These instructions are from [[http://sekati.com/etc/install-nodejs-on-debian-squeeze]]
+
+### ExecJS
 
 Last of all, you need to install the execjs gem
 
