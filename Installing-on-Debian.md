@@ -138,7 +138,7 @@ and try the step again.
 
 You will also need nodejs. In **Debian 7.0**, simply run
 
-   sudo apt-get install nodejs
+    sudo apt-get install nodejs
 
 nodejs isn't available in the Debian repositories for **Debian 6.0,** so it must be installed from source.
 
