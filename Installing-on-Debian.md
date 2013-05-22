@@ -8,7 +8,7 @@ To install build tools, run the following (includes the gcc and xml parsing depe
 
     sudo apt-get install build-essential libxslt1.1 libxslt1-dev libxml2 libreadline5-dev libyaml-dev
 
-***NOTE:*** On **Debian 7.0**, the `libreadline5-dev` package has been replaced by `libreadline-gplv2-dev`, but `rvm` will instead favor the conflicting package `libreadline6-dev`.
+***NOTE:*** On **Debian 7.0**, the `libreadline5-dev` package has been replaced by `libreadline-gplv2-dev`, but [RVM](https://github.com/diaspora/diaspora/wiki/Installing-on-Debian#rvm) will instead prefer and install the conflicting package `libreadline6-dev`.
 
 ### CURL
 
