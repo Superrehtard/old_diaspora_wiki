@@ -136,11 +136,11 @@ and try the step again.
 
 ### NodeJS
 
-You will also need nodejs. In **Debian 7.0**, simple run
+You will also need nodejs. In **Debian 7.0**, simply run
 
    sudo apt-get install nodejs
 
-Currently this is not available in the stable release of **Debian 6.0** so here are instructions on installing from source.
+nodejs isn't available in the Debian repositories for **Debian 6.0,** so it must be installed from source.
 
     git clone https://github.com/joyent/node.git
     cd node
@@ -157,6 +157,5 @@ These instructions are from [[http://sekati.com/etc/install-nodejs-on-debian-squ
 Last of all, you need to install the execjs gem
 
     sudo gem install execjs
-
 
 ## Congrats! You have all your dependencies installed. Proceed to [[Notes on Installing and Running Diaspora]].
