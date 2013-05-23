@@ -335,15 +335,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://privit.us/]]
-   * Opened: Jun 1, 2011
-   * Updated: Daily when upstream code is stable
-   * Maintained by: [[https://privit.us/people/1]]
-   * Operating system: Ubuntu 10.04
-   * Facebook, Twitter, Tumblr integration. Nginx with passenger.
-
-***
-
 * [[https://socializer.cc/]] [[https://socializer.cc/apple-touch-icon.png|height=30px]]
    * Opened: 30/07/2012
    * Updated: regularly
@@ -452,15 +443,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
        * Diaspora handle: Todamont@cryptospora.net
     * Operating system: Linux (Ubuntu 10.04)
     * Comments: Caters to cryptocurrency and computational science enthusiasts.
-
-***
-
-* [[https://hfase.com]] [[https://hfase.com/apple-touch-icon.png|height=30px]]
-    * Updated: Often
-    * Maintained by Hans Fase
-       * Diaspora handle: hans@hfase.com
-    * Operating system: Linux (Ubuntu 12.04)
-    * Comments: Hosted from my-own server.
 
 ***
 
