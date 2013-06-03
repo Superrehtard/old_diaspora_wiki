@@ -3,7 +3,7 @@ The following are some developer resources pertaining to the semantics behind ho
 ## [An Introduction to the Diaspora Source](https://github.com/diaspora/diaspora/wiki/An-Introduction-to-the-Diaspora-Source)
 This is an overview of the different working parts of the DIASPORA* platform. It explains some of the models and semantics.
 
-## [Message Semantics](https://github.com/diaspora/diaspora/wiki/Diaspora%27s-message-semantics)
+## [Message Semantics](https://github.com/diaspora/diaspora/wiki/Federation-Message-Semantics)
 This gives an in-depth explanation of how messages are passed on the Diaspora platform from one pod to another. Specifically, it dives into the semantics of what all goes in to a single status update, comment, or private message.
 
 ## [Federation Protocol](https://github.com/diaspora/diaspora/wiki/Federation-Protocol-Overview)
