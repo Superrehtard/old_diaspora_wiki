@@ -72,7 +72,7 @@ Diaspora currently defines the following messages:
 * Retractions of posts
 * Retractions of likes/comments
 
-Note, however, that Diaspora is in alpha and its protocol is in flux, so this list is subject to change and this document may be out of date.  The most up-to-date information resides in the source code for Diaspora's reference implementation, which is a Ruby on Rails application.  The files to pay attention to are those application models that inherit from WebHooks.
+Note, however, that Diaspora is in alpha and its protocol is in flux, so this list is subject to change and this document may be out of date.  The most up-to-date information resides in the source code for Diaspora's reference implementation, which is a Ruby on Rails application.  The files to pay attention to are those application models that inherit from Diaspora::Federated.
 
 Nevertheless, this document will describe the messages as they were at the time of writing.  This document should be updated when the messages change.
 
