@@ -37,7 +37,7 @@ If alice@alice.diaspora.example.com wants to discover bob@bob.diaspora.example.c
 Alice's pod will first get the host-meta file from bob's webfinger address.  The host-meta file is located at https://bob.diaspora.example.com/.well-known/host-meta.  In the host-meta file, alice's pod will find a Link element with `rel="lrdd"`, such as:
 
 ```xml
-<Link rel="lrdd" template="https://bob.diaspora.example.com/?q={uri}"  type="application/xrd+xml" />
+<Link rel="lrdd" template="https://bob.diaspora.example.com/webfinger?q={uri}"  type="application/xrd+xml" />
 ```
 
 Alice's pod will now transform bob's webfinger address and replace {uri} with that.  First, bob's webfinger address is url-encoded.  Alice will make a GET request to:
