@@ -41,7 +41,7 @@ Alice's pod will first get the host-meta file from bob's webfinger address.  The
 ```
 
 Alice's pod will now transform bob's webfinger address and replace {uri} with that.  First, bob's webfinger address is url-encoded.  Alice will make a GET request to:
-    https://bob.diaspora.example.com/?q=bob%40bob.diaspora.example.com
+    https://bob.diaspora.example.com/webfinger?q=bob%40bob.diaspora.example.com
 
 Bob's webfinger server (which may be the same as bob's pod) will respond with bob's webfinger profile.  The webfinger profile might look something like this:
 
