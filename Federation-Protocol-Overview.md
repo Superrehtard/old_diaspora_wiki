@@ -54,6 +54,7 @@ Bob's webfinger server (which may be the same as bob's pod) will respond with bo
   <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
   <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
   <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
+  <Link rel='http://webfinger.net/rel/profile-page' type='text/html' href="https://diaspora.pirateship.org/u/((bobs-username))"/>
   <Link rel="diaspora-public-key" type="RSA" href="((base64-encoded representation of the rsa public key))"/>
 </XRD>
 ```
