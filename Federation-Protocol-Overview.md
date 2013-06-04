@@ -50,7 +50,7 @@ Bob's webfinger server (which may be the same as bob's pod) will respond with bo
 <XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
   <Subject>acct:bob@bob.diaspora.example.com</Subject>
   <Alias>"http://bob.diaspora.example.com/"</Alias>
-  <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+  <Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/u/((guid))"/>
   <Link rel="http://joindiaspora.com/seed_location" type="text/html" href="http://bob.diaspora.example.com/"/>
   <Link rel="http://joindiaspora.com/guid" type="text/html" href="((guid))"/>
   <Link rel="http://schemas.google.com/g/2010#updates-from" type="application/atom+xml" href="http://bob.diaspora.example.com/public/bob.atom"/>
@@ -79,13 +79,13 @@ The Subject element should contain the webfinger address that alice asked for.  
 ### hcard
 
 ```xml
-<Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/hcard/users/((guid))"/>
+<Link rel="http://microformats.org/profile/hcard" type="text/html" href="http://bob.diaspora.example.com/u/((guid))"/>
 ```
 
 Bob's webfinger profile MUST contain a link to an hcard.  The hcard contains personal information such as bob's full name, a link to bob's photo, etc.  Refer to the [hcard specification](http://microformats.org/profile/hcard hcard specification) for a full discussion on hcard syntax.
 
-Like the webfinger profile, the hcard need not be hosted by the Diaspora pod.  In fact, it may be in a location that is distinct from both the Diaspora pod and the webfinger host.  However, if the hcard is to be hosted by the Diaspora pod, then the url SHOULD be:
-    http://bob.diaspora.example.com/hcard/users/((bobs-guid))
+Like the webfinger profile, the hcard need not be hosted by the Diaspora pod.  In fact, it may be in a location that is distinct from both the Diaspora pod and the webfinger host.  In the reference implementation, the hcard url is:
+    http://bob.diaspora.example.com/u/((bobs-guid))
 
 When a user creates an account on a pod, the pod MUST assign them a guid -- a random hexadecimal string of at least 8 hexadecimal digits.  The Diaspora pod SHOULD use that guid to create an hcard url, and SHOULD host users' information as an hcard at this location.
 
