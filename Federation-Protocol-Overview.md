@@ -8,7 +8,7 @@ In a symmetric "friending" relationship, neither party sees any posts from the o
 
 In an asymmetric "sharing" relationship, if you start sharing with someone else, you have decided to send them posts.  They may or may not choose to share with you as well.  If they choose not to, you will see only their posts that they have explicitly marked as public.
 
-Public posts are sent in salmon, just like all posts.
+If Alice starts sharing with Bob and Bob is sharing with Alice, then Alice will see new posts by Bob when Bob sends Alice posts using Salmon slaps.  However, if Alice is sharing with Bob and Bob is not sharing with Alice, Bob will not send salmon slaps to Alice.  If she wants Bob's public posts, she must retrieve them via another method, such as [ActivityStreams](http://activitystrea.ms), which MAY be provided by Bob's pod.  (See [this note on public status updates](https://github.com/diaspora/diaspora/wiki/Federation-Message-Semantics#public-status-updates)).
 
 # Core Diaspora Protocols
 
