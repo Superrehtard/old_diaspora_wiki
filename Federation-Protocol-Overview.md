@@ -185,7 +185,7 @@ This is just bob's guid.  When a user creates an account on a pod, the pod MUST 
 
 This atom feed is an Activity Stream of bob's public posts.  Diaspora pods SHOULD publish an Activity Stream of public posts, but there is currently no requirement to be able to read Activity Streams.  For more information, read the [Activity Streams specification](http://activitystrea.ms/)
 
-Note that this feed MAY also be made available through the [PubSubHubbub mechanism](http://code.google.com/p/pubsubhubbub/) by supplying a <link rel="hub"> in the atom feed itself.
+Note that this feed MAY also be made available through the [PubSubHubbub mechanism](http://code.google.com/p/pubsubhubbub/) by supplying a `<link rel="hub">` in the atom feed itself.
 
 ### Diaspora Public Key
 
