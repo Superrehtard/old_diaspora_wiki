@@ -310,8 +310,3 @@ If Alice has previously sent a Like to Bob, regarding one of Bob's posts, and th
 Alice MUST NOT send a negative Like for a post that she has not previously Liked (successfully -- where "success" means that Alice has received Bob's relay of the Like).  Alice MUST NOT send a Like for a message that she has already Liked successfully.
 
 If Bob receives a negative Like for a message that Alice had not previously Liked, then Bob MUST ignore this message.
-
-### Likes on comments
-
-XXX How does this work?  What is the parent post?  Is it the status message or the comment?  Who signs and relays the Like?  Is it the author of the status message or the author of the comment?
-g
