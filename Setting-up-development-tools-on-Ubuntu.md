@@ -29,8 +29,14 @@ $ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 Now you have the core system requirements to clone, bundle, run and deploy Diaspora.
 
+NOTES
+
 The size of the git repo is significant to deploy times and application performance. You may wish to 
 copy the source code only to a new directory and initialize a new repository before deploy. 
+
+The ruby version that RVM installs may not be what D expects. Run `rvm install 1.9.3-p429` or whatever version D suggest. 
+
+In the event that pg fails to build it's extensions 'Error installing pg:, ERROR: Failed to build gem native extension.', run `sudo apt-get install libpq-dev`. 
 
 Carry on.
 
