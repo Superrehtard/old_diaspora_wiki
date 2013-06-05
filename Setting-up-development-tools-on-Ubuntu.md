@@ -19,7 +19,7 @@ $ \curl -L https://get.rvm.io | bash -s stable --rails
     The easy way is to add the command to the top of your ~/.bashrc file
 
 If you plan to deploy to Heroku install the toolbelt.
-You will also need to create an account at heroku.com and setup your ssh keys and so on.
+You will also need to create an account at heroku.com.
 
 $ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
@@ -27,7 +27,9 @@ $ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
     You will be prompted for your password by sudo, but run the command as
     your normal user, no sudo!
 
-Now you have the core system requirements to clone, bundle, run and deploy Diaspora.
+If you plan to run diaspora locally, you will need a database client and access to a database such as MySQL or Postgres. Install instructions for Postgres on Ubuntu are here https://help.ubuntu.com/community/PostgreSQL.
+
+Now you have the core system requirements to clone, bundle, run and deploy Diaspora.   
 
 NOTES
 
@@ -46,5 +48,6 @@ https://rvm.io/rvm/install/
 https://devcenter.heroku.com/articles/ruby  
 https://github.com/diaspora/diaspora/wiki/Deploy-Diaspora-to-Engineyard-using-a-Windows-PC   
 https://github.com/diaspora/diaspora/wiki/Installing-on-heroku   
-https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu   
+https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu  
+https://help.ubuntu.com/10.04/serverguide/mysql.html 
 
