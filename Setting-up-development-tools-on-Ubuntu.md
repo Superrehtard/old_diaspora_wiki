@@ -40,7 +40,7 @@ The ruby version that RVM installs may not be what Diaspora expects. Run `rvm in
 
 In the event that pg fails to build it's extensions 'Error installing pg:, ERROR: Failed to build gem native extension.', run `sudo apt-get install libpq-dev`. 
   
-For deploy to Heroku change the default value for DB in Gemfile from 'mysql' to 'postgres' before you bundle. In addition set the Heroku config variable with `heroku config DB="postgres"` and `heroku labs:enable user-env-compile`. Also remove the line 'config/diaspora.yml' from .gitignore. 
+For deploy to Heroku change the default value for DB in Gemfile from 'mysql' to 'postgres' before you bundle. In addition set the Heroku config variable with `heroku config:set DB="postgres"` and `heroku labs:enable user-env-compile`. Also remove the line 'config/diaspora.yml' from .gitignore. 
 
 Carry on.
 
