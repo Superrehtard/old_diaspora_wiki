@@ -229,10 +229,7 @@ Construct the following XML snippet:
 <decrypted_header>
   <iv>((base64-encoded inner iv))</iv>
   <aes_key>((base64-encoded inner key))</aes_key>
-  <author>
-    <name>Alice Exampleman</name>
-    <uri>acct:alice@alice.example.com</uri>
-  </author>
+  <author_id>alice@alice.example.com</author_id>
 </decrypted_header>
 ```
 
