@@ -1,4 +1,4 @@
-**Please note, we have an [official wiki](http://wiki.diasporafoundation.org/Main_Page). Please refer to that one instead of the information here.**
+**Please note, we have an new [official wiki](http://wiki.diasporafoundation.org/Main_Page). Please refer to that one instead of the information here.**
 
 ## Welcome!
 Looking for information about Diaspora? This is the official community-maintained repository of information and documentation, with a particular emphasis on developer resources. Information is regularly updated to signify changes in things like code implementation and design.
