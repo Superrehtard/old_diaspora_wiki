@@ -3,7 +3,7 @@
 ===301 MOVED PERMANENTLY===
 
 We're currently '''moving this wiki over to our new project site'''. The contents of this page have  already been carried over, so ''any new changes here will not be reflected in the new wiki''.<br>
-New link: http://wiki.diaspora-project.org/wiki/Required_Gems_Overview
+New link: http://wiki.diasporafoundation.org/Required_Gems_Overview
 
 ----
 
@@ -770,4 +770,3 @@ This is a generated list with https://gist.github.com/1893525  ( last update : 2
 |A Ruby interface to YUI Compressor for minifying JavaScript and CSS assets.
 |-
 |}
-
