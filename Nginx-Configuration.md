@@ -1,3 +1,12 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Nginx_Configuration
+
+----
+
 Nginx is a lightweight webserver that is a easy front end for Diaspora*
 
 This is a basic configuration for a standard pod install, you will need to scale it up if you grow.
