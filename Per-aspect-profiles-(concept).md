@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 ###Different names = Different ID's
 Have seperate ID's with their own aspects, tags and stream, pretty much like having seperate accounts, for each name (e.g. have an account for your real name and one for your nickname). This way when you post to all aspects, the post is published under the same name to everyone, meaning people will all refer to you with the same name, not giving away your real or nickname.
 
