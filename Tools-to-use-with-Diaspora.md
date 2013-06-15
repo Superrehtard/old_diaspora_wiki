@@ -13,7 +13,7 @@ _Links to various tools built by the community for use with Diaspora._
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
 
 
-#### Cubbi.es extensions (currently broken)
+#### <s>Cubbi.es extensions</s> (currently broken)
     
 *   <s>[Opera](http://bit.ly/nPBzuk)</s>
     
@@ -40,6 +40,8 @@ _Links to various tools built by the community for use with Diaspora._
 *  [Diaspora* Picture Share](http://diasporapictureshare.blogspot.com/) - a modified sharing bookmarklet to quickly share pictures on Diaspora*
 
 *  [dia.so](http://dia.so) - A profile shortener so people on other pods get you on their pod and A url shortener all pod admins can use.
+
+*  [Do It Later](https://userscripts.org/scripts/show/165053) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)), a Greasemonkey script which enables you to schedule things to be posted whenever you like.
 
 
 ### "Share on Diaspora" Buttons (add them to your blog or site and make sharing your posts on diaspora easier for your readers)
