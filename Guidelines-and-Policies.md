@@ -1,3 +1,11 @@
+----
+
+###200 NO NEED TO MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are organizational and not needed in the new wiki.
+
+----
+
 To contribute to Diaspora, we have a couple of simple protocols for doing things. We want to keep things simple, streamlined, and most importantly, fun. By sticking to these guidelines, we think they'll help maintain that.
 
 ## [Trademark Guidelines](https://github.com/diaspora/diaspora/wiki/Trademark-guidelines)
