@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 Pivotal Tracker is a tool used primarily for agile development. It's useful for coordinating teams of people with tasks dealing with bugs, chores, and feature development. As our [Community Tracker](https://www.pivotaltracker.com/projects/61641) has many members, it's good to follow these guidelines to avoid confusion. The purpose of our PT is to showcase things that need immediate attention. It is not intended to replace GitHub Issues, but instead, complement it.
 
 Below are a set of guidelines to make our use of PT as efficient as possible.
