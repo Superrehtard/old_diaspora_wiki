@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 We should layout some goals for the wiki. What scope should it have etc. 
 
 **So far **
@@ -21,4 +29,3 @@ We should layout some goals for the wiki. What scope should it have etc.
 
 
 *Please add pages you would like added, including a brief outline of the scope of that page.*
-
