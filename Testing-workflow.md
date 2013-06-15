@@ -1,3 +1,12 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Testing_Workflow
+
+----
+
 In order to assure code quality, ease refactoring and to make sure only the code that is really necessary gets written we strive to encourage *TDD* ([Test Driven Development][tdd]) or *BDD* ([Behaviour Driven Development][bdd]) when possible. There is a huge list of benefits that result from this style of development and even some research on it referenced from the Wikipedia articles, if you are interested in reading up on that topic.
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Test-driven_development.PNG" width="440" />
