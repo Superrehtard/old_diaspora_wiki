@@ -1,3 +1,12 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
+
 This page is for discussing how [Linked Data](http://en.wikipedia.org/wiki/Linked_Data) might be used in Diaspora.
 
 Diaspora might embed [RDFa](http://en.wikipedia.org/wiki/RDFa) (or [RDFa Lite](http://www.w3.org/2010/02/rdfa/sources/rdfa-lite/)) metadata on relevant pages or they may link to a dedicated RDF document using HTML [LINK](http://www.w3.org/TR/html4/struct/links.html#h-12.3) or similar. Currently, [[Diaspora's federation protocol|Federation Protocol Overview]] provides user profile data as an hCard document, but it may as well provide it as an RDF document (see [issue #2443](https://github.com/diaspora/diaspora/issues/2443)).
