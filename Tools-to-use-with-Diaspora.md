@@ -43,7 +43,7 @@ _Links to various tools built by the community for use with Diaspora._
 
 *  [Do It Later](https://userscripts.org/scripts/show/165053) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)), a Greasemonkey script which enables you to schedule things to be posted whenever you like. By Deus Figendi.
 
-* [Notification titler](https://userscripts.org/scripts/show/164822) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)), a Greasemonkey script which adds post titles to items in the notifications drop-down, so you can identify them. By Deus Figendi.
+* [Notification Titler](https://userscripts.org/scripts/show/164822) - (Firefox with [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)), a Greasemonkey script which adds post titles to items in the notifications drop-down, so you can identify them. By Deus Figendi.
 
 *  [Diaspora Reshare Visualiser](http://jenseitsderfenster.de/diasporavisual/) - A Javascript tool to display a flow chart of reshares of a particular post.
 
