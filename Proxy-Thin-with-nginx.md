@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 This is a configuration example wo thin can be proxied with thin, it's just an configuration example but it can be used as a start for your own setup
 
 !The whole configuration file needs to be adjusted for your needs!
