@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 You might want to setup a development environment on an Ubuntu box,
 to contribute code or repackage Diaspora for remote deployment
 to a Rails host like Heroku or Engine Yard.
@@ -52,4 +60,3 @@ https://github.com/diaspora/diaspora/wiki/Deploy-Diaspora-to-Engineyard-using-a-
 https://github.com/diaspora/diaspora/wiki/Installing-on-heroku   
 https://github.com/diaspora/diaspora/wiki/Installing-on-Ubuntu  
 https://help.ubuntu.com/10.04/serverguide/mysql.html 
-
