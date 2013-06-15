@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 # Using apache instead of thin server on Fedora
 **No, this is  NOT  reliable**. Basically, it's in the "Works for Me" (tm) state. But for those
 prepared to handle all sorts of difficulties, it's a starting point. FTM, I'm not aware of any bugs.
@@ -106,5 +114,4 @@ Access the server on http://host.domain.tld:3000
 ## Update this document
 
 Fix whatever problems you discovered using this page by editing it!
-
 
