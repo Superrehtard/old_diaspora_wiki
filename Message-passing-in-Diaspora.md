@@ -1,3 +1,11 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Diaspora_Message_Passing
+
+----
 Current as of Oct 6, 11:00 PM
 
 ## Message Passing
