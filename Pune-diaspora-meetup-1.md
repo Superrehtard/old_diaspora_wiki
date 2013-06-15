@@ -1,3 +1,12 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
+
 ![diaspune 1 poster](https://joindiaspora.s3.amazonaws.com/uploads/images/scaled_full_0a0ccba222ea4e806225.jpg)
 
 - Date - Saturday, June 18
