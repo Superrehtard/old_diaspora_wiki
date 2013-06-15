@@ -1,3 +1,13 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Installing_on_FreeBSD
+
+----
+
+
 ### Caveat
 
 Installation on FreeBSD is a more involved and variable process than on some (all?) of the Linux distros.  This guide is intended for experienced FreeBSD admins. It uses a combination of ports and packages and takes a while to get everything compiled and running properly.
