@@ -13,6 +13,9 @@ _Links to various tools built by the community for use with Diaspora._
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
 
 
+*   [Diaspora* Easyshare](https://addons.mozilla.org/en-US/firefox/addon/diaspora-easyshare/?src=search) (Firefox) Firefox addon to share a page in a nice graphical way: image+text+tags. More infos [here](http://arlogn.github.io/easyshare/)
+
+
 #### <s>Cubbi.es extensions</s> (currently broken)
     
 *   <s>[Opera](http://bit.ly/nPBzuk)</s>
