@@ -13,17 +13,17 @@ _Links to various tools built by the community for use with Diaspora._
 *   [Diaspora* Opera sharing extension](http://my.opera.com/coreymwamba/blog/2011/09/07/diaspora-opera-sharing-extension) (Opera) quickly share webpages to Diaspora
 
 
-#### Cubbi.es extensions 
+#### Cubbi.es extensions (currently broken)
     
-*   [Opera](http://bit.ly/nPBzuk)
+*   <s>[Opera](http://bit.ly/nPBzuk)</s>
     
-*   [Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)
+*   <s>[Firefox](http://addons.mozilla.org/firefox/addon/cubbies/)</s>
     
-*   [Safari](http://github.com/gattonero/cubbies-safari)
+*   <s>[Safari](http://github.com/gattonero/cubbies-safari)</s>
     
-*   [Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click) 
+*   <s>[Safari](http://github.com/duthied/Cubbi.es-Safari-Extension) (uses context menu instead of shift-click)</s>
 
-*  [wnc](http://bit.ly/HR6wwt) - (Firefox, Chrome) Adding text to images and cubbies.
+*  <s>[wnc](http://bit.ly/HR6wwt) - (Firefox, Chrome) Adding text to images and cubbies.</s>
 
 
 #### More cool stuff (add ons to make your diaspora experience smarter)
