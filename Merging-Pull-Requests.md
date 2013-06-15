@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 This is a casual description of how I (Raphael Sofaer) work when pulling in a pull request:
 
 1. See a pull request in the Pull Requests page.
