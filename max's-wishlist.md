@@ -1,3 +1,11 @@
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
 here are thing that would be so cool if people did for D*
 
 1. collapse all of our emails, and better organize and refactor them so we dont have to deal with crap everytime we touch them
