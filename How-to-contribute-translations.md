@@ -1,3 +1,12 @@
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Contribute_translations
+
+----
+
 # How to contribute translations
 
 There are two ways you can contribute a translation: with a pull request or at [[WebTranslateIt|https://webtranslateit.com]].
