@@ -73,8 +73,6 @@ Post – A Post belongs to a Person.  This is a parent class for different types
 
 Comment – a comment belongs to a Post
 
-Participations - the My Activity view is created from records in the Participations table. The table gathers information on your activity and the activity of others on posts you participate in. On mature installs, to reduce the DB size, records from the distant past may be archived, or the table may be filtered to include only self Participations.       
-
 Retraction – this is an object that gets sent out when a post creator deletes a post.  It is not a model, but it serializes for dispatch to other Diaspora servers the same way our models do.
 
 
