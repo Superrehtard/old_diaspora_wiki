@@ -20,19 +20,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ## Diaspora pods
 
-* [[https://calispora.org/]] [[https://calispora.org/apple-touch-icon.png|height=30px]]
-   * Opened: 15-Dec-2011
-   * Updated: often, usually daily
-   * HTTPS only
-   * IPv4 only
-   * Maintained by a private individual
-       * diaspora: davey@calispora.org
-       * Contact: [[http://twitter.com/calispora]]
-   * Operating system: Linux (Ubuntu 10.10)
-   * Comments: Open pod, join today! Facebook, twitter and tumblr integration, US-based.
-
-***
-
 * [[https://despora.de/]] [[https://despora.de/apple-touch-icon.png|height=30px]]
    * Opened: 15/2/2011
    * Updated: daily
@@ -57,17 +44,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
    * Operating system: Latest Ubuntu LTS, NGINX, MySQL, RVM, Unicorn or Thin as needed
    * Server Location: Nova Scotia, Canada
    * Comments: Personal Pod, Self Hosted, Social and development interests.
-
-***
-
-* [[http://diasp.be]] [[http://diasp.be/apple-touch-icon.png|height=30px|]]
-    * Opened: 10/12/2010
-    * Updated: daily
-    * Maintained by : Hervé Delvaux ([[http://www.webadev.com]])
-        * [[http://twitter.com/diaspbe]]
-        * diaspora : bachus@diasp.be
-    * Operating system: Linux (Ubuntu)
-    * Comments: Public and free Diaspora pod for Belgium
 
 ***
 
@@ -100,39 +76,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://diaspora.cloudid.net]] [[https://diaspora.cloudid.net/apple-touch-icon.png|height=30px|]]
-    * Opened: 12/01/2012
-    * Updated: Every week
-    * Maintainer : web|crofting ltd
-        * christoph@web.crofting.com
-        * [[http://twitter.com/cloud_id]]
-    * Operating system: Linux (Ubuntu 10.04 - Turnkey Linux 11.2)
-    * Comments: Look for more exiting cloud services on [[http://cloudid.net]] 
-
-***
-
-* [[http://diaspora.compadre.dk]] [[http://diaspora.compadre.dk/apple-touch-icon.png|height=30px|]]
-    * Opened: 30/12/2010
-    * Updated: Every 2-3 days
-    * Maintainer : Søren Caspersen
-        * IRC/Freenode: sbc
-        * soeren.b.c@gmail.com
-        * [[http://twitter.com/soerenbc]]
-    * Operating system: Linux (Ubuntu 10.10)
-    * Comments: Come one, come all.
-
-***
-
-* [[http://diaspora.digitalinsanity.de]] [[http://diaspora.digitalinsanity.de/apple-touch-icon.png|height=30px|]]
-    * Opened: 16/09/2010
-    * Updated: Daily
-    * Maintained by a private person
-        * [[http://github.com/arrakaij]]
-    * Operating system: Linux
-    * Comments: For development and test purposes, images are uploaded to S3
-
-***
-
 * [[https://diaspora.podzimek.org]] [[https://diaspora.podzimek.org/apple-touch-icon.png|height=30px]]
     * Opened: 01/08/2011
     * Updated: frequently
@@ -141,40 +84,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
     * IPv6 support
     * Operating system: ArchLinux
     * Comments: Feel free to ask for an invitation!
-
-***
-
-* [[https://thearchnoob.net/]] [[https://thearchnoob.net/apple-touch-icon.png|height=30px]]
-   * Opened: 04-March-2013
-   * Updated: Important / Frequent
-   * HTTPS only
-   * IPv4/IPv6
-   * Maintained by a private individual
-       * diaspora: companion@thearchnoob.net
-       * mail: info[@]thearchnoob.net
-       * Contact: [[http://twitter.com/TheArchnoob]]
-   * Operating system: Linux (Debian)
-   * Comment: Space for more then 10.000 users, open for registration and high security.
-
-***
-
-* [[http://diaspora.re/]] [[https://diaspora.re/apple-touch-icon.png|height=30px|]]
-   * Opened: 01/11/2010
-   * Updated: regularly
-   * Maintained by: [[http://diaspora.re]]
-   * Operating system: Debian GNU/Linux 5.0 
-   * Also has a Live list of other pods with Uptime stats [[http://podupti.me]]
-
-***
-
-* [[http://diaspora.sceal.ie/]] [[http://diaspora.sceal.ie/apple-touch-icon.png|height=30px]]
-    * Opened: 2011-07-14
-    * Updated: irregularly
-    * Maintained by a private person
-      * IRC/Freenode: amck
-      * alastair@sceal.ie
-    * Operating system: Debian GNU/Linux 6.0 (squeeze)
-    * Comments: mostly for friends. Others welcome to play.
 
 ***
 
@@ -190,7 +99,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://diaspora.urbanabydos.ca]] [[https://diaspora.urbanabydos.ca/images/asterisk.png|height=30px|]]
+* [[https://diaspora.urbanabydos.ca]] [[https://diaspora.urbanabydos.ca/apple-touch-icon.png|height=30px|]]
     * Opened: 2011-05-31
     * Updated: for stable, major changes
     * HTTPS only
@@ -214,15 +123,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://foobar.cx]] [[https://foobar.cx/apple-touch-icon.png|height=30px]]
-    * Opened: 09/05/2010
-    * Updated: irregularly
-    * Maintained by: private individual 
-    * Operating system: Debian Linux 
-    * Comments: public registration open, Twitter and Facebook support, HTTPS available
-
-***
-
 * [[https://free-beer.ch]] [[https://free-beer.ch/apple-touch-icon.png|height=30px]]
     * Opened: 05/11/2011
     * Updated: regularly
@@ -233,49 +133,13 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://hasst-euch-alle.de/]] [[https://hasst-euch-alle.de/apple-touch-icon.png|height=30px]]
-   * Opened: 1/2/2011
-   * Updated: Often, if something has changed we post it to twitter [[http://twitter.com/#!/hassteuchalle]]
-   * Admins: Nicolas & Gabriel, two students from Germany and Austria
-   * How to Contact the Admin
-        * Diaspora handle: nicolas@hasst-euch-alle.de
-        * Email: kontakt@nicolas-berens.de
-   * Operating system: Ubuntu 10.04
-   * Comments: public registration open, twitter & facebook enabled, ssl encryption, privacy aware, IPv6 !!! statistics
-   * Configuration: Nginx proxying multiple thin via sockets
-
-***
-
-* [[https://kosmospora.net/]]
+* [[https://kosmospora.net/]][[https://kosmospora.net/apple-touch-icon.png|height=30px|]]
    * Opened: Feb-2012
    * Updated: running almost last pistos code 
    * HTTPS only
    * Maintained by a private individual: groovehunter@kosmospora.net
    * Operating system: Linux Ubuntu
    * Comments: Open pod twitter integration, germany-based.
-
-***
-
-* [[https://londondiaspora.org/]] [[https://londondiaspora.org/apple-touch-icon.png|height=30px]]
-   * Opened: 17/05/2011
-   * Updated: irregularly, 1-3 weeks
-   * Maintainer: Levente Bagi
-       * [[http://twitter.com/LondonDiaspora]] 
-       * [[http://github.com/bagilevi]]
-       * DIASPORA: levente@londondiaspora.org
-   * Operating system: Ubuntu 10.04
-   * Comments: Stability and uptime is priority over freshness, Facebook and Twitter integration, located in London, anyone welcome, open signups.
-
-***
-
-* [[http://my-seed.com]] [[http://my-seed.com/apple-touch-icon.png|height=30px]]
-    * Opened: 2010-08-20
-    * Updated: irregularly
-    * Maintained by a private person
-        * IRC/Freenode: duke_
-    * Operating system: Gentoo
-    * Comments: Free, public Diaspora pod. Development mode for now. Carefully run to be as stable as possible, but database will be reset whenever required..
-
 
 ***
 
@@ -286,17 +150,6 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
       * supertux@nerdpol.ch
    * Operating system: Linux (Debian Squeeze)
    * Comments: Public and free Diaspora pod
-
-***
-
-* [[https://www.nomed.de/]] [[https://www.nomed.de/apple-touch-icon.png|height=30px|]]
-   * Opened: 05/02/2012
-   * Updated: ~weekly
-   * Maintained by a private person
-      * [Clear Air Turbulence](https://www.nomed.de/u/claitu)
-   * Operating system: FreeBSD 8.2-RELEASE
-   * Comments: Public and free Diaspora pod, Logging disabled, [rss-bot](https://github.com/spkdev/diaspora-rss-bot) installed, Facebook, Twitter disabled
-   * Configuration: lighttpd, thin
 
 ***
 
@@ -347,7 +200,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://spora.com.ua]]
+* [[https://spora.com.ua]][[https://spora.com.ua/apple-touch-icon.png|height=30px]]
     * Opened: 09/09/2011
     * Updated: regulary
     * Maintained by: private individual
@@ -358,7 +211,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://spyurk.am]]
+* [[https://spyurk.am]][[https://spyurk.am/apple-touch-icon.png|height=30px|]]
     * Opened: 29/09/2012
     * Updated: regulary
     * Maintained by: private individual
@@ -370,20 +223,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://the.diasperse.com/]] [[https://the.diasperse.com/apple-touch-icon.png|height=30px|]]
-   * Opened: 20/12/2010
-   * Updated: Weekly
-   * Maintained by: [[https://the.diasperse.com/]]
-        * Diaspora handle admin@the.diasperse.com
-        * IRC freenode.net flah00
-        * joppershopper@gmail.com
-   * Operating system: Ubuntu 10.10
-   * Comments: Fully functional Diaspora installation (remote searches + adds and websockets all work)
-   * Configuration: Nginx proxying multiple thins
-
-***
-
-* [[https://wk3.org/]]
+* [[https://wk3.org/]][[https://wk3.org/apple-touch-icon.png|height=30px|]]
     * Updated: regularly
     * Maintained by: private individual
          * christophe@wk3.org
@@ -394,50 +234,7 @@ pattern as the existing data. Pods are listed in alphabetical order by pod name.
 
 ***
 
-* [[https://yaspora.com]] [[https://yaspora.com/apple-touch-icon.png|height=30px]]
-    * Opened: 18/12/2010
-    * Updated: major changes
-    * Maintained by: private individual 
-    * Operating system: Linux 
-    * Comments: Public and free Diaspora pod.
-
-***
-
-* [[https://diasp.3towers.de/]]
-   * Opened: 16/11/2011
-   * Updated: regulary
-   * HTTPS only
-   * IPv6-Support
-   * Hosted in german data center
-   * Maintained by: Tim Eberhardt
-       * Contact: tim@3towers.de
-   * Operating system: Gentoo Linux x86_64
-   * Comments: Public and free, over 99% uptime, facebook, twitter and tumblr integration
-
-***
-
-* [[http://d-aspora.ru/]]
-   * Opened: 10/12/2011
-   * Updated: regulary
-   * Maintained by: n@mo.pp.ru
-   * Operating system: Debian GNU/Linux
-   * Comments: First public pod in Russia. Maximum flexibility, feel free to contact owner for any question or ideas.
-
-***
-
-* [[https://diaspora.erchache2000.es]]
-   * Updated: regulary
-   * HTTPS only
-   * IPv6 Support
-   * Maintained by Alejandro Sánchez
-       * email: erchache2000@gmail.com
-       * Contact: [[http://twitter.com/erchache2000]]
-   * Operating system: Linux (Ubuntu 10.4)
-   * Comments: Pod Abierto. Conexión con Facebook y twitter. Español.
-
-***
-
-* [[https://www.cryptospora.net]]
+* [[https://www.cryptospora.net]][[https://www.cryptospora.net/apple-touch-icon.png|height=30px|]]
     * Updated: Every periodically
     * Maintained by Ryan Molecke
        * Diaspora handle: Todamont@cryptospora.net
