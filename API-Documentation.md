@@ -1,2 +1,22 @@
-## Please note, we have an new [official wiki](http://wiki.diasporafoundation.org/Main_Page). Please refer to that one instead of the information here
-### You can find a backup of the old contents [here](https://github.com/MrZYX/old_diaspora_wiki).
+----
+
+###403 DO NOT MOVE###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
+
+----
+
+If you haven't branched off and retrieved a git repository, please follow the directions under the documentation section [[Git-Workflow#wiki-step-by-step-short|Git Workflow: Step-by-step (Short version)]].  Although, it's recommended to read the entire page.
+
+The documentation is divided into documentation from the perspective of a guest (a user not logged in) and a user (a user who is logged in).
+=Guest=
+#[[Welcome]]
+#[[Log-in]]
+#[[Password]]
+#[[Sign-Up]]
+=User=
+#[[Notification bar]]
+#[[Aspects Control]] (left side bar)
+#[[Status Update]]
+#[[Stream]]
+#[[Other Links]]

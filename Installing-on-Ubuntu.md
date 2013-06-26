@@ -1,2 +1,8 @@
-## Please note, we have an new [official wiki](http://wiki.diasporafoundation.org/Main_Page). Please refer to that one instead of the information here
-### You can find a backup of the old contents [here](https://github.com/MrZYX/old_diaspora_wiki).
+----
+
+###301 MOVED PERMANENTLY###
+
+We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
+New link: http://wiki.diasporafoundation.org/Installing_on_Ubuntu
+
+----
