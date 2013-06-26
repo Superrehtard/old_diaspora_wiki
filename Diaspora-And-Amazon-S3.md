@@ -1,9 +1,14 @@
-----
+### Diaspora Comes With Support For Amazon S3 Built In.
+You can use Amazon S3 (Simple Storage Service) To Host Many Parts Of Your Pod. This includes the static assets that are created using the assets:precompile rake task built into Diaspora, to do this Diaspora uses the asset-sync gem. You can also store user profile pictures on Amazon S3.
 
-###301 MOVED PERMANENTLY###
+### Storing Static Assets On Amazon S3.
 
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Asset_hosting_on_S3
+Firstly, cd Into Your Diaspora Code Folder Using The Command Line. Then Run The Following Commands (For A NON Heroku Setup) Replacing 'xxxx' For The Piece Of Info From Your S3 Account:
 
-----
+    export AWS_ACCESS_KEY_ID=xxxx   
+    export AWS_SECRET_ACCESS_KEY=xxxx
+    export FOG_DIRECTORY=xxxx 
+    
+
+
 
