@@ -1,12 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
-
 ### The current working stage is referred to as "Stage 1". 
 
 This document is not intended to explicity show a workflow; it is an overreaching proposal for how the community can work together to emerge into a much more democratic, community-driven project. 
