@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Media_Coverage
-
-----
-
 **Press review and media coverage of the Diaspora Project**: press, blogs, media organized by **language** and **time** (alphabetically by source if multiple/date).
 
 **Pressespiegel und Medienberichterstattung über das Diaspora Projekt**: Presse, Blogs, Medien sortiert nach **Sprache** und **Zeit** (alphabetisch nach Quelle wenn mehrere/Datum).
