@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/How_We_Communicate#Mailing_Lists
-
-----
-
 A [mailing list][mailing-list] is basically a forum where you can use your email address to create and reply on topics. 
 
 You can find our list's web interfaces on Google Groups. If you have a Google Account, you can just go there and subscribe and post from your browser, or simply browse the archives.
