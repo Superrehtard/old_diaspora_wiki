@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 At the moment, the automated multi-server integration testing suite is in its infancy.
 
 To run the multi-server specs, you need to set up integration_1 and integration_2 databases in your config/database.yml and run 
