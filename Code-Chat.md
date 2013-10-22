@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/Community_Code_Chat
-
-----
-
 ## What is it?
 Code chat is a bi-weekly community discussion held by the Diaspora core development team. The user and developer community is welcome to join in, ask questions, and get updates on where the project is heading.
 
