@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/FAQ_for_Developers
-
-----
-
 We've started adding questions that we see a lot to this page, but it doesn't cover everything.
 If you have other questions, the best way to get an answer quickly is to visit us in IRC. 
 You might think, "IRC? For real? Is this 1994 again?" 
