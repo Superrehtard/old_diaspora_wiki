@@ -1,13 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Development_Features_Wishlist
-
-----
-
-
 Below is a curated feature wishlist of things **the core team** love to have some help with for the Diaspora project. 
 
 **If you choose one these features, a core team member will help you get your pull request merged**.  It is a fast track way to get involved with the Diaspora* codebase.
