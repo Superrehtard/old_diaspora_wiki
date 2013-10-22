@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Custom_Splash_Page
-
-----
-
 All you have to do is to create a `app/views/home/_show.html.haml` to define your own splash page for your Diaspora pod.  Or `app/views/home/_show.html.erb` if you prefer to write plain HTML instead of [HAML](http://haml-lang.com/). Do not copy or overwrite `app/views/home/show.html.haml` (note the missing underscore)!
 
 A very basic example of a `_show.html.haml` would be something like:  
