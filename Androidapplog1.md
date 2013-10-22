@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 <pre>
 [2011-07-24 21:38:35] [INFO] Now logging to <file:///C:/Users/invakam2/AppData/Roaming/Mozilla/Firefox/Profiles/01e5sn4k.default/chatzilla/logs/freenode/channels/%23diaspune.2011-07-24.log>.
 [2011-07-24 21:39:49] |<-- sudiptamondal has left freenode (Ping timeout: 252 seconds)
