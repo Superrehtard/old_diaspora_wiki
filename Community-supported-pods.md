@@ -1,11 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Community_supported_pods
-
-----
 This is a list of pods (Diaspora servers) run by Diaspora community members. Remember, 
 when you join one, you always log in to that site. But you can follow friends on *any* pod, including
 the pod run by the project founders at joindiaspora.com.
