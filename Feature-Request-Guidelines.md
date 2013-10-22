@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Feature_Request_Guidelines
-
-----
-
 Like any open source project, Diaspora is no exception to the possibility of users suggesting features. We get feature requests all the time, and we want to help clarify what a feature request means.
 
 ### What a Feature Request on GitHub is
