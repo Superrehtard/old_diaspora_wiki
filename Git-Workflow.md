@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Git_Workflow
-
-----
-
 If you're a developer who wants to work on the Diaspora source code and submit your changes for consideration to be merged into core Diaspora* code, here's how.  Thanks to [ThinkUp](https://github.com/ginatrapani/ThinkUp) for their awesome developer guide, which inspired ours.
 
 # [Branching model] (#branching-model) <a name="branching-model">
