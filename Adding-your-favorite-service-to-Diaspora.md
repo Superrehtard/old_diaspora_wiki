@@ -1,11 +1,4 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Adding_Additional_Services
-
-----
+[moved]
 
 0) Read the git workflow guide: [[https://github.com/diaspora/diaspora/wiki/Git-Workflow]]
 
