@@ -1,11 +1,3 @@
-----
-
-###200 NO NEED TO MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are organizational and not needed in the new wiki.
-
-----
-
 ## [FAQ for Podmins](https://github.com/diaspora/diaspora/wiki/FAQ-for-Pod-Maintainers)
 Some commonly-asked questions for those of you that want to set up a pod or testing environment.
 
