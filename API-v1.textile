@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 Current draft: "http://pad.spored.de/ro/r.qWmvhSZg7rk4OQam":http://pad.spored.de/ro/r.qWmvhSZg7rk4OQam
 Implementation: "https://github.com/MrZYX/diaspora/tree/mobile_api":https://github.com/MrZYX/diaspora/tree/mobile_api
 WIP docs: "https://gist.github.com/01c93096c30dc44caf71":https://gist.github.com/01c93096c30dc44caf71
