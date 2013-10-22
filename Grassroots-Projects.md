@@ -3,7 +3,7 @@
 ###301 MOVED PERMANENTLY###
 
 We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Grassroots_Projects
+New link: http://wiki.diaspora-project.org/wiki/Grassroots_Projects
 
 ----
 
