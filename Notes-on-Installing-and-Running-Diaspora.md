@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Notes_On_Installing_and_Running_Diaspora
-
-----
-
 ## Introduction
 
 Diaspora is run on a network of connected servers, or "pods." This document contains technical 
