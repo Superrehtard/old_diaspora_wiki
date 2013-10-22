@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 Whether you are a coder, designer, or just a regular user, there are lots of ways you can get involved with
 DIASPORA*. We need your help – please pick a role you like from the list below, and jump in!
 
