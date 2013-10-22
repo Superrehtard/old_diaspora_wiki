@@ -3,7 +3,7 @@
 ###301 MOVED PERMANENTLY###
 
 We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/index.php?title=Other_Ways_to_Contribute
+New link: http://wiki.diaspora-project.org/wiki/Other_Ways_to_Contribute
 
 ----
 
