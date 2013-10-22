@@ -1,11 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Pagekite
-
-----
 # How to Use Pagekite to Link a Domain Name to a Diaspora Pod on a Local Network Computer
 
 Diaspora is an open-source, decentralized social network. A Diaspora server is called a pod. Each user account within a pod is called a seed. The various pods communicate with one another, collectively creating the Diaspora network. There are a variety of pod sizes: some have thousands of seeds, some only a single seed. This how-to covers setting up your own pod on a linux box (Fedora 16, specifically), and making it visible on the internet (not just your local network).
