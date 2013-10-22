@@ -1,13 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Federation_Protocol_Overview
-
-----
-
-
 The purpose of this document is to describe the communications that go on between Diaspora servers.  Implementers of this protocol should be advised, though, that Diaspora is in Alpha, and as such, this document is not authoritative, and may lag behind the reference implementation.
 
 # Asymmetric Sharing
@@ -393,4 +383,5 @@ See the [ActivityStrems specification](http://activitystrea.ms/) and the [PubSub
 The reference implementation of Diaspora offers an API for third-party application developers.  It allows third-party applications to use your pod's data on behalf of your users.  Access is controlled by the [the OAuth protocol](http://tools.ietf.org/html/rfc5849).
 
 Right now, there is only one application that uses this API.  [Cubbi.es](http://cubbi.es).  The API is still very much in flux, so people are not being encouraged to write new applications until the protocol has been solidified a little more.
+
 
