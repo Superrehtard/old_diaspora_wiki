@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Installing_on_Fedora
-
-----
-
 ### Versions
 
 These instructions are for the current version of Fedora 15. If you are using a older version you may need to use things like remi repo for up to date packages.
