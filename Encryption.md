@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 This page is meant to sum up the discussion so far
 
 # Public-private key
