@@ -1,13 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Federation_Logger
-
-----
-
-
 The Federation logger is a tool that outputs the high-level federation events (like sending a status message or photos) to be able to see, what is going on "behind the scenes". So, if you have a test environment for Diasproa set up, you can help us test and improve federation.
 
 There is also a [screencast], if you prefer to listen instead of reading ;)
