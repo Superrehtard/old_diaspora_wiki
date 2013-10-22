@@ -1,12 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
-
 Decided to rewrite the init script for those that aren't in the packages. Can't get the resque to give me it's PID right now and not sure why if anyone knows it would be great.
 
 The pkg directory contains corresponding scripts  for Fedora and Ubuntu which handles all services (thin, redis, websocket and rake resque:work ATM)
