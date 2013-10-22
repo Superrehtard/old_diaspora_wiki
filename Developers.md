@@ -1,11 +1,3 @@
-----
-
-###200 NO NEED TO MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are organizational and not needed in the new wiki.
-
-----
-
 Below is an index of Developer-centric pages and resources. Keep in mind that this is still being re-worked, and will be further cleaned up in due time.
 
 ## [[Developer Workflows]]
@@ -34,4 +26,5 @@ This is a collection of resources containing information about mobile clients, a
 
 ## [Development Team Wishlist](Developer-Feature-Wishlist)
 A wishlist of features we'd like help with working on. Feel free to pick one up and join in.
+
 
