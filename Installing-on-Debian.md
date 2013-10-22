@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Installing_on_Debian
-
-----
-
 ### Versions
 
 These instructions are for Debian Lenny 5.0 or Squeeze 6.0, with some notes on Wheezy 7.0.  You will need to make sure that your username is on the sudo authorized list located at '/etc/sudoers'.
