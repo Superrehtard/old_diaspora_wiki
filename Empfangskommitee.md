@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 Die Community ist der Bestandteil des Diaspora Projekts schlechthin, wir können dies zeigen indem wir alle Neuankömmlinge freundlich begrüssen unnd auf ihren #NeuHier posts antworten. Diese Seite soll als Anleitung dienen, wie man am besten einen neuen Benutzer auf Diaspora* begrüsst. 
 
 ## Wie begrüßen wir?
