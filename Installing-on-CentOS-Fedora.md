@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Installing_on_Fedora
-
-----
-
 *This page assumes that you're reasonably capable of installing packages in CentOS/Fedora using Yum and that you've compiled software for linux before.*
 
 This page basically covers how to use the upstream sources to build required software. An alternative way based on rebuilding RPM:s is available at [[RPM installation on Fedora]]
