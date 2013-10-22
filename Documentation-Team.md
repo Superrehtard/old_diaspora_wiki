@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 This space exists as a discussion area for thoughts about improving how our wiki is structured, and improving the heap of information that goes with it. Check back on it frequently; as this exists mostly as a place for brainstorming. Feel free to contribute any suggestions!
 
 
