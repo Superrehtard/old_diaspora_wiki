@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 # Config Notes on SSL, Heroku and S3
 
 So I noticed while testing on Chrome that some of my assets (which I was dutifully uploading into S3) where not being allowed to be loaded and interpreted by Chrome when I switched my pod from not running SSL (and using a "herokuapp.com" FQDN) to running a GoDaddy cert and using my own FQDN (for example: https://foo.domain.com/).
@@ -43,3 +35,4 @@ But that under the weird SSL "rules" (well, Perhaps you share my opinion that th
 and
 `https://foo.domain.s3.amazonaws.com/`
 are most decidedly **Not**.
+
