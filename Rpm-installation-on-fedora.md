@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 # Rpm installation on Fedora
 
 This document describes how to install diaspora on Fedora 13 and 14. It supplements the
@@ -106,4 +98,5 @@ You should look into [[Handling bug 360]]
 From this point, you should proceed from  "Bundler" in [README.md](http://github.com/diaspora/diaspora/blob/master/README.md)
 
 Some notes on using apache instead of the thin webserver are in   [[Using apache]]
+
 
