@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 ## Introduction
 
 For those who just want to use an apache vhost to reverse proxy traffic to thin running on port 3000, I wrote this short tutorial. I am assuming you've already installed diaspora and you have it running on localhost:3000. It is easy to change as appropriate if it is running on another port. I am also assuming that you're basically starting with a default apache2 install.
