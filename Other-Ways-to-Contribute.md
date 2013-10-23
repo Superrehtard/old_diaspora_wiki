@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/Other_Ways_to_Contribute
-
-----
-
 If you don't have coding experience, or just don't know Ruby on Rails, there are other, important ways to contribute to the project.
 
 **Start by signing up -** Check [joindiaspora.com](http://www.joindiaspora.com) for an invite, or join a [[community supported pod|Community supported pods]] and connect with people. Start using the software and get a feel for it.
