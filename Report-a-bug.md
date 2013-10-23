@@ -1,14 +1,5 @@
 # How To Report a Bug
 
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/How_to_Report_a_Bug
-
-----
-
 Thank you for helping us make Diaspora better. :)  
 If you've found an issue with an **existing feature** in Diaspora, you can either 
 
