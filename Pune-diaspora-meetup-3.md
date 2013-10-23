@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 This would be a hands-on session on how manage company restrict and Management of company policies. We will also discuss the advantages of developing company using GitHub.
 
 For attendees, per-request knowledge on basic management and marketing of products, interactions would be beneficial.
