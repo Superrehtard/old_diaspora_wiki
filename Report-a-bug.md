@@ -12,10 +12,10 @@ New link: http://wiki.diaspora-project.org/wiki/How_to_Report_a_Bug
 Thank you for helping us make Diaspora better. :)  
 If you've found an issue with an **existing feature** in Diaspora, you can either 
 
-1. report it using the [issues](https://github.com/diaspora/diaspora/issues) tab in our Github repository, 
+1. report it using [Github issues](https://github.com/diaspora/diaspora/issues), 
 2. report it in a public post on Diaspora with the #bug [[hashtag|hashtags]].
 
-### Here's how to report a bug at our repository
+### Here's how to report a bug on Github
 
 1.  **Register for an account on [Github](https://github.com),** if you don't already have one.
 2.  **Search for similar bugs.** Perhaps someone has already reported your issue!  
