@@ -1,11 +1,3 @@
-----
-
-###403 DO NOT MOVE###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page are not important enough to be ported over because they are either very old, very outdated or wrong and misleading. 
-
-----
-
 "Why should I contribute to Free Software?"
 
 There is one obvious benefit if one believes in Free Software as an idea or they are Free Software users. We will discuss some other benefits which may not be obvious. Some of the points to highlight are,
