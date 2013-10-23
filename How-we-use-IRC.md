@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/IRC
-
-----
-
 If you have questions about anything Diaspora-related, the best way to get an answer 
 quickly is to visit us in IRC. An IRC "channel" is roughly equivalent to a chatroom, or a
 text-based group chat in Skype, or a Campfire room. 
@@ -36,3 +27,4 @@ the IRC channels, so if you can't get your question answered in IRC, you can try
 
 * [Discussion list](http://groups.google.com/group/diaspora-discuss) - Google group for discussion of non-technical topics
 * [Development discussion list](http://groups.google.com/group/diaspora-dev) - Google group for discussion of installation, source code, and other technical topics
+
