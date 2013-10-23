@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/Welcoming_Committee
-
-----
-
 Community is a huge part of the Diaspora project, and we can show this by welcoming all new-comers on any installation by simply saying a friendly welcome to their #NewHere posts.  This document will serve as some guidelines, as set forth by the community, on how best to welcome a new user on Diaspora*.
 
 ## How do we word our welcomes?
