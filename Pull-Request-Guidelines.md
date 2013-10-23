@@ -1,13 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diasporafoundation.org/Pull_Request_Guidelines
-
-----
-
-
 So! You've written an awesome new feature, and you're all ready to make a pull request after working hard on it. Here's some things to keep in mind.
 
 ### 1. Do you follow our Git workflow?
