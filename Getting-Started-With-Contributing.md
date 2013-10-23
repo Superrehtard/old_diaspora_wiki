@@ -1,12 +1,3 @@
-----
-
-###301 MOVED PERMANENTLY###
-
-We're currently **moving this wiki over to our new project site**. The contents of this page have  already been carried over, so _any new changes here will not be reflected in the new wiki_.  
-New link: http://wiki.diaspora-project.org/wiki/Getting_Started_With_Contributing
-
-----
-
 A lot of new contributors that want to dive in to helping fix bugs and develop new awesome things often ask "Well, where do I start?". Below are some links to comprehensive resources so that newcomers can get up to speed and get dive right in to fixing bugs.
 
 ### Getting started with GitHub
